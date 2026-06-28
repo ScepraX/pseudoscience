@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="svg-ball" viewBox="0 0 240 270" aria-hidden="true" focusable="false">
+  <defs>
+	<radialGradient id="orbBody" cx="40%" cy="35%" r="70%">
+	  <stop offset="0%" stop-color="#f1d27c" stop-opacity=".95"></stop>
+	  <stop offset="40%" stop-color="#d4af37" stop-opacity=".45"></stop>
+	  <stop offset="100%" stop-color="#000" stop-opacity=".85"></stop>
+	</radialGradient>
+	<radialGradient id="orbCore" cx="50%" cy="50%" r="50%">
+	  <stop offset="0%" stop-color="#f1d27c" stop-opacity=".9"></stop>
+	  <stop offset="100%" stop-color="#d4af37" stop-opacity="0"></stop>
+	</radialGradient>
+  </defs>
+  <circle class="orb-glass" cx="120" cy="120" r="100" fill="url(#orbBody)" stroke="#d4af37" stroke-width="1.5"></circle>
+  <circle class="orb-core" cx="120" cy="120" r="78" fill="url(#orbCore)"></circle>
+  <ellipse class="orb-shine" cx="90" cy="86" rx="30" ry="20" fill="#ffffff" opacity=".22"></ellipse>
+  <circle cx="120" cy="120" r="100" fill="none" stroke="#f1d27c" stroke-width=".5" opacity=".5"></circle>
+</svg>
