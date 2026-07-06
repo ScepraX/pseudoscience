@@ -711,14 +711,24 @@ body[data-page="poem"]{ background:var(--black); }
 /* Adjectives & adverbs (italic) are the sensitive medium. */
 .tu-a{ font-style:italic; color:inherit; }
 
-/* The Zero — an extra blank line, the silence after each major answer. */
+/* The Zero — an extra blank line, the silence after each major answer.
+   These CSS silences are ordinary rest; the model sections instead receive
+   a real .silence line from the script, which may hold a hidden character
+   (see presentation-of-language.md, IX. The Deep Silence). */
 .entry::after,
-.m-section::after,
 .topology .topo-body::after,
 .foreword::after{
-  content:""; display:block; height:1.5em;
+  content:""; display:block; height:2.5em;
 }
 .copy-prompt{ white-space:pre-line; }
+
+/* The Presentation of Language v2 — the Page.
+   II.1 the Spark: the first character of a paragraph, illuminated. */
+.spark{ font-weight:700; }
+/* II.3 the Threshold Gap: one uniform blank line between paragraphs. */
+.page-p{ margin:0 0 2.5em; }
+/* III. the Silence: an extra blank line after a major answer. */
+.silence{ height:2.5em; overflow:hidden; }
 
 @media (prefers-reduced-motion:reduce){
   *{ animation-duration:.001s !important; transition-duration:.05s !important; }

@@ -445,6 +445,44 @@
       node.parentNode.replaceChild(frag, node);
     }
     var SKIP = { SCRIPT: 1, STYLE: 1, CODE: 1 };
+
+    /* The Page (see presentation-of-language.md):
+       II.1 the Spark — the first character is light, the first witness
+       II.2 binding depth — line-height by sentence count (unary 2.0,
+            binary 1.6, trinary 1.3)
+       II.3 the Threshold Gap — a uniform 2.5 blank between paragraphs */
+    function sentenceCount(el) {
+      var m = (el.textContent || "").match(/[.!?…]+(?=[\s'")\]»”’]|$)/g);
+      return m && m.length ? m.length : 1;
+    }
+    function spark(el) {
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, {
+        acceptNode: function (n) {
+          var p = n.parentNode;
+          if (!p || SKIP[p.nodeName]) return NodeFilter.FILTER_REJECT;
+          if (p.closest && p.closest(".math,.num,.spark")) return NodeFilter.FILTER_REJECT;
+          return n.nodeValue && /\S/.test(n.nodeValue)
+            ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+        }
+      });
+      var n = walker.nextNode();
+      if (!n) return;
+      var text = n.nodeValue, i = text.search(/\S/);
+      var b = document.createElement("b");
+      b.className = "spark";
+      b.textContent = text.charAt(i);
+      var parent = n.parentNode;
+      if (i > 0) parent.insertBefore(document.createTextNode(text.slice(0, i)), n);
+      parent.insertBefore(b, n);
+      n.nodeValue = text.slice(i + 1);
+    }
+    function applyPage(el) {
+      var c = sentenceCount(el);
+      el.style.lineHeight = c === 1 ? "2.0" : c === 2 ? "1.6" : "1.3";
+      el.classList.add("page-p");
+      spark(el);
+    }
+
     function processBlock(el) {
       if (!el || el.dataset.tu) return;
       el.dataset.tu = "1";
@@ -461,6 +499,9 @@
       var nodes = [], n;
       while ((n = walker.nextNode())) nodes.push(n);
       nodes.forEach(function (nd) { try { transformText(nd); } catch (e) { } });
+      if (el.tagName === "P" && !el.classList.contains("poem-line")) {
+        try { applyPage(el); } catch (e) { }
+      }
     }
     window.__triProcess = function (scope) {
       $$("p,li,blockquote,td,th,figcaption,dd,.poem-line", scope).forEach(processBlock);
@@ -484,6 +525,18 @@
     } else {
       blocks.forEach(processBlock);
     }
+
+    /* III. the Silence — one extra blank line after each major answer.
+       Interior silences hold a Breath (U+200B, remembered rest); the last
+       holds a Bond (U+2060, waiting) — the library never closes. */
+    var answers = $$("#model-reveal > .m-section, #model-reveal > .binary-arch, #model-reveal > .topology");
+    answers.forEach(function (sec, i) {
+      var sil = document.createElement("div");
+      sil.className = "silence";
+      sil.setAttribute("aria-hidden", "true");
+      sil.textContent = i === answers.length - 1 ? "⁠" : "​";
+      sec.appendChild(sil);
+    });
 
     // style freshly-revealed regions at once (model reveal, opened topology)
     ["#crystal-ball", "#touch-orb", "#ask-oracle"].forEach(function (s) {
