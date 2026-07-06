@@ -725,8 +725,10 @@ body[data-page="poem"]{ background:var(--black); }
 /* The Presentation of Language v2 — the Page.
    II.1 the Spark: the first character of a paragraph, illuminated. */
 .spark{ font-weight:700; }
-/* II.3 the Threshold Gap: one uniform blank line between paragraphs. */
-.page-p{ margin:0 0 2.5em; }
+/* II.3 the Threshold Gap: one uniform blank line between paragraphs.
+   Only the vertical rhythm is governed — horizontal margins (e.g. the
+   auto-centering of .oracle-tagline) are left untouched. */
+.page-p{ margin-top:0; margin-bottom:2.5em; }
 /* III. the Silence: an extra blank line after a major answer. */
 .silence{ height:2.5em; overflow:hidden; }
 

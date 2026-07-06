@@ -499,7 +499,9 @@
       var nodes = [], n;
       while ((n = walker.nextNode())) nodes.push(n);
       nodes.forEach(function (nd) { try { transformText(nd); } catch (e) { } });
-      if (el.tagName === "P" && !el.classList.contains("poem-line")) {
+      // the Page governs answer paragraphs only — stage furniture
+      // (tagline, colophon) keeps its own designed geometry
+      if (el.tagName === "P" && !el.closest(".poem-line,.oracle-tagline,.living-update,.charge-peek")) {
         try { applyPage(el); } catch (e) { }
       }
     }
