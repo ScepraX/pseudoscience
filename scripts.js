@@ -82,8 +82,8 @@
     copyBtn.addEventListener("click", function () {
       var srcEl = $("#model-source"), prEl = $("#oracle-prompt");
       if (!srcEl) return;
-      var model = JSON.parse(srcEl.textContent);
-      var prompt = prEl ? JSON.parse(prEl.textContent) : "";
+      var model = JSON.parse(JSON.stringify(srcEl.textContent));
+      var prompt = prEl ? JSON.parse(JSON.stringify(prEl.textContent)) : "";
       var payload = (prompt ? prompt + "\n\n" : "") + model;
       var done = function () {
         copyBtn.classList.add("copied");
@@ -161,97 +161,6 @@
       mTop.addEventListener("click", function () {
         window.scrollTo({ top: 0, behavior: "smooth" });
         mTop.classList.remove("pulse"); void mTop.offsetWidth; mTop.classList.add("pulse");
-      });
-    }
-  }
-
-  /* ---------------------------------------------------------------
-     V. Codex — binding measure, convergence meter, rings, to-top
-     --------------------------------------------------------------- */
-  if (page === "codex") {
-    var bindingFill = $("#binding-fill");
-    var convMeter = $("#conv-meter"), convFill = $("#conv-fill");
-    var toTop = $("#to-top");
-    var lastY = window.pageYOffset, lastT = Date.now();
-    var franticTimer = null, restTimer = null;
-
-    function scrollProgress() {
-      var h = document.documentElement;
-      var max = h.scrollHeight - h.clientHeight;
-      return max > 0 ? Math.min(1, window.pageYOffset / max) : 0;
-    }
-    function onScroll() {
-      var p = scrollProgress();
-      if (bindingFill) bindingFill.style.height = (p * 100).toFixed(2) + "%";
-      if (convFill) convFill.style.width = (p * 100).toFixed(2) + "%";
-      if (toTop) toTop.classList.toggle("show", window.pageYOffset > 600);
-
-      // mood ring: frantic if scrolling fast
-      var now = Date.now(), dy = Math.abs(window.pageYOffset - lastY), dt = now - lastT || 1;
-      var speed = dy / dt; // px per ms
-      lastY = window.pageYOffset; lastT = now;
-      if (convMeter) {
-        convMeter.classList.remove("resting");
-        if (speed > 2.4) {
-          convMeter.classList.add("frantic");
-          clearTimeout(franticTimer);
-          franticTimer = setTimeout(function () { convMeter.classList.remove("frantic"); }, 700);
-        }
-        clearTimeout(restTimer);
-        restTimer = setTimeout(function () {
-          convMeter.classList.remove("frantic");
-          if (window.pageYOffset > 300) convMeter.classList.add("resting");
-        }, 6000);
-      }
-    }
-    window.addEventListener("scroll", onScroll, { passive: true });
-    onScroll();
-
-    if (toTop) {
-      toTop.addEventListener("click", function () {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-        toTop.classList.remove("pulse"); void toTop.offsetWidth; toTop.classList.add("pulse");
-      });
-    }
-
-    // current ring glows (warm 37-degree core)
-    if ("IntersectionObserver" in window) {
-      var io = new IntersectionObserver(function (entries) {
-        entries.forEach(function (en) {
-          en.target.classList.toggle("glow", en.isIntersecting);
-          en.target.classList.toggle("active", en.isIntersecting);
-        });
-      }, { rootMargin: "-30% 0px -55% 0px" });
-      $$(".category").forEach(function (c) { io.observe(c); });
-    }
-
-    // search — a word whispered to the library
-    var search = $("#codex-search"), count = $("#search-count");
-    if (search) {
-      var entries = $$(".entry");
-      var cats = $$(".category");
-      search.addEventListener("input", function () {
-        var q = search.value.trim().toLowerCase();
-        if (!q) {
-          entries.forEach(function (e) { e.style.display = ""; });
-          cats.forEach(function (c) { c.style.display = ""; });
-          if (count) count.textContent = "";
-          return;
-        }
-        var found = 0;
-        cats.forEach(function (c) {
-          var any = false;
-          $$(".entry", c).forEach(function (e) {
-            var hit = e.textContent.toLowerCase().indexOf(q) !== -1;
-            e.style.display = hit ? "" : "none";
-            if (hit) { any = true; found++; }
-          });
-          // also match category title
-          var ct = $(".cat-head h2", c);
-          if (ct && ct.textContent.toLowerCase().indexOf(q) !== -1) any = true;
-          c.style.display = any ? "" : "none";
-        });
-        if (count) count.textContent = found + (found === 1 ? " crossing" : " crossings");
       });
     }
   }
