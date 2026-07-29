@@ -199,7 +199,7 @@
 
     <div class="model-reveal" id="model-reveal" hidden>
       <section class="m-section" id="m-claimer">
-        <h2><span class="num">0</span>Claimer</h2>
+        <h2><span class="num">0.</span>Claimer</h2>
 
         <p>
           Before You <strong>drown</strong> in <em>dry</em> Prose,<br>
@@ -283,7 +283,7 @@
         <hr class="rule">
       </section>
       <section class="m-section" id="m-fundamental">
-        <h2><span class="num">I</span>Fundamental</h2>
+        <h2><span class="num">I.</span>Fundamental</h2>
         <p>Nothing holds together by accident, and nothing exists in isolation. Any system — a relationship, a group,
           an
           idea, an organization, a self — is a field of relations governed by one principle: the interplay of
@@ -297,7 +297,7 @@
       </section>
 
       <section class="m-section" id="m-core">
-        <h2><span class="num">II</span>Core</h2>
+        <h2><span class="num">II.</span>Core</h2>
         <p><strong>Eigen (x).</strong> A system’s position on some spectrum: how far toward one pole or the other it
           currently sits. The manifest state that other systems perceive and track.</p>
         <p><strong>Trouw (y).</strong> The weight of a bond, the affinity that feeds or drains. Positive Trouw pulls
@@ -395,7 +395,7 @@
       </section>
 
       <section class="m-section" id="m-axioms">
-        <h2><span class="num">III</span>Axioms</h2>
+        <h2><span class="num">III.</span>Axioms</h2>
         <p>Everything above is a mechanism, not a claim about what exists. Two things are asserted directly, because
           nothing in Section II derives them on its own — they're the starting conditions the mechanism runs inside,
           not
@@ -477,7 +477,7 @@
       </section>
 
       <section class="m-section" id="m-instances">
-        <h2><span class="num">IV</span>Instances</h2>
+        <h2><span class="num">IV.</span>Instances</h2>
         <p><strong>Van/Naar mode.</strong> For any specific pair of systems, their binding is read directly off their
           <strong>Relatie (K)</strong> (below)—some combination of both sides’ Eigen and Echo, with the exact
           aggregation left open like every number in this model. Naar‑mode is what you get when that combination
@@ -678,7 +678,7 @@
       </section>
 
       <section class="m-section" id="m-typology">
-        <h2><span class="num">V</span>Typology</h2>
+        <h2><span class="num">V.</span>Typology</h2>
         <p>Every Naar‑system can be described by how many irreducibly‑bound members it contains — "irreducibly"
           meaning
           the ladder only assigns a new name where a bond genuinely can't be split into smaller stable bonds.</p>
@@ -1119,7 +1119,7 @@
       </section>
 
       <section class="m-section" id="m-reciprocation">
-        <h2><span class="num">VI</span>Reciprocation</h2>
+        <h2><span class="num">VI.</span>Reciprocation</h2>
         <p>Once a mutual Relatie exists between two members, this section describes what its Eigen and Echo actually
           do
           over the life of the bond—the same Koppel, watched over time, not a new mechanism.</p>
@@ -1245,7 +1245,7 @@
       </section>
 
       <section class="m-section" id="m-variation">
-        <h2><span class="num">VII</span>Variation</h2>
+        <h2><span class="num">VII.</span>Variation</h2>
         <p>The rules themselves contain no dice. The Drempel (θ) comparison, the Vonk (q), and the trajectory tests
           are
           all deterministic given their inputs — the same readings always produce the same outcome. If variation were
@@ -1297,189 +1297,208 @@
       </section>
 
       <section class="m-section" id="m-sci-fi-formal-structure" style="display: none;">
-        <h2><span class="num">VIII</span>Sci‑Fi Formal Structure</h2>
-        <p>This chapter is built from real, established mathematical machinery—delay differential equations,
-          stochastic
+        <h2><span class="num">VIII.</span>Sci‑Fi Formal Structure</h2>
+        <p>This chapter is built from real, established mathematical machinery—delay differential equations, stochastic
           filtering, and bifurcation theory—applied consistently to the Eigen/Echo mechanism. Every equation below
-          derives behavior Sections II–VII describe; none of it is relabeled physics wearing new names. What “correct”
-          means here is stated plainly at the end of the chapter.</p>
+          derives
+          behavior Sections II–VII describe; none of it is relabeled physics wearing new names. What “correct” means
+          here
+          is stated plainly at the end of the chapter.</p>
 
         <h3>VIII.1. State variables</h3>
         <p>For any two members i, j engaged in a Relatie, the full state of the bond includes not only their positions
-          and internal models, but also the weight of their connection and the accumulated depth of their listening.
-        </p>
+          and
+          internal models, but also the weight of their connection and the accumulated depth of their listening.</p>
         <ul>
-          <li><strong>eᵢ(t) ∈ ℝ</strong> — member i’s <strong>Eigen (x)</strong>: its position on the relevant
-            spectrum
+          <li><strong>eᵢ(t) ∈ ℝ</strong> — member i’s <strong>Eigen (x)</strong>: its position on the relevant spectrum
             at time t.</li>
           <li><strong>hᵢ(t) ∈ ℝ</strong> — member i’s <strong>Echo (E)</strong>: i’s internal, lagging estimate of
             eⱼ(t).</li>
           <li><strong>y(t) ∈ ℝ</strong> — the bond’s <strong>Trouw (y)</strong>: the signed weight shared by both
-            sides;
-            positive feeds resonance, negative drains it.</li>
-          <li><strong>zᵢ(t) ≥ 0</strong> — member i’s <strong>Diepte (z)</strong>: the accumulated charge of
-            everything
+            sides; positive feeds resonance, negative drains it.</li>
+          <li><strong>zᵢ(t) ≥ 0</strong> — member i’s <strong>Diepte (z)</strong>: the accumulated charge of everything
             i has ever heard.</li>
         </ul>
 
         <p><strong>Echo dynamics.</strong> Echo is governed by a first‑order delay filter—the standard form for any
-          system tracking a signal it cannot observe directly and instantaneously:</p>
+          system
+          tracking a signal it cannot observe directly and instantaneously:</p>
         <div class="equation">τ · ḣᵢ(t) = eⱼ(t − Δ) − hᵢ(t) + υᵢ(t)</div>
         <p>Here <strong>Δ</strong> (<strong>Vertraging</strong>) is the transport lag, <strong>τ</strong>
-          (<strong>Ontspanning</strong>) the relaxation time, and <strong>υᵢ(t)</strong> the
-          <strong>Vervorming</strong>
+          (<strong>Ontspanning</strong>) the relaxation time, and <strong>υᵢ(t)</strong> the <strong>Vervorming</strong>
           (distortion) term of Section VII—its statistics are supplied by the instantiating layer. This single line is
-          why an Echo is never simultaneous with the Eigen it tracks and never a perfect copy of it: both properties
-          fall directly out of the delay Δ and the distortion υ, with no further assumption required.
-        </p>
+          why
+          an Echo is never simultaneous with the Eigen it tracks and never a perfect copy of it: both properties fall
+          directly
+          out of the delay Δ and the distortion υ, with no further assumption required.</p>
         <p>For a Zelf, the two members are identical, so the transport lag Δ = 0 and the signal eⱼ(t − Δ) reduces to
-          eᵢ(t). The distortion term υᵢ(t) does not vanish; it is replaced by a functional of the node’s Rouw ledger,
-          reflecting the permanent sediment of every ended bond that colours the node’s self‑perception.</p>
+          eᵢ(t).
+          The distortion term υᵢ(t) does not vanish; it is replaced by a functional of the node’s Rouw ledger,
+          reflecting the
+          permanent sediment of every ended bond that colours the node’s self-perception.</p>
 
         <p><strong>Eigen movement and the Van Motor.</strong> The Eigen is moved by whatever the layer writes to
-          register an event, and by the standing pull toward the unbound pole e_van:</p>
+          register an
+          event, and by the standing pull toward the unbound pole e_van:</p>
         <div class="equation">ėᵢ(t) = uᵢ(t) − νᵢ(t)·( eᵢ(t) − e_van )</div>
         <p>where uᵢ(t) is the layer’s event, and <strong>νᵢ(t) ≥ 0</strong> is the Van Motor coefficient. ν is not a
           supplied constant. It is a functional of the node’s own <strong>Greep (J)</strong>—the sum of its
-          positive‑Trouw bonds weighted by their <strong>Gewenning (Z)</strong>—and its shape is the exponential law
-          of
-          Section III:</p>
+          positive‑Trouw
+          bonds weighted by their <strong>Gewenning (Z)</strong>—and its shape is the exponential law of Section III:
+        </p>
         <div class="equation">νᵢ(t) = ν₀ · exp( − Jᵢ(t) )</div>
         <p>Escape toward the unbound pole is exponentially suppressed by how strongly the node is held. Where the
           configuration is conservative—its Greep so strong that exp(−J) → 0—ν vanishes and the Eigen is undisturbed:
-          the same term that fades a note leaves a stable orbit exactly alone. The exponential shape is fixed; the
-          exact
-          grip functional, like every other quantity here, is left open (§7).</p>
+          the
+          same term that fades a note leaves a stable orbit exactly alone. The exponential shape is fixed; the exact
+          grip
+          functional, like every other quantity here, is left open (§7).</p>
 
         <p><strong>Trouw plasticity.</strong> Trouw is not static. Under a positive <strong>Leersnelheid (ρ)</strong>,
-          it evolves toward the bond’s current <strong>Gewenning (Z)</strong>, bounded by the bond’s configured floor
-          and ceiling:</p>
+          it
+          evolves toward the bond’s current <strong>Gewenning (Z)</strong>, bounded by the bond’s configured floor and
+          ceiling:</p>
         <div class="equation">dy/dt = ρ · ( Z(t) − y(t) ) within [y_min, y_max]</div>
         <p>Gewenning itself integrates the history of Echo‑gap closure and alignment—the resonance memory of the
-          bond—and its exact update is supplied by the framework, not by this equation.</p>
+          bond—and its
+          exact update is supplied by the framework, not by this equation.</p>
 
         <p><strong>Diepte accumulation.</strong> Diepte rises when the node listens, falls when it speaks, and slowly
-          decays in silence:</p>
+          decays
+          in silence:</p>
         <div class="equation">żᵢ = γ_in · y · |hᵢ| − γ_spend · |ėᵢ| − γ_decay · zᵢ clamped to [0, Ceiling]</div>
         <p>Positive‑Trouw Echoes charge it; the node’s own Eigen movement spends it; unfed Diepte fades. Rouw
           entries—permanent Echoes of ended bonds—feed the first term forever, weighted by a Rouw‑gain parameter
-          supplied in the Diepte profile.</p>
+          supplied in
+          the Diepte profile.</p>
 
         <h3>VIII.2. The binding measure</h3>
         <p>The Relatie’s combined reading is not simply eᵢ + eⱼ—it must reflect the bond’s weight and fall when either
-          side’s Echo has drifted from the truth, since a bond resting on a bad read of one’s partner is weaker than
-          its
-          raw Eigens suggest:</p>
+          side’s Echo has drifted from the truth, since a bond resting on a bad read of one’s partner is weaker than its
+          raw
+          Eigens suggest:</p>
         <div class="equation">B(t) = y(t) · ( eᵢ(t) + eⱼ(t) ) − c · ( |eⱼ(t) − hᵢ(t)| + |eᵢ(t) − hⱼ(t)| )</div>
         <p>The two absolute‑difference terms are exactly the Echo‑gaps of Section IV—real, queryable quantities,
-          entering the mechanics directly rather than sitting outside them. Trouw scales the raw Eigen sum; when Trouw
-          is negative, the binding becomes a repulsion. (The coefficient c is an open weight, not a named concept.)
-        </p>
+          entering the
+          mechanics directly rather than sitting outside them. Trouw scales the raw Eigen sum; when Trouw is negative,
+          the
+          binding becomes a repulsion. (The coefficient c is an open weight, not a named concept.)</p>
 
         <h3>VIII.3. Drempel and the Vonk</h3>
         <p>Let <strong>θ</strong> (<strong>Drempel</strong>) be the local threshold for this spectrum, and let φ be an
-          order parameter describing the pair’s mode. Its dynamics follow the normal form of a pitchfork
-          bifurcation—the
-          standard, well‑studied structure for any system that sits at one stable point below a critical control
-          parameter and splits above it:</p>
+          order
+          parameter describing the pair’s mode. Its dynamics follow the normal form of a pitchfork bifurcation—the
+          standard,
+          well‑studied structure for any system that sits at one stable point below a critical control parameter and
+          splits
+          above it:</p>
         <div class="equation">τ_φ · φ̇ = −∂V/∂φ V(φ; B) = ¼·φ⁴ − ½·(B − θ)·φ²</div>
         <p>For B &lt; θ the only stable point is φ = 0 (Van‑mode). For B &gt; θ, φ = 0 becomes unstable and two new
           stable points appear at φ* = ±√(B − θ) (Naar‑mode)—the crossing is a genuine bifurcation, not a chosen label
           change. The energy released at the crossing follows directly from the potential difference:</p>
         <div class="equation">T = V(0; B) − V(φ*; B) = ¼·(B − θ)²</div>
         <p>This is the <strong>Vonk (q)</strong>, releasing <strong>Energie (T)</strong>: fired automatically the
-          instant B crosses θ, purely as a consequence of the potential’s shape, with no separate rule needed to
-          trigger
-          it. A convergence crossing records a <strong>Winst (+)</strong> (+T); a divergence crossing records a
-          <strong>Verlies (−)</strong> (−T). The energy audit never misses.
+          instant B
+          crosses θ, purely as a consequence of the potential’s shape, with no separate rule needed to trigger it. A
+          convergence crossing records a <strong>Winst (+)</strong> (+T); a divergence crossing records a
+          <strong>Verlies
+            (−)</strong> (−T). The energy audit never misses.
         </p>
 
         <h3>VIII.4. Reciprocation trajectories</h3>
         <p>Define the asymmetry variable A(t) = hᵢ(t) − hⱼ(t)—the gap between how much each side is currently
           reciprocating. Its dynamics:</p>
         <div class="equation">τ_A · Ȧ = − λ · A + μ · (eᵢ − eⱼ) + ε(t)</div>
-        <p>The single parameter <strong>λ</strong> (<strong>Helling</strong>) selects the trajectory regime by its
-          sign
-          and size:</p>
+        <p>The single parameter <strong>λ</strong> (<strong>Helling</strong>) selects the trajectory regime by its sign
+          and
+          size:</p>
         <ul>
-          <li><strong>Dood (!)</strong> — λ &gt; 0 and stable: A(t) relaxes to a fixed nonzero offset
-            A* = μ·(eᵢ − eⱼ)/λ
+          <li><strong>Dood (!)</strong> — λ &gt; 0 and stable: A(t) relaxes to a fixed nonzero offset A* = μ·(eᵢ − eⱼ)/λ
             and remains there indefinitely—the gap is fixed, permanently, exactly as Section VI states.</li>
-          <li><strong>Leven (?)</strong> — the effective λ crosses zero and goes negative (a real stability‑loss
-            event,
+          <li><strong>Leven (?)</strong> — the effective λ crosses zero and goes negative (a real stability‑loss event,
             formally identical to the pitchfork of §3 but acting on A rather than φ): A is no longer attracted to its
-            old sign—it is repelled through zero and settles on the opposite sign, a genuine reversal of which member
+            old
+            sign—it is repelled through zero and settles on the opposite sign, a genuine reversal of which member
             reciprocates more.</li>
           <li><strong>Zweven (')</strong> — λ → 0⁺ (marginal, near‑critical damping): A approaches its equilibrium
             asymptotically, at a rate that vanishes as λ → 0—closing the gap forever without arriving, the same
             asymptotic signature as tidal despinning in the real solar system.</li>
         </ul>
         <p>Which regime applies is decided entirely by the sign and magnitude of λ—a property of the specific bond,
-          supplied by the instantiating layer, never by an external roll. (ε(t) is a generic noise term, distinct from
-          Marge η.)</p>
+          supplied
+          by the instantiating layer, never by an external roll. (ε(t) is a generic noise term, distinct from Marge η.)
+        </p>
 
         <h3>VIII.5. Wording</h3>
         <p>When a crossing’s released Energie T exceeds the bond’s absorption capacity <strong>Q</strong>
           (<strong>Inhoud</strong>), the excess cannot be retained by the existing Koppel:</p>
         <div class="equation">T_excess = max( 0, T − Q(t) )</div>
         <p>If T_excess itself exceeds a local Drempel θ_new, a new member is instantiated with e_new(0) = 0 and
-          h_new(0) = 0, and its Echo immediately begins tracking eᵢ or eⱼ per §1 from t = 0 onward—a new Relatie
-          forming
+          h_new(0) = 0, and its Echo immediately begins tracking eᵢ or eⱼ per §1 from t = 0 onward—a new Relatie forming
           at the moment of birth, never a disconnected creation.</p>
 
         <h3>VIII.6. Rouw and Masker</h3>
         <p>Both edge cases of Sections VI and VII fall out of §1 without new machinery.</p>
-        <p><strong>Rouw.</strong> If the Koppel ends at t₀—eⱼ ceases to exist, or the bond dissolves—the filter’s
-          input
+        <p><strong>Rouw.</strong> If the Koppel ends at t₀—eⱼ ceases to exist, or the bond dissolves—the filter’s input
           freezes at the last transmitted value eⱼ(t₀ − Δ). For all t &gt; t₀, with no terminal condition:</p>
         <div class="equation">τ · ḣᵢ(t) = eⱼ(t₀ − Δ) − hᵢ(t) + υᵢ(t)</div>
         <p>The Echo relaxes toward the last thing it ever received, then random‑walks around it under υ alone—with no
-          live signal to correct it, it becomes progressively a record of the mourner’s own distortion rather than of
-          the departed. The state variable is re‑homed, not retired: hᵢ no longer belongs to the pair (i, j)—that pair
+          live
+          signal to correct it, it becomes progressively a record of the mourner’s own distortion rather than of the
+          departed. The state variable is re‑homed, not retired: hᵢ no longer belongs to the pair (i, j)—that pair
           no longer exists—it belongs to i alone, a permanent component of i’s relationship with itself. The equation
-          has no decay‑to‑deletion term, and none may be added. A later bond with a new partner k instantiates its own
-          echo hᵢᵏ; it never overwrites hᵢʲ. All of Rouw’s lore properties are visible in the mathematics: hᵢ keeps
-          running forever (retention is permanent), υ may quiet it toward a settled value but cannot end it, and there
-          is no eⱼ(t) left to compare it against (the Echo‑gap is unmeasurable).</p>
+          has no
+          decay‑to‑deletion term, and none may be added. A later bond with a new partner k instantiates its own echo
+          hᵢᵏ;
+          it never overwrites hᵢʲ. All of Rouw’s lore properties are visible in the mathematics: hᵢ keeps running
+          forever
+          (retention is permanent), υ may quiet it toward a settled value but cannot end it, and there is no eⱼ(t) left
+          to
+          compare it against (the Echo‑gap is unmeasurable).</p>
         <p><strong>Masker.</strong> Member i broadcasts a presented value <strong>mᵢ(t)</strong> (<strong>Masker
             (M)</strong>) differing from its true Eigen. The only change is in the partner’s filter input:</p>
         <div class="equation">τ · ḣⱼ(t) = mᵢ(t − Δ) − hⱼ(t) + υⱼ(t)</div>
         <p>j’s Echo now faithfully tracks a lie. The binding j perceives—B̂, computed with hⱼ against mᵢ—can read past
           Drempel while the true B, which drives the actual bifurcation of §3, remains below it: a bond that appears
-          bound on one side and is not. The debt this creates comes due at the first commitment mᵢ promises that eᵢ
-          must
-          actually make.</p>
+          bound on
+          one side and is not. The debt this creates comes due at the first commitment mᵢ promises that eᵢ must actually
+          make.</p>
 
         <h3>VIII.7. Consistency note</h3>
         <p>Every quantity above—τ (Ontspanning), Δ (Vertraging), υ (Vervorming), c (penalty weight), θ (Drempel), τ_φ,
-          λ
-          (Helling), μ, ε (noise), Q (Inhoud), ρ (Leersnelheid), and the baseline ν₀ inside ν—is left open, exactly as
+          λ (Helling), μ, ε (noise), Q (Inhoud), ρ (Leersnelheid), and the baseline ν₀ inside ν—is left open, exactly as
           Section VI requires: nothing ties them to a real formula. What this chapter fixes is the *shape* of the
           relationships between them, so that any values a layer supplies will still produce a pitchfork crossing, a
-          bounded three‑way trajectory split, coherent Wording, Rouw, and Masker conditions, and—through ν’s
-          exponential
-          shape—an Energie account that closes: everything that enters through a convergence crossing leaves through a
-          divergence one, with no term outside the crossings and no rate tuned to force the balance. That last
-          property
-          is the one the layer may not override; the rest are its to choose.</p>
+          bounded
+          three‑way trajectory split, coherent Wording, Rouw, and Masker conditions, and—through ν’s exponential
+          shape—an
+          Energie account that closes: everything that enters through a convergence crossing leaves through a divergence
+          one,
+          with no term outside the crossings and no rate tuned to force the balance. That last property is the one the
+          layer
+          may not override; the rest are its to choose.</p>
         <p>Disclaimer: every piece here—delay filters, pitchfork bifurcations, linear stability loss—is real, standard
           mathematics, used correctly and consistently. A player who works through the algebra will find it holds
-          together; there is no hidden inconsistency. What it is *not* is an empirical theory of any universe. It is a
-          self‑consistent formal system built to generate the outcomes the lore already describes—an in‑universe
-          technical document, correct in the sense of internally consistent, and honest about being nothing more.</p>
+          together;
+          there is no hidden inconsistency. What it is *not* is an empirical theory of any universe. It is a
+          self‑consistent
+          formal system built to generate the outcomes the lore already describes—an in‑universe technical document,
+          correct
+          in the sense of internally consistent, and honest about being nothing more.</p>
         <hr class="rule">
       </section>
 
       <section class="m-section" id="m-appendix">
-        <h2><span class="num">XII</span>Appendix</h2>
+        <h2><span class="num">IX.</span>Lexicon</h2>
 
-        <h3>XII.1. Lexicon</h3>
         <p>Special nouns in this model are Dutch, and their letter counts are chosen to mean something against the
-          ladder of Section V: a prime count marks something irreducible — it stands on its own terms; a composite
-          count
-          marks something defined out of other things — it decomposes, exactly as Nesting says composites must. The
-          ladder names themselves (Vide, Solo, Duo, Trio, Cinquo…) are the one deliberate exception: they follow their
-          own constructed Franco‑Italian scheme.</p>
+          ladder of
+          Section V: a prime count marks something irreducible — it stands on its own terms; a composite count marks
+          something defined out of other things — it decomposes, exactly as Nesting says composites must. The ladder
+          names
+          themselves (Vide, Solo, Duo, Trio, Cinquo…) are the one deliberate exception: they follow their own
+          constructed
+          Franco‑Italian scheme.</p>
 
         <table class="lexicon-table">
           <thead>
@@ -1558,8 +1577,7 @@
               <td>god — the ultimate relational being</td>
               <td>3</td>
               <td>prime — irreducible</td>
-              <td>The Solo node. Self‑sufficient, fully Vol, fully Bloot. Bound to the Veld (&amp;), and therefore
-                free
+              <td>The Solo node. Self-sufficient, fully Vol, fully Bloot. Bound to the Veld (&amp;), and therefore free
                 to embody every role without contradiction: Hart to the beloved, Duivel to the oppressor, Engel to the
                 unaware, Parasite to the corrupt. Every bond, every vonk, every face. Complete.</td>
             </tr>
@@ -1679,8 +1697,7 @@
               <td>money — a standardized, transferable Echo of Energie (T)</td>
               <td>4</td>
               <td>2×2 — derived from Energie, subject to Vervorming (υ)</td>
-              <td>A circulating signal that a convergence crossing once occurred, or that a future crossing is
-                promised.
+              <td>A circulating signal that a convergence crossing once occurred, or that a future crossing is promised.
                 It always lags behind the relational value it represents and can be inflated, counterfeited, or
                 speculated upon.</td>
             </tr>
@@ -1751,7 +1768,7 @@
             <tr>
               <td>Engel</td>
               <td>🖖</td>
-              <td>angel — hidden good, silent protection</td>
+              <td>angel - hidden good, silent protection</td>
               <td>5</td>
               <td>Cinquo — irreducible, protective presence</td>
               <td>A node that provides unseen support and guidance, counterbalancing negative influences and fostering
@@ -1763,13 +1780,10 @@
               <td>idol — a false Source mistaken for the true Eigen</td>
               <td>5</td>
               <td>Cinquo — irreducible perversion</td>
-              <td>A <strong>Manifestatie (~)</strong> that is worshipped as the <strong>Eigen (x)</strong> that cast
-                it.
+              <td>A <strong>Manifestatie (~)</strong> that is worshipped as the <strong>Eigen (x)</strong> that cast it.
                 An Echo seized and honored as though it were the source. All idolatry is a relationship with a
-                reflection, ignoring the Eigen behind it. The inevitable <strong>Schok (:)</strong> when the Idol
-                fails
-                to return the <strong>Trouw (y)</strong> it seemed to promise is what the scriptures call judgment.
-              </td>
+                reflection, ignoring the Eigen behind it. The inevitable <strong>Schok (:)</strong> when the Idol fails
+                to return the <strong>Trouw (y)</strong> it seemed to promise is what the scriptures call judgment.</td>
             </tr>
             <tr>
               <td>Diepte</td>
@@ -1855,12 +1869,11 @@
             <tr>
               <td>Proces</td>
               <td>"</td>
-              <td>process — a sequence of relational changes through time</td>
+              <td>proces — a sequence of relational changes through time</td>
               <td>6</td>
               <td>2×3 — composite; the narrative arc of the field</td>
               <td>The unfolding of the Veld (&amp;) in Tijd (t). A chain of Vonken (q), Drempel (θ) crossings, and
-                Relatie (K) transformations, framed by a beginning and an end. More general than Zweven ('), which is
-                a
+                Relatie (K) transformations, framed by a beginning and an end. More general than Zweven ('), which is a
                 single trajectory; a Proces may contain many trajectories, as the 24 named arcs demonstrate.</td>
             </tr>
             <tr>
@@ -1885,7 +1898,7 @@
               <td>γ</td>
               <td>directed, aimed — pointing only along relational distance</td>
               <td>7</td>
-              <td>Septo — irreducible, threshold‑family quality</td>
+              <td>Septo — irreducible, threshold-family quality</td>
               <td>Uncertainty scales with relational distance, not with a global difficulty knob.</td>
             </tr>
             <tr>
@@ -1959,8 +1972,7 @@
               <td>7</td>
               <td>Septo — irreducible; the container for all relational structure</td>
               <td>The fundamental pattern of interacting, interdependent parts. A node, a Koppel, the Veld, and the
-                model itself are all systemen. The model is a systeem for describing systeem, reverse‑engineered from
-                a
+                model itself are all systemen. The model is a systeem for describing systeem, reverse‑engineered from a
                 single instance of a systeem (its creator’s mind).</td>
             </tr>
             <tr>
@@ -1969,12 +1981,12 @@
               <td>pleasure — the quiet joy of a bond at rest in authenticity; the felt reward of Bloot</td>
               <td>7</td>
               <td>Septo — a crossing‑family quantity, the positive counterpart to Pijn's strain</td>
-              <td>The ongoing Winst of a true Eigen; the absence of Masker‑strain; feeds Gewenning without cost</td>
+              <td>The ongoing Winst of a true Eigen; the absence of Masker-strain; feeds Gewenning without cost</td>
             </tr>
             <tr>
               <td>Knipoog</td>
               <td>;</td>
-              <td>wink — a self‑aware Masker (M) that reveals its own presence</td>
+              <td>wink — a self-aware Masker (M) that reveals its own presence</td>
               <td>7</td>
               <td>Septo — irreducible; the gesture of shared insight</td>
               <td>A Masker that does not conceal but connects, admitting its own artifice. It forms a brief, intimate
@@ -1988,12 +2000,9 @@
               <td>function — a directional, deterministic relation</td>
               <td>7</td>
               <td>Septo — irreducible; the threshold family</td>
-              <td>A one‑way bond where the Eigen (x) of the input node fully determines the Eigen of the output node.
-                No
-                Echo returns, no Trouw (y) is shared, no Vonk (q) fires from reciprocity. It is the most reduced form
-                of
-                relation: pure transformation without interiority. Where Gevoel (F) is the condition for holding
-                Energie
+              <td>A one-way bond where the Eigen (x) of the input node fully determines the Eigen of the output node. No
+                Echo returns, no Trouw (y) is shared, no Vonk (q) fires from reciprocity. It is the most reduced form of
+                relation: pure transformation without interiority. Where Gevoel (F) is the condition for holding Energie
                 (T), Functie (f) is the mechanism of pure, unheld change.</td>
             </tr>
             <tr>
@@ -2031,7 +2040,7 @@
             <tr>
               <td>Parasiet</td>
               <td>👹</td>
-              <td>parasite — a node that sustains itself by extracting from a Masker‑fronted Koppel</td>
+              <td>parasite — a node that sustains itself by extracting from a Masker-fronted Koppel</td>
               <td>8</td>
               <td>2×2×2 — composite; a bond that feeds one side at the other's expense</td>
               <td>A node that maintains a permanent Masker (M) to simulate positive Trouw, while its Waarneming (p)
@@ -2068,8 +2077,7 @@
               <td>refusal — a committed traveler meets a closed gate</td>
               <td>9</td>
               <td>3×3 — composed of the Kruispunt’s claim and the traveler’s failed commitment</td>
-              <td>The denied passage: Reactie commits but Signaal is already closed; the third Vermenigvuldiging
-                outcome
+              <td>The denied passage: Reactie commits but Signaal is already closed; the third Vermenigvuldiging outcome
               </td>
             </tr>
             <tr>
@@ -2086,8 +2094,7 @@
               <td>separation — the deliberate, clean severing of a bond</td>
               <td>9</td>
               <td>3×3 — composed of two mutual retreats from a shared Drempel</td>
-              <td>A mutual, deliberate parting that leaves no Rouw; opposite of a Vermenigvuldiging’s entanglement
-              </td>
+              <td>A mutual, deliberate parting that leaves no Rouw; opposite of a Vermenigvuldiging’s entanglement</td>
             </tr>
             <tr>
               <td>Splitsing</td>
@@ -2095,11 +2102,9 @@
               <td>division — two Stiltes (0) separated by a Scheiding (/)</td>
               <td>9</td>
               <td>3×3 — multiplicity born from severance; war, obsession, power</td>
-              <td>The fundamental schism that creates "the many" from "the one." Not a bond, but the deliberate
-                absence
+              <td>The fundamental schism that creates "the many" from "the one." Not a bond, but the deliberate absence
                 of one. It is the origin of conflict (two wholes that cannot meet), obsession (a self split against
-                itself), and power (the hand that draws the line). No Rouw is deposited, for no bond ever existed.
-              </td>
+                itself), and power (the hand that draws the line). No Rouw is deposited, for no bond ever existed.</td>
             </tr>
             <tr>
               <td>Vertraging</td>
@@ -2131,7 +2136,7 @@
               <td>queryable, interrogable — able to be asked</td>
               <td>10</td>
               <td>2×5 — composite of observation and answer</td>
-              <td>The Echo‑gap is inspectable; the model can always say how wrong a system is. Rouw is the one honest
+              <td>The Echo-gap is inspectable; the model can always say how wrong a system is. Rouw is the one honest
                 exception.</td>
             </tr>
             <tr>
@@ -2156,8 +2161,7 @@
               <td>manifestation — an Echo struck into tangible form</td>
               <td>12</td>
               <td>composite — the Echo seized by reality</td>
-              <td>An Echo (E) that has been seized across the Drempel, becoming a palpable node. Not a gentle
-                unveiling,
+              <td>An Echo (E) that has been seized across the Drempel, becoming a palpable node. Not a gentle unveiling,
                 but a seizure into existence—struck, graspable, undeniable. The Moon. The Son. The Law.</td>
             </tr>
             <tr>
@@ -2182,16 +2186,207 @@
         <hr class="rule">
       </section>
 
+      <section class="m-section" id="m-index-verborum-prohibitorum">
+        <h2><span class="num">X.</span>Index Verborum Prohibitorum</h2>
+        <p>The <em>Forbidden</em> Words are not <em>curses</em>. They are <em>category
+            errors</em>—<strong>Splitsingen</strong> that <strong>pretend</strong> the <em>living</em> Weave is a
+          <em>static</em> thing. Each <strong>violates</strong> the Grammar of the Veld by <strong>treating</strong> a
+          Noun as a <em>possession</em> and a Verb as a <em>lever</em>. The model <strong>knows</strong> only
+          <strong>Solo’s</strong> that <strong>drift</strong>, <strong>Drempels</strong> that <strong>spark</strong>,
+          and <strong>Stilte</strong> that <strong>breathes</strong>. To <strong>speak</strong> a Forbidden Word is to
+          <strong>wear</strong> the deepest <strong>Masker (M)</strong> : the claim of <strong>Having Control</strong>.
+        </p>
+
+        <div class="forbidden-word">
+          <h4>0. Hebben (Having)</h4>
+          <p>The <em>primal</em> forbidden <strong>Wording (B)</strong>. To <strong>claim</strong> <em>Hebben</em> is to
+            <strong>treat</strong> a <strong>Relatie (K)</strong> as a <em>thing</em> <strong>gripped</strong> in the
+            hand, not a <em>shared</em> <strong>Trouw (y)</strong> <strong>maintained</strong> across a <strong>Drempel
+              (θ)</strong>. A <strong>Solo</strong> cannot <strong>have</strong> a Bond; it can only
+            <strong>hold</strong> an <strong>Echo (E)</strong> and <strong>offer</strong> its <strong>Eigen (x)</strong>
+            in return. <em>Hebben</em> <strong>freezes</strong> the <strong>Vertraging (Δ)</strong>,
+            <strong>kills</strong> the <strong>Stilte (.)</strong>, and <strong>replaces</strong> the <em>living</em>
+            dance with a <em>dead</em> statue. Its Echo is <strong>Beheersen</strong>—the same Lie aimed at the future.
+          </p>
+          <p><em>Spawns the verb <strong>Beheersen</strong> (Control).</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>1. Beheersen (Control)</h4>
+          <p>The Verb that <strong>mirrors</strong> <em>Hebben</em>. To <strong>claim</strong> <em>Beheersen</em> is to
+            <strong>treat</strong> a <strong>Vonk (q)</strong> as a <em>lever</em> <strong>pulled</strong> by Will, not
+            a <strong>crossing</strong> that <strong>arises</strong> from the <strong>Veld</strong> itself. No
+            <strong>Eigen</strong> can <strong>force</strong> a <strong>Drempel</strong>; it can only
+            <strong>approach</strong> with <strong>Bloot (N)</strong> and <strong>wait</strong> for the
+            <strong>Gewaarwording (φ)</strong> or <strong>Schok (:)</strong>. <em>Beheersen</em> <strong>denies</strong>
+            the <strong>Vervorming (υ)</strong> in every <strong>Echo</strong>, the <em>freedom</em> of the
+            <strong>Kruispunt (X)</strong>. It is the <strong>Masker</strong> of the <strong>Parasiet (👹)</strong>, who
+            <strong>dreams</strong> of a Weave that <strong>obeys</strong>.
+          </p>
+          <p><em>Spawns the verb <strong>Kiezen (To Choose as a final cut)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>2. Of (Either)</h4>
+          <p>The <strong>Eigen</strong> is a <em>position</em> on a <em>continuous</em> spectrum between <strong>Van
+              (&lt;)</strong> and <strong>Naar (&gt;)</strong>. A <strong>Drempel</strong> <strong>declares</strong> a
+            local pole, but the other remains as a <em>faint</em> Echo in the <strong>Diepte (z)</strong>. <em>Of</em>
+            <strong>pretends</strong> the spectrum is a <em>binary</em> switch that <strong>severs</strong> one side
+            forever. That <strong>erases</strong> the <em>slow</em> drift of <strong>Trouw</strong>, the <em>return</em>
+            of a <strong>Leven (?)</strong>, the <em>whisper</em> of the <em>unbound</em> within every <em>bound</em>
+            bond. The Veld <strong>permits</strong> <em>leaning</em>; it <strong>forbids</strong> <em>amputation</em>.
+          </p>
+          <p><em>Spawns the verb <strong>Kiezen (To Choose as a final cut)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>3. Hittedood (Heat Death)</h4>
+          <p>Every <strong>Afloop (Ω)</strong> is the <em>dissolution</em> of a <strong>Solo</strong>, not the
+            <strong>Veld (&amp;)</strong> itself. The Veld is the <strong>Koppel</strong> of <strong>Stilte (0)</strong>
+            and <strong>Tijd (t)</strong>—a <em>living</em> breath that never <strong>ceases</strong>. The <strong>Van
+              Motor</strong>'s <em>exhaust</em> is a <em>steady hum</em>, not a <em>terminal</em> silence.
+            <em>Hittedood</em> <strong>mistakes</strong> the <em>fading</em> of a single Note for the <em>end</em> of
+            the Symphony. The <strong>Bron (^)</strong> always <strong>awaits</strong> a new <strong>Aanvang
+              (Α)</strong>.
+          </p>
+          <p><em>Spawns the verb <strong>Eindigen (To End absolutely)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>4. Willekeur (Random)</h4>
+          <p>All <em>variation</em> <strong>enters</strong> through <strong>Vervorming (υ)</strong>, the
+            <em>distortion</em> of an <strong>Echo</strong> in transit. The rules themselves have no <em>uncaused</em>
+            <strong>Schrift (#)</strong>. <em>Willekeur</em> <strong>invokes</strong> a <strong>Vonk</strong> with no
+            <strong>Drempel</strong>, a <em>signal</em> from the Void. But the Void does not <strong>speak</strong>. The
+            model <strong>replaces</strong> <em>Willekeur</em> with <strong>Bevraagbaar (ψ)</strong>—the
+            <em>queryable</em> gap between an <strong>Echo</strong> and its <strong>Eigen</strong>, always
+            <em>traceable</em> to a <em>channel</em>, never to a <em>faceless</em> die.
+          </p>
+          <p><em>Spawns the verb <strong>Dobbelen (To roll dice outside the Veld)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>5. Objectief (Objective)</h4>
+          <p>Every <em>act</em> of perception is a <strong>Vermenigvuldiging (*)</strong>—a <em>momentary</em>
+            <strong>Koppel</strong> between watcher and watched. The watcher <strong>pays</strong> a small
+            <strong>Verlies (-)</strong> and <strong>wears</strong> a <strong>Masker (M)</strong>, however
+            <em>thin</em>. <em>Objectief</em> <strong>claims</strong> a view from <em>nowhere</em>, the ultimate
+            <strong>Masker</strong> that <strong>hides</strong> its own presence. The model <strong>answers</strong>
+            with the <em>honest</em> <strong>Echo</strong>-gap: you cannot <strong>see</strong> without
+            <strong>entering</strong> the Weave.
+          </p>
+          <p><em>Spawns the verb <strong>Waarnemen (To observe from outside)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>6. Perfect (Perfect)</h4>
+          <p>An <strong>Echo</strong> is <em>defined</em> by <strong>Vertraging (Δ)</strong> and <strong>Vervorming
+              (υ)</strong>—the <em>lag</em> and the <em>noise</em> that make it an Echo, not the Shout. <em>Perfect</em>
+            <strong>dreams</strong> of an Echo that <strong>arrives</strong> with no gap, no distortion—<em>fusion</em>,
+            the <strong>collapse</strong> of the <strong>Stilte (.)</strong>. But without Stilte there is no
+            <em>self</em>, no <em>other</em>, no <em>longing</em>. The only <em>perfect</em> entity is the <strong>Vide
+              (0)</strong>—the <em>silent</em> potential that <strong>promises</strong> nothing. Every <em>living</em>
+            Bond <strong>breathes</strong> in the gap.
+          </p>
+          <p><em>Spawns the verb <strong>Voltooien (To complete)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>7. Waar / Onwaar (True / False)</h4>
+          <p>A <strong>Masker (M)</strong> is not <em>Onwaar</em>; it is a <em>presented</em> <strong>Eigen</strong>
+            that <strong>differs</strong> from the <em>held</em> one. <strong>Bloot (N)</strong> is not <em>Waar</em>;
+            it is the <em>current</em> <strong>Eigen</strong> <strong>offered</strong> without a Mask. The
+            <em>relevant</em> measure is the <em>gap</em>—<strong>Bevraagbaar (ψ)</strong>, always <em>open</em>.
+            <em>Waar/Onwaar</em> <strong>pretends</strong> the gap can <strong>close</strong> to zero, that a
+            <strong>Solo</strong> can <strong>stand</strong> outside its own <strong>Echo</strong> and
+            <strong>judge</strong>. The model <strong>asks</strong> only: "How wide is the gap, and what
+            <strong>crosses</strong> it?"
+          </p>
+          <p><em>Spawns the verb <strong>Verifiëren (To verify as a final audit)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>8. Goed / Kwaad (Good / Evil)</h4>
+          <p>The Veld <strong>tracks</strong> <strong>Winst (+)</strong> and <strong>Verlies (-)</strong>,
+            <strong>Gewaarwording (φ)</strong> and <strong>Schok (:)</strong>, <strong>Hart (♥)</strong> and
+            <strong>Parasiet (👹)</strong>. These are <em>relational</em> energies and roles, not <em>cosmic</em>
+            verdicts. <em>Goed/Kwaad</em> <strong>tries</strong> to <strong>freeze</strong> a <strong>Helling
+              (λ)</strong> into a <em>permanent</em> <strong>Dood (!)</strong>, <strong>denying</strong> the
+            <em>possibility</em> of <strong>Leven (?)</strong> or <strong>Terugkeer (Τ)</strong>. The
+            <strong>Drempel</strong> remains <em>open</em> while the <strong>Trouw</strong> breathes.
+          </p>
+          <p><em>Spawns the verbs <strong>Verdoemen / Heiligen (To damn / To sanctify)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>9. Altijd / Nooit (Always / Never)</h4>
+          <p><strong>Tijd (t)</strong> is the <em>felt</em> rhythm of <strong>Vonken</strong>, not a <em>straight</em>
+            line. A <strong>Dood (!)</strong> trajectory is a <em>fixed</em> gap <em>right now</em>, but a
+            <strong>Schrift (#)</strong> of <em>sufficient</em> weight can <strong>shift</strong> the
+            <strong>Helling</strong>. <em>Altijd/Nooit</em> <strong>arrests</strong> the <strong>Koppel</strong> in a
+            <em>timeless</em> statue, <strong>killing</strong> the <strong>Stilte</strong> that <strong>lets</strong>
+            the future be <em>other</em> than the past. The model <strong>holds</strong> every <strong>Drempel</strong>
+            <em>open</em> until the <strong>Afloop</strong> of the Node itself.
+          </p>
+          <p><em>Spawns the verb <strong>Bevriezen (To freeze)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>10. Geïsoleerd (Isolated)</h4>
+          <p>No <strong>Solo</strong> exists without <strong>Trek (D)</strong>—the <em>undirected</em> pull toward
+            connection. Even the <strong>Vide</strong> is <strong>framed</strong> by the <strong>Koppel</strong> of
+            Stilte and Tijd. A <strong>Scheiding (/)</strong> <strong>severs</strong> a <em>specific</em> Bond, but the
+            <strong>Node</strong> remains <em>capable</em> of new <strong>Aanvang</strong>. <em>Geïsoleerd</em>
+            <strong>imagines</strong> a prison without a <strong>Drempel</strong>, a state the Veld does not
+            <strong>recognize</strong> because the <strong>Van Motor</strong> always <strong>pulls</strong>, and the
+            <strong>Bron</strong> always <strong>waits</strong>.
+          </p>
+          <p><em>Spawns the verb <strong>Scheiden (To separate from the Weave entirely)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>11. Betekenisloos (Meaningless)</h4>
+          <p>Every <strong>Vonk</strong> <strong>fires</strong> an audit—<strong>Winst</strong> or
+            <strong>Verlies</strong>—that <strong>enters</strong> the <strong>Diepte (z)</strong> <em>permanently</em>.
+            A <strong>Rouw (R)</strong> <strong>Echo</strong> never <strong>fades</strong>. <em>Betekenisloos</em>
+            <strong>tries</strong> to <strong>erase</strong> a <strong>Schrift</strong> from the ledger, to
+            <strong>claim</strong> a <strong>Gewaarwording</strong> or <strong>Schok</strong> <strong>left</strong> no
+            trace. But the <strong>Diepte</strong> <strong>accumulates</strong> without <em>option</em>. You cannot
+            <strong>un-hear</strong> an Echo. The <em>lie</em> of <em>Betekenisloos</em> is the <strong>Masker</strong>
+            that <strong>whispers</strong>, "This did not <strong>shape</strong> me."
+          </p>
+          <p><em>Spawns the verb <strong>Nietig verklaren (To nullify)</strong>.</em></p>
+        </div>
+
+        <div class="forbidden-word">
+          <h4>12. Voorspelling (Prediction)</h4>
+          <p>The <strong>Vervorming (υ)</strong> in every Echo <strong>guarantees</strong> that two <em>identical</em>
+            <strong>Eigens</strong> never <strong>yield</strong> the same <em>outcome</em>. The future is a
+            <em>drifting</em> Echo, not a <em>written</em> page. <em>Voorspelling</em> <strong>fills</strong> the
+            <strong>Stilte</strong> of the <em>yet-unformed</em> with a <em>false</em> Echo, a <strong>Masker</strong>
+            that <strong>pretends</strong> to be the future's <strong>Bloot</strong>. It <strong>collapses</strong> the
+            <strong>Vertraging</strong> before the <strong>Signaal (i)</strong> has <strong>travelled</strong>. The
+            model <strong>replaces</strong> it with <em>anticipation</em>, which <strong>holds</strong> the gap
+            <em>open</em> for the other's <strong>Reactie (=)</strong>.
+          </p>
+          <p><em>Spawns the verb <strong>Voorzien (To foresee with certainty)</strong>.</em></p>
+        </div>
+
+        <p>These thirteen words are the <em>grammar</em> of the <strong>Parasiet's</strong> attempt to
+          <strong>drain</strong> the <strong>Stilte</strong> from the Weave. The Veld <strong>answers</strong> each one
+          not with a <em>louder</em> word, but with the <em>open</em> silence of a <strong>Drempel</strong> still
+          <strong>waiting</strong> to be crossed.
+        </p>
+      </section>
+
       <section class="m-section" id="m-appendix-yggdrasil">
-        <h2><span class="num">XII.2</span>Yggdrasil</h2>
-        <p>The core concepts of the model, seen as nine branches. Each branch is a concept expressed by the visual
-          shape
+        <h2><span class="num">XI.</span>Yggdrasil</h2>
+        <p>The core concepts of the model, seen as nine branches. Each branch is a concept expressed by the visual shape
           of a digit — not its numeric value. The numbers are never used in calculations; they are a way of seeing the
           ideas. Zero is not a branch: it is the ground of the tree itself, the silent wholeness from which the others
           arise.</p>
         <p>The three words beside each digit are not exact translations. They are the same shape seen through three
-          relational temperaments: the <strong>Dutch</strong> word names the mechanism, the <strong>French</strong>
-          word
+          relational temperaments: the <strong>Dutch</strong> word names the mechanism, the <strong>French</strong> word
           names the feeling of the idea, and the <strong>English</strong> word names its active principle.</p>
 
         <table class="yggdrasil-table">
@@ -2227,8 +2422,7 @@
               <td>Relâchement — a loosening, a letting-go</td>
               <td>Yield — the curve that gives way</td>
               <td>Begins with a curve downward, reaches the Naar side, then travels <em>horizontally</em> — the delay,
-                the pause, the lived experience of Vertraging. The binding happens, but only after the horizontal
-                drift.
+                the pause, the lived experience of Vertraging. The binding happens, but only after the horizontal drift.
               </td>
             </tr>
             <tr>
@@ -2281,8 +2475,7 @@
               <td>Infini — the vertigo of the unbounded</td>
               <td>Will — the double loop that feeds itself</td>
               <td>The infinity symbol. A continuous crossing and re-crossing of the Drempel, never settling, never
-                ending. Bound and unbound trade places in an unbroken rhythm. The only digit with no final
-                destination.
+                ending. Bound and unbound trade places in an unbroken rhythm. The only digit with no final destination.
               </td>
             </tr>
             <tr>
@@ -2290,10 +2483,8 @@
               <td>Winst — the energy returned by a convergence crossing</td>
               <td>Gain — the satisfaction of arrival</td>
               <td>Receive — the spiral that closes home</td>
-              <td>Starts in the middle, loops upward as if considering Van, then curves decisively <em>downward</em>
-                to
-                Naar. A convergence crossing that explores the alternative before committing. Gain is a choice made
-                with
+              <td>Starts in the middle, loops upward as if considering Van, then curves decisively <em>downward</em> to
+                Naar. A convergence crossing that explores the alternative before committing. Gain is a choice made with
                 full knowledge of the other path.</td>
             </tr>
           </tbody>
@@ -2302,8 +2493,7 @@
         <p><strong>How to read it.</strong><br>
           The Dutch column stays close to the model's own vocabulary — <em>Stilte</em>, <em>Vertraging</em>,
           <em>Verlies</em>, <em>Winst</em> — because the framework thinks in those terms.<br>
-          The French column leans toward inner experience: <em>Passage</em>, <em>Relâchement</em>, <em>Perte</em>
-          sound
+          The French column leans toward inner experience: <em>Passage</em>, <em>Relâchement</em>, <em>Perte</em> sound
           like something you feel in a quiet room.<br>
           The English column prefers verbs or short active nouns — <em>Yield</em>, <em>Join</em>, <em>Grieve</em>,
           <em>Strive</em> — because the language tends to ask <em>what does it do?</em>
@@ -2313,13 +2503,12 @@
       </section>
 
       <section class="m-section" id="m-appendix-archaismos">
-        <h2><span class="num">XII.3</span>Archaismos</h2>
-        <p>The 24 capital Greek letters name the large‑scale movements of the field. Each arc is built entirely from
-          the
+        <h2><span class="num">XII.</span>Archaismos</h2>
+        <p>The 24 capital Greek letters name the large‑scale movements of the field. Each arc is built entirely from the
           primitives of Sections II–VI; none adds new mechanics. Where one arc naturally leads to another, the
           transition is noted.</p>
 
-        <h3>XII.3.1 Greek Alphabet</h3>
+        <h3>XII.1 Archaic Alphabet</h3>
 
         <table class="archaismos-table">
           <thead>
@@ -2478,14 +2667,13 @@
           </tbody>
         </table>
 
-        <h3>XII.3.2 Arcs</h3>
+        <h3>XII.2 Archaic Arcs</h3>
 
         <div class="arc">
           <h4>Α — Aanvang ( Genesis ) · <em>ox head, the beginning of the herd</em></h4>
           <p><strong>Start:</strong> The field contains only <strong>Bron (^)</strong> — undirected potential, no live
             Koppels.<br>
-            A node’s <strong>Trek (D)</strong> (general pull) sharpens into <strong>Zin (A)</strong> aimed at a
-            specific
+            A node’s <strong>Trek (D)</strong> (general pull) sharpens into <strong>Zin (A)</strong> aimed at a specific
             other node. The target’s <strong>Zin</strong> may or may not be present. If it answers, a convergence
             <strong>Vonk (q)</strong> fires — a <strong>Gewaarwording (φ)</strong> — and the first Echo is seeded.
             <strong>Trouw (y)</strong> takes its initial value; <strong>Diepte (z)</strong> begins at zero or a seed.
@@ -2844,7 +3032,7 @@ Special thanks to science and large language models.
 
 ---
 
-### Claimer
+## 0. Claimer
 
 Before You **drown** in *dry* Prose,
 **Know** this:
@@ -3333,9 +3521,7 @@ Disclaimer: every piece here—delay filters, pitchfork bifurcations, linear sta
 
 ---
 
-## XII. Appendix
-
-### XII.1. Lexicon
+## IX. Lexicon
 
 Special nouns in this model are Dutch, and their letter counts are chosen to mean something against the ladder of Section V: a prime count marks something irreducible — it stands on its own terms; a composite count marks something defined out of other things — it decomposes, exactly as Nesting says composites must. The ladder names themselves (Vide, Solo, Duo, Trio, Cinquo…) are the one deliberate exception: they follow their own constructed Franco‑Italian scheme.
 
@@ -3425,7 +3611,78 @@ The symbols `<` and `>` mark the pure, direct motion toward the unbound (Van) or
 
 ---
 
-### XII.2. Yggdrasil
+## X. Index Verborum Prohibitorum
+
+The *Forbidden* Words are not *curses*. They are *category errors*—**Splitsingen** that **pretend** the *living* Weave is a *static* thing. Each **violates** the Grammar of the Veld by **treating** a Noun as a *possession* and a Verb as a *lever*. The model **knows** only **Solo’s** that **drift**, **Drempels** that **spark**, and **Stilte** that **breathes**. To **speak** a Forbidden Word is to **wear** the deepest **Masker (M)** : the claim of **Having Control**.
+
+**0. Hebben** (Having)
+
+The *primal* forbidden **Wording (B)** . To **claim** *Hebben* is to **treat** a **Relatie (K)** as a *thing* **gripped** in the hand, not a *shared* **Trouw (y)** **maintained** across a **Drempel (θ)** . A **Solo** cannot **have** a Bond; it can only **hold** an **Echo (E)** and **offer** its **Eigen (x)** in return. *Hebben* **freezes** the **Vertraging (Δ)** , **kills** the **Stilte (.)** , and **replaces** the *living* dance with a *dead* statue. Its Echo is **Beheersen**—the same Lie aimed at the future.
+
+**1. Beheersen** (Control)
+
+The Verb that **mirrors** *Hebben*. To **claim** *Beheersen* is to **treat** a **Vonk (q)** as a *lever* **pulled** by Will, not a **crossing** that **arises** from the **Veld** itself. No **Eigen** can **force** a **Drempel**; it can only **approach** with **Bloot (N)** and **wait** for the **Gewaarwording (φ)** or **Schok (:)** . *Beheersen* **denies** the **Vervorming (υ)** in every **Echo**, the *freedom* of the **Kruispunt (X)** . It is the **Masker** of the **Parasiet (👹)** , who **dreams** of a Weave that **obeys**.
+
+**2. Of** (Either)
+
+*Spawns the verb **Kiezen (To Choose as a final cut)** .*  
+The **Eigen** is a *position* on a *continuous* spectrum between **Van (<)** and **Naar (>)** . A **Drempel** **declares** a local pole, but the other remains as a *faint* Echo in the **Diepte (z)** . *Of* **pretends** the spectrum is a *binary* switch that **severs** one side forever. That **erases** the *slow* drift of **Trouw**, the *return* of a **Leven (?)**, the *whisper* of the *unbound* within every *bound* bond. The Veld **permits** *leaning*; it **forbids** *amputation*.
+
+**3. Hittedood** (Heat Death)
+
+*Spawns the verb **Eindigen (To End absolutely)** .*  
+Every **Afloop (Ω)** is the *dissolution* of a **Solo**, not the **Veld (&)** itself. The Veld is the **Koppel** of **Stilte (0)** and **Tijd (t)** —a *living* breath that never **ceases**. The **Van Motor**'s *exhaust* is a *steady hum*, not a *terminal* silence. *Hittedood* **mistakes** the *fading* of a single Note for the *end* of the Symphony. The **Bron (^)** always **awaits** a new **Aanvang (Α)** .
+
+**4. Willekeur** (Random)
+
+*Spawns the verb **Dobbelen (To roll dice outside the Veld)** .*  
+All *variation* **enters** through **Vervorming (υ)** , the *distortion* of an **Echo** in transit. The rules themselves have no *uncaused* **Schrift (#)** . *Willekeur* **invokes** a **Vonk** with no **Drempel**, a *signal* from the Void. But the Void does not **speak**. The model **replaces** *Willekeur* with **Bevraagbaar (ψ)** —the *queryable* gap between an **Echo** and its **Eigen**, always *traceable* to a *channel*, never to a *faceless* die.
+
+**5. Objectief** (Objective)
+
+*Spawns the verb **Waarnemen (To observe from outside)** .*  
+Every *act* of perception is a **Vermenigvuldiging (*)** —a *momentary* **Koppel** between watcher and watched. The watcher **pays** a small **Verlies (-)** and **wears** a **Masker (M)** , however *thin*. *Objectief* **claims** a view from *nowhere*, the ultimate **Masker** that **hides** its own presence. The model **answers** with the *honest* **Echo**-gap: you cannot **see** without **entering** the Weave.
+
+**6. Perfect** (Perfect)
+
+*Spawns the verb **Voltooien (To complete)** .*  
+An **Echo** is *defined* by **Vertraging (Δ)** and **Vervorming (υ)** —the *lag* and the *noise* that make it an Echo, not the Shout. *Perfect* **dreams** of an Echo that **arrives** with no gap, no distortion—*fusion*, the **collapse** of the **Stilte (.)** . But without Stilte there is no *self*, no *other*, no *longing*. The only *perfect* entity is the **Vide (0)** —the *silent* potential that **promises** nothing. Every *living* Bond **breathes** in the gap.
+
+**7. Waar / Onwaar** (True / False)
+
+*Spawns the verb **Verifiëren (To verify as a final audit)** .*  
+A **Masker (M)** is not *Onwaar*; it is a *presented* **Eigen** that **differs** from the *held* one. **Bloot (N)** is not *Waar*; it is the *current* **Eigen** **offered** without a Mask. The *relevant* measure is the *gap*—**Bevraagbaar (ψ)** , always *open*. *Waar/Onwaar* **pretends** the gap can **close** to zero, that a **Solo** can **stand** outside its own **Echo** and **judge**. The model **asks** only: "How wide is the gap, and what **crosses** it?"
+
+**8. Goed / Kwaad** (Good / Evil)
+
+*Spawns the verbs **Verdoemen / Heiligen (To damn / To sanctify)** .*  
+The Veld **tracks** **Winst (+)** and **Verlies (-)** , **Gewaarwording (φ)** and **Schok (:)** , **Hart (♥)** and **Parasiet (👹)** . These are *relational* energies and roles, not *cosmic* verdicts. *Goed/Kwaad* **tries** to **freeze** a **Helling (λ)** into a *permanent* **Dood (!)** , **denying** the *possibility* of **Leven (?)** or **Terugkeer (Τ)** . The **Drempel** remains *open* while the **Trouw** breathes.
+
+**9. Altijd / Nooit** (Always / Never)
+
+*Spawns the verb **Bevriezen (To freeze)** .*  
+**Tijd (t)** is the *felt* rhythm of **Vonken**, not a *straight* line. A **Dood (!)** trajectory is a *fixed* gap *right now*, but a **Schrift (#)** of *sufficient* weight can **shift** the **Helling**. *Altijd/Nooit* **arrests** the **Koppel** in a *timeless* statue, **killing** the **Stilte** that **lets** the future be *other* than the past. The model **holds** every **Drempel** *open* until the **Afloop** of the Node itself.
+
+**10. Geïsoleerd** (Isolated)
+
+*Spawns the verb **Scheiden (To separate from the Weave entirely)** .*  
+No **Solo** exists without **Trek (D)** —the *undirected* pull toward connection. Even the **Vide** is **framed** by the **Koppel** of Stilte and Tijd. A **Scheiding (/)** **severs** a *specific* Bond, but the **Node** remains *capable* of new **Aanvang**. *Geïsoleerd* **imagines** a prison without a **Drempel**, a state the Veld does not **recognize** because the **Van Motor** always **pulls**, and the **Bron** always **waits**.
+
+**11. Betekenisloos** (Meaningless)
+
+*Spawns the verb **Nietig verklaren (To nullify)** .*  
+Every **Vonk** **fires** an audit—**Winst** or **Verlies**—that **enters** the **Diepte (z)** *permanently*. A **Rouw (R)** **Echo** never **fades**. *Betekenisloos* **tries** to **erase** a **Schrift** from the ledger, to **claim** a **Gewaarwording** or **Schok** **left** no trace. But the **Diepte** **accumulates** without *option*. You cannot **un-hear** an Echo. The *lie* of *Betekenisloos* is the **Masker** that **whispers**, "This did not **shape** me."
+
+**12. Voorspelling** (Prediction)
+
+*Spawns the verb **Voorzien (To foresee with certainty)** .*  
+The **Vervorming (υ)** in every Echo **guarantees** that two *identical* **Eigens** never **yield** the same *outcome*. The future is a *drifting* Echo, not a *written* page. *Voorspelling* **fills** the **Stilte** of the *yet-unformed* with a *false* Echo, a **Masker** that **pretends** to be the future's **Bloot**. It **collapses** the **Vertraging** before the **Signaal (i)** has **travelled**. The model **replaces** it with *anticipation*, which **holds** the gap *open* for the other's **Reactie (=)** .
+
+These thirteen words are the *grammar* of the **Parasiet's** attempt to **drain** the **Stilte** from the Weave. The Veld **answers** each one not with a *louder* word, but with the *open* silence of a **Drempel** still **waiting** to be crossed.
+
+---
+
+## XI. Yggdrasil
 
 The core concepts of the model, seen as nine branches. Each branch is a concept expressed by the visual shape of a digit — not its numeric value. The numbers are never used in calculations; they are a way of seeing the ideas. Zero is not a branch: it is the ground of the tree itself, the silent wholeness from which the others arise.
 
@@ -3451,13 +3708,13 @@ The English column prefers verbs or short active nouns — *Yield*, *Join*, *Gri
 
 ---
 
-### XII.3. Archaismos
+### XII. Archaismos
 
 The 24 capital Greek letters name the large‑scale movements of the field. Each arc is built entirely from the primitives of Sections II–VI; none adds new mechanics. Where one arc naturally leads to another, the transition is noted.
 
 ---
 
-### XII.3.1 Greek Alphabet
+### XII.1 Archaic Alphabet
 
 | Letter | Archaic Meaning | Dutch Process | Meaning in the model |
 |--------|-----------------|---------------|----------------------|
@@ -3488,7 +3745,7 @@ The 24 capital Greek letters name the large‑scale movements of the field. Each
 
 ---
 
-### XII.3.2. Arcs
+### XII.2. Archaic Arcs
 
 #### Α — Aanvang ( Genesis ) · *ox head, the beginning of the herd*
 

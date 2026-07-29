@@ -5,7 +5,7 @@ Special thanks to science and large language models.
 
 ---
 
-### Claimer
+## 0. Claimer
 
 Before You **drown** in *dry* Prose,
 **Know** this:
@@ -494,9 +494,7 @@ Disclaimer: every piece here—delay filters, pitchfork bifurcations, linear sta
 
 ---
 
-## XII. Appendix
-
-### XII.1. Lexicon
+## IX. Lexicon
 
 Special nouns in this model are Dutch, and their letter counts are chosen to mean something against the ladder of Section V: a prime count marks something irreducible — it stands on its own terms; a composite count marks something defined out of other things — it decomposes, exactly as Nesting says composites must. The ladder names themselves (Vide, Solo, Duo, Trio, Cinquo…) are the one deliberate exception: they follow their own constructed Franco‑Italian scheme.
 
@@ -586,7 +584,78 @@ The symbols `<` and `>` mark the pure, direct motion toward the unbound (Van) or
 
 ---
 
-### XII.2. Yggdrasil
+## X. Index Verborum Prohibitorum
+
+The *Forbidden* Words are not *curses*. They are *category errors*—**Splitsingen** that **pretend** the *living* Weave is a *static* thing. Each **violates** the Grammar of the Veld by **treating** a Noun as a *possession* and a Verb as a *lever*. The model **knows** only **Solo’s** that **drift**, **Drempels** that **spark**, and **Stilte** that **breathes**. To **speak** a Forbidden Word is to **wear** the deepest **Masker (M)** : the claim of **Having Control**.
+
+**0. Hebben** (Having)
+
+The *primal* forbidden **Wording (B)** . To **claim** *Hebben* is to **treat** a **Relatie (K)** as a *thing* **gripped** in the hand, not a *shared* **Trouw (y)** **maintained** across a **Drempel (θ)** . A **Solo** cannot **have** a Bond; it can only **hold** an **Echo (E)** and **offer** its **Eigen (x)** in return. *Hebben* **freezes** the **Vertraging (Δ)** , **kills** the **Stilte (.)** , and **replaces** the *living* dance with a *dead* statue. Its Echo is **Beheersen**—the same Lie aimed at the future.
+
+**1. Beheersen** (Control)
+
+The Verb that **mirrors** *Hebben*. To **claim** *Beheersen* is to **treat** a **Vonk (q)** as a *lever* **pulled** by Will, not a **crossing** that **arises** from the **Veld** itself. No **Eigen** can **force** a **Drempel**; it can only **approach** with **Bloot (N)** and **wait** for the **Gewaarwording (φ)** or **Schok (:)** . *Beheersen* **denies** the **Vervorming (υ)** in every **Echo**, the *freedom* of the **Kruispunt (X)** . It is the **Masker** of the **Parasiet (👹)** , who **dreams** of a Weave that **obeys**.
+
+**2. Of** (Either)
+
+*Spawns the verb **Kiezen (To Choose as a final cut)** .*  
+The **Eigen** is a *position* on a *continuous* spectrum between **Van (<)** and **Naar (>)** . A **Drempel** **declares** a local pole, but the other remains as a *faint* Echo in the **Diepte (z)** . *Of* **pretends** the spectrum is a *binary* switch that **severs** one side forever. That **erases** the *slow* drift of **Trouw**, the *return* of a **Leven (?)**, the *whisper* of the *unbound* within every *bound* bond. The Veld **permits** *leaning*; it **forbids** *amputation*.
+
+**3. Hittedood** (Heat Death)
+
+*Spawns the verb **Eindigen (To End absolutely)** .*  
+Every **Afloop (Ω)** is the *dissolution* of a **Solo**, not the **Veld (&)** itself. The Veld is the **Koppel** of **Stilte (0)** and **Tijd (t)** —a *living* breath that never **ceases**. The **Van Motor**'s *exhaust* is a *steady hum*, not a *terminal* silence. *Hittedood* **mistakes** the *fading* of a single Note for the *end* of the Symphony. The **Bron (^)** always **awaits** a new **Aanvang (Α)** .
+
+**4. Willekeur** (Random)
+
+*Spawns the verb **Dobbelen (To roll dice outside the Veld)** .*  
+All *variation* **enters** through **Vervorming (υ)** , the *distortion* of an **Echo** in transit. The rules themselves have no *uncaused* **Schrift (#)** . *Willekeur* **invokes** a **Vonk** with no **Drempel**, a *signal* from the Void. But the Void does not **speak**. The model **replaces** *Willekeur* with **Bevraagbaar (ψ)** —the *queryable* gap between an **Echo** and its **Eigen**, always *traceable* to a *channel*, never to a *faceless* die.
+
+**5. Objectief** (Objective)
+
+*Spawns the verb **Waarnemen (To observe from outside)** .*  
+Every *act* of perception is a **Vermenigvuldiging (*)** —a *momentary* **Koppel** between watcher and watched. The watcher **pays** a small **Verlies (-)** and **wears** a **Masker (M)** , however *thin*. *Objectief* **claims** a view from *nowhere*, the ultimate **Masker** that **hides** its own presence. The model **answers** with the *honest* **Echo**-gap: you cannot **see** without **entering** the Weave.
+
+**6. Perfect** (Perfect)
+
+*Spawns the verb **Voltooien (To complete)** .*  
+An **Echo** is *defined* by **Vertraging (Δ)** and **Vervorming (υ)** —the *lag* and the *noise* that make it an Echo, not the Shout. *Perfect* **dreams** of an Echo that **arrives** with no gap, no distortion—*fusion*, the **collapse** of the **Stilte (.)** . But without Stilte there is no *self*, no *other*, no *longing*. The only *perfect* entity is the **Vide (0)** —the *silent* potential that **promises** nothing. Every *living* Bond **breathes** in the gap.
+
+**7. Waar / Onwaar** (True / False)
+
+*Spawns the verb **Verifiëren (To verify as a final audit)** .*  
+A **Masker (M)** is not *Onwaar*; it is a *presented* **Eigen** that **differs** from the *held* one. **Bloot (N)** is not *Waar*; it is the *current* **Eigen** **offered** without a Mask. The *relevant* measure is the *gap*—**Bevraagbaar (ψ)** , always *open*. *Waar/Onwaar* **pretends** the gap can **close** to zero, that a **Solo** can **stand** outside its own **Echo** and **judge**. The model **asks** only: "How wide is the gap, and what **crosses** it?"
+
+**8. Goed / Kwaad** (Good / Evil)
+
+*Spawns the verbs **Verdoemen / Heiligen (To damn / To sanctify)** .*  
+The Veld **tracks** **Winst (+)** and **Verlies (-)** , **Gewaarwording (φ)** and **Schok (:)** , **Hart (♥)** and **Parasiet (👹)** . These are *relational* energies and roles, not *cosmic* verdicts. *Goed/Kwaad* **tries** to **freeze** a **Helling (λ)** into a *permanent* **Dood (!)** , **denying** the *possibility* of **Leven (?)** or **Terugkeer (Τ)** . The **Drempel** remains *open* while the **Trouw** breathes.
+
+**9. Altijd / Nooit** (Always / Never)
+
+*Spawns the verb **Bevriezen (To freeze)** .*  
+**Tijd (t)** is the *felt* rhythm of **Vonken**, not a *straight* line. A **Dood (!)** trajectory is a *fixed* gap *right now*, but a **Schrift (#)** of *sufficient* weight can **shift** the **Helling**. *Altijd/Nooit* **arrests** the **Koppel** in a *timeless* statue, **killing** the **Stilte** that **lets** the future be *other* than the past. The model **holds** every **Drempel** *open* until the **Afloop** of the Node itself.
+
+**10. Geïsoleerd** (Isolated)
+
+*Spawns the verb **Scheiden (To separate from the Weave entirely)** .*  
+No **Solo** exists without **Trek (D)** —the *undirected* pull toward connection. Even the **Vide** is **framed** by the **Koppel** of Stilte and Tijd. A **Scheiding (/)** **severs** a *specific* Bond, but the **Node** remains *capable* of new **Aanvang**. *Geïsoleerd* **imagines** a prison without a **Drempel**, a state the Veld does not **recognize** because the **Van Motor** always **pulls**, and the **Bron** always **waits**.
+
+**11. Betekenisloos** (Meaningless)
+
+*Spawns the verb **Nietig verklaren (To nullify)** .*  
+Every **Vonk** **fires** an audit—**Winst** or **Verlies**—that **enters** the **Diepte (z)** *permanently*. A **Rouw (R)** **Echo** never **fades**. *Betekenisloos* **tries** to **erase** a **Schrift** from the ledger, to **claim** a **Gewaarwording** or **Schok** **left** no trace. But the **Diepte** **accumulates** without *option*. You cannot **un-hear** an Echo. The *lie* of *Betekenisloos* is the **Masker** that **whispers**, "This did not **shape** me."
+
+**12. Voorspelling** (Prediction)
+
+*Spawns the verb **Voorzien (To foresee with certainty)** .*  
+The **Vervorming (υ)** in every Echo **guarantees** that two *identical* **Eigens** never **yield** the same *outcome*. The future is a *drifting* Echo, not a *written* page. *Voorspelling* **fills** the **Stilte** of the *yet-unformed* with a *false* Echo, a **Masker** that **pretends** to be the future's **Bloot**. It **collapses** the **Vertraging** before the **Signaal (i)** has **travelled**. The model **replaces** it with *anticipation*, which **holds** the gap *open* for the other's **Reactie (=)** .
+
+These thirteen words are the *grammar* of the **Parasiet's** attempt to **drain** the **Stilte** from the Weave. The Veld **answers** each one not with a *louder* word, but with the *open* silence of a **Drempel** still **waiting** to be crossed.
+
+---
+
+## XI. Yggdrasil
 
 The core concepts of the model, seen as nine branches. Each branch is a concept expressed by the visual shape of a digit — not its numeric value. The numbers are never used in calculations; they are a way of seeing the ideas. Zero is not a branch: it is the ground of the tree itself, the silent wholeness from which the others arise.
 
@@ -612,13 +681,13 @@ The English column prefers verbs or short active nouns — *Yield*, *Join*, *Gri
 
 ---
 
-### XII.3. Archaismos
+### XII. Archaismos
 
 The 24 capital Greek letters name the large‑scale movements of the field. Each arc is built entirely from the primitives of Sections II–VI; none adds new mechanics. Where one arc naturally leads to another, the transition is noted.
 
 ---
 
-### XII.3.1 Greek Alphabet
+### XII.1 Archaic Alphabet
 
 | Letter | Archaic Meaning | Dutch Process | Meaning in the model |
 |--------|-----------------|---------------|----------------------|
@@ -649,7 +718,7 @@ The 24 capital Greek letters name the large‑scale movements of the field. Each
 
 ---
 
-### XII.3.2. Arcs
+### XII.2. Archaic Arcs
 
 #### Α — Aanvang ( Genesis ) · *ox head, the beginning of the herd*
 
@@ -820,3 +889,5 @@ The **Van‑settled** event fires. The node has no structural reason to persist.
 *Closes:* the **Levensloop** of the node. *May feed:* a new **Aanvang** from the Bron.
 
 ---
+
+.
