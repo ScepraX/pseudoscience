@@ -201,7 +201,7 @@
   }
 
   /* ---------------------------------------------------------------
-     VIII. The Fibonacci spiral (the converger's whisper)
+     VIII. The Fibonacci spiral (the GameMaster's whisper)
      --------------------------------------------------------------- */
   var fib = ["1", "1", "2", "3", "5", "8"], buf = [];
   document.addEventListener("keydown", function (e) {
