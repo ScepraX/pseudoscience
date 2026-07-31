@@ -75,16 +75,16 @@
   });
 
   /* ---------------------------------------------------------------
-     IV. Copy the Oracle (model + charge)
+     IV. Copy the Oracle (Speelgoed + charge)
      --------------------------------------------------------------- */
-  var copyBtn = $("#copy-model");
+  var copyBtn = $("#copy-Speelgoed");
   if (copyBtn) {
     copyBtn.addEventListener("click", function () {
-      var srcEl = $("#model-source"), prEl = $("#oracle-prompt");
+      var srcEl = $("#Speelgoed-source"), prEl = $("#oracle-prompt");
       if (!srcEl) return;
-      var model = JSON.parse(JSON.stringify(srcEl.textContent));
+      var Speelgoed = JSON.parse(JSON.stringify(srcEl.textContent));
       var prompt = prEl ? JSON.parse(JSON.stringify(prEl.textContent)) : "";
-      var payload = (prompt ? prompt + "\n\n" : "") + model;
+      var payload = (prompt ? prompt + "\n\n" : "") + Speelgoed;
       var done = function () {
         copyBtn.classList.add("copied");
         copyBtn.textContent = "The Oracle is yours — paste it anywhere";
@@ -109,9 +109,9 @@
   /* ---------------------------------------------------------------
      IV.b The Crystal Ball — touch to gaze, or ask the Oracle
      --------------------------------------------------------------- */
-  if (page === "model") {
+  if (page === "Speelgoed") {
     var ball = $("#crystal-ball"), touch = $("#touch-orb"), ask = $("#ask-oracle");
-    var reveal = $("#model-reveal"), askPanel = $("#ask-panel");
+    var reveal = $("#Speelgoed-reveal"), askPanel = $("#ask-panel");
     function gaze() {
       if (reveal && reveal.hidden) reveal.hidden = false;
       if (ball) { ball.classList.add("awake"); ball.setAttribute("aria-expanded", "true"); }
@@ -152,7 +152,7 @@
         }
       });
     });
-    // back-to-top on the model page too
+    // back-to-top on the Speelgoed page too
     var mTop = $("#to-top");
     if (mTop) {
       window.addEventListener("scroll", function () {
@@ -440,7 +440,7 @@
     /* III. the Silence — one extra blank line after each major answer.
        Interior silences hold a Breath (U+200B, remembered rest); the last
        holds a Bond (U+2060, waiting) — the library never closes. */
-    var answers = $$("#model-reveal > .m-section, #model-reveal > .binary-arch, #model-reveal > .topology");
+    var answers = $$("#Speelgoed-reveal > .m-section, #Speelgoed-reveal > .binary-arch, #Speelgoed-reveal > .topology");
     answers.forEach(function (sec, i) {
       var sil = document.createElement("div");
       sil.className = "silence";
@@ -449,11 +449,11 @@
       sec.appendChild(sil);
     });
 
-    // style freshly-revealed regions at once (model reveal, opened topology)
+    // style freshly-revealed regions at once (Speelgoed reveal, opened topology)
     ["#crystal-ball", "#touch-orb", "#ask-oracle"].forEach(function (s) {
       var el = $(s);
       if (el) el.addEventListener("click", function () {
-        setTimeout(function () { window.__triProcess($("#model-reveal") || main); }, 30);
+        setTimeout(function () { window.__triProcess($("#Speelgoed-reveal") || main); }, 30);
       });
     });
     $$(".topo-toggle").forEach(function (b) {

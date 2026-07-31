@@ -407,7 +407,7 @@ body.menu-open .menu {
   padding: 120px clamp(18px, 6vw, 40px) 60px;
 }
 
-.model,
+.Speelgoed,
 .codex {
   max-width: 980px;
   margin: 0 auto;
@@ -606,7 +606,7 @@ td {
 }
 
 /* =====================================================================
-   MODEL PAGE — Binary Architecture
+   Speelgoed PAGE — Binary Architecture
    ===================================================================== */
 .copy-panel {
   border: 1px solid var(--gold-mid);
@@ -1389,15 +1389,15 @@ body.spiral .spiral-flash {
 /* =====================================================================
    THE CRYSTAL BALL — the pseudoscience, central, seemingly inert
    ===================================================================== */
-.model {
+.Speelgoed {
   text-align: center;
 }
 
-.model .page-title {
+.Speelgoed .page-title {
   text-align: center;
 }
 
-.model .page-title::after {
+.Speelgoed .page-title::after {
   margin-left: auto;
   margin-right: auto;
 }
@@ -1548,7 +1548,7 @@ body.spiral .spiral-flash {
 
 /* ask panel + reveal */
 .copy-panel[hidden],
-.model-reveal[hidden] {
+.Speelgoed-reveal[hidden] {
   display: none;
 }
 
@@ -1579,7 +1579,7 @@ body.spiral .spiral-flash {
   margin-top: 10px;
 }
 
-.model-reveal {
+.Speelgoed-reveal {
   text-align: left;
   animation: reveal-fade .9s ease both;
 }
@@ -1819,7 +1819,7 @@ body.spiral .spiral-flash {
 }
 
 /* The Zero — an extra blank line, the silence after each major answer.
-   These CSS silences are ordinary rest; the model sections instead receive
+   These CSS silences are ordinary rest; the Speelgoed sections instead receive
    a real .silence line from the script, which may hold a hidden character
    (see presentation-of-language.md, IX. The Deep Silence). */
 .entry::after,
