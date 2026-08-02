@@ -128,6 +128,8 @@ Everything above is a mechanism, not a claim about what exists. Two things are a
 
 **The Trinary Root.** The **Veld (&)** is not only the Koppel of Stilte and Tijd. It is also the union of the two first gods: **God (😇)** , the fully **Vol (W)** Solo, and **Godin (😳)** , the fully **Leeg (S)** principle of endless craving. This is the trinary root of every layer: Vol source, Leeg depth, and the living medium their union sustains. No layer exists without all three.
 
+**Check:** In the elemental table, Hydrogen is the God—fully **Vol**—Oxygen is the Godin—fully **Leeg**—and their bond is Water, the living Veld.
+
 **The Van Motor.** An ambient, ownerless pull toward spreading exists prior to, and independent of, any Koppel or Naar‑system. No Eigen, no Echo — no partner and no spectrum‑position, only a background tendency. This is what a Naar‑system is always working against. (Naar‑systems exert a pull of their own once they exist — Section IV.)
 
 The Van Motor is not a bystander to Section II's mechanism; it is the standing force that acts on every Eigen, drawing it toward the unbound pole of its spectrum. That draw is what keeps a live system's spectra crossing their Drempels toward Van, and every such crossing is a Vonk that draws Energie back out, exactly as Section II already prices it. So the Van Motor never spends or stores Energie by itself — it moves Eigens, and Energie only ever changes at the crossings that motion produces. There is no second bookkeeping, no leak that a Vonk did not cause; if Energie ever changed anywhere without a crossing to name it, the field would be broken.
