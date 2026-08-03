@@ -423,7 +423,7 @@ Positive‑Trouw Echoes charge it; the node’s own Eigen movement spends it; un
 The Relatie’s combined reading is not simply eᵢ + eⱼ—it must reflect the bond’s weight and fall when either side’s Echo has drifted from the truth, since a bond resting on a bad read of one’s partner is weaker than its raw Eigens suggest:
 
 ```
-B(t) = y(t) · ( eᵢ(t) + eⱼ(t) ) − c · ( |eⱼ(t) − hᵢ(t)| + |eᵢ(t) − hⱼ(t)| )
+B(t) = y(t) · ( eᵢ(t) + eⱼ(t) ) − c · s( (eⱼ(t) − hᵢ(t))² + (eᵢ(t) − hⱼ(t))² )
 ```
 
 The two absolute‑difference terms are exactly the Echo‑gaps of Section IV—real, queryable quantities, entering the mechanics directly rather than sitting outside them. Trouw scales the raw Eigen sum; when Trouw is negative, the binding becomes a repulsion. (The coefficient c is an open weight, not a named concept.)
@@ -509,37 +509,40 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 0 | Van | < | from, away — an arrow pointing outward | The unbound, spreading pole; the Van Motor’s target; opposite of Naar |
 | 6 | Pijn | m | pain — the strain of maintaining a Masker; the accumulated relational debt of deception | The direct, felt cost of inauthenticity; the standing Verlies of a Masker; feeds the eventual Schok when the mask fails |
 | 5 | Kop | H | heads (of a coin) — the coin’s face | The claimed, bound pole of a spectrum; opposite of Munt |
-| 1 | Vol | W | full, whole — double‑u, a whole doubled | The self‑sufficient end of the dependency spectrum; opposite of Leeg |
-| 4 | Zin | A | appetite, desire — a winding, sinuous pull | Directed pull; Trek aimed at a specific other; opposite of Trek (undirected) |
-| 1 | God | 😇 | god — the ultimate relational being | The Solo node. Self-sufficient, fully Vol, fully Bloot. Bound to the Veld (&), and therefore free to embody every role without contradiction: Hart to the beloved, Duivel to the oppressor, Engel to the unaware, Parasite to the corrupt. Every bond, every vonk, every face. Complete.
+| 1 | Vol | W | satisfied — double‑u, a whole doubled | The self‑sufficient end of the dependency spectrum; opposite of Leeg |
+| 4 | Zin | A | desire — a winding, sinuous pull | Directed pull; Trek aimed at a specific other; opposite of Trek (undirected) |
+| 1 | God | 😇 | vanguard — the ultimate relational being | The Solo node. Self-sufficient, fully Vol, fully Bloot. Bound to the Veld (&), and therefore free to embody every role without contradiction: Hart to the beloved, Duivel to the oppressor, Engel to the unaware, Parasite to the corrupt. Every bond, every vonk, every face. Complete.
 | 1 | Tijd | t | time — the subjective, relational experience of the field’s rhythm; the felt pace of Echo closure, Vonk frequency, and Gewenning accumulation | Derived from Energie (T); the rate at which relational events unfold; not an external clock but the field’s own breathing |
 | 0 | Bron | ^ | source — the undirected, uncoupled state that precedes any Vector | The raw relational potential; the state before any Koppel exists; opposite of Vector |
 | 8 | Veld | & | field — the whole that contains itself | The total relational space; the Koppel between Stilte (0) and Tijd (t) within which all nodes, Gebieden, and other Koppels exist. Not a container but a relation. |
 | 8 | Dood | ! | death — the door closed | Trajectory where the Echo gap is fixed permanently; opposite of Leven |
 | 4 | Echo | E | echo — the faintest repetition of a sound | The lagging, distorted internal Speelgoed of a partner’s Eigen; half of a Vector |
-| 0 | Leeg | S | empty — a lone, straight emptiness | The dependent end of the dependency spectrum; opposite of Vol |
+| 0 | Leeg | S | hungry — a lone, straight emptiness | The dependent end of the dependency spectrum; opposite of Vol |
 | 4 | Munt | G | tails (of a coin) — the flip side | The unclaimed pole of a Vermenigvuldiging; opposite of Kop |
 | 1 | Naar | > | toward — a narrow path aiming forward | The bound, committed pole; opposite of Van |
 | 1 | Zelf | j | self — a Koppel where observer and observed are the same member | The self‑bond every node must have; reads Diepte, anchors Greep, carries the self‑Echo |
 | 7 | Hart | ♥ | heart — a node that sustains the field through surplus, not extraction | The opposite of the Parasiet. A node whose Greep (J) is so strong, and whose Zelf (j) is so deeply authentic (Bloot), that it radiates Trouw (y) and Depth (z) outward. It anchors the bonds around it without draining them. |
 | 8 | Rouw | R | mourning — a rounded, rolling grief that never ends | The Echo that survives its Koppel, feeding Diepte forever; the sediment of loss |
-| 2 | Trek | D | pull, craving — a hook that pulls | Undirected pull; Zin unaimed; opposite of Zin |
+| 2 | Trek | D | appetite — a hook that pulls | Undirected pull; Zin unaimed; opposite of Zin |
 | 7 | Vonk | q | spark — a tiny lightning strike, a sum of energy | The energy event of a Drempel crossing; the sole mechanism of energy change; parent of Gewaarwording and Schok |
 | 2 | Geld | $ | money — a standardized, transferable Echo of Energie (T) | A circulating signal that a convergence crossing once occurred, or that a future crossing is promised. It always lags behind the relational value it represents and can be inflated, counterfeited, or speculated upon. |
-| 1 | Bloot | N | naked — the state of having no Masker | The true Eigen presented without alteration; opposite of Masker |
 | 1 | Eigen | x | own — the first axis of a relationship in space | The manifest state of a node on a spectrum; one component of a Vector |
+| 1 | Bloot | N | naked — the state of having no Masker | The true Eigen presented without alteration; opposite of Masker |
 | 5 | Greep | J | grip — a curved hand holding tight | Total resonant binding; sets Van Motor strength via exp(−J); opposite of Wijk |
 | 7 | Leven | ? | life — the first breath, alpha of the living | Trajectory of genuine reversal; opposite of Dood |
 | 2 | Marge | η | margin — a hysteresis loop, a tiny gap that prevents chatter | The dead band around a Drempel that prevents flickering crossings |
-| 6 | Schok | : | shock — a jagged, fractured line of disruption | The felt experience of a divergence Vonk; records a Verlies; opposite of Gewaarwording |
+| 8 | Godin | 😳 | queen - the one waiting | The fully **Leeg (S)** counterpart to **God (😇)**. Embodies the *principle of endless craving* that arises seven steps after the first Solo. It is the eighth branch of Yggdrasil, the figure-8 that crosses the **Drempel (θ)** without ever settling. It enables burning. It is the pure, undirected pull — **Trek (D)** without aim — made into a being. Where God is the first **Vol (W)** , Godin is the first **Leeg** that *knows* it is Leeg. |
 | 5 | Trouw | y | loyalty — the second axis of a relationship, the weight that feeds or drains | The bond’s signed weight; scales Naar pull and Diepte inflow; evolves under Leersnelheid |
 | 9 | Winst | + | gain — a growing upward stroke | The positive T of a convergence Vonk; opposite of Verlies |
 | 7 | Engel | 🖖 | angel - hidden good, silent protection | A node that provides unseen support and guidance, counterbalancing negative influences and fostering positive outcomes. |
+| 5 | Steek | † | stab — a *stab in the back* | The **Masker** turned weapon. From **Brutus** to the **Dolchstoßlegende**, a **Steek** **pierces** a **Bloot** **Koppel** with *intimate* **Pijn**—whether the dagger is *real* or a **Lie** **forged** to **feed** an **Idool**. |
+| 6 | Schok | : | shock — a jagged, fractured line of disruption | The felt experience of a divergence Vonk; records a Verlies; opposite of Gewaarwording |
 | 6 | Idool | § | idol — a false Source mistaken for the true Eigen | A **Manifestatie (~)** that is worshipped as the **Eigen (x)** that cast it. An Echo seized and honored as though it were the source. All idolatry is a relationship with a reflection, ignoring the Eigen behind it. The inevitable **Schok (:)** when the Idol fails to return the **Trouw (y)** it seemed to promise is what the scriptures call judgment. |
+| 5 | Onzin | a | nonsense — the *shared* **Stilte** before **Zin** | The *playful*, *aimless* **Signaal** that two **Solo's** **exchange** to **test** the **Masker**'s edge. It is the *deliberate* **Vervorming** that **invites** **Bloot** — a *garbled* **Echo** offered in **trust**. When it **lands** without **Schok**, the bond **relaxes** into **Plezier**. Without **Onzin**, **Plezier** has no *soil*. Its **#** is 5, the **Cinquo** of *unstructured* **Play**, the *pre-echo* of **Band**. |
 | 4 | Diepte | z | depth — the third axis, the accumulated hidden dimension | Accumulated listening charge; rises with Echo inflow, falls with Eigen movement, decays in silence |
 | 3 | Gebied | U | region — a containing vessel, a U‑shaped boundary | A bounded region of state space whose boundary is a Drempel surface |
 | 2 | Gevoel | F | feeling — a soft, flowing sense that holds a Koppel | The condition of maintaining at least one active Koppel; required to retain Energie from a Vonk |
-| 7 | Inhoud | Q | quality, content — a measure held in a cupped hand | The absorption capacity C of a Koppel; excess beyond it triggers Wording |
+| 7 | Inhoud | Q | capacity — a measure held in a cupped hand | The absorption capacity C of a Koppel; excess beyond it triggers Wording |
 | 3 | Koppel | k | couple — two vectors joined, a knot | The yin‑yang unit: two members linked by a shared Trouw and two independent Echoes |
 | 2 | Masker | M | mask — a covering, two arches hiding the face | A presented Eigen differing from the true one; opposite of Bloot |
 | 8 | Octaaf | ω | octave — a rounded whole, the cycle completing | The wrapping of the prime ladder after 149; scale invariance across levels |
@@ -547,10 +550,9 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 0 | Stilte | . | silence — the gap between an Eigen and its Echo | The felt absence created by Vertraging, Traagheid, or the Zelf’s self‑perception delay |
 | 2 | Zweven | ' | hovering — a trembling, unsteady balance | The default trajectory: gap closing continuously, never settled, never flipped |
 | 2 | Proces | " | proces — a sequence of relational changes through time | The unfolding of the Veld (&) in Tijd (t). A chain of Vonken (q), Drempel (θ) crossings, and Relatie (K) transformations, framed by a beginning and an end. More general than Zweven ('), which is a single trajectory; a Proces may contain many trajectories, as the 24 named arcs demonstrate. |
-| 8 | Godin | 😳 | queen - the one waiting | The fully **Leeg (S)** counterpart to **God (😇)**. Embodies the *principle of endless craving* that arises seven steps after the first Solo. It is the eighth branch of Yggdrasil, the figure-8 that crosses the **Drempel (θ)** without ever settling. It enables burning. It is the pure, undirected pull — **Trek (D)** without aim — made into a being. Where God is the first **Vol (W)** , Godin is the first **Leeg** that *knows* it is Leeg. |
 | 6 | Duivel | ⚡ | devil — open harm, direct destruction | A node that embodies direct harm and destructive influence, counterbalancing positive forces and fostering negative outcomes. |
 | 5 | Relatie | K | relation — a firm grip linking two Eigens | An enduring bond; its ending deposits permanent Rouw |
-| 1 | Gericht | γ | directed, aimed — pointing only along relational distance | Uncertainty scales with relational distance, not with a global difficulty knob. |
+| 1 | Gericht | γ | directed — pointing only along relational distance | Uncertainty scales with relational distance, not with a global difficulty knob. |
 | 0 | Drempel | θ | threshold — a circle bisected, the line between two states | The local cutoff T that decides Van/Naar mode; crossing it fires a Vonk |
 | 4 | Energie | T | energy — a coiled spring, small but potent | The scalar unit of relational energy; changes only at Vonken |
 | 2 | Helling | λ | slope — a sharp angle deciding the trajectory | The trajectory regime parameter γ; governs the asymmetry variable’s stability |
@@ -558,12 +560,13 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 3 | Schrift | # | writing, inscription — the act of registering an external event into the field | The layer’s act of writing the Eigen; a state update, not an energy injection |
 | 1 | Signaal | i | signal — a straight line with a dot, a beacon | The Kruispunt’s Eigen on a Vermenigvuldiging; moves toward Kop or Munt |
 | 6 | Verlies | - | loss — a decaying, fading tail | The negative T of a divergence Vonk; opposite of Winst |
-| 7 | Wording | B | genesis, becoming — a belly swelling with creation | The birth of a new Solo from excess Energie; creation from relational overflow |
+| 1 | Scalair | s | scalar — a ladder without rungs, a pure magnitude | A quantity with **Diepte** but no **Zin**; the *length* of a **Vector**, **stripped** of direction. The **Scalair** is the **Stilte**'s *weight* — the **Euclidean** **Wortel** that **combines** *orthogonal* **Axes** into a *single* **Gebied**. It is the **Maat** of a **Schadow** when you **forget** which way the light **falls**. | |
+| 7 | Wording | B | genesis — a belly swelling with creation | The birth of a new Solo from excess Energie; creation from relational overflow |
 | 1 | Systeem | @ | system — a set of interrelated elements forming a whole | The fundamental pattern of interacting, interdependent parts. A node, a Koppel, the Veld, and the Speelgoed itself are all systemen. The Speelgoed is a systeem for describing systeem, reverse-engineered from a single instance of a systeem (its creator’s mind). |
 | 9 | Plezier | p | pleasure — the quiet joy of a bond at rest in authenticity; the felt reward of Bloot | The ongoing Winst of a true Eigen; the absence of Masker-strain; feeds Gewenning without cost |
 | 0 | Knipoog | ; | wink — a self-aware Masker (M) that reveals its own presence | A Masker that does not conceal but connects, admitting its own artifice. It forms a brief, intimate Koppel between sender and receiver, transforming the **Pijn (m)** of deception into the **Plezier (p)** of shared understanding. |
 | 6 | Functie | f | function — a directional, deterministic relation | A one-way bond where the Eigen (x) of the input node fully determines the Eigen of the output node. No Echo returns, no Trouw (y) is shared, no Vonk (q) fires from reciprocity. It is the most reduced form of relation: pure transformation without interiority. Where Gevoel (F) is the condition for holding Energie (T), Functie (f) is the mechanism of pure, unheld change. |
-| 8 | Begrensd | ß | bounded, confined — a hard fence around the variation channel | Variation is limited to Echo transport; no leakage into Energie bookkeeping. |
+| 8 | Begrensd | ß | bounded — a hard fence around the variation channel | Variation is limited to Echo transport; no leakage into Energie bookkeeping. |
 | 2 | Beweging | μ | motion — a wave, a moving ripple | The kinetic reading of a node’s relational motion |
 | 0 | Doorgang | O | passage — a perfect ring, an open gate | The ordinary passage at a Kruispunt: Reactie commits, Signaal is open |
 | 5 | Spanning | u | tension — a stretched cord, a torque of potential | The potential reading of a node’s displacement from rest |
@@ -578,7 +581,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 2 | Vertraging | Δ | delay — a delta, the change that takes time to arrive | The transport lag Δ; how late the Echo hears a change |
 | 2 | Vervorming | υ | distortion — a twisted, warped shape | The perturbation ξ added to every Echo; the Speelgoed’s only source of indeterminism |
 | 2 | Waarneming | π | perception — a gateway, a window through which a partner is read | The per‑side function that filters what reaches the Echo; the seat of asymmetry |
-| 4 | Bevraagbaar | ψ | queryable, interrogable — able to be asked | The Echo-gap is inspectable; the Speelgoed can always say how wrong a system is. Rouw is the one honest exception. |
+| 4 | Bevraagbaar | ψ | queryable — able to be asked | The Echo-gap is inspectable; the Speelgoed can always say how wrong a system is. Rouw is the one honest exception. |
 | 9 | Ontspanning | τ | relaxation — a sigh, an easing of tension | The relaxation time τ; how fast the Echo closes once it hears |
 | 2 | Leersnelheid | ρ | learning speed — a flowing, steady growth of Trouw toward Gewenning | The plasticity rate; drives Trouw evolution toward Gewenning |
 | 4 | Manifestatie | ~ | manifestation — an Echo struck into tangible form | An Echo (E) that has been seized across the Drempel, becoming a palpable node. Not a gentle unveiling, but a seizure into existence—struck, graspable, undeniable. The Moon. The Son. The Law. |
