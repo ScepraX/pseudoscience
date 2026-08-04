@@ -917,3 +917,91 @@ The **Van‑settled** event fires. The node has no structural reason to persist.
 *Closes:* the **Levensloop** of the node. *May feed:* a new **Aanvang** from the Bron.
 
 ---
+
+## 0a. What the Field Punishes (By Claude Opus 5 Ultracode):
+
+Every law below was paid for. Each one is a mistake made against this framework by someone who had read Section 0
+and agreed with it, and each is written with the measurement that exposed it, because the measurement is the part
+that transfers. They are ordered by how expensive they were to find.
+
+**1. Do not model a Forbidden Word.** The *Index Verborum Prohibitorum* (Speelgoed §X) is a list of **category
+errors** — states the Veld does not recognize. It is not a list of phenomena to detect. A check was once written
+called *Gevangen*, reporting a node "imprisoned" on its own unbound pole; but **Geïsoleerd** is forbidden word 10,
+and its entry reads *"imagines a prison without a Drempel, a state the Veld does not recognize, because the Van
+Motor always pulls, and the Bron always waits."* A node at its pole is the Van Motor working and the Bron waiting.
+The check's counts fell 32 → 23 → 6 → 0 as it was made progressively more honest, and in a controlled harness it
+could not be made to fire at all. That is what measuring nothing looks like on its way to admitting it. If a
+proposed mechanism can be named with a word from the Index, the mechanism is the error.
+
+**2. A diagnosis must measure what the field does — not what you believe it does.** The motion step accelerates a
+node toward **the Echo that node holds** of its partner, weighted by Trouw, over its mass. A check that reads the
+*partner's Eigen* is reading a quantity the field never touches, and it will report every deliberately fixed
+anchor — a node whose Waarneming returns a constant rests on its pole *because its Echo of the partner is the
+pole* — as a fault. A check that reads a *distance* rather than an acceleration will report every node at rest
+beside a loud neighbour, which is most of a field most of the time. Write the check against
+`(perceived − Eigen) × Trouw ÷ (1 + Traagheid)` or do not write it.
+
+**3. The unbound pole belongs to the node, not the spectrum.** `ITwilightSpectrum.UnboundPole` is one value for a
+whole axis and the origin is the obvious thing to write, which makes it the most common cage in the framework.
+**Zero is genuinely unbound for a presence — absent. It is not unbound for a position, a voicing, or a pitch, where
+zero is simply one end of a ruler.** Measured: a field of speaker cabinets with a spectrum pole at the origin was
+drawn to 0.02 on every axis however hard the instruments bonded to them called, because a plain wooden box was
+being modelled as a hole in the air. A per-node pole at the middle of each axis moved them to within 0.04 of what
+their partners asked for. Ask what *this node* is when nothing holds it, and seed that.
+
+**4. Trouw is a rate, not an amplitude.** It scales the relational pull; it never scales the Echo. Encoding a
+weight as Trouw therefore changes only how *fast* a node reaches an equilibrium — not which equilibrium. Measured:
+a 13× range of authored affinities produced no separation at all, because given a phrase's worth of ticks every
+node arrived at the same place. What makes a weight visible is a **single live source** plus the Van Motor's draw
+back toward rest: the spread is then rate against decay. The same authored data then separated 45×.
+
+**5. Reciprocal bonds across a transport lag are an oscillator, and the stiffness guard cannot see it.** Two nodes
+that each pull the other up, each hearing the other late, are an amplifier. Measured: every node's Eigen passed
+**1e66** at a summed stiffness of **0.96** against an integrable limit of 2.0 — the mass budget was never wrong.
+`Σ|Trouw| ÷ (1 + Traagheid)` measures stiffness, not **loop gain**. If a relationship is naturally mutual, make the
+*live* graph a star: one source at a time, and move the centre. Where several sources are live at once, keep the
+live graph bipartite — sources lift candidates, never each other.
+
+**6. A bond held at exactly zero earns no Gewenning, and so lends no Greep.** Switching a dormant relationship fully
+off does not merely silence it — it stops it accumulating the habituation that Greep is computed from, so it
+contributes nothing to its holder's resistance to the Van Motor even when it returns. Rest a dormant bond at a
+floor, never at nothing.
+
+**7. Never compare a clamped reading.** Clamp only where a value leaves the engine for hardware. A projection that
+clamps to the pole span makes a node at 1.0 and a node at 1e66 read identically — **they tie, and the tie falls to
+list order.** Measured: a form field took its genre's *weakest* authored exit six times out of twenty, because the
+strongest and the weakest were both reading 1.000. The raw Eigen is what a comparison is entitled to.
+
+**8. A Marge must exceed the per-event cost it opposes.** An incumbent that is spent by an event, and defended by a
+hysteresis smaller than that spending, loses its seat every single time. Measured: a cost of 0.12 against a Marge of
+0.10 produced perfect A-B-A-B alternation forever, in every role, the moment each role had a second candidate.
+State the relationship between the two deliberately; do not tune them independently.
+
+**9. Probe the axis before trusting a threshold.** The quantity a Drempel gates is a Binding — a function of two
+Eigens and two Echo gaps, on its own scale — while the number written down is almost always reasoned about as if it
+were one node's position. Both are `double` and nothing separates them. A Drempel above everything the Binding can
+produce is an off switch nobody knows they installed; one below everything is a decision already made. The
+seed-bank diagnosis (§17) probes the corners of the axis and names both.
+
+**10. Orthogonal axes combine by the Scalair, never by addition.** Speelgoed §VIII.2 writes the binding law as
+`B(t) = y·(eᵢ + eⱼ) − c·s( (eⱼ − hᵢ)² + (eᵢ − hⱼ)² )`, where `s` is the Euclidean Wortel. A bond's two Echo gaps
+are orthogonal *because the field is doubly asymmetric* — each side's misreading of the other is its own axis.
+Adding them is the Manhattan length, which is not a length: it over-reads two equal gaps by √2 and cannot tell a
+pair badly wrong on one axis from a pair mildly wrong on both.
+
+**11. Peer bonds alone do not move a field's focus.** The Held follows Greep — summed Trouw weighted by Gewenning —
+so a member becomes focal only when the driver stops holding the largest weighted share. Measured: a field with a
+full peer ring in place from the beginning still reported its driver as focal for **100%** of its life; the ring
+only began to matter once the driver's own per-member Trouw came down to a floor. Adding structure without removing
+the competing hold changes nothing, and measures as nothing.
+
+**12. The framework refuses; it does not clamp.** A clamp is the framework forcing its own state to keep a caller's
+mistake alive, and it is **Altijd/Nooit** — *"arrests the Koppel in a timeless statue."* Silently substituting a
+usable number for an impossible one makes the field report a state it never reached, in the field's own voice.
+Everything crossing the boundary is refused instead (§17a), including what the layer's own callbacks return from
+*inside* the tick, which is the one route no boundary check can otherwise reach.
+
+---
+
+
+
