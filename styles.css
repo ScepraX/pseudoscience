@@ -389,6 +389,10 @@ body.menu-open .menu {
   color: var(--gold);
 }
 
+.equation {
+  color: var(--gold);
+}
+
 .mnum {
   color: var(--gold);
   font-variant-numeric: none;
