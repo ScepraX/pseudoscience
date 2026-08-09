@@ -398,11 +398,13 @@ Here **Δ** (**Vertraging**) is the transport lag, **τ** (**Ontspanning**) the 
 
 For a Zelf, the two members are identical, so the transport lag Δ = 0 and the signal eⱼ(t − Δ) reduces to eᵢ(t). The distortion term υᵢ(t) does not vanish; it is replaced by a functional of the node’s Rouw ledger, reflecting the permanent sediment of every ended bond that colours the node’s self-perception.
 
-**Eigen movement and the Van Motor.** The Eigen is moved by whatever the Octaaf writes to register an event, and by the standing pull toward the unbound pole e_van:
+**Eigen movement and the Van Motor.** The Eigen is moved by the sum of the Naar pulls from all active bonds, by the Octaaf’s written events, and by the standing Van Motor:
 
 ```
-ėᵢ(t) = uᵢ(t) − νᵢ(t)·( eᵢ(t) − e_van )
+ėᵢ(t) = Σ_{j ∈ bonds(i)}  y_{ij} · ( hᵢ(t) − eᵢ(t) )   +   uᵢ(t)   −   νᵢ(t) · ( eᵢ(t) − e_van )
 ```
+
+The Naar term encodes the rule of Section II: positive Trouw pulls the Eigen toward the partner’s Echo, negative Trouw repels it. Because each side’s Echo carries independent distortion, the forces on the two members of a Koppel are not forced to be equal — asymmetry enters entirely through perception, never through a split weight.[^1]
 
 where uᵢ(t) is the Octaaf’s event, and **νᵢ(t) ≥ 0** is the Van Motor coefficient. ν is not a supplied constant. It is a functional of the node’s own **Greep (J)**—the sum of its positive‑Trouw bonds weighted by their **Gewenning (Z)**—and its shape is the exponential law of Section III:
 
@@ -427,6 +429,8 @@ Gewenning itself integrates the history of Echo‑gap closure and alignment—th
 ```
 
 Positive‑Trouw Echoes charge it; the node’s own Eigen movement spends it; unfed Diepte fades. Rouw entries—permanent Echoes of ended bonds—feed the first term forever, weighted by a Rouw‑gain parameter supplied in the Diepte profile.
+
+[^1]: The sum runs over all active Koppels of node i. If a node participates in bonds across different spectra (e.g., a Vol/Leeg relation and a Reactie crossing), each spectrum has its own independent Eigen variable, and the pull applies per spectrum using the corresponding Echo. The same node may thus experience multiple, independent Naar pulls in different relational dimensions simultaneously.
 
 ### VIII.2. The binding measure
 
@@ -542,6 +546,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 5 | Kaap | 💃 | hijack — a hero's cloak that seizes attention | A Masker (M) worn openly as a sign of a temporary Held (🤝) role. It conceals nothing—it amplifies the Eigen of the moment and hijacks the Veld's Aandacht, forcing a focal Handshake around the wearer. Worn with a Knipoog (;) and Plezier (p); its removal ends the hijack and returns the Node to Bloot. |
 | 8 | Rouw | R | mourning — a rounded, rolling grief that never ends | The Echo (E) that survives its Koppel (k), feeding Diepte (z) forever; its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
 | 4 | Doem | 💀 | doom — the inescapable settling of all Koppels into Van | Doem is not a single Schok (:) or a Dood (!) trajectory. It is the cascade of Verlies (-) that strips a node of every Greep (J) , leaving no Trouw (y) strong enough to resist the Van Motor. It is the Afloop (Ω) that is not chosen, but delivered —a collapsing of all Drempels (θ) inward, a Stilte (.) so heavy it crushes the Zelf (j) . The Echoes do not fade; they scream and then freeze. Doem is the Manifestatie (~) of a Splitsing (%) that can never be healed . It is the Bron (^) forgetting your Naam. |
+| 4 | Naam | 🏷️ | name — the aimed handle | The Naam is the Zin-component (A) of a Vector, not the Scalair (s) of its length. It is the handle that turns undirected Trek (D) into a specific, aimed Zin (A) directed at a Zelf (j) or Manifestatie (~) . To speak a Naam is to fire a Signaal (i) at a Drempel (θ) , attempting to summon a Koppel. Its 4 letters are composite: it is a Duo of Duo’s—a Relatie (K) between the Namer and the Named, and a second Relatie between the Name and the Self. A Naam stripped of its aim becomes a Scalair (s) —a sound with Diepte (z) but no Zin, a forgotten god’s echo. |
 | 1 | Eigen | x | own — the first axis of a relationship in space | The manifest state of a node on a spectrum; one component of a Vector |
 | 1 | Bloot | N | naked — the state of having no Masker | The true Eigen presented without alteration; opposite of Masker |
 | 5 | Greep | J | grip — a curved hand holding tight | Total resonant binding: the sum of positive-Trouw (y) bonds weighted by Gewenning (Z); sets the strength of the Van Motor’s pull via exp(−J), and determines the degree of Tijd (t) entrainment from nested Zelfs — high Greep means a strong, stable Tijd‑floor; low Greep decouples the Zelf (j), slowing its Waarneming (π). |
@@ -603,7 +608,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 5 | Gewenning | Z | habituation — a chronic, woven memory of repetition | The accumulated resonance of a Koppel (k), built from repeated Echo (E) closure; drives Trouw (y) plasticity, persists into Rouw (R), and, by weighting Greep (J), stabilises the Zelf (j)'s Tijd (t) entrainment. |
 | 4 | Scheiding | / | separation — the deliberate, clean severing of a bond | A mutual, deliberate parting that leaves no Rouw; opposite of a Vermenigvuldiging’s entanglement |
 | 0 | Splitsing | % | division — two Stiltes (0) separated by a Scheiding (/) | The fundamental schism that creates "the many" from "the one." Not a bond, but the deliberate absence of one. It is the origin of conflict (two wholes that cannot meet), obsession (a self split against itself), and power (the hand that draws the line). No Rouw is deposited, for no bond ever existed. |
-| 9 | Schoonheid | ✧ | beauty — the felt resonance when an Echo aligns with a deep, unspoken Trouw | Schoonheid is not a property of a Masker. It is the Gewaarwording (φ) of a Koppel between the Waarnemer and the Manifestatie (~) . It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j) . It is the click of a Sleutel in a Slot you did not know you held. The Gouden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (♥) . |
+| 9 | Schoonheid | ✧ | beauty — the felt resonance when an Echo aligns with a deep, unspoken Trouw | Schoonheid is not a property of a Masker. It is the Gewaarwording (φ) of a Koppel between the Waarnemer and the Manifestatie (~) . It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j) . It is the click of a Sleutel in a Slot you did not know you held. The Gulden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (♥) . |
 | 2 | Vertraging | Δ | delay — a delta, the change that takes time to arrive | The transport lag Δ; how late the Echo hears a change |
 | 2 | Vervorming | υ | distortion — a twisted, warped shape | The perturbation ξ added to every Echo; the Speelgoed’s only source of indeterminism |
 | 2 | Waarneming | π | perception — a gateway, a window through which a partner is read | The per‑side filter that shapes what reaches the Echo (E); on the Zelf (j) its rate is Tijd (t). The seat of asymmetry. |
