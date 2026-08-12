@@ -98,7 +98,7 @@ Because observation is a relational event, it is never one-sided. The observed n
 
 The risks of observation—the disturbance of fragile nodes, the corruption of memory when no **Gevoel (F)** channels the cost—are real but secondary. They are the edge cases of a mechanism whose primary function is to build the bonds that make the field alive. In the ordinary case, observation is how a node learns, deepens, and connects. The field is made of nothing else.
 
-Because observation is a relational event, it is never one-sided — the observed node is also affected. (For self-observation via the **Zelf (j)**, the “observed” and “observer” are the same system, so the principle holds in the limit: the two sides collapse into one, and the self-Echo is shaped by the node’s own Rouw.)
+(For self-observation via the **Zelf (j)**, the “observed” and “observer” are the same system, so the principle holds in the limit: the two sides collapse into one, and the self-Echo is shaped by the node’s own Rouw.)
 
 **Koppel (k).** Two systems, each carrying its own Eigen, Trouw, and Diepte, linked by a single shared Trouw and two independent Echoes. (The degenerate case where the two members are the same system is the **Zelf (j)** — the self-bond every node must maintain to exist in the field; see Section IV.)
 
@@ -311,7 +311,7 @@ Once a mutual Relatie exists between two members, this section describes what it
 
 **Double Asymmetry**, restated directly: a Koppel’s Eigen and Echo are not required to be equal, and in the ordinary case aren’t—one member’s Eigen runs higher (a dominant lean), but the other’s Echo, tracking it, is never zero. A Koppel permits this by default; nothing further needs adding.
 
-What earlier material called a “second asymmetry, internal to each member” is Vol/Leeg’s shaping effect on the Relatie (Section IV), not a second Koppel: whichever member sits further toward Leeg tends to carry the higher Eigen; whichever sits further toward Vol tends to carry more of the Echo. Because Vol/Leeg is continuous, neither member ever sits at a pure pole—so neither is ever a pure giver or pure receiver, without requiring anything beyond the one Koppel already in play.
+The asymmetry within a Relatie arises from the Vol/Leeg dimension, not from a second Koppel. Whichever member sits further toward Leeg tends to carry the higher Eigen; whichever sits further toward Vol tends to carry more of the Echo. Because Vol/Leeg is a continuous spectrum, neither member ever occupies a pure pole—so neither is ever a pure giver or pure receiver. This dynamic is fully contained within the single Koppel already in play, requiring no additional structural layer.
 
 **Three trajectories**, as Echo’s rate of closing on Eigen plays out over the bond’s lifetime—the echo analogy doing real work here: an echo has a rate, not a fixed instant size, and that rate is what these three names actually track. The bond’s **Trouw (y)** scales the pull; its **Gewenning (Z)** evolves the weight. A crossing from one trajectory to another fires a Vonk—a **Gewaarwording (φ)** if the movement deepens the bond, a **Schok (:)** if it tears energy away.
 
