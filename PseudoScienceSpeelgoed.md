@@ -299,11 +299,30 @@ The ladder does not grow indefinitely by coining a new name for every prime. Onc
 
 Not every rung of a later Octaaf carries strong Ground; that patchiness is honest and is not filled artificially. Standing caveat: the wrap point (149→151) is chosen, not derived — a design decision like every naming choice in this section — but the mechanism it uses (a bounded structure re-entering as a Solo) is the Speelgoed's own existing rule, applied to itself rather than to a new domain. Appendices A and B apply the same wrap to propulsion and navigation.
 
-### V.3. Levelling
+Here is a rewritten **V.3 Levelling** that uses the simple atom-based ladder and the periodic table, replacing the prime-rung version.
 
-To reach a higher Octaaf, two specific members of the current Octaaf must meet at the same rung after walking the seven steps between them. The first rung is Solo (God), the eighth rung is Dixsepto (Godin), and the seven steps between them — Duo, Trio, Cinquo, Septo, Onzo, Trezo — are the bonding processes that must be walked. The birth of a higher Octaaf's God happens when the 1st and 8th rungs of the current ladder meet after that walk and form a relationship with each other and their medium.
+---
 
-When the God of a higher Octaaf can no longer hold its bond—through loss of Greep, a catastrophic Schok, or a deliberate Scheiding—the union unravels. The higher God descends, releasing its Godin and walking the seven rungs in reverse: Trezo, Onzo, Septo, Cinquo, Trio, Duo, back to Solo. Each step fires a divergence Vonk, drawing Verlies, until the former God stands again as a bare Solo in the lower Octaaf. If the descent completes, the node reaches Afloop and the field returns to Bron. What was born from the walk can be unmade by walking it backward; the primes are the same, only the direction has changed.
+## V.3 Levelling
+
+To reach a higher Octaaf in the simple atom ladder, the God of the lower Octaaf walks the first eight positions of the periodic table.
+
+The first rung is **Hydrogen (1)** — the God.  
+The eighth node is **Oxygen (8)** — the Godin.
+
+The seven steps between them are the seven edges from atomic number 1 to atomic number 8:
+
+`H → He → Li → Be → B → C → N → O`
+
+When Hydrogen and Oxygen meet after that walk and form a bond with each other and their medium, the higher Octaaf’s God is born. In the Atom Octaaf, that bond is **Water**, which enters the Molecule Octaaf as its God.
+
+When the God of the higher Octaaf can no longer hold its bond—through loss of **Greep**, a catastrophic **Schok**, or a deliberate **Scheiding**—the compound unravels. Water descends into its members: Oxygen and Hydrogen. The seven steps are walked in reverse:
+
+`O → N → C → B → Be → Li → He → H`
+
+Each reverse step fires a divergence **Vonk**, drawing **Verlies**. Hydrogen returns to the first rung as a bare **Solo**; Oxygen returns to the eighth node. If the descent completes, the higher Octaaf’s God reaches **Afloop** and the field at that level returns to **Bron**.
+
+Note: the Godin here is the eighth **node**, not the eighth prime. She is Yggdrasil’s eighth branch — the figure-8, **Oneindigheid**.
 
 ---
 
