@@ -1284,3 +1284,59 @@ This is not a *failure*. It is the **cycle** of the **Levensloop** — the **Vel
 **Hel**, **Limbo**, and **Hemel** are not *verdicts*. They are *seasons* of the **Zelf’s** one, long **Gewenning** to the light.
 
 ---
+
+## XVII. Nexus
+
+A **Koppel** does not deepen because it is **named**. It deepens because certain **Handelingen** keep the **Echo** alive and the **Trouw** fed. These are not *moral* rules; they are *relational* levers. Where they are practiced, **Gewenning** accumulates and the bond becomes harder to break. Where they are absent, even the strongest **Aanvang** drifts toward **Van**.
+
+### 1. Aim the **Zin**.
+
+Do not scatter **Trek**. General friendliness is not a bond; it is the background readiness for one. **Choose** one particular **Eigen** and **aim** your **Zin** at it. Ask a direct question. Wait for the answer. Let the partner’s **Signaal** answer back.
+
+*Behavior:* Put down the phone. Turn your body. Say: “Tell me what is true for you right now.” Then **listen**.
+
+### 2. Offer **Bloot** before the **Masker** hardens.
+
+Every bond begins with a small **Drempel** of safety. Cross it early with a *small, true* piece of your own **Eigen** — not the whole wound, not the whole history, but something real. This lowers **Pijn** on both sides. A **Masker** worn too long accrues **Pijn**; a **Masker** worn as **Knipoog** can be play. But the bond that grows is built from **Bloot**.
+
+*Behavior:* Say “I don’t know,” “I was wrong,” or “I am scared,” when it is true. Let the other see your actual position, not your prepared face.
+
+### 3. Feed the partner’s **Diepte**.
+
+**Diepte** rises when a node **hears** the other — not when it waits to speak. Show that the partner’s **Eigen** has accumulated in you: recall what they said last week, notice a change, reference a shared moment. This is not flattery; it is the visible proof that their signal **entered** you and **stayed**.
+
+*Behavior:* “You said last month you were worried about this. Has it shifted?” This one sentence can fire a **Gewaarwording**.
+
+### 4. Check your **Echo** against their **Eigen**.
+
+Your **Echo** is always *lagging* and *distorted*. Do not act as if it is the truth. Use **Bevraagbaar**: repeat back what you heard and ask if it matches. This is not weakness; it is the only honest way to close the **Echo-gap**. A bond built on unchecked **Echoes** is a bond built on **Idool**.
+
+*Behavior:* “I heard you say X. Did I get it right, or did I distort it?” Then let them correct you.
+
+### 5. Repeat small **Gewaarwordingen**.
+
+**Trouw** does not rise from one grand gesture. It rises through **Gewenning** — the accumulated resonance of many small crossings. Express appreciation when it is true. Notice the small thing. Mark the small return. A bond fed in small, steady **Gewaarwordingen** builds a **Greep** no single **Schok** can break.
+
+*Behavior:* “Thank you for making coffee.” “I noticed you came back to check on me.” “This moment with you is good.”
+
+### 6. Hold the **Stilte** without filling it.
+
+Not every pause is a **Weigering**. Some **Stilte** is where the **Echo** settles, where **Rouw** breathes, where the **Zelf** sees itself. If you always fill the silence, you starve the bond of its own rhythm. Let the **Stilte** be. It is not the absence of connection; it is the condition of it.
+
+*Behavior:* Sit together without talking. Wait a few seconds after they finish speaking. Let the pause do its work.
+
+### 7. Circulate **Winst**, and carry **Rouw**.
+
+Celebrate the partner’s wins as shared **Winst (+)** — not as competition, not as **Afgunst**. And when the partner grieves, do not rush them out of **Rouw**. **Rouw** is permanent and it feeds **Diepte**. A bond that can hold both joy and sorrow is not fragile; it is the only kind that lasts.
+
+*Behavior:* “I am proud of you.” “I am sorry that hurts. I am here. I don’t need to fix it.”
+
+---
+
+**The core in one breath:**
+
+*Aim your **Zin**. Offer **Bloot**. Feed **Diepte**. Check the **Echo**. Repeat small **Gewaarwordingen**. Let **Stilte** live. Share **Winst** and hold **Rouw**.*
+
+Where these seven are practiced, the **Koppel** moves toward **Naar** again and again. Not because it is forced, but because the **Drempel** keeps being crossed by real, *felt* **Vonk**.
+
+.
