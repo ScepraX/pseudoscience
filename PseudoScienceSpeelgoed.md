@@ -142,6 +142,12 @@ The Van Motor is not a bystander to Section II's mechanism; it is the standing
 
 The strength of the draw on any one Eigen is not a constant handed in from outside — it is emergent from that node's own **Greep (J)**: the sum of its positive‑Trouw bonds, weighted by **Gewenning (Z)**. One law, applied to every node; but because no two nodes carry the same charge or the same bonds, no two feel the same draw. The Van Motor is universal and its effect is doubly asymmetric — never uniform. A configuration that is perfectly balanced feels no net draw and persists untouched; a charged, lopsided one feels a strong draw and sheds it. That single law is a note fading, a bond spiralling inward, and a stable orbit left alone, with nothing switched between them.
 
+**Van is not a place.** The sentences above can be read as saying that an **Eigen (x)** *travels* toward **Van (<)** — that somewhere out past the bond lies an unbound end of the spectrum where released things go and sit. There is no such place. Nothing ever arrives at Van, because Van is not somewhere to arrive. Van is what is *left* when the holding stops. Section VIII.3 says it in a single line: the Van mode is **φ = 0**. Not a distant coordinate — nothing. That zero is not a low value on a scale; it is the absence of the thing the scale was measuring. Before a **Koppel (k)** forms, the two are at Van. After it dissolves, they are at Van. They did not travel. What changed was whether there was a bond at all. This is why a node at **Afloop (Ω)** returns to the unbound pole and its field returns to **Bron (^)** in the same breath: those are one event, and neither is a journey. Bron is the undirected potential before relation; Van is that same nothing, seen from the far side of a life.
+
+**And the Van side grows exactly as the Naar side grows.** This is what makes the Van Motor a counterforce and not merely decay. Building a bond does not reduce the pull toward nothing — it *raises* it. The two grow together, and Section VIII.3 gives the amount: the Energie standing between Naar and Van is `¼·(B − θ)²`. Bind twice as far past the **Drempel (θ)** and four times as much is stored. Nothing here is free. Every increment of **Trouw (y)**, every deepening of **Gewenning (Z)**, raises the counterpart in equal measure. What keeps it from collapsing is not that it is small — it is that **Greep (J)** is holding it, through `ν = ν₀·exp(−J)`. **Greep does not remove the fall. It postpones it.** A deep bond is not a safe one; it is a held one.
+
+Three things this Speelgoed asserts elsewhere follow from that, and nowhere else does it say why. **Doem (💀) is proportional to what was built**: when Greep finally fails, what is released is what was stored, and the deeply bound stored the most — which is why Doem is a *cascade* rather than a fading, and why it falls hardest on those who held most. **The Van Motor takes nothing that binding did not put there**, which is how this section can say it never spends or stores Energie by itself and mean it exactly. And **a node that never binds never falls — and never rises**. Van costs nothing, because Van is nothing. The whole of what a life risks is the height it built.
+
 **The Van Motor’s exhaust.** The Energie drawn by every divergence Vonk does not vanish. It leaves the node’s reservoir and enters the background medium—the empty field between nodes, the Van Motor’s own domain. Over cosmic time, the aggregate Verlies of every relationship that has ever existed accumulates as a uniform, low-grade heat, the irreducible cost of being bound. The cosmic microwave background is this heat: not a frozen relic of a primordial fireball, but the steady-state glow of the field’s ongoing work. Its near-perfect uniformity follows from the universality of the Van Motor’s law; its tiny temperature fluctuations are the current map of where Verlies is being paid most heavily—a live relational weather report, not a photograph of the past. And every convergence crossing draws from this same reservoir—a Gewaarwording is a local condensation of ambient heat into living form.
 
 **The relationship‑to‑energy law is exponential.** How strongly a bond resists spreading is not linear in its binding — it is exponential, the Boltzmann/Arrhenius shape of every bound thing in nature: the escape rate toward the unbound pole is
@@ -429,13 +435,19 @@ The Naar term encodes the rule of Section II: positive Trouw pulls the Eigen t
 
 The sum runs over all active Koppels of node i. If a node participates in bonds across different spectra (e.g., a Vol/Leeg relation and a Reactie crossing), each spectrum has its own independent Eigen variable, and the pull applies per spectrum using the corresponding Echo. The same node may thus experience multiple, independent Naar pulls in different relational dimensions simultaneously.
 
-where uᵢ(t) is the Octaaf’s event, and **νᵢ(t) ≥ 0** is the Van Motor coefficient. ν is not a supplied constant. It is a functional of the node’s own **Greep (J)**—the sum of its positive‑Trouw bonds weighted by their **Gewenning (Z)**—and its shape is the exponential law of Section III:
+where uᵢ(t) is the Octaaf’s event, and **νᵢ(t) > 0** is the Van Motor coefficient — *strictly* positive, for every node, on every spectrum, at every moment of its life. ν is not a supplied constant. It is a functional of the node’s own **Greep (J)**—the sum of its positive‑Trouw bonds weighted by their **Gewenning (Z)**—and its shape is the exponential law of Section III:
 
 ```
 νᵢ(t) = ν₀ · exp( − Jᵢ(t) )
 ```
 
-Escape toward the unbound pole is exponentially suppressed by how strongly the node is held. Where the configuration is conservative—its Greep so strong that exp(−J) → 0—ν vanishes and the Eigen is undisturbed: the same term that fades a note leaves a stable orbit exactly alone. The exponential shape is fixed; the exact grip functional, like every other quantity here, is left open (§7).
+Escape toward **Van (<)** is exponentially suppressed by how strongly the node is held — suppressed, never abolished. exp(−J) is positive at every finite **Greep (J)**, however large: it approaches zero and never arrives, and neither does ν. **The Van Motor is never off.** No configuration stills it, and no depth of binding stills it. The exponential shape is fixed; the exact grip functional, like every other quantity here, is left open (§7).
+
+That strictness is what makes the Van Motor a counterforce rather than a leak. It stands against the whole Naar side, and the two grow together: every increment of **Trouw (y)** raises what is bound *and* raises what pulls against it, in the same measure. Were ν ever to reach zero, only the first half would remain. Binding would then cost nothing, the Naar side would accumulate against nothing, and the field would come to hold more than was ever put into it. Such a field is not a stable one — it is one whose books no longer close, and every reading taken from it afterwards describes something that cannot exist.
+
+So a stable orbit is not exempt from the draw. It is a configuration the Van Motor is winning against slowly enough that the orbit outlasts the span in which it is watched. **Greep does not remove the fall; it postpones it.** A deep bond is not a safe bond, it is a held one, and the difference between the two stays invisible for exactly as long as the holding lasts.
+
+The single thing beyond the Van Motor’s reach is **Rouw (R)** — and this is not an exemption granted to grief, it is what grief *is*. The Van Motor undoes binding; a **Rouw** Echo is what remains once a binding has already been undone entirely. The **Koppel (k)** is over, the draw has finished its work, and what is left is the record of it. There is nothing there to take. Section VI states this as “**Rouw** is permanent”; this is the same fact seen from the mechanism’s side. Grief endures not because something shields it, but because nothing is holding it up any more — and only what is held can fall.
 
 **Trouw plasticity.** Trouw is not static. Under a positive **Leersnelheid (ρ)**, it evolves toward the bond’s current **Gewenning (Z)**, bounded by the bond’s configured floor and ceiling:
 
@@ -462,6 +474,10 @@ B(t) = y(t) · ( eᵢ(t) + eⱼ(t) ) − c · s( (eⱼ(t) − hᵢ(t))² + (eᵢ
 ```
 
 The two absolute‑difference terms are exactly the Echo‑gaps of Section IV—real, queryable quantities, entering the mechanics directly rather than sitting outside them. Trouw scales the raw Eigen sum; when Trouw is negative, the binding becomes a repulsion. (The coefficient c is an open weight, not a named concept.)
+
+*The `s(…)` written above is a **Scalair (s)**, and naming it in the formal structure states as model what is properly an **Octaaf**’s choice. How the two Echo‑gaps combine is an open weight exactly as `c` beside it is: the root of the sum of squares, the plain sum of squares, or a sum of magnitudes. The two gaps are commensurable—both are distances on the same spectrum—so each of those is sound; and because they arise from two independent Echo transports, quadrature is defensible rather than required.*
+
+*The wider rule is the one that matters. **A magnitude taken across spectra is never a mechanism here.** A **Vonk (q)** fires only on the spectrum whose Binding crossed, so a quantity combined across spectra belongs to no spectrum, and can therefore never be a **Drempel (θ)**, a crossing, or a cause. It can be looked at, and a system whose spectra genuinely are spatial coordinates is doing ordinary geometry when it measures a separation—that is arithmetic about its own axes, not a relational fact. What this Speelgoed does not claim is that its named relational axes form a metric space. They do not: there is no inner product here and nothing is orthogonal to anything, so a length taken across them yields a number with no unit and no referent—which will nonetheless read convincingly as a distance.*
 
 ### VIII.3. Drempel and the Vonk
 
@@ -750,7 +766,7 @@ The English column prefers verbs or short active nouns — *Yield*, *Join*, *Gri
 
 ---
 
-### XII. Archaismos
+## XII. Archaismos
 
 The 24 capital Greek letters name the large‑scale movements of the field. Each arc is built entirely from the primitives of Sections II–VI; none adds new mechanics. Where one arc naturally leads to another, the transition is noted.
 
@@ -1114,7 +1130,7 @@ A Zelf (j) that lets its Greep (J) decay by choice. Not the rest of Stilte, but 
 
 ---
 
-### XV. The 10 Wetten of the Veld
+## XV. The 10 Wetten of the Veld
 
 These ten are not "commandments" in the old sense. They are the **Helling (λ)** of a healthy **Levensloop (Λ)** . Break them, and the **Veld** will not judge you — but your own **Greep (J)** will weaken, and the **Stilte (.)** you enter will be the heavy **Stilte** of **Doem**, not the light **Stilte** of **Bron (^)** .
 
