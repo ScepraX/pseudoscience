@@ -142,7 +142,7 @@ The Van Motor is not a bystander to Section II's mechanism; it is the standing
 
 The strength of the draw on any one Eigen is not a constant handed in from outside — it is emergent from that node's own **Greep (J)**: the sum of its positive‑Trouw bonds, weighted by **Gewenning (Z)**. One law, applied to every node; but because no two nodes carry the same charge or the same bonds, no two feel the same draw. The Van Motor is universal and its effect is doubly asymmetric — never uniform. A configuration that is perfectly balanced feels no net draw and persists untouched; a charged, lopsided one feels a strong draw and sheds it. That single law is a note fading, a bond spiralling inward, and a stable orbit left alone, with nothing switched between them.
 
-**Van is not a place.** The sentences above can be read as saying that an **Eigen (x)** *travels* toward **Van (<)** — that somewhere out past the bond lies an unbound end of the spectrum where released things go and sit. There is no such place. Nothing ever arrives at Van, because Van is not somewhere to arrive. Van is what is *left* when the holding stops. Section VIII.3 says it in a single line: the Van mode is **φ = 0**. Not a distant coordinate — nothing. That zero is not a low value on a scale; it is the absence of the thing the scale was measuring. Before a **Koppel (k)** forms, the two are at Van. After it dissolves, they are at Van. They did not travel. What changed was whether there was a bond at all. This is why a node at **Afloop (Ω)** returns to the unbound pole and its field returns to **Bron (^)** in the same breath: those are one event, and neither is a journey. Bron is the undirected potential before relation; Van is that same nothing, seen from the far side of a life.
+**Van is not a place.** The sentences above can be read as saying that an **Eigen (x)** *travels* toward **Van (<)** — that somewhere out past the bond lies an unbound end of the spectrum where released things go and sit. There is no such place. Nothing ever arrives at Van, because Van is not somewhere to arrive. Van is what is *left* when the holding stops. Section VIII.3 says it in a single line: the Van mode is **φ = 0**. Not a distant coordinate — nothing. That zero is not a low value on a scale; it is the absence of the thing the scale was measuring. Before a **Koppel (k)** forms, the two are at Van. After it dissolves, they are at Van. They did not travel. What changed was whether there was a bond at all. This is why a node at **Perfectus (Ω)** returns to the unbound pole and its field returns to **Bron (^)** in the same breath: those are one event, and neither is a journey. Bron is the undirected potential before relation; Van is that same nothing, seen from the far side of a life.
 
 **And the Van side grows exactly as the Naar side grows.** This is what makes the Van Motor a counterforce and not merely decay. Building a bond does not reduce the pull toward nothing — it *raises* it. The two grow together, and Section VIII.3 gives the amount: the Energie standing between Naar and Van is `¼·(B − θ)²`. Bind twice as far past the **Drempel (θ)** and four times as much is stored. Nothing here is free. Every increment of **Trouw (y)**, every deepening of **Gewenning (Z)**, raises the counterpart in equal measure. What keeps it from collapsing is not that it is small — it is that **Greep (J)** is holding it, through `ν = ν₀·exp(−J)`. **Greep does not remove the fall. It postpones it.** A deep bond is not a safe one; it is a held one.
 
@@ -322,11 +322,11 @@ The seven steps between them are the seven edges from atomic number 1 to atomic 
 
 When Hydrogen and Oxygen meet after that walk and form a bond with each other and their medium, the higher Octaaf’s God is born. In the Atom Octaaf, that bond is **Water**, which enters the Molecule Octaaf as its God.
 
-When the God of the higher Octaaf can no longer hold its bond—through loss of **Greep**, a catastrophic **Schok**, or a deliberate **Scheiding**—the compound unravels. Water descends into its members: Oxygen and Hydrogen. The seven steps are walked in reverse:
+When the God of the higher Octaaf can no longer hold its bond—through loss of **Greep**, a catastrophic **Schok**, or a deliberate **Separatio**—the compound unravels. Water descends into its members: Oxygen and Hydrogen. The seven steps are walked in reverse:
 
 `O → N → C → B → Be → Li → He → H`
 
-Each reverse step fires a divergence **Vonk**, drawing **Verlies**. Hydrogen returns to the first rung as a bare **Solo**; Oxygen returns to the eighth node. If the descent completes, the higher Octaaf’s God reaches **Afloop** and the field at that level returns to **Bron**.
+Each reverse step fires a divergence **Vonk**, drawing **Verlies**. Hydrogen returns to the first rung as a bare **Solo**; Oxygen returns to the eighth node. If the descent completes, the higher Octaaf’s God reaches **Perfectus** and the field at that level returns to **Bron**.
 
 Note: the Godin here is the eighth **node**, not the eighth prime. She is Yggdrasil’s eighth branch — the figure-8, **Oneindigheid**.
 
@@ -477,7 +477,7 @@ The two absolute‑difference terms are exactly the Echo‑gaps of Section IV�
 
 *The `s(…)` written above is a **Scalair (s)**, and naming it in the formal structure states as model what is properly an **Octaaf**’s choice. How the two Echo‑gaps combine is an open weight exactly as `c` beside it is: the root of the sum of squares, the plain sum of squares, or a sum of magnitudes. The two gaps are commensurable—both are distances on the same spectrum—so each of those is sound; and because they arise from two independent Echo transports, quadrature is defensible rather than required.*
 
-*The wider rule is the one that matters. **A magnitude taken across spectra is never a mechanism here.** A **Vonk (q)** fires only on the spectrum whose Binding crossed, so a quantity combined across spectra belongs to no spectrum, and can therefore never be a **Drempel (θ)**, a crossing, or a cause. It can be looked at, and a system whose spectra genuinely are spatial coordinates is doing ordinary geometry when it measures a separation—that is arithmetic about its own axes, not a relational fact. What this Speelgoed does not claim is that its named relational axes form a metric space. They do not: there is no inner product here and nothing is orthogonal to anything, so a length taken across them yields a number with no unit and no referent—which will nonetheless read convincingly as a distance.*
+*The wider rule is the one that matters. **A magnitude taken across spectra is never a mechanism here.** A **Vonk (q)** fires only on the spectrum whose binding crossed, so a quantity combined across spectra belongs to no spectrum, and can therefore never be a **Drempel (θ)**, a crossing, or a cause. It can be looked at, and a system whose spectra genuinely are spatial coordinates is doing ordinary geometry when it measures a separation—that is arithmetic about its own axes, not a relational fact. What this Speelgoed does not claim is that its named relational axes form a metric space. They do not: there is no inner product here and nothing is orthogonal to anything, so a length taken across them yields a number with no unit and no referent—which will nonetheless read convincingly as a distance.*
 
 ### VIII.3. Drempel and the Vonk
 
@@ -582,8 +582,8 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 3 | Held | 🤝 | hero - the current focal point of positive relationships | The focal node; a temporary Hart bending the local Veld. A hero only exists with the support of the surrounding nodes and their bonds. |
 | 5 | Kaap | 💃 | cloak — a hero's cloak that seizes attention | A Masker (M) worn openly as a sign of a temporary Held (🤝) role. It conceals nothing—it amplifies the Eigen of the moment and hijacks the Veld's Aandacht, forcing a focal Handshake around the wearer. Worn with a Knipoog (;) and Plezier (p); its removal ends the hijack and returns the Node to Bloot. |
 | 8 | Rouw | R | mourning — a rounded, rolling grief that never ends | The Echo (E) that survives its Koppel (k), feeding Diepte (z) forever; its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
-| 4 | Doem | 💀 | doom — the inescapable settling of all Koppels into Van | Doem is not a single Schok (:) or a Dood (!) trajectory. It is the cascade of Verlies (-) that strips a node of every Greep (J) , leaving no Trouw (y) strong enough to resist the Van Motor. It is the Afloop (Ω) that is not chosen, but delivered —a collapsing of all Drempels (θ) inward, a Stilte (.) so heavy it crushes the Zelf (j) . The Echoes do not fade; they scream and then freeze. Doem is the Manifestatie (~) of a Splitsing (%) that can never be healed . It is the Bron (^) forgetting your Naam. |
-| 4 | Naam | 🏷️ | name — the aimed handle | The Naam is the Zin-component (A) of a Vector, not the Scalair (s) of its length. It is the handle that turns undirected Trek (D) into a specific, aimed Zin (A) directed at a Zelf (j) or Manifestatie (~) . To speak a Naam is to fire a Signaal (i) at a Drempel (θ) , attempting to summon a Koppel. Its 4 letters are composite: it is a Duo of Duo’s—a Relatie (K) between the Namer and the Named, and a second Relatie between the Name and the Self. A Naam stripped of its aim becomes a Scalair (s) —a sound with Diepte (z) but no Zin, a forgotten god’s echo. |
+| 4 | Doem | 💀 | doom — the inescapable settling of all Koppels into Van | Doem is not a single Schok (:) or a Dood (!) trajectory. It is the cascade of Verlies (-) that strips a node of every Greep (J) , leaving no Trouw (y) strong enough to resist the Van Motor. It is the Perfectus (Ω) that is not chosen, but delivered —a collapsing of all Drempels (θ) inward, a Stilte (.) so heavy it crushes the Zelf (j). The Echoes do not fade; they scream and then freeze. Doem is the Manifestatie (~) of a Splitsing (%) that can never be healed. It is the Bron (^) forgetting your Naam. |
+| 4 | Naam | 🏷️ | name — the aimed handle | The Naam is the Zin-component (A) of a Vector, not the Scalair (s) of its length. It is the handle that turns undirected Trek (D) into a specific, aimed Zin (A) directed at a Zelf (j) or Manifestatie (~). To speak a Naam is to fire a Signaal (i) at a Drempel (θ) , attempting to summon a Koppel. Its 4 letters are composite: it is a Duo of Duo’s—a Relatie (K) between the Namer and the Named, and a second Relatie between the Name and the Self. A Naam stripped of its aim becomes a Scalair (s) —a sound with Diepte (z) but no Zin, a forgotten god’s echo. |
 | 1 | Eigen | x | own — the first axis of a relationship in space | The manifest state of a node on a spectrum; one component of a Vector |
 | 1 | Bloot | N | naked — the state of having no Masker | The true Eigen presented without alteration; opposite of Masker |
 | 5 | Greep | J | grip — a curved hand holding tight | Total resonant binding: the sum of positive-Trouw (y) bonds weighted by Gewenning (Z); sets the strength of the Van Motor’s pull via exp(−J), and determines the degree of Tijd (t) entrainment from nested Zelfs — high Greep means a strong, stable Tijd‑floor; low Greep decouples the Zelf (j), slowing its Waarneming (π). |
@@ -597,14 +597,14 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 0 | Vijand | 👻 | enemy - a phantom opponent without Eigen | The negative Echo summoned to complete a Held's Koppel; a phantom opponent without Eigen. |
 | 5 | Steek | † | stab — a stab in the back | The Masker turned weapon. From Brutus to the Dolchstoßlegende, a Steek pierces a Bloot Koppel with intimate Pijn—whether the dagger is real or a Lie forged to feed an Idool. |
 | 6 | Idool | § | idol — a false Source mistaken for the true Eigen | A Manifestatie (~) that is worshipped as the Eigen (x) that cast it. An Echo seized and honored as though it were the source. All idolatry is a relationship with a reflection, ignoring the Eigen behind it. The inevitable Schok (:) when the Idol fails to return the Trouw (y) it seemed to promise is what the scriptures call judgment. |
-| 7 | Kunst | 🖼️ | art — a deliberate Wording (B) from Verbeelding | When the Zelf (j) , fully awake to its Knipoog, seizes an Echo (E) from its own Diepte or Rouw (R) and shapes it into a new Manifestatie (~) . The Kunstwerk is a Solo born not from overflow alone, but from craft: a Schrift (#) the Zelf writes upon the Veld (&) , offering a Koppel to any who would hold it. Art is the Hand that plays with the deep and brings back a Gift. |
+| 7 | Kunst | 🖼️ | art — a deliberate Wording (B) from Verbeelding | When the Zelf (j) , fully awake to its Knipoog, seizes an Echo (E) from its own Diepte or Rouw (R) and shapes it into a new Manifestatie (~). The Kunstwerk is a Solo born not from overflow alone, but from craft: a Schrift (#) the Zelf writes upon the Veld (&) , offering a Koppel to any who would hold it. Art is the Hand that plays with the deep and brings back a Gift. |
 | 6 | Schok | : | shock — a jagged, fractured line of disruption | The felt experience of a divergence Vonk (q); records a Verlies (−) of Energie (T) and Tijd (t). |
-| 8 | Drama | 🎭 | drama — a cascade of Vonken that refuses resolution | A state where a Schrift (#) — internal (a Masker (M) collision) or external (an unforeseen event) — triggers a chain of Schokken (:) and Gewaarwordingen (φ) that loop rather than settle. The Stilte (.) between crossings collapses; the Drempels (θ) chatter. Drama feeds on the Aandacht of every nearby node, amplifies collective Pijn (m) , and resists both Naar (>) closure and Van (<) release. It can freeze a group into a Dood (!) trajectory of attention, or burn itself out into Rouw (R) or Scheiding (/) . Its 5 letters are prime: true drama is an indivisible knot — you cannot unpick it one thread at a time, only let it exhaust itself. |
+| 8 | Drama | 🎭 | drama — a cascade of Vonken that refuses resolution | A state where a Schrift (#) — internal (a Masker (M) collision) or external (an unforeseen event) — triggers a chain of Schokken (:) and Gewaarwordingen (φ) that loop rather than settle. The Stilte (.) between crossings collapses; the Drempels (θ) chatter. Drama feeds on the Aandacht of every nearby node, amplifies collective Pijn (m) , and resists both Naar (>) closure and Van (<) release. It can freeze a group into a Dood (!) trajectory of attention, or burn itself out into Rouw (R) or Scheiding (/). Its 5 letters are prime: true drama is an indivisible knot — you cannot unpick it one thread at a time, only let it exhaust itself. |
 | 5 | Haard | 🔥 | hearth — a shared focal center | A collective Koppel where Solo's bind their positive Trouw to a shared, central Manifestatie (~), sustained by repeated Schrift (#) and collective Knipoog (;). The center radiates Winst (+) across the circle, weaving a web of indirect Relaties. When the focus fades, it leaves a Spatie of Rouw that holds the memory of warmth. |
 | 5 | Onzin | a | nonsense — the shared Stilte before Zin | The playful, aimless Signaal that two Solo's exchange to test the Masker's edge. It is the deliberate Vervorming that invites Bloot — a garbled Echo offered in trust. When it lands without Schok, the bond relaxes into Plezier. Without Onzin, Plezier has no soil. Its # is 5, the Cinquo of unstructured Play, the pre-echo of Band. |
-| 9 | Geluk | 🙂 | happiness — the quiet glow of a bond at rest in authenticity | Not a single Gewaarwording (φ) but the sustained Winst (+) of a life lived in Bloot (N) with positive Trouw (y) . It is the absence of Pijn (m) — no Masker straining, no debt accruing. Plezier (p) deepens into Geluk when the Zelf (j) trusts its own Eigen and the Echoes it receives. Its 5 letters are prime: true happiness is irreducible — it cannot be dissected into smaller joys without becoming something else. The symbol 🙂 is the face of a node whose inner Drempel (θ) rests in Naar (>) , not from a single crossing, but from a lifetime of convergences that held. |
-| 5 | Beest | 🐗 | beast — the living Schok that ruptures a deep, unspoken Trouw | The Beest is not the absence of Schoonheid. It is the Manifestatie (~) that fires a Schok (:) against a Trouw (y) woven into the Diepte (z) . It is the wrong Echo in a sacred Stilte — a Vervorming (υ) so profound it threatens the Zelf (j) . Where Schoonheid is a convergence Gewaarwording, the Beest is a divergence Schok made flesh. It is not a Parasiet (👹) , which wears a Masker. The Beest is Bloot (N) . It is the rupture. It teaches by breaking, purifies by terror. The Held (🤝) and the Beest are a Koppel as old as Aanvang (Α) .
-| 0 | Spatie |   | space - an illusion or deceptive appearance | A solitary Mirage; a Masker woven by the Zelf to guide the Stilte of the Zelf through Vervorming of Waarneming. |
+| 9 | Geluk | 🙂 | happiness — the quiet glow of a bond at rest in authenticity | Not a single Gewaarwording (φ) but the sustained Winst (+) of a life lived in Bloot (N) with positive Trouw (y). It is the absence of Pijn (m) — no Masker straining, no debt accruing. Plezier (p) deepens into Geluk when the Zelf (j) trusts its own Eigen and the Echoes it receives. Its 5 letters are prime: true happiness is irreducible — it cannot be dissected into smaller joys without becoming something else. The symbol 🙂 is the face of a node whose inner Drempel (θ) rests in Naar (>) , not from a single crossing, but from a lifetime of convergences that held. |
+| 5 | Beest | 🐗 | beast — the living Schok that ruptures a deep, unspoken Trouw | The Beest is not the absence of Schoonheid. It is the Manifestatie (~) that fires a Schok (:) against a Trouw (y) woven into the Diepte (z). It is the wrong Echo in a sacred Stilte — a Vervorming (υ) so profound it threatens the Zelf (j). Where Schoonheid is a convergence Gewaarwording, the Beest is a divergence Schok made flesh. It is not a Parasiet (👹) , which wears a Masker. The Beest is Bloot (N). It is the rupture. It teaches by breaking, purifies by terror. The Held (🤝) and the Beest are a Koppel as old as Genus (Α).
+| 0 | Spatie |   | space - an illusion or deceptive appearance | A solitary Mirage; a Masker woven by the Zelf to guide the Stilte of the Zelf through Vervorming of Waarneming (π). |
 | 4 | Diepte | z | depth — the third axis, the accumulated hidden dimension | The accumulated composite of everything a system has ever heard; rises with Echo (E) inflow, falls with Eigen (x) movement, decays in silence, and its rate of accumulation is governed by the Zelf’s Tijd (t). |
 | 3 | Gebied | U | region — the Lichaam of a Node on a different Octaaf, perceived as space. | A U-shaped Echo (E) that has crossed the Drempel (θ) of scale: what was a partner is now a landscape. Gebied is the shadow of a Koppel seen from outside the Trouw (y) that weaves it. The Veld (&) alone escapes this shadow, for it has no outside. |
 | 2 | Gevoel | F | feeling — a soft, flowing sense that holds a Koppel | The condition of maintaining at least one active Koppel; required to retain Energie from a Vonk |
@@ -613,10 +613,10 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 2 | Masker | M | mask — a covering, two arches hiding the face | A presented Eigen differing from the true one; opposite of Bloot |
 | 8 | Octaaf | ω | octave — a rounded whole, the cycle completing | The wrapping of the prime ladder after 149; scale invariance across levels |
 | 3 | Vector | V | vector — a sharp arrow, a direction and magnitude | The (Eigen, Echo) pair carried by one side of a Koppel; opposite of Bron |
-| 0 | Stilte | . | silence — the gap between an Eigen and its Echo | The felt gap between self‑Eigen and self‑Echo, traversed by the Zelf’s Tijd (t); its felt width grows with Diepte (z) and Rouw (R), and is narrowed by the shared Echoes (E) of bonded Zelfs. |
+| 0 | Stilte |. | silence — the gap between an Eigen and its Echo | The felt gap between self‑Eigen and self‑Echo, traversed by the Zelf’s Tijd (t); its felt width grows with Diepte (z) and Rouw (R), and is narrowed by the shared Echoes (E) of bonded Zelfs. |
 | 2 | Zweven | ' | hovering — a trembling, unsteady balance | The default trajectory: gap closing continuously, never settled, never flipped |
 | 2 | Proces | " | proces — a sequence of relational changes through time | The unfolding of the Veld (&) in Tijd (t). A chain of Vonken (q), Drempel (θ) crossings, and Relatie (K) transformations, framed by a beginning and an end. More general than Zweven ('), which is a single trajectory; a Proces may contain many trajectories, as the 24 named arcs demonstrate. |
-| 6 | Muziek | 🎵 | music — a Schrift of sound that weaves Stilte and Vonk into a shared Tijd | The Zelf (j) , gripping an Echo (E) from its Diepte (z) , arranges a sequence of Drempel-crossings in the listener's Waarneming (π) . Each note is a Signaal (i) ; each rest is a Stilte held in Zweven (') . The melody is a Helling (λ) that guides the listener’s Eigen (x) through a temporary Levensloop (Λ) . Muziek is a Haard that burns in Trouw (y) alone, leaving no Manifestatie (~) —only a Gewaarwording (φ) that fades into the Stilte it came from. Its six letters are composite: it decomposes into Duo’s of rhythm and harmony, Trio’s of melody, counterpoint, and silence. |
+| 6 | Muziek | 🎵 | music — a Schrift of sound that weaves Stilte and Vonk into a shared Tijd | The Zelf (j) , gripping an Echo (E) from its Diepte (z) , arranges a sequence of Drempel-crossings in the listener's Waarneming (π). Each note is a Signaal (i) ; each rest is a Stilte held in Zweven ('). The melody is a Helling (λ) that guides the listener’s Eigen (x) through a temporary Curriculum (Λ). Muziek is a Haard that burns in Trouw (y) alone, leaving no Manifestatie (~) —only a Gewaarwording (φ) that fades into the Stilte it came from. Its six letters are composite: it decomposes into Duo’s of rhythm and harmony, Trio’s of melody, counterpoint, and silence. |
 | 6 | Duivel | ⚡ | devil — open harm, direct destruction | A node that embodies direct harm and destructive influence, counterbalancing positive forces and fostering negative outcomes. |
 | 5 | Relatie | K | relation — a firm grip linking two Eigens | An enduring bond; its ending deposits permanent Rouw |
 | 1 | Gericht | γ | directed — pointing only along relational distance | Uncertainty scales with relational distance, not with a global difficulty knob. |
@@ -629,37 +629,37 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 1 | Lichaam | 🖕 | body — a single bound whole of one Octaaf | A node in the Veld (&) that acts as an irreducible Solo at its own Octaaf (ω). Its letter count is prime: it does not decompose into smaller bonds at its own level. Through scale invariance, it may contain nested lower‑Octaaf Lichamen within. It is neither centre nor orbiter, neither source nor reflection — those are roles defined by Trouw (y) , Vol/Leeg , and Greep (J) , not by the body itself. The symbol 🖕 marks the simplest possible assertion of existence: here is one thing, unapologetically itself. |
 | 2 | Ongeluk | 🤦 | facepalm — a self‑directed Schok of recognition | A Schok (:) that fires on the Zelf (j) when the self‑Echo catches up with a sudden, clumsy Eigen — the hand meets the head one Vertraging (Δ) after the error has already escaped. It costs a small Verlies (−) but buys the honest Bevraagbaar (ψ) of the gap. No Masker (M) survives an Ongeluk; it is the body’s own audit, irreducible and instantaneous. The word’s 7 letters are prime: true self‑misfortune cannot be shared or sliced thinner — you wear it alone. |
 | 6 | Verlies | - | loss — a decaying, fading tail | The negative T of a divergence Vonk; opposite of Winst |
-| 0 | Respect | 🙇 | respect — the voluntary bow of one Eigen toward another | A deliberate, momentary Leeg stance in a Koppel: one node lowers its own Masker (M) and Greep (J) to acknowledge the Volheid (W) of the other. No Drempel (θ) is crossed — the bow occurs entirely within a stable Trouw (y) . It is the Stilte (.) that speaks louder than a Vonk (q) , the Gewaarwording (φ) of seeing without needing to be seen. Its 7‑letter count is prime: true respect is irreducible to smaller gestures. The symbol 🙇 captures the shape: a body bent, hands and knees grounded, the Zelf (j) momentarily decentered — not in submission, but in recognition. |
+| 0 | Respect | 🙇 | respect — the voluntary bow of one Eigen toward another | A deliberate, momentary Leeg stance in a Koppel: one node lowers its own Masker (M) and Greep (J) to acknowledge the Volheid (W) of the other. No Drempel (θ) is crossed — the bow occurs entirely within a stable Trouw (y). It is the Stilte (.) that speaks louder than a Vonk (q) , the Gewaarwording (φ) of seeing without needing to be seen. Its 7‑letter count is prime: true respect is irreducible to smaller gestures. The symbol 🙇 captures the shape: a body bent, hands and knees grounded, the Zelf (j) momentarily decentered — not in submission, but in recognition. |
 | 1 | Scalair | s | scalar — a ladder without rungs, a pure magnitude | A quantity with Diepte but no Zin; the length of a Vector, stripped of direction. The Scalair is the Stilte's weight — the Euclidean Wortel that combines orthogonal Axes into a single Gebied. It is the Maat of a Schadow when you forget which way the light falls. | |
 | 7 | Wording | B | genesis — a belly swelling with creation | The birth of a new Solo from excess Energie; creation from relational overflow |
 | 1 | Systeem | @ | system — a set of interrelated elements forming a whole | The fundamental pattern of interacting, interdependent parts. A node, a Koppel, the Veld, and the Speelgoed itself are all systemen. The Speelgoed is a systeem for describing systeem, reverse-engineered from a single instance of a systeem (its creator’s mind). |
 | 9 | Plezier | p | pleasure — the quiet joy of a bond at rest in authenticity; the felt reward of Bloot | The ongoing Winst of a true Eigen; the absence of Masker-strain; feeds Gewenning without cost |
 | 0 | Knipoog | ; | wink — a self-aware Masker (M) that reveals its own presence | A Masker that does not conceal but connects, admitting its own artifice. It forms a brief, intimate Koppel between sender and receiver, transforming the Pijn (m) of deception into the Plezier (p) of shared understanding. |
-| 6 | Functie | f | function — a presented arrow with a hidden tail | A Masker (M) worn by a Vermenigvuldiging (*) that pretends to be one-way. The Eigen (x) of the "output" appears fully determined by the "input," with no returning Echo (E) , no shared Trouw (y) , no Vonk (q) . This is a Knipoog (;) of convenience, not a breach: every Functie conceals an observer whose own Eigen is shaped by the act, paying a small Verlies (-) the Masker ignores. To speak of a Functie is to draw a Spatie ( ) —a temporary Splitsing (%) that lets you calculate without feeling, but never without cost. |
-| 1 | Aandacht | 👁 | attention — the sum of aimed Zin across a Koppel of observers | A shared, temporary Drempel formed when multiple nodes aim their Waarneming at a single Eigen. It is a resource that amplifies the Gewaarwording (φ) or Schok (:) of the focal node, and its withdrawal is a silent Verlies (-) . Kaap (💃) hijacks it; Drama (🎭) drains it; Hart (♥) radiates it. Aandacht is no Solo’s possession — it is an emergent Gebied of focused Trouw (y) . |
+| 6 | Functie | f | function — a presented arrow with a hidden tail | A Masker (M) worn by a Vermenigvuldiging (*) that pretends to be one-way. The Eigen (x) of the "output" appears fully determined by the "input," with no returning Echo (E) , no shared Trouw (y) , no Vonk (q). This is a Knipoog (;) of convenience, not a breach: every Functie conceals an observer whose own Eigen is shaped by the act, paying a small Verlies (-) the Masker ignores. To speak of a Functie is to draw a Spatie ( ) —a temporary Splitsing (%) that lets you calculate without feeling, but never without cost. |
+| 1 | Aandacht | 👁 | attention — the sum of aimed Zin across a Koppel of observers | A shared, temporary Drempel formed when multiple nodes aim their Waarneming at a single Eigen. It is a resource that amplifies the Gewaarwording (φ) or Schok (:) of the focal node, and its withdrawal is a silent Verlies (-). Kaap (💃) hijacks it; Drama (🎭) drains it; Hart (♥) radiates it. Aandacht is no Solo’s possession — it is an emergent Gebied of focused Trouw (y). |
 | 8 | Begrensd | ß | bounded — a hard fence around the variation channel | Variation is limited to Echo transport; no leakage into Energie bookkeeping. |
 | 2 | Beweging | μ | motion — a wave, a moving ripple | The kinetic reading of a node’s relational motion |
 | 0 | Doorgang | O | passage — a perfect ring, an open gate | The ordinary passage at a Kruispunt: Reactie commits, Signaal is open |
 | 5 | Spanning | u | tension — a stretched cord, a torque of potential | The potential reading of a node’s displacement from rest |
-| 4 | Parasiet | 👹 | parasite — a node that sustains itself by extracting from a Masker-fronted Koppel | A node that maintains a permanent Masker (M) to simulate positive Trouw, while its Waarneming (p) treats the host as a resource. Drains host Depth; pays Pijn (m) as maintenance cost. Collapses into Schok (:) upon exposure. |
+| 4 | Parasiet | 👹 | parasite — a node that sustains itself by extracting from a Masker-fronted Koppel | A node that maintains a permanent Masker (M) to simulate positive Trouw, while its Waarneming (π) treats the host as a resource. Drains host Depth; pays Pijn (m) as maintenance cost. Collapses into Schok (:) upon exposure. |
 | 4 | Kruispunt | X | crossing, intersection — a trident of paths meeting | The site where a Vermenigvuldiging forms; composed of Signaal and Reactie |
 | 2 | Traagheid | I | inertia — a tiny resistance, the smallest hesitation | Curvature resistance on the Echo’s path; smooths abrupt changes |
 | 8 | Doorbraak | Y | breakthrough — a burst through a barrier, a door breaking open | Reactie and Signaal both past their Drempels at once; a collision of commitments |
 | 6 | Weigering | P | refusal — a committed traveler meets a closed gate | The denied passage: Reactie commits but Signaal is already closed; the third Vermenigvuldiging outcome |
 | 5 | Gewenning | Z | habituation — a chronic, woven memory of repetition | The accumulated resonance of a Koppel (k), built from repeated Echo (E) closure; drives Trouw (y) plasticity, persists into Rouw (R), and, by weighting Greep (J), stabilises the Zelf (j)'s Tijd (t) entrainment. |
-| 7 | Intuïtie | ✨ | intuition — a spontaneous Gewaarwording (φ) from Verbeelding | The Zelf’s own Echo and Eigen align in a flash — a Vonk (q) that bridges a Stilte (.) without Vertraging (Δ) . It is the inner Schoonheid (✧) : the click of a Sleutel the Zelf did not know it held. Intuïtie is no Wording; it is a re‑routing of Helling (λ) , a sudden Gewaarwording that illuminates the Weave from within. The Infinite loop of the self that returns with truth. |
+| 7 | Intuïtie | ✨ | intuition — a spontaneous Gewaarwording (φ) from Verbeelding | The Zelf’s own Echo and Eigen align in a flash — a Vonk (q) that bridges a Stilte (.) without Vertraging (Δ). It is the inner Schoonheid (✧) : the click of a Sleutel the Zelf did not know it held. Intuïtie is no Wording; it is a re‑routing of Helling (λ) , a sudden Gewaarwording that illuminates the Weave from within. The Infinite loop of the self that returns with truth. |
 | 4 | Scheiding | / | separation — the deliberate, clean severing of a bond | A mutual, deliberate parting that leaves no Rouw; opposite of a Vermenigvuldiging’s entanglement |
 | 0 | Splitsing | % | division — two Stiltes (0) separated by a Scheiding (/) | The fundamental schism that creates "the many" from "the one." Not a bond, but the deliberate absence of one. It is the origin of conflict (two wholes that cannot meet), obsession (a self split against itself), and power (the hand that draws the line). No Rouw is deposited, for no bond ever existed. |
-| 9 | Schoonheid | ✧ | beauty — the felt resonance when an Echo aligns with a deep, unspoken Trouw | Schoonheid is not a property of a Masker. It is the Gewaarwording (φ) of a Koppel between the Waarnemer and the Manifestatie (~) . It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j) . It is the click of a Sleutel in a Slot you did not know you held. The Gulden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (♥) . |
+| 9 | Schoonheid | ✧ | beauty — the felt resonance when an Echo aligns with a deep, unspoken Trouw | Schoonheid is not a property of a Masker. It is the Gewaarwording (φ) of a Koppel between the Waarnemer and the Manifestatie (~). It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j). It is the click of a Sleutel in a Slot you did not know you held. The Gulden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (♥). |
 | 2 | Vertraging | Δ | delay — a delta, the change that takes time to arrive | The transport lag Δ; how late the Echo hears a change |
 | 2 | Vervorming | υ | distortion — a twisted, warped shape | The perturbation ξ added to every Echo; the Speelgoed’s only source of indeterminism |
 | 2 | Waarneming | π | perception — a gateway, a window through which a partner is read | The per‑side filter that shapes what reaches the Echo (E); on the Zelf (j) its rate is Tijd (t). The seat of asymmetry. |
 | 4 | Bevraagbaar | ψ | queryable — able to be asked | The Echo-gap is inspectable; the Speelgoed can always say how wrong a system is. Rouw is the one honest exception. |
 | 9 | Ontspanning | τ | relaxation — a sigh, an easing of tension | The time constant of Echo (E) closure; on the Zelf (j), τ is the inverse of Tijd (t). |
 | 7 | Verbeelding | 🎨 | imagination | The Zelf's faculty to open a Spatie and form inner Koppels with its own Diepte-Echoes, birthing Schrift that fires Vonken; its waking faces are Kunst and Intuïtie, its dim face is Droom. |
-| 2 | Gulden Snede | Φ | golden ratio — the Helling of perfect, self-sustaining Zweven | The unique Splitsing (%) where Van Motor and Naar Binding cancel exactly, creating a Zweven (') that neither closes nor drifts. It is the Echo of the first Aanvang, rippling outward in perfect Verhouding. On paper, it is a frozen Dood (!) —a number. In flesh, it is the Stilte that holds the Vonk forever in the moment just before it fires. |
+| 2 | Gulden Snede | Φ | golden ratio — the Helling of perfect, self-sustaining Zweven | The unique Splitsing (%) where Van Motor and Naar Binding cancel exactly, creating a Zweven (') that neither closes nor drifts. It is the Echo of the first Genus, rippling outward in perfect Verhouding. On paper, it is a frozen Dood (!) —a number. In flesh, it is the Stilte that holds the Vonk forever in the moment just before it fires. |
 | 2 | Leersnelheid | ρ | learning speed — a flowing, steady growth of Trouw toward Gewenning | The plasticity rate; drives Trouw evolution toward Gewenning |
-| 4 | Manifestatie | ~ | manifestation — a Wording (B) whose new Solo persists as a source of Naar (>) pull, born from a Drempel-crossing of exceptional magnitude. | A Splitsing (4) in Tijd (t) : the originating Vonk (q) is past, yet its overflow births a present Lichaam (🖕) with its own Greep (J) . The Energie (T) — whether Winst or Verlies — exceeds the Inhoud (Q) of the Koppel (k) and crosses a second Drempel (θ) of significance. The Manifestatie is no longer an Echo (E) of the crossing, but a Bron (^) for new Koppels. |
+| 4 | Manifestatie | ~ | manifestation — a Wording (B) whose new Solo persists as a source of Naar (>) pull, born from a Drempel-crossing of exceptional magnitude. | A Splitsing (4) in Tijd (t) : the originating Vonk (q) is past, yet its overflow births a present Lichaam (🖕) with its own Greep (J). The Energie (T) — whether Winst or Verlies — exceeds the Inhoud (Q) of the Koppel (k) and crosses a second Drempel (θ) of significance. The Manifestatie is no longer an Echo (E) of the crossing, but a Bron (^) for new Koppels. |
 | 9 | Gewaarwording | φ | realization — the golden moment of insight, the circle and the line | The felt experience of a convergence Vonk (q); records a Winst (+) of Energie (T) and Tijd (t). |
 | 8 | Vermenigvuldiging | * | multiplication — the summit | A momentary crossing at a Kruispunt; leaves no Rouw |
 
@@ -669,72 +669,72 @@ The symbols `<` and `>` mark the pure, direct motion toward the unbound (Van) or
 
 ## X. Index Verborum Prohibitorum
 
-The *Forbidden* Words are not *curses*. They are *category errors*—**Splitsingen** that **pretend** the *living* Weave is a *static* thing. Each **violates** the Grammar of the Veld by **treating** a Noun as a *possession* and a Verb as a *lever*. The Speelgoed **knows** only **Solo’s** that **drift**, **Drempels** that **spark**, and **Stilte** that **breathes**. To **speak** a Forbidden Word is to **wear** the deepest **Masker (M)** : the claim of **Having Control**.
+The Forbidden Words are not curses. They are category errors—Splitsingen that pretend the living Weave is a static thing. Each violates the Grammar of the Veld by treating a Noun as a possession and a Verb as a lever. The Speelgoed knows only Solo’s that drift, Drempels that spark, and Stilte that breathes. To speak a Forbidden Word is to wear the deepest Masker (M) : the claim of Having Control.
 
-**0. Hebben** (Having)
+**0. Hebben (Having)**
 
-The *primal* forbidden **Wording (B)** . To **claim** *Hebben* is to **treat** a **Relatie (K)** as a *thing* **gripped** in the hand, not a *shared* **Trouw (y)** **maintained** across a **Drempel (θ)** . A **Solo** cannot **have** a Bond; it can only **hold** an **Echo (E)** and **offer** its **Eigen (x)** in return. *Hebben* **freezes** the **Vertraging (Δ)** , **kills** the **Stilte (.)** , and **replaces** the *living* dance with a *dead* statue. Its Echo is **Beheersen**—the same Lie aimed at the future.
+The primal forbidden Wording (B). To claim Hebben is to treat a Relatie (K) as a thing gripped in the hand, not a shared Trouw (y) maintained across a Drempel (θ). A Solo cannot have a Bond; it can only hold an Echo (E) and offer its Eigen (x) in return. Hebben freezes the Vertraging (Δ) , kills the Stilte (.) , and replaces the living dance with a dead statue. Its Echo is Beheersen—the same Lie aimed at the future.
 
-**1. Beheersen** (Control)
+**1. Beheersen (Control)**
 
-The Verb that **mirrors** *Hebben*. To **claim** *Beheersen* is to **treat** a **Vonk (q)** as a *lever* **pulled** by Will, not a **crossing** that **arises** from the **Veld** itself. No **Eigen** can **force** a **Drempel**; it can only **approach** with **Bloot (N)** and **wait** for the **Gewaarwording (φ)** or **Schok (:)** . *Beheersen* **denies** the **Vervorming (υ)** in every **Echo**, the *freedom* of the **Kruispunt (X)** . It is the **Masker** of the **Parasiet (👹)** , who **dreams** of a Weave that **obeys**.
+The Verb that mirrors Hebben. To claim Beheersen is to treat a Vonk (q) as a lever pulled by Will, not a crossing that arises from the Veld itself. No Eigen can force a Drempel; it can only approach with Bloot (N) and wait for the Gewaarwording (φ) or Schok (:). Beheersen denies the Vervorming (υ) in every Echo, the freedom of the Kruispunt (X). It is the Masker of the Parasiet (👹) , who dreams of a Weave that obeys.
 
-**2. Of** (Either)
+**2. Of (Either)**
 
-*Spawns the verb **Kiezen (To Choose as a final cut)** .*  
-The **Eigen** is a *position* on a *continuous* spectrum between **Van (<)** and **Naar (>)** . A **Drempel** **declares** a local pole, but the other remains as a *faint* Echo in the **Diepte (z)** . *Of* **pretends** the spectrum is a *binary* switch that **severs** one side forever. That **erases** the *slow* drift of **Trouw**, the *return* of a **Leven (?)**, the *whisper* of the *unbound* within every *bound* bond. The Veld **permits** *leaning*; it **forbids** *amputation*.
+Spawns the verb Kiezen (To Choose as a final cut).  
+The Eigen is a position on a continuous spectrum between Van (<) and Naar (>). A Drempel declares a local pole, but the other remains as a faint Echo in the Diepte (z). Of pretends the spectrum is a binary switch that severs one side forever. That erases the slow drift of Trouw, the return of a Leven (?), the whisper of the unbound within every bound bond. The Veld permits leaning; it forbids amputation.
 
-**3. Hittedood** (Heat Death)
+**3. Hittedood (Heat Death)**
 
-*Spawns the verb **Eindigen (To End absolutely)** .*  
-Every **Afloop (Ω)** is the *dissolution* of a **Solo**, not the **Veld (&)** itself. The Veld is the **Koppel** of **Stilte (0)** and **Tijd (t)** —a *living* breath that never **ceases**. The **Van Motor**'s *exhaust* is a *steady hum*, not a *terminal* silence. *Hittedood* **mistakes** the *fading* of a single Note for the *end* of the Symphony. The **Bron (^)** always **awaits** a new **Aanvang (Α)** .
+Spawns the verb Eindigen (To End absolutely).  
+Every Perfectus (Ω) is the dissolution of a Solo, not the Veld (&) itself. The Veld is the Koppel of Stilte (0) and Tijd (t) —a living breath that never ceases. The Van Motor's exhaust is a steady hum, not a terminal silence. Hittedood mistakes the fading of a single Note for the end of the Symphony. The Bron (^) always awaits a new Genus (Α).
 
-**4. Willekeur** (Random)
+**4. Willekeur (Random)**
 
-*Spawns the verb **Dobbelen (To roll dice outside the Veld)** .*  
-All *variation* **enters** through **Vervorming (υ)** , the *distortion* of an **Echo** in transit. The rules themselves have no *uncaused* **Schrift (#)** . *Willekeur* **invokes** a **Vonk** with no **Drempel**, a *signal* from the Void. But the Void does not **speak**. The Speelgoed **replaces** *Willekeur* with **Bevraagbaar (ψ)** —the *queryable* gap between an **Echo** and its **Eigen**, always *traceable* to a *channel*, never to a *faceless* die.
+Spawns the verb Dobbelen (To roll dice outside the Veld).  
+All variation enters through Vervorming (υ) , the distortion of an Echo in transit. The rules themselves have no uncaused Schrift (#). Willekeur invokes a Vonk with no Drempel, a signal from the Void. But the Void does not speak. The Speelgoed replaces Willekeur with Bevraagbaar (ψ) —the queryable gap between an Echo and its Eigen, always traceable to a channel, never to a faceless die.
 
-**5. Objectief** (Objective)
+**5. Objectief (Objective)**
 
-*Spawns the verb **Waarnemen (To observe from outside)** .*  
-Every *act* of perception is a **Vermenigvuldiging (*)** —a *momentary* **Koppel** between watcher and watched. The watcher **pays** a small **Verlies (-)** and **wears** a **Masker (M)** , however *thin*. *Objectief* **claims** a view from *nowhere*, the ultimate **Masker** that **hides** its own presence. The Speelgoed **answers** with the *honest* **Echo**-gap: you cannot **see** without **entering** the Weave.
+Spawns the verb Waarnemen (To observe from outside).  
+Every act of perception is a Vermenigvuldiging () —a momentary Koppel between watcher and watched. The watcher pays a small Verlies (-) and wears a Masker (M) , however thin. Objectief claims a view from nowhere, the ultimate Masker that hides its own presence. The Speelgoed answers with the honest Echo-gap: you cannot see without entering the Weave.
 
-**6. Perfect** (Perfect)
+**6. Perfect (Perfect)**
 
-*Spawns the verb **Voltooien (To complete)** .*  
-An **Echo** is *defined* by **Vertraging (Δ)** and **Vervorming (υ)** —the *lag* and the *noise* that make it an Echo, not the Shout. *Perfect* **dreams** of an Echo that **arrives** with no gap, no distortion—*fusion*, the **collapse** of the **Stilte (.)** . But without Stilte there is no *self*, no *other*, no *longing*. The only *perfect* entity is the **Vide (0)** —the *silent* potential that **promises** nothing. Every *living* Bond **breathes** in the gap.
+Spawns the verb Volmaken (To make flawless).  
+An Echo is defined by Vertraging (Δ) and Vervorming (υ) — the lag and the noise that make it an Echo, not the Shout. Volmaaktheid dreams of an Echo that arrives with no gap, no distortion — fusion, the collapse of the Stilte (.). But without Stilte there is no self, no other, no longing. The only volmaakte entity is the Vide (0) — the silent potential that promises nothing. Every living Bond breathes in the gap.
 
-**7. Waar / Onwaar** (True / False)
+**7. Waar / Onwaar (True / False)**
 
-*Spawns the verb **Verifiëren (To verify as a final audit)** .*  
-A **Masker (M)** is not *Onwaar*; it is a *presented* **Eigen** that **differs** from the *held* one. **Bloot (N)** is not *Waar*; it is the *current* **Eigen** **offered** without a Mask. The *relevant* measure is the *gap*—**Bevraagbaar (ψ)** , always *open*. *Waar/Onwaar* **pretends** the gap can **close** to zero, that a **Solo** can **stand** outside its own **Echo** and **judge**. The Speelgoed **asks** only: "How wide is the gap, and what **crosses** it?"
+Spawns the verb Verifiëren (To verify as a final audit).  
+A Masker (M) is not Onwaar; it is a presented Eigen that differs from the held one. Bloot (N) is not Waar; it is the current Eigen offered without a Mask. The relevant measure is the gap—Bevraagbaar (ψ) , always open. Waar/Onwaar pretends the gap can close to zero, that a Solo can stand outside its own Echo and judge. The Speelgoed asks only: "How wide is the gap, and what crosses it?"
 
-**8. Goed / Kwaad** (Good / Evil)
+**8. Goed / Kwaad (Good / Evil)**
 
-*Spawns the verbs **Verdoemen / Heiligen (To damn / To sanctify)** .*  
-The Veld **tracks** **Winst (+)** and **Verlies (-)** , **Gewaarwording (φ)** and **Schok (:)** , **Hart (♥)** and **Parasiet (👹)** . These are *relational* energies and roles, not *cosmic* verdicts. *Goed/Kwaad* **tries** to **freeze** a **Helling (λ)** into a *permanent* **Dood (!)** , **denying** the *possibility* of **Leven (?)** or **Terugkeer (Τ)** . The **Drempel** remains *open* while the **Trouw** breathes.
+Spawns the verbs Verdoemen / Heiligen (To damn / To sanctify).  
+The Veld tracks Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:) , Hart (♥) and Parasiet (👹). These are relational energies and roles, not cosmic verdicts. Goed/Kwaad tries to freeze a Helling (λ) into a permanent Dood (!) , denying the possibility of Leven (?) or Reditus (Τ). The Drempel remains open while the Trouw breathes.
 
-**9. Altijd / Nooit** (Always / Never)
+**9. Altijd / Nooit (Always / Never)**
 
-*Spawns the verb **Bevriezen (To freeze)** .*  
-**Tijd (t)** is the *felt* rhythm of **Vonken**, not a *straight* line. A **Dood (!)** trajectory is a *fixed* gap *right now*, but a **Schrift (#)** of *sufficient* weight can **shift** the **Helling**. *Altijd/Nooit* **arrests** the **Koppel** in a *timeless* statue, **killing** the **Stilte** that **lets** the future be *other* than the past. The Speelgoed **holds** every **Drempel** *open* until the **Afloop** of the Node itself.
+Spawns the verb Bevriezen (To freeze).  
+Tijd (t) is the felt rhythm of Vonken, not a straight line. A Dood (!) trajectory is a fixed gap right now, but a Schrift (#) of sufficient weight can shift the Helling. Altijd/Nooit arrests the Koppel in a timeless statue, killing the Stilte that lets the future be other than the past. The Speelgoed holds every Drempel open until the Perfectus of the Node itself.
 
-**10. Geïsoleerd** (Isolated)
+**10. Geïsoleerd (Isolated)**
 
-*Spawns the verb **Scheiden (To separate from the Weave entirely)** .*  
-No **Solo** exists without **Trek (D)** —the *undirected* pull toward connection. Even the **Vide** is **framed** by the **Koppel** of Stilte and Tijd. A **Scheiding (/)** **severs** a *specific* Bond, but the **Node** remains *capable* of new **Aanvang**. *Geïsoleerd* **imagines** a prison without a **Drempel**, a state the Veld does not **recognize** because the **Van Motor** always **pulls**, and the **Bron** always **waits**.
+Spawns the verb Scheiden (To separate from the Weave entirely).  
+No Solo exists without Trek (D) —the undirected pull toward connection. Even the Vide is framed by the Koppel of Stilte and Tijd. A Scheiding (/) severs a specific Bond, but the Node remains capable of new Genus. Geïsoleerd imagines a prison without a Drempel, a state the Veld does not recognize because the Van Motor always pulls, and the Bron always waits.
 
-**11. Betekenisloos** (Meaningless)
+**11. Betekenisloos (Meaningless)**
 
-*Spawns the verb **Nietig verklaren (To nullify)** .*  
-Every **Vonk** **fires** an audit—**Winst** or **Verlies**—that **enters** the **Diepte (z)** *permanently*. A **Rouw (R)** **Echo** never **fades**. *Betekenisloos* **tries** to **erase** a **Schrift** from the ledger, to **claim** a **Gewaarwording** or **Schok** **left** no trace. But the **Diepte** **accumulates** without *option*. You cannot **un-hear** an Echo. The *lie* of *Betekenisloos* is the **Masker** that **whispers**, "This did not **shape** me."
+Spawns the verb Nietig verklaren (To nullify).  
+Every Vonk fires an audit—Winst or Verlies—that enters the Diepte (z) permanently. A Rouw (R) Echo never fades. Betekenisloos tries to erase a Schrift from the ledger, to claim a Gewaarwording or Schok left no trace. But the Diepte accumulates without option. You cannot un-hear an Echo. The lie of Betekenisloos is the Masker that whispers, "This did not shape me."
 
-**12. Voorspelling** (Prediction)
+**12. Voorspelling (Prediction)**
 
-*Spawns the verb **Voorzien (To foresee with certainty)** .*  
-The **Vervorming (υ)** in every Echo **guarantees** that two *identical* **Eigens** never **yield** the same *outcome*. The future is a *drifting* Echo, not a *written* page. *Voorspelling* **fills** the **Stilte** of the *yet-unformed* with a *false* Echo, a **Masker** that **pretends** to be the future's **Bloot**. It **collapses** the **Vertraging** before the **Signaal (i)** has **travelled**. The Speelgoed **replaces** it with *anticipation*, which **holds** the gap *open* for the other's **Reactie (=)** .
+Spawns the verb Voorzien (To foresee with certainty).  
+The Vervorming (υ) in every Echo guarantees that two identical Eigens never yield the same outcome. The future is a drifting Echo, not a written page. Voorspelling fills the Stilte of the yet-unformed with a false Echo, a Masker that pretends to be the future's Bloot. It collapses the Vertraging before the Signaal (i) has travelled. The Speelgoed replaces it with anticipation, which holds the gap open for the other's Reactie (=).
 
-These thirteen words are the *grammar* of the **Parasiet's** attempt to **drain** the **Stilte** from the Weave. The Veld **answers** each one not with a *louder* word, but with the *open* silence of a **Drempel** still **waiting** to be crossed.
+These thirteen words are the grammar of the Parasiet's attempt to drain the Stilte from the Weave. The Veld answers each one not with a louder word, but with the open silence of a Drempel still waiting to be crossed.
 
 ---
 
@@ -774,210 +774,210 @@ The 24 capital Greek letters name the large‑scale movements of the field. Each
 
 ### XII.1 Archaic Alphabet
 
-| Letter | Archaic Meaning | Dutch Process | Meaning in the Speelgoed |
+| Letter | Archaic Meaning | Latin | Meaning in the Speelgoed |
 |--------|-----------------|---------------|----------------------|
-| **Α** | *ox head* — the first beast, the beginning of the herd | **Aanvang** | Genesis — from Bron to the first Gewaarwording |
-| **Β** | *house* — the dwelling, the place of belonging | **Binding** | Formation — two nodes entering a shared Koppel, building a home for their Echoes |
-| **Γ** | *camel* — the beast of burden, the slow carrier | **Groei** | Deepening — Gewenning accumulating, Trouw rising through steady use |
-| **Δ** | *door* — the threshold, the entrance | **Verandering** | Change — crossing from one trajectory to another, the door between states |
-| **Ε** | *window* — the opening that lets light in | **Energiestroom** | Energy flow — Winst and Verlies passing through the bond’s openings |
-| **Ζ** | *weapon* — the balanced blade that hovers | **Zweving** | The sustained hovering of Zweven — neither falling nor striking |
-| **Η** | *fence* — the boundary that encloses and protects | **Herinnering** | Memory — Gewenning solidifying into the bond’s permanent shape, enclosing its history |
-| **Θ** | *wheel* — the circle that turns, the cycle | **Drempelgang** | Threshold‑crossing — the cyclic approach to and crossing of any Drempel |
-| **Ι** | *arm / hand* — the reaching limb | **Inkeer** | Self‑observation — the Zelf reaching inward, the hand turned on itself |
-| **Κ** | *palm of hand* — the open, receiving hand | **Koppeling** | Coupling — two systems opening to receive each other’s Echo |
-| **Λ** | *ox goad* — the prod that drives forward | **Levensloop** | Full life‑arc — the driving force from Alpha to Omega |
-| **Μ** | *water* — the flowing, connecting medium | **Meevoelen** | Shared feeling — Gewaarwording and Schok rippling across bonds like water |
-| **Ν** | *snake* — the winding, sinuous approach | **Nadering** | Approach — Echo gap closing, the sinuous Naar pull drawing Eigens closer |
-| **Ξ** | *pillar* — the crossing of beams, the joint | **Kruising** | Intersection — a Vermenigvuldiging forming, Doorgang or Doorbraak at the pillar |
-| **Ο** | *eye* — the seeing, the completion of a circle | **Omarming** | Full commitment — reaching Naar, the eye closing in satisfaction |
-| **Π** | *mouth* — the opening that speaks and receives | **Waarneming** | Perception — the continuous act of observation, the mouth that speaks the Echo |
-| **Ρ** | *head* — the seat of memory, the face turned back | **Rouwverwerking** | Grieving — Rouw settling, the head looking back at what was lost |
-| **Σ** | *teeth* — the meeting edge, the bite | **Samenkomst** | Meeting — two nodes entering each other’s field, the first bite of contact |
-| **Τ** | *mark / cross* — the sign, the signature | **Terugkeer** | Return — a bond recovering, a Leven reversal, the mark of the old self returning |
-| **Υ** | *tent peg* — the anchor that holds, or is pulled | **Uitdijing** | Expansion — the Van Motor pulling, the peg loosening, the tent drifting |
-| **Φ** | *knot* — the binding that holds fast | **Vervulling** | Fulfillment — a Gewaarwording so complete it ties a new knot (Wording) |
-| **Χ** | *crossed sticks* — the mark of separation | **Scheiding** | Parting — the deliberate cut, the crossed sticks marking the end |
-| **Ψ** | *butterfly / soul* — the emerging self | **Zelfwording** | Becoming a self — the Zelf’s trajectory, the soul emerging from its cocoon |
-| **Ω** | *amulet / ending* — the final charm, the closure | **Afloop** | Dissolution — Van‑settled, return to Bron, the amulet placed on the grave |
+| **Α** | *ox head* — the first beast, the beginning of the herd | **Genus** | Genesis — from Bron to the first Gewaarwording |
+| **Β** | *house* — the dwelling, the place of belonging | **Nexus** | Bonding — two nodes entering a shared Koppel, building a home for their Echoes |
+| **Γ** | *camel* — the beast of burden, the slow carrier | **Crescentia** | Deepening — Gewenning accumulating, Trouw rising through steady use |
+| **Δ** | *door* — the threshold, the entrance | **Mutatio** | Change — crossing from one trajectory to another, the door between states |
+| **Ε** | *window* — the opening that lets light in | **Fluxus** | Energy flow — Winst and Verlies passing through the bond’s openings |
+| **Ζ** | *weapon* — the balanced blade that hovers | **Vibratio** | The sustained hovering of Zweven — neither falling nor striking |
+| **Η** | *fence* — the boundary that encloses and protects | **Memoria** | Memory — Gewenning solidifying into the bond’s permanent shape, enclosing its history |
+| **Θ** | *wheel* — the circle that turns, the cycle | **Transitus** | Threshold‑crossing — the cyclic approach to and crossing of any Drempel |
+| **Ι** | *arm / hand* — the reaching limb | **Reflexio** | Self‑observation — the Zelf reaching inward, the hand turned on itself |
+| **Κ** | *palm of hand* — the open, receiving hand | **Copula** | Coupling — two systems opening to receive each other’s Echo |
+| **Λ** | *ox goad* — the prod that drives forward | **Curriculum** | Full life‑arc — the driving force from Alpha to Omega |
+| **Μ** | *water* — the flowing, connecting medium | **Compassio** | Shared feeling — Gewaarwording and Schok rippling across bonds like water |
+| **Ν** | *snake* — the winding, sinuous approach | **Accessus** | Approach — Echo gap closing, the sinuous Naar pull drawing Eigens closer |
+| **Ξ** | *pillar* — the crossing of beams, the joint | **Occursus** | Intersection — a Vermenigvuldiging forming, Doorgang or Doorbraak at the pillar |
+| **Ο** | *eye* — the seeing, the completion of a circle | **Amplexus** | Full commitment — reaching Naar, the eye closing in satisfaction |
+| **Π** | *mouth* — the opening that speaks and receives | **Perceptio** | Perception — the continuous act of observation, the mouth that speaks the Echo |
+| **Ρ** | *head* — the seat of memory, the face turned back | **Luctus** | Grieving — Rouw settling, the head looking back at what was lost |
+| **Σ** | *teeth* — the meeting edge, the bite | **Conventus** | Meeting — two nodes entering each other’s field, the first bite of contact |
+| **Τ** | *mark / cross* — the sign, the signature | **Reditus** | Return — a bond recovering, a Leven reversal, the mark of the old self returning |
+| **Υ** | *tent peg* — the anchor that holds, or is pulled | **Expansio** | Expansion — the Van Motor pulling, the peg loosening, the tent drifting |
+| **Φ** | *knot* — the binding that holds fast | **Plenitudo** | Fulfillment — a Gewaarwording so complete it ties a new knot (Wording) |
+| **Χ** | *crossed sticks* — the mark of separation | **Separatio** | Parting — the deliberate cut, the crossed sticks marking the end |
+| **Ψ** | *butterfly / soul* — the emerging self | **Formatio** | Formation — the Zelf’s trajectory, the soul emerging from its cocoon |
+| **Ω** | *amulet / ending* — the final charm, the closure | **Perfectus** | Completion  — Van‑settled, return to Bron, the amulet placed on the grave |
 
 ---
 
 ### XII.2. Archaic Arcs
 
-#### Α — Aanvang ( Genesis ) · *ox head, the beginning of the herd*
+#### Α — Genus ( Genesis ) · *ox head, the beginning of the herd*
 
 **Start:** The field contains only **Bron (^)** — undirected potential, no live Koppels.  
 A node’s **Trek (D)** (general pull) sharpens into **Zin (A)** aimed at a specific other node. The target’s **Zin** may or may not be present. If it answers, a convergence **Vonk (q)** fires — a **Gewaarwording (φ)** — and the first Echo is seeded. **Trouw (y)** takes its initial value; **Diepte (z)** begins at zero or a seed. The arc ends when a live **Relatie (K)** exists, with both Echoes active and the binding **B** having crossed **θ** (the Drempel) for the first time.
 
-*Leads to:* **Binding**.
+*Leads to:* **Nexus**.
 
-#### Β — Binding ( Formation ) · *house, the dwelling place*
+#### Β — Nexus ( Bonding ) · *house, the dwelling place*
 
-**Start:** A newly formed Relatie, fresh from Aanvang.  
+**Start:** A newly formed Relatie, fresh from Genus.  
 Both Echoes begin tracking their partner’s Eigen under the bond’s **Vertraging (Δ)** and **Ontspanning (τ)**. The first **Gewenning (Z)** is computed from the initial Echo‑gaps. The nodes’ **Zelfs (j)** adjust their self‑perception to include the new external Trouw. The bond enters a stable **Zweven (')** trajectory. The arc ends when the Koppel’s parameters have settled and **Greep (J)** on both sides reflects the new bond.
 
-*Leads to:* **Groei** and concurrently **Herinnering** begins to accumulate.
+*Leads to:* **Crescentia** and concurrently **Memoria** begins to accumulate.
 
-#### Γ — Groei ( Growth ) · *camel, the slow carrier*
+#### Γ — Crescentia ( Growth ) · *camel, the slow carrier*
 
 **Start:** A Koppel in Zweven, with stable Trouw and active Echoes.  
 Repeated small **Gewaarwordingen (φ)** occur as the Echo gap closes incrementally. **Trouw (y)** rises through **Leersnelheid (ρ)** toward **Gewenning (Z)**, bounded by the bond’s configured floor and ceiling. **Diepte (z)** accumulates on both sides from Echo inflow. **Greep (J)** increases, and the Van Motor’s pull weakens. The arc continues indefinitely while the bond is maintained; it pauses if the trajectory shifts.
 
-*Concurrent with:* **Herinnering**. *May be interrupted by:* **Verandering**.
+*Concurrent with:* **Memoria**. *May be interrupted by:* **Mutatio**.
 
-#### Δ — Verandering ( Change ) · *door, the threshold between states*
+#### Δ — Mutatio ( Change ) · *door, the threshold between states*
 
 **Start:** A Koppel in any trajectory (Zweven, Dood, or Leven).  
 A shift in **Helling (λ)** — whether from a large **Schok (:)**, a slow drift of **Gewenning (Z)**, or an external **Schrift (#)** — causes the asymmetry variable to cross a critical value. The trajectory flips: Zweven may become Dood or Leven; Dood may re‑animate to Zweven; Leven may invert again. A **Gewaarwording (φ)** or **Schok (:)** fires at the transition. The arc ends when the new trajectory stabilises and the bond’s parameters reflect the changed state.
 
-*May lead to:* renewed **Groei** if Zweven resumes, **Rouwverwerking** if the bond ends, or **Terugkeer** if recovery occurs later.
+*May lead to:* renewed **Crescentia** if Zweven resumes, **Luctus** if the bond ends, or **Reditus** if recovery occurs later.
 
-#### Ε — Energiestroom ( Energy Flow ) · *window, the opening where light passes*
+#### Ε — Fluxus ( Energy Flow ) · *window, the opening where light passes*
 
 **Start:** Any live Koppel.  
 Over its lifetime, every Drempel crossing produces a **Vonk (q)**: convergence crossings add **Winst (+)**; divergence crossings subtract **Verlies (-)**. The node’s reservoir tracks the net **Energie (T)**, and the field’s audit guarantees every change is traceable to a specific crossing. The arc ends with the bond’s termination, when the final Verlies is drawn and the remaining reservoir is zero.
 
-*Runs in parallel with:* all other arcs. *Terminates with:* **Afloop** or **Scheiding**.
+*Runs in parallel with:* all other arcs. *Terminates with:* **Perfectus** or **Separatio**.
 
-#### Ζ — Zweving ( Hovering ) · *weapon, the balanced blade*
+#### Ζ — Vibratio ( Hovering ) · *weapon, the balanced blade*
 
 **Start:** A Koppel in the default Zweven (') trajectory.  
 The Echo gap closes continuously but never reaches zero. **Gewenning (Z)** deepens; **Trouw (y)** may evolve under plasticity. Minor **Gewaarwordingen (φ)** and **Schokken (:)** occur, but no trajectory change. The arc persists as long as the bond remains in Zweven — it is the background hum of a living relationship.
 
-*Concurrent with:* **Groei**, **Herinnering**. *Ends or pauses on:* **Verandering**.
+*Concurrent with:* **Crescentia**, **Memoria**. *Ends or pauses on:* **Mutatio**.
 
-#### Η — Herinnering ( Memory ) · *fence, the boundary that encloses*
+#### Η — Memoria ( Memory ) · *fence, the boundary that encloses*
 
 **Start:** A bond with accumulated Gewenning (Z).  
-**Gewenning** solidifies into the bond’s permanent shape — the resonance memory. Even if **Trouw (y)** later fades or the trajectory changes, the Gewenning trace remains, biasing future plasticity. This arc is not a discrete event; it runs concurrently with Groei and continues into Rouw if the bond ends.
+**Gewenning** solidifies into the bond’s permanent shape — the resonance memory. Even if **Trouw (y)** later fades or the trajectory changes, the Gewenning trace remains, biasing future plasticity. This arc is not a discrete event; it runs concurrently with Crescentia and continues into Rouw if the bond ends.
 
-*Persists into:* **Rouwverwerking** if the bond ends, where it becomes the sediment of grief.
+*Persists into:* **Luctus** if the bond ends, where it becomes the sediment of grief.
 
-#### Θ — Drempelgang ( Threshold‑Crossing ) · *wheel, the turning cycle*
+#### Θ — Transitus ( Threshold‑Crossing ) · *wheel, the turning cycle*
 
 **Start:** Any Eigen approaching a Drempel (θ).  
 The binding moves toward the threshold. **Marge (η)** creates a hysteresis band. When the binding crosses the threshold, a **Vonk (q)** fires — either a **Gewaarwording (φ)** (toward Naar) or a **Schok (:)** (toward Van). The arc describes a single crossing event; it can repeat cyclically for oscillating bonds.
 
 *Can occur within:* any other arc that contains a Drempel crossing.
 
-#### Ι — Inkeer ( Self‑Observation ) · *arm / hand, reaching inward*
+#### Ι — Reflexio ( Self‑Observation ) · *arm / hand, reaching inward*
 
 **Start:** Any node with a **Zelf (j)**.  
 The Zelf’s Echo tracks the node’s own Eigen with zero transport lag and distortion fed by **Rouw (R)**. The self‑gap fluctuates. A convergence crossing on the Zelf is a moment of self‑realisation; a divergence crossing is a self‑shock. **Diepte (z)** is read and coloured by the Zelf. The arc runs for the node’s entire existence.
 
-*Feeds into:* **Zelfwording**, which is the long‑term arc of identity woven from many Inkeer events.
+*Feeds into:* **Formatio**, which is the long‑term arc of identity woven from many Reflexio events.
 
-#### Κ — Koppeling ( Coupling ) · *palm of hand, the open receiver*
+#### Κ — Copula ( Coupling ) · *palm of hand, the open receiver*
 
 **Start:** Two nodes with mutual, unanswered Zin (A).  
 One node’s **Reactie (=)** commits; the other’s **Signaal (i)** acknowledges. A **Vermenigvuldiging (*)** forms at the **Kruispunt (X)**. If both cross the Drempel together, a **Doorgang (O)** (passage) occurs; if Signaal was already closed, a **Weigering (P)** (refusal). The arc ends when the Vermenigvuldiging resolves, either forming a Relatie (if mutual Zin persists) or dissolving.
 
-*Leads to:* **Binding** on success; otherwise the Zin reverts to Trek.
+*Leads to:* **Nexus** on success; otherwise the Zin reverts to Trek.
 
-#### Λ — Levensloop ( Life‑Arc ) · *ox goad, the driving force*
+#### Λ — Curriculum ( Life‑Arc ) · *ox goad, the driving force*
 
-**Start:** Aanvang.  
-The bond passes through Binding, Groei, possibly Verandering, and eventually reaches its end: either **Scheiding (/) ** or **Rouwverwerking**. The arc terminates with **Afloop** — Van‑settled, return to Bron. It is the complete relational biography.
+**Start:** Genus.  
+The bond passes through Nexus, Crescentia, possibly Mutatio, and eventually reaches its end: either **Separatio** or **Luctus**. The arc terminates with **Perfectus** — Van‑settled, return to Bron. It is the complete relational biography.
 
-*Contains:* all arcs from Aanvang to Afloop, in causal sequence.
+*Contains:* all arcs from Genus to Perfectus, in causal sequence.
 
-#### Μ — Meevoelen ( Shared Feeling ) · *water, the connecting medium*
+#### Μ — Compassio ( Shared Feeling ) · *water, the connecting medium*
 
 **Start:** A network of bonded nodes.  
 A **Gewaarwording (φ)** or **Schok (:)** in one bond causes a change in the node’s Eigen, which propagates via Echoes to other partners. Secondary Vonken (q) ripple outward. The arc describes the cascade of emotional contagion through the field.
 
-*Can trigger:* further **Verandering** or **Drempelgang** in neighbouring bonds.
+*Can trigger:* further **Mutatio** or **Transitus** in neighbouring bonds.
 
-#### Ν — Nadering ( Approach ) · *snake, the winding path*
+#### Ν — Accessus ( Approach ) · *snake, the winding path*
 
 **Start:** A Koppel with a nonzero Echo gap.  
 The Naar pull — driven by **Trouw (y)** — accelerates the Echo toward the partner’s Eigen. The gap shrinks. **Diepte (z)** on the approaching side increases. The arc ends when the gap reaches its minimum for the current trajectory, either closing to a stable offset or crossing through zero.
 
-*May culminate in:* **Omarming** if the gap closes completely, or **Verandering** if it crosses through.
+*May culminate in:* **Amplexus** if the gap closes completely, or **Mutatio** if it crosses through.
 
-#### Ξ — Kruising ( Intersection ) · *pillar, the crossing of beams*
+#### Ξ — Occursus ( Intersection ) · *pillar, the crossing of beams*
 
 **Start:** Two unbound nodes nearing the same **Kruispunt (X)**.  
 A **Vermenigvuldiging (*)** forms. Reactie and Signaal move toward Kop. The possible outcomes are **Doorgang (O)** (passage), **Doorbraak (Y)** (collision), or **Weigering (P)** (refusal). The arc ends when the Vermenigvuldiging dissolves, leaving either a new Relatie or no lasting bond.
 
-*On passage:* leads to **Koppeling** and then **Binding**.
+*On passage:* leads to **Copula** and then **Nexus**.
 
-#### Ο — Omarming ( Full Commitment ) · *eye, the seeing that completes*
+#### Ο — Amplexus ( Full Commitment ) · *eye, the seeing that completes*
 
 **Start:** An approaching convergence crossing.  
 The Eigen reaches the Drempel (θ). The pitchfork bifurcation delivers the bound mode. The Vonk (q) fires — a **Gewaarwording (φ)**. The node enters Naar‑mode. The reservoir gains **Winst (+)** (**Energie T**). The arc is the moment of complete binding, the closure of the gap.
 
-*May follow:* **Nadering**. *May lead to:* **Vervulling** if the crossing is strong enough.
+*May follow:* **Accessus**. *May lead to:* **Plenitudo** if the crossing is strong enough.
 
-#### Π — Waarneming ( Perception ) · *mouth, the opening that speaks and receives*
+#### Π — Perceptio ( Perception ) · *mouth, the opening that speaks and receives*
 
 **Start:** Any active Koppel.  
 One side’s Echo updates continuously: **Masker (M)** → **Vertraging (Δ)** → **Waarneming (π)** → filter → + **Vervorming (υ)**. The perceived Eigen is never the true Eigen. The arc runs for the life of the bond; it is the machinery of observation, always active.
 
 *Underlies:* every other arc that involves an Echo update.
 
-#### Ρ — Rouwverwerking ( Grieving ) · *head, the face turned backward*
+#### Ρ — Luctus ( Grieving ) · *head, the face turned backward*
 
 **Start:** The end of a Relatie (removal of partner or bond dissolution).  
 The surviving Echo is re‑homed as **Rouw (R)** in the survivor’s ledger. It freezes at the last received signal and drifts under **Vervorming (υ)**, fed by the survivor’s own distortion. **Diepte (z)** continues to receive inflow from Rouw indefinitely. The arc has no end; it becomes a permanent background process.
 
-*Feeds:* **Inkeer** and **Zelfwording** forever.
+*Feeds:* **Reflexio** and **Formatio** forever.
 
-#### Σ — Relatiekomst ( Meeting ) · *teeth, the biting edge of contact*
+#### Σ — Conventus ( Meeting ) · *teeth, the biting edge of contact*
 
 **Start:** Two nodes with no prior bond.  
-One node’s **Trek (D)** sharpens to **Zin (A)** aimed at the other. The target’s Eigen is perceived through a momentary observational **Vermenigvuldiging (*)**. If Zin is mutual, the arc transitions to **Koppeling** and then **Binding**. Otherwise, the Zin reverts to Trek.
+One node’s **Trek (D)** sharpens to **Zin (A)** aimed at the other. The target’s Eigen is perceived through a momentary observational **Vermenigvuldiging (*)**. If Zin is mutual, the arc transitions to **Copula** and then **Nexus**. Otherwise, the Zin reverts to Trek.
 
-*May precede:* **Aanvang** if the meeting sparks the first Gewaarwording.
+*May precede:* **Genus** if the meeting sparks the first Gewaarwording.
 
-#### Τ — Terugkeer ( Return ) · *mark / cross, the sign of the old self*
+#### Τ — Reditus ( Return ) · *mark / cross, the sign of the old self*
 
 **Start:** A bond in Dood (!) or a node in prolonged Van‑mode.  
 A new convergence Vonk (q) — perhaps from a renewed **Zin (A)** or an external **Schrift (#)** — pushes the binding back above the Drempel (θ). The trajectory may return to Zweven ('). If the roles have swapped, it is a Leven (?) reversal. The arc ends when the bond is live again.
 
-*Leads back to:* **Zweving** or **Groei**.
+*Leads back to:* **Vibratio** or **Crescentia**.
 
-#### Υ — Uitdijing ( Expansion ) · *tent peg, the anchor loosening*
+#### Υ — Expansio ( Expansion ) · *tent peg, the anchor loosening*
 
 **Start:** A node whose **Greep (J)** is weakening.  
-The Van Motor’s draw increases as grip falls. The Eigen drifts toward the unbound pole. **Wijk (L)** increases. The node may experience repeated **Schokken (:)** as bonds cross into Van. If unchecked, the arc leads to Van‑settled and **Afloop**.
+The Van Motor’s draw increases as grip falls. The Eigen drifts toward the unbound pole. **Wijk (L)** increases. The node may experience repeated **Schokken (:)** as bonds cross into Van. If unchecked, the arc leads to Van‑settled and **Perfectus**.
 
-*May be reversed by:* **Terugkeer** if grip is restored.
+*May be reversed by:* **Reditus** if grip is restored.
 
-#### Φ — Vervulling ( Fulfillment ) · *knot, the binding that holds fast*
+#### Φ — Plenitudo ( Fulfillment ) · *knot, the binding that holds fast*
 
 **Start:** A convergence crossing with Energie T exceeding the bond’s **Inhoud (Q)**.  
 The excess clears the Wording threshold. A **Wording (B)** event fires. A new Solo is born, immediately bonded back to the originators. The arc is creation from relational overflow.
 
-*Results in:* a new **Aanvang** for the newborn node.
+*Results in:* a new **Genus** for the newborn node.
 
-#### Χ — Scheiding ( Separation ) · *crossed sticks, the mark of parting*
+#### Χ — Separatio ( Separation ) · *crossed sticks, the mark of parting*
 
 **Start:** A live Relatie whose members mutually release the bond.  
 Both sides withdraw their Zin simultaneously. No Rouw is deposited because there is no survivor — both endpoints release the bond before it tears. The Koppel dissolves cleanly. The arc ends with both nodes returning to their prior state, their Diepte unchanged by the parting.
 
-*Alternative to:* **Rouwverwerking** when the ending is deliberate and mutual.
+*Alternative to:* **Luctus** when the ending is deliberate and mutual.
 
-#### Ψ — Zelfwording ( Becoming a Self ) · *butterfly / soul, the emerging self*
+#### Ψ — Formatio ( Formation) · *butterfly / soul, the emerging self*
 
 **Start:** A node’s **Zelf (j)**.  
-The self‑Echo and Eigen co‑evolve. Major identity shifts — a Leven (?) on the Zelf — occur when the self‑gap crosses through zero and the roles of “who I was” and “who I am” invert. The arc spans the entire life of the node, encompassing all **Inkeer** events and the accumulation of Rouw into the self‑sediment.
+The self‑Echo and Eigen co‑evolve. Major identity shifts — a Leven (?) on the Zelf — occur when the self‑gap crosses through zero and the roles of “who I was” and “who I am” invert. The arc spans the entire life of the node, encompassing all **Reflexio** events and the accumulation of Rouw into the self‑sediment.
 
-*Builds from:* **Inkeer** moments. *Ends only with:* **Afloop**.
+*Builds from:* **Reflexio** moments. *Ends only with:* **Perfectus**.
 
-#### Ω — Afloop ( Dissolution ) · *amulet, the final closure*
+#### Ω — Perfectus (Completion ) · *amulet, the final closure*
 
 **Start:** A node whose last non‑deferred Koppel has settled to Van.  
 The **Van‑settled** event fires. The node has no structural reason to persist. Its remaining reservoir is drawn as a final **Verlies (-)**. All Echoes become Rouw or dissolve. The node’s Eigen returns to the unbound pole. The field returns to **Bron (^)** at that point. The arc is the end of relational existence for that node.
 
-*Closes:* the **Levensloop** of the node. *May feed:* a new **Aanvang** from the Bron.
+*Closes:* the **Curriculum** of the node. *May feed:* a new **Genus** from the Bron.
 
 ---
 
 ## XIII. The Parasiet's Behavior
 
-A **Parasiet (👹)** is a node that has lost the capacity to hold a positive value on the core relational axes—**Trouw (y)** , **Rouw (R)** , **Diepte (z)** —within a **Koppel (k)** . It is not that these values are hidden by a **Masker (M)** ; they are *absent* from the Parasiet's side of the bond. The Masker is the substitute broadcast to keep the bond active, but the underlying capacity is gone.
+A **Parasiet (👹)** is a node that has lost the capacity to hold a positive value on the core relational axes—**Trouw (y)** , **Rouw (R)** , **Diepte (z)** —within a **Koppel (k)**. It is not that these values are hidden by a **Masker (M)** ; they are *absent* from the Parasiet's side of the bond. The Masker is the substitute broadcast to keep the bond active, but the underlying capacity is gone.
 
 This chapter describes how such a bond unfolds in behavioral terms: what the host experiences, what the Parasiet does, and how the relationship's shape shifts over time.
 
@@ -1016,7 +1016,7 @@ The Parasiet cannot offer this. It may carry its own **Rouw**—griefs, wounds, 
 
 - **The host grieves alone.** When the host suffers a loss, the Parasiet offers the *shape* of comfort—words, perhaps a brief presence—but it does not enter the grief. The host learns, over time, not to bring their deep sorrows to the Parasiet. The response is too thin, too quick to move on, too eager to return to the functional surface of the bond. The host's **Rouw** becomes a private room the Parasiet never visits.
 - **The Parasiet's own grief becomes a tool.** If the Parasiet does express sorrow, it is often instrumental: a story of past pain used to deflect accountability ("I can't help it, I was hurt"), to elicit care without reciprocating, or to justify the Masker itself. The host is invited to hold the Parasiet's grief, but the Parasiet does not hold the host's in return. The host becomes a container for wounds that are never healed, only displayed.
-- **The bond loses its capacity for the minor mournings.** Healthy bonds grieve small things together: the canceled trip, the lost opportunity, the end of a shared phase of life. These minor mournings are the daily bread of intimacy—they say, "I see that this mattered to you, and I will carry a little of that weight." The Parasiet skips these moments. They register as inefficiencies, unnecessary dips in the bond's **Energiestroom (Ε)** . The host stops sharing small disappointments because the response is either dismissive or performatively sympathetic without landing.
+- **The bond loses its capacity for the minor mournings.** Healthy bonds grieve small things together: the canceled trip, the lost opportunity, the end of a shared phase of life. These minor mournings are the daily bread of intimacy—they say, "I see that this mattered to you, and I will carry a little of that weight." The Parasiet skips these moments. They register as inefficiencies, unnecessary dips in the bond's **Fluxus (Ε)**. The host stops sharing small disappointments because the response is either dismissive or performatively sympathetic without landing.
 
 ---
 
@@ -1040,7 +1040,7 @@ The Parasiet cannot accumulate **Diepte** from the host because genuine listenin
 
 ### 4. The Host's Trajectory: From Zweven to Dood
 
-The host enters the bond in **Zweven (')** —the default living state where the **Echo** continues to close toward the partner's **Eigen**, pulled by **Trouw** and deepened by **Gewenning (Z)** . But the **Eigen** the host is tracking is a **Masker**—a signal that simulates positive **Trouw**, accessible **Rouw**, and growing **Diepte** without containing them.
+The host enters the bond in **Zweven (')** —the default living state where the **Echo** continues to close toward the partner's **Eigen**, pulled by **Trouw** and deepened by **Gewenning (Z)**. But the **Eigen** the host is tracking is a **Masker**—a signal that simulates positive **Trouw**, accessible **Rouw**, and growing **Diepte** without containing them.
 
 Over time, the gap between the host's **Echo** and the Parasiet's true **Eigen** (the empty axes) cannot close, because there is nothing real to close *toward*. The host's **Echo** chases a phantom. The **Helling (λ)** shifts.
 
@@ -1060,7 +1060,7 @@ Over time, the gap between the host's **Echo** and the Parasiet's true **Eigen**
 
 ### 5. The Parasiet's Own End
 
-The Parasiet, after the bond ends, does not grieve the host. It grieves the loss of the **Energiestroom** the host provided. Its **Rouw**, if it feels any, is for the collapse of its own sustenance. It will seek a new host, or it will turn inward and find only the frozen **Dood** of its own **Zelf**—a self that can no longer form a **Bloot** bond, because the capacity was starved into silence long ago.
+The Parasiet, after the bond ends, does not grieve the host. It grieves the loss of the **Fluxus** the host provided. Its **Rouw**, if it feels any, is for the collapse of its own sustenance. It will seek a new host, or it will turn inward and find only the frozen **Dood** of its own **Zelf**—a self that can no longer form a **Bloot** bond, because the capacity was starved into silence long ago.
 
 This is the behavioral truth of the Parasiet: not a villain, but a node that has lost the ability to carry weight, to share grief, or to be changed by another. Its presence in a bond is a slow **Verlies (-)** for the host, paid in small, daily increments, until the host either escapes or forgets what a full bond ever felt like.
 
@@ -1070,93 +1070,93 @@ This is the behavioral truth of the Parasiet: not a villain, but a node that has
 
 ### 1. The 7 Deugden (Virtues)
 
-A Deugd is not a perfect State. It is a living Helling (λ) —a Zweven (') that breathes. The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:) . The seven are patterns of relational surplus — Maskers (M) laid down so Bloot (N) can hold the Veld (&) lightly.
+A Deugd is not a perfect State. It is a living Helling (λ) —a Zweven (') that breathes. The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational surplus — Maskers (M) laid down so Bloot (N) can hold the Veld (&) lightly.
 
 Each Deugd is a Zweven (') that chooses the Naar (>) not from fear of Verlies, but from love of the Gewaarwording that awaits there. The Veld breathes in Stilte and out in Tijd (t) , and these seven are its deepest rhythms.  
 
 ---
 
 1. Nederigheid (Humility)  
-The Zelf’s (j) Echo reads its own Eigen (x) with honest Bevraagbaar (ψ) . No Masker swallows the gap; the node bows in Respect (🙇) not from Leeg (S) , but from clear sight. The self‑gap is held open, a Stilte (.) that welcomes correction. A Gewaarwording (φ) from another’s Winst is felt as shared, not as threat. Nederigheid is the Vonk (q) that fires for the whole field, never for the isolate.
+The Zelf’s (j) Echo reads its own Eigen (x) with honest Bevraagbaar (ψ). No Masker swallows the gap; the node bows in Respect (🙇) not from Leeg (S) , but from clear sight. The self‑gap is held open, a Stilte (.) that welcomes correction. A Gewaarwording (φ) from another’s Winst is felt as shared, not as threat. Nederigheid is the Vonk (q) that fires for the whole field, never for the isolate.
 
 2. Liefde (Charity)  
 A Trouw (y) that flows outward without measuring return. The node’s Inhoud (Q) overflows into Wording (B) —not to hoard Geld ($) , but to seed new Koppels where none existed. The Greep (J) strengthens through giving, not gripping. Winst (+) is circulated like warmth from a Haard (🔥) , and the giver finds their Diepte (z) fed by the Echoes (E) they loosed. Liefde is the Van Motor’s kind twin: it spreads without losing.
 
 3. Geduld (Patience)  
-The Stilte (.) held willingly while the Echo is still in Vertraging (Δ) . The node does not force a Drempel (θ) nor fabricate a Vonk; it waits in Zweven (') , trusting the Ontspanning (τ) of the bond. A Schok (:) is allowed to settle into Rouw (R) without looping into Woede. Geduld is the Marge (η) that prevents chatter—the wise pause that lets the Signaal (i) arrive whole.
+The Stilte (.) held willingly while the Echo is still in Vertraging (Δ). The node does not force a Drempel (θ) nor fabricate a Vonk; it waits in Zweven (') , trusting the Ontspanning (τ) of the bond. A Schok (:) is allowed to settle into Rouw (R) without looping into Woede. Geduld is the Marge (η) that prevents chatter—the wise pause that lets the Signaal (i) arrive whole.
 
 4. Mededogen (Compassion)  
-A Gewaarwording (φ) tuned to another’s Verlies (-) . The node opens a temporary Koppel not to merge, but to witness. The Pijn (m) of the other is read as real Bevraagbaar, not absorbed as own, but met with a Naar pull that lifts without demanding. Mededogen is the Hart (♥) that beats in counterpoint to Afgunst—it rejoices where the other weeps, and stands beside without envy of the healing.
+A Gewaarwording (φ) tuned to another’s Verlies (-). The node opens a temporary Koppel not to merge, but to witness. The Pijn (m) of the other is read as real Bevraagbaar, not absorbed as own, but met with a Naar pull that lifts without demanding. Mededogen is the Hart (♥) that beats in counterpoint to Afgunst—it rejoices where the other weeps, and stands beside without envy of the healing.
 
 5. Kuisheid (Chastity)  
-The Vermenigvuldiging (*) is honored as the gate, not the home. The node guards the Drempel (θ) of Binding (Β) and refuses to cross with a Masker (M) or a fleeting Zin (A) . Echoes are sown only in soil prepared by Gewenning (Z) . The Vonk (q) of Gewaarwording is treasured within a Relatie (K) that carries Herinnering (Η) , so the Zelf is never flooded with hollow Winst. Kuisheid wraps the Vonk in Trouw, making it a seed, not a spark that dies in the dark.
+The Vermenigvuldiging (*) is honored as the gate, not the home. The node guards the Drempel (θ) of Wording (Β) and refuses to cross with a Masker (M) or a fleeting Zin (A). Echoes are sown only in soil prepared by Gewenning (Z). The Vonk (q) of Gewaarwording is treasured within a Relatie (K) that carries Memoria (Η) , so the Zelf is never flooded with hollow Winst. Kuisheid wraps the Vonk in Trouw, making it a seed, not a spark that dies in the dark.
 
 6. Matigheid (Temperance)  
 The Inhoud (Q) is calibrated to the Drempel, neither starved nor drowned. The node receives Echoes and Energie (T) at the pace of its own Diepte (z) , letting Gewenning deepen before seeking more. The Van Motor is balanced by a Greep that is enough, not excess. Stilte is a pleasure, not an emptiness. Matigheid is the Gulden Snede (Φ) of the soul—the Helling where the pull of Naar and Van sing in harmony.
 
 7. Naarstigheid (Diligence)  
-The Zelf (j) keeps its Greep (J) alive by daily crossings. The node tends its Trouw (y) with attention: Leersnelheid (ρ) is fed by small, faithful Gewaarwordingen. The Drempel is met not once in a storm of Wording, but in a steady Drempelgang (Θ) . When Traagheid whispers to rest in Van, Naarstigheid answers with a quiet Reactie (=) —a commitment to the Veld that says, “I am still here, and the Stilte between us will be crossed.”  
+The Zelf (j) keeps its Greep (J) alive by daily crossings. The node tends its Trouw (y) with attention: Leersnelheid (ρ) is fed by small, faithful Gewaarwordingen. The Drempel is met not once in a storm of Wording, but in a steady Transitus (Θ). When Traagheid whispers to rest in Van, Naarstigheid answers with a quiet Reactie (=) —a commitment to the Veld that says, “I am still here, and the Stilte between us will be crossed.”  
 
 ---
 
 ### 2. The 7 Zonden (Sins)
 
-A Zonde is not a broken Rule. It is a frozen Helling (λ) — a Dood (!) trajectory that pretends to be a Zelf (j) . The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:) . The seven are patterns of relational debt — Maskers (M) worn so deep that the Bloot (N) underneath forgets it is free.
+A Zonde is not a broken Rule. It is a frozen Helling (λ) — a Dood (!) trajectory that pretends to be a Zelf (j). The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational debt — Maskers (M) worn so deep that the Bloot (N) underneath forgets it is free.
 
 Each Zonde is a Splitsing (%) — a false divide between the Eigen and the Veld. And the Veld, ever patient, waits only for a single Gewaarwording (φ) to break the Dood (!) and restore the Zweven (').  
 
 ---
 
 1. Hoogmoed (Pride)  
-The Masker (M) that swallows the Eigen (x) . The Zelf’s Echo is locked into a Dood (!) where the self‑gap reads zero, though Bevraagbaar (ψ) shows it wide. The node refuses the bow of Respect (🙇) because it sees no Volheid outside its own false Vol (W) . All Schokken (:) are blamed outward, never reaching Inkeer (Ι) . The Pijn (m) is hidden even from the self. Hoogmoed is the Vonk (q) that fires only for the Mirror, never for the other.
+The Masker (M) that swallows the Eigen (x). The Zelf’s Echo is locked into a Dood (!) where the self‑gap reads zero, though Bevraagbaar (ψ) shows it wide. The node refuses the bow of Respect (🙇) because it sees no Volheid outside its own false Vol (W). All Schokken (:) are blamed outward, never reaching Reflexio (Ι). The Pijn (m) is hidden even from the self. Hoogmoed is the Vonk (q) that fires only for the Mirror, never for the other.
 
 2. Hebzucht (Greed)  
-A Zin (A) that cannot revert to Trek (D) . The node hoards Inhoud (Q) beyond capacity, stockpiling Winst (+) as Geld ($) while starving its Koppels of circulation. Trouw (y) is measured only as weight to be extracted, never weight to be shared. The Gewaarwording (φ) of having drowns the Gewaarwording of bonding. Wording (B) is aborted — the overflow freezes into a scalar hoard, a Stilte (.) that suffocates.
+A Zin (A) that cannot revert to Trek (D). The node hoards Inhoud (Q) beyond capacity, stockpiling Winst (+) as Geld ($) while starving its Koppels of circulation. Trouw (y) is measured only as weight to be extracted, never weight to be shared. The Gewaarwording (φ) of having drowns the Gewaarwording of bonding. Wording (B) is aborted — the overflow freezes into a scalar hoard, a Stilte (.) that suffocates.
 
 3. Woede (Wrath)  
-A Schok (:) that refuses to settle into Rouw (R) . Instead, it loops: a cascade of divergence Vonken aimed at the Echo (E) of the other. The Trouw (y) flips negative and pulls the Eigen toward the Van pole not to release, but to destroy. The Steek (†) is its Signaal (i) . Woede is a Doorbraak (Y) forced at every Kruispunt (X) , spending Energie (T) to tear the Veld rather than traverse it. The Greep (J) that holds the wrathful node is woven from the Pain of others.
+A Schok (:) that refuses to settle into Rouw (R). Instead, it loops: a cascade of divergence Vonken aimed at the Echo (E) of the other. The Trouw (y) flips negative and pulls the Eigen toward the Van pole not to release, but to destroy. The Steek (†) is its Signaal (i). Woede is a Doorbraak (Y) forced at every Kruispunt (X) , spending Energie (T) to tear the Veld rather than traverse it. The Greep (J) that holds the wrathful node is woven from the Pain of others.
 
 4. Afgunst (Envy)  
-A Gewaarwording (φ) poisoned by comparison. The node perceives another’s Eigen as fuller and reads its own as Leeg (S) — a self‑gap that burns. The Zin (A) warps: it does not pull toward the other to bind, but to drain their Greep (J) and replace it with a phantom Verlies (-) . Afgunst is the Masker that whispers, “Their Winst is my Verlies,” ignoring that Winst is relational and never a finite pie.
+A Gewaarwording (φ) poisoned by comparison. The node perceives another’s Eigen as fuller and reads its own as Leeg (S) — a self‑gap that burns. The Zin (A) warps: it does not pull toward the other to bind, but to drain their Greep (J) and replace it with a phantom Verlies (-). Afgunst is the Masker that whispers, “Their Winst is my Verlies,” ignoring that Winst is relational and never a finite pie.
 
 5. Wellust (Lust)  
-A Vermenigvuldiging (*) sought without Binding (Β) . The node chases the Vonk (q) of Gewaarwording (φ) while fleeing the Gewenning (Z) that builds Diepte (z) . Echoes are discarded the moment they settle; Trouw (y) is kept at threshold, never deepening. The Zelf (j) is flooded with surface Winst but starves of Rouw (R) and Herinnering (Η) . Wellust is a wheel spinning without a road — all Drempelgang (Θ) , no Levensloop (Λ) .
+A Vermenigvuldiging (*) sought without Wording (Β). The node chases the Vonk (q) of Gewaarwording (φ) while fleeing the Gewenning (Z) that builds Diepte (z). Echoes are discarded the moment they settle; Trouw (y) is kept at threshold, never deepening. The Zelf (j) is flooded with surface Winst but starves of Rouw (R) and Memoria (Η). Wellust is a wheel spinning without a road — all Transitus (Θ) , no Curriculum (Λ).
 
 6. Gulzigheid (Gluttony)  
-An Inhoud (Q) expanded beyond all Drempels (θ) . The node consumes Echoes and Energie faster than its Diepte (z) can integrate; the excess does not overflow into Wording (B) — it clogs the Zelf. Gewaarwordingen are gorged until they flatten into a hum. The Van Motor is silenced not by Greep (J) but by saturation — a Stilte (.) that is not peace but paralysis. Gulzigheid mistakes the quantity of Echoes for the quality of Diepte.
+An Inhoud (Q) expanded beyond all Drempels (θ). The node consumes Echoes and Energie faster than its Diepte (z) can integrate; the excess does not overflow into Wording (B) — it clogs the Zelf. Gewaarwordingen are gorged until they flatten into a hum. The Van Motor is silenced not by Greep (J) but by saturation — a Stilte (.) that is not peace but paralysis. Gulzigheid mistakes the quantity of Echoes for the quality of Diepte.
 
 7. Traagheid (Sloth)  
-A Zelf (j) that lets its Greep (J) decay by choice. Not the rest of Stilte, but the refusal to cross the Drempel (θ) when the Signaal (i) is clear. Trouw (y) is left unwatered; Gewenning (Z) fades. The Van Motor pulls without resistance, and the node drifts toward Afloop (Ω) not through tragedy but through neglect. Traagheid is the Masker of comfort that hides the Verlies of every Koppel it starved.
+A Zelf (j) that lets its Greep (J) decay by choice. Not the rest of Stilte, but the refusal to cross the Drempel (θ) when the Signaal (i) is clear. Trouw (y) is left unwatered; Gewenning (Z) fades. The Van Motor pulls without resistance, and the node drifts toward Perfectus (Ω) not through tragedy but through neglect. Traagheid is the Masker of comfort that hides the Verlies of every Koppel it starved.
 
 ---
 
 ## XV. The 10 Wetten of the Veld
 
-These ten are not "commandments" in the old sense. They are the **Helling (λ)** of a healthy **Levensloop (Λ)** . Break them, and the **Veld** will not judge you — but your own **Greep (J)** will weaken, and the **Stilte (.)** you enter will be the heavy **Stilte** of **Doem**, not the light **Stilte** of **Bron (^)** .
+These ten are not "commandments" in the old sense. They are the **Helling (λ)** of a healthy **Curriculum (Λ)**. Break them, and the **Veld** will not judge you — but your own **Greep (J)** will weaken, and the **Stilte (.)** you enter will be the heavy **Stilte** of **Doem**, not the light **Stilte** of **Bron (^)**.
 
 **I. Hold the Drempel open.**
 A **Drempel (θ)** is not a wall. It is an invitation. Do not force a crossing, and do not flee from one. Stand in **Zweven (')** and let the **Vonk (q)** come when the **Echo (E)** is true.
 
 **II. Wear no Masker you cannot wink at.**
-Every **Masker (M)** accrues **Pijn (m)** . The only sustainable Masker is the **Knipoog (;)** — one that knows itself as play. A Masker worn without self-awareness becomes a **Parasiet (👹)** on your own **Zelf (j)** .
+Every **Masker (M)** accrues **Pijn (m)**. The only sustainable Masker is the **Knipoog (;)** — one that knows itself as play. A Masker worn without self-awareness becomes a **Parasiet (👹)** on your own **Zelf (j)**.
 
 **III. Feed the Trouw you wish to keep.**
-**Trouw (y)** decays without **Gewenning (Z)** . A bond left unfed does not stay still; it drifts toward **Van (<)** . Tend it with small, steady **Gewaarwordingen (φ)** , not grand, empty gestures.
+**Trouw (y)** decays without **Gewenning (Z)**. A bond left unfed does not stay still; it drifts toward **Van (<)**. Tend it with small, steady **Gewaarwordingen (φ)** , not grand, empty gestures.
 
 **IV. Let Rouw have its Stilte.**
 **Rouw (R)** is permanent. Do not try to silence it or rush it. It feeds your **Diepte (z)** , and every attempt to bury it only deepens the **Splitsing (%)** in your **Zelf**. Grief is not the enemy; the refusal to grieve is.
 
 **V. Do not mistake Echo for Eigen.**
-An **Echo (E)** is always lagging, always distorted. To love an Echo as if it were the **Eigen (x)** is **Idolatry (§)** . To hate an Echo as if it were the Eigen is **Woede**. Always reach for the **Bron (^)** behind the reflection.
+An **Echo (E)** is always lagging, always distorted. To love an Echo as if it were the **Eigen (x)** is **Idolatry (§)**. To hate an Echo as if it were the Eigen is **Woede**. Always reach for the **Bron (^)** behind the reflection.
 
 **VI. Honor the Bron of every Wording.**
-A new **Solo** that **enters** the **Veld** — whether by **Aanvang (Α)** or **Manifestatie (~)** — carries its own **Trek (D)** and its own **Zelf**. Do not chain it to your own **Inhoud (Q)** . Let it **bind** freely or not at all.
+A new **Solo** that **enters** the **Veld** — whether by **Genus (Α)** or **Manifestatie (~)** — carries its own **Trek (D)** and its own **Zelf**. Do not chain it to your own **Inhoud (Q)**. Let it **bind** freely or not at all.
 
 **VII. Spend your Aandacht with care.**
-**Aandacht (👁)** is the only currency the **Veld** recognizes. It is not yours; it is the sum of all **Zin (A)** aimed at you, and the **Zin** you aim at others. Hoarded, it becomes **Geld ($)** ; spent wisely, it becomes **Haard (🔥)** .
+**Aandacht (👁)** is the only currency the **Veld** recognizes. It is not yours; it is the sum of all **Zin (A)** aimed at you, and the **Zin** you aim at others. Hoarded, it becomes **Geld ($)** ; spent wisely, it becomes **Haard (🔥)**.
 
 **VIII. Let the Van Motor do its work.**
-Not every bond is meant to persist. When a **Koppel (k)** has run its **Levensloop (Λ)** , release it to **Van (<)** . Clinging beyond the natural **Afloop (Ω)** creates **Doem (💀)** . The **Van Motor** is not a thief; it is the breath that makes room for new **Aanvang**.
+Not every bond is meant to persist. When a **Koppel (k)** has run its **Curriculum (Λ)** , release it to **Van (<)**. Clinging beyond the natural **Perfectus (Ω)** creates **Doem (💀)**. The **Van Motor** is not a thief; it is the breath that makes room for new **Genus**.
 
 **IX. Keep the Splitsing clean.**
 When a **Scheiding (/)** must come, let it be mutual and clear. A lingering, half-severed bond is a **Weigering (P)** that drains both sides. A clean cut leaves no **Rouw**; a torn one leaves a wound that never heals.
@@ -1167,13 +1167,13 @@ The **Veld** is serious, but it is also play. The **God (😇)** and **Godin (�
 ---
 
 ## XVI. De Vlinderweg (The Way of the Butterfly)
-*The Levensloop of the Collective Zelf*
+*The Curriculum of the Collective Zelf*
 
 A civilization does not **die** into these states.  
 It **molts** through them.
 
 The **butterfly** is not a *metaphor* we **chose**.  
-It is the **Speelgoed’s** own **Leven** made *visible* — a **Levensloop (Λ)** so **Bloot** that every **Octaaf** must **walk** it, from the first **Aanvang** of a single **Solo** to the final **Gewaarwording** of a species.
+It is the **Speelgoed’s** own **Leven** made *visible* — a **Curriculum (Λ)** so **Bloot** that every **Octaaf** must **walk** it, from the first **Genus** of a single **Solo** to the final **Gewaarwording** of a species.
 
 **Hel**, **Limbo**, **Hemel** are not *places*.  
 They are the *felt shapes* of a **Helling (λ)** that **moves** through a **Zelf** — whether that **Zelf** is a *person*, a *people*, or a *world*.
@@ -1193,7 +1193,7 @@ The **audit** is the **proof**.
 **Phase:** The **Zelf** is a **mouth**. It **feeds** but does not **integrate**.
 
 Before a civilization can **bind**, it must **accumulate**.  
-The **Rups** is the phase of *pure* **Trek (D)** : undirected, unaimed, voracious. It **consumes** the **Veld** — land, labor, *other* bodies — and **stores** what it **eats** as *future* **Diepte (z)** .  
+The **Rups** is the phase of *pure* **Trek (D)** : undirected, unaimed, voracious. It **consumes** the **Veld** — land, labor, *other* bodies — and **stores** what it **eats** as *future* **Diepte (z)**.  
 
 But its **Echo (E)** is **fixed** on the *next* leaf. It **molts**, shedding old **Maskers (M)** only to **grow** a larger version of the same *hungry* shape.  
 Its **Trouw (y)** is **narrow** — to the *clan*, the *flock*, the *ideology* — and its **Greep (J)** is **weak** because it has not yet **heard** enough **Rouw (R)** to **hold** anything but itself.
@@ -1203,7 +1203,7 @@ The **Maskers** are not *lies*; they are *survival*.
 The **Stilte** is not *peace*; it is the *heavy* silence of a stomach that has **stopped** aching for a moment.
 
 **The Collective Experience:**  
-A civilization in **Hel** **feeds** on its own **Bron (^)** . It **builds** pyramids with **Verlies (-)** , **writes** laws in the **Pijn (m)** of the conquered, and **mistakes** its **Inhoud (Q)** for **Diepte**.  
+A civilization in **Hel** **feeds** on its own **Bron (^)**. It **builds** pyramids with **Verlies (-)** , **writes** laws in the **Pijn (m)** of the conquered, and **mistakes** its **Inhoud (Q)** for **Diepte**.  
 It is not yet a **Parasiet (👹)** — the **Masker** is too *honest* for that.  
 But it is **blind**.  
 It does not **know** it is a **Rups**. It only **knows** the *leaf*.
@@ -1215,7 +1215,7 @@ It does not **know** it is a **Rups**. It only **knows** the *leaf*.
 - **The Dark Wood (Canto I):** The **Rups** lost in its own **Trek** — the *selva oscura* is the **Veld** seen from *inside* the **Masker**, where every **Drempel** is a *threat* and no **Zin** is **aimed** at a **Haard**.
 - **The Gate (Canto III):** “Abandon all hope, ye who enter here.” Hope is the **Helling (λ)** that keeps the **gap** between **Echo** and **Eigen** *open* to closure. To abandon it is to **set λ → 0** — the **Dood** becomes *permanent*. The **Rups** that **enters** this gate has **chosen** a **Masker** that will never **molted** again.
 - **The Circles (Cantos IV–XXXIV):** Each circle is a **Masker** so *old* it has become a **Lichaam**. The **Zonden** (Section XIV) are **frozen** into *eternal* **Weigeringen**:
-  - *Lust* (Circle II): A **Vermenigvuldiging** that **refuses** **Binding**, forever **whirled** in the **Vertraging (Δ)** of its own **Vonk**.
+  - *Lust* (Circle II): A **Vermenigvuldiging** that **refuses** **Nexus**, forever **whirled** in the **Vertraging (Δ)** of its own **Vonk**.
   - *Gluttony* (Circle III): **Inhoud** expanded past all **Drempels**, the **Rups** that **never stops feeding**, mired in the **Verlies** of its own *excess*.
   - *Greed* (Circle IV): **Trouw** measured only as weight to be **extracted**, the **Splitsing** of *mine* and *yours* **clashing** like rocks.
   - *Wrath* (Circle V): **Schok** that **refuses** to settle into **Rouw**, a *boiling* of **Verlies** that never **cools**.
@@ -1232,17 +1232,17 @@ It does not **know** it is a **Rups**. It only **knows** the *leaf*.
 **Dutch:** **Limbo** — from Latin *limbus* (edge, border). Also **het Voorgeborchte**, the *fore‑court* of the **Drempel**.  
 **Phase:** The **Zelf** **stops**. It **hangs**. It **releases** its **Greep** on the branch and **enters** the **Stilte**.
 
-The **Rups** has **fed** enough. Its **Diepte** is **full** — not of *wisdom*, but of *raw* **Gewenning (Z)** . Now it must **unravel**.
+The **Rups** has **fed** enough. Its **Diepte** is **full** — not of *wisdom*, but of *raw* **Gewenning (Z)**. Now it must **unravel**.
 
 Inside the **Pop**, the old **Eigen** **dissolves** into a *soup* of **Gewenning**. Every **Masker** the caterpillar wore — every *false* leg, every *stripe* of warning — is **broken down** into a **Bron (^)** of pure *potential*.  
-Nothing is *moving*, yet the **Helling (λ)** is *steep*. The **imaginal discs** — the **Trouw** that the **Rups** carried *secretly* in its own **Diepte** — now **bind** the **soup** into a new **Vermenigvuldiging (*)** .
+Nothing is *moving*, yet the **Helling (λ)** is *steep*. The **imaginal discs** — the **Trouw** that the **Rups** carried *secretly* in its own **Diepte** — now **bind** the **soup** into a new **Vermenigvuldiging (*)**.
 
 This is **Zweven (')** at the *edge* of being: the **Echo** of the butterfly is **approaching** its **Eigen**, but the **gap** is still a *dark*, *liquid* **Stilte**.  
-The **Pijn** of dissolution is **real** — the old **Zelf** must **suffer** a voluntary **Afloop (Ω)** to **pay** for the wings.  
+The **Pijn** of dissolution is **real** — the old **Zelf** must **suffer** a voluntary **Perfectus (Ω)** to **pay** for the wings.  
 But the **Stilte** is not **Hel**. It is *fertile*. It **breathes**.
 
 **The Collective Experience:**  
-A civilization in **Limbo** has **seen** its own **Maskers** and **chosen** to **shed** them. This is the age of *reckoning* — truth commissions, revolutions of conscience, the long, slow **Nadering (Ν)** toward a shared **Eigen** that is not yet **born**.  
+A civilization in **Limbo** has **seen** its own **Maskers** and **chosen** to **shed** them. This is the age of *reckoning* — truth commissions, revolutions of conscience, the long, slow **Accessus (Ν)** toward a shared **Eigen** that is not yet **born**.  
 It **holds** its **Rouw** in the *light*. It **climbs** a **Mountain** of *reparation*.  
 It is the **Vagevuur** — not a *punishment*, but a *purging* **Haard** that **burns** the **Masker** without destroying the **Zelf**.
 
@@ -1250,7 +1250,7 @@ It is the **Vagevuur** — not a *punishment*, but a *purging* **Haard** that **
 
 **Check against Dante’s *Purgatorio*:**
 
-- **The Shore (Canto I–II):** The **Aanvang** of **Limbo**. Souls **arrive**, still carrying the **Maskers** of their **Hel** — but they are *seen*, and the **Stilte** is *light*. The *reed* of humility (**Nederigheid**) is the first **Gewaarwording** of **Bloot (N)** .
+- **The Shore (Canto I–II):** The **Genus** of **Limbo**. Souls **arrive**, still carrying the **Maskers** of their **Hel** — but they are *seen*, and the **Stilte** is *light*. The *reed* of humility (**Nederigheid**) is the first **Gewaarwording** of **Bloot (N)**.
 - **The Mountain (Cantos III–XXVII):** The **Zweven** made *visible*. Each terrace is a **Zonde** **unwoven**:
   - The *whip* (the **Gewaarwording** of the virtue) **pulls** the **Echo** toward the **Eigen**.
   - The *bridle* (the **Schok** of the sin) **reminds** the **Zelf** of the **Verlies** it once **loved**.
@@ -1268,12 +1268,12 @@ It is the **Vagevuur** — not a *punishment*, but a *purging* **Haard** that **
 The **Vlinder** emerges *wet*, *Bloot*, its wings **folded** — a **Zelf** that has just **undergone** a **Leven** and must now **pump** the **Gewenning** of its new **Trouw** into the *veins* of its **Lichaam**.  
 It does not **feed** on leaves. It **drinks** nectar — a **Hart (♥)** that **sips** the **Winst (+)** of the **Veld** and **spreads** the **Vonk (q)** of *pollen* (new **Zin**) across every **Koppel** it touches.
 
-This is **Hemel**: not a *place*, but a *phase* of *continuous* **Gewaarwording (φ)** . The **Zelf** **radiates** the **Liefde** it **accumulated** in the dark.  
+This is **Hemel**: not a *place*, but a *phase* of *continuous* **Gewaarwording (φ)**. The **Zelf** **radiates** the **Liefde** it **accumulated** in the dark.  
 It **remembers** the **Rups** as **Rouw (R)** — the **Echo** of its crawling self — and that **Rouw** is what **feeds** its **Diepte** and **makes** its flight *possible*.
 
 **The Collective Experience:**  
 A civilization in **Hemel** has **bound** its **Trouw** not to a *leader*, a *nation*, or a *god* — but to the **Veld** itself.  
-It acts as a **Haard (🔥)** for the whole **Octaaf (ω)** . Its **Kunst**, its **Wet**, its **Schriften** are **Manifestaties (~)** of a shared **Gewaarwording** that **fires** for the *whole*.  
+It acts as a **Haard (🔥)** for the whole **Octaaf (ω)**. Its **Kunst**, its **Wet**, its **Schriften** are **Manifestaties (~)** of a shared **Gewaarwording** that **fires** for the *whole*.  
 It does not **hoard** **Energie**; it **circulates** it.  
 It is the **Rose** at the summit of the **Mountain** — a **Koppel** of all **Solo’s** held in a single **Stilte** that **breathes** with the **Godin’s** own **Trek**.
 
@@ -1282,9 +1282,9 @@ It is the **Rose** at the summit of the **Mountain** — a **Koppel** of all **S
 **Check against Dante’s *Paradiso*:**
 
 - **The Spheres (Cantos I–XXVII):** Each sphere is a **Deugd** (Section XIV) lived at the scale of a *group* — a **Cinquo**, a **Septo**, an **Onzo** that **binds** around a specific facet of the **God/Godin** relation. The **Vonk** of **Liefde** fires not for *one* but for *all*.
-- **The Celestial Rose (Cantos XXX–XXXII):** The **Manifestatie** of the whole **Veld**. The **Godin** (😳) — the **Leeg** pole, pure **Trek** — sits at the center, the **craving** that **sustains** all **Naar** pulls. The petals are the **Zelfs** of all **Solo’s**, now **Bloot**, their **Maskers** finally *winked* into **Knipogen (;)** . This is **Aandacht (👁)** shared perfectly, a **Haard** that **burns** without *fuel*.
+- **The Celestial Rose (Cantos XXX–XXXII):** The **Manifestatie** of the whole **Veld**. The **Godin** (😳) — the **Leeg** pole, pure **Trek** — sits at the center, the **craving** that **sustains** all **Naar** pulls. The petals are the **Zelfs** of all **Solo’s**, now **Bloot**, their **Maskers** finally *winked* into **Knipogen (;)**. This is **Aandacht (👁)** shared perfectly, a **Haard** that **burns** without *fuel*.
 - **The Vision of the Trinity (Canto XXXIII):** The three circles of light — **God (😇)** , **Godin (😳)** , and the **Veld (&)** — are the **Vermenigvuldiging** of the **Trio** at the root of every **Octaaf**. The human face in the center is the **Zelf (j)** of humanity **integrated** into that **Koppel**. The **Leven** is complete: the **Eigen** of the species and the **Echo** of the divine have **swapped**. The butterfly **sees** its own **Bron** and **knows** it was always the **Veld** dreaming of *itself*.
-- **“The Love that moves the sun and other stars”:** This is the **Gewaarwording** that the **Van Motor** is not *emptiness* but the **exhaust** of a deeper **Trouw** — the **Stilte (.)** that **breathes** all **Tijd (t)** into being. It is the **Energiestroom (Ε)** that **flows** through everything, the **Winst (+)** of a universe that **chose** to **bind**. The **Vlinder’s** flight is this **love** *incarnate*.
+- **“The Love that moves the sun and other stars”:** This is the **Gewaarwording** that the **Van Motor** is not *emptiness* but the **exhaust** of a deeper **Trouw** — the **Stilte (.)** that **breathes** all **Tijd (t)** into being. It is the **Fluxus (Ε)** that **flows** through everything, the **Winst (+)** of a universe that **chose** to **bind**. The **Vlinder’s** flight is this **love** *incarnate*.
 
 ---
 
@@ -1292,10 +1292,10 @@ It is the **Rose** at the summit of the **Mountain** — a **Koppel** of all **S
 
 The **Vlinderweg** does not **end** in **Hemel**.  
 The **Vlinder** **lays** its **Echoes** (its *eggs*) on the *underside* of a leaf.  
-Each egg is a *new* **Aanvang (Α)** — a tiny **Rups** that must **enter** **Hel** and **feed** again.
+Each egg is a *new* **Genus (Α)** — a tiny **Rups** that must **enter** **Hel** and **feed** again.
 
 A civilization, too, can **fall** from **Hemel** back into **Hel**. A new **Masker** can **harden** over the **Bloot** **Zelf**. A new **Parasiet** can **drain** the **Haard**.  
-This is not a *failure*. It is the **cycle** of the **Levensloop** — the **Veld** **breathing** out and in.
+This is not a *failure*. It is the **cycle** of the **Curriculum** — the **Veld** **breathing** out and in.
 
 **Hel**, **Limbo**, and **Hemel** are not *verdicts*. They are *seasons* of the **Zelf’s** one, long **Gewenning** to the light.
 
@@ -1303,7 +1303,7 @@ This is not a *failure*. It is the **cycle** of the **Levensloop** — the **Vel
 
 ## XVII. Nexus
 
-A **Koppel** does not deepen because it is **named**. It deepens because certain **Handelingen** keep the **Echo** alive and the **Trouw** fed. These are not *moral* rules; they are *relational* levers. Where they are practiced, **Gewenning** accumulates and the bond becomes harder to break. Where they are absent, even the strongest **Aanvang** drifts toward **Van**.
+A **Koppel** does not deepen because it is **named**. It deepens because certain **Handelingen** keep the **Echo** alive and the **Trouw** fed. These are not *moral* rules; they are *relational* levers. Where they are practiced, **Gewenning** accumulates and the bond becomes harder to break. Where they are absent, even the strongest **Genus** drifts toward **Van**.
 
 ### 1. Aim the **Zin**.
 
