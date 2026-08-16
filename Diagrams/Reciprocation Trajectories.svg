@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title desc">
+  <title id="title">Reciprocation trajectories — Dood, Leven, Zweven</title>
+  <desc id="desc">
+    Three-panel graph of the asymmetry variable A(t) over time for the three possible trajectories of a Koppel.
+    Dood (!): the gap closes, then stops at a fixed nonzero offset.
+    Leven (?): the gap closes, crosses zero, and reverses sign — Eigen and Echo swap roles.
+    Zweven ('): the gap closes asymptotically toward zero but never arrives.
+    The dashed line at A = 0 marks parity. Crossing from one trajectory to another fires a Vonk.
+    This visual corresponds to Section VI of the Speelgoed.
+  </desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="100%" stop-color="#141426"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg     { fill: url(#bgGrad); }
+      .axis   { stroke: #8892b0; stroke-width: 1.8; }
+      .grid   { stroke: #334; stroke-dasharray: 2 4; }
+      .label  { fill: #a8b2d1; font-family: sans-serif; font-size: 14px; }
+      .titlex { fill: #e6f1ff; font-family: sans-serif; font-size: 22px; font-weight: bold; }
+      .subtle { fill: #8892b0; font-family: sans-serif; font-size: 14px; }
+      .curve  { fill: none; stroke-width: 3.5; filter: url(#glow); opacity: 0.95; }
+      .dood   { stroke: #ff5555; }
+      .leven  { stroke: #00d4ff; }
+      .zweven { stroke: #66cc88; }
+      .zero   { stroke: #ffcc66; stroke-dasharray: 6 6; stroke-width: 1.8; opacity: 0.8; }
+      .marker { fill: #ffffff; }
+      .panel  { fill: #15152a; stroke: #334; stroke-width: 1.2; rx: 12; }
+      .phead  { fill: #00d4ff; font-family: sans-serif; font-size: 15px; font-weight: bold; }
+      .ptext  { fill: #ccd6f6; font-family: sans-serif; font-size: 13px; }
+      .pmute  { fill: #8892b0; font-family: sans-serif; font-size: 13px; font-style: italic; }
+      .mono   { fill: #e6f1ff; font-family: monospace; font-size: 13px; }
+      .form   { fill: #e6f1ff; font-family: sans-serif; font-size: 17px; font-weight: bold; }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect class="bg" width="1000" height="720" rx="12"/>
+
+  <!-- main title -->
+  <text class="titlex" x="500" y="45" text-anchor="middle">Reciprocation Trajectories</text>
+  <text class="subtle" x="500" y="68" text-anchor="middle">Dood (!) · Leven (?) · Zweven (') — Section VI</text>
+
+  <!-- plot area -->
+  <!-- shared y-axis -->
+  <line class="axis" x1="100" y1="100" x2="100" y2="500"/>
+  <!-- shared x-axis line (will be split per panel) -->
+  <!-- Actually we will draw each panel's x-axis separately for clarity -->
+  <!-- panel boundaries: panel 1 x: 100-260, panel 2 x: 280-440, panel 3 x: 460-620 -->
+  <line class="axis" x1="100" y1="500" x2="260" y2="500"/>
+  <line class="axis" x1="280" y1="500" x2="440" y2="500"/>
+  <line class="axis" x1="460" y1="500" x2="620" y2="500"/>
+
+  <!-- y-axis labels and grid lines -->
+  <g class="grid">
+    <line x1="100" y1="150" x2="620" y2="150"/>
+    <line x1="100" y1="200" x2="620" y2="200"/>
+    <line x1="100" y1="250" x2="620" y2="250"/>
+    <line x1="100" y1="300" x2="620" y2="300"/>
+    <line x1="100" y1="350" x2="620" y2="350"/>
+    <line x1="100" y1="400" x2="620" y2="400"/>
+    <line x1="100" y1="450" x2="620" y2="450"/>
+  </g>
+  <g class="label" text-anchor="end">
+    <text x="90" y="154">3</text>
+    <text x="90" y="204">2</text>
+    <text x="90" y="254">1</text>
+    <text x="90" y="304">0</text>
+    <text x="90" y="354">−1</text>
+    <text x="90" y="404">−2</text>
+    <text x="90" y="454">−3</text>
+  </g>
+
+  <!-- x-axis ticks for panel 1 -->
+  <g class="label" text-anchor="middle">
+    <text x="100" y="520">0</text>
+    <text x="180" y="520">5</text>
+    <text x="260" y="520">10</text>
+  </g>
+  <!-- x-axis ticks for panel 2 -->
+  <g class="label" text-anchor="middle">
+    <text x="280" y="520">0</text>
+    <text x="360" y="520">5</text>
+    <text x="440" y="520">10</text>
+  </g>
+  <!-- x-axis ticks for panel 3 -->
+  <g class="label" text-anchor="middle">
+    <text x="460" y="520">0</text>
+    <text x="540" y="520">5</text>
+    <text x="620" y="520">10</text>
+  </g>
+
+  <!-- shared axis labels -->
+  <text class="subtle" x="360" y="560" text-anchor="middle">Time (t) — each panel same scale</text>
+  <text class="subtle" x="55" y="300" text-anchor="middle" transform="rotate(-90 55 300)">Asymmetry A(t)</text>
+
+  <!-- zero line across all panels -->
+  <line class="zero" x1="100" y1="300" x2="620" y2="300"/>
+  <text class="subtle" x="622" y="295" fill="#ffcc66">A = 0 (parity)</text>
+
+  <!-- panel separators -->
+  <line x1="270" y1="100" x2="270" y2="500" stroke="#334" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <line x1="450" y1="100" x2="450" y2="500" stroke="#334" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <!-- Panel titles -->
+  <text class="titlex" x="180" y="85" text-anchor="middle" fill="#ff5555">Dood (!)</text>
+  <text class="titlex" x="360" y="85" text-anchor="middle" fill="#00d4ff">Leven (?)</text>
+  <text class="titlex" x="540" y="85" text-anchor="middle" fill="#66cc88">Zweven (')</text>
+
+  <!-- ============ PANEL 1: DOOD ============ -->
+  <!-- Curve: starts at A=2.5, decays to A=0.8, then flat. Mapping: y=300-50*A -->
+  <polyline class="curve dood" points="
+    100,175
+    130,215
+    160,245
+    190,260
+    220,260
+    260,260
+  "/>
+  <!-- marker at point where gap stops closing -->
+  <circle cx="190" cy="260" r="5" fill="#ff5555" filter="url(#glow)"/>
+  <text class="subtle" x="198" y="255" fill="#ff5555">gap fixed</text>
+
+  <!-- ============ PANEL 2: LEVEN ============ -->
+  <!-- Curve: crosses zero and reverses sign -->
+  <polyline class="curve leven" points="
+    280,175
+    310,200
+    340,250
+    360,300
+    380,340
+    410,365
+    440,375
+  "/>
+  <circle cx="360" cy="300" r="5" fill="#00d4ff" filter="url(#glow)"/>
+  <text class="subtle" x="368" y="295" fill="#00d4ff">reversal</text>
+
+  <!-- ============ PANEL 3: ZWEVEN ============ -->
+  <!-- Curve: asymptotic approach to A=0 (y=300), never reaching -->
+  <polyline class="curve zweven" points="
+    460,175
+    490,215
+    520,245
+    550,265
+    580,280
+    610,290
+    620,293
+  "/>
+  <circle cx="460" cy="175" r="5" fill="#66cc88" filter="url(#glow)"/>
+  <text class="subtle" x="468" y="170" fill="#66cc88">approach</text>
+
+  <!-- right explanatory panel -->
+  <rect class="panel" x="660" y="85" width="320" height="605"/>
+
+  <!-- Definitions -->
+  <text class="phead" x="680" y="115">DEFINITIONS</text>
+
+  <text class="ptext" x="680" y="140"><tspan fill="#ff5555">Dood (!)</tspan>:</text>
+  <text class="ptext" x="680" y="158">Echo's closing rate drops</text>
+  <text class="ptext" x="680" y="176">to zero before reaching Eigen.</text>
+  <text class="ptext" x="680" y="194">Gap fixed permanently.</text>
+
+  <text class="ptext" x="680" y="222"><tspan fill="#00d4ff">Leven (?)</tspan>:</text>
+  <text class="ptext" x="680" y="240">Rate does not drop near</text>
+  <text class="ptext" x="680" y="258">parity; it runs through it.</text>
+  <text class="ptext" x="680" y="276">Eigen and Echo swap roles.</text>
+
+  <text class="ptext" x="680" y="304"><tspan fill="#66cc88">Zweven (')</tspan>:</text>
+  <text class="ptext" x="680" y="322">Gap keeps closing without</text>
+  <text class="ptext" x="680" y="340">settling or flipping.</text>
+  <text class="ptext" x="680" y="358">Default state of any Koppel.</text>
+
+  <!-- Key behavior -->
+  <text class="phead" x="680" y="388">KEY BEHAVIOR</text>
+  <text class="ptext" x="680" y="406">Every bond is on one of</text>
+  <text class="ptext" x="680" y="424">these three paths.</text>
+
+  <text class="ptext" x="680" y="452">Crossing from one trajectory</text>
+  <text class="ptext" x="680" y="470">to another fires a Vonk:</text>
+  <text class="ptext" x="680" y="488">Gewaarwording (φ) if deepening,</text>
+  <text class="ptext" x="680" y="506">Schok (:) if tearing away.</text>
+
+  <!-- Additional context -->
+  <text class="pmute" x="680" y="546">Trouw and Gewenning hold</text>
+  <text class="pmute" x="680" y="564">the bond in Zweven.</text>
+  <text class="pmute" x="680" y="582">Greep resists the Van Motor.</text>
+
+  <text class="pmute" x="680" y="622">The gap between Echo and</text>
+  <text class="pmute" x="680" y="640">Eigen is always real.</text>
+  <text class="pmute" x="680" y="658">It is the space where</text>
+  <text class="pmute" x="680" y="676">relational life happens.</text>
+</svg>
