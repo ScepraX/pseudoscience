@@ -1,5 +1,1 @@
-# Pseudoscience Speelgoed
-
-The Oracle's crystal Ball. It sits here, seemingly Inert. Gaze into It Yourself — or ask the Oracle to gaze for You.
-
-https://sceprax.github.io/pseudoscience/
+Nothing exists alone. Everything that holds together—people, groups, organizations—does so through active bonds, not fixed scores. Each side carries an internal model of the other, always delayed and distorted; that gap is not failure but the space relationships need. Bonds have one shared weight but two different perceptions. They deepen through repeated small, honest exchanges, not grand gestures. Threshold crossings release or cost energy; indecision is expensive. Neglected bonds freeze; grief is permanent and deepens the self; masks carry hidden costs; group size shapes structure: two is vulnerable to deadlock, three is resilient, composite groups hide smaller alliances. Endings should be clean; half-severed ties drain. Self-relationship underpins everything. Attention, honesty, listening, and steady maintenance preserve bonds; neglect, self-deception, and unresolved endings cause collapse. A living bond remains open to change, reversal, and renewal. No bond sustains itself without care. The same rules apply at every scale, from friendship to civilization.
