@@ -259,6 +259,65 @@ body.cursor-active .halo {
   line-height: 1;
 }
 
+/* ---- Hamburger (trinary glyph) ---- */
+.hamburger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 28px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.hamburger span {
+  display: block;
+  height: 1px;
+  background: var(--gold);
+  transition: transform .4s cubic-bezier(.6, 0, .2, 1),
+    opacity .25s ease,
+    width .3s ease;
+  transform-origin: 50% 50%;
+}
+
+.hamburger span:nth-child(1) {
+  width: 28px;
+}
+
+.hamburger span:nth-child(2) {
+  width: 20px;
+}
+
+.hamburger span:nth-child(3) {
+  width: 12px;
+}
+
+body.menu-open .hamburger span:nth-child(1) {
+  width: 24px;
+  transform: translateY(9.5px) rotate(45deg);
+}
+
+body.menu-open .hamburger span:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+
+body.menu-open .hamburger span:nth-child(3) {
+  width: 24px;
+  transform: translateY(-9.5px) rotate(-45deg);
+}
+
+/* ---- chapter link lists inside menu panel ---- */
+.menu-chaps {
+  list-style: none;
+  margin: 0 0 4px;
+  padding: 0;
+}
+
 /* =====================================================================
    The categorised menu
    ===================================================================== */

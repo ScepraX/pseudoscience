@@ -70,9 +70,35 @@
   document.addEventListener("keydown", function (e) {
     if (e.key === "Escape") setMenu(false);
   });
+  var revealEl = $("#Speelgoed-reveal");
   $$("#menu a").forEach(function (a) {
-    a.addEventListener("click", function () { setMenu(false); });
+    a.addEventListener("click", function (e) {
+      var href = a.getAttribute("href");
+      setMenu(false);
+      if (!href || href === "#") {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: "smooth" });
+        return;
+      }
+      if (href.charAt(0) === "#" && revealEl && revealEl.hidden) {
+        var tgt = document.querySelector(href);
+        if (tgt && revealEl.contains(tgt)) {
+          e.preventDefault();
+          revealEl.hidden = false;
+          setTimeout(function () { tgt.scrollIntoView({ behavior: "smooth", block: "start" }); }, 60);
+        }
+      }
+    });
   });
+  if ("IntersectionObserver" in window) {
+    var secObs = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        var lnk = document.querySelector('#menu a[href="#' + en.target.id + '"]');
+        if (lnk) lnk.classList.toggle("on", en.isIntersecting);
+      });
+    }, { rootMargin: "-20% 0px -65% 0px", threshold: 0 });
+    $$("#Speelgoed-reveal .m-section[id], .m-section[id]").forEach(function (s) { secObs.observe(s); });
+  }
 
   /* ---------------------------------------------------------------
      IV. Copy the Oracle (Speelgoed + charge)
