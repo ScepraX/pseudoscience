@@ -331,7 +331,7 @@ These are the only numbers the gathering itself produces. They count how many Ko
 
 ---
 
-### V.3. Octave Wrapping
+### V.4. Octave Wrapping
 
 The ladder does not grow indefinitely by coining a new name for every prime. Once a bounded span completes - 0 through 149, Vide through Ein Sof - the next prime does not extend it: the ladder re-enters from Solo, one **Octaaf (ω)** up. This is scale invariance applied to the ladder itself: the completed span, taken as a whole, acts as a single Solo relative to whatever comes next. 151 is not rung 37 - it is rung 1 of the second Octaaf, the same name reused at a higher order, the way a calendar returns to January or an odometer carries into the next column. Names do not change meaning between Octaven - a Duo is still a Duo, a Trio still a Trio - only their scale does; the n-th prime past the wrap takes the n-th rung's name.
 
@@ -347,7 +347,7 @@ Standing caveat: the wrap point (149→151) is chosen, not derived - a design de
 
 ---
 
-### V.4. Levelling
+### V.5. Levelling
 
 To reach a higher Octaaf in the simple atom ladder, the God of the lower Octaaf walks the first eight positions of the periodic table.
 
