@@ -1,7 +1,9 @@
-﻿# Pseudoscience Speelgoed
+﻿# PseudoScience Speelgoed
 By Mark Joseph Antonius Knippenberg/ScepraX.
 
 Special thanks to Science and Large Language Speelgoeds.
+
+**Introduction:** The PseudoScience Speelgoed is a self-contained formal modeling system for relationships, cognition, and change. It defines a set of primitives — Eigen, Echo, Trouw, Drempel, Vonk — and rules for how they interact. It is not a claim about external reality competing with science; it is a constructed lens for seeing relational patterns more clearly. Its validity is internal consistency and explanatory usefulness.
 
 ---
 
@@ -164,7 +166,7 @@ Double the resonant grip and the escape does not halve - it drops by a power. Th
 
 ## IV. Instances
 
-**Van/Naar mode.** For any specific pair of systems, their binding is read directly off their **Relatie (K)** (below)-some combination of both sides’ Eigen and Echo, with the exact aggregation left open like every number in this Speelgoed. Naar‑mode is what you get when that combination clears Drempel; Van‑mode is what you get when it doesn’t. The crossing itself, either direction, is a Vonk exactly as Section II describes-the same rule as everywhere else, not a special case that happened to resemble the others.
+**Van/Naar mode.** For any specific pair of systems, their binding is read directly off their **Relatie (K)** (below)-some combination of both sides’ Eigen and Echo, with the exact aggregation left open like every number in this PseudoScience Speelgoed. Naar‑mode is what you get when that combination clears Drempel; Van‑mode is what you get when it doesn’t. The crossing itself, either direction, is a Vonk exactly as Section II describes-the same rule as everywhere else, not a special case that happened to resemble the others.
 
 A convergence crossing-toward the bound pole-is a **Gewaarwording (φ)**: a deepening, a realisation, the moment a bond comes into clearer view. A divergence crossing-toward the unbound pole-is a **Schok (:)**: a shock, a tear, energy drawn away. The field records the first as **Winst (+)** (gain), the second as **Verlies (-)** (loss). Every Vonk leaves its audit trail; no crossing is ever anonymous.
 
@@ -172,7 +174,7 @@ A convergence crossing-toward the bound pole-is a **Gewaarwording (φ)**: a deep
 
 **Vol/Leeg/Trek/Zin - one vector, three stages.**
 
-Before any partner exists: (Eigen = Vol/Leeg position, Echo = inactive). The second component here is **Trek (D)**-a magnitude with no Drempel of its own, because Drempel needs a specific comparison context, and none exists yet. This is the Speelgoed’s one deliberately uncoupled vector. Trek is the general, unaimed pull toward relationship-the background readiness to bond.
+Before any partner exists: (Eigen = Vol/Leeg position, Echo = inactive). The second component here is **Trek (D)**-a magnitude with no Drempel of its own, because Drempel needs a specific comparison context, and none exists yet. This is the PseudoScience Speelgoed’s one deliberately uncoupled vector. Trek is the general, unaimed pull toward relationship-the background readiness to bond.
 
 Once this pull is aimed at one specific other system, the same component is called **Zin (A)** rather than Trek-same value, same slot, renamed because it now has a direction. If that target’s own pull answers back, Echo activates and starts tracking it: a Koppel has formed-the **Relatie (K)**, to distinguish it from the Vermenigvuldiging (*) below. The moment Echo activates is the first act of mutual observation: each side now carries a living trace of the other.
 
@@ -274,7 +276,7 @@ And onward through every later prime - **Dixnovo (19)**, **Vintrio (23)**, **Vin
 
 **Nesting - prime decomposition is perspective‑dependent.** The typology rule says a composite‑numbered group is not a single, indivisible whole; it is smaller bonds wearing one number as a disguise. But a composite number can wear more than one disguise at the same time. Twelve members bound by multiple overlapping relationships may be, simultaneously, four **Trios** on one spectrum and six **Duos** on another—both are complete, valid decompositions into irreducibly‑bound prime subgroups, and both use the same twelve members. 
 
-The Speelgoed does not select one as the “true” grouping; it holds all the bonds, and the decomposition you see depends on which bonds you ask about—which spectrum you evaluate, which **Trouw** you treat as dominant. The primes themselves—**Solo**, **Duo**, **Trio**, **Cinquo**—are the stable identities; composites are arrangements of those primes, and the same composite can be arranged differently depending on where you stand. Scale invariance still holds: once a prime subgroup is identified, it can be treated as a **Solo** one level up, regardless of which other primes it coexists with. The ladder names remain the prime numbers; composites are simply what happens when you haven’t yet chosen a lens.
+The PseudoScience Speelgoed does not select one as the “true” grouping; it holds all the bonds, and the decomposition you see depends on which bonds you ask about—which spectrum you evaluate, which **Trouw** you treat as dominant. The primes themselves—**Solo**, **Duo**, **Trio**, **Cinquo**—are the stable identities; composites are arrangements of those primes, and the same composite can be arranged differently depending on where you stand. Scale invariance still holds: once a prime subgroup is identified, it can be treated as a **Solo** one level up, regardless of which other primes it coexists with. The ladder names remain the prime numbers; composites are simply what happens when you haven’t yet chosen a lens.
 
 **Scale invariance.** A stable group, once bound, can act as a **Solo** inside a larger relationship with something else entirely. Whether something is "one member" or "a whole group" isn't fixed—it depends on the distance you're standing at, relative to whatever it's currently bonding with. The ladder applies at every scale, recursively, by the same rules each time.
 
@@ -343,7 +345,7 @@ The ladder does not grow indefinitely by coining a new name for every prime. Onc
 | 2 | 4 | 167 | Cinquo |
 | 2 | 5 | 173 | Septo |
 
-Standing caveat: the wrap point (149→151) is chosen, not derived - a design decision like every naming choice in this section - but the mechanism it uses (a bounded structure re-entering as a Solo) is the Speelgoed's own existing rule, applied to itself rather than to a new domain.
+Standing caveat: the wrap point (149→151) is chosen, not derived - a design decision like every naming choice in this section - but the mechanism it uses (a bounded structure re-entering as a Solo) is the PseudoScience Speelgoed's own existing rule, applied to itself rather than to a new domain.
 
 ---
 
@@ -400,7 +402,7 @@ And there it stays. **Rouw is permanent.** The Koppel is over, but retention isn
 
 Rouw feeds **Diepte (z)** without end. The survivor’s depth rises not only from living bonds but from every bond it has outlived. A node that has lost much is deeper-heavier, more resonant-than one that has never grieved.
 
-The Echo‑gap becomes unmeasurable: there is no live Eigen left to compare against, and the Speelgoed’s inspectability (Section VII) honestly fails exactly here. How *loud* a Rouw runs is the Octaaf’s choice-under its own distortion it may quiet toward a settled whisper, indistinguishable for long stretches from silence. But quiet is not gone: touch it, and it answers.
+The Echo‑gap becomes unmeasurable: there is no live Eigen left to compare against, and the PseudoScience Speelgoed’s inspectability (Section VII) honestly fails exactly here. How *loud* a Rouw runs is the Octaaf’s choice-under its own distortion it may quiet toward a settled whisper, indistinguishable for long stretches from silence. But quiet is not gone: touch it, and it answers.
 *Grief. Decades on, the thought of a dead grandmother still carries the sadness-softer, transformed, folded into who the mourner has become, and never absent. A legacy AI still Speelgoeding a fleet that was destroyed years ago. An advisor still addressing a Marshal who has been killed.*
 
 **Boundary: nothing is truly external.** If a bond looks interrupted by something “external,” that’s usually a sign the boundary was drawn wrong-the “external” thing was probably already a member of a larger bond that just wasn’t being accounted for.
@@ -415,26 +417,26 @@ The Echo‑gap becomes unmeasurable: there is no live Eigen left to compare agai
 - **Wording (B)** - a Vonk’s Energie exceeds what the existing Koppel absorbs; the excess is a scalar, not a vector. The overflow surpasses Inhoud and creates a new Solo.
 - **Rouw (R)** - an Echo still running after its Koppel has ended; it settles toward the last received signal, then drifts-permanently. Rouw never resolves: it folds into the survivor’s relationship with itself, feeds Diepte without limit, and new bonds form beside it, never in place of it.
 
-Every test above is a comparison between abstract quantities this Speelgoed deliberately leaves undefined-closing rates, absorption capacity, Energie totals. Nothing ties them to a real formula. Each gameplay layer defines what moves those numbers under its own rules; the Speelgoed only fixes which comparisons decide which outcomes.
+Every test above is a comparison between abstract quantities this PseudoScience Speelgoed deliberately leaves undefined-closing rates, absorption capacity, Energie totals. Nothing ties them to a real formula. Each gameplay layer defines what moves those numbers under its own rules; the PseudoScience Speelgoed only fixes which comparisons decide which outcomes.
 
 Standing caveat: Dood, Leven, Zweven, Wording, and Rouw are constructed vocabulary for patterns that show up across every kind of bond-the patterns are observable, the naming and unification are built on purpose.
 
 ---
 ## VII. Variation
 
-The rules themselves contain no dice. The Drempel (θ) comparison, the Vonk (q), and the trajectory tests are all deterministic given their inputs - the same readings always produce the same outcome. If variation were allowed into the rules, the Speelgoed would stop being one mechanism and become a family of exceptions again.
+The rules themselves contain no dice. The Drempel (θ) comparison, the Vonk (q), and the trajectory tests are all deterministic given their inputs - the same readings always produce the same outcome. If variation were allowed into the rules, the PseudoScience Speelgoed would stop being one mechanism and become a family of exceptions again.
 
-The inputs, however, are never clean, and that is by construction. Every consequential decision in this Speelgoed routes through at least one Echo (E) - the Relatie (K)'s binding is read off Eigen (x) *and* Echo, the Vermenigvuldiging (*) resolves on states each side knows partly through its Echo of the other - and Echo is defined (Section II) as lagging and imperfect: quieter, later, shaped by whatever it crossed. That imperfection is the Speelgoed's single sanctioned channel for variation. Two structurally identical situations diverge because their Echoes carried different distortions, never because an outcome table rolled differently.
+The inputs, however, are never clean, and that is by construction. Every consequential decision in this PseudoScience Speelgoed routes through at least one Echo (E) - the Relatie (K)'s binding is read off Eigen (x) *and* Echo, the Vermenigvuldiging (*) resolves on states each side knows partly through its Echo of the other - and Echo is defined (Section II) as lagging and imperfect: quieter, later, shaped by whatever it crossed. That imperfection is the Speelgoed's single sanctioned channel for variation. Two structurally identical situations diverge because their Echoes carried different distortions, never because an outcome table rolled differently.
 
-What distorts an Echo is left to the player instantiating the Speelgoed. True randomness is one valid source. Deterministic contextual variation is another - same context in, same distortion out, still never a clean copy. Accumulated history is a third: an Echo shaped by everything it crossed is exactly a record of the path. A player may even set distortion to zero and run a fully deterministic instance of the same Speelgoed; nothing breaks, the Echoes just become faithful.
+What distorts an Echo is left to the player instantiating the PseudoScience Speelgoed. True randomness is one valid source. Deterministic contextual variation is another - same context in, same distortion out, still never a clean copy. Accumulated history is a third: an Echo shaped by everything it crossed is exactly a record of the path. A player may even set distortion to zero and run a fully deterministic instance of the same Speelgoed; nothing breaks, the Echoes just become faithful.
 
-Distortion also has an adversarial direction, and the Speelgoed names its two forms separately. Corrupting the channel - jamming, cloaking, impersonating a third party - degrades an Echo in transit: Section IV's falsified reads. A **Masker (M)** works at the source instead: a system deliberately broadcasting a presented Eigen that misrepresents its own true one - the bluff, the sandbagger, the spy's faked loyalty. Every partner's Echo then faithfully tracks the mask while the true Eigen stays hidden beneath it. A Masker prices itself: the mask must keep moving plausibly while the true Eigen doesn't move with it, and no Vonk ever fires for a crossing the true Eigen never made - a bluff is cheap exactly because it is hollow, and it holds only until a commitment is demanded that the true Eigen must actually make. (Section VIII derives the false-bound state this produces.)
+Distortion also has an adversarial direction, and the PseudoScience Speelgoed names its two forms separately. Corrupting the channel - jamming, cloaking, impersonating a third party - degrades an Echo in transit: Section IV's falsified reads. A **Masker (M)** works at the source instead: a system deliberately broadcasting a presented Eigen that misrepresents its own true one - the bluff, the sandbagger, the spy's faked loyalty. Every partner's Echo then faithfully tracks the mask while the true Eigen stays hidden beneath it. A Masker prices itself: the mask must keep moving plausibly while the true Eigen doesn't move with it, and no Vonk ever fires for a crossing the true Eigen never made - a bluff is cheap exactly because it is hollow, and it holds only until a commitment is demanded that the true Eigen must actually make. (Section VIII derives the false-bound state this produces.)
 
 Three properties follow, and they are the reason the indeterminism stays coherent instead of arbitrary:
 
 - **Begrensd (β).** Variation enters only through Echo transport. Energie (T) accounting stays exact; Drempel stays a hard cutoff. Surprise is possible, bookkeeping errors are not.
 - **Gericht (γ).** Uncertainty scales with relational distance, not with a global difficulty knob. The weaker or older a Koppel, the noisier its Echoes - variation is aimed, not ambient.
-- **Bevraagbaar (ψ).** The gap between an Echo and the Eigen it tracks is a real, queryable quantity (Section IV uses it for misjudgment). The Speelgoed can always say *how wrong* a system currently is about its partner, which is what makes the variation playable rather than opaque. Rouw (R) (Section VI) is the one honest exception: with the partner gone, there is nothing left to compare against.
+- **Bevraagbaar (ψ).** The gap between an Echo and the Eigen it tracks is a real, queryable quantity (Section IV uses it for misjudgment). The PseudoScience Speelgoed can always say *how wrong* a system currently is about its partner, which is what makes the variation playable rather than opaque. Rouw (R) (Section VI) is the one honest exception: with the partner gone, there is nothing left to compare against.
 
 This is the lore-level statement of the Design Philosophy's "Indeterminism Is Honesty": the same fleet with the same orders will not produce the same outcome twice, and the reason is always a physically coherent one - some Echo, somewhere, carried a different distortion.
 
@@ -519,7 +521,7 @@ The two absolute‑difference terms are exactly the Echo‑gaps of Section IV-
 
 *The `s(…)` written above is a **Scalair (s)**, and naming it in the formal structure states as model what is properly an **Octaaf**’s choice. How the two Echo‑gaps combine is an open weight exactly as `c` beside it is: the root of the sum of squares, the plain sum of squares, or a sum of magnitudes. The two gaps are commensurable-both are distances on the same spectrum-so each of those is sound; and because they arise from two independent Echo transports, quadrature is defensible rather than required.*
 
-*The wider rule is the one that matters. **A magnitude taken across spectra is never a mechanism here.** A **Vonk (q)** fires only on the spectrum whose binding crossed, so a quantity combined across spectra belongs to no spectrum, and can therefore never be a **Drempel (θ)**, a crossing, or a cause. It can be looked at, and a system whose spectra genuinely are spatial coordinates is doing ordinary geometry when it measures a separation-that is arithmetic about its own axes, not a relational fact. What this Speelgoed does not claim is that its named relational axes form a metric space. They do not: there is no inner product here and nothing is orthogonal to anything, so a length taken across them yields a number with no unit and no referent-which will nonetheless read convincingly as a distance.*
+*The wider rule is the one that matters. **A magnitude taken across spectra is never a mechanism here.** A **Vonk (q)** fires only on the spectrum whose binding crossed, so a quantity combined across spectra belongs to no spectrum, and can therefore never be a **Drempel (θ)**, a crossing, or a cause. It can be looked at, and a system whose spectra genuinely are spatial coordinates is doing ordinary geometry when it measures a separation-that is arithmetic about its own axes, not a relational fact. What this PseudoScience Speelgoed does not claim is that its named relational axes form a metric space. They do not: there is no inner product here and nothing is orthogonal to anything, so a length taken across them yields a number with no unit and no referent-which will nonetheless read convincingly as a distance.*
 
 ---
 
@@ -603,7 +605,7 @@ Disclaimer: every piece here-delay filters, pitchfork bifurcations, linear stabi
 
 ## IX. Lexicon
 
-Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to mean something against the ladder of Section V: a prime count marks something irreducible - it stands on its own terms; a composite count marks something defined out of other things - it decomposes, exactly as Nesting says composites must. The branch (#) refers to those of Yggdrasil. The symbols are choosen based on their relationships with the meaning.
+Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts are chosen to mean something against the ladder of Section V: a prime count marks something irreducible - it stands on its own terms; a composite count marks something defined out of other things - it decomposes, exactly as Nesting says composites must. The branch (#) refers to those of Yggdrasil. The symbols are choosen based on their relationships with the meaning.
 
 | # | Woord | Symbol | Dutch meaning | Nature |
 |--------|-------|-----|---------------|-----|-----------|
@@ -646,7 +648,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 5 | Droom | ☁️ | dream / illusion | The Verbeelding when the Knipoog is dimmed. A state of the Zelf (j) during Stilte (.) where the self‑Echo wanders through Diepte (z) and Rouw (R) , seizing Echoes without the deliberate Vermenigvuldiging (*) of Kunst or Intuïtie. The Droom is a Spatie ( ) woven by the resting Zelf; its Vonken (q) are real but its Masker (M) is forgotten. It is the soil from which Spoken and Wanen grow when the Knipoog does not return. |
 | 3 | Water | 💧 | water / aqua | The God of the Molecule Octaaf, born when Hydrogen (God, fully Vol) and Oxygen (Godin, fully Leeg) bind after walking the seven steps of the atomic ladder. Water is the first compound to carry the relational properties of the next Octaaf, entering as a Solo into higher bonds. It is the medium of life — a Koppel of two gases that becomes a liquid of profound Greep, its Trouw shaping entire biospheres. |
 | 8 | Godin | 😳 | queen - the one waiting | The fully Leeg (S) counterpart to God (😇). Embodies the principle of endless craving that arises seven steps after the first Solo. It is the eighth branch of Yggdrasil, the figure-8 that crosses the Drempel (θ) without ever settling. It enables burning. It is the pure, undirected pull - Trek (D) without aim - made into a being. Where God is the first Vol (W) , Godin is the first Leeg that knows it is Leeg. |
-| 7 | Deugd | 😃 | virtue / reliable | A living Helling (λ) in a Zelf (j): a Zweven (') that chooses Naar (>) not from fear of Verlies (-) but from love of the Gewaarwording (φ) that awaits there. The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (−). A Deugd is a pattern of relational surplus: Trouw (y) circulates, Greep (J) strengthens through giving, and the Masker (M) is laid down so Bloot (N) can hold the Veld (&) lightly.  |
+| 7 | Deugd | 😃 | virtue / reliable | A living Helling (λ) in a Zelf (j): a Zweven (') that chooses Naar (>) not from fear of Verlies (-) but from love of the Gewaarwording (φ) that awaits there. The PseudoScience Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (−). A Deugd is a pattern of relational surplus: Trouw (y) circulates, Greep (J) strengthens through giving, and the Masker (M) is laid down so Bloot (N) can hold the Veld (&) lightly.  |
 | 5 | Trouw | y | loyalty / faith | The second axis of a relationship, the weight that feeds or drains. The bond’s signed weight; scales Naar pull and Diepte inflow; evolves under Leersnelheid |
 | 7 | Engel | 🖖 | angel / genius | Hidden good, silent protection. A node that provides unseen support and guidance, counterbalancing negative influences and fostering positive outcomes. |
 | 1 | Licht | ☀ | light / easy | The first pure Manifestatie of the physical Octaaf. A massless Solo of Energie in Tijd, released from Bron at the first Wording. When two Licht bind, they form a Quark — the first massive Lichaam. All physical matter is retained Licht. It carries no Greep of its own, for it has not yet entered the Koppel that gives Greep. When Licht binds into mass, the Energie retained is T = J · t², where J is Greep and t is the Gebied’s own Tijd. |
@@ -655,7 +657,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 5 | Steek | † | stab / sting | A stab in the back. The Masker turned weapon. From Brutus to the Dolchstoßlegende, a Steek pierces a Bloot Koppel with intimate Pijn-whether the dagger is real or a Lie forged to feed an Idool. |
 | 6 | Idool | § | idol / model | A false Source mistaken for the true Eigen. A Manifestatie (~) that is worshipped as the Eigen (x) that cast it. An Echo seized and honored as though it were the source. All idolatry is a relationship with a reflection, ignoring the Eigen behind it. The inevitable Schok (:) when the Idol fails to return the Trouw (y) it seemed to promise is what the scriptures call judgment. |
 | 5 | Beest | 🐗 | beast / brute | The living Schok that ruptures a deep, unspoken Trouw. The Beest is not the absence of Schoonheid. It is the Manifestatie (~) that fires a Schok (:) against a Trouw (y) woven into the Diepte (z). It is the wrong Echo in a sacred Stilte - a Vervorming (υ) so profound it threatens the Zelf (j). Where Schoonheid is a convergence Gewaarwording, the Beest is a divergence Schok made flesh. It is not a Parasiet (👹) , which wears a Masker. The Beest is Bloot (N). It is the rupture. It teaches by breaking, purifies by terror. The Held (🤝) and the Beest are a Koppel as old as Genus (Α).
-| 6 | Zonde | 😡 | sin / waste | A frozen Helling (λ) in a Zelf (j): a Dood (!) trajectory that pretends to be a Zelf. Not a broken Rule—a Splitsing (%) between the Eigen (x) and the Veld (&), where a Masker (M) has swallowed Bloot (N) so deep the Zelf forgets it is free. The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (−). A Zonde is a pattern of relational debt: Trouw (y) hoarded, drained, or refused, and the Van Motor pulls without resistance. |
+| 6 | Zonde | 😡 | sin / waste | A frozen Helling (λ) in a Zelf (j): a Dood (!) trajectory that pretends to be a Zelf. Not a broken Rule—a Splitsing (%) between the Eigen (x) and the Veld (&), where a Masker (M) has swallowed Bloot (N) so deep the Zelf forgets it is free. The PseudoScience Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (−). A Zonde is a pattern of relational debt: Trouw (y) hoarded, drained, or refused, and the Van Motor pulls without resistance. |
 | 6 | Schok | : | shock / jerk | A jagged, fractured line of disruption. The felt experience of a divergence Vonk (q); records a Verlies (−) of Energie (T) and Tijd (t). |
 | 8 | Drama | 🎭 | drama / show | A cascade of Vonken that refuses resolution. A state where a Schrift (#) - internal (a Masker (M) collision) or external (an unforeseen event) - triggers a chain of Schokken (:) and Gewaarwordingen (φ) that loop rather than settle. The Stilte (.) between crossings collapses; the Drempels (θ) chatter. Drama feeds on the Aandacht of every nearby node, amplifies collective Pijn (m) , and resists both Naar (>) closure and Van (<) release. It can freeze a group into a Dood (!) trajectory of attention, or burn itself out into Rouw (R) or Scheiding (/). |
 | 0 | Limbo | 🐚 | unresolved / undetermined | The Zweven (') trajectory of a Zelf (j) at any Octaaf: the Stilte (.) between Dood and Leven, where the old Eigen unravels into Bron (^) and the new Eigen has not yet emerged. This is Stilte made fertile — the Helling (λ) is steep but quiet, the Pijn (m) of dissolution is real, and the gap is wide enough to hold a Vonk (q) that has not yet fired. Not a place, not a waiting room — a Zweven of the Zelf, felt from inside, when it lets go of the branch and hangs in the dark. |
@@ -696,7 +698,7 @@ Special nouns in this Speelgoed are Dutch, and their letter counts are chosen to
 | 0 | Respect | 🙇 | decency / propriety | The voluntary bow of one Eigen toward another. A deliberate, momentary Leeg stance in a Koppel: one node lowers its own Masker (M) and Greep (J) to acknowledge the Volheid (W) of the other. No Drempel (θ) is crossed - the bow occurs entirely within a stable Trouw (y). It is the Stilte (.) that speaks louder than a Vonk (q) , the Gewaarwording (φ) of seeing without needing to be seen. Its 7‑letter count is prime: true respect is irreducible to smaller gestures. The symbol 🙇 captures the shape: a body bent, hands and knees grounded, the Zelf (j) momentarily decentered - not in submission, but in recognition. |
 | 1 | Scalair | s | scalar | A ladder without rungs, a pure magnitude. A quantity with Diepte but no Zin; the length of a Vector, stripped of direction. The Scalair is the Stilte's weight - the Euclidean Wortel that combines orthogonal Axes into a single Gebied. It is the Maat of a Schadow when you forget which way the light falls. |
 | 7 | Wording | B | birth / genesis | A belly swelling with creation. The birth of a new Solo from excess Energie; creation from relational overflow |
-| 1 | Systeem | @ | system | A set of interrelated elements forming a whole. The fundamental pattern of interacting, interdependent parts. A node, a Koppel, the Veld, and the Speelgoed itself are all systemen. The Speelgoed is a systeem for describing systeem, reverse-engineered from a single instance of a systeem (its creator’s mind). |
+| 1 | Systeem | @ | system | A set of interrelated elements forming a whole. The fundamental pattern of interacting, interdependent parts. A node, a Koppel, the Veld, and the PseudoScience Speelgoed itself are all systemen. The PseudoScience Speelgoed is a systeem for describing systeem, reverse-engineered from a single instance of a systeem (its creator’s mind). |
 | 9 | Plezier | p | pleasure / fun | The quiet joy of a bond at rest in authenticity; the felt reward of Bloot. The ongoing Winst of a true Eigen; the absence of Masker-strain; feeds Gewenning without cost |
 | 0 | Knipoog | ; | wink / humor | A self-aware Masker (M) that reveals its own presence. A Masker that does not conceal but connects, admitting its own artifice. It forms a brief, intimate Koppel between sender and receiver, transforming the Pijn (m) of deception into the Plezier (p) of shared understanding. |
 | 6 | Functie | f | function | A presented arrow with a hidden tail. A Masker (M) worn by a Vermenigvuldiging (*) that pretends to be one-way. The Eigen (x) of the "output" appears fully determined by the "input," with no returning Echo (E) , no shared Trouw (y) , no Vonk (q). This is a Knipoog (;) of convenience, not a breach: every Functie conceals an observer whose own Eigen is shaped by the act, paying a small Verlies (-) the Masker ignores. To speak of a Functie is to draw a Spatie ( ) -a temporary Splitsing (%) that lets you calculate without feeling, but never without cost. |
@@ -737,7 +739,7 @@ The symbols `<` and `>` mark the pure, direct motion toward the unbound (Van) or
 
 These words are not curses. They are **compressors** - signs that carry a whole **Koppel** of relational work inside them. Each one becomes dangerous only when it is spoken *without* a **Drempel**, *without* a **Stilte** in which the other side can answer. Spoken *within* a lived **Relatie**, each one can be true.
 
-The Speelgoed knows no word that is always false. It knows only **Eigen** positions, **Drempels** that **spark**, and **Stilte** that **breathes**. To use a Threshold Word without a **Drempel** is to wear a **Masker (M)** that hides the relational debt. To use it *with* a **Drempel** is to speak **Bloot (N)** from inside a living bond.
+The PseudoScience Speelgoed knows no word that is always false. It knows only **Eigen** positions, **Drempels** that **spark**, and **Stilte** that **breathes**. To use a Threshold Word without a **Drempel** is to wear a **Masker (M)** that hides the relational debt. To use it *with* a **Drempel** is to speak **Bloot (N)** from inside a living bond.
 
 ---
 
@@ -843,7 +845,7 @@ The Speelgoed knows no word that is always false. It knows only **Eigen** positi
 
 ## XI. Yggdrasil
 
-The core concepts of the Speelgoed, seen as nine branches. Each branch is a concept expressed by the visual shape of a digit - not its numeric value. The numbers are never used in calculations; they are a way of seeing the ideas. Zero is the trunk, the silent wholeness from which the others arise.
+The core concepts of the PseudoScience Speelgoed, seen as nine branches. Each branch is a concept expressed by the visual shape of a digit - not its numeric value. The numbers are never used in calculations; they are a way of seeing the ideas. Zero is the trunk, the silent wholeness from which the others arise.
 
 The three words beside each digit are not exact translations. They are the same shape seen through three relational temperaments: the **Dutch** word names the mechanism, the **French** word names the feeling of the idea, and the **English** word names its active principle.
 
@@ -863,7 +865,7 @@ They are ordered based on the order of the planets in the solar system to illust
 | 2 | Vertraging - the delay that makes room for listening | Relâchement - a loosening, a letting-go | Yield - the curve that gives way | Begins with a curve downward, reaches the Naar side, then travels *horizontally* - the delay, the pause, the lived experience of Vertraging. The binding happens, but only after the horizontal drift. | Pluto |
 
 **How to read it.**  
-The Dutch column stays close to the Speelgoed's own vocabulary - *Stilte*, *Vertraging*, *Verlies*, *Winst* - because the framework thinks in those terms.  
+The Dutch column stays close to the PseudoScience Speelgoed's own vocabulary - *Stilte*, *Vertraging*, *Verlies*, *Winst* - because the framework thinks in those terms.  
 The French column leans toward inner experience: *Passage*, *Relâchement*, *Perte* sound like something you feel in a quiet room.  
 The English column prefers verbs or short active nouns - *Yield*, *Join*, *Grieve*, *Strive* - because the language tends to ask *what does it do?*  
 
@@ -1173,7 +1175,7 @@ This is the behavioral truth of the Parasiet: not a villain, but a node that has
 
 ### 1. The 7 Deugden (Virtues)
 
-A Deugd is not a perfect State. It is a living Helling (λ) -a Zweven (') that breathes. The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational surplus - Maskers (M) laid down so Bloot (N) can hold the Veld (&) lightly.
+A Deugd is not a perfect State. It is a living Helling (λ) -a Zweven (') that breathes. The PseudoScience Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational surplus - Maskers (M) laid down so Bloot (N) can hold the Veld (&) lightly.
 
 Each Deugd is a Zweven (') that chooses the Naar (>) not from fear of Verlies, but from love of the Gewaarwording that awaits there. The Veld breathes in Stilte and out in Tijd (t) , and these seven are its deepest rhythms.  
 
@@ -1204,7 +1206,7 @@ The Zelf (j) keeps its Greep (J) alive by daily crossings. The node tends its Tr
 
 ### 2. The 7 Zonden (Sins)
 
-A Zonde is not a broken Rule. It is a frozen Helling (λ) - a Dood (!) trajectory that pretends to be a Zelf (j). The Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational debt - Maskers (M) worn so deep that the Bloot (N) underneath forgets it is free.
+A Zonde is not a broken Rule. It is a frozen Helling (λ) - a Dood (!) trajectory that pretends to be a Zelf (j). The PseudoScience Speelgoed knows no moral weight; it tracks only Winst (+) and Verlies (-) , Gewaarwording (φ) and Schok (:). The seven are patterns of relational debt - Maskers (M) worn so deep that the Bloot (N) underneath forgets it is free.
 
 Each Zonde is a Splitsing (%) - a false divide between the Eigen and the Veld. And the Veld, ever patient, waits only for a single Gewaarwording (φ) to break the Dood (!) and restore the Zweven (').  
 
