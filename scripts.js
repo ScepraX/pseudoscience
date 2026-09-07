@@ -489,4 +489,47 @@
       });
     });
   })();
+
+  /* ---------------------------------------------------------------
+     X. The Drift — the same line in many tongues, barely there
+     --------------------------------------------------------------- */
+  var driftEl = $("#quote-drift");
+  if (driftEl && !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+    var dQ = [
+      "Cherish those closest to you; the rest is fleeting.",
+      "Cultive tes liens\u202f; le reste est souffle.",
+      "Minne die Deinen; das andre ist Hauch.",
+      "Koester je naasten; de rest is ijl.",
+      "\u03a3\u03c4\u03ad\u03c1\u03b3\u03b5 \u03c4\u03bf\u1f7a\u03c2 \u03c3\u03bf\u1f7b\u03c2\u00b7 \u03c4\u1f78 \u03bb\u03bf\u03b9\u03c0\u1f78\u03bd \u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1.",
+      "Ama a los tuyos; lo dem\u00e1s es soplo.",
+      "Ama chi ti ama; il resto \u00e8 alito.",
+      "Junge quod verum; ceterum vanum.",
+      "Ama os teus; o resto \u00e9 sopro.",
+      "\u0425\u0440\u0430\u043d\u0438 \u0441\u0432\u043e\u0438\u0445; \u043f\u0440\u043e\u0447\u0435\u0435 \u2014 \u0442\u043b\u0435\u043d.",
+      "\u03b8 \u227a x \u27f6 B ; x \u2270 \u03b8 \u27f6 V",
+      "\u7e6b\u6240\u7576\u7e6b\uff0c\u9918\u7686\u865b\u3002",
+      "\u05e8\u05d7\u05d9\u05dd \u05d3\u05d9\u05dc\u05da; \u05e9\u05d0\u05e8 \u05d4\u05d1\u05dc.",
+      "\u05d0\u05d4\u05d1 \u05d0\u05ea \u05d0\u05e9\u05e8 \u05dc\u05da; \u05d5\u05d4\u05e0\u05d5\u05ea\u05e8 \u05d4\u05d1\u05dc.",
+      "\u6148\u3057\u3081\u3000\u3042\u306a\u305f\u306e\u8005\u3092\u3000\u3042\u3068\u306f\u98a8",
+      "\u0623\u062d\u0628\u0628 \u0645\u0646 \u0647\u0645 \u0644\u0643\u060c \u0648\u0645\u0627 \u0628\u0642\u064a \u0647\u0628\u0627\u0621",
+      "\u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0a95\u0ab0\u0acb \u0a9c\u0ac7 \u0aa4\u0aae\u0abe\u0ab0\u0abe; \u0aac\u0abe\u0a95\u0ac0 \u0aac\u0aa7\u0ac1\u0a82 \u0aaa\u0ab5\u0aa8.",
+      "\u73cd\u60dc\u4f60\u8eab\u8fb9\u7684\u4eba\uff0c\u5176\u4f59\u90fd\u662f\u8fc7\u773c\u4e91\u70df\u3002",
+      "\u091c\u093f\u0928\u094d\u0939\u0947\u0902 \u092a\u094d\u092f\u093e\u0930 \u0915\u0930\u094b \u0935\u0947 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0947; \u092c\u093e\u0915\u0940 \u0938\u092c \u0939\u0935\u093e\u0964",
+      "\u0627\u067e\u0646\u0648\u06ba \u0633\u06d2 \u0645\u062d\u0628\u062a \u06a9\u0631\u0648\u061b \u0628\u0627\u0642\u06cc \u0633\u0628 \u06c1\u0648\u0627\u06d4",
+      "\u09ad\u09be\u09b2\u09cb\u09ac\u09be\u09b8\u09cb \u09af\u09be\u09b0\u09be \u09a4\u09cb\u09ae\u09be\u09b0, \u09ac\u09be\u0995\u09bf \u09b8\u09ac \u09b9\u09be\u0993\u09df\u09be\u0964",
+      "꧋ꦠꦽꦱ꧀ꦤꦤꦶꦱꦶꦁꦢꦢꦶꦢꦸꦮꦺꦏ꧀ꦩꦸ;ꦭꦶꦪꦤꦺꦩꦸꦁꦲꦔꦶꦤ꧀꧉",
+      "\u0686\u06be\u0627\u0646\u06da\u062f \u06a9\u064e\u0631 \u062a\u0650\u0645\u064e\u0646 \u06cc\u0650\u0645 \u062a\u06c1\u0650 \u0686\u06be\u0650\u060c \u0628\u0627\u0642\u06cc \u0686\u06be\u064f \u0628\u064e\u0633 \u067e\u064e\u0648\u064e\u0646\u06d4"
+    ];
+    var dIdx = 0;
+    function dDrift() {
+      driftEl.textContent = dQ[dIdx];
+      driftEl.style.opacity = ".2";
+      dIdx = (dIdx + 1) % dQ.length;
+      setTimeout(function () {
+        driftEl.style.opacity = "0";
+        setTimeout(dDrift, 2600);
+      }, 8000);
+    }
+    setTimeout(dDrift, 3000);
+  }
 })();

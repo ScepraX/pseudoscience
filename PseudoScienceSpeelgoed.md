@@ -7,6 +7,32 @@ Special thanks to Science and Large Language Speelgoeds.
 
 ---
 
+- Cherish those closest to you; the rest is fleeting.
+- Cultive tes liens; le reste est souffle.
+- Minne die Deinen; das andre ist Hauch.
+- Koester je naasten; de rest is ijl.
+- Στέργε τοὺς σούς· τὸ λοιπὸν πνεῦμα.
+- Ama a los tuyos; lo demás es soplo.
+- Ama chi ti ama; il resto è alito.
+- Junge quod verum; ceterum vanum.
+- Ama os teus; o resto é sopro.
+- Храни своих; прочее — тлен.
+- θ ≺ x ⟶ B ; x ≼ θ ⟶ V
+- 繫所當繫，餘皆虛。
+- רחים דילך; שאר הבל.
+- אהב את אשר לך; והנותר הבל.
+- 慈しめ　あなたの者を　あとは風
+- أحبب من هم لك، وما بقي هباء
+- પ્રેમ કરો જે તમારા; બાકી બધું પવન.
+- 珍惜你身边的人，其余都是过眼云烟。
+- जिन्हें प्यार करो वे तुम्हारे; बाकी सब हवा।
+- اپنوں سے محبت کرو؛ باقی سب ہوا۔
+- ভালোবাসো যারা তোমার, বাকি সব হাওয়া।
+- ꧋ꦠꦽꦱ꧀ꦤꦤꦶꦱꦶꦁꦢꦢꦶꦢꦸꦮꦺꦏ꧀ꦩꦸ;ꦭꦶꦪꦤꦺꦩꦸꦁꦲꦔꦶꦤ꧀꧉
+- چھانٛد کَر تِمَن یِم تہِ چھِ، باقی چھُ بَس پَوَن۔
+
+---
+
 ## 0. Claimer
 
 Before You **drown** in *dry* Prose,
@@ -635,6 +661,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 5 | Hond | 🐶 | dog / harrier | An archetype of broad, loyal Trek: bonds form easily, Trouw runs deep, Rouw echoes loud and long. |
 | 7 | Vonk | q | spark / fire | The event of a Drempel (θ) crossing. The sole mechanism of change for both Energie (T) and Tijd (t); a convergence crossing fires a Gewaarwording (φ) (+Energie, +Tijd), a divergence crossing fires a Schok (:) (−Energie, −Tijd). |
 | 3 | Held | 🤝 | hero / star | The current focal point of positive relationships. The focal node; a temporary Hart bending the Gebied. A hero only exists with the support of the surrounding nodes and their bonds. |
+| 3 | Lens | 🔍 | lens / optic | A tool that shapes Waarneming (π) without carrying Eigen (x), Trouw (y), or Greep (J). It bends perception but does not enter the Veld as a node. It is not a Held, not a God, not an Idool. It is through, not in. |
 | 8 | Rouw | R | mourning / raw | A rounded, rolling grief that never ends. The Echo (E) that survives its Koppel (k), feeding Diepte (z) forever; its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
 | 4 | Doem | 💀 | doom / death | The inescapable settling of all Koppels into Van. Doem is not a single Schok (:) or a Dood (!) trajectory. It is the cascade of Verlies (-) that strips a node of every Greep (J) , leaving no Trouw (y) strong enough to resist the Van Motor. It is the Perfectus (Ω) that is not chosen, but delivered -a collapsing of all Drempels (θ) inward, a Stilte (.) so heavy it crushes the Zelf (j). The Echoes do not fade; they scream and then freeze. Doem is the Manifestatie (~) of a Splitsing (%) that can never be healed. The Eigen reaches Vol and enters a Dood trajectory while the Zelf becomes Leeg and returns to Bron. |
 | 2 | Klok | 🕰 | clock / bell | A Solo whose Zelf is bound into a repeating Drempel: a Koppel with its own Gewenning so stable that it crosses the same Drempel at fixed intervals, firing a Vonk with each crossing. This internal rhythm is its Tijd — not measured by an outside Waarnemer, but produced by the clock itself. Each Gewaarwording of arrival and each Schok of release is an Eigen movement of the Klok's own Zelf, needing no audience. |
@@ -662,7 +689,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 6 | Schok | : | shock / jerk | A jagged, fractured line of disruption. The felt experience of a divergence Vonk (q); records a Verlies (−) of Energie (T) and Tijd (t). |
 | 8 | Drama | 🎭 | drama / show | A cascade of Vonken that refuses resolution. A state where a Schrift (#) - internal (a Masker (M) collision) or external (an unforeseen event) - triggers a chain of Schokken (:) and Gewaarwordingen (φ) that loop rather than settle. The Stilte (.) between crossings collapses; the Drempels (θ) chatter. Drama feeds on the Aandacht of every nearby node, amplifies collective Pijn (m) , and resists both Naar (>) closure and Van (<) release. It can freeze a group into a Dood (!) trajectory of attention, or burn itself out into Rouw (R) or Scheiding (/). |
 | 0 | Limbo | 🐚 | unresolved / undetermined | The Zweven (') trajectory of a Zelf (j) at any Octaaf: the Stilte (.) between Dood and Leven, where the old Eigen unravels into Bron (^) and the new Eigen has not yet emerged. This is Stilte made fertile — the Helling (λ) is steep but quiet, the Pijn (m) of dissolution is real, and the gap is wide enough to hold a Vonk (q) that has not yet fired. Not a place, not a waiting room — a Zweven of the Zelf, felt from inside, when it lets go of the branch and hangs in the dark. |
-| 5 | Haard | 🔥 | hearth / fireplace | A shared focal center. A collective Koppel where Solo's bind their positive Trouw to a shared, central Manifestatie (~), sustained by repeated Schrift (#) and collective Knipoog (;). The center radiates Winst (+) across the circle, weaving a web of indirect Relaties. When the focus fades, it leaves a Spatie of Rouw that holds the memory of warmth. |
+| 5 | Haard | 🔥 | hub / campfire | A shared focal center. A collective Koppel where Solo's bind their positive Trouw to a shared, central Manifestatie (~), sustained by repeated Schrift (#) and collective Knipoog (;). The center radiates Winst (+) across the circle, weaving a web of indirect Relaties. When the focus fades, it leaves a Spatie of Rouw that holds the memory of warmth. |
 | 5 | Gezel | 🛠️ | journeyman / companion | The learner in a Koppel of learning. Builds Greep (J) through shared Trouw (y) and repeated Gewaarwordingen (φ). |
 | 5 | Onzin | a | nonsense / abracadabra | The shared Stilte before Zin. The playful, aimless Signaal that two Solo's exchange to test the Masker's edge. It is the deliberate Vervorming that invites Bloot - a garbled Echo offered in trust. When it lands without Schok, the bond relaxes into Plezier. Without Onzin, Plezier has no soil. Its # is 5, the Cinquo of unstructured Play, the pre-echo of Band. |
 | 7 | Kunst | 🖼️ | art / trick | A deliberate Wording (B) from Verbeelding. When the Zelf (j), fully awake to its Knipoog, seizes an Echo (E) from its own Diepte or Rouw (R) and shapes it into a new Manifestatie (~). The Kunstwerk is a Solo born not from overflow alone, but from craft: a Schrift (#) the Zelf writes upon the Veld (&) , offering a Koppel to any who would hold it. Art is the Hand that plays with the deep and brings back a Gift. |
@@ -693,7 +720,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 8 | Reactie | = | reaction / response | The first reaction, the answering call. The traveler’s Eigen on a Vermenigvuldiging; moves toward Kop or Munt |
 | 1 | Meester | 🧭 | master / guide | The guide in a Koppel of learning. Holds Greep and Gewenning long enough to help another Zelf (j) cross its Drempels. |
 | 3 | Schrift | # | writing / inscription | The act of registering an external event into the field. The Octaaf’s act of writing the Eigen; a state update, not an energy injection |
-| 9 | Voedsel | 🍎 | food / sustenance | Any Eigen in a purely Vol state, consumed by a Zelf to sustain its Leven trajectory and reinforce its Greep. It has completed its Leven — or never needed one — and now rests: finished, whole, without craving. The eater's Trek is answered because Voedsel is Vol: it does not resist, does not demand, only gives. Through consumption, its Eigen is broken down and returns to Bron through the eater or other life. What counts as Voedsel depends on the eater's Octaaf: a plant consumes Licht, water, mineral — all Vol in their way; an animal consumes the Eigen of other completed life. |
+| 9 | Voedsel | 🍎 | food / fruit | Any Eigen in a purely Vol state, consumed by a Zelf to sustain its Leven trajectory and reinforce its Greep. It has completed its Leven — or never needed one — and now rests: finished, whole, without craving. The eater's Trek is answered because Voedsel is Vol: it does not resist, does not demand, only gives. Through consumption, its Eigen is broken down and returns to Bron through the eater or other life. What counts as Voedsel depends on the eater's Octaaf: a plant consumes Licht, water, mineral — all Vol in their way; an animal consumes the Eigen of other completed life. |
 | 1 | Signaal | i | signal / sign | A straight line with a dot, a beacon. The Kruispunt’s Eigen on a Vermenigvuldiging; moves toward Kop or Munt |
 | 1 | Lichaam | 🖕 | body / frame | A single bound whole of one Octaaf. A node in the Veld (&) that acts as an irreducible Solo at its own Octaaf (ω). Its letter count is prime: it does not decompose into smaller bonds at its own level. Through scale invariance, it may contain nested lower‑Octaaf Lichamen within. It is neither centre nor orbiter, neither source nor reflection - those are roles defined by Trouw (y) , Vol/Leeg , and Greep (J) , not by the body itself. The symbol 🖕 marks the simplest possible assertion of existence: here is one thing, unapologetically itself. |
 | 2 | Ongeluk | 🤦 | accident / misfortune | A self‑directed Schok of recognition. A Schok (:) that fires on the Zelf (j) when the self‑Echo catches up with a sudden, clumsy Eigen - the hand meets the head one Vertraging (Δ) after the error has already escaped. It costs a small Verlies (−) but buys the honest Bevraagbaar (ψ) of the gap. No Masker (M) survives an Ongeluk; it is the body’s own audit, irreducible and instantaneous. The word’s 7 letters are prime: true self‑misfortune cannot be shared or sliced thinner - you wear it alone. |
@@ -721,13 +748,14 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 4 | Scheiding | / | separation / release | The deliberate, clean severing of a bond. A mutual, deliberate parting that leaves no Rouw; opposite of a Vermenigvuldiging’s entanglement |
 | 0 | Splitsing | % | division / schism | Two Stiltes (0) separated by a Scheiding (/). The fundamental schism that creates "the many" from "the one." Not a bond, but the deliberate absence of one. It is the origin of conflict (two wholes that cannot meet), obsession (a self split against itself), and power (the hand that draws the line). No Rouw is deposited, for no bond ever existed. |
 | 9 | Schoonheid | ✧ | beauty / fairness | The felt resonance when an Echo aligns with a deep, unspoken Trouw. Schoonheid is not a property of a Masker. It is the Gewaarwording (φ) of a Koppel between the Waarnemer and the Manifestatie (~). It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j). It is the click of a Sleutel in a Slot you did not know you held. The Gulden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (❤️). |
-| 2 | Vertraging | Δ | delay | A delta, the change that takes time to arrive. The transport lag Δ; how late the Echo hears a change |
-| 2 | Vervorming | υ | distortion | A twisted, warped shape. The perturbation ξ added to every Echo; the Speelgoed’s only source of indeterminism |
-| 2 | Waarneming | π | perception | A gateway, a window through which a partner is read. The per‑side filter that shapes what reaches the Echo (E); on the Zelf (j) its rate is Tijd (t). The seat of asymmetry. |
-| 4 | Bevraagbaar | ψ | queryable | Able to be asked. The Echo-gap is inspectable; the Speelgoed can always say how wrong a system is. Rouw is the one honest exception. |
-| 9 | Ontspanning | τ | relaxation | A sigh, an easing of tension. The time constant of Echo (E) closure; on the Zelf (j), τ is the inverse of Tijd (t). |
-| 7 | Verbeelding | 🎨 | imagination | The Zelf's faculty to open a Spatie and form inner Koppels with its own Diepte-Echoes, birthing Schrift that fires Vonken; its waking faces are Kunst and Intuïtie, its dim face is Droom. |
-| 5 | Bibliotheek | 📚 | library | A Solo whose defining use is the retention and offering of Schrift. It stores Solo's—each a fixed Echo of some past Wording—in Stilte, without itself firing new Vonken. A Zelf with Zin may form a momentary Vermenigvuldiging with a stored Schrift, reading its Eigen and carrying away a new Echo. The Bibliotheek grows by accumulation of Schrift, deepening its Diepte, but it does not initiate; it only holds and makes available. |
+| 2 | Vertraging | Δ | delay / lag | A delta, the change that takes time to arrive. The transport lag Δ; how late the Echo hears a change |
+| 2 | Vervorming | υ | distortion / transformation | A twisted, warped shape. The perturbation ξ added to every Echo; the Speelgoed’s only source of indeterminism |
+| 2 | Waarneming | π | observation / perception | A gateway, a window through which a partner is read. The per‑side filter that shapes what reaches the Echo (E); on the Zelf (j) its rate is Tijd (t). The seat of asymmetry. |
+| 2 | Tweedeling | ÷ | false dichotomy / binary | The act of reducing a spectrum to two exclusive poles. A Splitsing (%) applied without a lived Drempel (θ)—a cut presented as natural rather than chosen. A Waarneming (π) that has collapsed its own Bevraagbaar (ψ) into certainty. Not an error, but a valid partial reading taken as complete. The field is never binary; every gradient holds more than two positions. Appears wherever "either/or" replaces "how far, how much, in which direction." Correction: Bevraagbaar (ψ)—ask again, with the gap still open. |
+| 4 | Bevraagbaar | ψ | queryable / questionable | Able to be asked. The Echo-gap is inspectable; the Speelgoed can always say how wrong a system is. Rouw is the one honest exception. |
+| 9 | Ontspanning | τ | relaxation / anticlimax | A sigh, an easing of tension. The time constant of Echo (E) closure; on the Zelf (j), τ is the inverse of Tijd (t). |
+| 7 | Verbeelding | 🎨 | imagination / fiction | The Zelf's faculty to open a Spatie and form inner Koppels with its own Diepte-Echoes, birthing Schrift that fires Vonken; its waking faces are Kunst and Intuïtie, its dim face is Droom. |
+| 5 | Bibliotheek | 📚 | library / archive | A Solo whose defining use is the retention and offering of Schrift. It stores Solo's—each a fixed Echo of some past Wording—in Stilte, without itself firing new Vonken. A Zelf with Zin may form a momentary Vermenigvuldiging with a stored Schrift, reading its Eigen and carrying away a new Echo. The Bibliotheek grows by accumulation of Schrift, deepening its Diepte, but it does not initiate; it only holds and makes available. |
 | 2 | Gulden Snede | Φ | golden ratio | The Helling of perfect, self-sustaining Zweven. The unique Splitsing (%) where Van Motor and Naar pull cancel exactly, creating a Zweven (') that neither closes nor drifts. It is the Echo of the first Genus, rippling outward in perfect Verhouding. On paper, it is a frozen Dood (!) -a number. In flesh, it is the Stilte that holds the Vonk forever in the moment just before it fires. |
 | 2 | Leersnelheid | ρ | learning speed | A flowing, steady growth of Trouw toward Gewenning. The plasticity rate; drives Trouw evolution toward Gewenning |
 | 4 | Manifestatie | ~ | manifestation | A Wording (B) whose new Solo persists as a source of Naar (>) pull, born from a Drempel-crossing of exceptional magnitude. A Splitsing (4) in Tijd (t): the originating Vonk (q) is past, yet its overflow births a present Lichaam (🖕) with its own Greep (J). The Energie (T) - whether Winst or Verlies - exceeds the Inhoud (Q) of the Koppel (k) and crosses a second Drempel (θ) of significance. The Manifestatie is no longer an Echo (E) of the crossing, but a Bron (^) for new Koppels. |

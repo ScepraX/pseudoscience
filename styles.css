@@ -1647,6 +1647,19 @@ body.spiral .spiral-flash {
   animation: reveal-fade .9s ease both;
 }
 
+.quote-drift {
+  text-align: center;
+  font-style: italic;
+  font-size: .88rem;
+  letter-spacing: .04em;
+  color: var(--gold);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 2.4s ease;
+  z-index: 1;
+  line-height: 1.4;
+}
+
 @keyframes reveal-fade {
   from {
     opacity: 0;
