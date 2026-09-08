@@ -4,7 +4,7 @@
 **Project:** PseudoScience Speelgoed
 **Purpose:** A plain-language introduction to how relationships work in this universe, written for a player who has never opened the technical model and never needs to.
 **Audience:** New players, roughly fifteen and up. No maths required. No prior reading required.
-**Date:** 2026-08-20
+**Date:** 2026-09-08
 
 ---
 
@@ -80,7 +80,7 @@ You will notice, playing this game, that things do not change smoothly. They hol
 
 Every scale has a line on it called a **Drempel** — a threshold. On one side of the line, the bond counts as bound. On the other side, it does not. Nothing in between matters. Drifting halfway toward committing to an alliance is not half an alliance; it is no alliance, right up until the instant it crosses, and then it is an alliance.
 
-The crossing itself is called a **Vonk** — a spark. This is the only event in the universe where energy actually moves. Crossing *toward* the bound side releases energy into you: this is a **Gewaarwording**, a realisation, the click when something lands. Crossing *away* draws energy out of you: this is a **Schok**, the sharp intake of breath, the thing you feel in your stomach when it goes wrong. The field writes down every single one as a gain, **Winst**, or a loss, **Verlies**.
+The crossing itself is called a **Vonk** — a spark. This is the only event in the universe where energy actually moves. Crossing *toward* the bound side releases energy into you: this is a **Realisatie**, a realisation, the click when something lands. Crossing *away* draws energy out of you: this is a **Schok**, the sharp intake of breath, the thing you feel in your stomach when it goes wrong. The field writes down every single one as a gain, **Winst**, or a loss, **Verlies**.
 
 Understand this and half the game economy makes sense at once. **Energy does not leak. Energy does not trickle. Energy moves at crossings and nowhere else.** If your fleet lost energy, something crossed a line. Find the crossing.
 
@@ -538,7 +538,7 @@ No new rules. Just the same ones, aimed at people who are shooting.
 
 Sometimes a crossing releases more energy than the bond it happened in can absorb. The excess has nowhere to go, so it crosses a threshold of its own and becomes a *new thing*.
 
-This is **Wording**, and it is how new members enter the field.
+This is **Creatie**, and it is how new members enter the field.
 
 The new thing is not disconnected. It is born already bonded to whatever produced it, which is why it is so often complicated: a colony that immediately has a relationship with its founder, a splinter faction that immediately has a relationship with the organization it split from, a side project that becomes its own concern and remains awkwardly attached to both originators. A star collapsing out of a cloud cannot pull in all its material, and the leftovers clump into planets, and every planet immediately falls into orbit around the thing whose formation flung it out.
 
@@ -732,7 +732,7 @@ Everything in this book, in one place. Nothing here is beginner vocabulary — t
 |------|--------|------------|
 | **Drempel** | DREM-pul | A threshold. The line that decides bound or unbound. |
 | **Vonk** | vonk | A spark. The crossing itself. The only event where energy moves. |
-| **Gewaarwording** | khuh-VAR-vor-ding | The felt crossing *toward* bound. A realisation. Energy in. |
+| **Realisatie** | ray-ah-lee-ZAH-tsee | The felt crossing *toward* bound. A realisation. Energy in. |
 | **Schok** | skhok | The felt crossing *away*. A shock. Energy out. |
 | **Winst / Verlies** | vinst / vur-LEES | Gain and loss. The audit trail of every crossing ever. |
 | **Energie** | eh-nur-GHEE | The active charge. Changes only at crossings. Never leaks. |
@@ -773,7 +773,7 @@ Everything in this book, in one place. Nothing here is beginner vocabulary — t
 | **Zweven** | ZVAY-vun | Still moving. The default living state. |
 | **Dood** | dote | Frozen. Roles fixed permanently. Functional and finished. |
 | **Leven** | LAY-vun | Reversal. The two sides swap which is which. |
-| **Wording** | VOR-ding | Birth from overflow. A new thing, immediately bonded to its origin. |
+| **Creatie** | kray-AH-tsee | Birth from overflow. A new thing, immediately bonded to its origin. |
 | **Rouw** | row (rhymes with *now*) | Grief. The Echo that outlives its bond. Permanent. Feeds depth forever. |
 | **Scheiding** | S-KHAY-ding | A clean, mutual separation. Leaves no grief. |
 | **Splitsing** | SPLIT-sing | A division where no bond ever existed. The origin of conflict, obsession and power. |
