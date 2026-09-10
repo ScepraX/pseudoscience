@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pseudoscience Speelgoed</title>
+    <link>https://pseudoscience.earth/</link>
+    <atom:link href="https://pseudoscience.earth/feed.xml" rel="self" type="application/rss+xml" />
+    <description>An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.</description>
+    <language>en</language>
+    <copyright>ScepraX</copyright>
+    <lastBuildDate>Thu, 10 Sep 2026 15:53:14 +0200</lastBuildDate>
+    <image>
+      <url>https://pseudoscience.earth/image.png</url>
+      <title>Pseudoscience Speelgoed</title>
+      <link>https://pseudoscience.earth/</link>
+    </image>
+
+    <item>
+      <title>The Thermodynamic Octaaf</title>
+      <link>https://pseudoscience.earth/Science/The%20Thermodynamic%20Octaaf.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Science/The%20Thermodynamic%20Octaaf.html</guid>
+      <pubDate>Wed, 09 Sep 2026 14:23:40 +0200</pubDate>
+      <category>Science</category>
+      <description>Theoretical framework — one proposed instantiation of the Speelgoed's primitives at the scale of heat, work, and irreversibility.</description>
+    </item>
+
+    <item>
+      <title>The Cosmic Octaaf</title>
+      <link>https://pseudoscience.earth/Science/The%20Cosmic%20Octaaf.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Science/The%20Cosmic%20Octaaf.html</guid>
+      <pubDate>Wed, 09 Sep 2026 14:23:40 +0200</pubDate>
+      <category>Science</category>
+      <description>Theoretical framework — one proposed instantiation of the Speelgoed's primitives at the scale of galaxies, spacetime, and the observable universe.</description>
+    </item>
+
+    <item>
+      <title>The Quantum Octaaf</title>
+      <link>https://pseudoscience.earth/Science/The%20Quantum%20Octaaf.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Science/The%20Quantum%20Octaaf.html</guid>
+      <pubDate>Wed, 09 Sep 2026 14:12:13 +0200</pubDate>
+      <category>Science</category>
+      <description>Theoretical framework — not empirically confirmed. One proposed instantiation of the Speelgoed's primitives at the quantum scale.</description>
+    </item>
+
+    <item>
+      <title>MHD with Memory: A relaxation-time extension predicting a phase shift in Alfvén waves</title>
+      <link>https://pseudoscience.earth/Science/MHD%20with%20Memory%20-%20A%20relaxation-time%20extension%20predicting%20a%20phase%20shift%20in%20Alfv%C3%A9n%20waves.txt</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Science/MHD%20with%20Memory%20-%20A%20relaxation-time%20extension%20predicting%20a%20phase%20shift%20in%20Alfv%C3%A9n%20waves.txt</guid>
+      <pubDate>Wed, 09 Sep 2026 14:12:13 +0200</pubDate>
+      <category>Science</category>
+      <description>A paper by M.J.A. Knippenberg (ScepraX) extending standard resistive magnetohydrodynamics with a relaxation time, predicting a phase shift in Alfvén waves.</description>
+    </item>
+
+    <item>
+      <title>An Introduction to Advanced Relational Studies — Newcomer's Guide</title>
+      <link>https://pseudoscience.earth/PseudoScienceSpeelgoed%20-%20Newcomer%27s%20Guide.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/PseudoScienceSpeelgoed%20-%20Newcomer%27s%20Guide.html</guid>
+      <pubDate>Thu, 20 Aug 2026 14:18:17 +0200</pubDate>
+      <category>Guide</category>
+      <description>A plain-language introduction to how relationships work in this universe, written for a player who has never opened the technical model and never needs to. No maths required. No prior reading required.</description>
+    </item>
+
+    <item>
+      <title>PseudoScience Speelgoed — The Full Text</title>
+      <link>https://pseudoscience.earth/PseudoScienceSpeelgoed.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/PseudoScienceSpeelgoed.html</guid>
+      <pubDate>Fri, 31 Jul 2026 17:41:07 +0200</pubDate>
+      <category>Framework</category>
+      <description>The complete PseudoScience Speelgoed as a single document: a self-contained formal modeling system for relationships, cognition, and change, built from the primitives Eigen, Echo, Trouw, Drempel, and Vonk.</description>
+    </item>
+
+    <item>
+      <title>Pseudoscience Speelgoed: A Relational Framework &amp; AI Oracle</title>
+      <link>https://pseudoscience.earth/</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/</guid>
+      <pubDate>Sun, 28 Jun 2026 17:11:33 +0200</pubDate>
+      <category>Framework</category>
+      <description>An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.</description>
+    </item>
+
+  </channel>
+</rss>
