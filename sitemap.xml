@@ -3,9 +3,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://pseudoscience.earth/</loc>
-       <lastmod>2026-08-21T11:22:13+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
+    <loc>https://pseudoscience.earth/</loc>
+    <lastmod>2026-09-22T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0000</priority>
   </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/PseudoScienceSpeelgoed.html</loc>
+    <lastmod>2026-07-31T17:41:07+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/PseudoScienceSpeelgoed%20-%20Newcomer%27s%20Guide.html</loc>
+    <lastmod>2026-08-20T14:18:17+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/Science/The%20Thermodynamic%20Octaaf.html</loc>
+    <lastmod>2026-09-09T14:23:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/Science/The%20Cosmic%20Octaaf.html</loc>
+    <lastmod>2026-09-09T14:23:40+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/Science/The%20Quantum%20Octaaf.html</loc>
+    <lastmod>2026-09-09T14:12:13+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7000</priority>
+  </url>
+
 </urlset>
