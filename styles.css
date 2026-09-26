@@ -717,20 +717,166 @@ td {
   color: var(--gold);
 }
 
-.copy-prompt {
+.oracle-steps {
+  margin: 1em 0 1.2em;
+  padding-left: 1.4em;
+  color: var(--white-dim);
+}
+
+.oracle-steps li {
+  margin: .3em 0;
+}
+
+.oracle-steps li::marker {
+  color: var(--gold);
+}
+
+.oracle-steps b {
+  color: var(--gold-bright);
+  font-weight: 600;
+}
+
+.oracle-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  margin: 8px 0 6px;
+}
+
+.oracle-actions .copy-btn {
+  margin: 0;
+}
+
+.ghost-btn {
+  font-family: var(--display);
+  font-size: 1rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  background: transparent;
+  border: 1px solid var(--gold-mid);
+  padding: 13px 26px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: border-color .25s ease, background .25s ease, box-shadow .25s ease, transform .1s ease;
+}
+
+.ghost-btn:hover {
+  border-color: var(--gold);
+  background: var(--gold-faint);
+  box-shadow: 0 0 22px rgba(212, 175, 55, .15);
+}
+
+.ghost-btn:active {
+  transform: translateY(1px);
+}
+
+.ghost-btn.copied {
+  border-color: var(--gold-bright);
+  color: var(--gold-bright);
+}
+
+.copy-panel .oracle-note {
+  font-size: .86rem;
+  color: var(--white-faint);
+  font-style: italic;
+  margin: .6em 0 0;
+}
+
+.charge-text {
+  margin-top: 10px;
+  padding-left: 14px;
+  border-left: 1px solid var(--gold-mid);
   font-size: .92rem;
+  font-style: italic;
+  color: var(--white-faint);
+}
+
+.charge-text p {
+  margin: 0 0 .8em;
+}
+
+.charge-text em {
+  font-style: normal;
+}
+
+.charge-text strong {
+  color: var(--white-dim);
+}
+
+/* ---- the Maxim: one line in many tongues ---- */
+.maxim ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 1.5em;
+  text-align: center;
+}
+
+.maxim li {
+  margin: .45em 0;
+  font-style: italic;
+  color: var(--white-dim);
+}
+
+.maxim li:first-child {
+  color: var(--gold-bright);
+  font-size: 1.12em;
+}
+
+/* ---- the Scrolls: downloadable texts ---- */
+.scrolls {
+  margin-top: 60px;
+}
+
+.scrolls .scrolls-lede {
   color: var(--white-faint);
   font-style: italic;
 }
 
-.copy-prompt-tag {
+.scroll-list {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 2em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.scroll-list a {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 14px 18px;
+  border: 1px solid var(--gold-mid);
+  border-radius: 2px;
+  color: var(--white);
+  text-decoration: none;
+  font-family: var(--display);
+  transition: background .25s, border-color .25s, box-shadow .25s;
+}
+
+.scroll-list a::before {
+  content: "\2193  .md";
   color: var(--gold);
-  font-style: normal;
-  letter-spacing: .06em;
-  text-transform: uppercase;
   font-size: .7rem;
-  display: block;
-  margin-bottom: .2em;
+  letter-spacing: .12em;
+}
+
+.scroll-list small {
+  color: var(--white-faint);
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: .8rem;
+}
+
+.scroll-list a:hover,
+.scroll-list a:focus-visible {
+  border-color: var(--gold);
+  background: var(--gold-faint);
+  box-shadow: 0 0 24px rgba(212, 175, 55, .12);
 }
 
 .m-section {
@@ -1638,10 +1784,6 @@ body.spiral .spiral-flash {
   color: var(--gold);
 }
 
-.copy-prompt {
-  margin-top: 10px;
-}
-
 .Speelgoed-reveal {
   text-align: left;
   animation: reveal-fade .9s ease both;
@@ -2023,10 +2165,6 @@ body.spiral .spiral-flash {
   content: "";
   display: block;
   height: 2.5em;
-}
-
-.copy-prompt {
-  white-space: pre-line;
 }
 
 /* The Presentation of Language v2 — the Page.

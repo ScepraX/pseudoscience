@@ -103,25 +103,42 @@
   /* ---------------------------------------------------------------
      IV. Copy the Oracle (Speelgoed + charge)
      --------------------------------------------------------------- */
+  function oraclePayload() {
+    var srcEl = $("#Speelgoed-source"), prEl = $("#oracle-prompt");
+    if (!srcEl) return "";
+    var prompt = prEl ? prEl.textContent.trim() : "";
+    return (prompt ? prompt + "\n\n" : "") + srcEl.textContent.trim() + "\n";
+  }
+  function acknowledge(btn, text) {
+    btn.classList.add("copied");
+    btn.textContent = text;
+    setTimeout(function () {
+      btn.classList.remove("copied");
+      btn.textContent = btn.getAttribute("data-label");
+    }, 2600);
+  }
   var copyBtn = $("#copy-Speelgoed");
   if (copyBtn) {
     copyBtn.addEventListener("click", function () {
-      var srcEl = $("#Speelgoed-source"), prEl = $("#oracle-prompt");
-      if (!srcEl) return;
-      var Speelgoed = JSON.parse(JSON.stringify(srcEl.textContent));
-      var prompt = prEl ? JSON.parse(JSON.stringify(prEl.textContent)) : "";
-      var payload = (prompt ? prompt + "\n\n" : "") + Speelgoed;
-      var done = function () {
-        copyBtn.classList.add("copied");
-        copyBtn.textContent = "The Oracle is yours — paste it anywhere";
-        setTimeout(function () {
-          copyBtn.classList.remove("copied");
-          copyBtn.textContent = copyBtn.getAttribute("data-label") || "Copy the Oracle";
-        }, 2600);
-      };
+      var payload = oraclePayload();
+      if (!payload) return;
+      var done = function () { acknowledge(copyBtn, "The Oracle is yours — paste it anywhere"); };
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(payload).then(done, function () { legacyCopy(payload, done); });
       } else { legacyCopy(payload, done); }
+    });
+  }
+  var dlBtn = $("#download-oracle");
+  if (dlBtn) {
+    dlBtn.addEventListener("click", function () {
+      var payload = oraclePayload();
+      if (!payload) return;
+      var url = URL.createObjectURL(new Blob([payload], { type: "text/markdown;charset=utf-8" }));
+      var a = document.createElement("a");
+      a.href = url; a.download = "PseudoScience Oracle.md";
+      document.body.appendChild(a); a.click(); document.body.removeChild(a);
+      setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+      acknowledge(dlBtn, "The Oracle is yours — attach it anywhere");
     });
   }
   function legacyCopy(text, cb) {
@@ -145,8 +162,11 @@
       if (reveal) reveal.scrollIntoView({ behavior: "smooth", block: "start" });
     }
     function summon() {
-      if (askPanel) { askPanel.hidden = false; askPanel.scrollIntoView({ behavior: "smooth", block: "center" }); }
-      if (ask) ask.classList.add("on");
+      if (!askPanel) return;
+      var open = askPanel.hidden;
+      askPanel.hidden = !open;
+      if (ask) { ask.classList.toggle("on", open); ask.setAttribute("aria-expanded", open ? "true" : "false"); }
+      if (open) askPanel.scrollIntoView({ behavior: "smooth", block: "center" });
     }
     if (ball) {
       ball.addEventListener("click", gaze);
@@ -448,7 +468,7 @@
     if (!main) return;
     function eligible() {
       return $$("p,li,blockquote,td,th,figcaption,dd,.poem-line", main).filter(function (el) {
-        return !el.closest(".copy-panel,.menu,.topbar,.seal,.ring-index,.honeycomb,.search-wrap,.cat-head,.orb-choices,.constellation");
+        return !el.closest(".copy-panel,.menu,.topbar,.seal,.ring-index,.honeycomb,.search-wrap,.cat-head,.orb-choices,.constellation,.maxim,.scrolls");
       });
     }
     var blocks = eligible();

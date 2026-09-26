@@ -4,14 +4,14 @@
 
   <url>
     <loc>https://pseudoscience.earth/</loc>
-    <lastmod>2026-09-24T12:00:00+00:00</lastmod>
+    <lastmod>2026-09-26T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0000</priority>
   </url>
 
   <url>
     <loc>https://pseudoscience.earth/PseudoScienceSpeelgoed.html</loc>
-    <lastmod>2026-09-24T12:00:00+00:00</lastmod>
+    <lastmod>2026-09-26T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9000</priority>
   </url>
@@ -21,6 +21,13 @@
     <lastmod>2026-08-20T14:18:17+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/Science/The%20Echo%20of%20Origin.html</loc>
+    <lastmod>2026-09-23T14:57:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7000</priority>
   </url>
 
   <url>

@@ -7,12 +7,21 @@
     <description>An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.</description>
     <language>en</language>
     <copyright>ScepraX</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://pseudoscience.earth/image.png</url>
       <title>Pseudoscience Speelgoed</title>
       <link>https://pseudoscience.earth/</link>
     </image>
+
+    <item>
+      <title>The Echo of Origin: A PseudoScience Speelgoed Analysis of Locational Taste Enhancement</title>
+      <link>https://pseudoscience.earth/Science/The%20Echo%20of%20Origin.html</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Science/The%20Echo%20of%20Origin.html</guid>
+      <pubDate>Wed, 23 Sep 2026 14:57:00 +0200</pubDate>
+      <category>Science</category>
+      <description>Why does cheese from the Netherlands lose its taste when taken to France? An application of the PseudoScience Speelgoed to why food tastes better in its region of origin.</description>
+    </item>
 
     <item>
       <title>The Thermodynamic Octaaf</title>
@@ -63,7 +72,7 @@
       <title>PseudoScience Speelgoed — The Full Text</title>
       <link>https://pseudoscience.earth/PseudoScienceSpeelgoed.html</link>
       <guid isPermaLink="true">https://pseudoscience.earth/PseudoScienceSpeelgoed.html</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0200</pubDate>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0200</pubDate>
       <category>Framework</category>
       <description>The complete PseudoScience Speelgoed as a single document: a self-contained formal modeling system for relationships, cognition, and change, built from the primitives Eigen, Echo, Trouw, Drempel, and Vonk.</description>
     </item>
@@ -72,7 +81,7 @@
       <title>Pseudoscience Speelgoed: A Relational Framework &amp; AI Oracle</title>
       <link>https://pseudoscience.earth/</link>
       <guid isPermaLink="true">https://pseudoscience.earth/</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 +0200</pubDate>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0200</pubDate>
       <category>Framework</category>
       <description>An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.</description>
     </item>
