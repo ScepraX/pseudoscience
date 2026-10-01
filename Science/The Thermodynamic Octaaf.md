@@ -55,7 +55,7 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 | ν₀ | Attempt frequency (Eyring: k_BT/h) | Identity | §2.2 |
 | Drempel potential V(φ; B) (§VIII.3) | Landau free energy of a continuous transition | Identity | §2.3 |
 | Vonk Energie, T_q = ¼(B − θ)² | Condensation free energy (not latent heat) | Identity | §2.3 |
-| Marge η (Lexicon) | Metastable range of a first-order transition | Constraint | §2.3 |
+| Marge η (Lexicon) | Width of the metastable range; narrowing to nothing at a continuous transition | Constraint | §2.3 |
 | Telraam 🧾 (Lexicon; §VIII.7) | First law | Identity | §2.4 |
 | The Van Motor's exhaust (§III) | Second law: Verlies delivered to the Medium as heat | Correspondence | §2.4 |
 | Energy equivalence (§III) | Detailed balance; driven steady state | Identity / Correspondence | §2.5 |
@@ -172,10 +172,10 @@ Set b = 1 and **B − θ = a·(T_c − T)**, and the two are the same. Binding r
 
 **Latent heat belongs to the Marge.** In the Speelgoed, **Marge (η)** is "the dead band around a Drempel that prevents flickering crossings". At this Octaaf both halves of that definition have a physical meaning:
 
-- **The flicker is real.** At a continuous transition with no Marge, fluctuations of the order parameter grow without limit as the Drempel approaches, and the system chatters between modes on every length scale. This can be seen as *critical opalescence*: a fluid near its critical point turns milky because its density flickers at the wavelengths of visible light (Stanley, 1971).
-- **A Marge requires a first-order transition.** Hysteresis exists only when the potential has two competing minima, which requires a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the Marge. Pure water in small droplets can be supercooled to about −38 °C before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
+- **The flicker is real.** At a continuous transition the Marge has narrowed to nothing, and fluctuations of the order parameter grow without limit as the Drempel approaches, and the system chatters between modes on every length scale. This can be seen as *critical opalescence*: a fluid near its critical point turns milky because its density flickers at the wavelengths of visible light (Stanley, 1971).
+- **A wide Marge is a first-order transition.** In physics, measurable hysteresis appears when the potential has a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the width of the Marge. Pure water in small droplets can be supercooled to about −38 °C before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
 
-So at this Octaaf, **a Drempel without a Marge flickers and pays out slowly, and a Drempel with a Marge holds, then pays out all at once.** **Grade: Constraint.**
+So at this Octaaf, **as a Drempel's Marge narrows toward nothing, it flickers and pays out slowly; where its Marge is wide, it holds, then pays out all at once.** **Grade: Constraint.**
 
 *Example.* Water supercooled to −10 °C and then disturbed does not freeze solid. The latent heat of the Vonk is absorbed by the water's own Inhoud until the water is back at its Drempel, 0 °C. By then only about one eighth has frozen (4.2 J/g·K × 10 K ÷ 334 J/g). The Vonk is capped by Inhoud. This is the comparison §VIII.5 makes, in a case where nothing overflows.
 
@@ -343,7 +343,7 @@ This section records where the Speelgoed met resistance at this Octaaf and what 
 
 1. **Gewenning and Leersnelheid.** §VIII.1 lets Trouw relax toward Gewenning, dy/dt = ρ·(Z − y). Thermodynamics has no general law for a coupling that strengthens with use. Annealing, sintering, and the aging of glasses are candidates, but none of them is universal.
 2. **Two Doods.** §VI describes Dood as a closing rate that drops to zero. §VIII.4 describes it as a stable offset held by a drive. At this Octaaf these are two different states: a *glass*, which is arrested with no drive, and a *steady state*, which is held by a drive (§3.2). Does the Speelgoed need both descriptions, or should one of them go?
-3. **A Marge in the potential.** On its own, the quartic potential of §VIII.3 cannot produce hysteresis. At this Octaaf a Marge requires a cubic or sixth-order term (§2.3). Should §VIII.3 gain such a term, or should the Marge remain something the Instantie adds?
+3. **The Marge in the potential.** The quartic potential of §VIII.3 is the limit in which the Marge narrows to nothing. At this Octaaf, a Marge of finite width corresponds to a cubic or sixth-order term (§2.3). Should §VIII.3 show such a term, or should the width of the Marge remain the Instantie's to set?
 4. **Mode-dependent Inhoud.** Heat capacity jumps at a continuous transition (§2.3). Should §VIII.5 let Inhoud depend on the mode, Q(φ)?
 5. **The Diepte equation.** The inflow term γ_in·y·|h| is not a heat flow (§3.7). Can it be rewritten in difference form, y·(h − e), without breaking other Octaven?
 6. **Trouw across spectra.** The Speelgoed keeps each spectrum's pull separate (§VIII.1). If it ever couples spectra, such as heat to charge, this Octaaf already constrains how. The coupling must be symmetric (Onsager), and it can be no larger than the geometric mean of each spectrum's own coefficient.
@@ -369,7 +369,7 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 
 - "The total Verlies always exceeds the total Winst" is withdrawn. It conflicts with §III, §VIII.7, and the first law (§2.4).
 - Greep as the free energy F = U − TS is replaced. A stable bound state has *low* free energy; what resists escape is the barrier, J = ΔG‡/k_BT (§2.2).
-- The Vonk as latent heat at every Drempel is corrected. At the Speelgoed's pitchfork, the Vonk is condensation energy, and latent heat belongs to a Drempel with a Marge (§2.3). Two of the earlier examples, the Curie point and the superconducting transition, are continuous transitions that release no latent heat.
+- The Vonk as latent heat at every Drempel is corrected. At the Speelgoed's pitchfork, the Vonk is condensation energy, and latent heat belongs to a Drempel whose Marge has finite width (§2.3). Two of the earlier examples, the Curie point and the superconducting transition, are continuous transitions that release no latent heat.
 - Diepte as heat capacity is moved. Heat capacity is Inhoud (§3.3), and Diepte is stored internal energy (§3.7).
 - Rouw written as ΔQ = TΔS is corrected to the Clausius inequality (§3.6).
 - The examples of Creatie (crystal growth) and of the Zelf (a cooling cup) are replaced (§3.4, §3.8).
