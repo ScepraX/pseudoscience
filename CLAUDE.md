@@ -13,7 +13,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 | `PseudoScienceSpeelgoed.md` | The canonical Speelgoed text. |
 | `index.html` | The site. It holds the Speelgoed **twice**: as rendered HTML, and as raw Markdown inside `<script id="Speelgoed-source" type="application/json">`, which the Oracle in `scripts.js` reads. The Oracle copy is a **deliberate subset**: it ends after Section XV. Do not add XVI–XVII or other material to it. Within the sections it contains, keep it identical to the `.md`. It also holds `oracle-prompt`, JSON-LD dates, and `article:modified_time`. |
 | `scripts.js`, `styles.css` | Site and Oracle code. |
-| `Science/` | The Octaaf documents (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological), the applied essay *The Echo of Origin*, and the MHD paper (`.txt`). |
+| `Science/` | The Octaaf documents (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological, Cellular), the applied essay *The Echo of Origin*, and the MHD paper (`.txt`). |
 | `PseudoScienceSpeelgoed - Newcomer's Guide.md` | Plain-language introduction. |
 | `Diagrams/` | SVG diagrams linked from the site. |
 | `feed.xml`, `sitemap.xml` | RSS feed and sitemap. |
@@ -38,7 +38,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 ## Octaaf documents
 
-**Structure.** Follow the existing ones (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological):
+**Structure.** Follow the existing ones (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological, Cellular):
 
 - `# The X Octaaf`, a byline, and an italic status line.
 - `## 0. Preface`:

@@ -579,6 +579,8 @@ T = V(0; B) − V(φ*; B) = ¼·(B − θ)²
 
 This is the **Vonk (q)**, releasing **Energie (T)**: fired automatically the instant B crosses θ, purely as a consequence of the potential’s shape, with no separate rule needed to trigger it. A convergence crossing records a **Winst (+)** (+T); a divergence crossing records a **Verlies (−)** (−T). The energy audit never misses.
 
+This symmetric form is one Koppel seen alone, and no Koppel occurs alone. A whole is built from every member’s own Vol/Leeg lean and every Koppel’s shared Trouw, so its modes are never mirror images, the way into a mode is never the way out, and that difference, however close to the Drempel, is its **Marge (η)**.
+
 ---
 
 ### VIII.4. Reciprocation trajectories
