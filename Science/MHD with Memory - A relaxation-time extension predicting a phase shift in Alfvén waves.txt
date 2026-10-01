@@ -1,267 +1,313 @@
-﻿MHD with Memory: A relaxation-time extension predicting a phase shift in Alfvén waves
+MHD with Memory: A relaxation-time extension predicting a phase shift in Alfvén waves
 By M.J.A. Knippenberg (ScepraX)
 Independent Researcher
-7 August 2026 (revised 12 August 2026)
+7 August 2026 (revised 12 August 2026; revised 1 October 2026)
 
 Abstract
 
-Standard resistive magnetohydrodynamics (MHD) assumes a local, instantaneous Ohm's
-law. In weakly collisional plasmas, however, the current density cannot adjust
-immediately to changes in the electric field; a finite relaxation time is expected.
-We propose the simplest possible memory extension, replacing Ohm's law with a causal
-Maxwell-Cattaneo-type constitutive relation characterised by a single relaxation
-time τ. The modified induction equation includes a second-order time derivative.
-For parallel-propagating Alfvén waves this leads to a frequency-dependent
-resistivity and a testable phase shift between velocity and magnetic field
-perturbations. We derive the exact phase shift from the dispersion relation and
-show that for the memory-only case it is negative (velocity lags behind magnetic
-field) with magnitude approximately ωτ/2 in the low-frequency limit. The phase
-shift is not a damping but a reactive lag, arising from the finite relaxation
-time in the constitutive response. We provide a physical closure for τ based on
-the turbulent correlation time and estimate that the effect is observable with
-current solar telescopes such as DKIST. The model is deliberately minimal – it
-isolates electromagnetic memory and treats momentum transport as standard MHD –
-making it a clean, falsifiable extension of the existing framework.
+Standard resistive magnetohydrodynamics (MHD) assumes an instantaneous Ohm's law. We
+ask what a finite relaxation time τ - a memory - in the electromagnetic response
+does to Alfvén waves, and whether its effects are visible in current solar data.
+There are two physically consistent places for the memory. Microscopically, a
+relaxing current gives the electron-inertia term of the generalised Ohm's law, whose
+effect on coronal Alfvén waves is of relative order (k d_e)² ~ 10⁻¹⁶ and therefore
+negligible. At the mean-field level, the turbulent electromotive force relaxes
+toward its diffusive value over the turbulent correlation time, as in the τ-approach
+of mean-field theory. For parallel Alfvén waves this gives frequency-dependent
+("non-Fickian") turbulent resistivity and viscosity, η_t/(1 - iωτ) and
+ν_t/(1 - iωτ). The waves are always damped. The damping rate grows as ω² at low
+frequency and saturates above ω ≈ 1/τ. The velocity and magnetic perturbations
+acquire a phase shift δφ = (η_t - ν_t) ω / [2 v_A² (1 + ω²τ²)], with the velocity
+lagging when η_t > ν_t, peaking at ωτ = 1. With the closure η_t ≈ ν_t ≈ u²τ/3 and
+parameters from recent DKIST/Cryo-NIRSP observations, the peak phase shift is at
+most about 0.1° × (1 - Pm_t), and the turbulent damping is weaker than the observed
+damping of coronal kink waves by a factor of at least about four. The memory effect
+is consistent with present solar data but not detectable in it. An earlier version
+of this paper placed the memory on the electric field itself. That form is not
+passive (it produces growing waves), and its prediction of a phase shift of tens of
+degrees observable with DKIST is withdrawn.
 
 1. Introduction
 
-In standard resistive MHD the electric field is given by E = -v×B + η J. The
-scalar resistivity η encodes all dissipative processes and is assumed to react
-instantaneously to the local current density. While this approximation is adequate
-for many laboratory and space plasmas, it neglects the finite time required for
-the particle distribution function to relax toward a Maxwellian. In collisionless
-or weakly collisional regimes – such as the solar corona, the solar wind, and
-many astrophysical plasmas – kinetic effects, turbulence, and finite correlation
-times introduce memory into the electromagnetic response.
+In standard resistive MHD the electric field is E = -v×B + η J: it responds
+instantly to the current. In weakly collisional and turbulent plasmas, such as the
+solar corona and the solar wind, the response takes time. The questions are where a
+memory can enter consistently, how large its effects are, and whether current solar
+observations can see them.
 
-The simplest way to incorporate a finite memory is to replace the instantaneous
-relation with a causal convolution,
+The first version of this paper wrote
 
-    E(t) = η₀ ∫₀^∞ K(s) J(t-s) ds,
+    E + τ ∂_t E = -v×B + η₀ J.   (1')
 
-where K(s) is a normalised kernel. The choice of an exponential kernel,
-K(s) = (1/τ) e^(-s/τ), corresponds to a single dominant relaxation time and
-leads to the well-known Maxwell-Cattaneo equation
+This makes the electric field a delayed response to the current. Two problems
+follow. It reverses the physical statement it was meant to express, namely that the
+current cannot adjust instantly to the field. And it is not passive: for η₀ = 0 it
+produces growing Alfvén waves, Im ω = +τΩ²/2, with energy that no source supplies. A
+relaxation must damp, never amplify. This revision replaces (1') with the two forms
+that are consistent, works out their consequences for Alfvén waves, and compares
+them with recent solar data.
 
-    E + τ ∂_t E = -v×B + η₀ J.   (1)
+2. Two consistent places for memory
 
-Such a form is the natural outcome of a linear closure with constant collision
-frequency and can be motivated by the Grad moment expansion or by coarse-graining
-kinetic equations over a finite response time. While memory effects have been
-studied extensively for heat flux, their systematic application to the
-electromagnetic constitutive relation remains underexplored. This work deliberately
-isolates the electromagnetic memory channel; momentum and heat transport are kept
-at the standard MHD level so that any observational signature can be
-unambiguously attributed to the modification of Ohm's law.
+2.1 Microscopic memory: a relaxing current
 
-2. Generalised induction equation
+If the current relaxes toward its Ohmic value, as in the Drude model of conduction,
+τ_e ∂_t J + J = σ (E + v×B), then
 
-Taking the curl of (1) and using Faraday's law ∇×E = -∂_t B together with
-Ampère's law J = μ₀⁻¹ ∇×B (neglecting the displacement current) yields
+    E + v×B = η J + η τ_e ∂_t J.   (1)
 
-    -∂_t B - τ ∂_t² B = -∇×(v×B) + (η₀/μ₀) ∇×(∇×B).
+The memory term is the electron-inertia term of the generalised Ohm's law, since η
+τ_e = m_e/(n e²) = μ₀ d_e², where d_e = c/ω_pe is the electron skin depth. At
+coronal densities (n ~ 10¹⁵ m⁻³), d_e ≈ 0.2 m. For Alfvén waves with wavelengths of
+tens to hundreds of megametres, the correction is of relative order
+(k d_e)² ~ 10⁻¹⁶. Microscopic memory is real but irrelevant at observable scales.
 
-Multiplying by -1 and using the vector identity ∇×(∇×B) = -∇²B for a
-divergence-free field gives the induction equation with memory:
+2.2 Mean-field memory: a relaxing turbulent EMF
 
-    ∂_t B + τ ∂_t² B = ∇×(v×B) + (η₀/μ₀) ∇²B.   (2)
+The relaxation time the first version actually used (Section 6) is the turbulent
+correlation time, not a collision time. That points to mean-field MHD. When the
+fields are split into mean and fluctuating parts, the mean induction equation
+contains the turbulent electromotive force ℰ = ⟨u'×b'⟩. In the τ-approach (Blackman
+& Field 2002; Brandenburg, Käpylä & Mohammed 2004), ℰ does not respond instantly but
+relaxes toward its diffusive value over the correlation time τ:
 
-In the limit τ → 0 this reduces to the standard resistive induction equation;
-for η₀ → 0 it describes a purely reactive, non-dissipative memory channel.
+    τ ∂_t ℰ + ℰ = -η_t μ₀ J,   (2)
+
+and the turbulent stress relaxes in the same way toward its viscous value, with
+turbulent viscosity ν_t. Here η_t is the turbulent magnetic diffusivity. Mean
+advection (V×B) stays instantaneous; only the turbulent part carries memory, so the
+model is frame-consistent and passive. Memory effects of this kind have been
+demonstrated in simulations of turbulent transport (Hubbard & Brandenburg 2009). For
+ωτ ≪ 1, (2) reduces to ordinary (Fickian) turbulent diffusion; for ωτ ≳ 1 it is
+non-Fickian. The rest of the paper uses this model.
 
 3. Linearised equations for parallel Alfvén waves
 
-We consider a uniform equilibrium with B₀ = B₀ ẑ, v₀ = 0, constant density ρ₀,
-and wave propagation parallel to the background field, k = k ẑ. Perturbations are
-taken proportional to exp[i(kz - ωt)]. The linearised continuity equation gives
-ρ₁ in terms of v_z, but for the Alfvén mode the dynamics is transverse and
-decouples from compression. We therefore write the equations for the x-components
-of the velocity and magnetic field perturbations, v ≡ v_x and b ≡ b_x.
+We take a uniform background field B₀ = B₀ ẑ, density ρ₀, no mean flow, and
+propagation along the field, k = k ẑ. Perturbations are proportional to
+exp[i(kz - ωt)], and we write v ≡ v_x, b ≡ b_x. In Fourier space, (2) and its
+viscous counterpart give effective coefficients
 
-Momentum equation (ideal, no viscous terms):
+    η̃ = η_t/(1 - iωτ),   ν̃ = ν_t/(1 - iωτ).   (3)
 
-    -iωρ₀ v = (ik B₀/μ₀) b  ⇒  v = -(k B₀/(μ₀ρ₀ ω)) b = -(k v_A²/(B₀ ω)) b,   (3)
+Momentum:
 
-where v_A² = B₀²/(μ₀ρ₀) is the Alfvén speed.
+    -iω v = (ik B₀/(μ₀ρ₀)) b - ν̃ k² v.   (4)
 
-Induction equation from (2):
+Induction:
 
-    -iω b - τ ω² b = ik B₀ v + (η₀/μ₀)(-k²) b.
+    -iω b = ik B₀ v - η̃ k² b.   (5)
 
-Rearranging,
+4. Dispersion relation and damping
 
-    -iω(1 - iωτ) b = ik B₀ v - (η₀/μ₀) k² b.   (4)
+Eliminating v gives
 
-4. Dispersion relation
+    (ω + i ν̃ k²)(ω + i η̃ k²) = k² v_A²,   v_A² = B₀²/(μ₀ρ₀).   (6)
 
-Substituting the velocity from (3) into (4) gives a single equation for b:
+For τ → 0 this is the familiar visco-resistive Alfvén dispersion relation. For weak
+diffusion, writing Ω = k v_A (Appendix A),
 
-    -iω(1 - iωτ) b = ik B₀ (-k v_A²/(B₀ ω)) b - (η₀/μ₀) k² b
-                    = -i (k² v_A²/ω) b - (η₀/μ₀) k² b.
+    ω ≈ Ω + (η_t + ν_t) Ω² (Ωτ - i) / [2 v_A² (1 + Ω²τ²)].   (7)
 
-Multiplying by i and then by ω leads to
+The damping rate is
 
-    ω² (1 - iωτ) = v_A² k² - iω (η₀/μ₀) k².   (5)
+    γ = -Im ω = (η_t + ν_t) Ω² / [2 v_A² (1 + Ω²τ²)] > 0.   (8)
 
-Equation (5) is the exact dispersion relation. For τ → 0 it reduces to the
-familiar resistive Alfvén dispersion ω² = v_A² k² - iω η₀ k²/μ₀.
+The waves are always damped; there is no growing mode. At low frequency (Ωτ ≪ 1),
+γ ∝ Ω², the Fickian result. Above Ωτ ≈ 1, γ saturates at (η_t + ν_t)/(2 v_A² τ²):
+high-frequency waves are damped less than ordinary turbulent diffusion would
+predict. This saturation is the cleanest signature of the memory.
+
+For propagating waves the amplitude damping length is L_D = v_A/γ. Observers often
+quote the equilibrium parameter ξ_E = L_D/(v_ph P), the number of wave periods over
+which the amplitude falls by a factor e (Verth, Goossens & Terradas 2010). For this
+model, with v_ph ≈ v_A,
+
+    ξ_E = v_A² (1 + Ω²τ²) / [π (η_t + ν_t) Ω].   (9)
+
+The damping length scales with period as P² at low frequency and becomes independent
+of P at high frequency. Its local slope is d ln L_D / d ln P = 2/(1 + Ω²τ²), which
+passes through 1 at Ωτ = 1.
 
 5. Phase shift between velocity and magnetic field
 
-The ratio v/b is given directly by the momentum equation (3),
+From (4),
 
-    v/b = -(k v_A²)/(B₀ ω).   (6)
+    v/b = -(k v_A²/B₀) / (ω + i ν̃ k²).   (10)
 
-Since the prefactor is real and positive, the phase difference φ between v and b
-is determined solely by the argument of -1/ω:
+For an undamped wave, v and b are in anti-phase. We define the phase shift relative
+to anti-phase, δφ = arg(v/b) - π. With the convention exp(-iωt), a delayed copy of a
+signal carries the factor exp(+iωΔt), so a positive δφ means that v lags b.
 
-    φ = arg(v/b) = arg(-1/ω) = π - arg(ω).   (7)
+To first order in the diffusivities (Appendix A),
 
-Thus, to find φ we need the complex frequency ω that satisfies (5). The phase
-shift relative to the ideal anti-phase (π) is
+    δφ ≈ (η_t - ν_t) Ω / [2 v_A² (1 + Ω²τ²)].   (11)
 
-    δφ = φ - π = -arg(ω).   (8)
+Three features follow.
 
-For the memory-only case (η₀ = 0), (5) becomes ω²(1 - iωτ) = v_A² k². Let
-Ω = v_A k. For small τ, writing ω = Ω + δω and expanding to first order gives
+- The phase shift measures the difference between turbulent resistivity and
+  viscosity, not their sum. If η_t = ν_t
+  (turbulent magnetic Prandtl number Pm_t = ν_t/η_t = 1), v and b stay exactly in
+  anti-phase and the wave remains a pure Elsasser mode.
+- The velocity lags when η_t > ν_t and leads when ν_t > η_t.
+- The memory makes δφ rise linearly with Ω, peak at Ωτ = 1, and fall at higher
+  frequency. The peak value is
 
-    Ω²(1 - iτΩ) + 2Ωδω(1 - iτΩ) ≈ Ω²,
+    δφ_max = (η_t - ν_t) / (4 v_A² τ).   (12)
 
-so δω = iτΩ²/2. Therefore
+A general point also follows from (10). In any model whose momentum equation is
+ideal (ν̃ = 0), δφ = -arg ω exactly, which to first order equals γ/Ω. The phase
+shift is then fixed entirely by the damping rate. It cannot be a reactive lag that
+is independent of damping, as the first version of this paper claimed.
 
-    ω ≈ Ω + i τΩ²/2,   (9)
+6. Closure
 
-which has a positive imaginary part. With the convention e^{-iωt}, this
-corresponds to growth in time, not damping. The argument of ω is then
+As in the first version, the correlation time is set by the decorrelation of the
+energy-containing eddies: τ ≈ L/v_A for low plasma β, with v_A replaced by the fast
+speed v_A √(1 + β/2) at finite β (isothermal). For the turbulent coefficients we use
+the standard estimate η_t ≈ u²τ/3, where u is the rms turbulent velocity (Krause &
+Rädler 1980), with ν_t of the same order; simulations find turbulent magnetic
+Prandtl numbers of order unity (Yousef, Brandenburg & Rüdiger 2003). Then
 
-    arg(ω) ≈ arctan( (τΩ²/2) / Ω ) = arctan(τΩ/2).
+    δφ_max ≈ (1 - Pm_t) (u/v_A)² / 12,   (13)
 
-Thus, from (8),
+    ξ_E,min ≈ (3/π) (v_A/u)²   (at Ωτ = 1, with Pm_t = 1).   (14)
 
-    δφ ≈ -arctan(τΩ/2) ≈ -τΩ/2   for τΩ << 1.   (10)
+The model has two measurable inputs: the correlation length L, which sets τ, and the
+turbulent velocity u, which sets η_t and ν_t.
 
-The velocity therefore lags behind the magnetic field by a small phase shift that
-scales as -τΩ/2. This is the reactive lag introduced by the finite relaxation
-time. For the general case with finite resistivity, the phase shift can be
-obtained numerically from (5). For typical coronal parameters where the resistive
-term is small compared to the memory term, the phase shift remains negative and
-of order -ωτ/2.
+7. Comparison with solar data
 
-Important note: The phase shift is not a damping; it is a reactive lag. The
-positive imaginary part of ω in the memory-only case indicates that the memory
-term introduces a growing mode, not a damped one. This is a consequence of the
-sign convention and the chosen constitutive relation. It means that the model
-predicts a specific phase signature that can be tested independently of whether
-the wave grows or damps. In the presence of finite resistivity, the net growth
-rate becomes γ = τΩ²/2 - η₀ k²/(2μ₀), and for typical coronal parameters the
-resistive term may dominate, leading to net damping.
+7.1 Coronal parameters
 
-6. Physical closure for the relaxation time
+DKIST/Cryo-NIRSP observations of the off-limb corona at 1 s cadence show Alfvénic
+Doppler-velocity fluctuations with typical amplitudes of 15-30 km/s at 0.1 R☉ above
+the limb, in a medium with Alfvén speeds of 200-1000 km/s in the quiet Sun and
+coronal holes. The Doppler-velocity power spectrum follows a power law (≈ f^-1.58)
+that extends to about 60 mHz (Morton et al. 2025). Taking L ~ 10⁴ km gives τ ≈ 10-50
+s and a memory frequency f_τ = 1/(2πτ) ≈ 3-16 mHz, inside the observed band. Two
+cases bracket the parameters:
 
-The memory time τ must be supplied by the microphysics. In a turbulent plasma
-the natural time scale for the decorrelation of the largest eddies is the Alfvén
-crossing time over the energy-containing scale L. When the plasma beta,
-β = 2μ₀ p₀/B₀², is non-negligible, the fastest waves are magnetosonic, and the
-relevant propagation speed is v_fast = v_A √(1 + β/2) (for an isothermal equation
-of state). To keep the closure simple we approximate
+    Case                    v_A         u         τ      f_τ        (u/v_A)²    δφ_max               ξ_E,min
+    Typical, high v_A       1000 km/s   15 km/s   10 s   16 mHz     2.3×10⁻⁴    0.001° × (1-Pm_t)    ≈ 4200
+    Favourable quiet Sun    200 km/s    30 km/s   50 s   3.2 mHz    2.3×10⁻²    0.11° × (1-Pm_t)     ≈ 42
 
-    τ = L / (v_A √(1 + β)).   (11)
+The Doppler amplitudes include the waves themselves, not only the small-scale
+turbulence that sets η_t and ν_t, so using them for u overestimates the effects. The
+table gives upper bounds.
 
-This is a hypothesis, not a derivation; the factor √(1+β) serves as a reasonable
-interpolation and can be refined for specific geometries. The important point is
-that τ is expressed entirely in terms of measurable, macroscopic quantities –
-the correlation length L (e.g. from power spectra of magnetic fluctuations), the
-Alfvén speed, and the plasma beta – making the model overconstrained and
-falsifiable.
+7.2 The phase shift is not observable
 
-7. Observability with DKIST
+Even in the favourable case δφ_max ≲ 0.1°, and it vanishes if Pm_t ≈ 1. Measuring it
+would also require the magnetic perturbation b on wave timescales. DKIST has
+produced the first Zeeman maps of the off-limb coronal field, with line-of-sight
+strengths of 10-30 G, but each map took more than an hour to build (Schad et al.
+2024). The wave field δb ≈ (u/v_A) B is about 0.15-4.5 G, and following it at a
+cadence of seconds to minutes is not yet possible. The first version's claim that a
+phase shift of about 0.5 rad would be "well within the sensitivity of DKIST" is
+withdrawn.
 
-In the quiet solar corona typical numbers are L ~ 10⁴ km, v_A ~ 10³ km/s,
-β ~ 0.1, giving τ ≈ 10 s. The phase shift predicted by (10) then has magnitude
-|δφ| ≈ ωτ/2. At a period T = 2π/ω, the maximum lag occurs when ωτ ~ 1, giving
-|δφ| ≈ 0.5 rad ≈ 29°. This is a substantial phase shift, well within the
-sensitivity of DKIST.
+7.3 The damping is real but subdominant
 
-The predicted time lag between the velocity and magnetic field signals is
+The observed damping of propagating kink waves, measured with CoMP from the ratio of
+outward to inward wave power, corresponds to ξ_E ≈ 2.7 in an active region (Verth,
+Goossens & Terradas 2010) and to a median of 11 (mean 24, range 0.9-298) in the
+quiescent corona (Morton et al. 2021). The model gives ξ_E ≥ 42 in the favourable
+case and ≥ 4200 in the typical case. Turbulent damping with memory therefore
+supplies at most about a quarter of the median quiescent damping, and typically well
+under one percent. The observed damping length is close to proportional to 1/f, as
+resonant absorption predicts (Verth, Goossens & Terradas 2010). In the CoMP band
+(below about 8 mHz) the model's local slope ranges from about 2 in the typical case
+down through 1 near f_τ ≈ 3 mHz in the favourable case, so the shape of the
+frequency dependence alone does not exclude it; its magnitude does. It cannot be the
+main damping mechanism, and nothing in present data requires it. Its saturation at
+high frequency points in the same direction as DKIST's finding that wave power
+persists to tens of mHz, but its magnitude is far too small to matter for that
+result.
 
-    δt = |δφ|/ω ≈ τ/2   at ωτ << 1.
+7.4 In situ data
 
-At the peak of the phase shift (where the reactive lag is largest), the lag is
-on the order of τ/2. This is a clean, testable signature.
+Parker Solar Probe measures v and b directly and at high cadence. Near the Sun the
+fluctuations are highly Alfvénic, with high normalised cross helicity, and the
+residual energy is persistently negative, a magnetic excess (Chen et al. 2020). The
+model does not produce a magnetic excess at first order, because |v/b| is unchanged
+to that order. Near the Sun δb/B ~ 1 (Bale et al. 2019; Kasper et al. 2019), so
+(u/v_A)² ~ 1 and (13) would allow a phase shift of a few degrees. But there the
+waves and the turbulence occupy the same scales, the scale separation that
+mean-field theory assumes fails, and the model does not apply.
 
-8. Comparison with other models
+8. What would test it
 
-The phase behaviour for standard MHD extensions is summarised below.
+- In simulations: test-field measurements of η_t(ω) and ν_t(ω) in driven MHD
+  turbulence with a guide field can measure the memory directly, including the
+  turbulent magnetic Prandtl number that controls the sign and size of the phase
+  shift (Hubbard & Brandenburg 2009 for the method).
+- On the Sun: the outward-to-inward power-ratio method, applied to DKIST's 1 s
+  Doppler data up to about 60 mHz in quiet regions with low Alfvén speed, could look
+  for a departure from resonant-absorption scaling near f_τ. The expected
+  contribution is at most a few tens of percent of the damping and probably much
+  less. This would be a hard measurement, not a clean test.
 
-Ideal MHD: φ = 0 (no lag).
-Resistive MHD (constant η): For weak resistivity, the phase shift is positive
-(velocity leads) with δφ ≈ +η k²/(2μ₀ ω) for small η; in the strongly resistive
-limit the phase approaches π/2, but the sign and magnitude depend on the damping
-regime.
-Hall MHD: φ ∝ ω (sign depends on k·B₀), linear and direction-dependent.
-Extended MHD (ω² terms): φ ∝ ω³, cubic.
-This work: φ = -arg(ω) from (5), which for small ωτ gives -ωτ/2 (reactive lag).
+9. Changes from the first version
 
-The memory-induced phase shift has a distinct sign (negative, i.e. velocity lags
-magnetic field) and a specific frequency dependence that differs from resistive,
-Hall, and extended MHD. In the presence of finite resistivity, the phase shift is
-a combination of both terms, but the memory term dominates when
-ωτ >> η₀ k²/(μ₀ ω).
+- Constitutive relation: memory on the electric field (not passive; growing waves)
+  is replaced by memory on the turbulent EMF (passive; always damped).
+- Sign: the first version stated that the velocity lags. Under its own exp(-iωt)
+  convention, its negative δφ meant that the velocity leads. In this version the
+  velocity lags when η_t > ν_t.
+- Size: the first version gave |δφ| ≈ 0.5 rad at ωτ ≈ 1, using the small-ωτ formula
+  outside its range. Its own exact dispersion relation gives about 0.29 rad (16°) at
+  ωτ = 1, approaching 30° only as ωτ → ∞, with no maximum. The consistent model
+  gives δφ_max ≲ 0.002 rad.
+- Peak: the first version's expectation that the effect peaks near ωτ ≈ 1 does hold
+  in the consistent model, for the phase shift (12).
+- Comparison models: ideal Hall MHD leaves the momentum equation unchanged, so for
+  real ω it gives no v-b phase shift. The first version's "φ ∝ ω" for Hall MHD and
+  "φ ∝ ω³" for extended MHD were not derived and are removed. Resistive MHD gives
+  δφ = +η k²/(2Ω), so the velocity lags.
+- Observability: the DKIST claim is withdrawn (Section 7.2).
+- References: an unused reference that could not be verified has been removed, and
+  the mean-field, simulation and observational literature has been added.
 
-9. Limitations
+10. Limitations
 
-- The exponential kernel is a choice, albeit the simplest causal one. A spectrum
-  of relaxation times would produce power-law tails.
-- We assume a Markovian relaxation; a more complete treatment would couple the
-  electromagnetic memory to the kinetic electron response.
-- The closure (11) for τ is a dimensional estimate. A rigorous derivation from
-  kinetic theory would replace the factor √(1+β) with a function of the
-  propagation angle and the ratio of specific heats.
-- The phase shift may be small; careful data analysis (e.g. cross-spectral
-  methods) is required to disentangle it from instrumental noise.
-- The memory term as defined leads to growth in the memory-only limit. This is
-  not a damping mechanism; it is a reactive lag. If net damping is desired, the
-  resistive term must provide it; in typical coronal parameters, the resistive
-  term may indeed dominate the growth.
+- A single exponential memory (one τ) is the simplest choice. A spectrum of
+  correlation times would change the high-frequency behaviour.
+- The τ-approach is a closure, not a derivation. It requires scale separation
+  between the waves and the turbulence, which is marginal in the corona and fails
+  near the Sun.
+- Only parallel propagation in a uniform medium is treated. Coronal kink waves
+  travel in structured, inhomogeneous loops where resonant absorption and phase
+  mixing dominate.
+- The estimates of u and L are order-of-magnitude.
 
-Despite these caveats, the model is mathematically self-consistent, contains a
-single free parameter that can be measured independently, and makes a concrete
-prediction that can be sought in existing or forthcoming data.
+11. Conclusion
 
-10. Conclusion
+A memory in the electromagnetic response can be added to MHD consistently in two
+ways. Microscopically it is electron inertia, and negligible for observable waves.
+At the mean-field level it is the τ-approach to turbulent transport: Alfvén waves
+are always damped, the turbulent damping saturates above ω ≈ 1/τ, and the velocity
+and magnetic perturbations acquire a phase shift, set by η_t - ν_t, that peaks at
+ωτ = 1. With parameters from the latest DKIST and CoMP observations, the phase shift
+is at most about 0.1°, and the turbulent damping is at most a minor part of the
+observed wave damping. The model is consistent with current solar data, but current
+solar data cannot detect it. The earlier prediction of a large, DKIST-observable
+phase shift does not survive.
 
-We have presented a minimal, memory-extended resistive MHD where the constitutive
-relation between E and J carries a single relaxation time τ. The resulting
-induction equation acquires a second-order time derivative, leading to a
-frequency-dependent effective resistivity. For parallel Alfvén waves this produces
-a reactive phase shift that scales as -ωτ/2 in the low-frequency limit, with the
-velocity lagging behind the magnetic field. The corresponding time lag is of
-order τ/2, a clean signature well within the reach of current solar observations.
-Because the memory time can be estimated from independent turbulence measurements,
-the model is falsifiable: either the predicted lag is observed, or the relaxation
-time is shorter than current instruments can resolve. In either case, we learn
-something about the electromagnetic response of collisionless plasmas.
+Appendix A: First-order solution
 
-Appendix A: Derivation of the phase shift
+1. Write (6) as (ω + iν̃k²)(ω + iη̃k²) = Ω², with Ω = k v_A.
 
-We outline the steps leading from the exact dispersion relation (5) to the phase
-shift (10).
+2. Put ω = Ω + δω and keep terms of first order in η_t and ν_t: 2Ω δω + iΩ (ν̃ + η̃)
+   k² = 0, so δω = -i (ν̃ + η̃) k²/2, with ν̃ and η̃ evaluated at ω = Ω.
 
-1. Write the dispersion relation as
-   ω²(1 - iωτ) = v_A² k² - iω (η₀/μ₀) k².
+3. Use 1/(1 - iΩτ) = (1 + iΩτ)/(1 + Ω²τ²). Then δω = (η_t + ν_t) k²
+   (Ωτ - i) / [2 (1 + Ω²τ²)], which is (7) with k² = Ω²/v_A².
 
-2. For the memory-only case η₀ = 0, this reduces to ω²(1 - iωτ) = v_A² k².
-
-3. Let Ω = v_A k. For small τ, write ω = Ω + δω. Expanding to first order in τ
-   gives Ω²(1 - iτΩ) + 2Ωδω(1 - iτΩ) = Ω², so δω = iτΩ²/2.
-   Thus ω ≈ Ω + iτΩ²/2, so arg(ω) ≈ arctan(τΩ/2).
-
-4. From (8), the phase deviation from ideal anti-phase is
-   δφ = -arg(ω) ≈ -arctan(τΩ/2) ≈ -τΩ/2 for τΩ << 1.
-
-5. For the general case with finite resistivity, the phase shift is obtained by
-   solving (5) numerically for ω and then applying (8). The result is a
-   combination of the memory-induced lag and the resistive phase shift.
+4. For the phase, the imaginary part of ω + iν̃k² is -(η_t + ν_t)
+   k²/[2 (1 + Ω²τ²)] + ν_t k²/(1 + Ω²τ²) = (ν_t - η_t) k²/[2 (1 + Ω²τ²)]. Its
+   argument is therefore (ν_t - η_t) k²/[2Ω (1 + Ω²τ²)], and from (10),
+   δφ = -arg(ω + iν̃k²), which gives (11).
 
 References (categorised)
 
@@ -270,21 +316,52 @@ MHD fundamentals
 - Priest, E. R., Solar Magnetohydrodynamics, Reidel, 1982.
 
 Relaxation and memory
-- Cattaneo, C., Sulla conduzione del calore, Atti Sem. Mat. Fis. Univ. Modena,
-  3, 83-101, 1948.
+- Cattaneo, C., Sulla conduzione del calore, Atti Sem. Mat. Fis. Univ. Modena, 3,
+  83-101, 1948.
 - Joseph, D. D. & Preziosi, L., Heat waves, Rev. Mod. Phys. 61, 41-73, 1989.
 
-Extended MHD and kinetic closures
+Mean-field theory and turbulent transport
+- Blackman, E. G. & Field, G. B., New dynamical mean-field dynamo theory and closure
+  approach, Phys. Rev. Lett. 89, 265007, 2002.
+- Brandenburg, A., Käpylä, P. J. & Mohammed, A., Non-Fickian diffusion and tau
+  approximation from numerical turbulence, Phys. Fluids 16, 1020-1027, 2004.
+- Hubbard, A. & Brandenburg, A., Memory effects in turbulent transport, Astrophys.
+  J. 706, 712-726, 2009.
+- Krause, F. & Rädler, K.-H., Mean-Field Magnetohydrodynamics and Dynamo Theory,
+  Pergamon Press, 1980.
+- Yousef, T. A., Brandenburg, A. & Rüdiger, G., Turbulent magnetic Prandtl number
+  and magnetic diffusivity quenching from simulations, Astron. Astrophys. 411,
+  321-327, 2003.
+
+Kinetic plasma
 - Schekochihin, A. A. et al., Astrophysical gyrokinetics: kinetic and fluid
-  turbulent cascades in magnetized weakly collisional plasmas, Astrophys. J.
-  Suppl. 182, 310-377, 2009.
-- Huba, J. D., The Kelvin-Helmholtz instability in inhomogeneous plasmas,
-  Space Sci. Rev. 42, 197-223, 1986.
+  turbulent cascades in magnetized weakly collisional plasmas, Astrophys. J. Suppl.
+  182, 310-377, 2009.
+
+Coronal and solar-wind observations
+- Bale, S. D. et al., Highly structured slow solar wind emerging from an equatorial
+  coronal hole, Nature 576, 237-242, 2019.
+- Chen, C. H. K. et al., The evolution and role of solar wind turbulence in the
+  inner heliosphere, Astrophys. J. Suppl. 246, 53, 2020.
+- Kasper, J. C. et al., Alfvénic velocity spikes and rotational flows in the
+  near-Sun solar wind, Nature 576, 228-231, 2019.
+- Morton, R. J., Tiwari, A. K., Van Doorsselaere, T. & McLaughlin, J. A., Weak
+  damping of propagating MHD kink waves in the quiescent corona, Astrophys. J.,
+  2021, doi:10.3847/1538-4357/ac324d.
+- Morton, R. J., Molnar, M., Cranmer, S. R. & Schad, T. A., High-frequency coronal
+  Alfvénic waves observed with DKIST/Cryo-NIRSP, Astrophys. J. (accepted 2025),
+  arXiv:2501.03758.
+- Schad, T. A. et al., Mapping the Sun's coronal magnetic field using the Zeeman
+  effect, Science Advances 10, eadq1604, 2024.
+- Verth, G., Goossens, M. & Terradas, J., Observational evidence of resonantly
+  damped propagating kink waves in the solar corona, Astrophys. J. Lett. 718,
+  L102-L105, 2010.
 
 Instrumentation
 - Rimmele, T. R. et al., The Daniel K. Inouye Solar Telescope - Observatory
   overview, Solar Phys. 295, 172, 2020.
 
-Disclaimer: This work is a self-consistent formal extension, not an empirical
-derivation from first-principles kinetic theory. Its value lies in the clean,
-falsifiable signature it provides for future observations.
+Disclaimer: This work is a self-consistent formal model, not a derivation from
+first-principles kinetic theory. Its value lies in stating clearly what a memory in
+the electromagnetic response would do, how large it would be on the Sun, and why
+current observations cannot yet see it.
