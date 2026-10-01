@@ -30,6 +30,8 @@ Every mapping carries one of five grades, defined here so that they can be check
 | **Tension** | The Speelgoed as written conflicts with established thermodynamics. A repair is proposed. |
 | **Open** | Not resolved. |
 
+An **Identity** shows that the Speelgoed uses the same mathematics as the science at this Octaaf. That is a test of consistency, not evidence that the Speelgoed explains more than the science already does. Which quantity a Speelgoed term is mapped to is also a choice, and the same term may map to different quantities at different Octaven.
+
 ### 0.3 Conventions
 
 **Coarse-graining.** At this Octaaf, every smooth flow, whether heat being conducted or a reaction proceeding, is the coarse-grained traffic of very many micro‑Vonken. This is not an added assumption. §III (*Naar‑systems form and persist*) already says that a live system's spectra "keep crossing their Drempels in small ways", and that persistence is "paid for out of that ongoing traffic". Thermodynamics is what that traffic looks like when it is too dense to count.
@@ -67,7 +69,8 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 | Rouw R (§VI, §VIII.6) | Irreversible record; Landauer's bound | Correspondence + Constraint | §3.6 |
 | Diepte z (§VIII.1) | Internal energy stored above the Medium | Correspondence | §3.7 |
 | Zelf j (§IV) | Self-correlation, which fixes response (fluctuation–dissipation) | Correspondence | §3.8 |
-| Stilte, Tijd (§II; Lexicon) | Separation of timescales; intrinsic relaxation rate | Correspondence | §3.9 |
+| Stilte (§II) | Separation of timescales | Correspondence | §3.9 |
+| Tijd (Lexicon) | No mapping attempted | Open | §5 |
 | Perfectus Ω (§XI) | Equilibrium with the Medium | Correspondence | §3.10 |
 | Trinary Root (§III) | Hot source, cold sink, working medium | Correspondence | §3.11 |
 | Gewenning Z, Leersnelheid ρ (§VIII.1) | No general law | Open | §5 |
@@ -173,7 +176,7 @@ Set b = 1 and **B − θ = a·(T_c − T)**, and the two are the same. Binding r
 **Latent heat belongs to the Marge.** In the Speelgoed, **Marge (η)** is "the dead band around a Drempel that prevents flickering crossings". At this Octaaf both halves of that definition have a physical meaning:
 
 - **The flicker is real.** At a continuous transition the Marge has narrowed to nothing, and fluctuations of the order parameter grow without limit as the Drempel approaches, and the system chatters between modes on every length scale. This can be seen as *critical opalescence*: a fluid near its critical point turns milky because its density flickers at the wavelengths of visible light (Stanley, 1971).
-- **A wide Marge is a first-order transition.** In physics, measurable hysteresis appears when the potential has a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the width of the Marge. Pure water in small droplets can be supercooled to about −38 °C before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
+- **A wide Marge is a first-order transition.** In physics, measurable hysteresis appears when the potential has a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the width of the Marge. Pure water in small droplets can be supercooled to about −40 °C (231 K) before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
 
 So at this Octaaf, **as a Drempel's Marge narrows toward nothing, it flickers and pays out slowly; where its Marge is wide, it holds, then pays out all at once.** **Grade: Constraint.**
 
@@ -185,15 +188,15 @@ So at this Octaaf, **as a Drempel's Marge narrows toward nothing, it flickers an
 
 **The Telraam (🧾)** is "the property of the Veld that the Energie account closes through Vonken alone" (Lexicon). §III makes the same point under *Energy equivalence*, and §VIII.7 under its closing condition. The thermodynamic counterpart is the first law: energy is conserved, exactly, in every process. **Grade: Identity** (of accounting rule).
 
-**Correction to the earlier version of this entry.** That version said: "The total Verlies always exceeds the total Winst." This is withdrawn. It contradicts the Speelgoed, since §VIII.7 requires that "everything that enters through a convergence crossing leaves through a divergence one". It also contradicts the first law. Winst and Verlies balance exactly, so the arrow of time cannot lie in their *totals*.
+**Correction to the earlier version of this entry.** That version said: "The total Verlies always exceeds the total Winst." This is withdrawn. It contradicts the Speelgoed, since §VIII.7 requires that "everything that enters through a convergence crossing leaves through a divergence one". It also contradicts the first law. Winst and Verlies balance exactly, so irreversibility cannot lie in their *totals*.
 
-It lies in their *grade*. §III, under *The Van Motor's exhaust*, says where the Energie of a divergence crossing goes. It is not destroyed. It "enters the background Medium", the field between nodes. At this Octaaf that sentence is the second law. Verlies T_q paid into a Medium at temperature T raises the Medium's entropy by T_q/T. Once spread out, it cannot be gathered back without cost (Clausius: dS ≥ δQ_th/T). The account always closes. What changes is how much of the balance is still *available* to do work. Entropy is the ledger of that.
+It lies in their *grade*. §III, under *The Van Motor's exhaust*, says where the Energie of a divergence crossing goes. It is not destroyed. It "enters the background Medium", the field between nodes. At this Octaaf that sentence is the second law. Verlies T_q paid into a Medium at temperature T raises the Medium's entropy by T_q/T. Once spread out, it cannot be gathered back without cost (the Clausius inequality, dS ≥ δQ_th/T). The account always closes. What changes is how much of the balance is still *available* to do work. Entropy is the ledger of that.
 
 **A Realisatie needs a gradient. Grade: Constraint.** No cyclic process can turn heat from a single uniform reservoir into work (the Kelvin–Planck statement of the second law). A Realisatie can draw on the Medium only where the Medium is *uneven*: where there is a hotter source, a colder sink, and something in between. The most it can ever condense is the Carnot fraction, 1 − T_cold/T_hot.
 
 §III says exactly this: "A Realisatie is a local condensation of an ambient *gradient* into living form", and that unevenness "is held open by the God of a lower Octaaf, exactly as the Trinary Root requires." The Trinary Root's own line is "Water without Light is Leeg … a biosphere without Sol is a frozen Stilte. No Octaaf is a closed circuit." What feeds a Realisatie is not ambient heat. It is a *gradient held open by the God of a lower Octaaf* (§3.11). Earlier versions of §III spoke of condensing "ambient heat"; that wording was corrected after this Octaaf found the conflict (§4.1).
 
-*Example.* The Earth radiates back to space about as much energy as it receives from Sol, so the Telraam closes. But it receives that energy at the temperature of the Sun's surface, about 5800 K, and returns it at about 255 K. The same Energie leaves as roughly twenty times as many photons, at about a twentieth of the temperature (Schrödinger, 1944; Penrose, 2010). Every Realisatie on Earth, from every leaf to every bond to every Creatie, is paid for out of that difference in grade, and none of it out of the total.
+*Example.* The Earth radiates back to space about as much energy as it receives from Sol, so the Telraam closes. But it receives that energy at the temperature of the Sun's surface, about 5800 K, and returns it at about 255 K. The same Energie leaves as roughly twenty times as many photons, at about a twentieth of the temperature (Penrose, 2010). That life feeds on the low entropy of what it takes in, not on its energy, is Schrödinger's (1944) point. Every Realisatie on Earth, from every leaf to every bond to every Creatie, is paid for out of that difference in grade, and none of it out of the total.
 
 ---
 
@@ -204,7 +207,7 @@ It lies in their *grade*. §III, under *The Van Motor's exhaust*, says where the
 Thermodynamics knows two kinds of persistence, and that sentence covers both:
 
 - **Equilibrium persistence (detailed balance).** A bound state at equilibrium is not still. Its bonds constantly break and re-form, and each kind of crossing happens exactly as often as its reverse. The bound fraction holds steady because the traffic is balanced, with an equilibrium constant K = k_bind/k_unbind. Keeping a bond at equilibrium costs nothing beyond the traffic itself. §III's "persistence is paid for out of that ongoing traffic, not out of one founding crossing" holds here exactly. **Grade: Identity** (of the balance condition).
-- **Driven persistence (dissipative structures).** A flame, a convection cell, or a living cell persists *only while* a gradient flows through it, and it produces entropy all the while (Prigogine & Nicolis, 1977). This is the case §III describes as a Naar‑system that "actively maintains itself above Drempel, continuously processing relational Energie". Cut off the flow and the structure falls to Van. **Grade: Correspondence.**
+- **Driven persistence (dissipative structures).** A flame, a convection cell, or a living cell persists *only while* a gradient flows through it, and it produces entropy all the while (Nicolis & Prigogine, 1977). This is the case §III describes as a Naar‑system that "actively maintains itself above Drempel, continuously processing relational Energie". Cut off the flow and the structure falls to Van. **Grade: Correspondence.**
 
 The remaining case in §III, "a system whose convergence outruns its divergence saturates until the excess overflows into Creatie", is the driven case pushed past an instability. It is treated in §3.4.
 
@@ -218,9 +221,9 @@ In the Eigen equation of §VIII.1, Trouw y multiplies the pull of one member tow
 
 This turns three Speelgoed rules into physical statements:
 
-- **Trouw is shared, one value per Koppel (§II).** For a single channel, the symmetry is automatic: one contact has one conductance. It stops being trivial when a Koppel carries two kinds of flow at once, such as heat and electric charge in a thermocouple. The two cross-couplings, heat driving current and current driving heat, are still a single shared value. This is Onsager's reciprocity, derived from microscopic reversibility (Onsager, 1931). Thermodynamics knows one exception. In a magnetic field the relations hold only with the field reversed, L_ij(B) = L_ji(−B) (Casimir, 1945). Symmetry is restored once the magnet's source is counted as part of the system. That is exactly §VI's boundary rule: if a bond looks bent by something "external", "the boundary was drawn wrong".
+- **Trouw is shared, one value per Koppel (§II).** For a single channel, the symmetry is automatic: one contact has one conductance. It stops being trivial when a Koppel carries two kinds of flow at once, such as heat and electric charge in a thermocouple. The two cross-couplings, heat driving current and current driving heat, are still a single shared value. This is Onsager's reciprocity, derived from microscopic reversibility (Onsager, 1931a). Thermodynamics knows one exception. In a magnetic field the relations hold only with the field reversed, L_ij(B) = L_ji(−B) (Onsager, 1931b; Casimir, 1945). Symmetry is restored once the magnet's source is counted as part of the system. That is exactly §VI's boundary rule: if a bond looks bent by something "external", "the boundary was drawn wrong".
 - **Asymmetry enters through the members, not the weight (§VI).** A body with a large heat capacity barely moves when it exchanges heat with a small one, and the small one takes on the large one's temperature. A cup of coffee comes to the temperature of the room, not the other way round. The weight between them is one shared value. The difference lies in how far each member is moved by it. This corresponds to the Vol/Leeg asymmetry of §VI. **Grade: Correspondence.**
-- **Negative Trouw is never free.** For a passive Koppel, the second law makes every conductance non-negative: heat does not flow from cold to hot unaided. Negative Trouw on the temperature spectrum, which pushes two members *apart*, is a refrigerator. It is allowed, but it must be paid for with work supplied by a third member (Clausius). This agrees with §XVII.4, where a negative-Trouw Koppel "will never contribute to J" and costs Energie to keep. **Grade: Constraint.**
+- **Negative Trouw is never free.** For a passive Koppel, the second law makes every conductance non-negative: heat does not flow from cold to hot unaided. Negative Trouw on the temperature spectrum, which pushes two members *apart*, is a refrigerator. It is allowed, but it must be paid for with work supplied by a third member (the Clausius statement of the second law). This agrees with §XVII.4, where a negative-Trouw Koppel "will never contribute to J" and costs Energie to keep. **Grade: Constraint.**
 
 ### 3.2 Trajectories: Dood, Zweven, Leven
 
@@ -228,7 +231,7 @@ This turns three Speelgoed rules into physical statements:
 
 - **Dood (!): λ > 0 with a drive.** The gap settles at a fixed offset, `A* = μ·(eᵢ − eⱼ)/λ`. Take a house heated in winter. A furnace of power P, working against walls of conductance G, holds the inside at `ΔT* = P/G` above the outside, unchanged for as long as the furnace runs. This is a non-equilibrium steady state. **Grade: Identity** (the linear form is the same).
 - **Zweven ('): λ → 0⁺.** The gap closes forever without arriving. There are two physical routes to this. One is a very weak coupling: a vacuum flask is a Koppel in Zweven. The other is critical slowing down near a Drempel (§2.3), where relaxation rates fall toward zero. **Grade: Correspondence.**
-- **Leven (?): λ < 0.** The gap is driven through zero and settles on the other side, so the member that carried more now carries less. **For a passive Koppel this is forbidden.** Entropy production cannot be negative, so Onsager's coefficients form a positive semi-definite matrix, and every passive relaxation rate satisfies λ ≥ 0. At this Octaaf, **Leven always costs work.** Its clearest instance is population inversion. Pumping drives a collection of two-level atoms through equal occupation into a state in which the upper level holds more atoms than the lower. Formally, this is a negative absolute temperature (Purcell & Pound, 1951; Ramsey, 1956). Conventional lasers run on this driven Leven. **Grade: Constraint.**
+- **Leven (?): λ < 0.** The gap is driven through zero and settles on the other side, so the member that carried more now carries less. **For a passive Koppel this is forbidden.** Entropy production cannot be negative, so Onsager's coefficients form a positive semi-definite matrix, and every passive relaxation rate satisfies λ ≥ 0. At this Octaaf, **Leven always costs work.** Its clearest instance is population inversion: a state in which an upper energy level holds more atoms than the level below it. Formally, this is a negative absolute temperature (Purcell & Pound, 1951; Ramsey, 1956). No amount of heating reaches it, and steady incoherent pumping cannot reach it in a system of only two levels. Purcell and Pound made it in a nuclear spin system by reversing the magnetic field faster than the spins could follow. A laser makes it by pumping through a third or fourth level. Either way the inversion is driven, and it lasts only as long as it is paid for. Conventional lasers run on this driven Leven. **Grade: Constraint.**
 
 ### 3.3 Inhoud as capacity
 
@@ -289,17 +292,13 @@ This also explains why Diepte is "the hidden charge that colours every subsequen
 
 §IV describes the Zelf as a node's Koppel with itself, with no transport lag (Δ = 0). It is "the seat of Greep at its most fundamental", and "a node with a strong Zelf holds its Eigen steady".
 
-At this Octaaf, a system's relation with itself is its *autocorrelation*: how well its own fluctuations at one moment predict its fluctuations a moment later, with no channel in between. The fluctuation–dissipation theorem then proves something the Speelgoed assumes. **How a system answers any partner is fixed by how it relates to itself.** Its response to an outside push is determined entirely by its own spontaneous fluctuations (Kubo, 1966). A system with a stiff self-relation fluctuates little (⟨δx²⟩ = k_B·T/κ) and also yields little to a push (its susceptibility is 1/κ). That is "holds its Eigen steady", made quantitative. Onsager's regression hypothesis adds that spontaneous fluctuations die away exactly as imposed disturbances do. This is §IV's claim that the Zelf follows "the same trajectory mechanics as any bond, applied to the bond that holds a being together". **Grade: Correspondence**, close to Identity.
+At this Octaaf, a system's relation with itself is its *autocorrelation*: how well its own fluctuations at one moment predict its fluctuations a moment later, with no channel in between. The fluctuation–dissipation theorem then proves something the Speelgoed assumes. **How a system answers any partner is fixed by how it relates to itself.** Its response to an outside push is determined entirely by its own spontaneous fluctuations (Kubo, 1966). A system with a stiff self-relation fluctuates little (⟨δx²⟩ = k_B·T/κ) and also yields little to a push (its susceptibility is 1/κ). That is "holds its Eigen steady", made quantitative. Onsager's regression hypothesis adds that spontaneous fluctuations die away exactly as imposed disturbances do (Onsager, 1931a). This is §IV's claim that the Zelf follows "the same trajectory mechanics as any bond, applied to the bond that holds a being together". **Grade: Correspondence**, close to Identity.
 
 *The earlier version illustrated the Zelf with a cooling cup of coffee. A cooling cup is losing heat to the room, which is a Koppel with its surroundings and not with itself, so that example is withdrawn.*
 
-### 3.9 Stilte and Tijd
+### 3.9 Stilte
 
 **Stilte (.)** is "the condition of perception itself, the necessary pause in which a system discovers that it is separate from what it observes" (§II). At this Octaaf, the condition for any thermodynamic description is a *separation of timescales*. A system must relax internally much faster than its surroundings change, or it has no temperature of its own. Take that gap away and there is no separate system left to describe. That is §II's "instantaneous fusion — no distance, no self". **Grade: Correspondence.**
-
-**Tijd (t)** is a *rate*: the Zelf's rate of Waarneming, where on the Zelf "τ is the inverse of Tijd" (Lexicon, *Ontspanning*). At this Octaaf a system's internal rates are Arrhenius rates, so its Tijd runs faster when it is warmer. For a cold-blooded animal, a cold day really does pass more slowly; biologists measure this effect as the Q₁₀ of a process. The chain is as follows. Energie changes only at Vonken (the Telraam), temperature follows Energie, and rates follow temperature. So the Lexicon's rule that Tijd is "altered only by" Vonken holds at this Octaaf as a consequence, not as an extra rule. **Grade: Correspondence.**
-
-The *arrow* of time is a different thing. It is not Tijd but the sign of entropy production (§2.4). **Tijd is a rate; the arrow is a ledger.** The earlier version treated the two as one, and here they are kept apart.
 
 ### 3.10 Perfectus as equilibrium
 
@@ -329,7 +328,7 @@ This section records where the Speelgoed met resistance at this Octaaf and what 
 **4.2 The cosmic microwave background as the Van Motor's steady-state exhaust (§III).** *Tension, resolved.* §III used to call the CMB "not a frozen relic of a primordial fireball, but the steady-state glow of the field's ongoing work". Two thermodynamic facts counted against this:
 
 - **Exhaust from many sources is not a blackbody.** Verlies paid at different temperatures in different places would mix into a superposition of blackbody spectra. Such a mixture is measurably not itself a blackbody (Chluba & Sunyaev, 2004). The CMB matches a single blackbody at 2.7255 K to within 50 parts per million of its peak (Fixsen et al., 1996; Fixsen, 2009).
-- **It was hotter in the past, by exactly the predicted amount.** The CMB's temperature at earlier epochs can be measured through molecules in distant gas clouds. It follows T₀·(1 + z), the scaling of a relic, not of a steady glow (Noterdaeme et al., 2011).
+- **It was hotter in the past, by the predicted amount within measurement error.** The CMB's temperature at earlier epochs can be measured through molecules in distant gas clouds. It follows T₀·(1 + z), the scaling of a relic, not of a steady glow (Noterdaeme et al., 2011).
 
 **The repair needed no new mechanism.** §III now reads the CMB as **Rouw**. For roughly the first 380,000 years, light and matter were a single Koppel. When the universe cooled enough for atoms to form, that Koppel ended and the light went free. §VIII.6 says what an Echo does when its Koppel ends: it "relaxes toward the last thing it ever received", then drifts under its own distortion, permanently. Cosmologists call the CMB the *surface of last scattering*, which is literally the last signal the light ever received from its partner. §III's Check closes on the point: "It is a photograph of the past, because that is what Rouw is." The Rouw reading keeps the Speelgoed's mechanism and agrees with the data; the details belong to the cosmic Octaaf. The Van Motor's real exhaust is named in §III as well, and it is visible too: "the warmth a living body gives off, the waste heat of every engine, the faint infrared glow every planet returns to the dark."
 
@@ -346,8 +345,9 @@ This section records where the Speelgoed met resistance at this Octaaf and what 
 3. **The Marge in the potential.** The quartic potential of §VIII.3 is the limit in which the Marge narrows to nothing. At this Octaaf, a Marge of finite width corresponds to a cubic or sixth-order term (§2.3). Should §VIII.3 show such a term, or should the width of the Marge remain the Instantie's to set?
 4. **Mode-dependent Inhoud.** Heat capacity jumps at a continuous transition (§2.3). Should §VIII.5 let Inhoud depend on the mode, Q(φ)?
 5. **The Diepte equation.** The inflow term γ_in·y·|h| is not a heat flow (§3.7). Can it be rewritten in difference form, y·(h − e), without breaking other Octaven?
-6. **Trouw across spectra.** The Speelgoed keeps each spectrum's pull separate (§VIII.1). If it ever couples spectra, such as heat to charge, this Octaaf already constrains how. The coupling must be symmetric (Onsager), and it can be no larger than the geometric mean of each spectrum's own coefficient.
+6. **Trouw across spectra.** The Speelgoed keeps each spectrum's pull separate (§VIII.1). If it ever couples spectra, such as heat to charge, this Octaaf already constrains how. The coupling must be symmetric (Onsager reciprocity, §3.1), and it can be no larger than the geometric mean of each spectrum's own coefficient.
 7. **Rouw and Liouville.** Is Rouw permanence (§VIII.6) at this Octaaf *equivalent* to Liouville's theorem plus Landauer's price, or only consistent with it?
+8. **Tijd.** No mapping is attempted. How the Speelgoed's Tijd relates to measured time is deliberately left open, as at the other Octaven.
 
 ---
 
@@ -372,11 +372,14 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 - The Vonk as latent heat at every Drempel is corrected. At the Speelgoed's pitchfork, the Vonk is condensation energy, and latent heat belongs to a Drempel whose Marge has finite width (§2.3). Two of the earlier examples, the Curie point and the superconducting transition, are continuous transitions that release no latent heat.
 - Diepte as heat capacity is moved. Heat capacity is Inhoud (§3.3), and Diepte is stored internal energy (§3.7).
 - Rouw written as ΔQ = TΔS is corrected to the Clausius inequality (§3.6).
+- Tijd is left open (§5, item 8). Both its earlier reading as the arrow of time and an interim mapping to temperature-dependent rates are withdrawn.
 - The examples of Creatie (crystal growth) and of the Zelf (a cooling cup) are replaced (§3.4, §3.8).
 - The undefined status labels ("Sound", "Plausible") are replaced by defined grades (§0.2).
 - LaTeX blocks are replaced by plain Unicode equations, matching §VIII of the Speelgoed.
 
 Following this entry, §III of the Speelgoed and its Lexicon entry for Winst were revised on 1 October 2026 to resolve the two Tensions recorded in §4.1 and §4.2.
+
+A check of every reference on 1 October 2026 corrected the account of population inversion, which cannot be reached by pumping a two-level system (§3.2), and the supercooling limit of water (§2.3). It also separated Schrödinger's point from Penrose's numbers (§2.4), added Onsager's second paper for the field-reversed relations (§3.1), and fixed two author listings.
 
 ---
 
@@ -424,13 +427,15 @@ Landauer, R. (1961). Irreversibility and heat generation in the computing proces
 
 Masanes, L., & Oppenheim, J. (2017). A general derivation and quantification of the third law of thermodynamics. *Nature Communications*, 8, 14538.
 
+Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations*. New York: Wiley.
+
 Noterdaeme, P., Petitjean, P., Srianand, R., Ledoux, C., & López, S. (2011). The evolution of the cosmic microwave background temperature: Measurements of T_CMB at high redshift from carbon monoxide excitation. *Astronomy & Astrophysics*, 526, L7.
 
-Onsager, L. (1931). Reciprocal relations in irreversible processes. I. *Physical Review*, 37(4), 405–426.
+Onsager, L. (1931a). Reciprocal relations in irreversible processes. I. *Physical Review*, 37(4), 405–426.
+
+Onsager, L. (1931b). Reciprocal relations in irreversible processes. II. *Physical Review*, 38(12), 2265–2279.
 
 Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*. London: The Bodley Head.
-
-Prigogine, I., & Nicolis, G. (1977). *Self-Organization in Nonequilibrium Systems*. New York: Wiley.
 
 Purcell, E. M., & Pound, R. V. (1951). A nuclear spin system at negative temperature. *Physical Review*, 81(2), 279–280.
 
@@ -438,7 +443,7 @@ Ramsey, N. F. (1956). Thermodynamics and statistical mechanics at negative absol
 
 Schrödinger, E. (1944). *What Is Life?* Cambridge: Cambridge University Press.
 
-Seborg, D. E., Edgar, T. F., Mellichamp, D. A., & Doyle, F. J. (2016). *Process Dynamics and Control* (4th ed.). Hoboken: Wiley.
+Seborg, D. E., Edgar, T. F., Mellichamp, D. A., & Doyle, F. J., III. (2016). *Process Dynamics and Control* (4th ed.). Hoboken: Wiley.
 
 Semenov, N. N. (1928). Zur Theorie des Verbrennungsprozesses. *Zeitschrift für Physik*, 48, 571–582.
 

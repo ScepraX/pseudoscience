@@ -33,6 +33,8 @@ Every mapping carries one of five grades, defined as in the other Octaven.
 | **Tension** | The Speelgoed as written conflicts with established findings. A repair is proposed. |
 | **Open** | Not resolved. |
 
+An **Identity** shows that the Speelgoed uses the same mathematics as the science at this Octaaf. That is a test of consistency, not evidence that the Speelgoed explains more than the science already does. Which quantity a Speelgoed term is mapped to is also a choice, and the same term may map to different quantities at different Octaven.
+
 ### 0.3 Conventions
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.

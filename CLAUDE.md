@@ -31,7 +31,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 - **Prefer wording over mechanics.** Change the Speelgoed's claims or mechanics only on the author's explicit decision. Propose the exact wording first.
 - **Inclusion rule.** A behaviour enters the Speelgoed only when **at least three Octaven confirm it**. Behaviour that first appears at one Octaaf and persists upward stays in that Octaaf's document. The Speelgoed must not reveal much about the Octaven, and must not become a catalogue of what each Octaaf adds; that way lies the rabbit hole.
 - **There is never a single outcome.** Every Drempel separates two named poles, and both stay available (§II). The Van Motor is never off (§VIII.1). Nothing is deterministic, even though it usually looks that way. When translating physics, read single-state or zero-hysteresis cases as **limits** (for example, a Marge narrowing toward nothing), never as a world with one outcome. This is an essential detail; correct it quietly, without drama.
-- **Tijd stays deliberately vague.** Do not map, define, or derive Tijd in the Speelgoed or the Octaven. Leave it as an open item.
+- **Tijd is kept vague for now.** The author is unsure whether to work on Tijd yet. Don't map, define, or derive it in the Speelgoed or the Octaven unless the author decides to; meanwhile, leave it as an open item. In the Octaven that means one row ("No mapping attempted", Open) and one open problem, nothing more. Never frame time as linear or as a symmetric binary (for example, "slow seen from outside, fast seen from inside"); any such framing will contradict where the author is taking Tijd. Physics measures time as one number per clock, so any mapping of Tijd to measured time imports that shape. When fixing facts in a passage that touches time, reread what the passage claims, not only its numbers.
 - **Older sections have a house style:** bold key terms with their symbol in brackets on first use, and spaced ` - ` used as a dash.
 
 ---
@@ -84,6 +84,8 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 - **Verify every reference:** authors, year, title, journal, volume and pages, and that the source actually supports the specific claim. AI-generated references in this repository have previously turned out misattributed or nonexistent (see the revision note of *The Echo of Origin*). Never cite from memory unchecked.
 - **Label contested findings.** Check the replication status of psychology, neuroscience and social findings; for example, oxytocin and trust failed a registered replication.
 - **Compute every number with a script** before stating it.
+- **Check for prior work** before presenting a derivation or result as new.
+- **Say what an Identity shows.** It proves that the Speelgoed uses the same mathematics as the science, which is a test of consistency, not evidence of extra explanatory power. Which scientific quantity a term maps to is a choice, and it can differ between Octaven.
 - **Report physics honestly when it shrinks a claim.** The MHD paper is the model: corrected physics, honest magnitudes, and withdrawn claims listed.
 - **Cite web sources** used in a session.
 
@@ -98,7 +100,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 - **New Science documents** get a feed item and a sitemap entry. Feed items are newest first, with category `Science`. Sitemap entries use `changefreq` `monthly` and priority `0.7000`.
 - **Date formats:** feed `Thu, 01 Oct 2026 12:00:00 +0200`; sitemap `2026-10-01T12:00:00+00:00`.
 - **Validate both XML files** after editing.
-- **The author commits.** Don't commit unless asked.
+- **Don't commit unless asked.**
 
 ---
 
@@ -112,6 +114,11 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 ## Working with the author
 
+- **Division of strengths.** The author's strength is logic and non-linear thinking: the framework's internal coherence. Claude's is facts and statistics. So:
+  - check facts thoroughly;
+  - be most careful with logic about the framework itself. Before proposing any change to the Speelgoed's logic, test it against its axioms (two live poles at every Drempel, the Van Motor never off, the inclusion rule). Most errors in past sessions came from importing outside framings that break those axioms.
+
 - **Do the important work yourself:** the reasoning, the Speelgoed mappings, the writing, and verifying every claim an argument rests on. Delegate only mechanical work, such as bulk citation-detail checks, and spot-check what comes back. Never offload everything.
 - **Ask before decisions that change the Speelgoed's claims.** Present options with exact wording and a recommendation. Answer conceptual questions directly before proposing edits.
+- **Let some mystery exist.** The author wants readers to carry the thoughts further and think about what lies ahead. Keep facts exact, but leave the framework's open edges open: write Open problems as live questions that point ahead, don't close every gap, and don't neutralise an evocative passage merely because it invites speculation.
 - **Keep proportion.** Fix small issues cleanly, without turning them into big productions.

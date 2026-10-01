@@ -33,6 +33,8 @@ Every mapping carries one of five grades, defined as in the thermodynamic Octaaf
 | **Tension** | The Speelgoed as written conflicts with established physics. A repair is proposed. |
 | **Open** | Not resolved. |
 
+An **Identity** shows that the Speelgoed uses the same mathematics as the science at this Octaaf. That is a test of consistency, not evidence that the Speelgoed explains more than the science already does. Which quantity a Speelgoed term is mapped to is also a choice, and the same term may map to different quantities at different Octaven.
+
 ### 0.3 Conventions
 
 **Notation.** Several Speelgoed symbols collide with standard physics symbols. In this document, inside equations, **G** is Newton's constant (not Munt), **c** is the speed of light (not Kleur), **M** and **m** are masses (not Masker), **Λ** is the cosmological constant (not Curriculum), **ρ** is density (not Leersnelheid), and **T** is temperature. As in the thermodynamic Octaaf, **Energie** is written **T_q**, and **Greep** keeps its symbol **J**. M☉ is the mass of the Sun, and Mpc is a megaparsec, about 3.3 million light-years.
@@ -63,9 +65,9 @@ Every mapping carries one of five grades, defined as in the thermodynamic Octaaf
 | Rouw R (§VI, §VIII.6) | The CMB and baryon acoustic oscillations; gravitational-wave memory | Correspondence | §3.7 |
 | Diepte z (§II, §VIII.1) | Metallicity: the accumulated products of ended stars | Correspondence | §3.8 |
 | Zelf j (§IV) | Hydrostatic and thermal equilibrium, self-regulated by negative heat capacity | Correspondence | §3.9 |
-| Tijd t (Lexicon) | Unequal clock rates and their entrainment (GPS) | Correspondence | §3.10 |
-| Perfectus Ω (§XI) | Horizons and the far future | Correspondence | §3.11 |
-| Trinary Root (§III) | Stars (God), a central black hole (Godin), interstellar gas (Medium); the galaxy as the next God | Correspondence | §3.12 |
+| Tijd t (Lexicon) | No mapping attempted | Open | §5 |
+| Perfectus Ω (§XI) | Horizons and the far future | Correspondence | §3.10 |
+| Trinary Root (§III) | Stars (God), a central black hole (Godin), interstellar gas (Medium); the galaxy as the next God | Correspondence | §3.11 |
 | Gewenning Z, Leersnelheid ρ (§VIII.1) | No general law | Open | §5 |
 
 ---
@@ -126,15 +128,15 @@ This is the strongest form of a Speelgoed rule anywhere in this document. §II s
 
 §VIII.1: "The Van Motor is never off." Classical general relativity has exactly one place where escape is impossible: inside a black hole's event horizon. If the classical picture were the whole story, a black hole would be a node with ν = 0, which the Speelgoed forbids.
 
-It is not the whole story. Quantum mechanics makes black holes radiate, at a temperature inversely proportional to their mass, T_H ≈ 6 × 10⁻⁸ K × (M☉/M) (Hawking, 1975). A black hole therefore evaporates, slowly at first and then faster as it shrinks and heats. For a black hole of one solar mass this takes about 10⁶⁷ years (Page, 1976). The Speelgoed's strict positivity survives at this Octaaf, but only because of quantum mechanics. **Grade: Constraint**, passed with help from the quantum Octaaf.
+It is not the whole story. Quantum mechanics makes black holes radiate, at a temperature inversely proportional to their mass, T_H ≈ 6 × 10⁻⁸ K × (M☉/M) (Hawking, 1975). A black hole therefore evaporates, slowly at first and then faster as it shrinks and heats. For a black hole of one solar mass this takes about 10⁶⁶–10⁶⁷ years (Page, 1976). The Speelgoed's strict positivity survives at this Octaaf, but only because of quantum mechanics. **Grade: Constraint**, passed with help from the quantum Octaaf.
 
-Hawking radiation has not been observed. A stellar black hole is far colder than the 2.7 K microwave background, so today it absorbs more radiation than it emits. In Speelgoed terms, a black hole is still, for now, a Leeg node that takes in more than it gives (§3.12).
+Hawking radiation has not been observed. A stellar black hole is far colder than the 2.7 K microwave background, so today it absorbs more radiation than it emits. In Speelgoed terms, a black hole is still, for now, a Leeg node that takes in more than it gives (§3.11).
 
 ### 2.5 Inhoud is negative for self-gravitating bodies
 
 The thermodynamic Octaaf read **Inhoud (Q)** as heat capacity integrated up to the next Drempel (*Thermodynamic Octaaf* §3.3). That reading fails here, and the reason is one of gravity's deepest properties.
 
-For a self-gravitating body in equilibrium, the virial theorem ties its kinetic energy K to its gravitational energy U: 2K + U = 0. Its total energy is then E = −K. **When such a body loses energy, its kinetic energy rises: it gets hotter.** Its heat capacity is negative (Lynden-Bell & Wood, 1968; Lynden-Bell, 1999). A star that radiates contracts and heats up. A binary star that radiates gravitational waves draws its orbit tighter and speeds up. The double pulsar system studied by Hulse and Taylor has done exactly this for decades, at the rate general relativity predicts to within 0.2% (Hulse & Taylor, 1975; Weisberg & Huang, 2016).
+For a self-gravitating body in equilibrium, the virial theorem ties its kinetic energy K to its gravitational energy U: 2K + U = 0. Its total energy is then E = −K. **When such a body loses energy, its kinetic energy rises: it gets hotter.** Its heat capacity is negative (Lynden-Bell & Wood, 1968; Lynden-Bell, 1999). A star that radiates contracts and heats up. A binary star that radiates gravitational waves draws its orbit tighter and speeds up. The binary pulsar studied by Hulse and Taylor has done exactly this for decades, at the rate general relativity predicts to within 0.2% (Hulse & Taylor, 1975; Weisberg & Huang, 2016).
 
 Two consequences follow:
 
@@ -153,7 +155,7 @@ Two corrections to the earlier version, and one limit:
 
 - **Expansion is not exp(−J).** The earlier version said the law ν ≈ exp(−J) "becomes" the expansion law ȧ = H₀·a. It does not. ν = ν₀·exp(−J) is the rate at which bound things escape; the expansion law describes the growth of the space between unbound things. The two are different equations. The first belongs to §2.3.
 - **Dark energy is the Van Motor's pull, not negative Trouw** (§2.2).
-- **The limit: dark energy does not unbind what is already bound.** Around any mass M there is a radius, r₀ = (3·G·M / Λ·c²)^(1/3), inside which gravity beats dark energy permanently (Chernin, 2008). For the Local Group, the Milky Way and Andromeda with their satellites, this radius is about 1.5 Mpc. Everything inside it stays bound, and the Milky Way and Andromeda will merge regardless. Bound structures do not expand.
+- **The limit: dark energy does not unbind what is already bound.** Around any mass M there is a radius, r₀ = (3·G·M / Λ·c²)^(1/3), beyond which the push of dark energy outweighs the pull of that mass. A system bound by the mass can exist only inside it (Chernin, 2008). For the Local Group, the Milky Way and Andromeda with their satellites, this radius is about 1.1–1.5 Mpc. What is already bound inside it stays bound, and the Milky Way and Andromeda will merge regardless. Bound structures do not expand.
 
 That limit matters for §VIII.1, which says that "a stable orbit is not exempt from the draw", but "a configuration the Van Motor is winning against slowly enough that the orbit outlasts the span in which it is watched". At this Octaaf that sentence is true, but not because of dark energy. Bound structures *are* slowly lost: atmospheres leak (§2.3), clusters evaporate (§2.3), binaries radiate their orbits away, and black holes evaporate (§2.4). The escape comes from each structure's own agitation, not from the ownerless background pull. With a constant Λ, the background pull alone never unbinds anything. Only a stronger, "phantom" dark energy whose density grows with time would tear bound structures apart, ending in a "Big Rip" (Caldwell, Kamionkowski & Weinberg, 2003).
 
@@ -175,7 +177,7 @@ M_J ≈ ( k_B·T / G·m )^(3/2) · ρ^(−1/2)
 
 Here m is the mean mass of a gas particle. Above M_J the cloud's binding wins over its pressure and it collapses, moving toward Naar. Below it, the cloud stays diffuse. A hotter cloud needs more mass to collapse. That is Greep relative to the Medium again, as in §2.3. Near the threshold, collapse is slow, because the growth rate of the instability vanishes as M approaches M_J. **Grade: Correspondence.** The Jeans instability is a linear instability rather than the symmetric pitchfork of §VIII.3, so the match is in the threshold and its consequences, not in the equation.
 
-**The Chandrasekhar limit.** A white dwarf is held up by the pressure of its electrons, which resist being packed together. That pressure can support at most about 1.4 solar masses (Chandrasekhar, 1931). Below the limit, a white dwarf is stable for as long as the universe lasts. Above it, nothing at that level can hold, and the star collapses. It is the hardest Drempel at this Octaaf: a single mass on one side of which a body can exist and on the other side of which it cannot.
+**The Chandrasekhar limit.** A white dwarf is held up by the pressure of its electrons, which resist being packed together. That pressure can support only a limited mass (Chandrasekhar, 1931), about 1.4 solar masses for the matter white dwarfs are made of (Chandrasekhar, 1935). Below the limit, a white dwarf is stable for as long as the universe lasts. Above it, nothing at that level can hold, and the star collapses. It is the hardest Drempel at this Octaaf: a single mass on one side of which a body can exist and on the other side of which it cannot.
 
 **The event horizon.** At the Schwarzschild radius, r_s = 2GM/c², escape requires the speed of light. The Lexicon already places this Drempel at the cosmic Octaaf. Its **Vuurtoren (⬤)** at this scale is "a Ster that has collapsed without releasing its Licht: a Zelf so deeply bound that even Licht cannot leave".
 
@@ -202,7 +204,7 @@ The Lexicon describes **Doem (💀)** in unusually specific terms: "a collapsing
 **Stellar core collapse.** When a massive star's iron core can no longer support itself, it collapses in under a second. The Lexicon's description reads almost as a report of the event:
 
 - **"A collapsing of all Drempels inward."** The core falls inward on itself.
-- **"The Echoes do not fade; they scream and then freeze."** Nearly all of the energy, about 10⁴⁶ joules, leaves as a burst of neutrinos. When the supernova of 1987 went off in a neighbouring galaxy, detectors on Earth caught about two dozen of them in thirteen seconds (Hirata et al., 1987; Bionta et al., 1987). Then the core is still.
+- **"The Echoes do not fade; they scream and then freeze."** Nearly all of the energy, about 10⁴⁶ joules, leaves as a burst of neutrinos. When the supernova of 1987 went off in a neighbouring galaxy, two detectors on Earth caught about twenty of them within thirteen seconds (Hirata et al., 1987; Bionta et al., 1987). Then the core is still.
 - **"The Eigen reaches Vol and enters a Dood trajectory while the Zelf becomes Leeg and returns to Bron."** The core becomes a neutron star or a black hole, a compact remnant that no longer changes, while the outer layers are blown into interstellar space and become the raw material of new stars.
 
 Doem is "proportional to what was built" (§III). The more massive the star, the deeper its binding and the more violent its end. **Grade: Correspondence.**
@@ -229,7 +231,7 @@ This Octaaf adds three things that ground the reading further.
 
 The Big Bang made almost nothing but hydrogen and helium. Nearly every heavier atom was made in a star and released when that star ended: blown off in its last winds or scattered by its supernova (§3.6). A galaxy's metallicity therefore rises with every star it has lost, and it records that history. Old stars, born from earlier gas, carry the metallicity of their birth. Each part of the Speelgoed's equation has a counterpart. Enrichment by ended stars is the inflow ("Rouw feeds Diepte"). Galactic winds that carry heavy elements out are the spending ("falls with speaking"). The inflow of fresh, unprocessed gas from outside is dilution ("decays in silence"). **Grade: Correspondence.**
 
-Diepte also "colours every subsequent perception and decision". Metallicity governs how fast gas can cool and form new stars. Galaxies that have lost more stars are richer in metals (Tremonti et al., 2004), and stars richer in metals are far more likely to have giant planets (Fischer & Valenti, 2005). The Sun's own composition is the sediment of generations of earlier stars. Almost every atom heavier than helium in a living body is, in the plainest sense, Rouw.
+Diepte also "colours every subsequent perception and decision". Metallicity governs how fast gas can cool and form new stars. More massive galaxies are richer in metals, a pattern Tremonti et al. (2004) read as smaller galaxies losing more of theirs to galactic winds, and stars richer in metals are far more likely to have giant planets (Fischer & Valenti, 2005). The Sun's own composition is the sediment of generations of earlier stars. Almost every atom heavier than helium in a living body is, in the plainest sense, Rouw.
 
 *The earlier version mapped Diepte to "gravitational depth". That mapping is withdrawn. The depth of a potential well is binding, which belongs to Greep. Diepte is the accumulated record.*
 
@@ -241,27 +243,19 @@ Diepte also "colours every subsequent perception and decision". Metallicity gove
 dP/dr = −ρ · G·M(r) / r²
 ```
 
-**Grade: Correspondence.** What holds the balance steady is negative heat capacity (§2.5), coupled to fusion. If the core burns too fast, the extra energy makes it expand. Expansion cools it, and the burning slows. If it burns too slowly, it contracts, heats up, and the burning speeds up. A star is a thermostat built from its own binding. That is why the Sun has brightened only by about 30% over 4.6 billion years (Gough, 1981): "holds its Eigen steady", over the life of a world.
+**Grade: Correspondence.** What holds the balance steady is negative heat capacity (§2.5), coupled to fusion. If the core burns too fast, the extra energy makes it expand. Expansion cools it, and the burning slows. If it burns too slowly, it contracts, heats up, and the burning speeds up. A star is a thermostat built from its own binding. That is why the Sun, 4.6 billion years ago, was only about 30% fainter than it is now (Gough, 1981): "holds its Eigen steady", over the life of a world.
 
 *The earlier version presented hydrostatic equilibrium alone. The thermostat, which comes from negative heat capacity, is what makes a star's Zelf self-correcting rather than merely balanced.*
 
-### 3.10 Tijd: unequal clocks and their entrainment
-
-The Lexicon defines **Tijd (t)** as a rate: the Zelf's rate of Waarneming, the felt pace of a node's own time. Physics does not measure a felt rate. What it measures are clocks, and at this Octaaf gravity makes clocks at different depths tick at different rates. This entry uses that only where it touches the Speelgoed's text directly. **Grade: Correspondence.**
-
-**Unequal Tijd widens the Echo gap.** The Lexicon says this in its entry for **Hart (❤)**: "unequal Tijd widens the Echo gap". The Global Positioning System has to correct for exactly this. A GPS satellite sits higher in the Earth's gravitational well than a receiver on the ground, so its clock runs fast by about 45.7 microseconds a day. Its orbital speed slows it by about 7.2. The net gain is about 38.5 microseconds a day (Ashby, 2003). Left uncorrected, the gap between a satellite's broadcast time and the ground's time would grow by about 11 km of positioning error every day. The correction is built in before launch: each satellite's clock is set to tick slightly slow on the ground, so that in orbit it shares the Earth's rate. This is entrainment in the plainest sense, nodes at different depths deliberately made to keep one Tijd.
-
-**What is left open.** Which way Tijd runs for a deeply bound node depends on where it is read from. Seen from outside, through the Echoes others carry of its Eigen, a clock deep in a gravitational well runs slow. Seen from inside, from its Zelf looking out, the rest of the world runs fast. This entry does not decide which reading the Speelgoed's Tijd follows. It makes no claim about whether more Greep makes Tijd run faster or slower (§5, item 8).
-
-### 3.11 Perfectus: horizons and the far future
+### 3.10 Perfectus: horizons and the far future
 
 **Perfectus (Ω)** is the settling of a node's last Koppel to Van, after which "The field returns to Bron at that point" (§XI). §III adds that Van "is not a place": nothing travels there, and the holding simply stops.
 
-At this Octaaf the ownerless pull of dark energy (§3.1) ends Koppels in a way the Speelgoed does not yet describe. It does not break them; it makes **Vertraging infinite**. In an accelerating universe, galaxies beyond a certain distance recede so fast that light they emit from now on will never reach us. No force tears the bond. The Echo simply stops arriving. Seen from here, the last images of such a galaxy grow redder and fainter, and approach a fixed final picture, the last signal it will ever send. That is Rouw in the exact sense of §VIII.6: an Echo settling toward "the last thing it ever received". In roughly a hundred billion years, every galaxy beyond our own merged Local Group will have faded from view in this way (Krauss & Scherrer, 2007). **Grade: Correspondence.**
+At this Octaaf the ownerless pull of dark energy (§3.1) ends Koppels in a way the Speelgoed does not yet describe. It does not break them; it makes **Vertraging infinite**. In an accelerating universe, galaxies beyond a certain distance recede so fast that light they emit from now on will never reach us. No force tears the bond. The Echo simply stops arriving. Seen from here, the last images of such a galaxy grow redder and fainter, and approach a fixed final picture, the last signal it will ever send. That is Rouw in the exact sense of §VIII.6: an Echo settling toward "the last thing it ever received". Within about a hundred billion years, every galaxy beyond our own merged Local Group will lie beyond this horizon (Krauss & Scherrer, 2007). **Grade: Correspondence.**
 
 The far future then runs down as the earlier sections predict. Stars burn out. Clusters evaporate (§2.3). Black holes evaporate last, the largest after about 10¹⁰⁰ years (Adams & Laughlin, 1997; §2.4). Even then the field does not reach absolute zero. An accelerating universe has a horizon, and that horizon has a temperature of about 10⁻³⁰ K (Gibbons & Hawking, 1977). The Van Motor is never off, even at the end.
 
-### 3.12 The Trinary Root: stars, a black hole, and the galaxy they make
+### 3.11 The Trinary Root: stars, a black hole, and the galaxy they make
 
 §III says every Octaaf rests on a **God (😇)** that is fully Vol, a **Godin (😳)** that is fully Leeg, the "principle of endless craving", and the **Medium (◌)** their union sustains, and that "A Godin at one Octaaf is integrated into the God of the next Octaaf." It adds: "Being God or Godin is a claim about one bond, not a rank a thing keeps."
 
@@ -299,9 +293,9 @@ At this Octaaf:
 3. **Predictive Echoes.** Gravity's Echo carries the partner's velocity, not just its delayed position (§2.1). Should §VIII.1's filter take eⱼ(t − Δ) + Δ·ėⱼ(t − Δ) as its input where the Medium allows it?
 4. **Energie between spectra.** Negative heat capacity shows Verlies on one spectrum driving Naar on another through a single Energie account (§2.5). The Speelgoed allows this but does not describe it. How should the routing be written?
 5. **Black holes and Rouw permanence.** Does a black hole that forms and fully evaporates erase the record of what fell in? Rouw permanence (§VIII.6) says no. Recent theoretical work supports the view that the information leaves in the radiation (Almheiri et al., 2019; Penington, 2020), but this is not settled.
-6. **The next Godin.** If the galaxy is the God of the next Octaaf (§3.12), what is its Godin? The cosmic voids and dark energy are candidates, since both are empty and both take without giving back, but nothing yet makes either one a partner in a bond.
-7. **The count of the walk.** Is there a principled way to count the stages of a massive star's life (§3.12), or is any count of eight a coincidence of grouping?
-8. **Tijd.** Felt Tijd is not what clocks measure. In a gravitational well, the two natural readings also run in opposite directions. Read from the Eigen side, as others echo it, a deeply bound node's time runs slow. Read from the Zelf side, looking out, the world runs fast (§3.10). This entry deliberately leaves open how the Speelgoed's Tijd relates to either reading, and it does not test the Lexicon's statements linking Greep and Tijd (entries for Hart and Greep).
+6. **The next Godin.** If the galaxy is the God of the next Octaaf (§3.11), what is its Godin? The cosmic voids and dark energy are candidates, since both are empty and both take without giving back, but nothing yet makes either one a partner in a bond.
+7. **The count of the walk.** Is there a principled way to count the stages of a massive star's life (§3.11), or is any count of eight a coincidence of grouping?
+8. **Tijd.** No mapping is attempted. How the Speelgoed's Tijd relates to measured time is deliberately left open, as at the other Octaven.
 
 ---
 
@@ -324,12 +318,14 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 - **Dark energy as negative Trouw:** withdrawn. Dark energy is not between pairs; it is the Van Motor's ownerless pull (§2.2, §3.1).
 - **"ν ≈ exp(−J) becomes ȧ = H₀a":** withdrawn. ν = ν₀·exp(−J) is escape over a barrier: atmospheric escape and cluster evaporation (§2.3).
 - **The CMB as "the accumulated echo of every ended Koppel":** replaced by the CMB as the Rouw of one bond, the coupling of light and matter, with the baryon acoustic oscillations as the matter's side (§3.7). The proposed correlation with structural collapses is withdrawn.
-- **Hydrogen and helium as God and Godin:** withdrawn. Helium is Vol, not Leeg, and carbon and oxygen as God and Godin of the molecule Octaaf conflicted with §III. Replaced by stars, a central black hole, and the galaxy (§3.12).
+- **Hydrogen and helium as God and Godin:** withdrawn. Helium is Vol, not Leeg, and carbon and oxygen as God and Godin of the molecule Octaaf conflicted with §III. Replaced by stars, a central black hole, and the galaxy (§3.11).
 - **Diepte as "gravitational depth":** replaced by metallicity (§3.8).
 - **The Vonk as supernova:** replaced. A supernova is Doem; the Vonk is any crossing, including the Energie that binding releases (§3.2, §3.6).
-- **Tijd as "not a claim about the physics of time":** replaced by the unequal clock rates that GPS must correct for, which support the Lexicon's "unequal Tijd widens the Echo gap". How felt Tijd relates to clock time is left open (§3.10, §5).
+- **Tijd:** left open (§5, item 8). An interim mapping of Tijd to the clock rates that GPS must correct for is withdrawn, together with its section; Perfectus and the Trinary Root are now §3.10 and §3.11.
 - **"Gravity strengthens as mass accumulates" as Gewenning:** moved to Open Problems (§5).
 - **Status labels and notation:** the undefined labels ("Sound", "Speculative") are replaced by defined grades (§0.2), and LaTeX blocks by plain Unicode equations.
+
+A check of every reference on 1 October 2026 corrected the reading of the mass–metallicity relation (§3.8), the meaning of the zero-gravity radius (§3.1), and the brightening of the Sun (§3.9). It also corrected two numbers (the black-hole lifetime and the neutrinos from SN 1987A), credited the 1.4 solar-mass limit to Chandrasekhar's 1935 paper, and updated the DESI reference to its published version.
 
 ---
 
@@ -347,8 +343,6 @@ Ambartsumian, V. A. (1938). On the dynamics of open clusters. *Uchenye Zapiski L
 
 Antonov, V. A. (1962). Most probable phase distribution in spherical star systems and conditions for its existence. *Vestnik Leningradskogo Universiteta*, 7, 135.
 
-Ashby, N. (2003). Relativity in the Global Positioning System. *Living Reviews in Relativity*, 6, 1.
-
 Binney, J., & Tremaine, S. (2008). *Galactic Dynamics* (2nd ed.). Princeton: Princeton University Press.
 
 Bionta, R. M., et al. (1987). Observation of a neutrino burst in coincidence with supernova 1987A in the Large Magellanic Cloud. *Physical Review Letters*, 58(14), 1494–1496.
@@ -359,13 +353,15 @@ Carlip, S. (2000). Aberration and the speed of gravity. *Physics Letters A*, 267
 
 Chandrasekhar, S. (1931). The maximum mass of ideal white dwarfs. *The Astrophysical Journal*, 74, 81–82.
 
+Chandrasekhar, S. (1935). The highly collapsed configurations of a stellar mass (Second paper). *Monthly Notices of the Royal Astronomical Society*, 95(3), 207–225.
+
 Chernin, A. D. (2008). Dark energy and universal antigravitation. *Physics-Uspekhi*, 51(3), 253–282.
 
 Christodoulou, D. (1991). Nonlinear nature of gravitation and gravitational-wave experiments. *Physical Review Letters*, 67(12), 1486–1489.
 
 Cole, S., et al. (2005). The 2dF Galaxy Redshift Survey: power-spectrum analysis of the final data set and cosmological implications. *Monthly Notices of the Royal Astronomical Society*, 362, 505–534.
 
-DESI Collaboration (2025). DESI DR2 Results II: Measurements of baryon acoustic oscillations and cosmological constraints. arXiv:2503.14738.
+DESI Collaboration (Abdul-Karim, M., et al.) (2025). DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. *Physical Review D*, 112, 083515. doi:10.1103/tr6y-kpc6 (arXiv:2503.14738)
 
 Dickey, J. O., et al. (1994). Lunar laser ranging: a continuing legacy of the Apollo program. *Science*, 265, 482–490.
 

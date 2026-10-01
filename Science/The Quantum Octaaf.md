@@ -35,6 +35,8 @@ Every mapping carries one of five grades, defined as in the thermodynamic Octaaf
 | **Tension** | The Speelgoed as written conflicts with established physics. A repair is proposed. |
 | **Open** | Not resolved. |
 
+An **Identity** shows that the Speelgoed uses the same mathematics as the science at this Octaaf. That is a test of consistency, not evidence that the Speelgoed explains more than the science already does. Which quantity a Speelgoed term is mapped to is also a choice, and the same term may map to different quantities at different Octaven.
+
 ### 0.3 Conventions
 
 **Notation.** Several Speelgoed symbols collide with standard physics symbols. In this document, inside equations, **|ψ⟩** is a quantum state (not Bevraagbaar), **ρ** is a density matrix (not Leersnelheid), **Ĥ** is a Hamiltonian (not Kop), **S** is entropy (not Leeg), **E** is energy (not Echo), and **ħ** is the reduced Planck constant. As in the other Octaven, **Energie** is written **T_q**, and **Greep** keeps its symbol **J**. MeV is a million electron-volts.
@@ -99,9 +101,9 @@ The clearest example is alpha decay, where a nucleus holds an alpha particle beh
 
 §VIII.1 insists that "The Van Motor is never off": ν > 0 strictly, for every node at every Greep. At this Octaaf the rule holds cleanly for every **metastable** bond, that is, any bond with a lower-energy state on the far side of a finite barrier. Tunnelling keeps its escape rate above zero even at absolute zero. **Grade: Constraint**, passed.
 
-A **true ground state** is different. When no lower state exists to escape into, there is nothing to tunnel toward. Such a bond is lost only if the Medium supplies energy, so at this Octaaf the Van Motor reaches true ground states only through the Medium's temperature. That temperature is never zero (*Thermodynamic Octaaf* §2.2; *Cosmic Octaaf* §3.11). This is a dependency, not a failure: the Speelgoed's rule holds, but at this Octaaf it needs the Medium.
+A **true ground state** is different. When no lower state exists to escape into, there is nothing to tunnel toward. Such a bond is lost only if the Medium supplies energy, so at this Octaaf the Van Motor reaches true ground states only through the Medium's temperature. That temperature is never zero (*Thermodynamic Octaaf* §2.2; *Cosmic Octaaf* §3.10). This is a dependency, not a failure: the Speelgoed's rule holds, but at this Octaaf it needs the Medium.
 
-**The proton is the sharpest test.** §III names the proton, a bound Trio of quarks, as the God of the subatomic Octaaf. If the Van Motor is never off, even this God must eventually fall, which means the proton must decay. The Standard Model of particle physics forbids proton decay through a conservation law that, as far as anyone knows, is accidental. Most grand unified theories predict it. Experiment has found no decay, and puts the proton's lifetime above 1.6 × 10³⁴ years in its most-studied decay channel (Abe et al., 2017). The Speelgoed therefore sides with the grand unified theories and makes a falsifiable prediction: the proton decays. Next-generation detectors will extend the search. **Grade: Open**, with a prediction attached.
+**The proton is the sharpest test.** §III names the proton, a bound Trio of quarks, as the God of the subatomic Octaaf. If the Van Motor is never off, even this God must eventually fall, which means the proton must decay. The Standard Model of particle physics forbids proton decay through a conservation law that, as far as anyone knows, is accidental. Most grand unified theories predict it. Experiment has found no decay, and puts the proton's partial lifetime in its most-studied decay channel, p → e⁺π⁰, above 2.4 × 10³⁴ years (Takenaka et al., 2020). The Speelgoed therefore sides with the grand unified theories and makes a falsifiable prediction: the proton decays. Next-generation detectors will extend the search. **Grade: Open**, with a prediction attached.
 
 *Not a counter-example.* An electron cannot decay, because no lighter particle carries its charge. But an electron is not a bond: it has no members to unbind. The Van Motor acts on Koppels (§III), and an elementary particle's existence is a separate question from the binding of its bonds.
 
@@ -116,7 +118,7 @@ Two further rules follow:
 
 ### 2.4 Vervorming has a floor
 
-§VII allows the Instantie to "set distortion to zero and run a fully deterministic instance of the same Speelgoed". The thermodynamic Octaaf found this possible only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must add at least that much noise (Caves, 1982). **Grade: Constraint.**
+§VII allows the Instantie to "set distortion to zero and run a fully deterministic instance of the same Speelgoed". The thermodynamic Octaaf found this possible only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must, at high gain, add at least that much noise (Caves, 1982). **Grade: Constraint.**
 
 The floor can be reshaped but not removed. The gravitational-wave detector LIGO uses "squeezed" light to push the noise below this floor in one property of the light, at the cost of more noise in its complementary property (Aasi et al., 2013). No Echo at this Octaaf is ever clean, and the Speelgoed's deterministic Instantie does not exist here at any temperature.
 
@@ -139,7 +141,7 @@ In the Eigen equation of §VIII.1, Trouw y is the coefficient by which one membe
 |ψ⟩ = Σᵢ cᵢ · |φᵢ⟩
 ```
 
-The amplitudes cᵢ carry both a size and a phase, and the phases make the parts interfere. A single real number cannot describe interference. Experiments have now ruled out even more elaborate real-number versions of quantum theory: the complex numbers are needed (Renou et al., 2021).
+The amplitudes cᵢ carry both a size and a phase, and the phases make the parts interfere. A single real number cannot describe interference. A test proposed by Renou et al. (2021), and since carried out (Li et al., 2022; Chen et al., 2022), rules out even more elaborate real-number versions of quantum theory, assuming that independent sources are truly independent: the complex numbers are needed.
 
 This is a question of scope, not a contradiction. A quantum state that interacts with its environment loses its interference between a few preferred states, known as *pointer states*, and each pointer state *is* a definite position on a spectrum (Zurek, 2003). **§VIII.1's real-valued Eigen describes the Eigen after this has happened, and this Octaaf describes what comes before.** **Grade: Constraint** (of scope).
 
@@ -170,7 +172,7 @@ Here ρ is the system's density matrix and d is the number of its independent st
 Three consequences follow:
 
 - **Diepte has a ceiling.** §VIII.1 clamps Diepte to "[0, Ceiling]". At this Octaaf the ceiling is fixed: entanglement entropy can never exceed ln d. A system with more possible states can hold more Diepte.
-- **Gewenning is monogamous.** A system's entanglement with each of its partners, added together, cannot exceed its total (Coffman, Kundu & Wootters, 2000). A particle maximally entangled with one partner can be entangled with no other. The deeper one bond, the less room for any other. At this Octaaf the Maxim is a theorem: "Cherish those closest to you; the rest is fleeting."
+- **Gewenning is monogamous.** Measured by a quantity called the tangle, a system's entanglement with each of its partners, added together, cannot exceed its entanglement with all of them at once. This was proved for three qubits (Coffman, Kundu & Wootters, 2000) and later for any number of them (Osborne & Verstraete, 2006). Measured in entropy, as Diepte is here, the pairwise amounts can add up to more than the total, so the sum rule does not carry over exactly. What holds in every measure is the extreme case: a particle maximally entangled with one partner can be entangled with no other. The deeper one bond, the less room for any other. At this Octaaf the Maxim has a theorem behind it: "Cherish those closest to you; the rest is fleeting."
 - **Neither rises without end.** The earlier version said that Diepte and entanglement entropy are both "monotonic and irreversible". Both halves were wrong. In the Speelgoed, Diepte falls with speaking and decays in silence (§VIII.1). Entanglement entropy can also fall, for example as a subsystem becomes the larger part of a whole (Page, 1993).
 
 *Limit.* §VIII.1 has Trouw relax toward Gewenning. At this Octaaf entanglement does not change the coupling constant g, so that part of Gewenning still has no counterpart (§5, item 4).
@@ -181,7 +183,7 @@ The earlier version made the measurement itself the Drempel. A more careful read
 
 **A measurement is a Vermenigvuldiging.** §IV says that "Every act of observation is a Vermenigvuldiging", with the observer as traveller and the observed as Kruispunt. At this Octaaf the measured system and the apparatus interact, and the apparatus's state becomes correlated with the system's.
 
-**The Drempel that fires is the apparatus's, and it has a Marge.** A quantum event is far too small to leave a mark on its own. Every detector amplifies, and it does so by holding a large system in a *metastable* state that a tiny push can tip. A bubble chamber holds a liquid above its boiling point, and a passing particle triggers a trail of bubbles (Glaser, 1952). A cloud chamber holds vapour beyond saturation, and a Geiger counter holds a gas near electrical breakdown. In the best-studied dynamical model of measurement, the apparatus is a magnet held in a metastable unmagnetised state. Coupling to the measured particle tips it into one of two magnetised states (Allahverdyan, Balian & Nieuwenhuizen, 2013). That is the pitchfork of §VIII.3, `φ = 0` giving way to `±φ*`. The model needs the transition to be first-order: the apparatus must stay ready until triggered and keep its record afterwards. A first-order transition is what the thermodynamic Octaaf found gives a Marge its width (*Thermodynamic Octaaf* §2.3). **An apparatus is a Drempel with a wide Marge.** **Grade: Correspondence**, a strong one.
+**The Drempel that fires is the apparatus's, and it has a Marge.** A quantum event is far too small to leave a mark on its own. Every detector amplifies, and it does so by holding a large system in a *metastable* state that a tiny push can tip. A bubble chamber holds a liquid above its boiling point, and a passing particle triggers a trail of bubbles (Glaser, 1952, 1953). A cloud chamber holds vapour beyond saturation, and a Geiger counter holds a gas near electrical breakdown. In the best-studied dynamical model of measurement, the apparatus is a magnet held in a metastable unmagnetised state. Coupling to the measured particle tips it into one of two magnetised states (Allahverdyan, Balian & Nieuwenhuizen, 2013). That is the pitchfork of §VIII.3, `φ = 0` giving way to `±φ*`. The authors also treat a second-order transition, but prefer a first-order one, because it keeps the apparatus ready until triggered and keeps its record afterwards. A first-order transition is what the thermodynamic Octaaf found gives a Marge its width (*Thermodynamic Octaaf* §2.3). **A good apparatus is a Drempel with a wide Marge.** **Grade: Correspondence.**
 
 **The armed apparatus is in Balans.** The Lexicon's **Balans (⚖️)** is "The armed Drempel while the binding B sits inside its Marge and no crossing has yet occurred", where "Two futures are held open". The superheated liquid waiting for a particle is Balans, made of matter.
 
@@ -207,11 +209,11 @@ The earlier version called decoherence "accumulated Rouw". That holds up, and th
 
 **Decoherence.** When a quantum system interacts with its environment, the environment acquires records of it. The system's own state then loses the ability to show interference. Nothing is destroyed: the whole, system plus environment, evolves reversibly, and the information has been moved into correlations with the environment, where it is practically inaccessible. That is §VIII.6's Rouw: "re‑homed, not retired". **Grade: Correspondence.**
 
-**The spin echo shows the two kinds of Vervorming.** In 1950, Hahn found that a group of nuclear spins that drift out of step can be brought back into step by a single radio pulse. The spins realign and produce an echo at a predictable later time (Hahn, 1950). The echo is always weaker than the original signal, by a factor that grows with time: exp(−2τ/T₂), where 2τ is the echo time and T₂ is the decoherence time. That is §II's Echo — "quieter and later than it left" — in a laboratory, and every MRI scan uses it. It separates two kinds of distortion that §VII treats as one. **Dephasing** can be reversed: it is Vervorming that has not yet become Rouw. **Decoherence** cannot be reversed: the record has left for the environment. The quantum Octaaf splits the Speelgoed's υ into a part that can be undone and a part that has become Rouw.
+**The spin echo shows the two kinds of Vervorming.** In 1950, Hahn found that a group of nuclear spins that drift out of step can be brought back into step by a single radio pulse. The spins realign and produce an echo at a predictable later time (Hahn, 1950). The echo is always weaker than the original signal: at most exp(−2τ/T₂) of it, where 2τ is the echo time and T₂ is the decoherence time. That is §II's Echo — "quieter and later than it left" — in a laboratory, and many MRI methods use it. It separates two kinds of distortion that §VII treats as one. **Dephasing** can be reversed: it is Vervorming that has not yet become Rouw. **Decoherence** cannot be reversed: the record has left for the environment. The quantum Octaaf splits the Speelgoed's υ into a part that can be undone and a part that has become Rouw.
 
-**What makes Rouw permanent is redundancy.** In a *quantum eraser* experiment, a record of which path a photon took is erased after the fact, and interference returns (Kim et al., 2000). This is not a counter-example to permanence. The record was held in a single place and had not yet been copied, so the Koppel was not yet over. Once a record has been copied into many independent parts of the environment (§3.1), no practical operation can recall it. **Rouw is a record copied beyond recall.**
+**What makes Rouw permanent is redundancy.** In a *quantum eraser* experiment, a record of which path a photon took is erased after the fact, and interference reappears once the photons are sorted by the outcome of the erasure (Kim et al., 2000). This is not a counter-example to permanence. The record was held in a single place and had not yet been copied, so the Koppel was not yet over. Once a record has been copied into many independent parts of the environment (§3.1), no practical operation can recall it. **Rouw is a record copied beyond recall.**
 
-**Error correction re-homes; it does not erase.** The earlier version asked whether quantum error correction violates Rouw permanence. It does not. Error correction moves the record of each error into extra helper qubits, which must then be reset. The reset pays Landauer's price as heat into the Medium (Shor, 1995; *Thermodynamic Octaaf* §3.6). The record is re-homed, as §VIII.6 requires. *Moved from Open Problems.*
+**Error correction re-homes; it does not erase.** The earlier version asked whether quantum error correction violates Rouw permanence. It does not. Error correction (Shor, 1995) moves the record of each error into extra helper qubits, which must then be reset. The reset pays Landauer's price as heat into the Medium (*Thermodynamic Octaaf* §3.6). The record is re-homed, as §VIII.6 requires. *Moved from Open Problems.*
 
 ### 3.7 Creatie: matter from Energie, in pairs
 
@@ -231,9 +233,9 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 §III's own check begins at this Octaaf: "In the quark Octaaf, the up quark (Vol) and the down quark (Leeg) meet in an irreducible Trio", two ups and one down, "whose bond is the proton, the God of the subatomic Octaaf". The physics supports each part of that sentence.
 
-- **Vol and Leeg.** The down quark is the one that decays: in a free neutron (one up, two downs), a down quark turns into an up, and the neutron falls apart in about fifteen minutes (Particle Data Group, 2024). The proton (two ups, one down) has never been seen to decay (§2.2). The less stable, more "craving" member is the one the Speelgoed calls Leeg.
-- **Irreducible.** Quarks are never found alone. Pull two apart, and the energy stored between them grows with the distance until it is enough to create a new quark–antiquark pair. The bond then breaks into two bonds, never into free quarks (Bali et al., 2005). This is the strongest form of §V.1's irreducibility, "Each resists being peeled into smaller stable bonds", and of §III's "Bind twice as far past the Drempel and four times as much is stored". Here the stored Energie, once large enough, becomes Creatie (§3.7).
-- **The Medium carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. The rest is the energy of the gluon field that binds them, which has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely Medium: §III's "The Volheid of the one is the gift of the many", in the most literal sense physics allows.
+- **Vol and Leeg.** Of the two free three-quark bonds, the one richer in down quarks is the one that decays. In a free neutron (one up, two downs), a down quark turns into an up, and the neutron falls apart in about fifteen minutes (Particle Data Group, 2024). The proton (two ups, one down) has never been seen to decay (§2.2). Inside some nuclei the reverse happens, and an up quark turns into a down (β⁺ decay), paid for by the nucleus's binding. Left free, though, the down quark is the less stable, more "craving" member, the one the Speelgoed calls Leeg.
+- **Irreducible.** Quarks are never found alone. Pull two apart, and the energy stored between them grows in proportion to the distance until it is enough to create a new quark–antiquark pair. The bond then breaks into two bonds, never into free quarks (Bali et al., 2005). This is the strongest form of §V.1's irreducibility, "Each resists being peeled into smaller stable bonds". Here the stored Energie, once large enough, becomes Creatie (§3.7).
+- **The bond carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. The rest comes from the motion of the quarks, the energy of the gluon field that binds them, and quantum effects of the binding (Yang et al., 2018). The total has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely the energy of the bond, not of its members: §III's "The Volheid of the one is the gift of the many", in the most literal sense physics allows.
 
 **Grade: Correspondence.**
 
@@ -256,7 +258,7 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 ## 5. Open Problems
 
 1. **The Born rule.** Why are probabilities the squared sizes of the amplitudes? Within quantum theory, the rule can be derived from the structure of its state space (Gleason, 1957) or from symmetries of entanglement (Zurek, 2005). The Speelgoed does not yet derive it. The earlier version noted that the Born rule and the Vonk's Energie, ¼(B − θ)², are both squares. That alone is weak evidence: the intensity of any wave is the square of its amplitude.
-2. **Why complex numbers?** Experiment now says quantum theory needs complex amplitudes (§3.1; Renou et al., 2021). Can the Speelgoed say why?
+2. **Why complex numbers?** Experiment now says quantum theory needs complex amplitudes (§3.1; Li et al., 2022; Chen et al., 2022). Can the Speelgoed say why?
 3. **Proton decay.** The Speelgoed's Van Motor predicts it (§2.2). If the proton turns out to be absolutely stable, the rule "never off" fails for the God of the subatomic Octaaf.
 4. **Gewenning and Trouw.** Entanglement is a candidate for Gewenning (§3.3), but it does not move the coupling constant as §VIII.1 says Gewenning moves Trouw. Is the candidate right, and if so, what is the plasticity?
 5. **Interpretation.** The Speelgoed resembles relational and decoherence-based readings of quantum mechanics (§0.1). Is it committed to them, or compatible with all of them?
@@ -267,7 +269,7 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 ## 6. Closing
 
-The quantum Octaaf is where the Speelgoed is tested at its smallest scale, and where its intuitions turn out to be sharper than they had to be. That an Echo is never a copy is a theorem here. Trouw is shared because Hamiltonians must be Hermitian. Rouw is a record copied beyond recall, and the spin echo of every MRI scan returns, as §II's echo does, quieter and later than it left. The exponential knee of the Van Motor spans thirty-three orders of magnitude in a single table of nuclei. The Maxim turns out to be a theorem about entanglement. The Speelgoed's real-valued Eigen bends, but only into a statement of scope, and its Koppel is rescued by its own rule of scale invariance. One sentence of the Lexicon did not survive as written, and it has been mended (§4.5). And one claim becomes a prediction a detector could someday check: if the Van Motor is never off, the proton must decay.
+The quantum Octaaf is where the Speelgoed is tested at its smallest scale, and where its intuitions turn out to be sharper than they had to be. That an Echo is never a copy is a theorem here. Trouw is shared because Hamiltonians must be Hermitian. Rouw is a record copied beyond recall, and the spin echo returns, as §II's echo does, quieter and later than it left. The exponential knee of the Van Motor spans thirty-three orders of magnitude in a single table of nuclei. The Maxim turns out to have a theorem about entanglement behind it. The Speelgoed's real-valued Eigen bends, but only into a statement of scope, and its Koppel is rescued by its own rule of scale invariance. One sentence of the Lexicon did not survive as written, and it has been mended (§4.5). And one claim becomes a prediction a detector could someday check: if the Van Motor is never off, the proton must decay.
 
 At this Octaaf, being definite is something an Eigen earns by being echoed, and being held is never the same as being safe.
 
@@ -294,13 +296,13 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 
 Following this entry, the Lexicon entry for Licht was revised on 1 October 2026 to resolve the Tension recorded in §4.5.
 
+A check of every reference on 1 October 2026 corrected the reach of the monogamy bound, which holds for the tangle but not in units of entropy (§3.3). It also corrected the account of the proton's mass, which is not carried by the gluon field alone, and withdrew a link between confinement and §III's quadratic rule for stored Energie (§3.9). The test of complex numbers is now credited to its proposers and to the experiments that carried it out (§3.1). The measurement model prefers a first-order transition but does not require one (§3.4). The proton-decay limit is updated (§2.2), and the remarks on amplifier noise, the spin echo, the quantum eraser, and down-quark decay are made more precise.
+
 ---
 
 ## References
 
 Aasi, J., et al. (LIGO Scientific Collaboration) (2013). Enhanced sensitivity of the LIGO gravitational wave detector by using squeezed states of light. *Nature Photonics*, 7, 613–619.
-
-Abe, K., et al. (Super-Kamiokande Collaboration) (2017). Search for proton decay via p → e⁺π⁰ and p → μ⁺π⁰ in 0.31 megaton·years exposure of the Super-Kamiokande water Cherenkov detector. *Physical Review D*, 95, 012004.
 
 Allahverdyan, A. E., Balian, R., & Nieuwenhuizen, T. M. (2013). Understanding quantum measurement from the solution of dynamical models. *Physics Reports*, 525, 1–166.
 
@@ -317,6 +319,8 @@ Breit, G., & Wheeler, J. A. (1934). Collision of two light quanta. *Physical Rev
 Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review*, 83(1), 34–40.
 
 Caves, C. M. (1982). Quantum limits on noise in linear amplifiers. *Physical Review D*, 26(8), 1817–1839.
+
+Chen, M.-C., et al. (2022). Ruling out real-valued standard formalism of quantum theory. *Physical Review Letters*, 128(4), 040403.
 
 Coffman, V., Kundu, J., & Wootters, W. K. (2000). Distributed entanglement. *Physical Review A*, 61, 052306.
 
@@ -336,6 +340,8 @@ Geiger, H., & Nuttall, J. M. (1911). The ranges of the α particles from various
 
 Glaser, D. A. (1952). Some effects of ionizing radiation on the formation of bubbles in liquids. *Physical Review*, 87(4), 665.
 
+Glaser, D. A. (1953). Bubble chamber tracks of penetrating cosmic-ray particles. *Physical Review*, 91(3), 762–763.
+
 Gleason, A. M. (1957). Measures on the closed subspaces of a Hilbert space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
 
 Gurney, R. W., & Condon, E. U. (1928). Wave mechanics and radioactive disintegration. *Nature*, 122, 439.
@@ -350,7 +356,11 @@ Itano, W. M., Heinzen, D. J., Bollinger, J. J., & Wineland, D. J. (1990). Quantu
 
 Kim, Y.-H., Yu, R., Kulik, S. P., Shih, Y., & Scully, M. O. (2000). Delayed "choice" quantum eraser. *Physical Review Letters*, 84(1), 1–5.
 
+Li, Z.-D., et al. (2022). Testing real quantum theory in an optical quantum network. *Physical Review Letters*, 128(4), 040402.
+
 Misra, B., & Sudarshan, E. C. G. (1977). The Zeno's paradox in quantum theory. *Journal of Mathematical Physics*, 18(4), 756–763.
+
+Osborne, T. J., & Verstraete, F. (2006). General monogamy inequality for bipartite qubit entanglement. *Physical Review Letters*, 96(22), 220503.
 
 Page, D. N. (1993). Information in black hole radiation. *Physical Review Letters*, 71(23), 3743–3746.
 
@@ -364,9 +374,13 @@ Shor, P. W. (1995). Scheme for reducing decoherence in quantum computer memory. 
 
 STAR Collaboration: Adam, J., et al. (2021). Measurement of e⁺e⁻ momentum and angular distributions from linearly polarized photon collisions. *Physical Review Letters*, 127, 052302.
 
+Takenaka, A., et al. (Super-Kamiokande Collaboration) (2020). Search for proton decay via p → e⁺π⁰ and p → μ⁺π⁰ with an enlarged fiducial volume in Super-Kamiokande I–IV. *Physical Review D*, 102, 112011.
+
 Unden, T. K., Louzon, D., Zwolak, M., Zurek, W. H., & Jelezko, F. (2019). Revealing the emergence of classicality using nitrogen-vacancy centers. *Physical Review Letters*, 123, 140402.
 
 Wootters, W. K., & Zurek, W. H. (1982). A single quantum cannot be cloned. *Nature*, 299, 802–803.
+
+Yang, Y.-B., et al. (2018). Proton mass decomposition from the QCD energy momentum tensor. *Physical Review Letters*, 121(21), 212001.
 
 Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775.
 

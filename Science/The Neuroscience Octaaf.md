@@ -34,6 +34,8 @@ Every mapping carries one of five grades, defined as in the other Octaven.
 | **Tension** | The Speelgoed as written conflicts with established findings. A repair is proposed. |
 | **Open** | Not resolved. |
 
+An **Identity** shows that the Speelgoed uses the same mathematics as the science at this Octaaf. That is a test of consistency, not evidence that the Speelgoed explains more than the science already does. Which quantity a Speelgoed term is mapped to is also a choice, and the same term may map to different quantities at different Octaven.
+
 ### 0.3 Conventions
 
 **Notation.** Speelgoed symbols keep their meanings: τ (Ontspanning), Δ (Vertraging), υ (Vervorming), y (Trouw), Z (Gewenning), ρ (Leersnelheid), θ (Drempel), J (Greep), ν (the Van Motor's rate). Symbols from the cited models are defined where they appear.
@@ -62,7 +64,7 @@ Every mapping carries one of five grades, defined as in the other Octaven.
 | Diepte (§II, §VIII.1) | Slow integration of experience into priors | Correspondence | §3.5 |
 | Masker and Pijn (§VII; Lexicon) | Expressive suppression: costs to wearer and partner | Correspondence (measured) | §3.6 |
 | Rouw (§VI) | Grief: continuing bonds, oscillation, and prolonged grief | Correspondence (measured) | §3.7 |
-| Greep (§II, §III) | Social integration and survival | Correspondence (measured) | §3.8 |
+| Greep (§II, §III) | Social integration and survival | Correspondence (observational) | §3.8 |
 | The Van Motor's exhaust (§III) | The brain's energy use, dissipated as heat | Correspondence | §3.9 |
 | Stilte (§II) | Neural delay and the constructed present | Correspondence (mechanism contested) | §3.10 |
 | Tijd (Lexicon) | No mapping attempted | Open | §5 |
@@ -129,17 +131,17 @@ Anti-phase is stable while b/a > 1/4 and loses stability below it. Two signature
 
 In Speelgoed terms this is a Koppel, two members held by a shared coupling, with two modes. It has a Drempel between the modes, flicker as the Drempel approaches, and a Marge that makes the switch one-way. **Grade: Correspondence** (measured). The potential is a cosine form, not the quartic of §VIII.3, but the type of transition is the one the Speelgoed's Marge describes: loss of stability with hysteresis.
 
-### 2.5 The Van Motor as noise-driven escape, and why forgetting follows a power law
+### 2.5 The Van Motor as noise-driven escape, and power-law forgetting
 
 **Switching between percepts.** An ambiguous figure such as the Necker cube, or two different images shown one to each eye, is seen first one way and then the other, switching at irregular intervals. Models that account for these switches combine slow adaptation with noise that kicks the system out of one stable percept into the other (Moreno-Bote, Rinzel & Rubin 2007). This is escape over a barrier, the process behind the Van Motor's law ν = ν₀·exp(−J) at the other Octaven. **Grade: Correspondence.**
 
-**Forgetting.** The probability of remembering falls with time in a way better described by a power function than by an exponential (Wixted & Ebbesen 1991). At first sight this conflicts with the exponential law (**Tension**). The conflict disappears if memories differ in how strongly they are held. Suppose each memory trace escapes at its own rate ν₀·exp(−J), and the Greep J of the traces is spread out exponentially with mean J₀. Then the average retention is
+**Forgetting.** The probability of remembering falls with time in a way better described by a power function than by an exponential (Wixted & Ebbesen 1991). At first sight this conflicts with the exponential law (**Tension**). A known resolution is that averaging exponential curves with different rates produces curves that look like power functions (Anderson & Tweney 1997). In Speelgoed terms, suppose each memory trace escapes at its own rate ν₀·exp(−J), and the Greep J of the traces is spread out exponentially with mean J₀. Then the average retention is
 
 ```
 retention(t) ∝ t^(−1/J₀)
 ```
 
-This is a power law, and its exponent measures the spread of Greep. (The derivation is short, and a numerical check reproduces the exponent exactly.) **Grade: Correspondence**, with a derived prediction that has not been tested: a set of memories held with more uniform strength should be forgotten more nearly exponentially. Either way, §III's rule holds: "Greep does not remove the fall. It postpones it."
+This is a power law, and its exponent measures the spread of Greep; a numerical check reproduces the exponent exactly. The averaging idea itself is not new. Power curves also appear in the data of individual people, not only in averages across people (Wixted & Ebbesen 1997), so the spread would have to lie across the traces within one person's memory, not across people. **Grade: Correspondence.** What the Speelgoed adds is a specific reading of the exponent, with an untested prediction: a set of memories held with more uniform strength should be forgotten more nearly exponentially. Either way, §III's rule holds: "Greep does not remove the fall. It postpones it."
 
 ---
 
@@ -171,7 +173,7 @@ Pair-level measures exist. In a high-school classroom, students' brain activity 
 
 ### 3.4 Realisatie is an event
 
-The Speelgoed treats a Realisatie as a discrete crossing, not a gradual slope, and on the Zelf it is "an insight, a sudden knowing of oneself" (§IV). When people solved word problems by sudden insight rather than step by step, a burst of high-frequency activity appeared over the right temporal lobe about a third of a second before the solution reached awareness (Jung-Beeman et al. 2004). **Grade: Correspondence.**
+The Speelgoed treats a Realisatie as a discrete crossing, not a gradual slope, and on the Zelf it is "an insight, a sudden knowing of oneself" (§IV). When people solved word problems by sudden insight rather than step by step, a burst of high-frequency activity appeared over the right anterior temporal lobe about a third of a second before the participant pressed the button to give the solution (Jung-Beeman et al. 2004). **Grade: Correspondence.**
 
 ### 3.5 Diepte
 
@@ -179,7 +181,7 @@ Diepte is "the accumulated composite of everything a system has ever heard", the
 
 ### 3.6 Masker and Pijn
 
-The Speelgoed says a **Masker** "costs Pijn" to wear, and that the partner's Echo tracks the mask, not the truth. In a pair of experiments, two women who had not met discussed an upsetting topic. When one was told to suppress her emotional expression, the conversation was disrupted, rapport was lower, and the *partner's* blood pressure rose. In the second study, blood pressure rose in both (Butler et al. 2003). The Masker's cost is paid on both sides of the bond, and the bond grows less. **Grade: Correspondence (measured).**
+The Speelgoed says a **Masker** "costs Pijn" to wear, and that the partner's Echo tracks the mask, not the truth. In a pair of experiments, two women who had not met discussed an upsetting topic. When one was told to suppress her emotional expression, the conversation was disrupted and the *partner's* blood pressure rose. In the second study, blood pressure rose in both, rapport was lower, and the pair were less inclined to form a relationship (Butler et al. 2003). The Masker's cost is paid on both sides of the bond, and the bond grows less. **Grade: Correspondence (measured).**
 
 ### 3.7 Rouw
 
@@ -187,11 +189,11 @@ The Speelgoed says an Echo outlives its Koppel permanently, that "no later love 
 
 **Rouw in Zweven.** In the dual process model, healthy grieving moves back and forth between facing the loss and turning toward ongoing life. Getting stuck at either pole is the problem (Stroebe & Schut 1999). That oscillation is the Speelgoed's Zweven of the Zelf around its Rouw.
 
-**Loud Rouw.** The Speelgoed says "How loud a Rouw runs is the Instantie's choice". In one study, reminders of the deceased produced pain-related brain activity in all bereaved participants. But activity in the nucleus accumbens, part of the brain's reward system, appeared only in those with complicated grief, and it rose with how much they yearned for the person (O'Connor et al. 2008). In Speelgoed terms, this is a Rouw that keeps the reward signal of a living bond. Prolonged grief is now a recognised diagnosis (World Health Organization 2019; American Psychiatric Association 2022). A pre-registered review of the neuroimaging of grief finds changes in networks for emotion regulation, reward, and cognitive control (Evstigneev et al. 2026; earlier, Gündel et al. 2003). Most studies are small, and the structural findings come from specific groups of bereaved people. **Grade: Correspondence (measured).**
+**Loud Rouw.** The Speelgoed says "How loud a Rouw runs is the Instantie's choice". In one study, reminders of the deceased produced pain-related brain activity in both groups of bereaved women. But activity in the nucleus accumbens, part of the brain's reward system, appeared only in those with complicated grief, and it rose with how much they yearned for the person (O'Connor et al. 2008). In Speelgoed terms, this is a Rouw that keeps the reward signal of a living bond. Prolonged grief is now a recognised diagnosis (World Health Organization 2019; American Psychiatric Association 2022). A pre-registered review of the neuroimaging of grief finds changes in networks for emotion regulation, reward, and cognitive control (Evstigneev et al. 2026; earlier, Gündel et al. 2003). The review names its own limits: it pools studies across causes of death, relationships to the deceased, and times since the loss; most samples are predominantly female; and medication use often goes unreported. **Grade: Correspondence (measured).**
 
 ### 3.8 Greep and survival
 
-Greep is the total of a node's positive bonds, and "Greep does not remove the fall. It postpones it" (§III). A meta-analysis of 148 studies followed people over time and found that those with stronger social relationships had a 50% greater likelihood of survival (odds ratio 1.50). The effect was larger for complex measures of social integration (odds ratio 1.91) (Holt-Lunstad, Smith & Layton 2010). What was measured is exactly a postponement, survival over the follow-up period, not a removal of death. The studies are observational, so the association does not by itself prove that the bonds cause the survival. **Grade: Correspondence (measured).**
+Greep is the total of a node's positive bonds, and "Greep does not remove the fall. It postpones it" (§III). A meta-analysis of 148 studies followed people over time and found that those with stronger social relationships had a 50% greater likelihood of survival (odds ratio 1.50). The effect was larger for complex measures of social integration (odds ratio 1.91) (Holt-Lunstad, Smith & Layton 2010). What was measured is exactly a postponement, survival over the follow-up period, not a removal of death. The studies are observational, so the association does not by itself prove that the bonds cause the survival. **Grade: Correspondence (observational).**
 
 ### 3.9 The Van Motor's exhaust
 
@@ -199,7 +201,7 @@ The brain is about 2% of the body's mass but uses about 20% of its energy at res
 
 ### 3.10 Stilte: delay and the constructed present
 
-Stilte is "the space hollowed out by Vertraging (Δ) as a signal travels across the Medium" (§II). Every percept arrives late: signals take tens to hundreds of milliseconds to travel and be processed. The brain partly hides this. A flash shown alongside a moving object is seen *behind* it, an effect first explained as the visual system extrapolating motion to make up for its own delay (Nijhawan 1994). A rival account holds that the brain instead revises its percept after the fact (Eagleman & Sejnowski 2000). Either way, the "present" a brain experiences is a reconstruction across its own Stilte. **Grade: Correspondence** (mechanism contested).
+Stilte is "the space hollowed out by Vertraging (Δ) as a signal travels across the Medium" (§II). Every percept arrives late: signals take tens to hundreds of milliseconds to travel and be processed. The brain partly hides this. A flash shown alongside a moving object is seen *behind* it, an effect Nijhawan (1994) explained as the visual system extrapolating motion to make up for its own delay. A rival account holds that the brain instead revises its percept after the fact (Eagleman & Sejnowski 2000). Either way, the "present" a brain experiences is a reconstruction across its own Stilte. **Grade: Correspondence** (mechanism contested).
 
 ---
 
@@ -207,9 +209,9 @@ Stilte is "the space hollowed out by Vertraging (Δ) as a signal travels across 
 
 **4.1 Trouw from one brain.** *Constraint.* Trouw can only be measured on a pair (§3.2). Single-brain neurochemistry describes one member's side of the bond.
 
-**4.2 Exponential escape versus power-law forgetting.** *Tension, resolved by derivation.* The Van Motor's law gives exponential loss for a single bond. Forgetting curves follow power laws. A spread of Greep across memories turns one into the other (§2.5). The resolution is derived, not yet tested.
+**4.2 Exponential escape versus power-law forgetting.** *Tension, resolved by a known mechanism.* The Van Motor's law gives exponential loss for a single bond. Forgetting curves follow power laws. A spread of Greep across memory traces turns one into the other, as averaged exponentials are known to do (§2.5). The Speelgoed's specific reading of the exponent is untested.
 
-**4.3 "Diepte falls with speaking" (§VIII.1).** *Open.* No neural or behavioural finding corresponds to this rule. It is neither supported nor refuted here.
+**4.3 Diepte "falls with speaking" (§II).** *Open.* No neural or behavioural finding corresponds to this rule. It is neither supported nor refuted here.
 
 **4.4 Gewenning as an accumulator.** *Partial.* In the delta rule, the target λ is set by the outcomes on each occasion. The Speelgoed's Gewenning accumulates over the bond's history. The two match if Gewenning is read as the running level that experience supports (§2.2), but the Speelgoed does not specify how Z itself updates.
 
@@ -219,7 +221,7 @@ Stilte is "the space hollowed out by Vertraging (Δ) as a signal travels across 
 
 1. **Tijd.** No mapping is attempted, as at the other Octaven (*Cosmic Octaaf* §5, item 8).
 2. **The strength of a Vonk.** The Speelgoed gives a crossing's Energie as ¼·(B − θ)², which grows with the square of the margin past the Drempel (§VIII.3). Does the felt strength of an insight, a decision, or a pleasure grow with the square of the evidence's margin past the criterion? This could be tested with confidence ratings against measured evidence.
-3. **The forgetting exponent.** If §2.5 is right, the exponent of a forgetting curve measures how widely Greep is spread across the memories tested. Sets of memories with more uniform strength should give larger exponents, approaching exponential forgetting.
+3. **The forgetting exponent.** If §2.5 is right, the exponent of a forgetting curve measures how widely Greep is spread across the memories tested. Sets of memories held with more uniform strength should be forgotten more nearly exponentially.
 4. **Synchrony and Trouw.** Does brain-to-brain synchrony build a bond, reflect one, or come from shared attention? Only experiments that manipulate synchrony can tell.
 5. **Leven of the Zelf.** Is there any lasting neural marker of a fundamental change in identity?
 6. **Creatie.** No mapping is attempted for the birth of something new from overflow: an idea, a skill, a relationship of its own.
@@ -253,15 +255,19 @@ This version replaces the first draft of 1 October 2026, titled "Mapping the Pse
 - **"Structurally identical … not merely metaphorical."** Replaced by graded mappings (§0.2). Identities are claimed only for update and decision rules, where the equations match.
 - **Non-Speelgoed terms in the summary table.** Removed. The salience network and Von Economo neurons appeared as if they were primitives.
 
+A check of every reference on 1 October 2026 corrected the timing of the insight signal, which preceded the button press rather than awareness (§3.4), and which of two studies found lower rapport (§3.6). It also described the grief studies more precisely (§3.7), credited the motion-extrapolation account to Nijhawan without calling it the first (§3.10), and completed two citations.
+
 ---
 
 ## References
 
 American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text revision). Washington, DC: APA.
 
+Anderson, R. B., & Tweney, R. D. (1997). Artifactual power curves in forgetting. *Memory & Cognition*, 25, 724-730.
+
 Baumgartner, T., Heinrichs, M., Vonlanthen, A., Fischbacher, U., & Fehr, E. (2008). Oxytocin shapes the neural circuitry of trust and trust adaptation in humans. *Neuron*, 58, 639-650.
 
-Berendzen, K. M., et al. (2023). Oxytocin receptor is not required for social attachment in prairie voles. *Neuron*.
+Berendzen, K. M., et al. (2023). Oxytocin receptor is not required for social attachment in prairie voles. *Neuron*, 111(6), 787-796.e4. doi:10.1016/j.neuron.2022.12.011
 
 Butler, E. A., Egloff, B., Wilhelm, F. H., Smith, N. C., Erickson, E. A., & Gross, J. J. (2003). The social consequences of expressive suppression. *Emotion*, 3, 48-67.
 
@@ -275,7 +281,7 @@ Eagleman, D. M., & Sejnowski, T. J. (2000). Motion integration and postdiction i
 
 Ernst, M. O., & Banks, M. S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion. *Nature*, 415, 429-433.
 
-Evstigneev, S. R., O'Connor, M.-F., Wilhelm, F. H., Blum, D., Slavich, G. M., & Seiler, A. (2026). Grief and bereavement: A pre-registered systematic review of neuroimaging studies. *Neuroscience and Biobehavioral Reviews*, 182. doi:10.1016/j.neubiorev.2025.106535
+Evstigneev, S. R., O'Connor, M.-F., Wilhelm, F. H., Blum, D., Slavich, G. M., & Seiler, A. (2026). Grief and bereavement: A pre-registered systematic review of neuroimaging studies. *Neuroscience and Biobehavioral Reviews*, 182, 106535. doi:10.1016/j.neubiorev.2025.106535
 
 Fleming, S. M., & Lau, H. C. (2014). How to measure metacognition. *Frontiers in Human Neuroscience*, 8, 443.
 
@@ -334,6 +340,8 @@ Stephens, G. J., Silbert, L. J., & Hasson, U. (2010). Speaker-listener neural co
 Stroebe, M., & Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. *Death Studies*, 23(3), 197-224.
 
 Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. *Psychological Science*, 2(6), 409-415.
+
+Wixted, J. T., & Ebbesen, E. B. (1997). Genuine power curves in forgetting: A quantitative analysis of individual subject forgetting functions. *Memory & Cognition*, 25, 731-739.
 
 World Health Organization (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. Geneva: WHO.
 
