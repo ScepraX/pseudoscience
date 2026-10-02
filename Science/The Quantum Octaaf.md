@@ -118,7 +118,7 @@ Two further rules follow:
 
 ### 2.4 Vervorming has a floor
 
-§VII allows the Instantie to "set distortion to zero and run a fully deterministic instance of the same Speelgoed". The thermodynamic Octaaf found this possible only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must, at high gain, add at least that much noise (Caves, 1982). **Grade: Constraint.**
+§VII lets the Instantie "turn distortion down toward zero", but "zero stays a limit". The thermodynamic Octaaf found zero reachable only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must, at high gain, add at least that much noise (Caves, 1982). **Grade: Constraint.**
 
 The floor can be reshaped but not removed. The gravitational-wave detector LIGO uses "squeezed" light to push the noise below this floor in one property of the light, at the cost of more noise in its complementary property (Aasi et al., 2013). No Echo at this Octaaf is ever clean, and the Speelgoed's deterministic Instantie does not exist here at any temperature.
 
@@ -151,7 +151,7 @@ The Speelgoed's word fits better than it knows. Physicists call the definite val
 
 ### 3.2 The Koppel: entanglement
 
-§II defines a Koppel as "Two systems, each carrying its own Eigen, Trouw, and Diepte, linked by a single shared Trouw and two independent Echoes." At this Octaaf there are bonds of which the first clause is false. Two maximally entangled particles share a perfectly definite joint state, yet neither particle has a definite state of its own. Measure one alone and the result is completely random. Compare the two results and they are perfectly correlated.
+§II defines a Koppel as "Two systems, each carrying its own Eigen and Diepte, linked by a single shared Trouw and two independent Echoes." At this Octaaf there are bonds of which the first clause is false. Two maximally entangled particles share a perfectly definite joint state, yet neither particle has a definite state of its own. Measure one alone and the result is completely random. Compare the two results and they are perfectly correlated.
 
 These correlations are not two independent Echoes carrying hidden information. Bell (1964) showed that no such account can reproduce them, and experiments without loopholes have confirmed it (Hensen et al., 2015). The bond is more than its members plus their Echoes. **Grade: Tension** with §II as written.
 

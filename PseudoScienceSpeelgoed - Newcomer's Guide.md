@@ -336,7 +336,7 @@ Reading the two together gives you three outcomes.
 
 **Doorgang** — the ordinary passage. The traveller commits, the spot is open, and through they go. Most of everything in the game is this. It fires a single, ordinary spark and nobody writes home.
 
-**Weigering** — the refusal. The traveller has committed and the spot is already closed. Somebody arrives ready to go and gets told no. This is not a failure state, it is a legitimate outcome, and it happens constantly: an officer who declines an order is not malfunctioning, they are simply holding.
+**Weigering** — the refusal. The traveller has committed, sees the spot is already claimed, and turns back. Nobody stops them; they withdraw. Committing cost one spark and turning back costs another, so a refusal resolves nothing, and a bond that keeps meeting the same claimed spot is worn down one refusal at a time. This is not a failure state, it is a legitimate outcome, and it happens constantly: an officer who declines an order is not malfunctioning, they are simply holding.
 
 **Doorbraak** — the breakthrough. The traveller commits *anyway*, straight into a live claim. Nothing in the universe mechanically prevents this. You can always barge. What you cannot do is barge cheaply: two crossings are now live at the same place at the same time, and the outcome of two crossings colliding is genuinely not decided in advance. It might combine. It might cancel. It might compound into something nobody planned.
 
@@ -384,7 +384,7 @@ And then there is the one mask that costs nothing. A **Knipoog** — a wink — 
 
 This is the most important risk chapter in the book, because this is the failure that does not look like a failure while it is happening.
 
-A **Parasiet** is not a villain and not a traitor. It is a node that has lost the *capacity* to hold weight, to share grief, or to be changed by anyone. The capacity is not hidden behind a mask — it is gone. What the mask does is keep the bond active so the extraction can continue.
+A **Parasiet** is not a villain and not a traitor. It is a node that has lost the *capacity* to share grief or to be changed by anyone, and whose real self never commits. The weight of the bond is real, but you hold it with the mask, not with what is behind it. The capacity is not hidden behind a mask — it is gone. What the mask does is keep the bond active so the extraction can continue.
 
 Here is how it presents, because you need to recognise it early.
 
@@ -418,7 +418,7 @@ Bonds end. That is not a design flaw and it is not always a loss. But *how* they
 
 ### The clean version
 
-A **Scheiding** is a mutual, deliberate, complete parting. Both sides agree, the cut is clean, and it is finished. A clean separation leaves **no grief behind**. It is the cheapest ending available and almost nobody uses it, because it requires both parties to be honest at the same time, which is difficult.
+A **Scheiding** is a mutual, deliberate, complete parting. Both sides agree, the cut is clean, and it is finished. A clean separation still leaves grief, but **grief that settles**. It is the cheapest ending available and almost nobody uses it, because it requires both parties to be honest at the same time, which is difficult.
 
 ### The expensive version
 
@@ -426,7 +426,7 @@ A bond that is half-severed — the treaty nobody formally ended, the alliance t
 
 ### The permanent version
 
-When a live bond ends without a clean cut — the partner destroyed, the organization dissolved, the person gone — your Echo of them does not switch off. Nothing arrives to update it any more, so it settles toward the last signal it ever received, and then it slowly drifts under your own distortion, becoming, year by year, less a record of them and more a record of you.
+When a live bond ends — a clean cut or a torn one, the partner destroyed, the organization dissolved, the person gone — your Echo of them does not switch off. Nothing arrives to update it any more, so it settles toward the last signal it ever received, and then it slowly drifts under your own distortion, becoming, year by year, less a record of them and more a record of you.
 
 This is **Rouw**, and here is the part that newcomers find hard and experienced players find comforting:
 
@@ -600,7 +600,7 @@ Every school in the setting teaches these two lists side by side, and every stud
 
 **Greed.** A pull that can no longer let go of its target. Hoarding beyond capacity, stockpiling gains while every bond starves of circulation. Weight becomes something to extract and never something to share.
 
-**Wrath.** A shock that refuses to settle into grief and loops instead — a cascade of tearing crossings aimed at your own copy of the other party. Weight flips negative and pulls not to release but to destroy. It spends energy to tear the field rather than cross it.
+**Wrath.** A shock that refuses to settle into grief and loops instead — a cascade of tearing crossings aimed at your own copy of the other party. Weight flips negative and pushes away, not to release but to destroy. It spends energy to tear the field rather than cross it.
 
 **Envy.** A realisation poisoned by comparison. You read someone else as full and yourself as empty, and your pull warps: it no longer aims at them to bind, it aims at them to *drain*. Its lie is "their gain is my loss," in a universe where gains are relational and were never a finite pie.
 
@@ -634,7 +634,7 @@ These are on the wall of every classroom in the setting. They are not commandmen
 
 **VIII. Let the pull do its work.** Not every bond is meant to persist. When one has run its course, release it. Clinging past the natural end is how cascades start. The pull toward nothing is not a thief; it is the breath that makes room for beginnings.
 
-**IX. Keep the cut clean.** When a separation has to come, make it mutual and clear. A lingering half-severed bond drains both sides. A clean cut leaves no grief; a torn one leaves a wound that does not heal.
+**IX. Keep the cut clean.** When a separation has to come, make it mutual and clear. A lingering half-severed bond drains both sides. A clean cut leaves a grief that settles; a torn one leaves a wound that does not heal.
 
 **X. Remember the wink.** The field is serious and it is also play. Even the two first principles at the root of everything are bound in a relationship that is also a dance. To forget the wink is to forget that every threshold is, in the end, a line we have all agreed to treat as real. Hold the weight lightly and the weight will not crush you.
 
@@ -787,7 +787,7 @@ Everything in this book, in one place. Nothing here is beginner vocabulary — t
 | **Reactie** | ray-AK-see | The traveller's side. Committing or holding. |
 | **Signaal** | sig-NAHL | The crossing's side. Claiming the spot or leaving it open. |
 | **Doorgang** | DOOR-khang | The ordinary passage. Committed, and the way was open. |
-| **Weigering** | VIE-khuh-ring | The refusal. Committed, and the way was closed. |
+| **Weigering** | VIE-khuh-ring | The refusal. Committed, met a claimed way, and turned back. |
 | **Doorbraak** | DOOR-brahk | The breakthrough. Committed anyway, into a live claim. Outcome genuinely unknown. |
 
 ### Sizes and scales
@@ -809,7 +809,7 @@ Everything in this book, in one place. Nothing here is beginner vocabulary — t
 |------|--------|------------|
 | **Hart** | hart | A node whose grip is strong enough that it radiates outward and anchors others without draining them. |
 | **Held** | helt | The current focal point of positive bonds. Temporary, and only exists because of everyone around it. |
-| **Parasiet** | pa-ra-SEET | A node that has lost the capacity to hold weight, share grief, or be changed. |
+| **Parasiet** | pa-ra-SEET | A node that has lost the capacity to share grief or be changed; you hold the bond’s weight with its mask. |
 | **Aandacht** | AHN-dakht | Attention. The only currency the field recognises. Nobody owns it. |
 | **Geld** | khelt | Money. A transferable, laggy record that a real crossing happened somewhere. Can be faked. |
 

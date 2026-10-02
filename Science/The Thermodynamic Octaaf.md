@@ -105,7 +105,7 @@ Both defining properties of an Echo (§II) follow from the physics with nothing 
 ⟨ υ(t) · υ(t′) ⟩ = ( 2·k_B·T·τ / κ ) · δ(t − t′)
 ```
 
-The strength of the noise is tied to the relaxation time and to the temperature of the Medium. §VII's fully deterministic option, an Instantie with zero distortion, exists at this Octaaf only at T = 0, which the third law puts out of reach (§2.2). **Grade: Constraint.**
+The strength of the noise is tied to the relaxation time and to the temperature of the Medium. §VII's limit of zero distortion is reached at this Octaaf only at T = 0, which the third law puts out of reach (§2.2). **Grade: Constraint.**
 
 Two of the Speelgoed's rules then follow instead of having to be postulated:
 
@@ -276,7 +276,7 @@ At the level of microscopic dynamics, physics agrees. Hamiltonian evolution cons
 
 Thermodynamics adds a price. A record can be moved but not destroyed, and erasing one bit of it from a system, which means moving it into the Medium, costs at least k_B·T·ln 2 of heat (Landauer, 1961; Bérut et al., 2012). Forgetting is not free. It is paid for as exhaust. **Grade: Constraint.**
 
-**Scheiding is the reversible limit.** The Speelgoed says a mutual, deliberate **Scheiding (/)** "leaves no Rouw" (Lexicon; §XI, *Separatio*). At this Octaaf, an ending that leaves no irreversible record is a *reversible* process: one carried out infinitely slowly, producing no entropy. Such a process can be approached but never completed. Every real ending therefore leaves some Rouw, and the slower and more mutual the parting, the less it leaves. That gives Commandment IX ("Keep the Splitsing clean", §XIII) a physical basis. **Grade: Constraint.**
+**Scheiding is the reversible limit.** The Speelgoed says a mutual, deliberate **Scheiding (/)** leaves a Rouw "free to settle" (Lexicon; §XI, *Separatio*). At this Octaaf, an ending that left no irreversible record at all would be a *reversible* process: one carried out infinitely slowly, producing no entropy. Such a process can be approached but never completed. Every real ending therefore leaves some Rouw, and the slower and more mutual the parting, the less it leaves. That gives Commandment IX ("Keep the Splitsing clean", §XIII) a physical basis. **Grade: Constraint.**
 
 *The earlier version wrote the heat of an ended bond as ΔQ = TΔS. That relation holds only for reversible processes. For real endings the correct form is the Clausius inequality, dS ≥ δQ_th/T.*
 
