@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Veld in Motion · PseudoScience Speelgoed</title>
+  <meta name="description"
+    content="A living Instantie of the PseudoScience Speelgoed: Solos meet, Echoes lag, Drempels fire Vonken, the Van Motor never rests, and Rouw stays.">
+  <meta name="author" content="ScepraX">
+  <meta name="theme-color" content="#000000">
+  <link rel="canonical" href="https://pseudoscience.earth/Veld/">
+  <link rel="icon" href="../favicon.ico" sizes="any">
+  <link rel="icon" href="../image.svg" type="image/svg+xml">
+  <style>
+    :root {
+      --black: #000000;
+      --gold: #d4af37;
+      --gold-bright: #f1d27c;
+      --gold-soft: rgba(212, 175, 55, .55);
+      --gold-mid: rgba(212, 175, 55, .30);
+      --gold-faint: rgba(212, 175, 55, .13);
+      --white: #ffffff;
+      --white-dim: rgba(255, 255, 255, .84);
+      --white-faint: rgba(255, 255, 255, .55);
+      --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif;
+      color-scheme: dark;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: var(--black);
+      color: var(--white-dim);
+      font-family: var(--serif);
+      font-size: 17px;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold-bright); }
+    b, strong { color: var(--white); font-weight: 600; }
+    ::selection { background: var(--gold); color: var(--black); }
+    :focus-visible { outline: 1px solid var(--gold-soft); outline-offset: 3px; }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1320px;
+      margin: 0 auto;
+      padding: 14px 16px;
+    }
+    .brand { color: var(--gold); letter-spacing: .08em; font-size: 15px; }
+    .brand-zero { display: inline-block; margin-right: .4em; color: var(--gold-bright); }
+    .topbar nav a { font-size: 15px; margin-left: 18px; }
+
+    main { max-width: 1320px; margin: 0 auto; padding: 0 16px 72px; }
+
+    h1 {
+      font-weight: 400;
+      color: var(--gold);
+      letter-spacing: .06em;
+      font-size: clamp(28px, 4.4vw, 44px);
+      margin: 12px 0 6px;
+    }
+    h2 {
+      font-weight: 400;
+      color: var(--gold);
+      letter-spacing: .05em;
+      font-size: 22px;
+      margin: 44px 0 10px;
+    }
+    h3 {
+      font-weight: 400;
+      color: var(--gold);
+      letter-spacing: .05em;
+      font-size: 15px;
+      text-transform: uppercase;
+      margin: 0 0 8px;
+    }
+    .lede { max-width: 68ch; margin: 0 0 22px; }
+
+    .stage {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 16px;
+      align-items: start;
+    }
+    @media (min-width: 1001px) {
+      .stage { grid-template-columns: minmax(0, 1fr) 360px; grid-template-rows: auto 1fr; }
+      .field-wrap { grid-column: 1; grid-row: 1; }
+      .panel { grid-column: 2; grid-row: 1 / span 2; }
+      .key { grid-column: 1; grid-row: 2; }
+    }
+    .key h2 { margin-top: 18px; }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 14px;
+      align-items: center;
+      margin-bottom: 10px;
+      font-size: 14px;
+    }
+    .group { display: inline-flex; gap: 4px; align-items: center; }
+    button {
+      font: inherit;
+      font-size: 14px;
+      color: var(--gold);
+      background: transparent;
+      border: 1px solid var(--gold-mid);
+      border-radius: 3px;
+      padding: 4px 10px;
+      cursor: pointer;
+    }
+    button:hover:not(:disabled) { border-color: var(--gold); color: var(--gold-bright); }
+    button[aria-pressed="true"] { background: var(--gold-faint); border-color: var(--gold-soft); }
+    button:disabled { color: var(--white-faint); border-color: rgba(255, 255, 255, .15); cursor: default; }
+    .chip { padding: 1px 8px; margin: 2px 0; font-size: 13px; }
+
+    .sliders {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 22px;
+      margin: 10px 0 0;
+      font-size: 14px;
+    }
+    .sliders label { display: inline-flex; align-items: center; gap: 8px; }
+    .sliders output { min-width: 3.4em; color: var(--white); font-variant-numeric: tabular-nums; }
+    input[type="range"] { accent-color: var(--gold); width: 130px; }
+    .small { font-size: 13px; color: var(--white-faint); }
+
+    #veld {
+      display: block;
+      width: 100%;
+      height: min(72vh, 720px, 130vw);
+      min-height: 380px;
+      border: 1px solid var(--gold-faint);
+      border-radius: 4px;
+      background: #000;
+      touch-action: manipulation;
+    }
+    .hint { font-size: 14px; color: var(--white-faint); margin: 8px 0 0; }
+    .kb-hint { display: none; }
+    @media (hover: hover) { .kb-hint { display: inline; } }
+    .reduced { font-size: 14px; color: var(--gold-bright); margin: 8px 0 0; }
+
+    .panel { display: grid; gap: 12px; font-size: 14px; line-height: 1.5; }
+    .card {
+      border: 1px solid var(--gold-faint);
+      border-radius: 4px;
+      padding: 12px 12px 10px;
+      background: rgba(212, 175, 55, .025);
+    }
+    .card .title { font-size: 17px; color: var(--white); margin: 0 0 2px; }
+    .card .state { color: var(--gold-bright); margin: 0 0 8px; min-height: 1.5em; }
+    .card.empty .mini, .card.empty .koppel-detail { display: none; }
+    canvas.mini { display: block; width: 100%; margin: 4px 0 2px; }
+    #c-spectrum { height: 84px; }
+    #c-well { height: 104px; }
+    #c-trace { height: 120px; }
+    .caption { font-size: 12.5px; color: var(--white-faint); margin: 0 0 8px; }
+    .binding { font-variant-numeric: tabular-nums; color: var(--white); margin: 4px 0 6px; }
+
+    table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
+    th { text-align: left; font-weight: 400; color: var(--white-faint); padding: 1px 6px 1px 0; }
+    td { text-align: right; color: var(--white); padding: 1px 0 1px 6px; }
+    #k-members th:not(:first-child) { text-align: right; color: var(--gold); }
+    tr.ok td { color: var(--gold-bright); }
+    tr.bad td { color: var(--white); text-decoration: underline; }
+    .btnrow { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+    .muted { color: var(--white-faint); }
+    #log { margin: 0; padding-left: 18px; }
+    #log li { margin: 2px 0; }
+    #log li:first-child { color: var(--white); }
+
+    .legend {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(min(290px, 100%), 1fr));
+      gap: 10px 26px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 15px;
+    }
+    .legend li { display: grid; grid-template-columns: 40px 1fr; gap: 10px; align-items: start; }
+    .legend svg { width: 40px; height: 26px; overflow: visible; }
+    .notes { max-width: 78ch; padding-left: 20px; }
+    .notes li { margin: 6px 0; }
+    code { font-family: inherit; color: var(--white); }
+    footer { margin-top: 48px; font-size: 14px; color: var(--white-faint); }
+  </style>
+</head>
+
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span class="brand-zero">0</span>The Oracle</a>
+    <nav><a href="../index.html#m-formal-structure">§VIII Formal Structure</a></nav>
+  </header>
+
+  <main>
+    <h1>The Veld in Motion</h1>
+    <p class="lede">Every point of light is a Solo with its Zelf. Its Trek builds, aims at one other as Zin, and
+      when that pull is answered, Echoes switch on and a Relatie begins. Each side carries a lagging, distorted
+      Echo of the other. When the binding <i>B</i> clears the Drempel <i>θ</i>, a Vonk fires, a Realisatie, and the
+      pair enters Naar. The Van Motor draws on everything, all the time: Greep slows it, nothing stops it. When a
+      Relatie ends, its Echoes do not. They stay, as Rouw.</p>
+
+    <section class="stage" aria-label="The animated field and its instruments">
+      <div class="field-wrap">
+        <div class="controls">
+          <button id="play">Pause</button>
+          <span class="group" role="group" aria-label="Speed">
+            <button data-speed="0.5" aria-pressed="false">½×</button>
+            <button data-speed="1" aria-pressed="true">1×</button>
+            <button data-speed="2" aria-pressed="false">2×</button>
+            <button data-speed="4" aria-pressed="false">4×</button>
+          </span>
+          <button id="replay" title="The same starting field again; with Vervorming above 0 its Echoes carry new distortions">Replay with new Vervorming</button>
+          <button id="newfield">New field</button>
+          <span class="small" id="seed"></span>
+        </div>
+        <canvas id="veld" role="img"
+          aria-label="An animated field of Solos forming and losing Koppels under the rules of the PseudoScience Speelgoed. The panel beside it describes the watched Koppel in text."></canvas>
+        <div class="sliders">
+          <label>Vervorming υ <input id="s-upsilon" type="range" min="0" max="0.12" step="0.005" value="0.05"><output id="s-upsilon-v"></output></label>
+          <label>Van Motor ν₀ <input id="s-nu0" type="range" min="0.1" max="1.5" step="0.05" value="0.5"><output id="s-nu0-v"></output></label>
+          <label>Drempel θ <input id="s-theta" type="range" min="0.6" max="1.6" step="0.05" value="1"><output id="s-theta-v"></output></label>
+        </div>
+        <p class="hint">Tap or click a line to watch one Koppel, a Solo to read it.<span class="kb-hint"> Space
+            pauses.</span> ν₀ has no zero: the Van Motor is never off.</p>
+        <p class="reduced" id="reduced" hidden>Paused, because your system asks for reduced motion. The field is shown
+          30 seconds in. Press Play to let it run.</p>
+      </div>
+
+      <aside class="panel" aria-label="Instruments">
+        <div class="card" id="koppel-card">
+          <p class="title" id="k-title" tabindex="-1">No Koppel yet</p>
+          <p class="state" id="k-state"></p>
+          <div class="koppel-detail">
+            <canvas class="mini" id="c-spectrum" aria-hidden="true"></canvas>
+            <p class="caption">Each member's Eigen (gold) and where the other hears it (white ring). The dotted
+              span is the Echo-gap.</p>
+            <canvas class="mini" id="c-well" aria-hidden="true"></canvas>
+            <p class="caption">The Drempel as a pitchfork (§VIII.3). Below <i>θ</i> there is one well: Van. Above it
+              there are two, both Naar, both open. The ball is the pair's <i>φ</i>.</p>
+            <p class="binding" id="k-binding"></p>
+            <canvas class="mini" id="c-trace" aria-hidden="true"></canvas>
+            <p class="caption">The last 30 seconds. Gold: <i>B</i> against <i>θ</i>, the band is the Marge. White:
+              the Echo asymmetry <i>A</i>; a passage through parity that holds is Leven.</p>
+            <table id="k-numbers"></table>
+            <table id="k-members" style="margin-top:8px"></table>
+            <div class="btnrow">
+              <button id="k-schrift-a">Schrift</button>
+              <button id="k-schrift-b">Schrift</button>
+              <button id="k-mask-a">Masker</button>
+              <button id="k-mask-b">Masker</button>
+              <button id="k-read-a">Read</button>
+              <button id="k-read-b">Read</button>
+              <button id="k-follow" hidden>Follow the field</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="card" id="node-card" hidden>
+          <p class="title" id="n-title" tabindex="-1"></p>
+          <table id="n-numbers"></table>
+          <p style="margin:8px 0 2px" class="muted">Koppels</p>
+          <div id="n-koppels"></div>
+          <p style="margin:8px 0 2px" class="muted">Rouw it carries</p>
+          <div id="n-rouw"></div>
+          <div class="btnrow">
+            <button id="n-schrift">Schrift</button>
+            <button id="n-mask">Masker</button>
+            <button id="n-back">Back to the Koppel</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Telraam</h3>
+          <table id="telraam"></table>
+          <p class="caption" style="margin:6px 0 0">Energie enters and leaves the Koppels only through Vonken. Overflow
+            that nothing can hold spreads into the Medium on its own (§II). Winst − Verlies = what is held + overflow in
+            transit + overflow that has spread.</p>
+        </div>
+
+        <div class="card">
+          <h3>The field</h3>
+          <table id="fieldstats"></table>
+          <p style="margin:8px 0 2px" class="muted">Koppels</p>
+          <div id="field-koppels"></div>
+          <div class="btnrow"><button id="bron">Call a Solo from Bron</button></div>
+        </div>
+
+        <div class="card">
+          <h3>Lately</h3>
+          <ol id="log" reversed></ol>
+        </div>
+      </aside>
+
+      <div class="key">
+    <h2>How to read the Veld</h2>
+    <ul class="legend">
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="11" cy="13" r="7" fill="rgba(212,175,55,.85)" stroke="#d4af37"/><circle cx="30" cy="13" r="7" fill="rgba(212,175,55,.12)" stroke="#d4af37"/></svg>
+        <span>A Solo. Filled toward Vol, hollow toward Leeg. Further toward Leeg runs a stronger Trek and reaches for more Koppels.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><defs><radialGradient id="lg-glow"><stop offset="35%" stop-color="rgba(212,175,55,.6)"/><stop offset="100%" stop-color="rgba(212,175,55,0)"/></radialGradient></defs><circle cx="20" cy="13" r="13" fill="url(#lg-glow)"/><circle cx="20" cy="13" r="5" fill="#000" stroke="#d4af37"/></svg>
+        <span>The glow is its Eigen: how far from Van it now sits. The size is its Diepte, fed by listening and by Rouw.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="9" fill="none" stroke="#d4af37"/><circle cx="20" cy="11" r="3.6" fill="none" stroke="#fff" stroke-opacity=".7"/></svg>
+        <span>The inner ring is the Zelf: the node's Echo of itself, off-centre by the self-gap (dark on a body filled toward Vol).</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="none" stroke="#d4af37"/><circle cx="20" cy="13" r="10" fill="none" stroke="#fff" stroke-opacity=".35"/><circle cx="20" cy="13" r="13" fill="none" stroke="#fff" stroke-opacity=".15"/></svg>
+        <span>The faint outward ripple is the Van Motor, <code>ν = ν₀·exp(−J)</code>. Greep slows it. Nothing stills it.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="rgba(212,175,55,.4)" stroke="#d4af37"/><circle cx="20" cy="3" r="1.7" fill="none" stroke="#fff" stroke-opacity=".8"/><circle cx="29" cy="17" r="1.7" fill="none" stroke="#fff" stroke-opacity=".5"/><circle cx="12" cy="20" r="1.7" fill="none" stroke="#fff" stroke-opacity=".35"/></svg>
+        <span>Small rings in orbit are Rouw: the Echo of every ended Relatie, kept for good. Brighter is louder.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="31" y2="13" stroke="#d4af37" stroke-dasharray="1.5 4" stroke-width="1.2"/><path d="M38 13 L31 9.5 L31 16.5 Z" fill="#d4af37"/></svg>
+        <span>Zin: Trek aimed at one other, waiting to be answered.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".45" stroke-dasharray="3 5"/></svg>
+        <span>A Relatie in Van mode: Echoes on, the binding still below the Drempel.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-width="3"/></svg>
+        <span>Naar mode: the binding <i>B</i> has cleared <i>θ</i>. The width is the shared Trouw.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="7" x2="38" y2="7" stroke="#fff" stroke-opacity=".45" stroke-dasharray="3 5"/><circle cx="10" cy="5" r="1.4" fill="#fff" fill-opacity=".8"/><circle cx="26" cy="9" r="1.4" fill="#fff" fill-opacity=".8"/><line x1="2" y1="19" x2="38" y2="19" stroke="#d4af37" stroke-opacity=".6" stroke-width="2"/><circle cx="14" cy="16.8" r="1.6" fill="#f1d27c"/><circle cx="30" cy="21.2" r="1.6" fill="#f1d27c"/></svg>
+        <span>Dots along a line are signals crossing the Medium, one lane each way, a Vertraging late: white on a Van line, gold on a Naar one.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="rgba(212,175,55,.3)" stroke="#d4af37"/><circle cx="20" cy="13" r="9.5" fill="none" stroke="#fff" stroke-opacity=".8" stroke-dasharray="2 3"/><path d="M33 10.4 L35.6 13 L33 15.6 L30.4 13 Z" fill="none" stroke="#fff"/></svg>
+        <span>A dashed ring: this Solo wears a Masker. Its signals go out as hollow diamonds, and its partners' Echoes track them.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><text x="20" y="18" text-anchor="middle" fill="#f1d27c" font-style="italic" font-size="15" font-family="Georgia, serif">' ! ?</text></svg>
+        <span>The trajectory beside each line: Zweven, Dood, Leven.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".3" stroke-dasharray="3 5"/><path d="M20 8 L25 13 L20 18 L15 13 Z" fill="#000" stroke="#fff"/></svg>
+        <span>Balans: the binding sits inside its Marge, both futures held open.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="8" y1="6" x2="10" y2="10" stroke="#f1d27c" stroke-width="1.4"/><line x1="14" y1="19" x2="16" y2="15" stroke="#f1d27c" stroke-width="1.4"/><rect x="26" y="6" width="1.6" height="1.6" fill="#fff" fill-opacity=".6"/><rect x="32" y="15" width="1.6" height="1.6" fill="#fff" fill-opacity=".4"/><rect x="36" y="22" width="1.6" height="1.6" fill="#fff" fill-opacity=".25"/></svg>
+        <span>Gold sparks are Winst, white motes drifting off are Verlies: Energie drawn out and spread into the Medium. Overflow that nothing holds leaves without a Vonk and is not drawn.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-width="2"/><path d="M8 19 L4 19 L4 7 L8 7 M32 19 L36 19 L36 7 L32 7" fill="none" stroke="#f1d27c" stroke-width="1.5"/></svg>
+        <span>Brackets mark the Koppel shown in the panel.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="15" r="10" fill="none" stroke="#d4af37" stroke-opacity=".6" stroke-dasharray="3 5"/><text x="20" y="5" text-anchor="middle" fill="#d4af37" font-style="italic" font-size="8" font-family="Georgia, serif">Trio</text></svg>
+        <span>A dotted outline marks a group bound in Naar that stays whole whichever single member wavers: Trio, Cinquo, Septo. A composite count shows as a number only.</span></li>
+    </ul>
+      </div>
+    </section>
+
+    <h2>What this Instantie chooses</h2>
+    <ul class="notes">
+      <li>Every number is this Instantie's choice (§VIII.7). The shapes are the Speelgoed's: the Echo filter and the
+        Naar pull against <code>ν = ν₀·exp(−J)</code> (§VIII.1), the binding measure (§VIII.2), the pitchfork and its
+        Vonk (§VIII.3), the overflow into Creatie (§VIII.5), Rouw and the Masker (§VIII.6).</li>
+      <li>Space is only a drawing. Where a node sits is not one of its spectra, and nothing here measures a distance
+        across spectra (§VIII.2). Distance decides one thing: whom an unaimed Trek finds first. Each Koppel's
+        Vertraging <i>Δ</i> is its own, drawn when it forms.</li>
+      <li>The events are the Instantie's: a steady traffic of exchanges into every node that holds a living Relatie,
+        a Schrift when you press its button, and a new Solo from Bron when the field runs thin. A Solo's Trek aims at
+        the nearest other it is not already bound to and has not just failed to reach.</li>
+      <li>Energie changes only at Vonken (§III). As a binding deepens or slackens, small Vonken carry the stored
+        <code>¼·(B − θ)²</code> up and down; the named Realisatie and Schok are the crossings of <i>θ ± η</i>. A
+        surge past the Inhoud overflows: if it clears a Drempel of its own, a new Solo is born; if not, it spreads
+        into the Medium, as unheld Energie does (§II). The screen holds at most 13 Solos, so while it is full an
+        overflow that would be born spreads into the Medium too.</li>
+      <li>Variation enters only through Echo transport (§VII), and the weaker or older a Koppel, the noisier its
+        Echoes. In this Instantie that ageing is what at last loosens even a deep Greep. Set Vervorming to 0 and
+        replay: the same field runs the same way, and soon settles. That is the deterministic limit: with nothing to
+        age the Echoes, every fall is postponed for as long as you watch. Raise Vervorming a little and the Drempels
+        start to chatter; raise it far and fewer bindings clear <i>θ</i>, and most that do fall back within
+        seconds.</li>
+      <li>The trajectory is read from <code>A = hᵢ − hⱼ</code> (§VIII.4): Dood when <i>A</i> has settled at an
+        offset, Leven when it has gone through parity and holds the other sign, Zweven otherwise. Entering Leven
+        fires a small Realisatie; Dood and its thaw cross no Drempel (§IX).</li>
+      <li>A Relatie persists whether or not it has crossed its Drempel (§IV). When it rests in Van with its Trouw
+        sunk below where it began, its pull is gone: it dissolves, and both keep Rouw. A node that once bound, with
+        no Koppel left in Naar and its Eigen drifted back to Van, reaches Perfectus (Ω). Here the exchanges keep an
+        Eigen up while any Relatie lasts, so that comes once its Koppels have all dissolved. One that never binds
+        never falls.</li>
+      <li>A Masker is tracked faithfully: the partner's Echo follows it and the shared Trouw holds where it was,
+        neither reduced nor fed, while the wearer earns no Greep or Diepte from its Koppels and the true binding
+        sinks below what the partner reads (§VIII.6). No Vonk fires for what only the Masker shows. Here it falls
+        when its Pijn grows too great.</li>
+      <li>The running clock of the animation is not Tijd. Tijd is left open.</li>
+    </ul>
+
+    <footer>PseudoScience Speelgoed by Mark Joseph Antonius Knippenberg / ScepraX. <a href="../index.html">Back to the
+        Oracle</a>.</footer>
+  </main>
+
+  <script src="veld-sim.js"></script>
+  <script src="veld.js"></script>
+</body>
+
+</html>

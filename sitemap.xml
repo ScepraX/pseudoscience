@@ -4,9 +4,16 @@
 
   <url>
     <loc>https://pseudoscience.earth/</loc>
-    <lastmod>2026-10-01T12:00:00+00:00</lastmod>
+    <lastmod>2026-10-02T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0000</priority>
+  </url>
+
+  <url>
+    <loc>https://pseudoscience.earth/Veld/</loc>
+    <lastmod>2026-10-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8000</priority>
   </url>
 
   <url>

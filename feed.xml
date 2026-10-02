@@ -7,12 +7,21 @@
     <description>An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.</description>
     <language>en</language>
     <copyright>ScepraX</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:00:00 +0200</lastBuildDate>
     <image>
       <url>https://pseudoscience.earth/image.png</url>
       <title>Pseudoscience Speelgoed</title>
       <link>https://pseudoscience.earth/</link>
     </image>
+
+    <item>
+      <title>The Veld in Motion</title>
+      <link>https://pseudoscience.earth/Veld/</link>
+      <guid isPermaLink="true">https://pseudoscience.earth/Veld/</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0200</pubDate>
+      <category>Animation</category>
+      <description>A living Instantie of the PseudoScience Speelgoed: Solos meet, Echoes lag, Drempels fire Vonken, the Van Motor never rests, and Rouw stays. Watch one Koppel up close, set the Vervorming, and see the Telraam close.</description>
+    </item>
 
     <item>
       <title>The Social Octaaf</title>
