@@ -1,6 +1,6 @@
 # Pseudoscience Speelgoed
 
-The PseudoScience Speelgoed is a self-contained formal modeling system for relationships, cognition, and change. It defines a set of primitives — Eigen, Echo, Trouw, Drempel, Vonk — and rules for how they interact. It is not a claim about external reality competing with science; it is a constructed lens for seeing relational patterns more clearly. Its validity is internal consistency and explanatory usefulness.
+The PseudoScience Speelgoed is a language for bonds and an engine that runs them: five primitives — Eigen, Echo, Trouw, Drempel, Vonk — and one mechanism, used the same way at every scale, from quarks to nations. It is not read from outside the world it describes, because there is no outside. It is played from within, and every rule in it is one a world can run.
 
 https://pseudoscience.earth/
 

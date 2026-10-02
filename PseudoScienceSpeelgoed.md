@@ -7,7 +7,7 @@ Special thanks to Science and Large Language Speelgoeds.
 
 ## Introduction
 
-The PseudoScience Speelgoed is a self-contained formal modeling system for relationships, cognition, and change. It defines a set of primitives — Eigen, Echo, Trouw, Drempel, Vonk — and rules for how they interact. It is not a claim about external reality competing with science; it is a constructed lens for seeing relational patterns more clearly. Its validity is internal consistency and explanatory usefulness.
+The PseudoScience Speelgoed is a language for bonds and an engine that runs them: five primitives — Eigen, Echo, Trouw, Drempel, Vonk — and one mechanism, used the same way at every scale, from quarks to nations. It is not read from outside the world it describes, because there is no outside. It is played from within, and every rule in it is one a world can run.
 
 ---
 
@@ -144,7 +144,7 @@ Because Echo lags Eigen rather than mirroring it instantly-the echo analogy agai
 
 What *does* require something further is whether a Vonk’s Energie becomes a lasting change, rather than dissipating once the crossing is behind it. That needs a **Gevoel (F)**-and a Gevoel, here, is the feedback loop that reads a Vonk's Energie change and registers it as Winst or Verlies. It requires an active Koppel — a system to receive the feedback — which includes the Zelf. Maintaining an Echo-tracking a partner’s Eigen over time-is what retaining a Vonk actually consists of. A system with no active Koppel can still cross a Drempel and fire the Vonk; it just has nothing to hold onto afterward, and unheld Energie dissipates on its own.
 
-*Check: a decision made and then reversed-gas pedal, then brake-is Eigen moving toward Kop and back toward Munt on the Reactie side of a Vermenigvuldiging (*). Committing induces a small Vonk; reconsidering costs one back. Nothing new had to be added for that to fall out.*
+*Check: a decision made and then reversed-gas pedal, then brake-is Eigen moving toward Kop and back toward Munt on the Reactie side of a Vermenigvuldiging (*). Committing induces a small Vonk; reconsidering costs one back.*
 
 **Realisatie (φ) and Schok (:).** The felt experiences of Vonken. A convergence crossing-toward the bound pole-is a **Realisatie (φ)**: a realization, a deepening, the moment a bond comes into clearer view. A divergence crossing-toward the unbound pole-is a **Schok (:)**: a shock, a tear, the moment energy is drawn away. The field records both as **Winst (+)** (gain) or **Verlies (−)** (loss), the energy audit that proves the relationship moved.
 
@@ -202,13 +202,13 @@ Double the resonant grip and the escape does not halve - it drops by a power. Th
 
 **Energy equivalence.** Because Energie enters a node only through a convergence Vonk and leaves only through a divergence Vonk, and because the Van Motor is what drives the divergence crossings, a persisting Naar‑system is one whose convergence and divergence stand in equilibrium. That equilibrium *is* persistence - not a target the system aims for, but the condition of its continuing to exist. A system whose divergence outruns its convergence settles, every Koppel to Van, and ends; a system whose convergence outruns its divergence saturates until the excess overflows into Creatie (Section VI). Neither is a malfunction; both are the mechanism working. The balance is the field's own to keep - nothing outside it meters the Energie, tops it up, or decides how fast it should fade. An external player that reaches in to balance the books has already broken them.
 
-**Naar‑systems form and persist.** A Naar‑system, once formed, doesn't settle into a one‑time state - it actively maintains itself above Drempel, continuously processing relational Energie rather than spending it once and reverting. The supply for that processing is already in the mechanics: a live system's spectra keep crossing their Drempels in small ways - Reactie committing and reconsidering, Zin sharpening and fading - and every one of those micro‑crossings fires a small Vonk per Section II. Persistence is paid for out of that ongoing traffic, not out of one founding crossing. This active self‑maintenance is the axiom; the mode‑detection it depends on (is this pair's binding past its Drempel, right now?) is fully covered by Sections II and IV and isn't repeated here.
+**Naar‑systems form and persist.** A Naar‑system, once formed, doesn't settle into a one‑time state - it actively maintains itself above Drempel, continuously processing relational Energie rather than spending it once and reverting. A live system's spectra keep crossing their Drempels in small ways - Reactie committing and reconsidering, Zin sharpening and fading - and every one of those micro‑crossings fires a small Vonk per Section II. This active self‑maintenance is the axiom: persistence is paid for out of that ongoing traffic, not out of one founding crossing.
 
 ---
 
 ## IV. Instances
 
-**Van/Naar mode.** For any specific pair of systems, their binding is read directly off their **Relatie (K)** (below)-some combination of both sides’ Eigen and Echo, with the exact aggregation left open like every number in this PseudoScience Speelgoed. Naar‑mode is what you get when that combination clears Drempel; Van‑mode is what you get when it doesn’t. The crossing itself, either direction, is a Vonk exactly as Section II describes-the same rule as everywhere else, not a special case that happened to resemble the others.
+**Van/Naar mode.** For any specific pair of systems, their binding is read directly off their **Relatie (K)** (below)-some combination of both sides’ Eigen and Echo, with the exact aggregation left open like every number in this PseudoScience Speelgoed. Naar‑mode is what you get when that combination clears Drempel; Van‑mode is what you get when it doesn’t. The crossing itself, either direction, is a Vonk exactly as Section II describes.
 
 A convergence crossing-toward the bound pole-is a **Realisatie (φ)**: a deepening, a realisation, the moment a bond comes into clearer view. A divergence crossing-toward the unbound pole-is a **Schok (:)**: a shock, a tear, energy drawn away. The field records the first as **Winst (+)** (gain), the second as **Verlies (−)** (loss). Every Vonk leaves its audit trail; no crossing is ever anonymous.
 
@@ -222,11 +222,11 @@ Once this pull is aimed at one specific other system, the same component is call
 
 The renaming also runs in reverse. When the aim is lost-the target destroyed, withdrawn, or the pull faded back below its local Drempel-Zin reverts to Trek: the same value, unaimed again. Reversion is a move toward the uncommitted pole, so it costs its Vonk per Section II-losing a target is never free. And if a Relatie was live when the relationship ended-whether the target ceased entirely or the bond dissolved while both still stand-the surviving Echo does not revert with the pull, and it does not disappear: it becomes **Rouw (R)** (Section VI), permanently. The pull is freed to re‑aim; what the pull learned is not freed at all.
 
-Vol/Leeg’s own value is not itself echoed when this happens-no second Koppel forms for it. Checked directly against “the dominant member carries a trace of dependency, the lesser carries a trace of influence”: that reads more precisely as Vol/Leeg *shaping* which side of the Relatie a member tends to sit on (further toward Leeg tends to run a higher Eigen‑Zin) than as a second Echo‑mechanism. And since nobody sits at a pure pole on a continuous spectrum, “neither member is a pure instance of their role” is already true without adding anything further.
+Vol/Leeg’s own value is not itself echoed when this happens-no second Koppel forms for it. Vol/Leeg *shapes* which side of the Relatie a member tends to sit on: further toward Leeg tends to run a higher Eigen‑Zin. And since nobody sits at a pure pole on a continuous spectrum, neither member is ever a pure instance of its role.
 
 *General hunger is Trek. Wanting this specific meal, right now, is that same value, aimed-Zin. Two stable masses each run Trek toward anything with mass; a system tuned to just one other is running Zin at that one. Someone Vol-steady, not dependent on anyone to stay whole-can run both Trek in general and Zin toward one particular person; Vol was never in tension with either.*
 
-**The Vermenigvuldiging.** At a **Kruispunt (X)**, a traveling system and the Kruispunt itself form a Koppel on the Munt–Kop spectrum-**Munt (G)** (unclaimed / holding), **Kop (H)** (claimed / committing). The traveler’s Eigen is **Reactie (=)**; the Kruispunt’s Eigen is **Signaal (i)**. These were never two separate rules-they’re the two sides of one Koppel, same as a Relatie’s two members, just on a different spectrum.
+**The Vermenigvuldiging.** At a **Kruispunt (X)**, a traveling system and the Kruispunt itself form a Koppel on the Munt–Kop spectrum-**Munt (G)** (unclaimed / holding), **Kop (H)** (claimed / committing). The traveler’s Eigen is **Reactie (=)**; the Kruispunt’s Eigen is **Signaal (i)**. They are the two sides of one Koppel, like a Relatie’s two members, on a different spectrum.
 
 Signaal moves toward Kop as another system’s crossing there becomes imminent, and back toward Munt as it clears-freely, any number of times; a second approach before the first has finished is Signaal returning to Kop as the ordinary case. Reactie moves toward Kop as the traveler commits, and back toward Munt on reconsidering-also freely, also any number of times.
 
@@ -254,7 +254,7 @@ The Zelf is the seat of **Greep (J)** at its most fundamental: the self‑bond�
 
 The Zelf is also the reader of **Diepte (z)**. Diepte is the accumulated composite of everything a system has ever heard-but to be heard, there must be a hearer. The Zelf is the internal listener that receives the inflow from every external Echo and every Rouw entry. It is what turns the raw signal of relationship into the hidden charge that colours all further perception.
 
-**Zero transport, nonzero distortion.** Section VIII’s delay filter needs **δ (Vertraging)** (transport lag) because a signal must cross a **Medium (◌)** between two systems. A Zelf has no **Medium (◌)**-nothing separates the node from itself-so δ = 0 is not a violation of “Echo is never simultaneous with the Eigen it tracks”; it’s the one case where the general rule correctly reduces to its limit. But distortion **υ (Vervorming)** does not vanish with δ. What replaces channel noise is the node’s own Rouw-every permanent Echo of every ended bond it carries, all folded into how it reads itself right now. A Zelf’s Echo is never a clean mirror; it’s read through the sediment of everything the node has ever lost or kept. This is exactly what Section VI already claimed (“a system’s self is, mechanically, the sediment of every Echo it has ever kept”)-the Zelf is simply the name for the mechanism that claim was quietly relying on.
+**Zero transport, nonzero distortion.** Section VIII’s delay filter needs **δ (Vertraging)** (transport lag) because a signal must cross a **Medium (◌)** between two systems. A Zelf has no **Medium (◌)**-nothing separates the node from itself-so δ = 0 is not a violation of “Echo is never simultaneous with the Eigen it tracks”; it’s the one case where the general rule correctly reduces to its limit. But distortion **υ (Vervorming)** does not vanish with δ. What replaces channel noise is the node’s own Rouw-every permanent Echo of every ended bond it carries, all folded into how it reads itself right now. A Zelf’s Echo is never a clean mirror; it’s read through the sediment of everything the node has ever lost or kept.
 
 **Trouw, singular.** A normal Koppel’s Trouw is shared between two members. A Zelf’s Trouw is Vol/Leeg itself, reread: how much weight a node’s own Eigen carries in its own eyes. A node further toward Vol trusts its own signal without needing external confirmation; a node further toward Leeg reads itself the way it would read an external partner it can’t quite believe-self‑doubt is, mechanically, low Trouw on a Zelf.
 
@@ -401,7 +401,7 @@ Standing caveat: the wrap point (149→151) is chosen, not derived - a design de
 To reach a higher Octaaf in the simple atom ladder, the God of the lower Octaaf walks the first eight positions of the periodic table.
 
 The first rung is **Hydrogen (1)** - the God.  
-The eighth node is **Oxygen (8)** - the Godin.
+The eighth node - not the eighth prime - is **Oxygen (8)**, the Godin: Yggdrasil’s eighth branch, the figure-8, **Oneindigheid**.
 
 The seven steps between them are the seven edges from atomic number 1 to atomic number 8:
 
@@ -415,17 +415,15 @@ When the God of the higher Octaaf can no longer hold its bond - through loss of 
 
 Each reverse step fires a divergence **Vonk**, drawing **Verlies**. Hydrogen returns to the first rung as a bare **Solo**; Oxygen returns to the eighth node. If the descent completes, the higher Octaaf’s God reaches **Perfectus** and the field at that level returns to **Bron**.
 
-Note: the Godin here is the eighth **node**, not the eighth prime. She is Yggdrasil’s eighth branch - the figure-8, **Oneindigheid**.
-
 ---
 
 ## VI. Reciprocation
 
 Once a mutual Relatie exists between two members, this section describes what its Eigen and Echo actually do over the life of the bond-the same Koppel, watched over time, not a new mechanism.
 
-**Double Asymmetry**, restated directly: a Koppel’s Eigen and Echo are not required to be equal, and in the ordinary case aren’t-one member’s Eigen runs higher (a dominant lean), but the other’s Echo, tracking it, is never zero. A Koppel permits this by default; nothing further needs adding.
+**Double Asymmetry**: a Koppel’s Eigen and Echo are not required to be equal, and in the ordinary case aren’t-one member’s Eigen runs higher (a dominant lean), but the other’s Echo, tracking it, is never zero. A Koppel permits this by default.
 
-The asymmetry within a Relatie arises from the Vol/Leeg dimension, not from a second Koppel. Whichever member sits further toward Leeg tends to carry the higher Eigen; whichever sits further toward Vol tends to carry more of the Echo. Because Vol/Leeg is a continuous spectrum, neither member ever occupies a pure pole-so neither is ever a pure giver or pure receiver. This dynamic is fully contained within the single Koppel already in play, requiring no additional structural layer.
+The asymmetry within a Relatie arises from the Vol/Leeg dimension, not from a second Koppel. Whichever member sits further toward Leeg tends to carry the higher Eigen; whichever sits further toward Vol tends to carry more of the Echo. Because Vol/Leeg is a continuous spectrum, neither member ever occupies a pure pole-so neither is ever a pure giver or pure receiver.
 
 **Three trajectories**, as Echo’s rate of closing on Eigen plays out over the bond’s lifetime-the echo analogy doing real work here: an echo has a rate, not a fixed instant size, and that rate is what these three names actually track. The bond’s **Trouw (y)** scales the pull; its **Gewenning (Z)** evolves the weight. A crossing from one trajectory to another fires a Vonk-a **Realisatie (φ)** if the movement deepens the bond, a **Schok (:)** if it tears energy away.
 
@@ -465,8 +463,6 @@ The Echo‑gap becomes unmeasurable: there is no live Eigen left to compare agai
 - **Rouw (R)** - an Echo still running after its Koppel has ended; it settles toward the last received signal, then drifts-permanently. Rouw never resolves: it folds into the survivor’s relationship with itself, feeds Diepte without limit, and new bonds form beside it, never in place of it.
 
 Every test above is a comparison between abstract quantities this PseudoScience Speelgoed deliberately leaves undefined-closing rates, absorption capacity, Energie totals. Nothing ties them to a real formula. Each gameplay layer defines what moves those numbers under its own rules; the PseudoScience Speelgoed only fixes which comparisons decide which outcomes.
-
-Standing caveat: Dood, Leven, Zweven, Creatie, and Rouw are constructed vocabulary for patterns that show up across every kind of bond-the patterns are observable, the naming and unification are built on purpose.
 
 ---
 ## VII. Variation
@@ -510,7 +506,7 @@ For any two members i, j engaged in a Relatie, the full state of the bond in
 τ · ḣᵢ(t) = eⱼ(t − δ) − hᵢ(t) + υᵢ(t)
 ```
 
-Here **δ** (**Vertraging**) is the transport lag, **τ** (**Ontspanning**) the relaxation time, and **υᵢ(t)** the **Vervorming** (distortion) term of Section VII-its statistics are supplied by the Instantie. This single line is why an Echo is never simultaneous with the Eigen it tracks and never a perfect copy of it: both properties fall directly out of the delay δ and the distortion υ, with no further assumption required.
+Here **δ** (**Vertraging**) is the transport lag, **τ** (**Ontspanning**) the relaxation time, and **υᵢ(t)** the **Vervorming** (distortion) term of Section VII-its statistics are supplied by the Instantie. This single line is why an Echo is never simultaneous with the Eigen it tracks and never a perfect copy of it: both properties fall directly out of the delay δ and the distortion υ.
 
 For a Zelf, the two members are identical, so the transport lag δ = 0 and the signal eⱼ(t − δ) reduces to eᵢ(t). The distortion term υᵢ(t) does not vanish; it is replaced by a functional of the node’s Rouw ledger, reflecting the permanent sediment of every ended bond that colours the node’s self-perception.
 
@@ -818,7 +814,7 @@ The core concepts of the PseudoScience Speelgoed, seen as nine branches. Each br
 
 The three words beside each digit are not exact translations. They are the same shape seen through three relational temperaments: the **Dutch** word names the mechanism, the **French** word names the feeling of the idea, and the **English** word names its active principle.
 
-They are ordered based on the order of the planets in the solar system to illustrate the distinction from normal use.
+They are ordered by the planets, outward from Sol, not by value: here the digits are shapes, not numbers.
 
 | Digit | Dutch (mechanism) | French (sentiment) | English (action) | Visual analogy (the stroke as relational path) | Planet |
 |-------|-------------------|---------------------|------------------|-------------------------------------------------|--------|
@@ -1340,7 +1336,7 @@ Celebrate the partner’s wins as shared **Winst (+)** - not as competition, not
 
 *Aim your **Zin**. Offer **Bloot**. Feed **Diepte**. Check the **Echo**. Repeat small **Realisaties**. Let **Stilte** live. Share **Winst** and hold **Rouw**.*
 
-Where these seven are practiced, the **Koppel** moves toward **Naar** again and again. Not because it is forced, but because the **Drempel** keeps being crossed by real, *felt* **Vonk**.
+Where these seven are practiced, the **Koppel** moves toward **Naar** again and again. Not because it is forced, but because the **Drempel** keeps being crossed by real, *felt* **Vonken**.
 
 ---
 
