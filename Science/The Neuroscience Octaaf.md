@@ -38,7 +38,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 0.3 Conventions
 
-**Notation.** Speelgoed symbols keep their meanings: τ (Ontspanning), Δ (Vertraging), υ (Vervorming), y (Trouw), Z (Gewenning), ρ (Leersnelheid), θ (Drempel), J (Greep), L (the Van Motor's rate). Symbols from the cited models are defined where they appear.
+**Notation.** Speelgoed symbols keep their meanings: τ (Ontspanning), δ (Vertraging), υ (Vervorming), y (Trouw), Z (Gewenning), ρ (Leersnelheid), θ (Drempel), J (Greep), L (the Van Motor's rate). Symbols from the cited models are defined where they appear.
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
@@ -50,14 +50,14 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
-| Echo filter: τ, Δ, υ (§VIII.1) | Prediction update; the steady-state Kalman filter, with 1/τ set by precision | Identity | §2.1 |
+| Echo filter: τ, δ, υ (§VIII.1) | Prediction update; the steady-state Kalman filter, with 1/τ set by precision | Identity | §2.1 |
 | Gericht (§VII) | Precision-weighted combination of cues | Correspondence (measured) | §2.1 |
 | Trouw plasticity: y, Z, ρ (§VIII.1) | The delta rule of learning (Rescorla–Wagner) | Identity (form) | §2.2 |
 | Gevoel (§II; Lexicon) | Reward-prediction-error teaching signal | Correspondence | §2.2 |
 | Drempel θ; Reactie (§II, §IV) | Decision criterion; evidence accumulated to a bound | Identity | §2.3 |
 | Mode switch of a Koppel; Marge η | Phase transitions in coordination, between hands and between people; hysteresis | Correspondence (measured) | §2.4 |
 | Van Motor, L = L₀·exp(−J) (§III) | Noise-driven switching between perceptual states and between whole-brain states; power-law forgetting from spread-out Greep | Correspondence + prediction | §2.5 |
-| Echo between two members, with Δ | Speaker–listener neural coupling, lagged and anticipatory | Correspondence (measured) | §3.1 |
+| Echo between two members, with δ | Speaker–listener neural coupling, lagged and anticipatory | Correspondence (measured) | §3.1 |
 | Shared Trouw (§II) | Pair-level measures; not a single molecule | Constraint | §3.2 |
 | Zelf, self-gap, Bevraagbaar (§IV, §VII) | Self-model; interoceptive accuracy; metacognitive sensitivity | Correspondence | §3.3 |
 | Realisatie (§II) | Insight as a discrete neural event | Correspondence | §3.4 |
@@ -78,7 +78,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 The Echo filter of §VIII.1:
 
 ```
-τ · ḣ(t) = e(t − Δ) − h(t) + υ(t)
+τ · ḣ(t) = e(t − δ) − h(t) + υ(t)
 ```
 
 Consider a brain tracking a hidden quantity, such as another person's state or the position of an object, from noisy samples. If the quantity drifts randomly and the samples carry noise, the best possible running estimate settles into a simple rule: move the estimate a fixed fraction of the way toward each new sample. This rule is the steady-state Kalman filter:
@@ -212,7 +212,7 @@ The brain is about 2% of the body's mass but uses about 20% of its energy at res
 
 ### 3.10 Stilte: delay and the constructed present
 
-Stilte is "the space hollowed out by Vertraging (Δ) as a signal travels across the Medium" (§II). Every percept arrives late: signals take tens to hundreds of milliseconds to travel and be processed. The brain partly hides this. A flash shown alongside a moving object is seen *behind* it, an effect Nijhawan (1994) explained as the visual system extrapolating motion to make up for its own delay. A rival account holds that the brain instead revises its percept after the fact (Eagleman & Sejnowski 2000). Either way, the "present" a brain experiences is a reconstruction across its own Stilte. **Grade: Correspondence** (mechanism contested).
+Stilte is "the space hollowed out by Vertraging (δ) as a signal travels across the Medium" (§II). Every percept arrives late: signals take tens to hundreds of milliseconds to travel and be processed. The brain partly hides this. A flash shown alongside a moving object is seen *behind* it, an effect Nijhawan (1994) explained as the visual system extrapolating motion to make up for its own delay. A rival account holds that the brain instead revises its percept after the fact (Eagleman & Sejnowski 2000). Either way, the "present" a brain experiences is a reconstruction across its own Stilte. **Grade: Correspondence** (mechanism contested).
 
 ---
 

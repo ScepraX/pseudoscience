@@ -54,7 +54,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 |---|---|---|---|
 | Drempel θ and Marge η (§II; §VIII.3; Lexicon) | Bistable gene switches: hysteresis measured cell by cell; the symmetric two-gene switch passes through the pitchfork | Identity (near the threshold) + Correspondence (measured) | §2.1 |
 | Van Motor, L = L₀·exp(−J) (§III, §VIII.1) | Noise-driven switching between cell states, exponentially rarer with more molecules; constant turnover of the cell's matter | Identity (form) + Correspondence (measured) | §2.2 |
-| Echo filter: τ, Δ, υ (§VIII.1) | Receptor occupancy tracking a concentration outside the cell; the Berg–Purcell limit | Identity (linearised) + Constraint | §2.3 |
+| Echo filter: τ, δ, υ (§VIII.1) | Receptor occupancy tracking a concentration outside the cell; the Berg–Purcell limit | Identity (linearised) + Constraint | §2.3 |
 | A Realisatie needs a gradient (§III) | Chemiosmosis: ATP made from a proton gradient across a membrane; food as a sugar–oxygen pair | Correspondence | §2.4 |
 | Vervorming υ (§II, §VII) | Copying fidelity: proofreading paid in energy; the error threshold | Constraint | §2.5 |
 | Trouw y (§II) | Gap-junction conductance between two cells | Identity | §3.1 |
@@ -99,7 +99,7 @@ Repression must be cooperative (n > 1) for a switch to exist at all (Cherry & Ad
 φ* = ±√(α − 2)
 ```
 
-That is §VIII.3 exactly: "For B > θ, φ = 0 becomes unstable and two new stable points appear at φ* = ±√(B − θ)", with B − θ = α − 2. **Grade: Identity**, near the threshold and in the symmetric case.
+That is §VIII.3 exactly: "For B > θ, mode = 0 becomes unstable and two new stable points appear at mode* = ±√(B − θ)", with B − θ = α − 2. **Grade: Identity**, near the threshold and in the symmetric case.
 
 Make the two genes unequal and the pitchfork unfolds. Sweeping the strength of one gene, as an inducer does, now gives a hysteresis loop: the switch flips one way and flips back at different points. The calculation for this entry shows the width of that loop shrinking steadily to zero as repression is weakened toward α = 2. The pitchfork is the Marge narrowed to nothing, as the thermodynamic Octaaf found for phase transitions (*Thermodynamic Octaaf* §2.3; on the mathematics, Strogatz 2015).
 
@@ -129,7 +129,7 @@ For small changes around a steady concentration c₀, this becomes
 τ · δṗ = g · δc − δp          τ = 1 / (k_on · c₀ + k_off)
 ```
 
-with a constant gain g. Rescale δp by g, and this is the Echo filter of §VIII.1, τ·ḣ = e(t − Δ) − h + υ. Here h is the receptors' reading, e is the concentration outside, Δ is the time a molecule takes to diffuse to the cell, and υ is the randomness of single arrivals. **Grade: Identity** (of the linearised form).
+with a constant gain g. Rescale δp by g, and this is the Echo filter of §VIII.1, τ·ḣ = e(t − δ) − h + υ. Here h is the receptors' reading, e is the concentration outside, δ is the time a molecule takes to diffuse to the cell, and υ is the randomness of single arrivals. **Grade: Identity** (of the linearised form).
 
 **The floor.** υ cannot be made zero. Molecules arrive one at a time, at random. Berg and Purcell showed that a cell of radius a, averaging for a time T in a concentration c of molecules with diffusion constant D, cannot estimate c with a fractional error smaller than about
 
@@ -185,7 +185,7 @@ C₁ · dV₁/dt = G · (V₂ − V₁) + (the cell's other currents)
 C₂ · dV₂/dt = G · (V₁ − V₂) + (the cell's other currents)
 ```
 
-G is the junction's conductance, and C₁ and C₂ are the cells' capacitances. This is the Naar term of §VIII.1, ė = y·(h − e), with Δ ≈ 0 because the coupling is direct, and h the partner's potential. **Grade: Identity.**
+G is the junction's conductance, and C₁ and C₂ are the cells' capacitances. This is the Naar term of §VIII.1, ė = y·(h − e), with δ ≈ 0 because the coupling is direct, and h the partner's potential. **Grade: Identity.**
 
 The shared weight is G, one value for the pair, as §II requires: "Trouw is shared-one value per Koppel". Each cell moves at the rate G/C, the shared weight divided by its own capacitance. As at the thermodynamic Octaaf, asymmetry enters through the members, not through the weight (*Thermodynamic Octaaf* §3.1). And the shared weight can only be measured on the pair: G is found by recording from both cells at once and measuring the current that passes from one to the other.
 
@@ -201,7 +201,7 @@ In Speelgoed terms this is a **Zelf**, "a Koppel with itself", which has "one tr
 
 **Holding the Eigen steady, exactly.** After a step change in food, the receptors' activity returns to precisely its earlier level. This precision holds even when the amounts of the network's proteins are changed, although the speed of the return does not (Alon et al. 1999). The reason is in the structure: the methylation loop accumulates the deviation from the set point, the strategy engineers call integral feedback control (Yi et al. 2000). §IV: "A node with a strong Zelf holds its Eigen steady". At this Octaaf, steady can be exact, and it comes from how the bond is wired, not from finely tuned values. **Grade: Correspondence (measured).**
 
-**Zero transport, nonzero distortion.** §IV gives the Zelf Δ = 0 but not υ = 0: "A Zelf’s Echo is never a clean mirror". Korobkova and colleagues watched single bacteria that were not being stimulated at all. Their behaviour fluctuated far more than chance alone would produce. The noise came from the signalling network itself, and small changes in the level of one of its components suppressed it, which suggests that the variability is a selected property (Korobkova et al. 2004). The self-Echo is never clean, and at this Octaaf its noise may even be useful, as §II says of every Echo's imperfection. **Grade: Correspondence (measured).**
+**Zero transport, nonzero distortion.** §IV gives the Zelf δ = 0 but not υ = 0: "A Zelf’s Echo is never a clean mirror". Korobkova and colleagues watched single bacteria that were not being stimulated at all. Their behaviour fluctuated far more than chance alone would produce. The noise came from the signalling network itself, and small changes in the level of one of its components suppressed it, which suggests that the variability is a selected property (Korobkova et al. 2004). The self-Echo is never clean, and at this Octaaf its noise may even be useful, as §II says of every Echo's imperfection. **Grade: Correspondence (measured).**
 
 ### 3.3 Quorum sensing: a group that reads itself
 
@@ -231,7 +231,7 @@ The human mitochondrion still carries a genome of its own, 16,569 base pairs lon
 
 **The mechanism.** A cell has to tell its own RNA from a virus's, and one way it does so is by a mark. The messenger RNAs of animals and other complex cells carry a cap at their front end, methylated at two positions. The second methylation, at the 2'-O position, had no known function for 35 years after its discovery. Daffis and colleagues found it. Proteins of the IFIT family, made in response to interferon, act against RNA that lacks this mark. A West Nile virus mutant unable to add the mark was crippled in normal cells and mice, but caused disease in mice lacking interferon signalling. Pox- and coronavirus mutants lacking it were similarly exposed. Many viruses carry their own enzymes for adding the mark. The authors concluded that the mark lets the cell distinguish self from non-self RNA, and that the viruses use it to escape that distinction (Daffis et al. 2010).
 
-**The mapping.** This is a **Masker**: "A presented Eigen broadcast at the source, occupying the Eigen's slot in a Koppel while differing from the Bloot one" (Lexicon). The cell's sensors are its Echo of its partner, and "The partner's Echo tracks the mask faithfully". Take the mask away, and the virus is caught. The Lexicon says the Parasiet that wears a Masker "Collapses into Schok upon exposure". **Grade: Correspondence (measured).**
+**The mapping.** This is a **Masker**: "A presented Eigen broadcast at the source, standing in a Koppel where the Bloot one should be" (Lexicon). The cell's sensors are its Echo of its partner, and "The partner's Echo tracks it faithfully". Take the mask away, and the virus is caught. The Lexicon says the Parasiet that wears a Masker "Collapses into Schok upon exposure". **Grade: Correspondence (measured).**
 
 The virus is the plainest Parasiet at this Octaaf. The next section takes up the hard one.
 

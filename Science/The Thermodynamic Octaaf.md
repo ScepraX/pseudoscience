@@ -14,7 +14,7 @@ At this Octaaf the **Lichaam (🖕)** is a *macroscopic system*: a body of so ma
 
 ### 0.1 What this document is
 
-Section VIII.7 of the Speelgoed fixes the *shape* of its mechanism and leaves every number open: τ, Δ, υ, θ, τ_φ, λ, μ, ε, Q, ρ, L₀, and the grip functional. Whoever supplies those numbers is an **Instantie (⚙)**. This document is an Instantie that does not choose its values: it takes them from physics. That gives it a test a free-standing analogy never faces. Wherever the Speelgoed's shape and the established results of thermodynamics disagree, one of them has to give. Such disagreements are reported in §4 rather than smoothed over. The one thing §VIII.7 forbids any Instantie to override is the closing of the Energie account. Thermodynamics does not override it. The first law *is* that account (§2.4).
+Section VIII.7 of the Speelgoed fixes the *shape* of its mechanism and leaves every number open: τ, δ, υ, θ, τ_mode, λ, drive, ε, Q, ρ, L₀, and the grip functional. Whoever supplies those numbers is an **Instantie (⚙)**. This document is an Instantie that does not choose its values: it takes them from physics. That gives it a test a free-standing analogy never faces. Wherever the Speelgoed's shape and the established results of thermodynamics disagree, one of them has to give. Such disagreements are reported in §4 rather than smoothed over. The one thing §VIII.7 forbids any Instantie to override is the closing of the Energie account. Thermodynamics does not override it. The first law *is* that account (§2.4).
 
 The test is unusually sharp at this Octaaf because the machinery of §VIII was built from the same mathematics thermodynamics uses. The Echo filter is a Langevin equation. The Van Motor law is the Arrhenius law. The Drempel potential is a Landau free energy. Many of the correspondences below are therefore not analogies: they are the same equation read twice.
 
@@ -50,12 +50,12 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 
 | Speelgoed (section) | Thermodynamic value | Grade | Here |
 |---|---|---|---|
-| Echo filter; τ (Ontspanning), Δ (Vertraging) (§VIII.1) | First-order-plus-dead-time thermal response; τ = C/G | Identity | §2.1 |
+| Echo filter; τ (Ontspanning), δ (Vertraging) (§VIII.1) | First-order-plus-dead-time thermal response; τ = C/G | Identity | §2.1 |
 | Vervorming υ (§VII, §VIII.1) | Thermal noise, with strength fixed by the fluctuation–dissipation theorem | Constraint | §2.1 |
 | Van Motor, L = L₀·exp(−J) (§III, §VIII.1) | Arrhenius–Kramers escape rate | Identity | §2.2 |
 | Greep J | Activation barrier in units of the Medium's thermal energy, ΔG‡/k_BT | Identity | §2.2 |
 | L₀ | Attempt frequency (Eyring: k_BT/h) | Identity | §2.2 |
-| Drempel potential V(φ; B) (§VIII.3) | Landau free energy of a continuous transition | Identity | §2.3 |
+| Drempel potential, potential(mode; B) (§VIII.3) | Landau free energy of a continuous transition | Identity | §2.3 |
 | Vonk Energie, T_q = ¼(B − θ)² | Condensation free energy (not latent heat) | Identity | §2.3 |
 | Marge η (Lexicon) | Width of the metastable range; narrowing to nothing at a continuous transition | Constraint | §2.3 |
 | Telraam 🧾 (Lexicon; §VIII.7) | First law | Identity | §2.4 |
@@ -84,18 +84,18 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 The Echo filter of §VIII.1:
 
 ```
-τ · ḣᵢ(t) = eⱼ(t − Δ) − hᵢ(t) + υᵢ(t)
+τ · ḣᵢ(t) = eⱼ(t − δ) − hᵢ(t) + υᵢ(t)
 ```
 
-Put a thermometer of heat capacity C in contact with a bath at temperature T_bath(t), through a thermal conductance G, and let the heat take a time Δ to arrive. The thermometer's reading T_th obeys
+Put a thermometer of heat capacity C in contact with a bath at temperature T_bath(t), through a thermal conductance G, and let the heat take a time δ to arrive. The thermometer's reading T_th obeys
 
 ```
-C · dT_th/dt = G · ( T_bath(t − Δ) − T_th ) + noise
+C · dT_th/dt = G · ( T_bath(t − δ) − T_th ) + noise
 ```
 
-Divide by G and the two equations are the same, with h = T_th, e = T_bath, and **τ = C/G**. This is Newton's law of cooling with a transport delay. In process engineering it is the *first-order-plus-dead-time* model, the standard description of how a heated vessel, a heat exchanger, or a sensor responds to a change (Seborg et al., 2016). Its transfer function is e^(−Δs)/(τs + 1), and so is the Echo's. **Grade: Identity.**
+Divide by G and the two equations are the same, with h = T_th, e = T_bath, and **τ = C/G**. This is Newton's law of cooling with a transport delay. In process engineering it is the *first-order-plus-dead-time* model, the standard description of how a heated vessel, a heat exchanger, or a sensor responds to a change (Seborg et al., 2016). Its transfer function is e^(−δs)/(τs + 1), and so is the Echo's. **Grade: Identity.**
 
-Both defining properties of an Echo (§II) follow from the physics with nothing added. A thermometer never reads the present (because of Δ and τ), and it never reads it exactly (because of υ).
+Both defining properties of an Echo (§II) follow from the physics with nothing added. A thermometer never reads the present (because of δ and τ), and it never reads it exactly (because of υ).
 
 **Vervorming is not free here.** §VII lets the Instantie choose the statistics of υ, and even set them to zero. At this Octaaf that freedom is gone. Suppose the Echo is held to its source with stiffness κ, so that a gap costs ½·κ·(h − e)² of energy. Equipartition then fixes the standing gap, and the fluctuation–dissipation theorem fixes the noise that produces it (Callen & Welton, 1951; Kubo, 1966):
 
@@ -156,7 +156,7 @@ The identity makes four of the Speelgoed's claims precise:
 §VIII.3 governs the mode of a Koppel with a pitchfork potential:
 
 ```
-τ_φ · φ̇ = −∂V/∂φ          V(φ; B) = ¼·φ⁴ − ½·(B − θ)·φ²
+τ_mode · d(mode)/dt = −∂potential/∂mode          potential(mode; B) = ¼·mode⁴ − ½·(B − θ)·mode²
 ```
 
 Landau's free energy for a continuous phase transition, with order parameter m, is
@@ -165,12 +165,12 @@ Landau's free energy for a continuous phase transition, with order parameter m, 
 F(m) = F₀ + ½·a·(T − T_c)·m² + ¼·b·m⁴          (Landau, 1937)
 ```
 
-Set b = 1 and **B − θ = a·(T_c − T)**, and the two are the same. Binding rises as temperature falls. φ = 0 is the disordered phase, which is Van‑mode. The two minima ±√(B − θ) are the two ordered states the system can fall into, such as a magnet magnetised up or down, with the choice made by the smallest push. The gradient flow τ_φ·φ̇ = −∂V/∂φ is the time-dependent Ginzburg–Landau equation, known as "model A" in the theory of dynamic critical phenomena (Hohenberg & Halperin, 1977). **Grade: Identity.**
+Set b = 1 and **B − θ = a·(T_c − T)**, and the two are the same. Binding rises as temperature falls. mode = 0 is the disordered phase, which is Van‑mode. The two minima ±√(B − θ) are the two ordered states the system can fall into, such as a magnet magnetised up or down, with the choice made by the smallest push. The gradient flow τ_mode·d(mode)/dt = −∂potential/∂mode is the time-dependent Ginzburg–Landau equation, known as "model A" in the theory of dynamic critical phenomena (Hohenberg & Halperin, 1977). **Grade: Identity.**
 
-**The Vonk's Energie is condensation energy, not latent heat.** §VIII.3 gives `T_q = V(0) − V(φ*) = ¼·(B − θ)²`. In Landau theory this is the condensation free energy, a²(T_c − T)²/4b. In a superconductor it is measured directly, as μ₀H_c²/2 per unit volume, where H_c is the critical magnetic field. A continuous transition has *no* latent heat. Three consequences follow, and all can be checked:
+**The Vonk's Energie is condensation energy, not latent heat.** §VIII.3 gives `T_q = potential(0) − potential(mode*) = ¼·(B − θ)²`. In Landau theory this is the condensation free energy, a²(T_c − T)²/4b. In a superconductor it is measured directly, as μ₀H_c²/2 per unit volume, where H_c is the critical magnetic field. A continuous transition has *no* latent heat. Three consequences follow, and all can be checked:
 
-1. **The Vonk is not a jolt.** At the exact moment of crossing, T_q = 0. The Energie is paid out as the binding moves further past θ and φ settles into its new minimum. §II says the Vonk fires "the instant its Drempel is crossed". What fires at that instant is the *change of mode*, the loss of stability at φ = 0. The Energie is paid afterwards.
-2. **Near the Drempel, the Vonk is slow.** Expanding the potential around its new minimum gives a relaxation rate of 2·(B − θ)/τ_φ. This rate vanishes at the threshold, which is the phenomenon called *critical slowing down*. A barely crossed Drempel takes the longest to settle.
+1. **The Vonk is not a jolt.** At the exact moment of crossing, T_q = 0. The Energie is paid out as the binding moves further past θ and mode settles into its new minimum. §II says the Vonk fires "the instant its Drempel is crossed". What fires at that instant is the *change of mode*, the loss of stability at mode = 0. The Energie is paid afterwards.
+2. **Near the Drempel, the Vonk is slow.** Expanding the potential around its new minimum gives a relaxation rate of 2·(B − θ)/τ_mode. This rate vanishes at the threshold, which is the phenomenon called *critical slowing down*. A barely crossed Drempel takes the longest to settle.
 3. **The crossing still leaves a signature: Inhoud changes.** The heat capacity of a Landau system jumps by ΔC = a²T_c/2b at the transition. Superconductors show this jump, and BCS theory puts it at 1.43 times the normal electronic heat capacity at T_c (Bardeen, Cooper & Schrieffer, 1957). Inhoud is this Octaaf's heat capacity (§3.3), so **a Drempel crossing changes the Koppel's Inhoud.** The Speelgoed does not currently say this.
 
 **Latent heat belongs to the Marge.** In the Speelgoed, **Marge (η)** is "the dead band around a Drempel that prevents flickering crossings". At this Octaaf both halves of that definition have a physical meaning:
@@ -227,15 +227,15 @@ This turns three Speelgoed rules into physical statements:
 
 ### 3.2 Trajectories: Dood, Zweven, Leven
 
-§VIII.4 decides a Koppel's trajectory by the sign and size of the Helling λ in τ_A·Ȧ = −λ·A + μ·(eᵢ − eⱼ) + ε. Read A as the temperature difference between the two members:
+§VIII.4 decides a Koppel's trajectory by the sign and size of the Helling λ in τ_gap·d(gap)/dt = −λ·gap + drive·(eᵢ − eⱼ) + ε. Read gap as the temperature difference between the two members:
 
-- **Dood (!): λ > 0 with a drive.** The gap settles at a fixed offset, `A* = μ·(eᵢ − eⱼ)/λ`. Take a house heated in winter. A furnace of power P, working against walls of conductance G, holds the inside at `ΔT* = P/G` above the outside, unchanged for as long as the furnace runs. This is a non-equilibrium steady state. **Grade: Identity** (the linear form is the same).
+- **Dood (!): λ > 0 with a drive.** The gap settles at a fixed offset, `gap* = drive·(eᵢ − eⱼ)/λ`. Take a house heated in winter. A furnace of power P, working against walls of conductance G, holds the inside at `ΔT* = P/G` above the outside, unchanged for as long as the furnace runs. This is a non-equilibrium steady state. **Grade: Identity** (the linear form is the same).
 - **Zweven ('): λ → 0⁺.** The gap closes forever without arriving. There are two physical routes to this. One is a very weak coupling: a vacuum flask is a Koppel in Zweven. The other is critical slowing down near a Drempel (§2.3), where relaxation rates fall toward zero. **Grade: Correspondence.**
 - **Leven (?): λ < 0.** The gap is driven through zero and settles on the other side, so the member that carried more now carries less. **For a passive Koppel this is forbidden.** Entropy production cannot be negative, so Onsager's coefficients form a positive semi-definite matrix, and every passive relaxation rate satisfies λ ≥ 0. At this Octaaf, **Leven always costs work.** Its clearest instance is population inversion: a state in which an upper energy level holds more atoms than the level below it. Formally, this is a negative absolute temperature (Purcell & Pound, 1951; Ramsey, 1956). No amount of heating reaches it, and steady incoherent pumping cannot reach it in a system of only two levels. Purcell and Pound made it in a nuclear spin system by reversing the magnetic field faster than the spins could follow. A laser makes it by pumping through a third or fourth level. Either way the inversion is driven, and it lasts only as long as it is paid for. Conventional lasers run on this driven Leven. **Grade: Constraint.**
 
 ### 3.3 Inhoud as capacity
 
-§VIII.5 compares a Vonk's Energie with the Koppel's **Inhoud (Q)**, which the Lexicon calls "the absorption capacity C of a Koppel". At this Octaaf, Inhoud is the Energie a system can take in *without leaving its current mode*. That is its heat capacity, integrated up to the next threshold:
+§VIII.5 compares a Vonk's Energie with the Koppel's **Inhoud (Q)**, which the Lexicon calls "the absorption capacity Q of a Koppel". At this Octaaf, Inhoud is the Energie a system can take in *without leaving its current mode*. That is its heat capacity, integrated up to the next threshold:
 
 ```
 Q = ∫ C(T) dT          from the present temperature to the next Drempel
@@ -286,11 +286,11 @@ Thermodynamics adds a price. A record can be moved but not destroyed, and erasin
 
 This also explains why Diepte is "the hidden charge that colours every subsequent perception and decision" (§II). Stored energy sets a body's temperature, and temperature sets both the noise on its Echoes (§2.1) and the Greep of its bonds (§2.2). A body's Diepte literally shapes how it perceives and how firmly it holds.
 
-*Limit.* The Speelgoed's inflow term, γ_in·y·|h|, is not a heat flow. At this Octaaf heat flows as y·(h − e). The correspondence holds in behaviour, not in equation (§5, item 5).
+*Limit.* The Speelgoed's inflow term, rate_in·y·|h|, is not a heat flow. At this Octaaf heat flows as y·(h − e). The correspondence holds in behaviour, not in equation (§5, item 5).
 
 ### 3.8 Zelf as self-correlation
 
-§IV describes the Zelf as a node's Koppel with itself, with no transport lag (Δ = 0). It is "the seat of Greep at its most fundamental", and "a node with a strong Zelf holds its Eigen steady".
+§IV describes the Zelf as a node's Koppel with itself, with no transport lag (δ = 0). It is "the seat of Greep at its most fundamental", and "a node with a strong Zelf holds its Eigen steady".
 
 At this Octaaf, a system's relation with itself is its *autocorrelation*: how well its own fluctuations at one moment predict its fluctuations a moment later, with no channel in between. The fluctuation–dissipation theorem then proves something the Speelgoed assumes. **How a system answers any partner is fixed by how it relates to itself.** Its response to an outside push is determined entirely by its own spontaneous fluctuations (Kubo, 1966). A system with a stiff self-relation fluctuates little (⟨δx²⟩ = k_B·T/κ) and also yields little to a push (its susceptibility is 1/κ). That is "holds its Eigen steady", made quantitative. Onsager's regression hypothesis adds that spontaneous fluctuations die away exactly as imposed disturbances do (Onsager, 1931a). This is §IV's claim that the Zelf follows "the same trajectory mechanics as any bond, applied to the bond that holds a being together". **Grade: Correspondence**, close to Identity.
 
@@ -306,7 +306,7 @@ At this Octaaf, a system's relation with itself is its *autocorrelation*: how we
 
 Two refinements bring this closer to the Speelgoed than the earlier version was:
 
-- **Equilibrium is not stillness.** Micro-crossings continue in both directions at equal rates (§2.5). Only their *net* direction is gone. The order parameter sits at φ = 0, meaning no bond, and fluctuates about it. This is §III's "Van is not a place": nothing has travelled anywhere, and the holding has simply stopped.
+- **Equilibrium is not stillness.** Micro-crossings continue in both directions at equal rates (§2.5). Only their *net* direction is gone. The order parameter sits at mode = 0, meaning no bond, and fluctuates about it. This is §III's "Van is not a place": nothing has travelled anywhere, and the holding has simply stopped.
 - **Perfectus is local.** A subsystem reaches equilibrium with *its own* Medium. Heat death, the equilibrium of everything with everything, is the limiting case, and it belongs to the cosmic Octaaf. **Grade: Correspondence.**
 
 ### 3.11 The Trinary Root: source, sink, and engine
@@ -344,7 +344,7 @@ This section records where the Speelgoed met resistance at this Octaaf and what 
 2. **Two Doods.** §VI describes Dood as a closing rate that drops to zero. §VIII.4 describes it as a stable offset held by a drive. At this Octaaf these are two different states: a *glass*, which is arrested with no drive, and a *steady state*, which is held by a drive (§3.2). Does the Speelgoed need both descriptions, or should one of them go?
 3. **The Marge in the potential.** The quartic potential of §VIII.3 is the limit in which the Marge narrows to nothing. At this Octaaf, a Marge of finite width corresponds to a cubic or sixth-order term (§2.3). Should §VIII.3 show such a term, or should the width of the Marge remain the Instantie's to set?
 4. **Mode-dependent Inhoud.** Heat capacity jumps at a continuous transition (§2.3). Should §VIII.5 let Inhoud depend on the mode, Q(φ)?
-5. **The Diepte equation.** The inflow term γ_in·y·|h| is not a heat flow (§3.7). Can it be rewritten in difference form, y·(h − e), without breaking other Octaven?
+5. **The Diepte equation.** The inflow term rate_in·y·|h| is not a heat flow (§3.7). Can it be rewritten in difference form, y·(h − e), without breaking other Octaven?
 6. **Trouw across spectra.** The Speelgoed keeps each spectrum's pull separate (§VIII.1). If it ever couples spectra, such as heat to charge, this Octaaf already constrains how. The coupling must be symmetric (Onsager reciprocity, §3.1), and it can be no larger than the geometric mean of each spectrum's own coefficient.
 7. **Rouw and Liouville.** Is Rouw permanence (§VIII.6) at this Octaaf *equivalent* to Liouville's theorem plus Landauer's price, or only consistent with it?
 8. **Tijd.** No mapping is attempted. How the Speelgoed's Tijd relates to measured time is deliberately left open, as at the other Octaven.

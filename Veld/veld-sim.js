@@ -32,7 +32,7 @@
     // Drempel and Vonk (§VIII.3)
     theta: 1.0,                // θ on the binding B
     eta: 0.08,                 // Marge η: the named crossings happen at θ ± η
-    tauPhi: 0.25,              // τ_φ
+    tauPhi: 0.25,              // τ_mode
     kappa: 0.05,               // tilt of the pitchfork by the Echo asymmetry A
     // Van Motor (§III, §VIII.1)
     nu0: 0.5,                  // L₀; L = L₀·exp(−J), never zero
@@ -41,7 +41,7 @@
     c: 1.0,                    // Echo-gap penalty; s(…) taken as root-sum-square
     // Echo transport (§VIII.1, §VII)
     tauMin: 0.35, tauMax: 1.1, // Ontspanning τ, drawn per Koppel
-    dMin: 0.15, dMax: 0.55,    // Vertraging Δ, drawn per Koppel
+    dMin: 0.15, dMax: 0.55,    // Vertraging δ, drawn per Koppel
     upsilon: 0.05,             // Vervorming amplitude
     noiseTau: 0.7,             // correlation time of the distortion
     tOld: 50,                  // Gericht: older Koppels carry noisier Echoes
@@ -494,7 +494,7 @@
       b.buf[2 * b.head + 1] = b.b.m;
     }
 
-    // 3. Echo transport: τ·ḣ = (signal from t − Δ) − h + υ   (§VIII.1)
+    // 3. Echo transport: τ·ḣ = (signal from t − δ) − h + υ   (§VIII.1)
     for (k = 0; k < bonds.length; k++) {
       b = bonds[k];
       var inA = this.heard(b, 1, b.delta), inB = this.heard(b, 0, b.delta);
@@ -531,7 +531,7 @@
         r.h += H / p.tauRouw * (r.last - r.h + r.n);
         rouwSum += Math.abs(r.h) * (0.5 + r.Z);  // a Koppel's Gewenning persists into its Rouw
       }
-      // the Zelf: Δ = 0, distortion fed by the Rouw it carries (§IV, §VIII.1)
+      // the Zelf: δ = 0, distortion fed by the Rouw it carries (§IV, §VIII.1)
       n.ns = this.ou(n.ns, p.upsilon * p.selfNoise * Math.sqrt(n.rouw.length));
       n.hs += H / p.tauSelf * (n.e - n.hs + n.ns);
       var inflow = 0, grip = n.vol;            // the Zelf's Trouw is Vol/Leeg itself, reread

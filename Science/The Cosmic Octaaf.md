@@ -49,7 +49,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Cosmic value | Grade | Here |
 |---|---|---|---|
-| Vertraging Δ (§VIII.1) | Light-travel time, Δ = r/c; gravity travels at the same speed | Identity | §2.1 |
+| Vertraging δ (§VIII.1) | Light-travel time, δ = r/c; gravity travels at the same speed | Identity | §2.1 |
 | Stilte (§II) | Look-back time: every Echo is an image of the past | Correspondence | §2.1 |
 | Trouw y (§II, §VIII.1) | Gravitational coupling, shared by Newton's third law; never negative | Identity + Constraint | §2.2 |
 | Van Motor rate, L = L₀·exp(−J) (§III, §VIII.1) | Escape over a gravitational barrier: atmospheric (Jeans) escape, cluster evaporation | Identity | §2.3 |
@@ -76,17 +76,17 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 2.1 Every Echo is a look-back
 
-§II defines an Echo as a trace of a partner's Eigen that arrives "the way a shout comes back off a canyon wall quieter and later than it left, shaped by whatever it crossed to get back". The Echo filter of §VIII.1 gives the delay its own symbol, Δ (Vertraging):
+§II defines an Echo as a trace of a partner's Eigen that arrives "the way a shout comes back off a canyon wall quieter and later than it left, shaped by whatever it crossed to get back". The Echo filter of §VIII.1 gives the delay its own symbol, δ (Vertraging):
 
 ```
-τ · ḣᵢ(t) = eⱼ(t − Δ) − hᵢ(t) + υᵢ(t)
+τ · ḣᵢ(t) = eⱼ(t − δ) − hᵢ(t) + υᵢ(t)
 ```
 
-At this Octaaf, **Δ = r/c**, the light-travel time across the distance r. **Grade: Identity.** The same delay holds for gravity itself. In 2017 the gravitational waves from a neutron-star merger and the gamma rays from the same event arrived at Earth 1.7 seconds apart after a journey of about 130 million years. This showed that gravity's Echo travels at the speed of light to within a few parts in 10¹⁵ (Abbott et al., 2017).
+At this Octaaf, **δ = r/c**, the light-travel time across the distance r. **Grade: Identity.** The same delay holds for gravity itself. In 2017 the gravitational waves from a neutron-star merger and the gamma rays from the same event arrived at Earth 1.7 seconds apart after a journey of about 130 million years. This showed that gravity's Echo travels at the speed of light to within a few parts in 10¹⁵ (Abbott et al., 2017).
 
 Here **Stilte** is literal. §II calls it "the living silence between an Eigen and its Echo", and at this Octaaf that silence is measured in years. We see the Andromeda galaxy as it was about 2.5 million years ago, and the most distant galaxies as they were more than 13 billion years ago. Every reading at this Octaaf is an Echo of the past, and the Echo-gap of §VII grows with distance. That makes it this Octaaf's version of **Gericht (γ)**: uncertainty scales with relational distance, and here the distance is literally a distance. **Grade: Correspondence.**
 
-*Refinement.* Gravity's Echo is not a pure delay. For a source moving at constant velocity, the delay and the velocity-dependent parts of the field almost cancel, so the pull points to where the source *is now*, not where it was (Carlip, 2000). Without this cancellation, planetary orbits would be unstable. At this Octaaf the Echo carries a first-order prediction of its partner. The Speelgoed's filter, which uses only eⱼ(t − Δ), does not yet allow for that (§5, item 3).
+*Refinement.* Gravity's Echo is not a pure delay. For a source moving at constant velocity, the delay and the velocity-dependent parts of the field almost cancel, so the pull points to where the source *is now*, not where it was (Carlip, 2000). Without this cancellation, planetary orbits would be unstable. At this Octaaf the Echo carries a first-order prediction of its partner. The Speelgoed's filter, which uses only eⱼ(t − δ), does not yet allow for that (§5, item 3).
 
 ### 2.2 Trouw is gravity, and it is never negative
 
@@ -290,7 +290,7 @@ At this Octaaf:
 
 1. **Gewenning.** The earlier version claimed that "gravity strengthens as mass accumulates", as a form of Gewenning. Accretion does strengthen a body's pull, but the Speelgoed's Gewenning is "accumulated resonance … built from repeated Echo closure", and gravity has no obvious counterpart to that. Moved here from the mappings.
 2. **Is dark energy constant?** The simplest model holds its density constant. Recent surveys of baryon acoustic oscillations (DESI Collaboration, 2025) have reported a preference, not yet decisive, for dark energy that weakens over time. If dark energy weakens, the Van Motor's ownerless face weakens. If it instead grew stronger (§3.1, the Big Rip), it would eventually unbind everything, and the Speelgoed's single Van Motor would be restored as one physical cause.
-3. **Predictive Echoes.** Gravity's Echo carries the partner's velocity, not just its delayed position (§2.1). Should §VIII.1's filter take eⱼ(t − Δ) + Δ·ėⱼ(t − Δ) as its input where the Medium allows it?
+3. **Predictive Echoes.** Gravity's Echo carries the partner's velocity, not just its delayed position (§2.1). Should §VIII.1's filter take eⱼ(t − δ) + δ·ėⱼ(t − δ) as its input where the Medium allows it?
 4. **Energie between spectra.** Negative heat capacity shows Verlies on one spectrum driving Naar on another through a single Energie account (§2.5). The Speelgoed allows this but does not describe it. How should the routing be written?
 5. **Black holes and Rouw permanence.** Does a black hole that forms and fully evaporates erase the record of what fell in? Rouw permanence (§VIII.6) says no. Recent theoretical work supports the view that the information leaves in the radiation (Almheiri et al., 2019; Penington, 2020), but this is not settled.
 6. **The next Godin.** If the galaxy is the God of the next Octaaf (§3.11), what is its Godin? The cosmic voids and dark energy are candidates, since both are empty and both take without giving back, but nothing yet makes either one a partner in a bond.

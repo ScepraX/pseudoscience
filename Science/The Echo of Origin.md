@@ -77,10 +77,10 @@ The food's **Eigen** is its physical make-up. For Gouda, this includes the γ-gl
 The Speelgoed's Echo equation (§VIII.1) makes this precise:
 
 ```
-τ · ḣ(t) = e(t − Δ) − h(t) + υ(t)
+τ · ḣ(t) = e(t − δ) − h(t) + υ(t)
 ```
 
-Here e is the food's Eigen, h the eater's percept, Δ a lag, τ a relaxation time, and υ the distortion added by the Medium. Two features of this equation correspond to the evidence.
+Here e is the food's Eigen, h the eater's percept, δ a lag, τ a relaxation time, and υ the distortion added by the Medium. Two features of this equation correspond to the evidence.
 
 - **Expectation is the starting point.** A percept does not start from nothing. It starts from what the eater already carries, the expectation built from earlier tastings and from the situation (Barsalou 2003). Write that starting value as h₀. If the food's signal is steady, the equation gives
 

@@ -388,7 +388,7 @@
     ctx.beginPath(); ctx.moveTo(x0, y0); ctx.lineTo(x1, y1); ctx.stroke();
     ctx.setLineDash([]);
 
-    // Echo signals crossing the Medium, one lane each way, Δ late
+    // Echo signals crossing the Medium, one lane each way, δ late
     var every = 0.22, lanes = [[a, c, 0, 1], [c, a, 1, -1]];
     for (var l = 0; l < 2; l++) {
       var from = lanes[l][0], who = lanes[l][2], side = lanes[l][3] * 2.2;
@@ -569,7 +569,7 @@
     }
   }
 
-  // the pitchfork V(φ; B) = ¼φ⁴ − ½(B − θ)φ², with the pair's φ resting in it.
+  // the pitchfork potential(mode; B) = ¼·mode⁴ − ½·(B − θ)·mode², with the pair's mode resting in it.
   // The frame follows the depth of the well, so its shape stays readable.
   var wellScale = { p: 1, lo: -0.1, hi: 0.4 };
   function drawWell(b) {
@@ -760,7 +760,7 @@
       row("Stored ¼(B − θ)²", (d > 0 ? (0.25 * d * d).toFixed(4) : "0") + (d > 0 && 0.25 * d * d > b.Q ? " (Inhoud full)" : "")) +
       row("Held, of Inhoud Q", b.S.toFixed(4) + " / " + b.Q.toFixed(2)) +
       row("Overflow toward Creatie", b.X.toFixed(4) + " / " + P.thetaNew.toFixed(3)) +
-      row("Vertraging Δ · Ontspanning τ", b.delta.toFixed(2) + " · " + b.tau.toFixed(2));
+      row("Vertraging δ · Ontspanning τ", b.delta.toFixed(2) + " · " + b.tau.toFixed(2));
     var mem = [b.a, b.b], echo = [b.hA, b.hB];
     var h = "<tr><th></th><th>" + esc(b.a.name) + "</th><th>" + esc(b.b.name) + "</th></tr>";
     var rowsDef = [
