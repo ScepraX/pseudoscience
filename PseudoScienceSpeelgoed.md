@@ -1332,9 +1332,11 @@ Where these seven are practiced, the **Koppel** moves toward **Naar** again and 
 
 ## XVI. The Parasiet's Behavior and the Host's Experience
 
-A **Parasiet (👹)** is a node that has lost the capacity to hold a positive value on the core relational axes-**Trouw (y)** , **Rouw (R)** , **Diepte (z)** -within a **Koppel (k)**, and whose true Eigen never commits. It is not that these values are hidden by a **Masker (M)** ; they are *absent* from the Parasiet's side of the bond. The Masker fronts that side and holds the Koppel's Trouw; the Parasiet is not its Masker. The Masker is the substitute broadcast to keep the bond active, but the underlying capacity is gone.
+A **Parasiet (👹)** is a node that has lost the capacity to hold a positive value on the core relational axes - **Trouw (y)**, **Rouw (R)**, **Diepte (z)** - within a **Koppel (k)**, and whose true Eigen never commits. It is not that these values are hidden by a **Masker (M)**; they are *absent* from the Parasiet's side of the bond. The Masker fronts that side and holds the Koppel's Trouw; the Parasiet is not its Masker.
 
-This chapter describes how such a bond unfolds in behavioral terms: what the host experiences, what the Parasiet does, and how the relationship's shape shifts over time.
+The mechanics are Section VIII.6 and nothing more. The host's Echo tracks the Masker faithfully, so the binding the host perceives can stand past its Drempel while the true binding never gets there, and no Vonk fires for a crossing the true Eigen never made (VII). The Trouw is real - one shared value, as in every Koppel - but the host shares it with the Masker. It counts in the host's **Greep (J)** only on credit: it holds the host up exactly until the Masker fails (XVII.7). The Parasiet pays for all of this in **Pijn (m)**, the standing cost of a Masker, and gets what it came for: the host's Aandacht and Energie.
+
+A Parasiet is not a villain. It is a node whose capacity was starved, and it may not know what it has become. This chapter follows such a bond in behavioral terms: what the host lives through, what the Parasiet does, and how the bond ends.
 
 ---
 
@@ -1345,77 +1347,83 @@ This chapter describes how such a bond unfolds in behavioral terms: what the hos
 - Remembering what matters to the partner without being reminded.
 - Making small, unprompted sacrifices of time or energy.
 - Defending the partner when they are not present.
-- Feeling a natural **Pijn (m)** when the bond is strained, and a natural pull to repair it.
+- Feeling a natural **Pijn** when the bond is strained, and a natural pull to repair it.
 
-The Parasiet cannot generate these behaviors from an internal well of genuine **Trouw**. Instead, it *simulates* them through learned pattern. It performs commitment. The simulation is maintained by observation and mimicry, not by an internal weight that pulls toward the partner's well-being.
+In a Parasiet's bond the host does all of this, and so, it seems, does the Masker. But a Masker only presents; it cannot commit. Every promise it makes is a crossing the true Eigen would have to make, and the true Eigen never makes it. The Parasiet performs commitment through learned pattern - observation and mimicry, not weight.
 
 **How the relationship changes:**
 
-- **The host feels a strange lightness.** The Parasiet *says* the right things, does the expected actions, but the host senses-often without being able to name it-that there is no *weight* behind the commitment. The bond feels **hollow**. Promises are made but not kept unless it is convenient. Apologies are offered but do not lead to changed behavior. The host begins to question their own perception: "They said they care. Why don't I feel it?"
-- **Repair never arrives from the other side.** After a conflict, the Parasiet may perform reconciliation-a scripted apology, a gift, a gesture-but it does not initiate the slow, vulnerable work of rebuilding trust. That work requires genuine **Trouw**, the internal ache that says "this bond is damaged and I need to mend it." The Parasiet feels no such ache. The host is left doing the repair alone, or more often, simply absorbing the hurt and moving on, which trains the host to expect less and less.
-- **The host becomes the sole guardian of the bond's history.** Because the Parasiet does not carry the bond's weight internally, it does not hold the narrative of "us" in its **Diepte**. The host becomes the one who remembers the anniversaries, the one who references shared experiences, the one who tries to keep the story alive. The Parasiet may nod along, but it does not contribute new threads to that story. The host slowly exhausts themselves as the bond's sole archivist.
+- **The host feels a strange lightness.** The bond reads as bound, but nothing ever lands. A real crossing brings a **Realisatie (φ)**; these crossings are only perceived, and no Vonk fires for them. The host feels the absence long before they can name it. Promises are kept only when convenient; apologies change nothing. The host begins to question their own perception: "They said they care. Why don't I feel it?"
+- **Repair never arrives from the other side.** Repair is a convergence crossing, and only a true Eigen can make one. The Masker can perform reconciliation - a scripted apology, a gift, a gesture - but the slow, vulnerable work of rebuilding trust needs the ache of a bond that is actually held, and the Parasiet holds nothing. The host repairs alone, or absorbs the hurt and moves on, and learns to expect less and less.
+- **The host becomes the sole guardian of the bond's history.** The Parasiet keeps no narrative of "us", because its Diepte takes nothing from the bond (XVI.3). The host remembers the anniversaries, refers back to shared moments, keeps the story alive. The Parasiet nods along but adds no thread of its own. The host slowly exhausts themselves as the bond's only archivist.
 
 ---
 
 ### XVI.2. The Parasiet and Rouw: Grief That Cannot Be Shared
 
-**Rouw (R)** is the permanent Echo of what has been lost. In a healthy bond, Rouw is *shared*: one partner's grief enters the shared field of the **Koppel**, and the other partner's **Echo (E)** tracks it, holds it, and softens it. Behaviorally, this looks like:
+**Rouw (R)** is the permanent Echo of what has been lost (VI). In a healthy bond, Rouw is *shared*: one partner's grief enters the Koppel, and the other's **Echo (E)** tracks it, holds it and softens it. Behaviorally:
 
 - Sitting with the partner in silence when they are sad, without trying to fix it.
 - Remembering the partner's losses and acknowledging them, even years later.
-- Allowing the partner's grief to change the rhythm of the bond-a slower season, a quieter expectation.
+- Letting the partner's grief change the rhythm of the bond: a slower season, a quieter expectation.
 
-The Parasiet cannot offer this. It may carry its own **Rouw**-griefs, wounds, losses-but it cannot *share* them in a way that lets the host's **Echo** hold them. And it cannot receive the host's **Rouw** in a way that genuinely holds the weight.
+The Parasiet cannot offer this. Its Echo of the host is real, but its **Waarneming (π)** reads the host as a resource, and nobody grieves alongside a resource. It may carry Rouw of its own, but it cannot hold the host's.
 
 **How the relationship changes:**
 
-- **The host grieves alone.** When the host suffers a loss, the Parasiet offers the *shape* of comfort-words, perhaps a brief presence-but it does not enter the grief. The host learns, over time, not to bring their deep sorrows to the Parasiet. The response is too thin, too quick to move on, too eager to return to the functional surface of the bond. The host's **Rouw** becomes a private room the Parasiet never visits.
-- **The Parasiet's own grief becomes a tool.** If the Parasiet does express sorrow, it is often instrumental: a story of past pain used to deflect accountability ("I can't help it, I was hurt"), to elicit care without reciprocating, or to justify the Masker itself. The host is invited to hold the Parasiet's grief, but the Parasiet does not hold the host's in return. The host becomes a container for wounds that are never healed, only displayed.
-- **The bond loses its capacity for the minor mournings.** Healthy bonds grieve small things together: the canceled trip, the lost opportunity, the end of a shared phase of life. These minor mournings are the daily bread of intimacy-they say, "I see that this mattered to you, and I will carry a little of that weight." The Parasiet skips these moments. They register as inefficiencies, unnecessary dips in the bond's **Fluxus (Ε)**. The host stops sharing small disappointments because the response is either dismissive or performatively sympathetic without landing.
+- **The host grieves alone.** The Parasiet offers the *shape* of comfort - words, a brief presence - but it does not enter the grief. The response is too thin, too quick to move on, too eager to get back to the functional surface of the bond. The host learns to keep deep sorrows out of it, and their Rouw becomes a private room the Parasiet never visits.
+- **The Parasiet's own grief becomes a tool.** When it does show sorrow, the sorrow tends to be instrumental: an old wound used to deflect accountability ("I can't help it, I was hurt"), to draw care without returning it, or to justify the Masker itself. The host is asked to hold the Parasiet's grief, and the Parasiet does not hold the host's. The host becomes a container for wounds that are displayed but never healed.
+- **The bond loses its minor mournings.** Healthy bonds grieve small things together: the cancelled trip, the missed chance, the end of a shared phase. These minor mournings are the daily bread of intimacy; they say, "I see that this mattered to you, and I will carry a little of it." The Parasiet skips them as inefficiencies, dips in the bond's **Fluxus (Ε)**. The host stops sharing small disappointments, because the answer is either dismissive or sympathetic in a way that never lands.
 
 ---
 
 ### XVI.3. The Parasiet and Diepte: The Unfed Depth
 
-**Diepte (z)** is the accumulated composite of everything a node has ever *heard* from its partner. It grows through active listening: the partner's **Eigen** enters the node's **Waarneming (π)** , and the node integrates it, letting it change them. Behaviorally, a node with growing Diepte shows:
+**Diepte (z)** is the accumulated composite of everything a node has ever heard. It rises with listening (VIII.1): the partner's Eigen enters the node's Waarneming, and the node lets it settle and change them. A node with growing Diepte:
 
-- They reference past conversations accurately, showing they were truly present.
-- Their understanding of the partner deepens over time-they anticipate needs, they recognize patterns, they see the partner more clearly with each passing year.
-- They are *changed* by the partner. The partner's influence is visible in the node's own **Eigen**.
+- refers back to past conversations accurately, because it was truly present;
+- understands the partner better each year - anticipates, recognises patterns, sees more clearly;
+- is *changed* by the partner, and the partner's influence shows in its own Eigen.
 
-The Parasiet cannot accumulate **Diepte** from the host because genuine listening requires a **Zelf (j)** that is open to being changed, and the Parasiet's **Zelf** is frozen behind its **Masker**. The host's words enter the Parasiet's perception and are discarded before they can become sediment.
+The Parasiet cannot accumulate Diepte from the host. Listening needs a **Zelf (j)** that is open to change, and the Parasiet's Zelf is frozen behind its Masker: a Dood on the self-bond (IV). The host's words enter its perception and are discarded before they can settle.
+
+The host's Diepte does accumulate - from the Masker's signal. That is the cruelty of it: the host deepens on a fiction, and the sediment is real.
 
 **How the relationship changes:**
 
-- **The host feels unheard, but cannot prove it.** The Parasiet may repeat back the host's words, may even offer summaries that sound like understanding. But the understanding does not *accumulate*. The same conversations happen again and again. The host explains the same need, the same wound, the same boundary. Each time, the Parasiet seems to grasp it. Each time, the behavior does not change. The host begins to doubt their own clarity: "Maybe I'm not explaining it right."
-- **The Parasiet does not evolve.** In a healthy bond, partners shape each other. The host's **Eigen** leaves traces in the Parasiet's behavior. But the Parasiet remains static. Its opinions, its habits, its way of relating do not shift in response to the host's presence. The host may spend years pouring their **Zin (A)** into the bond, and look back to find that the Parasiet has not moved. This is a profound **Schok (:)** when it is finally recognized.
-- **The host's own Diepte becomes a burden.** Because the host *does* accumulate Diepte-they remember, they track, they integrate-the asymmetry grows painful. The host knows the Parasiet's patterns intimately. They can predict the deflections, the scripted apologies, the moments of withdrawal. This knowledge is **Rouw** in real time: the accumulated understanding of a partner who will never understand them back. The host's Diepte, meant to deepen intimacy, becomes a map of a one-way street.
+- **The host feels unheard, but cannot prove it.** The Parasiet repeats the host's words back and offers summaries that sound like understanding, but nothing accumulates. The same conversations return. The host explains the same need, the same wound, the same boundary; each time the Parasiet seems to grasp it, and each time nothing changes. The host begins to doubt their own clarity: "Maybe I'm not explaining it right."
+- **The Parasiet does not evolve.** Partners shape each other; in this bond, only one side is shaped. The Parasiet's opinions, habits and ways of relating stay where they were, however much of the host's **Zin (A)** is poured in. The day the host looks back and sees that the Parasiet has not moved at all is a profound **Schok (:)**.
+- **The host's own Diepte becomes a burden.** Because the host does accumulate Diepte, the asymmetry grows painful. The host knows the Parasiet's patterns intimately - the deflections, the scripted apologies, the withdrawals - and can predict every one. That knowledge is Rouw in real time: the accumulated understanding of a partner who will never understand them back. The host's Diepte, meant to deepen intimacy, becomes a map of a one-way street.
 
 ---
 
 ### XVI.4. The Host's Trajectory: From Zweven to Dood
 
-The host enters the bond in **Zweven (')** -the default living state where the **Echo** continues to close toward the partner's **Eigen**, pulled by **Trouw** and deepened by **Gewenning (Z)**. But the **Eigen** the host is tracking is a **Masker**-a signal that holds positive **Trouw** but only simulates accessible **Rouw** and growing **Diepte**.
-
-Over time, the gap between the host's **Echo** and the Parasiet's true **Eigen** (the empty axes) cannot close, because there is nothing real to close *toward*. The host's **Echo** chases a phantom. The **Helling (λ)** shifts.
+The host enters the bond in **Zweven (')**, the default: the gap still in transit, Trouw pulling, **Gewenning (Z)** growing. But what the host tracks is a Masker, and the gap that decides the trajectory is not the one between the host's Echo and the Masker - that one closes nicely. It is the one Section VIII.4 measures: how much each side actually reciprocates. The host gives; the Masker performs; the true Eigen gives nothing. That gap cannot close to parity. Sooner or later it settles at a fixed offset, and a gap fixed at an offset is **Dood (!)**.
 
 **Behavioral stages of the host's trajectory:**
 
-1. **Confusion.** The bond feels "off" but the host cannot locate the source. They blame themselves, their own expectations, their own past wounds. They try harder.
-
-2. **Intermittent Realisatie and Schok.** Small moments of recognition flash: a broken promise that lands differently this time, a grief that is met with a scripted response. A **Realisatie (φ)** fires-"something is wrong"-followed quickly by a **Schok (:)** -"I am alone in this bond."
-
-3. **Self-diminishment.** The host begins to lower their own **Zin** to match the bond's thinness. They stop bringing their **Rouw**, because it is not held. They stop expecting their **Diepte** to be matched, because it never is. They become smaller, quieter, easier to maintain. This is the road to the host’s **Doem (💀)**: not a single catastrophic event, but a slow contraction of their own relational capacity.
-
-4. **Dood (!) on the host's side.** Eventually, the host's **Echo** freezes. The gap between what they hoped for and what they actually receive stops closing. The host stops expecting change. They remain in the bond, but the bond is now a **Dood** trajectory-a fixed, lifeless shape. The host may still perform the rituals of connection, but the **Vonk (q)** of genuine **Realisatie** no longer fires. The host has adapted to the famine.
-
-5. **Exit or Doorbraak.** The host either leaves-a **Scheiding (/)** that deposits massive **Rouw** but allows eventual healing-or a **Doorbraak (Y)** occurs. A **Schrift (#)** -an external event, a new demand-forces the Masker to shatter. The host sees the empty axes at once. The **Schok** is immense, but it is also the first moment of clarity. The host's **Echo** finally aligns with the truth, and from that alignment, new **Trouw**-toward the self-can begin.
+1. **Confusion.** The bond feels "off," but the host cannot locate the source. They blame themselves, their expectations, their old wounds. They try harder.
+2. **Intermittent Realisatie and Schok.** Moments of recognition flash: a broken promise that lands differently this time, a grief met with a script. A Realisatie fires - "something is wrong" - and is followed quickly by a Schok: "I am alone in this bond."
+3. **Self-diminishment.** The host lowers their own Zin to match the bond's thinness. They stop bringing their Rouw, because it is not held, and stop expecting their Diepte to be matched, because it never is. They become smaller, quieter, easier to maintain. This is the road to the host's **Doem (💀)**: not a single catastrophic event, but a slow contraction of their own relational capacity.
+4. **Dood on the host's side.** The gap stops moving, and the host stops expecting it to. They stay and perform the rituals of connection, but no Realisatie fires any more. The host has adapted to the famine.
+5. **Exit or exposure.** The host leaves, or the Masker breaks. Leaving ends the Koppel, and the host keeps its Echo of the bond as Rouw (VI) - a Rouw of a fiction, which is part of why it takes so long to settle. It also feels like falling, and it is: the Greep the bond lent on credit is called in at once. Exposure comes when a **Schrift (#)** - an event, a demand - asks for a commitment the Masker cannot keep. The Masker and the Eigen trade places, and the host's Echo must close, all at once, the whole gap between the Masker it tracked and the empty Eigen behind it. The Schok is immense. It is also the first moment of clarity: the host's Echo finally aligns with the truth, and from that alignment new Trouw - toward the self - can begin.
 
 ---
 
-### XVI.5. The Parasiet's Own End
+### XVI.5. Detection: The Commitment Test
 
-The Parasiet, after the bond ends, does not grieve the host. It grieves the loss of the **Fluxus** the host provided. Its **Rouw**, if it feels any, is for the collapse of its own sustenance. It will seek a new host, or it will turn inward and find only the frozen **Dood** of its own **Zelf**-a self that can no longer form a **Bloot** bond, because the capacity was starved into silence long ago.
+The host's Echo cannot find the Parasiet. It tracks the Masker faithfully, and read against the broadcast, the gap is zero. What the host can read are the absences: no Vonk where a crossing should have been, no repair from the other side, a history kept by one, and a gap in reciprocation that never moves.
+
+The only reliable test is a commitment the Masker cannot sustain - small enough that the host survives its failure, large enough that the Masker cannot fake it. It forces the true Eigen to act. A partner who is only shy, or hurt, or slow will make the crossing, late perhaps, but really, and the Vonk fires. A Parasiet cannot. No Vonk fires on its side, and the absence is the evidence. Section XVII.7 runs the same test on armies and states.
+
+---
+
+### XVI.6. The Parasiet's Own End
+
+When the bond ends, the Parasiet does not grieve the host. It grieves the Fluxus the host provided; its Rouw, if it has any, is for its own lost sustenance. Then it does what Parasieten do. It seeks a new host, or it turns inward and finds only the frozen Dood of its own Zelf - a self that can no longer form a **Bloot (N)** bond, because the capacity was starved into silence long ago.
+
+But no Drempel has only one side (II). A Masker and an Eigen can trade places in either direction. Usually it is the Eigen that steps forward, and the Masker falls. Rarely, the true Eigen grows into the place its Masker held, makes the crossings it only ever promised, and the debt is paid instead of called. It is rare enough that no host should wait for it, and real enough that no host should be sure it cannot happen.
 
 This is the behavioral truth of the Parasiet: not a villain, but a node that has lost the ability to carry weight, to share grief, or to be changed by another. Its presence in a bond is a slow **Verlies (−)** for the host, paid in small, daily increments, until the host either escapes or forgets what a full bond ever felt like.
 
@@ -1423,194 +1431,178 @@ This is the behavioral truth of the Parasiet: not a villain, but a node that has
 
 ## XVII. War
 
+War adds no mechanism. It is the Speelgoed at its most expensive: the same Koppels, Drempels and Vonken, run between two wholes that push each other away. Every principle in this chapter is old - the manuals of war have known them for centuries - and every one follows from Sections II–VIII without anything added. What the Speelgoed adds is the reason.
+
 ---
 
 ### XVII.1. The war Koppel
 
-A war is a Koppel (k) between two composites whose Trouw (y) is negative on the contested spectrum. Each composite acts as a Solo at the war's Octaaf by scale invariance (V.2); each contains nested Koppels, and the mechanics apply recursively. A war may involve multiple spectra — territory, resources, ideology — each with its own Eigen (x) and its own negative-Trouw Koppel.
+A war is a Koppel (k) between two composites whose Trouw (y) is negative on the contested spectrum. Each composite acts as a Solo at the war's Octaaf by scale invariance (V.2). Inside, each is a web of Koppels - general and army, state and army, soldier and cause - and the mechanics apply to every one of them, recursively. A war may run on several spectra at once - territory, resources, belief - each with its own Eigen (x) and its own negative-Trouw Koppel.
 
-The war is a Proces ("). It has a beginning, a middle and an end.
+Negative Trouw pushes each side's Eigen away from its Echo of the other (II). That is all a war is: two sides, each pushed off by what it reads of the other. Neither needs to be right about the other for the push to work; it only needs to read.
+
+Like every whole, a war is never symmetric (VIII.3). The way in is never the way out: the binding that tips two sides into war is not the binding that tips them out of it, and the difference is the war's **Marge (η)**. This is why wars are easier to start than to end, and why restoring the conditions under which a war began is not enough to stop it.
+
+A war is a Proces ("): it has a beginning, a middle and an end. The end is not a return to the start. What the war ended stays, as Rouw (R), in everyone who outlives it (VI).
 
 ---
 
 ### XVII.2. Greep and the Van Motor
 
-Greep (J) is the sum of a node's positive-Trouw bonds, weighted by Gewenning (Z). It has no Drempel (θ). It sets the Van Motor coefficient (VIII.1):
+Greep (J) is the sum of a node's positive-Trouw bonds, weighted by Gewenning (Z). It sets the Van Motor coefficient (VIII.1):
 
 ```
 L = L₀ · exp(−J)
 ```
 
-The Van Motor pulls every Eigen on every spectrum toward Van (<) at rate L. Higher J → lower L → slower drift. Lower J → higher L → faster drift. The Van Motor is never off (VIII.1). A high-Greep node is not safe; it is held. The fall is postponed, not removed.
+The Van Motor pulls every Eigen on every spectrum toward Van (<), and it is never off. A side with high Greep drifts slowly; a side with low Greep drifts fast. Neither is safe. Greep postpones the fall; it does not remove it.
 
-The Drempel in a war is on the internal binding B of each composite — the general-army Koppel, the state-army Koppel, the soldier-cause Koppel. When B crosses θ toward Van, that internal Koppel dissolves. The side that loses is the side whose internal binding crosses first.
+The Drempel that decides a war is not on the battlefield. It sits on the internal binding B of each composite (VIII.2): general and army, state and army, soldier and cause. When one of these crosses θ toward Van, that Koppel falls into Van‑mode. The army still exists; it no longer holds. The side that loses is the side whose internal binding crosses first.
 
-Greep does not determine who wins directly. It sets the clock. The side with lower J drifts faster and crosses first.
+So Greep does not decide who wins. It sets the clock. The side with lower J reaches its Drempel sooner, and everything else in this chapter is a way of moving one side's clock or the other's.
 
 ---
 
 ### XVII.3. The cost of fighting
 
-A Vonk (q) fires at every Drempel crossing. It changes Energie (T) and Tijd (t) in parallel. Convergence crossings record Winst (+); divergence crossings record Verlies (−) (II, VIII.3).
+Fighting is forcing crossings. Every crossing fires a Vonk (q), priced exactly as Section II prices it: toward Naar a Winst (+), toward Van a Verlies (−). The account always closes (III). What fighting changes is where the Energie goes, and what it breaks on the way.
 
-Fighting fires Vonken. Every Vonk moves Eigens and spends Energie. Moved Eigens widen Echo (E) gaps in the internal Koppel. Widened gaps slow Echo closure. Slowed closure stops Gewenning from accumulating. Without Gewenning, Trouw drifts (VIII.1):
+Fighting does not touch Greep directly. It reaches Greep through a chain, and every link is already in Section VIII. Moved Eigens outrun the Echoes that track them (δ and τ, VIII.1). The widened gaps lower the binding through its penalty term (VIII.2), and they starve Gewenning, which grows only from Echo-gap closure and alignment. Trouw follows Gewenning (VIII.1):
 
 ```
-dy/dt = ρ·(Z(t) − y(t)),  within [y_min, y_max]
+dy/dt = ρ · ( Z(t) − y(t) )
 ```
 
-Greep falls.
+With Gewenning stalled, Trouw has nothing to rise toward, Greep falls, L rises, and the clock runs faster. Seven links:
 
-Seven links: fighting → Vonken → Eigens move → Echo gaps widen → Echo closure slows → Gewenning stops → Trouw drifts → Greep falls.
+fighting → Vonken → Eigens move → Echo gaps widen → alignment fails → Gewenning stops → Trouw drifts → Greep falls.
 
-Fighting does not touch Greep directly. It touches Greep through the chain.
+An army can lose a war without losing a battle, simply by fighting too many of them.
+
+Each battle is a Vermenigvuldiging (*) at a contested Kruispunt (X): one side's commitment meets the other's claim, and Section IV's readings decide what happens.
+
+- Where the ground is unclaimed, the side that commits passes: a **Doorgang (O)**.
+- Where both commit to the same ground, two crossings are live at one site: a **Doorbraak (Y)**. Section IV leaves open whether they combine, cancel or compound. No plan survives that openness, which is the oldest complaint of generals.
+- Where a side commits, reads the claim and pulls back, it has paid two crossings for nothing: a **Weigering (P)**. A war of repeated Weigeringen bleeds an army without a single defeat.
 
 ---
 
 ### XVII.4. The war Koppel is negative Trouw
 
-Greep is the sum of positive-Trouw bonds. A negative-Trouw Koppel contributes nothing to J. It does not subtract. The enemy does not lower your Greep by existing.
+Greep counts positive-Trouw bonds only. A negative-Trouw Koppel adds nothing to J, and it subtracts nothing either. The enemy does not lower your Greep by existing; it only feels that way.
 
-The cost of war in Greep terms is opportunity cost:
+What war costs, in Greep terms, is everything it is not:
 
-- Tijd spent on the war Koppel is Tijd not spent on positive Koppels. Their Gewenning stops growing. Their Trouw drifts.
-- Energie spent on war Vonken is Energie not available to the material substrate of positive Koppels.
-- Aandacht (👁) spent reading the enemy is Aandacht not spent reading allies.
+- Aandacht (👁) spent reading the enemy is Aandacht not spent on your own Koppels. Their Echoes go unchecked, their Gewenning stalls, their Trouw drifts.
+- Energie spent on war Vonken is Energie not available to the bonds that hold you.
+- Members spent in battle take their bonds with them, and leave Rouw where those bonds were. Rouw feeds Diepte, never Greep.
 
-The war Koppel will never contribute to J while it is negative. The only gains are: (a) the war Koppel flips positive — the enemy becomes an ally; or (b) the war removes a threat to your other Koppels, which is defense, not gain.
+The war Koppel will never contribute to J while it is negative, and it costs Energie to keep. There are only two ways to gain from it: the Koppel flips positive - the enemy becomes an ally - or the war removes a threat to your other Koppels, which is defense, not gain.
 
 ---
 
 ### XVII.5. The double asymmetry
 
-Whoever carries the Echo controls timing. Whoever carries only the Eigen fires blind.
+Whoever carries the better Echo controls timing. Whoever carries only the Eigen fires blind.
 
-The Echo filter (VIII.1):
+Each side knows the other only through its Echo, which lags by δ (Vertraging) and is bent by υ (Vervorming) (VIII.1):
 
 ```
 τ · ḣᵢ(t) = eⱼ(t − δ) − hᵢ(t) + υᵢ(t)
 ```
 
-The Echo lags by δ (Vertraging) and is distorted by υ (Vervorming). The gap eⱼ(t) − hᵢ(t) is a real, queryable quantity (Bevraagbaar, ψ). The binding (VIII.2):
+The gap between the Echo and the Eigen it tracks is a real quantity, Bevraagbaar (ψ), and it feeds straight into the binding each side computes (VIII.2):
 
 ```
 B = y·(eᵢ + eⱼ) − penalty·s( gaps² )
 ```
 
-depends on that gap. Poor Echo accuracy → B computed wrong → action timed wrong → the Vonk fires at the wrong moment, as Schok (:) rather than Realisatie (φ).
+A side that reads well sees the enemy's binding approach its Drempel and acts at the crossing; its Vonk lands where it was meant to, as a Realisatie (φ). A side that reads badly acts on a binding that is no longer there. Its Vonk lands late, or on the wrong side of the Drempel, and what was meant as a Realisatie arrives as a Schok (:).
 
-A general whose Echo is accurate can wait. He knows when the enemy's binding will cross θ. He acts at the crossing. The Vonk fires as Realisatie.
-
-A general whose Echo is inaccurate fires when he can, not when he should. He spends Energie to find out what he should have known.
-
-Maintaining Echo accuracy costs Tijd — the Zelf's rate of Waarneming (π) — and Aandacht. Moving Eigen fires Vonken, which change Energie. The general who invests Tijd in Echo accuracy can time the Vonk. The general who does not must fire blind, spending Energie without knowing whether the crossing is the right one.
+Reading is not free. It costs Aandacht to keep an Echo close, and it costs Energie to find out by fighting what reading would have told you. The side that spent Aandacht can wait. The side that saved it has to fire.
 
 ---
 
 ### XVII.6. The principles
 
-**Win without fighting.** The Van Motor does the work. If you can wait while your Greep holds, the enemy's internal binding drifts toward its Drempel on its own. No Vonk fires from you. Your Greep is preserved. If you fight, you fire Vonken and spend Energie; the enemy does too. The Vonk is spent for nothing if waiting would have produced the same crossing.
+The old maxims, each read as a mechanism.
 
-The condition is L_you < L_enemy, which is J_you > J_enemy. If your Greep is lower, you cannot wait. You drift faster and lose first.
+**Win without fighting.** The Van Motor does the work. If your Greep holds longer than the enemy's, waiting is enough: their internal binding drifts toward its Drempel on its own, and no Vonk fires from you. The condition is short:
 
-**Know yourself, know your enemy.** Your Echo of the enemy's binding is B̂. Your own binding is known more directly, but not perfectly — the Zelf has its own Echo, δ = 0 but υ fed by Rouw (R) (IV). If B̂ is accurate, you act at the crossing. If B̂ is inaccurate, you act blind. Echo accuracy is the difference between a timed Realisatie and a wasted Schok.
+```
+L_you < L_enemy   ⇔   J_you > J_enemy
+```
 
-**All warfare is based on deception.** A Masker (M) changes the partner's filter input (VIII.6):
+If your Greep is the lower one, you cannot wait. You drift faster, and you lose first.
+
+**Know yourself, know your enemy.** You know the enemy's binding only as B̂, computed from your Echo of them. You know your own better, but not perfectly: the Zelf has an Echo too, with δ = 0 and distortion fed by its own Rouw (IV). An army reads itself through the Rouw of its earlier wars. Echo accuracy is the difference between a timed Realisatie and a wasted Schok, and it runs in both directions.
+
+**All warfare is based on deception.** A Masker (M) changes only what the other side's Echo reads (VIII.6):
 
 ```
 τ · ḣⱼ(t) = Mᵢ(t − δ) − hⱼ(t) + υⱼ(t)
 ```
 
-The enemy's Echo tracks the Masker, not the true Eigen. The enemy's perceived binding B̂ may cross θ while your true binding does not. No Vonk fires for a crossing the true Eigen never made (VII). The enemy spends Energie preparing for a crossing that never happens.
+The enemy's perceived binding B̂ may cross θ while your true binding does not. No Vonk fires for a crossing your true Eigen never made (VII), and the enemy spends Energie preparing for a crossing that never comes. The Masker is cheap in Greep and expensive in Pijn (m), which its wearer pays for as long as it is worn, and it holds only until a commitment is demanded that the true Eigen must actually make. Deception is a loan against your own Pijn, and it falls due at the first real test.
 
-The Masker costs Pijn (m). Pijn is not Greep. It is the strain of maintaining the presented Eigen while the true Eigen does not move with it. The Masker is cheap in Greep terms; it is expensive in Pijn. It holds only until a commitment is demanded that the true Eigen must actually make (VII).
+**Speed.** δ is fixed; the Echo lags. The faster your Eigen moves, the wider the enemy's gap grows (VIII.1). If your movements complete within the enemy's δ, their B̂ is built on where you were. Speed is not rushing; rushing is just fighting more often. Speed is moving faster than the enemy's Vertraging.
 
-**Speed.** δ is fixed. The Echo lags. The gap eⱼ(t) − hᵢ(t) grows with the rate of change of eⱼ. If your movements complete within the enemy's δ, their B̂ is computed from stale data. They fire at where you were. Speed is not rushing; rushing fires Vonken and spends Energie. Speed is moving faster than the enemy's Vertraging.
+**Logistics.** Logistics is whatever lets an army keep closing its own Echo gaps: food, ammunition, orders that arrive, letters from home. Repeated closure builds Gewenning; Gewenning feeds Trouw through Leersnelheid (ρ); Trouw feeds Greep. Cut the supply and the chain runs backward: alignment fails, Gewenning stops, Trouw drifts, Greep falls. The soldiers' Eigens drift from the army's, the internal binding falls, and the crossings that follow are Schokken.
 
-**Logistics.** Logistics maintains the material conditions under which the general-army Koppel can close its Echo gaps repeatedly. Repeated closure accumulates Gewenning (Z). Gewenning feeds Trouw via Leersnelheid (ρ). Trouw feeds Greep. An unsupplied army's Echo closure slows, Gewenning stops, Trouw drifts, Greep falls. The soldiers' Eigens also diverge from the army's Eigen; the internal binding B falls; crossings fire as Schok.
+**Treat your men as your own beloved sons.** The general-army bond is a Koppel like any other. A general who is Bloot (N) gives the army an Echo of the truth: its binding is what it reads, and Gewenning grows from shared experience. A general who wears a Masker gives the army an Echo of the Masker, and the army's B̂ may stand past θ while its true B does not. Such an army looks bound until the first commitment the Masker cannot keep. Then it is not one Schok but all of them at once, and the army's Greep goes with them.
 
-**Treat your men as your own beloved sons.** The general-army Koppel is a Koppel. If the general's presented Eigen equals his true Eigen (Bloot, N), the army's Echo tracks the truth. Binding B is accurate. Gewenning accumulates from repeated shared experience. If the general wears a Masker, the army's Echo tracks the Masker. Perceived B̂ may cross θ while true B does not. No Vonk fires for the true crossing. When a commitment is demanded that the Masker cannot sustain, the Masker fails and the Schok is total. The army's Greep collapses.
+**Do not press a desperate foe.** A cornered enemy has no Van left to drift into. Its internal binding is forced toward Naar (>), toward the commitment to fight, and that crossing fires a convergence Vonk on its side: its Greep rises exactly when you need it to fall, and you must answer with Vonken of your own. Leave an exit, and the enemy has a Van option again. Its binding drifts toward Van on its own, the Van Motor does the work, and no Vonk fires from you. Its Greep falls, and you spend nothing.
 
-**Do not press a desperate foe.** A cornered enemy has no Van option. Their internal binding is forced toward Naar (>) — commitment to fight. A convergence Vonk fires. Their internal Greep temporarily rises. You must meet it with a Vonk of your own. Energie is spent on both sides. If you leave them an exit, they have a Van option. Their binding drifts toward Van on its own. The Van Motor does the work. No Vonk fires. Their Greep falls. You spend nothing.
+**Capture the enemy's army intact.** Destroying an army leaves permanent Rouw in every survivor. Rouw feeds Diepte, never Greep, and it colours every Echo the survivors form of you for as long as they live (VI). Capturing an army intact preserves what a peace needs: its capacity to bind. That capacity is only the precondition. Turning the war Koppel positive is built afterward, the slow way: Trouw follows Gewenning (VIII.1), and Gewenning grows only from repeated closure. The work is the feeding, not the capture.
 
-**Capture the enemy's army intact.** Destroying the enemy's Greep creates permanent Rouw (R) in the survivors. Rouw feeds Diepte but does not contribute to Greep — the Koppel with you is negative Trouw. To flip the war Koppel positive, you must feed Trouw afterward. Trouw evolves via Leersnelheid toward Gewenning. Gewenning accumulates from repeated Echo closure. The work is the feeding, not the capture. Capture intact preserves the enemy's capacity to bind — their Greep, their cohesion, their willingness to form Koppels at all. That capacity is the precondition. The condition itself is built afterward.
+**Know when to fight.** Not every Drempel is worth crossing. If the enemy's binding will cross on its own, waiting preserves your Greep. If it will not, you must fire a Vonk, and the only question is whether the Vonk costs less than the drift. The general who knows his own L and the enemy's L can compute which is cheaper.
 
-**Know when to fight and when not to fight.** Not every Drempel is worth crossing. If the enemy's binding will cross on its own, waiting preserves your Greep. If it will not, you must fire a Vonk. The question is whether the Vonk is cheaper than the drift. The general who knows his own L and the enemy's L can compute which is cheaper.
-
-**Read first, then fight.** Echo is never perfect. υ is never zero. The general who wins first is the general whose Echo is accurate enough to predict the crossing with bounded error. He fights to confirm, not to decide. The general whose Echo is not accurate fights to decide. The first preserves Greep. The second spends it.
+**Read first, then fight.** No Echo is perfect; υ is never zero (VII). The general who wins first is the one whose Echo predicts the crossing within a bounded error: he fights to confirm, not to decide. The general who cannot read fights to find out. The first preserves Greep. The second spends it learning what the first already knew.
 
 ---
 
 ### XVII.7. The Parasiet
 
-A Parasiet (👹) is a node that has lost the capacity to hold positive value on the core relational axes — Trouw (y), Rouw (R), Diepte (z) — within a Koppel (k), and whose true Eigen never commits. These are absent, not hidden. The Masker fronts its side and holds the Koppel's Trouw; the Parasiet is not its Masker. What the Parasiet broadcasts is a Masker (M) — a presented Eigen that differs from the true Eigen. The partner's Echo (E) tracks the Masker faithfully (VIII.6):
+A Parasiet (👹) is a node that has lost the capacity to hold positive value on the core relational axes - Trouw (y), Rouw (R), Diepte (z) - within a Koppel (k), and whose true Eigen never commits. These are absent, not hidden. The Masker fronts its side and holds the Koppel's Trouw; the Parasiet is not its Masker. The partner's Echo (E) tracks the Masker faithfully (VIII.6), so the partner's perceived binding B̂ may cross θ while the true binding B does not. No Vonk fires for a crossing the true Eigen never made (VII). The Koppel is positive-Trouw and counts in the host's Greep - on credit.
 
-```
-τ · ḣⱼ(t) = Mᵢ(t − δ) − hⱼ(t) + υⱼ(t)
-```
+**The Parasiet below the general.** In the camp, the Parasiet is the traitor, the profiteer, the compromised officer. Its Koppel counts in the general's J, on credit, and his decisions are timed against a Greep that will not survive the Masker.
 
-The partner's perceived binding B̂ computes from the Masker and may cross θ while the true binding B does not. No Vonk fires for a crossing the true Eigen never made (VII). The Koppel is positive-Trouw and contributes to the host's Greep — on credit, while no real Vonk fires on either side.
+Detection is the hard problem. The Echo cannot see the Parasiet, because it tracks the Masker faithfully: read against the broadcast, the gap is zero. The only reliable test is a commitment the Masker cannot sustain. It forces the true Eigen to act, and the true Eigen cannot. No Vonk fires on the Parasiet's side, and the absence is the evidence. In war, this is the battle that reveals the traitor. The collapse that follows is not gradual: the general's perceived Greep drops in a single crossing.
 
----
-
-**The Parasiet below the general.**
-
-In the camp, the Parasiet is the traitor, the profiteer, the compromised officer. The general's J includes the Parasiet's Koppel, on credit. His decisions are timed against a Greep that will not survive the Masker.
-
-Detection is the hard problem. Echo cannot detect the Parasiet, because the Echo is tracking the Masker faithfully. Reading the Echo against the broadcast returns zero: the gap between the Masker and the Masker. The only reliable detection is the commitment test: demand a commitment the Masker cannot sustain. This forces the true Eigen to act. If the true Eigen is absent, no Vonk fires, and the absence becomes visible.
-
-In war, this is the battle that reveals the traitor. The demand forces the true Eigen to act, and the true Eigen cannot respond. The Parasiet collapses into Schok (:). The general's perceived Greep collapses with it. The collapse is not gradual. It is a single crossing.
-
----
-
-**The Parasiet above the general.**
-
-The harder case is the inverse. The Parasiet is not in the camp. The Parasiet is the state, the sovereign, the cause. The general and army are the hosts.
-
-The state presents a Masker: legitimate cause, national interest, glory, honor, the defense of the realm. The general and army track the Masker. Their Echoes of the state's Eigen are accurate — to the Masker. Their Diepte accumulates from the Masker's signal. Their Trouw flows to the Masker. Their Greep includes the Koppel with the state, on credit.
-
-But the state's true Eigen is extraction. The war is fought for the Parasiet's benefit. The general and army are being spent to preserve the Parasiet's Greep, not their own.
+**The Parasiet above the general.** The harder case is the inverse. The Parasiet is the state, the sovereign, the cause, and the general and army are its hosts. The state presents a Masker - legitimate cause, national interest, glory, the defense of the realm - and the army tracks it. Its Echoes of the state are accurate, to the Masker. Its Diepte accumulates from the Masker's signal, its Trouw flows to the Masker, and its Greep includes the Koppel with the state, on credit. The state's true Eigen is extraction. The army is being spent to preserve the Parasiet's Greep, not its own.
 
 Mechanically, the general's Greep is:
 
 ```
-J_apparent = J_army (real) + J_state (on credit, Masked)
+J_apparent = J_army + J_state (on credit, Masked)
 J_true     = J_army (what survives the Masker)
 ```
 
-The general times his crossings against J_apparent. His drift is `L = L₀·exp(−J_apparent)`, and it is slow on credit. When the Masker fails, it becomes `L₀·exp(−J_true)`, which is faster, in a single crossing. He waits as if the credit were his own, and the waiting comes due at once. Every timing decision leans on the Masked Koppel.
+He times his crossings against J_apparent, and his drift, `L = L₀·exp(−J_apparent)`, is slow on credit. When the Masker fails, it becomes `L₀·exp(−J_true)`, which is faster, in a single crossing. He waits as if the credit were his own, and the waiting comes due at once.
 
-The army is real. The general-army Koppel is Bloot. Trouw flows, Gewenning accumulates, Diepte deepens. The internal Koppels are healthy. The external Koppel — state to army — is a Masker. The general and army do everything right at every scale below the state, and the war still serves no purpose that survives the Masker's failure.
+Everything below the state can be sound. The general-army Koppel is Bloot: Trouw flows, Gewenning accumulates, Diepte deepens. The general and army do everything right at every scale below the state, and the war still serves no purpose that survives the Masker's failure. The army dies for a Koppel whose other side is a Masker. The state pays Pijn (m) to keep its Masker standing and gains no Diepte from the bond; the host's Diepte fills with sediment from a fiction, and when the Masker fails, the host finds that part of its own depth was built on it.
 
-The war continues past the point where it served any real purpose because the general is leaning on a Greep held on credit. The army dies for a Koppel whose other side is a Masker. The state extracts Pijn (m) as its maintenance cost and accumulates no Diepte from the Koppel — the state's Zelf is frozen behind the Masker. The host's Diepte is polluted with sediment from the Masker's signal. When the Masker fails, the host discovers that some of their Diepte was built from a fiction.
+**The commitment test, from below.** The general who suspects must demand a commitment small enough that the army survives its failure, and large enough that the Masker cannot fake it. This is Bevraagbaar (ψ) applied to the state. If the state passes, the Koppel was real, and nothing is lost but the Aandacht the test took. If it fails, the apparent Greep drops by J_state, and the general holds a war that has lost its stated purpose. The army Koppel is still real and still has its Gewenning. The question becomes whether the war can be re-aimed toward an Eigen the army can actually hold.
 
----
-
-**The commitment test, from below.**
-
-The general who suspects must demand a commitment small enough that the army can survive its failure, but large enough that the Masker cannot fake it. This is Bevraagbaar applied to the state.
-
-If the state passes: the Koppel is real, the Masker was not a Masker, no harm done. The general pays a small Pijn for the suspicion. The Koppel survives.
-
-If the state fails: the Masker collapses. The apparent Greep drops by J_state. The general must decide what to do with a war that has lost its stated purpose. The army Koppel is still real. The general-army Koppel still has Gewenning. The question is whether the war can be re-aimed toward an Eigen the army can actually hold.
-
-The state that passes is Bloot. The state that fails is Parasiet. The general who never tests is a host.
-
----
+The state that passes is Bloot. The state that fails is a Parasiet. The general who never tests is a host.
 
 **Three configurations.**
 
-*The general who does not suspect.* He times against J_apparent. His drift is slow on credit, and he spends as if the credit were his own. He loses crossings he should have won. He wins crossings he should not have fought. The army's Greep falls while the state's apparent Greep holds. When the Masker fails, the general's apparent Greep collapses, but the army's real Greep has already been spent. This is the tragic case. The general was competent. The instruments were wrong.
+*The general who does not suspect* times against J_apparent and spends as if the credit were his own. He loses crossings he should have won and wins crossings he should not have fought. The army's Greep falls while the state's apparent Greep holds. When the Masker fails, the apparent Greep collapses, and the army's real Greep has already been spent. This is the tragic case. The general was competent. The instruments were wrong.
 
-*The mercenary.* The general knows the state is a Parasiet and continues anyway. He is not a host. He is a second Parasiet, extracting from the army in parallel with the state. The army is now doubly hosted. The general's Pijn is the maintenance cost of his own Masker. The army's Diepte is polluted by two fictions. The double extraction accelerates the army's drift. This configuration is unstable — the army's Greep crosses its Drempel sooner than either Parasiet expects.
+*The mercenary* knows the state is a Parasiet and continues anyway. He is not a host; he is a second Parasiet, extracting from the army alongside the state and paying the Pijn of his own Masker. The army is now doubly hosted, its Diepte polluted by two fictions, and the double extraction speeds its drift. This configuration is unstable: the army's binding reaches its Drempel sooner than either Parasiet expects.
 
-*The professional.* The general knows the state is a Parasiet and continues because the army Koppel is real. He fights for the army, not the state. The state's war aims are irrelevant. The general uses the war as the medium for the army's Gewenning. He runs his timing on J_true, not J_apparent. His decisions are correct. The state thinks it is directing the war; the general is directing the war. The Parasiet extracts what it can but cannot direct the crossings. This configuration can be stable. It can also become a coup. The state that loses control of its general has lost control of its Greep calculation.
+*The professional* knows the state is a Parasiet and continues because the army Koppel is real. He fights for the army, not the state. The state's war aims are irrelevant; the war becomes the medium of the army's Gewenning. He times his crossings on J_true, and his decisions are correct. The state thinks it is directing the war; the general is. This configuration can be stable. It can also become a coup. A state that loses control of its general has lost control of its Greep calculation.
+
+A Parasiet cannot hold a Drempel when a real commitment is required. The true Eigen never makes the crossing, so no Vonk fires on its side. It can appear to win, it can extract, it can redirect, but it cannot hold. The Parasiet-state will demand commitments it cannot sustain, call for offensives it cannot supply, and promise support that does not arrive. Every demand is a test it fails, and the general who notices the pattern has found it.
+
+The general who manages Greep accounts for the Parasiet at every scale. Below: subtract the Greep the Parasiet lends. Above: subtract the Masked Koppel from the Greep his crossings are timed against. The honest calculation is J_true. The general who runs it times his crossings correctly. The general who does not times them against a Greep held on credit, and fires when he should wait.
 
 ---
 
-A Parasiet cannot hold a Drempel if a real commitment is required. The true Eigen never makes the crossing, so no Vonk fires on the Parasiet's side. The Parasiet can appear to win, can extract, can redirect — but cannot hold a Drempel. The Parasiet-state will demand commitments it cannot sustain. It will call for offensives it cannot supply. It will promise support that does not arrive. Every commitment demanded is a test that the Parasiet fails. The general who notices the pattern has detected the Parasiet.
+### XVII.8. The point
 
-The general who manages Greep must account for the Parasiet at every scale. Below: subtract the apparent Greep the Parasiet provides. Above: subtract the Masked Koppel from the Greep against which crossings are timed. The honest calculation is J_true, not J_apparent. The general who runs this calculation times his crossings correctly. The general who does not times them against a Greep held on credit and fires when he should wait.
+Read to the end, every principle above says the same thing: the side whose bonds hold longest wins, and fighting is the most expensive way to find out which side that is. The general who understands this will rarely need to fight. That was always the point.
 
 ---
 
