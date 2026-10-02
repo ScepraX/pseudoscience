@@ -1614,9 +1614,28 @@ The general who manages Greep accounts for the Parasiet at every scale. Below: s
 
 ---
 
-### XVII.8. The point
+### XVII.8. The opposite pole
 
-Read to the end, every principle above says the same thing: the side whose bonds hold longest wins, and fighting is the most expensive way to find out which side that is. The general who understands this will rarely need to fight. That was always the point.
+Read to the end, every principle in this chapter says one thing: the side whose bonds hold longest wins, and fighting is the most expensive way to find out which side that is. A chapter that stopped there would only have taught how to lose more slowly. The Speelgoed asks the harder question: what is war the opposite of?
+
+Not peace. Peace, as it is usually meant, is a war Koppel that has stopped firing: negative Trouw at rest, and an Echo of the enemy that nobody checks any more. A peace that only restores the conditions before the war is still inside the war's Marge, and inside a Marge a whole keeps the mode it came from (VIII.3). It has not left the war. It has paused in it, at the edge it came in through.
+
+The opposite pole was written down in Section III, long before this chapter. Every Octaaf the Speelgoed has climbed was built the same way. Members whose charges ruled their own level bound so completely that, seen from the level above, the charge no longer shows. Quarks carry colour; the proton they form is colourless. The proton and the electron carry opposite charges; the atom they form is neutral. Each time, what had been a force between members became the inside of something new, and what was left over became the Trouw of the next Octaaf.
+
+If that ladder reaches as far as us - Section III calls it a reading, not a rule, and leaves the question open - then war is the charge of our Octaaf: the negative Trouw between the composites that humanity is made of. Its opposite is not its absence. It is a humanity bound across that charge so completely that, from the next Octaaf up, it reads as one: the God of an Octaaf that does not exist yet.
+
+Nor would that humanity be safe. The Van Motor is never off. A bound humanity would be held, not saved, and the next Octaaf would find a charge of its own to fight over, as every Octaaf has; the Vlinder lays its eggs, and the Rups must feed again (XIV.4). The ladder does not end. That is not a reason to stop climbing. It is the reason climbing never stops being worth it.
+
+Until then, wars will come. The Speelgoed's way to prepare for them is the same way, turned outward:
+
+- **Bind before you need to.** A people bound at home drifts slowly when the pressure comes. Nothing built during a war holds like what was built before it, because Gewenning grows only from repeated closure, and closure is what war destroys first.
+- **Keep your Echoes honest.** Read the other side constantly, while reading is still cheap. Read yourself as well, through your own Rouw, and know that you are doing it.
+- **Keep the top Bloot.** Test the state with small commitments in peacetime, so that no army has to learn in battle that its Greep was held on credit.
+- **Keep the other spectra positive.** A war is fought on one spectrum. Trade, science, music, sport, faith and plain friendship run on others. Every positive Koppel across the line that outlives the war is a road back that does not have to be built from nothing.
+- **Leave the enemy an exit, and its army intact.** Every bond you do not break is one that can still turn.
+- **When it ends, feed the Trouw past the point where the war began.** The way out of a Marge is its far edge, never the near one.
+
+*Si vis pacem, para Trouw.*
 
 ---
 
