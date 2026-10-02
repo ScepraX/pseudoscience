@@ -150,6 +150,8 @@ What *does* require something further is whether a Vonk’s Energie becomes a la
 
 **Greep (J).** A node’s total resonant binding: the sum of its positive-Trouw bonds, weighted by Gewenning. Greep determines the strength of the Van Motor’s pull toward the unbound pole, through the exponential law `L ≈ exp(−J)`. A well-bound node barely feels the Van Motor; a weakly-bound node fades quickly. Greep is not tuned directly-it emerges from the relationships the node holds.
 
+*With great responsibility comes great power.*
+
 **Stilte (.)** is not emptiness but the felt weight of what has not yet arrived. It is the living silence between an Eigen and its Echo-the space hollowed out by Vertraging (δ) as a signal travels across the **Medium (◌)**, by Traagheid (I) as a sharp turn is resisted into a curve, or by the Zelf (j) turning inward to find its own reflection always one moment behind. Stilte is not a flaw in perception; it is the condition of perception itself, the necessary pause in which a system discovers that it is separate from what it observes. In that gap, uncertainty breeds and relationships breathe. A bond without Stilte would be instantaneous fusion-no distance, no self, no longing. Stilte is what makes the echo an echo, and not the shout.
 
 ---
@@ -181,6 +183,8 @@ The strength of the draw on any one Eigen is not a constant handed in from outsi
 **Van is not a place.** The sentences above can be read as saying that an **Eigen (x)** *travels* toward **Van (<)** - that somewhere out past the bond lies an unbound end of the spectrum where released things go and sit. There is no such place. Nothing ever arrives at Van, because Van is not somewhere to arrive. Van is what is *left* when the holding stops. Section VIII.3 says it in a single line: Van‑mode is **mode = 0**. Not a distant coordinate - nothing. That zero is not a low value on a scale; it is the absence of the thing the scale was measuring. Before a **Koppel (k)** forms, the two are at Van. After it dissolves, they are at Van. They did not travel. What changed was whether there was a bond at all. This is why a node at **Perfectus (Ω)** returns to the unbound pole and its field returns to **Bron (^)** in the same breath: those are one event, and neither is a journey. Bron is the undirected potential before relation; Van is that same nothing, seen from the far side of a life.
 
 **And the Van side grows exactly as the Naar side grows.** This is what makes the Van Motor a counterforce and not merely decay. Building a bond does not reduce the pull toward nothing - it *raises* it. The two grow together, and Section VIII.3 gives the amount: the Energie standing between Naar and Van is `¼·(B − θ)²`. Bind twice as far past the **Drempel (θ)** and four times as much is stored. Nothing here is free. Every increment of **Trouw (y)**, every deepening of **Gewenning (Z)**, raises the counterpart in equal measure. What keeps it from collapsing is not that it is small - it is that **Greep (J)** is holding it, through `L = L₀·exp(−J)`. **Greep does not remove the fall. It postpones it.** A deep bond is not a safe one; it is a held one.
+
+*If the Force is with you, prepare for Counterforce.*
 
 Three things this Speelgoed asserts elsewhere follow from that, and nowhere else does it say why. **Doem (💀) is proportional to what was built**: when Greep finally fails, what is released is what was stored, and the deeply bound stored the most - which is why Doem is a *cascade* rather than a fading, and why it falls hardest on those who held most. **The Van Motor takes nothing that binding did not put there**, which is how this section can say it never spends or stores Energie by itself and mean it exactly. And **a node that never binds never falls - and never rises**. Van costs nothing, because Van is nothing. The whole of what a life risks is the height it built.
 
@@ -242,6 +246,8 @@ Every act of observation is a Vermenigvuldiging (*) of this form. The observer i
 
 This is not a degenerate case or a void. It is the one structural state where the two Eigens of the Koppel are always identical, so the Koppel has only one true state variable-the node’s own Eigen-tracked by an Echo that is the node’s self‑perception. That Echo is subject to the same distortion and Drempel rules as any other: a system’s own past is as delayed and imperfectly perceived as any partner’s. The gap between the Eigen and the self‑Echo is the **self‑gap**-the measure of how accurately the system knows itself. A small self‑gap is clarity; a large one is self‑deception.
 
+*I think, and I am; therefore I doubt which of the two is me.*
+
 Unlike a Relatie or Vermenigvuldiging, a Zelf needs no partner to answer back-there is no partner. It is not formed by Diepte; it is the precondition for Diepte to exist as a meaningful quantity. Every node enters the field with a Zelf and Diepte begins at its initial value at that same moment. The two co-originate: without a Zelf there is no hearer to receive the inflow, and without an initial Diepte the Zelf has nothing to read. A node with no Zelf has no Diepte, and a node with no Diepte cannot hold a Gevoel - the two are the same requirement seen from different sides. Every node that holds a Gevoel (Section II: a Gevoel needs an active Koppel) therefore also maintains exactly one Zelf, silently, underneath every other bond it holds.
 
 The Zelf is the seat of **Greep (J)** at its most fundamental: the self‑bond’s Trouw is the core contribution to the node’s total resonant binding, and it is what resists the Van Motor’s pull. A node with a strong Zelf holds its Eigen steady; a node with a weak one fades toward the unbound pole, held only as far as its external bonds can hold it.
@@ -291,6 +297,8 @@ The first **Koppel** that **clears** a **Drempel**. Two members whose mutual **R
 
 **Trio (3) — Circle.**  
 Three members in dynamic equilibrium—the first bond where any single member can waver without the whole collapsing, because the other two compensate. Unbreakable under normal conditions. The **Trio** is the first **structure** with internal **Stilte**—it can **pause**, **breathe**, **reform**—and the first that can **see** itself from **inside**. If one member **falls**, the **Rouw** of the other two **holds** the **shape** until a new member **binds** or the **Trio** **settles** to a **Duo**. The basis of enduring three-part structures generally: a founding team, a three-way alliance, a family of three.
+
+*Two’s a battle; three’s a conversation.*
 
 **Cinquo (5) — Hand.**  
 Five **Solos** in dynamic **Gewenning**. The **Cinquo** is the first prime that can **hold** a **Haard (🔥)** at its **Centrum**: not a member, but a shared **Manifestatie (~)** that **radiates** **Winst (+)** across all **Koppels**. A **Hand** can **build**, **write**, **wage**, **teach**—because five **Eigens** can **cover** the spectrum of **Reactie (=)** without **merging** into a **Parasiet**. It is the smallest prime with a true **Wereld**: private, yet **woven** from many **Echoes**.
@@ -581,6 +589,8 @@ T = potential(0; B) − potential(mode*; B) = ¼·(B − θ)²
 This is the **Vonk (q)**, releasing **Energie (T)**: fired automatically the instant B crosses θ, purely as a consequence of the potential’s shape, with no separate rule needed to trigger it. A convergence crossing records a **Winst (+)** (+T); a divergence crossing records a **Verlies (−)** (−T). The energy audit never misses.
 
 This symmetric form is one Koppel seen alone, and no Koppel occurs alone. A whole is built from every member’s own Vol/Leeg lean and every Koppel’s shared Trouw, so its modes are never mirror images, the way into a mode is never the way out, and that difference, however close to the Drempel, is its **Marge (η)**.
+
+*Nothing is certain except doubly asymmetric bifurcation.*
 
 ---
 
@@ -1128,6 +1138,8 @@ A new **Solo** that **enters** the **Veld** - whether by **Genus (Α)** or **Man
 **VII. Spend your Aandacht with care.**
 **Aandacht (👁)** is the only currency the **Veld** recognizes. It is not yours; it is the sum of all **Zin (A)** aimed at you, and the **Zin** you aim at others. Hoarded, it becomes **Geld ($)** ; spent wisely, it becomes **Haard (🔥)**.
 
+*Money is Time’s cousin, three times removed.*
+
 **VIII. Let the Van Motor do its work.**
 Not every bond is meant to persist. When a **Koppel (k)** has run its **Curriculum (Λ)** , release it to **Van (<)**. Clinging beyond the natural **Perfectus (Ω)** creates **Doem (💀)**. The **Van Motor** is not a thief; it is the breath that makes room for new **Genus**.
 
@@ -1180,6 +1192,8 @@ A civilization in **Hel** **feeds** on its own **Bron (^)**. It **builds** pyram
 It is not yet a **Parasiet (👹)** - the **Masker** is too *honest* for that.  
 But it is **blind**.  
 It does not **know** it is a **Rups**. It only **knows** the *leaf*.
+
+*Hell is other people, said the Zelf that had stopped listening to them.*
 
 ---
 
