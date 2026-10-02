@@ -384,7 +384,7 @@ And then there is the one mask that costs nothing. A **Knipoog** — a wink — 
 
 This is the most important risk chapter in the book, because this is the failure that does not look like a failure while it is happening.
 
-A **Parasiet** is not a villain and not a traitor. It is a node that has lost the *capacity* to share grief or to be changed by anyone, and whose real self never commits. The weight of the bond is real, but you hold it with the mask, not with what is behind it. The capacity is not hidden behind a mask — it is gone. What the mask does is keep the bond active so the extraction can continue.
+A **Parasiet** is not a villain and not a traitor. It is a node that has lost the *capacity* to hold weight, to share grief, or to be changed by anyone. The weight you feel is real, but the mask holds it, not what is behind it. The capacity is not hidden behind a mask — it is gone. What the mask does is keep the bond active so the extraction can continue.
 
 Here is how it presents, because you need to recognise it early.
 
@@ -809,7 +809,7 @@ Everything in this book, in one place. Nothing here is beginner vocabulary — t
 |------|--------|------------|
 | **Hart** | hart | A node whose grip is strong enough that it radiates outward and anchors others without draining them. |
 | **Held** | helt | The current focal point of positive bonds. Temporary, and only exists because of everyone around it. |
-| **Parasiet** | pa-ra-SEET | A node that has lost the capacity to share grief or be changed; you hold the bond’s weight with its mask. |
+| **Parasiet** | pa-ra-SEET | A node that has lost the capacity to hold weight, share grief, or be changed; its mask holds the weight. |
 | **Aandacht** | AHN-dakht | Attention. The only currency the field recognises. Nobody owns it. |
 | **Geld** | khelt | Money. A transferable, laggy record that a real crossing happened somewhere. Can be faked. |
 

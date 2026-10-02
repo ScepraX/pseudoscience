@@ -90,7 +90,7 @@ Here **Stilte** is literal. §II calls it "the living silence between an Eigen a
 
 ### 2.2 Trouw is gravity, and it is never negative
 
-§II: "Positive Trouw pulls the Eigen toward the partner's Echo." At this Octaaf, the shared pull between two masses is Newtonian gravity, Gm₁m₂/r², in the regime where general relativity reduces to it. **Grade: Identity.**
+§II: "Positive Trouw pulls the Eigen toward its Echo of the partner." At this Octaaf, the shared pull between two masses is Newtonian gravity, Gm₁m₂/r², in the regime where general relativity reduces to it. **Grade: Identity.**
 
 Three Speelgoed rules become physical statements:
 
