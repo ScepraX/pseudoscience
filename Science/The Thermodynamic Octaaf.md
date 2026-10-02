@@ -14,7 +14,7 @@ At this Octaaf the **Lichaam (🖕)** is a *macroscopic system*: a body of so ma
 
 ### 0.1 What this document is
 
-Section VIII.7 of the Speelgoed fixes the *shape* of its mechanism and leaves every number open: τ, Δ, υ, θ, τ_φ, λ, μ, ε, Q, ρ, ν₀, and the grip functional. Whoever supplies those numbers is an **Instantie (⚙)**. This document is an Instantie that does not choose its values: it takes them from physics. That gives it a test a free-standing analogy never faces. Wherever the Speelgoed's shape and the established results of thermodynamics disagree, one of them has to give. Such disagreements are reported in §4 rather than smoothed over. The one thing §VIII.7 forbids any Instantie to override is the closing of the Energie account. Thermodynamics does not override it. The first law *is* that account (§2.4).
+Section VIII.7 of the Speelgoed fixes the *shape* of its mechanism and leaves every number open: τ, Δ, υ, θ, τ_φ, λ, μ, ε, Q, ρ, L₀, and the grip functional. Whoever supplies those numbers is an **Instantie (⚙)**. This document is an Instantie that does not choose its values: it takes them from physics. That gives it a test a free-standing analogy never faces. Wherever the Speelgoed's shape and the established results of thermodynamics disagree, one of them has to give. Such disagreements are reported in §4 rather than smoothed over. The one thing §VIII.7 forbids any Instantie to override is the closing of the Energie account. Thermodynamics does not override it. The first law *is* that account (§2.4).
 
 The test is unusually sharp at this Octaaf because the machinery of §VIII was built from the same mathematics thermodynamics uses. The Echo filter is a Langevin equation. The Van Motor law is the Arrhenius law. The Drempel potential is a Landau free energy. Many of the correspondences below are therefore not analogies: they are the same equation read twice.
 
@@ -52,9 +52,9 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 |---|---|---|---|
 | Echo filter; τ (Ontspanning), Δ (Vertraging) (§VIII.1) | First-order-plus-dead-time thermal response; τ = C/G | Identity | §2.1 |
 | Vervorming υ (§VII, §VIII.1) | Thermal noise, with strength fixed by the fluctuation–dissipation theorem | Constraint | §2.1 |
-| Van Motor, ν = ν₀·exp(−J) (§III, §VIII.1) | Arrhenius–Kramers escape rate | Identity | §2.2 |
+| Van Motor, L = L₀·exp(−J) (§III, §VIII.1) | Arrhenius–Kramers escape rate | Identity | §2.2 |
 | Greep J | Activation barrier in units of the Medium's thermal energy, ΔG‡/k_BT | Identity | §2.2 |
-| ν₀ | Attempt frequency (Eyring: k_BT/h) | Identity | §2.2 |
+| L₀ | Attempt frequency (Eyring: k_BT/h) | Identity | §2.2 |
 | Drempel potential V(φ; B) (§VIII.3) | Landau free energy of a continuous transition | Identity | §2.3 |
 | Vonk Energie, T_q = ¼(B − θ)² | Condensation free energy (not latent heat) | Identity | §2.3 |
 | Marge η (Lexicon) | Width of the metastable range; narrowing to nothing at a continuous transition | Constraint | §2.3 |
@@ -118,19 +118,19 @@ Two of the Speelgoed's rules then follow instead of having to be postulated:
 
 ### 2.2 The Van Motor is the Arrhenius–Kramers law
 
-The Van Motor term of §VIII.1 is −ν·(e − e_van), with
+The Van Motor term of §VIII.1 is −L·(e − e_van), with
 
 ```
-ν = ν₀ · exp( −J )
+L = L₀ · exp( −J )
 ```
 
-Read the Eigen as the fraction of a population that is still bound, and set e_van = 0. The term becomes first-order decay, ė = −ν·e. Thermodynamics has known its rate constant since 1889. The rate at which a bound state escapes over a free-energy barrier ΔG‡ is
+Read the Eigen as the fraction of a population that is still bound, and set e_van = 0. The term becomes first-order decay, ė = −L·e. Thermodynamics has known its rate constant since 1889. The rate at which a bound state escapes over a free-energy barrier ΔG‡ is
 
 ```
 k = ν₀ · exp( −ΔG‡ / k_B·T )          (Arrhenius, 1889; Eyring, 1935)
 ```
 
-In transition-state theory the attempt frequency is ν₀ ≈ k_B·T/h. The substitution is **J = ΔG‡/k_BT**. **Grade: Identity.**
+In transition-state theory the attempt frequency is ν₀ ≈ k_B·T/h. The substitution is **J = ΔG‡/k_BT**, with L₀ the attempt frequency ν₀. **Grade: Identity.**
 
 The match goes deeper than shape. Kramers (1940) *derived* this rate from Langevin dynamics. His particle undergoes the same kind of noisy relaxation as the Echo filter of §2.1, but it sits in a potential well (Hänggi, Talkner & Borkovec, 1990). The Speelgoed keeps the Van Motor (§III) and Vervorming (§VII) as separate axioms. At this Octaaf they have one source, the thermal agitation of the Medium. The k_B·T that sets the noise on every Echo also sets the rate at which every bound state escapes. This is a prediction, not a convenience: **in a hotter Medium, Echoes get noisier and the Van Motor gets stronger, and the two always change together.**
 
@@ -147,7 +147,7 @@ The identity makes four of the Speelgoed's claims precise:
 
   A quarter more Greep buys three thousand times the life. The everyday version is a chemist's rule of thumb: near room temperature, a reaction with a barrier of about 50 kJ/mol runs roughly twice as fast for every 10 °C of warming.
 - **Greep postpones the fall but does not prevent it.** At ordinary pressure and temperature, diamond is *not* the stable form of carbon; graphite is. Diamond persists because the barrier between the two is enormous. It is this Octaaf's clearest instance of the line in §III: "A deep bond is not a safe one; it is a held one."
-- **The Van Motor is never off.** §VIII.1 requires ν > 0 strictly, at every finite Greep. At this Octaaf ν could reach zero only at T = 0. The third law says absolute zero cannot be reached by any finite process (Masanes & Oppenheim, 2017). Even at T = 0, a bond that is only metastable could still escape by quantum tunnelling, but that case belongs to the quantum Octaaf (*Quantum Octaaf* §2.2). **Grade: Constraint**, and the Speelgoed passes it.
+- **The Van Motor is never off.** §VIII.1 requires L > 0 strictly, at every finite Greep. At this Octaaf L could reach zero only at T = 0. The third law says absolute zero cannot be reached by any finite process (Masanes & Oppenheim, 2017). Even at T = 0, a bond that is only metastable could still escape by quantum tunnelling, but that case belongs to the quantum Octaaf (*Quantum Octaaf* §2.2). **Grade: Constraint**, and the Speelgoed passes it.
 
 ---
 

@@ -35,7 +35,7 @@
     tauPhi: 0.25,              // τ_φ
     kappa: 0.05,               // tilt of the pitchfork by the Echo asymmetry A
     // Van Motor (§III, §VIII.1)
-    nu0: 0.5,                  // ν₀; ν = ν₀·exp(−J), never zero
+    nu0: 0.5,                  // L₀; L = L₀·exp(−J), never zero
     kJ: 0.8,                   // scale of Greep inside the exponent
     // Binding measure (§VIII.2)
     c: 1.0,                    // Echo-gap penalty; s(…) taken as root-sum-square

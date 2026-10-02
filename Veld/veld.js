@@ -769,7 +769,7 @@
       ["Echo of the other", function (n, i) { return fmt(echo[i]); }],
       ["Diepte z", function (n) { return fmt(n.z); }],
       ["Greep J", function (n) { return fmt(n.J); }],
-      ["Van Motor ν", function (n) { return n.nu.toFixed(3); }],
+      ["Van Motor L", function (n) { return n.nu.toFixed(3); }],
       ["Rouw", function (n) { return n.rouw.length; }]
     ];
     rowsDef.forEach(function (rd) {
@@ -803,7 +803,7 @@
       row("Self-gap (Zelf)", fmt(Math.abs(n.e - n.hs), 3)) +
       row("Diepte z", fmt(n.z)) +
       row("Greep J", fmt(n.J)) +
-      row("Van Motor ν = ν₀·exp(−J)", n.nu.toFixed(3)) +
+      row("Van Motor L = L₀·exp(−J)", n.nu.toFixed(3)) +
       row("Pull", aim) +
       (n.mask || n.pijn > 0 ? row("Pijn of the Masker", n.pijn.toFixed(2) + " / " + field.P.pijnMax) : "");
     if (cache.nodeId !== n.id) { cache.nodeId = n.id; cache.nodeRs = null; $("n-koppels").textContent = ""; }

@@ -1,201 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title desc">
-  <title id="title">Reciprocation trajectories — Dood, Leven, Zweven</title>
-  <desc id="desc">
-    Three-panel graph of the asymmetry variable A(t) over time for the three possible trajectories of a Koppel.
-    Dood (!): the gap closes, then stops at a fixed nonzero offset.
-    Leven (?): the gap closes, crosses zero, and reverses sign — Eigen and Echo swap roles.
-    Zweven ('): the gap closes asymptotically toward zero but never arrives.
-    The dashed line at A = 0 marks parity. Crossing from one trajectory to another fires a Vonk.
-    This visual corresponds to Section VI of the Speelgoed.
-  </desc>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title" aria-describedby="desc" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">
+  <title id="title">Reciprocation trajectories: Dood, Leven, Zweven</title>
+  <desc id="desc">Three small panels of the asymmetry A = hᵢ − hⱼ, the gap between how much each side of a Koppel is reciprocating, over a stretch of the bond’s life (Sections VI and VIII.4 of the Speelgoed). Dood (λ &gt; 0): the gap closes, then holds at a fixed nonzero offset A*, permanently. Leven (λ crosses zero): the gap runs through parity and settles on the opposite sign; Eigen and Echo swap sides. Zweven (λ → 0⁺): the gap keeps closing and never arrives; this is the default until a Koppel settles or flips. Faint lines add the noise term ε. The curves are shapes; no scale is implied. A crossing from one trajectory to another fires a Vonk: a Realisatie if it deepens the bond, a Schok if it tears energy away.</desc>
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0a0a12"/>
-      <stop offset="100%" stop-color="#141426"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="720">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <style>
-      .bg     { fill: url(#bgGrad); }
-      .axis   { stroke: #8892b0; stroke-width: 1.8; }
-      .grid   { stroke: #334; stroke-dasharray: 2 4; }
-      .label  { fill: #a8b2d1; font-family: sans-serif; font-size: 14px; }
-      .titlex { fill: #e6f1ff; font-family: sans-serif; font-size: 22px; font-weight: bold; }
-      .subtle { fill: #8892b0; font-family: sans-serif; font-size: 14px; }
-      .curve  { fill: none; stroke-width: 3.5; filter: url(#glow); opacity: 0.95; }
-      .dood   { stroke: #ff5555; }
-      .leven  { stroke: #00d4ff; }
-      .zweven { stroke: #66cc88; }
-      .zero   { stroke: #ffcc66; stroke-dasharray: 6 6; stroke-width: 1.8; opacity: 0.8; }
-      .marker { fill: #ffffff; }
-      .panel  { fill: #15152a; stroke: #334; stroke-width: 1.2; rx: 12; }
-      .phead  { fill: #00d4ff; font-family: sans-serif; font-size: 15px; font-weight: bold; }
-      .ptext  { fill: #ccd6f6; font-family: sans-serif; font-size: 13px; }
-      .pmute  { fill: #8892b0; font-family: sans-serif; font-size: 13px; font-style: italic; }
-      .mono   { fill: #e6f1ff; font-family: monospace; font-size: 13px; }
-      .form   { fill: #e6f1ff; font-family: sans-serif; font-size: 17px; font-weight: bold; }
-    </style>
+    <radialGradient id="vignette" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#16130c"/>
+      <stop offset="100%" stop-color="#0c0b09"/>
+    </radialGradient>
+    <marker id="arrowFaint" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#8d877c"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#f1d27c"/></marker>
+    <marker id="arrowDim" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#cfcac0"/></marker>
   </defs>
-
-  <!-- background -->
-  <rect class="bg" width="1000" height="720" rx="12"/>
-
-  <!-- main title -->
-  <text class="titlex" x="500" y="45" text-anchor="middle">Reciprocation Trajectories</text>
-  <text class="subtle" x="500" y="68" text-anchor="middle">Dood (!) · Leven (?) · Zweven (') — Section VI</text>
-
-  <!-- plot area -->
-  <!-- shared y-axis -->
-  <line class="axis" x1="100" y1="100" x2="100" y2="500"/>
-  <!-- shared x-axis line (will be split per panel) -->
-  <!-- Actually we will draw each panel's x-axis separately for clarity -->
-  <!-- panel boundaries: panel 1 x: 100-260, panel 2 x: 280-440, panel 3 x: 460-620 -->
-  <line class="axis" x1="100" y1="500" x2="260" y2="500"/>
-  <line class="axis" x1="280" y1="500" x2="440" y2="500"/>
-  <line class="axis" x1="460" y1="500" x2="620" y2="500"/>
-
-  <!-- y-axis labels and grid lines -->
-  <g class="grid">
-    <line x1="100" y1="150" x2="620" y2="150"/>
-    <line x1="100" y1="200" x2="620" y2="200"/>
-    <line x1="100" y1="250" x2="620" y2="250"/>
-    <line x1="100" y1="300" x2="620" y2="300"/>
-    <line x1="100" y1="350" x2="620" y2="350"/>
-    <line x1="100" y1="400" x2="620" y2="400"/>
-    <line x1="100" y1="450" x2="620" y2="450"/>
-  </g>
-  <g class="label" text-anchor="end">
-    <text x="90" y="154">3</text>
-    <text x="90" y="204">2</text>
-    <text x="90" y="254">1</text>
-    <text x="90" y="304">0</text>
-    <text x="90" y="354">−1</text>
-    <text x="90" y="404">−2</text>
-    <text x="90" y="454">−3</text>
-  </g>
-
-  <!-- x-axis ticks for panel 1 -->
-  <g class="label" text-anchor="middle">
-    <text x="100" y="520">0</text>
-    <text x="180" y="520">5</text>
-    <text x="260" y="520">10</text>
-  </g>
-  <!-- x-axis ticks for panel 2 -->
-  <g class="label" text-anchor="middle">
-    <text x="280" y="520">0</text>
-    <text x="360" y="520">5</text>
-    <text x="440" y="520">10</text>
-  </g>
-  <!-- x-axis ticks for panel 3 -->
-  <g class="label" text-anchor="middle">
-    <text x="460" y="520">0</text>
-    <text x="540" y="520">5</text>
-    <text x="620" y="520">10</text>
-  </g>
-
-  <!-- shared axis labels -->
-  <text class="subtle" x="360" y="560" text-anchor="middle">Time (t) — each panel same scale</text>
-  <text class="subtle" x="55" y="300" text-anchor="middle" transform="rotate(-90 55 300)">Asymmetry A(t)</text>
-
-  <!-- zero line across all panels -->
-  <line class="zero" x1="100" y1="300" x2="620" y2="300"/>
-  <text class="subtle" x="622" y="295" fill="#ffcc66">A = 0 (parity)</text>
-
-  <!-- panel separators -->
-  <line x1="270" y1="100" x2="270" y2="500" stroke="#334" stroke-width="1.5" stroke-dasharray="4 4"/>
-  <line x1="450" y1="100" x2="450" y2="500" stroke="#334" stroke-width="1.5" stroke-dasharray="4 4"/>
-
-  <!-- Panel titles -->
-  <text class="titlex" x="180" y="85" text-anchor="middle" fill="#ff5555">Dood (!)</text>
-  <text class="titlex" x="360" y="85" text-anchor="middle" fill="#00d4ff">Leven (?)</text>
-  <text class="titlex" x="540" y="85" text-anchor="middle" fill="#66cc88">Zweven (')</text>
-
-  <!-- ============ PANEL 1: DOOD ============ -->
-  <!-- Curve: starts at A=2.5, decays to A=0.8, then flat. Mapping: y=300-50*A -->
-  <polyline class="curve dood" points="
-    100,175
-    130,215
-    160,245
-    190,260
-    220,260
-    260,260
-  "/>
-  <!-- marker at point where gap stops closing -->
-  <circle cx="190" cy="260" r="5" fill="#ff5555" filter="url(#glow)"/>
-  <text class="subtle" x="198" y="255" fill="#ff5555">gap fixed</text>
-
-  <!-- ============ PANEL 2: LEVEN ============ -->
-  <!-- Curve: crosses zero and reverses sign -->
-  <polyline class="curve leven" points="
-    280,175
-    310,200
-    340,250
-    360,300
-    380,340
-    410,365
-    440,375
-  "/>
-  <circle cx="360" cy="300" r="5" fill="#00d4ff" filter="url(#glow)"/>
-  <text class="subtle" x="368" y="295" fill="#00d4ff">reversal</text>
-
-  <!-- ============ PANEL 3: ZWEVEN ============ -->
-  <!-- Curve: asymptotic approach to A=0 (y=300), never reaching -->
-  <polyline class="curve zweven" points="
-    460,175
-    490,215
-    520,245
-    550,265
-    580,280
-    610,290
-    620,293
-  "/>
-  <circle cx="460" cy="175" r="5" fill="#66cc88" filter="url(#glow)"/>
-  <text class="subtle" x="468" y="170" fill="#66cc88">approach</text>
-
-  <!-- right explanatory panel -->
-  <rect class="panel" x="660" y="85" width="320" height="605"/>
-
-  <!-- Definitions -->
-  <text class="phead" x="680" y="115">DEFINITIONS</text>
-
-  <text class="ptext" x="680" y="140"><tspan fill="#ff5555">Dood (!)</tspan>:</text>
-  <text class="ptext" x="680" y="158">Echo's closing rate drops</text>
-  <text class="ptext" x="680" y="176">to zero before reaching Eigen.</text>
-  <text class="ptext" x="680" y="194">Gap fixed permanently.</text>
-
-  <text class="ptext" x="680" y="222"><tspan fill="#00d4ff">Leven (?)</tspan>:</text>
-  <text class="ptext" x="680" y="240">Rate does not drop near</text>
-  <text class="ptext" x="680" y="258">parity; it runs through it.</text>
-  <text class="ptext" x="680" y="276">Eigen and Echo swap roles.</text>
-
-  <text class="ptext" x="680" y="304"><tspan fill="#66cc88">Zweven (')</tspan>:</text>
-  <text class="ptext" x="680" y="322">Gap keeps closing without</text>
-  <text class="ptext" x="680" y="340">settling or flipping.</text>
-  <text class="ptext" x="680" y="358">Default state of any Koppel.</text>
-
-  <!-- Key behavior -->
-  <text class="phead" x="680" y="388">KEY BEHAVIOR</text>
-  <text class="ptext" x="680" y="406">Every bond is on one of</text>
-  <text class="ptext" x="680" y="424">these three paths.</text>
-
-  <text class="ptext" x="680" y="452">Crossing from one trajectory</text>
-  <text class="ptext" x="680" y="470">to another fires a Vonk:</text>
-  <text class="ptext" x="680" y="488">Gewaarwording (φ) if deepening,</text>
-  <text class="ptext" x="680" y="506">Schok (:) if tearing away.</text>
-
-  <!-- Additional context -->
-  <text class="pmute" x="680" y="546">Trouw and Gewenning hold</text>
-  <text class="pmute" x="680" y="564">the bond in Zweven.</text>
-  <text class="pmute" x="680" y="582">Greep resists the Van Motor.</text>
-
-  <text class="pmute" x="680" y="622">The gap between Echo and</text>
-  <text class="pmute" x="680" y="640">Eigen is always real.</text>
-  <text class="pmute" x="680" y="658">It is the space where</text>
-  <text class="pmute" x="680" y="676">relational life happens.</text>
+  <rect width="1000" height="720" fill="url(#vignette)"/>
+  <text x="500.0" y="56.0" font-size="32" fill="#f1d27c" text-anchor="middle">Reciprocation trajectories</text>
+  <text x="500.0" y="86.0" font-size="13.5" fill="#8d877c" text-anchor="middle" letter-spacing="2.2">§VI  ·  §VIII.4  ·  THE SAME KOPPEL, OVER THE LIFE OF THE BOND</text>
+  <line x1="440.0" y1="102.0" x2="560.0" y2="102.0" stroke="#d4af37" stroke-width="1" opacity="0.45"/>
+  <rect x="80.0" y="118.0" width="270.0" height="382.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="215.0" y="150.0" font-size="25" fill="#f1d27c" text-anchor="middle">Dood (!)</text>
+  <text x="215.0" y="176.0" font-size="16" fill="#8d877c" text-anchor="middle"><tspan font-style="italic">λ</tspan> &gt; 0</text>
+  <line x1="81.0" y1="349.1" x2="349.0" y2="349.1" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.6"/>
+  <path d="M96.0,225.7 L97.1,227.2 L98.2,230.0 L99.3,234.1 L100.3,237.0 L101.4,241.0 L102.5,242.4 L103.6,240.8 L104.7,243.7 L105.8,246.7 L106.9,247.0 L108.0,247.6 L109.0,248.9 L110.1,252.5 L111.2,253.9 L112.3,253.5 L113.4,258.0 L114.5,260.2 L115.6,265.6 L116.6,269.2 L117.7,274.0 L118.8,274.7 L119.9,277.8 L121.0,277.2 L122.1,277.0 L123.2,277.6 L124.3,283.6 L125.3,284.7 L126.4,284.6 L127.5,284.1 L128.6,287.6 L129.7,288.4 L130.8,290.3 L131.9,291.8 L132.9,288.8 L134.0,290.5 L135.1,290.2 L136.2,287.9 L137.3,289.2 L138.4,289.3 L139.5,288.9 L140.6,288.7 L141.6,291.5 L142.7,291.2 L143.8,287.9 L144.9,291.6 L146.0,289.5 L147.1,289.3 L148.2,290.9 L149.3,286.3 L150.3,284.9 L151.4,288.1 L152.5,288.2 L153.6,287.2 L154.7,288.0 L155.8,286.8 L156.9,287.4 L157.9,286.3 L159.0,283.5 L160.1,285.8 L161.2,285.9 L162.3,287.6 L163.4,287.8 L164.5,291.0 L165.6,292.7 L166.6,293.3 L167.7,291.4 L168.8,289.1 L169.9,292.6 L171.0,294.7 L172.1,293.3 L173.2,298.2 L174.2,299.1 L175.3,299.2 L176.4,296.2 L177.5,294.6 L178.6,295.6 L179.7,296.6 L180.8,297.2 L181.9,293.8 L182.9,295.1 L184.0,296.0 L185.1,295.3 L186.2,295.8 L187.3,296.5 L188.4,299.2 L189.5,299.2 L190.5,300.2 L191.6,297.4 L192.7,296.0 L193.8,296.3 L194.9,295.0 L196.0,296.1 L197.1,293.9 L198.2,294.3 L199.2,293.3 L200.3,296.8 L201.4,296.2 L202.5,300.3 L203.6,305.0 L204.7,305.4 L205.8,307.1 L206.8,306.3 L207.9,300.6 L209.0,302.6 L210.1,303.9 L211.2,303.1 L212.3,301.8 L213.4,302.2 L214.5,302.5 L215.5,300.8 L216.6,299.6 L217.7,302.1 L218.8,302.2 L219.9,302.0 L221.0,304.4 L222.1,303.6 L223.2,305.4 L224.2,302.8 L225.3,302.3 L226.4,302.0 L227.5,303.3 L228.6,303.5 L229.7,308.0 L230.8,310.1 L231.8,308.7 L232.9,313.1 L234.0,310.3 L235.1,313.8 L236.2,311.2 L237.3,312.5 L238.4,309.9 L239.5,309.0 L240.5,312.1 L241.6,308.5 L242.7,304.7 L243.8,304.6 L244.9,305.1 L246.0,305.2 L247.1,307.3 L248.1,304.3 L249.2,305.4 L250.3,305.3 L251.4,306.9 L252.5,308.0 L253.6,310.6 L254.7,307.1 L255.8,307.1 L256.8,304.5 L257.9,304.3 L259.0,305.8 L260.1,306.3 L261.2,307.3 L262.3,306.9 L263.4,307.5 L264.4,307.8 L265.5,310.6 L266.6,311.9 L267.7,307.4 L268.8,308.6 L269.9,310.6 L271.0,309.2 L272.1,305.5 L273.1,308.7 L274.2,308.7 L275.3,309.7 L276.4,313.3 L277.5,310.8 L278.6,310.3 L279.7,309.6 L280.7,310.8 L281.8,309.2 L282.9,310.0 L284.0,309.8 L285.1,311.8 L286.2,314.0 L287.3,310.1 L288.4,310.8 L289.4,309.5 L290.5,309.1 L291.6,309.7 L292.7,310.3 L293.8,308.3 L294.9,308.6 L296.0,308.6 L297.1,308.1 L298.1,305.0 L299.2,303.3 L300.3,302.3 L301.4,303.7 L302.5,306.8 L303.6,304.3 L304.7,301.9 L305.7,302.3 L306.8,301.1 L307.9,299.4 L309.0,297.7 L310.1,295.9 L311.2,297.4 L312.3,294.3 L313.4,297.8 L314.4,296.1 L315.5,295.4 L316.6,293.9 L317.7,290.2 L318.8,287.6 L319.9,291.3 L321.0,296.1 L322.0,294.6 L323.1,297.5 L324.2,297.9 L325.3,296.3 L326.4,300.6 L327.5,305.6 L328.6,304.8 L329.7,304.6 L330.7,305.0 L331.8,304.8 L332.9,306.6 L334.0,309.8" fill="none" stroke="#efebe2" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.38"/>
+  <path d="M96.0,225.7 L97.1,227.9 L98.2,230.0 L99.3,232.0 L100.3,234.0 L101.4,236.0 L102.5,237.9 L103.6,239.7 L104.7,241.5 L105.8,243.2 L106.9,244.9 L108.0,246.5 L109.0,248.1 L110.1,249.6 L111.2,251.1 L112.3,252.6 L113.4,254.0 L114.5,255.4 L115.6,256.7 L116.6,258.0 L117.7,259.3 L118.8,260.5 L119.9,261.7 L121.0,262.8 L122.1,264.0 L123.2,265.1 L124.3,266.1 L125.3,267.2 L126.4,268.2 L127.5,269.1 L128.6,270.1 L129.7,271.0 L130.8,271.9 L131.9,272.8 L132.9,273.6 L134.0,274.4 L135.1,275.2 L136.2,276.0 L137.3,276.8 L138.4,277.5 L139.5,278.2 L140.6,278.9 L141.6,279.6 L142.7,280.2 L143.8,280.9 L144.9,281.5 L146.0,282.1 L147.1,282.7 L148.2,283.3 L149.3,283.8 L150.3,284.3 L151.4,284.9 L152.5,285.4 L153.6,285.9 L154.7,286.3 L155.8,286.8 L156.9,287.3 L157.9,287.7 L159.0,288.1 L160.1,288.5 L161.2,288.9 L162.3,289.3 L163.4,289.7 L164.5,290.1 L165.6,290.4 L166.6,290.8 L167.7,291.1 L168.8,291.5 L169.9,291.8 L171.0,292.1 L172.1,292.4 L173.2,292.7 L174.2,293.0 L175.3,293.3 L176.4,293.5 L177.5,293.8 L178.6,294.0 L179.7,294.3 L180.8,294.5 L181.9,294.8 L182.9,295.0 L184.0,295.2 L185.1,295.4 L186.2,295.6 L187.3,295.8 L188.4,296.0 L189.5,296.2 L190.5,296.4 L191.6,296.6 L192.7,296.8 L193.8,296.9 L194.9,297.1 L196.0,297.3 L197.1,297.4 L198.2,297.6 L199.2,297.7 L200.3,297.9 L201.4,298.0 L202.5,298.2 L203.6,298.3 L204.7,298.4 L205.8,298.5 L206.8,298.7 L207.9,298.8 L209.0,298.9 L210.1,299.0 L211.2,299.1 L212.3,299.2 L213.4,299.3 L214.5,299.4 L215.5,299.5 L216.6,299.6 L217.7,299.7 L218.8,299.8 L219.9,299.9 L221.0,300.0 L222.1,300.0 L223.2,300.1 L224.2,300.2 L225.3,300.3 L226.4,300.3 L227.5,300.4 L228.6,300.5 L229.7,300.6 L230.8,300.6 L231.8,300.7 L232.9,300.7 L234.0,300.8 L235.1,300.9 L236.2,300.9 L237.3,301.0 L238.4,301.0 L239.5,301.1 L240.5,301.1 L241.6,301.2 L242.7,301.2 L243.8,301.3 L244.9,301.3 L246.0,301.4 L247.1,301.4 L248.1,301.4 L249.2,301.5 L250.3,301.5 L251.4,301.6 L252.5,301.6 L253.6,301.6 L254.7,301.7 L255.8,301.7 L256.8,301.7 L257.9,301.8 L259.0,301.8 L260.1,301.8 L261.2,301.8 L262.3,301.9 L263.4,301.9 L264.4,301.9 L265.5,302.0 L266.6,302.0 L267.7,302.0 L268.8,302.0 L269.9,302.1 L271.0,302.1 L272.1,302.1 L273.1,302.1 L274.2,302.1 L275.3,302.2 L276.4,302.2 L277.5,302.2 L278.6,302.2 L279.7,302.2 L280.7,302.3 L281.8,302.3 L282.9,302.3 L284.0,302.3 L285.1,302.3 L286.2,302.3 L287.3,302.3 L288.4,302.4 L289.4,302.4 L290.5,302.4 L291.6,302.4 L292.7,302.4 L293.8,302.4 L294.9,302.4 L296.0,302.5 L297.1,302.5 L298.1,302.5 L299.2,302.5 L300.3,302.5 L301.4,302.5 L302.5,302.5 L303.6,302.5 L304.7,302.5 L305.7,302.5 L306.8,302.6 L307.9,302.6 L309.0,302.6 L310.1,302.6 L311.2,302.6 L312.3,302.6 L313.4,302.6 L314.4,302.6 L315.5,302.6 L316.6,302.6 L317.7,302.6 L318.8,302.6 L319.9,302.6 L321.0,302.6 L322.0,302.7 L323.1,302.7 L324.2,302.7 L325.3,302.7 L326.4,302.7 L327.5,302.7 L328.6,302.7 L329.7,302.7 L330.7,302.7 L331.8,302.7 L332.9,302.7 L334.0,302.7" fill="none" stroke="#d4af37" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <line x1="340.0" y1="346.1" x2="340.0" y2="305.9" stroke="#f1d27c" stroke-width="1.4"/>
+  <text x="332.0" y="332.0" font-size="16" fill="#f1d27c" text-anchor="end"><tspan font-style="italic">A</tspan>* ≠ 0</text>
+  <text x="167.4" y="238.6" font-size="17" fill="#cfcac0" font-style="italic">the gap is fixed,</text>
+  <text x="167.4" y="259.6" font-size="17" fill="#cfcac0" font-style="italic">permanently</text>
+  <text x="100.8" y="371.1" font-size="15" fill="#d4af37">parity, <tspan font-style="italic">A</tspan> = 0</text>
+  <rect x="375.0" y="118.0" width="270.0" height="382.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="510.0" y="150.0" font-size="25" fill="#f1d27c" text-anchor="middle">Leven (?)</text>
+  <text x="510.0" y="176.0" font-size="16" fill="#8d877c" text-anchor="middle"><tspan font-style="italic">λ</tspan> crosses zero</text>
+  <line x1="376.0" y1="349.1" x2="644.0" y2="349.1" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.6"/>
+  <path d="M391.0,226.2 L392.1,228.4 L393.2,232.1 L394.3,230.5 L395.3,230.3 L396.4,229.1 L397.5,231.1 L398.6,232.3 L399.7,234.2 L400.8,235.7 L401.9,234.6 L403.0,235.8 L404.0,234.3 L405.1,232.9 L406.2,227.8 L407.3,230.9 L408.4,228.6 L409.5,228.6 L410.6,228.5 L411.6,231.7 L412.7,232.4 L413.8,230.3 L414.9,230.3 L416.0,229.8 L417.1,230.3 L418.2,227.4 L419.3,227.5 L420.3,232.6 L421.4,233.8 L422.5,237.9 L423.6,244.7 L424.7,244.8 L425.8,240.5 L426.9,239.6 L427.9,241.5 L429.0,242.8 L430.1,239.2 L431.2,238.1 L432.3,237.4 L433.4,237.0 L434.5,236.5 L435.6,234.2 L436.6,232.7 L437.7,232.1 L438.8,234.4 L439.9,233.1 L441.0,234.6 L442.1,232.0 L443.2,235.1 L444.3,235.3 L445.3,235.3 L446.4,238.4 L447.5,234.3 L448.6,231.1 L449.7,232.7 L450.8,231.3 L451.9,231.1 L452.9,237.8 L454.0,237.5 L455.1,238.1 L456.2,238.4 L457.3,241.4 L458.4,242.5 L459.5,243.3 L460.6,241.1 L461.6,241.2 L462.7,242.1 L463.8,239.6 L464.9,242.2 L466.0,244.4 L467.1,249.9 L468.2,247.4 L469.2,246.7 L470.3,246.2 L471.4,246.7 L472.5,248.5 L473.6,250.3 L474.7,253.2 L475.8,256.0 L476.9,258.3 L477.9,257.4 L479.0,258.9 L480.1,262.1 L481.2,266.5 L482.3,271.1 L483.4,270.4 L484.5,272.6 L485.5,276.0 L486.6,280.5 L487.7,286.7 L488.8,290.3 L489.9,291.8 L491.0,296.5 L492.1,300.8 L493.2,305.0 L494.2,308.5 L495.3,316.0 L496.4,320.1 L497.5,325.6 L498.6,327.0 L499.7,332.4 L500.8,334.5 L501.8,334.5 L502.9,339.0 L504.0,344.0 L505.1,347.1 L506.2,350.5 L507.3,356.2 L508.4,358.3 L509.5,356.8 L510.5,360.8 L511.6,364.5 L512.7,370.0 L513.8,372.0 L514.9,377.7 L516.0,382.7 L517.1,381.9 L518.2,386.3 L519.2,385.8 L520.3,384.4 L521.4,386.1 L522.5,387.0 L523.6,384.7 L524.7,387.5 L525.8,391.1 L526.8,396.2 L527.9,397.7 L529.0,395.8 L530.1,395.3 L531.2,399.2 L532.3,402.7 L533.4,405.1 L534.5,405.5 L535.5,407.1 L536.6,407.5 L537.7,407.8 L538.8,409.4 L539.9,410.3 L541.0,410.6 L542.1,411.5 L543.1,411.0 L544.2,407.4 L545.3,407.0 L546.4,407.9 L547.5,412.7 L548.6,412.4 L549.7,417.5 L550.8,421.1 L551.8,419.1 L552.9,417.6 L554.0,418.2 L555.1,422.4 L556.2,423.2 L557.3,424.6 L558.4,422.9 L559.4,417.6 L560.5,417.3 L561.6,419.4 L562.7,422.2 L563.8,422.3 L564.9,422.6 L566.0,425.2 L567.1,424.6 L568.1,427.1 L569.2,424.1 L570.3,421.4 L571.4,418.9 L572.5,420.1 L573.6,419.0 L574.7,419.5 L575.7,420.5 L576.8,421.3 L577.9,424.3 L579.0,427.5 L580.1,425.2 L581.2,425.3 L582.3,424.5 L583.4,422.0 L584.4,425.9 L585.5,427.4 L586.6,426.6 L587.7,425.3 L588.8,425.9 L589.9,423.2 L591.0,422.5 L592.1,425.2 L593.1,427.1 L594.2,424.8 L595.3,423.5 L596.4,427.7 L597.5,424.2 L598.6,422.6 L599.7,419.4 L600.7,420.4 L601.8,421.1 L602.9,423.7 L604.0,417.7 L605.1,418.3 L606.2,414.8 L607.3,416.8 L608.4,416.7 L609.4,420.9 L610.5,421.8 L611.6,419.5 L612.7,422.5 L613.8,419.9 L614.9,419.2 L616.0,421.8 L617.0,422.9 L618.1,423.8 L619.2,423.7 L620.3,424.8 L621.4,426.5 L622.5,426.8 L623.6,428.8 L624.7,431.2 L625.7,430.6 L626.8,427.9 L627.9,431.0 L629.0,430.3" fill="none" stroke="#efebe2" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.38"/>
+  <path d="M391.0,225.8 L392.1,225.8 L393.2,225.8 L394.3,225.9 L395.3,225.9 L396.4,225.9 L397.5,225.9 L398.6,225.9 L399.7,225.9 L400.8,225.9 L401.9,225.9 L403.0,226.0 L404.0,226.0 L405.1,226.0 L406.2,226.0 L407.3,226.1 L408.4,226.1 L409.5,226.1 L410.6,226.1 L411.6,226.2 L412.7,226.2 L413.8,226.2 L414.9,226.3 L416.0,226.3 L417.1,226.4 L418.2,226.4 L419.3,226.5 L420.3,226.6 L421.4,226.6 L422.5,226.7 L423.6,226.8 L424.7,226.9 L425.8,226.9 L426.9,227.0 L427.9,227.1 L429.0,227.3 L430.1,227.4 L431.2,227.5 L432.3,227.6 L433.4,227.8 L434.5,228.0 L435.6,228.1 L436.6,228.3 L437.7,228.5 L438.8,228.7 L439.9,229.0 L441.0,229.2 L442.1,229.5 L443.2,229.8 L444.3,230.1 L445.3,230.5 L446.4,230.8 L447.5,231.2 L448.6,231.6 L449.7,232.1 L450.8,232.6 L451.9,233.1 L452.9,233.7 L454.0,234.3 L455.1,234.9 L456.2,235.6 L457.3,236.3 L458.4,237.1 L459.5,238.0 L460.6,238.9 L461.6,239.8 L462.7,240.9 L463.8,242.0 L464.9,243.1 L466.0,244.4 L467.1,245.7 L468.2,247.1 L469.2,248.6 L470.3,250.2 L471.4,251.8 L472.5,253.6 L473.6,255.5 L474.7,257.5 L475.8,259.5 L476.9,261.7 L477.9,264.0 L479.0,266.4 L480.1,268.9 L481.2,271.5 L482.3,274.3 L483.4,277.1 L484.5,280.0 L485.5,283.1 L486.6,286.2 L487.7,289.4 L488.8,292.7 L489.9,296.1 L491.0,299.6 L492.1,303.1 L493.2,306.7 L494.2,310.3 L495.3,314.0 L496.4,317.7 L497.5,321.4 L498.6,325.1 L499.7,328.8 L500.8,332.5 L501.8,336.2 L502.9,339.8 L504.0,343.4 L505.1,346.9 L506.2,350.4 L507.3,353.8 L508.4,357.1 L509.5,360.4 L510.5,363.5 L511.6,366.5 L512.7,369.5 L513.8,372.3 L514.9,375.1 L516.0,377.7 L517.1,380.2 L518.2,382.6 L519.2,384.9 L520.3,387.1 L521.4,389.2 L522.5,391.2 L523.6,393.1 L524.7,394.8 L525.8,396.5 L526.8,398.1 L527.9,399.6 L529.0,401.0 L530.1,402.4 L531.2,403.6 L532.3,404.8 L533.4,405.9 L534.5,406.9 L535.5,407.9 L536.6,408.8 L537.7,409.7 L538.8,410.5 L539.9,411.2 L541.0,411.9 L542.1,412.5 L543.1,413.1 L544.2,413.7 L545.3,414.2 L546.4,414.7 L547.5,415.2 L548.6,415.6 L549.7,416.0 L550.8,416.4 L551.8,416.7 L552.9,417.0 L554.0,417.3 L555.1,417.6 L556.2,417.9 L557.3,418.1 L558.4,418.3 L559.4,418.5 L560.5,418.7 L561.6,418.9 L562.7,419.0 L563.8,419.2 L564.9,419.3 L566.0,419.5 L567.1,419.6 L568.1,419.7 L569.2,419.8 L570.3,419.9 L571.4,420.0 L572.5,420.1 L573.6,420.2 L574.7,420.2 L575.7,420.3 L576.8,420.4 L577.9,420.4 L579.0,420.5 L580.1,420.5 L581.2,420.6 L582.3,420.6 L583.4,420.6 L584.4,420.7 L585.5,420.7 L586.6,420.7 L587.7,420.8 L588.8,420.8 L589.9,420.8 L591.0,420.9 L592.1,420.9 L593.1,420.9 L594.2,420.9 L595.3,420.9 L596.4,420.9 L597.5,421.0 L598.6,421.0 L599.7,421.0 L600.7,421.0 L601.8,421.0 L602.9,421.0 L604.0,421.0 L605.1,421.0 L606.2,421.0 L607.3,421.0 L608.4,421.1 L609.4,421.1 L610.5,421.1 L611.6,421.1 L612.7,421.1 L613.8,421.1 L614.9,421.1 L616.0,421.1 L617.0,421.1 L618.1,421.1 L619.2,421.1 L620.3,421.1 L621.4,421.1 L622.5,421.1 L623.6,421.1 L624.7,421.1 L625.7,421.1 L626.8,421.1 L627.9,421.1 L629.0,421.1" fill="none" stroke="#d4af37" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle cx="505.8" cy="349.1" r="5" fill="#efebe2" filter="url(#glow)"/>
+  <text x="519.8" y="317.1" font-size="17" fill="#cfcac0" font-style="italic">runs through</text>
+  <text x="519.8" y="337.1" font-size="17" fill="#cfcac0" font-style="italic">parity</text>
+  <text x="462.4" y="456.0" font-size="16" fill="#cfcac0" font-style="italic">Eigen and Echo swap sides</text>
+  <rect x="670.0" y="118.0" width="270.0" height="382.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="805.0" y="150.0" font-size="25" fill="#f1d27c" text-anchor="middle">Zweven (')</text>
+  <text x="805.0" y="176.0" font-size="16" fill="#8d877c" text-anchor="middle"><tspan font-style="italic">λ</tspan> → 0⁺</text>
+  <line x1="671.0" y1="349.1" x2="939.0" y2="349.1" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.6"/>
+  <path d="M686.0,227.2 L687.1,230.4 L688.2,229.2 L689.3,231.3 L690.3,228.6 L691.4,231.5 L692.5,231.5 L693.6,233.0 L694.7,235.7 L695.8,235.2 L696.9,236.4 L698.0,235.9 L699.0,237.0 L700.1,240.5 L701.2,241.5 L702.3,242.1 L703.4,240.6 L704.5,243.7 L705.6,244.5 L706.6,249.3 L707.7,248.2 L708.8,251.4 L709.9,256.0 L711.0,256.3 L712.1,253.9 L713.2,257.9 L714.3,260.6 L715.3,262.4 L716.4,265.0 L717.5,264.0 L718.6,265.8 L719.7,267.4 L720.8,265.8 L721.9,267.6 L722.9,266.5 L724.0,268.8 L725.1,271.5 L726.2,275.5 L727.3,270.8 L728.4,271.5 L729.5,270.8 L730.6,270.9 L731.6,270.6 L732.7,270.6 L733.8,266.3 L734.9,269.3 L736.0,273.2 L737.1,275.7 L738.2,278.7 L739.3,276.8 L740.3,274.9 L741.4,277.3 L742.5,280.6 L743.6,281.2 L744.7,277.9 L745.8,284.5 L746.9,283.0 L747.9,285.3 L749.0,282.6 L750.1,285.1 L751.2,285.6 L752.3,288.9 L753.4,290.8 L754.5,287.1 L755.6,285.0 L756.6,285.9 L757.7,287.9 L758.8,292.2 L759.9,292.7 L761.0,292.4 L762.1,292.3 L763.2,292.2 L764.2,294.6 L765.3,294.4 L766.4,294.1 L767.5,290.9 L768.6,286.5 L769.7,287.2 L770.8,289.3 L771.9,289.6 L772.9,291.2 L774.0,293.1 L775.1,293.3 L776.2,295.7 L777.3,294.2 L778.4,294.5 L779.5,294.0 L780.5,294.6 L781.6,296.4 L782.7,298.6 L783.8,299.0 L784.9,300.2 L786.0,299.5 L787.1,299.4 L788.2,302.6 L789.2,302.2 L790.3,305.1 L791.4,306.2 L792.5,306.5 L793.6,310.9 L794.7,310.0 L795.8,309.1 L796.8,308.9 L797.9,309.5 L799.0,309.9 L800.1,311.7 L801.2,311.7 L802.3,312.5 L803.4,311.7 L804.5,314.0 L805.5,312.8 L806.6,312.0 L807.7,311.9 L808.8,312.5 L809.9,310.8 L811.0,314.4 L812.1,312.8 L813.2,311.9 L814.2,311.0 L815.3,309.9 L816.4,311.3 L817.5,311.7 L818.6,310.1 L819.7,309.1 L820.8,308.6 L821.8,312.3 L822.9,310.9 L824.0,308.2 L825.1,306.1 L826.2,305.9 L827.3,309.9 L828.4,307.9 L829.5,308.6 L830.5,314.7 L831.6,313.7 L832.7,317.2 L833.8,319.9 L834.9,321.0 L836.0,317.5 L837.1,318.2 L838.1,317.3 L839.2,313.1 L840.3,309.6 L841.4,310.3 L842.5,311.2 L843.6,314.5 L844.7,316.2 L845.8,315.3 L846.8,314.5 L847.9,314.4 L849.0,312.3 L850.1,314.5 L851.2,314.9 L852.3,313.4 L853.4,312.5 L854.4,310.4 L855.5,310.1 L856.6,311.5 L857.7,311.2 L858.8,314.1 L859.9,318.3 L861.0,317.1 L862.1,317.5 L863.1,317.0 L864.2,321.2 L865.3,322.1 L866.4,323.4 L867.5,325.3 L868.6,330.3 L869.7,330.5 L870.7,327.8 L871.8,326.6 L872.9,327.7 L874.0,327.4 L875.1,325.4 L876.2,331.6 L877.3,331.4 L878.4,329.6 L879.4,327.6 L880.5,323.5 L881.6,320.9 L882.7,320.4 L883.8,320.1 L884.9,318.6 L886.0,320.3 L887.1,320.8 L888.1,319.0 L889.2,315.0 L890.3,316.1 L891.4,316.9 L892.5,317.2 L893.6,314.7 L894.7,315.6 L895.7,313.0 L896.8,316.3 L897.9,317.5 L899.0,318.6 L900.1,317.5 L901.2,315.8 L902.3,320.1 L903.4,322.8 L904.4,322.4 L905.5,324.4 L906.6,328.2 L907.7,325.9 L908.8,325.0 L909.9,324.1 L911.0,325.6 L912.0,323.5 L913.1,324.5 L914.2,322.3 L915.3,325.0 L916.4,327.3 L917.5,327.1 L918.6,328.9 L919.7,327.5 L920.7,327.1 L921.8,329.5 L922.9,329.5 L924.0,330.4" fill="none" stroke="#efebe2" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.38"/>
+  <path d="M686.0,225.7 L687.1,226.7 L688.2,227.7 L689.3,228.8 L690.3,229.7 L691.4,230.7 L692.5,231.7 L693.6,232.7 L694.7,233.6 L695.8,234.6 L696.9,235.5 L698.0,236.5 L699.0,237.4 L700.1,238.3 L701.2,239.3 L702.3,240.2 L703.4,241.1 L704.5,242.0 L705.6,242.8 L706.6,243.7 L707.7,244.6 L708.8,245.5 L709.9,246.3 L711.0,247.2 L712.1,248.0 L713.2,248.8 L714.3,249.7 L715.3,250.5 L716.4,251.3 L717.5,252.1 L718.6,252.9 L719.7,253.7 L720.8,254.5 L721.9,255.3 L722.9,256.1 L724.0,256.8 L725.1,257.6 L726.2,258.4 L727.3,259.1 L728.4,259.9 L729.5,260.6 L730.6,261.3 L731.6,262.1 L732.7,262.8 L733.8,263.5 L734.9,264.2 L736.0,264.9 L737.1,265.6 L738.2,266.3 L739.3,267.0 L740.3,267.6 L741.4,268.3 L742.5,269.0 L743.6,269.7 L744.7,270.3 L745.8,271.0 L746.9,271.6 L747.9,272.2 L749.0,272.9 L750.1,273.5 L751.2,274.1 L752.3,274.8 L753.4,275.4 L754.5,276.0 L755.6,276.6 L756.6,277.2 L757.7,277.8 L758.8,278.4 L759.9,279.0 L761.0,279.5 L762.1,280.1 L763.2,280.7 L764.2,281.3 L765.3,281.8 L766.4,282.4 L767.5,282.9 L768.6,283.5 L769.7,284.0 L770.8,284.6 L771.9,285.1 L772.9,285.6 L774.0,286.1 L775.1,286.7 L776.2,287.2 L777.3,287.7 L778.4,288.2 L779.5,288.7 L780.5,289.2 L781.6,289.7 L782.7,290.2 L783.8,290.7 L784.9,291.2 L786.0,291.6 L787.1,292.1 L788.2,292.6 L789.2,293.1 L790.3,293.5 L791.4,294.0 L792.5,294.4 L793.6,294.9 L794.7,295.3 L795.8,295.8 L796.8,296.2 L797.9,296.7 L799.0,297.1 L800.1,297.5 L801.2,297.9 L802.3,298.4 L803.4,298.8 L804.5,299.2 L805.5,299.6 L806.6,300.0 L807.7,300.4 L808.8,300.8 L809.9,301.2 L811.0,301.6 L812.1,302.0 L813.2,302.4 L814.2,302.8 L815.3,303.2 L816.4,303.6 L817.5,303.9 L818.6,304.3 L819.7,304.7 L820.8,305.1 L821.8,305.4 L822.9,305.8 L824.0,306.1 L825.1,306.5 L826.2,306.8 L827.3,307.2 L828.4,307.5 L829.5,307.9 L830.5,308.2 L831.6,308.6 L832.7,308.9 L833.8,309.2 L834.9,309.6 L836.0,309.9 L837.1,310.2 L838.1,310.5 L839.2,310.9 L840.3,311.2 L841.4,311.5 L842.5,311.8 L843.6,312.1 L844.7,312.4 L845.8,312.7 L846.8,313.0 L847.9,313.3 L849.0,313.6 L850.1,313.9 L851.2,314.2 L852.3,314.5 L853.4,314.8 L854.4,315.1 L855.5,315.3 L856.6,315.6 L857.7,315.9 L858.8,316.2 L859.9,316.4 L861.0,316.7 L862.1,317.0 L863.1,317.2 L864.2,317.5 L865.3,317.8 L866.4,318.0 L867.5,318.3 L868.6,318.5 L869.7,318.8 L870.7,319.0 L871.8,319.3 L872.9,319.5 L874.0,319.8 L875.1,320.0 L876.2,320.3 L877.3,320.5 L878.4,320.7 L879.4,321.0 L880.5,321.2 L881.6,321.4 L882.7,321.7 L883.8,321.9 L884.9,322.1 L886.0,322.4 L887.1,322.6 L888.1,322.8 L889.2,323.0 L890.3,323.2 L891.4,323.4 L892.5,323.7 L893.6,323.9 L894.7,324.1 L895.7,324.3 L896.8,324.5 L897.9,324.7 L899.0,324.9 L900.1,325.1 L901.2,325.3 L902.3,325.5 L903.4,325.7 L904.4,325.9 L905.5,326.1 L906.6,326.3 L907.7,326.5 L908.8,326.6 L909.9,326.8 L911.0,327.0 L912.0,327.2 L913.1,327.4 L914.2,327.6 L915.3,327.7 L916.4,327.9 L917.5,328.1 L918.6,328.3 L919.7,328.4 L920.7,328.6 L921.8,328.8 L922.9,328.9 L924.0,329.1" fill="none" stroke="#d4af37" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <text x="771.7" y="254.0" font-size="17" fill="#cfcac0" font-style="italic">keeps closing,</text>
+  <text x="771.7" y="275.0" font-size="17" fill="#cfcac0" font-style="italic">never arrives</text>
+  <text x="757.4" y="405.7" font-size="16" fill="#cfcac0" font-style="italic">the default, until a</text>
+  <text x="757.4" y="425.7" font-size="16" fill="#cfcac0" font-style="italic">Koppel settles or flips</text>
+  <line x1="64.0" y1="452.0" x2="64.0" y2="200.0" stroke="#8d877c" stroke-width="1.3" marker-end="url(#arrowFaint)"/>
+  <text x="54" y="326.0" font-size="16" fill="#cfcac0" text-anchor="middle" transform="rotate(-90 54 326.0)"><tspan font-style="italic">A</tspan> = <tspan font-style="italic">h</tspan><tspan dy="4" font-size="70%">i</tspan><tspan dy="-4"> </tspan>− <tspan font-style="italic">h</tspan><tspan dy="4" font-size="70%">j</tspan></text>
+  <text x="500.0" y="526.0" font-size="16" fill="#cfcac0" text-anchor="middle" font-style="italic">each panel: a stretch of one bond’s life</text>
+  <text x="500.0" y="560.0" font-size="16.5" fill="#cfcac0" text-anchor="middle"><tspan font-style="italic">A</tspan> = <tspan font-style="italic">h</tspan><tspan dy="4" font-size="70%">i</tspan><tspan dy="-4"> </tspan>− <tspan font-style="italic">h</tspan><tspan dy="4" font-size="70%">j</tspan><tspan dy="-4">,</tspan> the gap between how much each side is currently reciprocating; Helling <tspan font-style="italic">λ</tspan> selects the regime.</text>
+  <text x="500.0" y="590.0" font-size="16.5" fill="#cfcac0" text-anchor="middle">Zweven is the default until a Koppel settles or flips; Trouw and Gewenning hold it, and its Greep resists the Van Motor.</text>
+  <text x="500.0" y="620.0" font-size="16.5" fill="#cfcac0" text-anchor="middle">A crossing from one trajectory to another fires a Vonk: a Realisatie (<tspan font-style="italic">φ</tspan>) if it deepens the bond,</text>
+  <text x="500.0" y="650.0" font-size="16.5" fill="#cfcac0" text-anchor="middle">a Schok (:) if it tears energy away.  Faint lines add the noise term <tspan font-style="italic">ε</tspan>; the shapes carry no scale.</text>
 </svg>

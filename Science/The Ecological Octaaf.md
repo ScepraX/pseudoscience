@@ -49,7 +49,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 |---|---|---|---|
 | Drempel θ and Marge η (§II; Lexicon) | Alternative stable states with hysteresis | Correspondence (measured) | §2.1 |
 | Flicker before a crossing (*Thermodynamic Octaaf* §2.3) | Early-warning signals: slowing down, rising variance, flickering | Correspondence (measured) | §2.2 |
-| Van Motor, ν = ν₀·exp(−J) (§III) | Extinction time exponential in population size under member-level noise; power law under shared shocks | Identity (form) + Constraint | §2.3 |
+| Van Motor, L = L₀·exp(−J) (§III) | Extinction time exponential in population size under member-level noise; power law under shared shocks | Identity (form) + Constraint | §2.3 |
 | Greep from bonds with one's own kind | The Allee effect: a density below which a population declines | Correspondence (measured) | §2.4 |
 | "A deep bond is not a safe one" (§III) | May's limit: more and stronger links destabilise | Constraint | §2.5 |
 | Trouw y (§II) | Signed interaction strengths; signs need not match | Correspondence (this Octaaf) | §3.1 |
@@ -89,7 +89,7 @@ That last finding sharpens the Speelgoed. A Marge "prevents flickering crossings
 
 ### 2.3 The Van Motor: how extinction scales with size
 
-The Van Motor's rate is ν = ν₀·exp(−J) (§III, §VIII.1). For a population, the fall is extinction. Lande's analysis of extinction risk distinguishes sources of chance (Lande 1993):
+The Van Motor's rate is L = L₀·exp(−J) (§III, §VIII.1). For a population, the fall is extinction. Lande's analysis of extinction risk distinguishes sources of chance (Lande 1993):
 
 - **Member-level chance.** Individuals die or fail to breed at random, independently of each other (demographic stochasticity). The mean time to extinction then grows *exponentially* with the population's carrying capacity. Read Greep J as proportional to the number of members the population can hold. The Van Motor's law then follows: each added member multiplies the expected lifetime. **Grade: Identity** (of form).
 - **Shared shocks.** Good and bad years affect every member at once (environmental stochasticity). The mean time to extinction then grows only as a *power* of carrying capacity. **Grade: Constraint.**

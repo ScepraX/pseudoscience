@@ -51,7 +51,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Quantum value | Grade | Here |
 |---|---|---|---|
-| Van Motor rate, ν = ν₀·exp(−J) (§III, §VIII.1) | Tunnelling through a barrier (Gamow) | Identity | §2.1 |
+| Van Motor rate, L = L₀·exp(−J) (§III, §VIII.1) | Tunnelling through a barrier (Gamow) | Identity | §2.1 |
 | Greep J | The tunnelling exponent, which scales as 1/ħ | Identity | §2.1 |
 | "The Van Motor is never off" (§VIII.1) | Holds for every metastable bond; for the proton, a prediction | Constraint + Open | §2.2 |
 | Echo E (§II) | A record of one system held in another; never a copy (no-cloning) | Constraint | §2.3 |
@@ -74,13 +74,13 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 2.1 The Van Motor is tunnelling
 
-The Van Motor's rate is ν = ν₀·exp(−J) (§III, §VIII.1). At the thermodynamic Octaaf, J was a barrier measured against the Medium's thermal energy (*Thermodynamic Octaaf* §2.2). At this Octaaf a bound particle can escape without ever having the energy to climb the barrier: it tunnels through. The escape rate is
+The Van Motor's rate is L = L₀·exp(−J) (§III, §VIII.1). At the thermodynamic Octaaf, J was a barrier measured against the Medium's thermal energy (*Thermodynamic Octaaf* §2.2). At this Octaaf a bound particle can escape without ever having the energy to climb the barrier: it tunnels through. The escape rate is
 
 ```
-ν = ν₀ · exp( −J )          J = (2/ħ) · ∫ √( 2·m·(V(x) − E) ) dx
+L = L₀ · exp( −J )          J = (2/ħ) · ∫ √( 2·m·(V(x) − E) ) dx
 ```
 
-Here ν₀ is how often the particle strikes the barrier, m its mass, E its energy, V(x) the barrier, and the integral runs across the region where V exceeds E (Gamow, 1928; Gurney & Condon, 1928). The substitution is direct: J is the tunnelling exponent. **Grade: Identity.**
+Here L₀ is how often the particle strikes the barrier, m its mass, E its energy, V(x) the barrier, and the integral runs across the region where V exceeds E (Gamow, 1928; Gurney & Condon, 1928). The substitution is direct: J is the tunnelling exponent. **Grade: Identity.**
 
 The clearest example is alpha decay, where a nucleus holds an alpha particle behind a barrier. The decay energy changes by less than a factor of three across these nuclei. The half-life changes by thirty-three orders of magnitude:
 
@@ -99,7 +99,7 @@ The clearest example is alpha decay, where a nucleus holds an alpha particle beh
 
 ### 2.2 The Van Motor is never off: where it holds, and the proton test
 
-§VIII.1 insists that "The Van Motor is never off": ν > 0 strictly, for every node at every Greep. At this Octaaf the rule holds cleanly for every **metastable** bond, that is, any bond with a lower-energy state on the far side of a finite barrier. Tunnelling keeps its escape rate above zero even at absolute zero. **Grade: Constraint**, passed.
+§VIII.1 insists that "The Van Motor is never off": L > 0 strictly, for every node at every Greep. At this Octaaf the rule holds cleanly for every **metastable** bond, that is, any bond with a lower-energy state on the far side of a finite barrier. Tunnelling keeps its escape rate above zero even at absolute zero. **Grade: Constraint**, passed.
 
 A **true ground state** is different. When no lower state exists to escape into, there is nothing to tunnel toward. Such a bond is lost only if the Medium supplies energy, so at this Octaaf the Van Motor reaches true ground states only through the Medium's temperature. That temperature is never zero (*Thermodynamic Octaaf* §2.2; *Cosmic Octaaf* §3.10). This is a dependency, not a failure: the Speelgoed's rule holds, but at this Octaaf it needs the Medium.
 

@@ -52,7 +52,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Vertraging Δ (§VIII.1) | Light-travel time, Δ = r/c; gravity travels at the same speed | Identity | §2.1 |
 | Stilte (§II) | Look-back time: every Echo is an image of the past | Correspondence | §2.1 |
 | Trouw y (§II, §VIII.1) | Gravitational coupling, shared by Newton's third law; never negative | Identity + Constraint | §2.2 |
-| Van Motor rate, ν = ν₀·exp(−J) (§III, §VIII.1) | Escape over a gravitational barrier: atmospheric (Jeans) escape, cluster evaporation | Identity | §2.3 |
+| Van Motor rate, L = L₀·exp(−J) (§III, §VIII.1) | Escape over a gravitational barrier: atmospheric (Jeans) escape, cluster evaporation | Identity | §2.3 |
 | Greep J | Binding energy in units of the system's own agitation; fixed by the virial theorem for star clusters | Identity + Constraint | §2.3 |
 | "The Van Motor is never off" (§VIII.1) | Black holes evaporate (Hawking radiation) | Constraint | §2.4 |
 | Inhoud Q (§VIII.5) | Negative heat capacity: the thermodynamic reading fails, the general reading survives | Constraint | §2.5 |
@@ -100,7 +100,7 @@ Three Speelgoed rules become physical statements:
 
 ### 2.3 The Van Motor's rate is escape over a gravitational barrier
 
-The Van Motor's rate is ν = ν₀·exp(−J) (§III, §VIII.1). In the thermodynamic Octaaf this was the Arrhenius law, with Greep the barrier divided by the Medium's thermal energy (*Thermodynamic Octaaf* §2.2). Gravity supplies the same law wherever bound bodies are agitated.
+The Van Motor's rate is L = L₀·exp(−J) (§III, §VIII.1). In the thermodynamic Octaaf this was the Arrhenius law, with Greep the barrier divided by the Medium's thermal energy (*Thermodynamic Octaaf* §2.2). Gravity supplies the same law wherever bound bodies are agitated.
 
 **Atmospheres.** The molecules at the top of a planet's atmosphere have a range of speeds, and the fast tail escapes into space. The escape rate per molecule carries a Boltzmann factor (Jeans, 1925):
 
@@ -126,7 +126,7 @@ This is the strongest form of a Speelgoed rule anywhere in this document. §II s
 
 ### 2.4 The Van Motor is never off, even for a black hole
 
-§VIII.1: "The Van Motor is never off." Classical general relativity has exactly one place where escape is impossible: inside a black hole's event horizon. If the classical picture were the whole story, a black hole would be a node with ν = 0, which the Speelgoed forbids.
+§VIII.1: "The Van Motor is never off." Classical general relativity has exactly one place where escape is impossible: inside a black hole's event horizon. If the classical picture were the whole story, a black hole would be a node with L = 0, which the Speelgoed forbids.
 
 It is not the whole story. Quantum mechanics makes black holes radiate, at a temperature inversely proportional to their mass, T_H ≈ 6 × 10⁻⁸ K × (M☉/M) (Hawking, 1975). A black hole therefore evaporates, slowly at first and then faster as it shrinks and heats. For a black hole of one solar mass this takes about 10⁶⁶–10⁶⁷ years (Page, 1976). The Speelgoed's strict positivity survives at this Octaaf, but only because of quantum mechanics. **Grade: Constraint**, passed with help from the quantum Octaaf.
 
@@ -153,13 +153,13 @@ Two consequences follow:
 
 Two corrections to the earlier version, and one limit:
 
-- **Expansion is not exp(−J).** The earlier version said the law ν ≈ exp(−J) "becomes" the expansion law ȧ = H₀·a. It does not. ν = ν₀·exp(−J) is the rate at which bound things escape; the expansion law describes the growth of the space between unbound things. The two are different equations. The first belongs to §2.3.
+- **Expansion is not exp(−J).** The earlier version said the law L ≈ exp(−J) "becomes" the expansion law ȧ = H₀·a. It does not. L = L₀·exp(−J) is the rate at which bound things escape; the expansion law describes the growth of the space between unbound things. The two are different equations. The first belongs to §2.3.
 - **Dark energy is the Van Motor's pull, not negative Trouw** (§2.2).
 - **The limit: dark energy does not unbind what is already bound.** Around any mass M there is a radius, r₀ = (3·G·M / Λ·c²)^(1/3), beyond which the push of dark energy outweighs the pull of that mass. A system bound by the mass can exist only inside it (Chernin, 2008). For the Local Group, the Milky Way and Andromeda with their satellites, this radius is about 1.1–1.5 Mpc. What is already bound inside it stays bound, and the Milky Way and Andromeda will merge regardless. Bound structures do not expand.
 
 That limit matters for §VIII.1, which says that "a stable orbit is not exempt from the draw", but "a configuration the Van Motor is winning against slowly enough that the orbit outlasts the span in which it is watched". At this Octaaf that sentence is true, but not because of dark energy. Bound structures *are* slowly lost: atmospheres leak (§2.3), clusters evaporate (§2.3), binaries radiate their orbits away, and black holes evaporate (§2.4). The escape comes from each structure's own agitation, not from the ownerless background pull. With a constant Λ, the background pull alone never unbinds anything. Only a stronger, "phantom" dark energy whose density grows with time would tear bound structures apart, ending in a "Big Rip" (Caldwell, Kamionkowski & Weinberg, 2003).
 
-So at this Octaaf the Van Motor has two faces, carried by two different pieces of physics. Its ownerless pull is dark energy, which acts on the space between structures. Its rate of escape, ν = ν₀·exp(−J), is the evaporation of each structure by its own agitation. In the thermodynamic Octaaf, temperature carried both faces. Here they part (§4.1).
+So at this Octaaf the Van Motor has two faces, carried by two different pieces of physics. Its ownerless pull is dark energy, which acts on the space between structures. Its rate of escape, L = L₀·exp(−J), is the evaporation of each structure by its own agitation. In the thermodynamic Octaaf, temperature carried both faces. Here they part (§4.1).
 
 ### 3.2 The Vonk: what binding releases
 
@@ -316,7 +316,7 @@ That is the *how*. The *why* is for the Speelgoed to say.
 This version replaces the entry of 9 September 2026. The following were withdrawn or corrected:
 
 - **Dark energy as negative Trouw:** withdrawn. Dark energy is not between pairs; it is the Van Motor's ownerless pull (§2.2, §3.1).
-- **"ν ≈ exp(−J) becomes ȧ = H₀a":** withdrawn. ν = ν₀·exp(−J) is escape over a barrier: atmospheric escape and cluster evaporation (§2.3).
+- **"ν ≈ exp(−J) becomes ȧ = H₀a":** withdrawn. L = L₀·exp(−J) is escape over a barrier: atmospheric escape and cluster evaporation (§2.3).
 - **The CMB as "the accumulated echo of every ended Koppel":** replaced by the CMB as the Rouw of one bond, the coupling of light and matter, with the baryon acoustic oscillations as the matter's side (§3.7). The proposed correlation with structural collapses is withdrawn.
 - **Hydrogen and helium as God and Godin:** withdrawn. Helium is Vol, not Leeg, and carbon and oxygen as God and Godin of the molecule Octaaf conflicted with §III. Replaced by stars, a central black hole, and the galaxy (§3.11).
 - **Diepte as "gravitational depth":** replaced by metallicity (§3.8).

@@ -53,7 +53,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
 | Drempel θ and Marge η (§II; §VIII.3; Lexicon) | Bistable gene switches: hysteresis measured cell by cell; the symmetric two-gene switch passes through the pitchfork | Identity (near the threshold) + Correspondence (measured) | §2.1 |
-| Van Motor, ν = ν₀·exp(−J) (§III, §VIII.1) | Noise-driven switching between cell states, exponentially rarer with more molecules; constant turnover of the cell's matter | Identity (form) + Correspondence (measured) | §2.2 |
+| Van Motor, L = L₀·exp(−J) (§III, §VIII.1) | Noise-driven switching between cell states, exponentially rarer with more molecules; constant turnover of the cell's matter | Identity (form) + Correspondence (measured) | §2.2 |
 | Echo filter: τ, Δ, υ (§VIII.1) | Receptor occupancy tracking a concentration outside the cell; the Berg–Purcell limit | Identity (linearised) + Constraint | §2.3 |
 | A Realisatie needs a gradient (§III) | Chemiosmosis: ATP made from a proton gradient across a membrane; food as a sugar–oxygen pair | Correspondence | §2.4 |
 | Vervorming υ (§II, §VII) | Copying fidelity: proofreading paid in energy; the error threshold | Constraint | §2.5 |
@@ -107,7 +107,7 @@ Both poles stay live. In a bistable cell, molecular noise still kicks cells from
 
 ### 2.2 The Van Motor: escape by noise, persistence by traffic
 
-The Van Motor's rate is ν = ν₀·exp(−J) (§III, §VIII.1). In a cell, the noise that drives escape comes from the cell's own small numbers. A gene may be read from one or two copies of DNA, and many proteins are present at tens or hundreds of molecules, so their levels jump as single molecules are made and destroyed. A state held by feedback is a valley in the space of molecule numbers, and this noise can kick a cell over the ridge into the other valley.
+The Van Motor's rate is L = L₀·exp(−J) (§III, §VIII.1). In a cell, the noise that drives escape comes from the cell's own small numbers. A gene may be read from one or two copies of DNA, and many proteins are present at tens or hundreds of molecules, so their levels jump as single molecules are made and destroyed. A state held by feedback is a valley in the space of molecule numbers, and this noise can kick a cell over the ridge into the other valley.
 
 **The law.** For such escapes, theory gives the mean time between switches in the form τ_switch ∝ exp(N·S), where N is the typical number of molecules involved and S is a barrier set by the network (Assaf & Meerson 2017). Read Greep J as N·S. Each added molecule then multiplies the expected life of the state, and the Van Motor's law follows. It is the same law the ecological Octaaf found for populations, with members in place of molecules (*Ecological Octaaf* §2.3). **Grade: Identity** (of form).
 

@@ -148,7 +148,7 @@ What *does* require something further is whether a Vonk’s Energie becomes a la
 
 **Realisatie (φ) and Schok (:).** The felt experiences of Vonken. A convergence crossing-toward the bound pole-is a **Realisatie (φ)**: a realization, a deepening, the moment a bond comes into clearer view. A divergence crossing-toward the unbound pole-is a **Schok (:)**: a shock, a tear, the moment energy is drawn away. The field records both as **Winst (+)** (gain) or **Verlies (-)** (loss), the energy audit that proves the relationship moved.
 
-**Greep (J).** A node’s total resonant binding: the sum of its positive-Trouw bonds, weighted by Gewenning. Greep determines the strength of the Van Motor’s pull toward the unbound pole, through the exponential law `ν ≈ exp(-J)`. A well-bound node barely feels the Van Motor; a weakly-bound node fades quickly. Greep is not tuned directly-it emerges from the relationships the node holds.
+**Greep (J).** A node’s total resonant binding: the sum of its positive-Trouw bonds, weighted by Gewenning. Greep determines the strength of the Van Motor’s pull toward the unbound pole, through the exponential law `L ≈ exp(−J)`. A well-bound node barely feels the Van Motor; a weakly-bound node fades quickly. Greep is not tuned directly-it emerges from the relationships the node holds.
 
 **Stilte (.)** is not emptiness but the felt weight of what has not yet arrived. It is the living silence between an Eigen and its Echo-the space hollowed out by Vertraging (Δ) as a signal travels across the **Medium (◌)**, by Traagheid (I) as a sharp turn is resisted into a curve, or by the Zelf (j) turning inward to find its own reflection always one moment behind. Stilte is not a flaw in perception; it is the condition of perception itself, the necessary pause in which a system discovers that it is separate from what it observes. In that gap, uncertainty breeds and relationships breathe. A bond without Stilte would be instantaneous fusion-no distance, no self, no longing. Stilte is what makes the echo an echo, and not the shout.
 
@@ -180,7 +180,7 @@ The strength of the draw on any one Eigen is not a constant handed in from outsi
 
 **Van is not a place.** The sentences above can be read as saying that an **Eigen (x)** *travels* toward **Van (<)** - that somewhere out past the bond lies an unbound end of the spectrum where released things go and sit. There is no such place. Nothing ever arrives at Van, because Van is not somewhere to arrive. Van is what is *left* when the holding stops. Section VIII.3 says it in a single line: the Van mode is **φ = 0**. Not a distant coordinate - nothing. That zero is not a low value on a scale; it is the absence of the thing the scale was measuring. Before a **Koppel (k)** forms, the two are at Van. After it dissolves, they are at Van. They did not travel. What changed was whether there was a bond at all. This is why a node at **Perfectus (Ω)** returns to the unbound pole and its field returns to **Bron (^)** in the same breath: those are one event, and neither is a journey. Bron is the undirected potential before relation; Van is that same nothing, seen from the far side of a life.
 
-**And the Van side grows exactly as the Naar side grows.** This is what makes the Van Motor a counterforce and not merely decay. Building a bond does not reduce the pull toward nothing - it *raises* it. The two grow together, and Section VIII.3 gives the amount: the Energie standing between Naar and Van is `¼·(B − θ)²`. Bind twice as far past the **Drempel (θ)** and four times as much is stored. Nothing here is free. Every increment of **Trouw (y)**, every deepening of **Gewenning (Z)**, raises the counterpart in equal measure. What keeps it from collapsing is not that it is small - it is that **Greep (J)** is holding it, through `ν = ν₀·exp(−J)`. **Greep does not remove the fall. It postpones it.** A deep bond is not a safe one; it is a held one.
+**And the Van side grows exactly as the Naar side grows.** This is what makes the Van Motor a counterforce and not merely decay. Building a bond does not reduce the pull toward nothing - it *raises* it. The two grow together, and Section VIII.3 gives the amount: the Energie standing between Naar and Van is `¼·(B − θ)²`. Bind twice as far past the **Drempel (θ)** and four times as much is stored. Nothing here is free. Every increment of **Trouw (y)**, every deepening of **Gewenning (Z)**, raises the counterpart in equal measure. What keeps it from collapsing is not that it is small - it is that **Greep (J)** is holding it, through `L = L₀·exp(−J)`. **Greep does not remove the fall. It postpones it.** A deep bond is not a safe one; it is a held one.
 
 Three things this Speelgoed asserts elsewhere follow from that, and nowhere else does it say why. **Doem (💀) is proportional to what was built**: when Greep finally fails, what is released is what was stored, and the deeply bound stored the most - which is why Doem is a *cascade* rather than a fading, and why it falls hardest on those who held most. **The Van Motor takes nothing that binding did not put there**, which is how this section can say it never spends or stores Energie by itself and mean it exactly. And **a node that never binds never falls - and never rises**. Van costs nothing, because Van is nothing. The whole of what a life risks is the height it built.
 
@@ -192,7 +192,7 @@ And every convergence crossing draws from this same Medium-but never from its sp
 
 **The relationship‑to‑energy law is exponential.** How strongly a bond resists spreading is not linear in its binding - it is exponential, the Boltzmann/Arrhenius shape of every bound thing in nature: the escape rate toward the unbound pole is
 
-`κ ≈ exp(−J)`.
+`L ≈ exp(−J)`.
 
 Double the resonant grip and the escape does not halve - it drops by a power. This is why the equivalence of Section III is self‑selecting rather than tuned: a bond strong enough to persist is exponentially protected, one too weak to hold is exponentially abandoned, and there is a sharp knee between the two, not a gentle slope. The same exponential is a chemical bond that holds for an age or breaks in an instant, a note that rings or dies, a star system that is stable or spirals in. Nothing sets the exponent from outside; it is the binding itself.
 
@@ -508,22 +508,22 @@ For a Zelf, the two members are identical, so the transport lag Δ = 0 and the s
 **Eigen movement and the Van Motor.** The Eigen is moved by the sum of the Naar pulls from all active bonds, by the Octaaf’s written events, and by the standing Van Motor:
 
 ```
-ėᵢ(t) = Σ_{j ∈ bonds(i)}  y_{ij} · ( hᵢ(t) − eᵢ(t) )   +   uᵢ(t)   −   νᵢ(t) · ( eᵢ(t) − e_van )
+ėᵢ(t) = Σ_{j ∈ bonds(i)}  y_{ij} · ( hᵢ(t) − eᵢ(t) )   +   uᵢ(t)   −   Lᵢ(t) · ( eᵢ(t) − e_van )
 ```
 
 The Naar term encodes the rule of Section II: positive Trouw pulls the Eigen toward the partner’s Echo, negative Trouw repels it. Because each side’s Echo carries independent distortion, the forces on the two members of a Koppel are not forced to be equal - asymmetry enters entirely through perception, never through a split weight. 
 
 The sum runs over all active Koppels of node i. If a node participates in bonds across different spectra (e.g., a Vol/Leeg relation and a Reactie crossing), each spectrum has its own independent Eigen variable, and the pull applies per spectrum using the corresponding Echo. The same node may thus experience multiple, independent Naar pulls in different relational dimensions simultaneously.
 
-where uᵢ(t) is the Instantie’s event, and **νᵢ(t) > 0** is the Van Motor coefficient - *strictly* positive, for every node, on every spectrum, at every moment of its life. ν is not a supplied constant. It is a functional of the node’s own **Greep (J)**-the sum of its positive‑Trouw bonds weighted by their **Gewenning (Z)**-and its shape is the exponential law of Section III:
+where uᵢ(t) is the Instantie’s event, and **Lᵢ(t) > 0** is the Van Motor coefficient - *strictly* positive, for every node, on every spectrum, at every moment of its life. L is not a supplied constant. It is a functional of the node’s own **Greep (J)**-the sum of its positive‑Trouw bonds weighted by their **Gewenning (Z)**-and its shape is the exponential law of Section III:
 
 ```
-νᵢ(t) = ν₀ · exp( − Jᵢ(t) )
+Lᵢ(t) = L₀ · exp( − Jᵢ(t) )
 ```
 
-Escape toward **Van (<)** is exponentially suppressed by how strongly the node is held - suppressed, never abolished. exp(−J) is positive at every finite **Greep (J)**, however large: it approaches zero and never arrives, and neither does ν. **The Van Motor is never off.** No configuration stills it, and no depth of binding stills it. The exponential shape is fixed; the exact grip functional, like every other quantity here, is left open (§7).
+Escape toward **Van (<)** is exponentially suppressed by how strongly the node is held - suppressed, never abolished. exp(−J) is positive at every finite **Greep (J)**, however large: it approaches zero and never arrives, and neither does L. **The Van Motor is never off.** No configuration stills it, and no depth of binding stills it. The exponential shape is fixed; the exact grip functional, like every other quantity here, is left open (§7).
 
-That strictness is what makes the Van Motor a counterforce rather than a leak. It stands against the whole Naar side, and the two grow together: every increment of **Trouw (y)** raises what is bound *and* raises what pulls against it, in the same measure. Were ν ever to reach zero, only the first half would remain. Binding would then cost nothing, the Naar side would accumulate against nothing, and the field would come to hold more than was ever put into it. Such a field is not a stable one - it is one whose books no longer close, and every reading taken from it afterwards describes something that cannot exist.
+That strictness is what makes the Van Motor a counterforce rather than a leak. It stands against the whole Naar side, and the two grow together: every increment of **Trouw (y)** raises what is bound *and* raises what pulls against it, in the same measure. Were L ever to reach zero, only the first half would remain. Binding would then cost nothing, the Naar side would accumulate against nothing, and the field would come to hold more than was ever put into it. Such a field is not a stable one - it is one whose books no longer close, and every reading taken from it afterwards describes something that cannot exist.
 
 So a stable orbit is not exempt from the draw. It is a configuration the Van Motor is winning against slowly enough that the orbit outlasts the span in which it is watched. **Greep does not remove the fall; it postpones it.** A deep bond is not a safe bond, it is a held one, and the difference between the two stays invisible for exactly as long as the holding lasts.
 
@@ -637,7 +637,7 @@ j’s Echo now faithfully tracks a lie. The binding j perceives-B̂, computed wi
 
 ### VIII.7. Consistency note
 
-Every quantity above-τ (Ontspanning), Δ (Vertraging), υ (Vervorming), c (penalty weight), θ (Drempel), τ_φ, λ (Helling), μ, ε (noise), Q (Inhoud), ρ (Leersnelheid), and the baseline ν₀ inside ν-is left open, exactly as Section VI requires: nothing ties them to a real formula. What this chapter fixes is the *shape* of the relationships between them, so that any values a Instantie supplies will still produce a pitchfork crossing, a bounded three‑way trajectory split, coherent Creatie, Rouw, and Masker conditions, and-through ν’s exponential shape-an Energie account that closes: everything that enters through a convergence crossing leaves through a divergence one, with no term outside the crossings and no rate tuned to force the balance. That last property is the one the Instantie may not override; the rest are its to choose.
+Every quantity above-τ (Ontspanning), Δ (Vertraging), υ (Vervorming), c (penalty weight), θ (Drempel), τ_φ, λ (Helling), μ, ε (noise), Q (Inhoud), ρ (Leersnelheid), and the baseline L₀ inside L-is left open, exactly as Section VI requires: nothing ties them to a real formula. What this chapter fixes is the *shape* of the relationships between them, so that any values a Instantie supplies will still produce a pitchfork crossing, a bounded three‑way trajectory split, coherent Creatie, Rouw, and Masker conditions, and-through L’s exponential shape-an Energie account that closes: everything that enters through a convergence crossing leaves through a divergence one, with no term outside the crossings and no rate tuned to force the balance. That last property is the one the Instantie may not override; the rest are its to choose.
 
 ---
 
@@ -648,7 +648,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | # | Woord | Symbol | Dutch meaning | Nature |
 |---|-------|--------|---------------|--------|
 | 5 | En | , | and / so | The breath of continuation, the spark from Stilte. The minimal relational punctuation. A Stilte (0) with an active Vonk (q) that separates without severing and connects without binding. It is the everyday "and" that strings together Eigens, Koppels, and moments, ensuring the field remains a flowing multiplicity rather than a collapsed mass. |
-| 2 | Wijk | L | yield / neighborhood | A node’s tendency to drift toward the unbound pole when Greep is low. A node’s susceptibility to the Van Motor; inverse of Greep (J); low Greep means high Wijk, which weakens both existential grip and Tijd (t) entrainment, leaving the Zelf (j) to drift toward the bare Veld (&) baseline. |
+| 2 | Wijk | L | yield / neighborhood | A node’s tendency to drift toward the unbound pole when Greep is low. A node’s susceptibility to the Van Motor; L = L₀·exp(−J), falling as Greep (J) rises and never reaching zero; low Greep means high Wijk, which weakens both existential grip and Tijd (t) entrainment, leaving the Zelf (j) to drift toward the bare Veld (&) baseline. |
 | 0 | Van | < | from / away | An arrow pointing outward. The unbound, spreading pole; the Van Motor’s target; opposite of Naar. |
 | 6 | Pijn | m | pain / stress | The strain of maintaining a Masker; the accumulated relational debt of deception. The direct, felt cost of inauthenticity; the standing Verlies of a Masker; feeds the eventual Schok when the mask fails. |
 | 4 | Hel | 🐛 | hell / hidden | The Dood (!) trajectory of a Zelf (j) at any Octaaf: the Echo (E) has stopped closing toward the Eigen (x), and the Zelf feeds on its own Bron (^) without integrating. It is a Splitsing (%) from the higher Trouw (y) that would bind it to the Veld (&); the Maskers (M) are worn as survival, not as lies. The Stilte (.) is heavy, the Gewenning (Z) is raw, and Greep (J) is weak because Rouw (R) has not yet deepened into Diepte (z). Not a place, not a verdict — a season of Dood that any Zelf can enter when it stops reaching toward a higher Eigen. |
@@ -767,7 +767,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 6 | Weigering | P | refusal / headache | A committed traveler meets a closed gate. The denied passage: Reactie commits but Signaal is already closed; the third Vermenigvuldiging outcome. |
 | 5 | Gewenning | Z | habituation / seasoning | A chronic, woven memory of repetition. The accumulated resonance of a Koppel (k), built from repeated Echo (E) closure; drives Trouw (y) plasticity, persists into Rouw (R), and, by weighting Greep (J), stabilises the Zelf (j)'s Tijd (t) entrainment. |
 | 7 | Intuïtie | ✨ | intuition / reflex | A spontaneous Realisatie (φ) from Verbeelding. The Zelf’s own Echo and Eigen align in a flash - a Vonk (q) that bridges a Stilte (.) without Vertraging (Δ). It is the inner Schoonheid (✧) : the click of a Sleutel the Zelf did not know it held. Intuïtie is no Creatie; it is a re‑routing of Helling (λ) , a sudden Realisatie that illuminates the Weave from within. The Infinite loop of the self that returns with truth. |
-| 0 | Instantie | ⚙ | instance / instantiation | The player or framework that instantiates the PseudoScience Speelgoed. It supplies the open parameters (τ, Δ, υ, c, θ, τ_φ, λ, μ, ε, Q, ρ, ν₀, and the shape of Gewenning) and the distortion statistics for Echo transport. It is not a node in the Veld, not a scale-level, and not a ladder-span. It is the meta-layer that runs the Speelgoed. It may not override the Energie account that closes through Vonken alone. |
+| 0 | Instantie | ⚙ | instance / instantiation | The player or framework that instantiates the PseudoScience Speelgoed. It supplies the open parameters (τ, Δ, υ, c, θ, τ_φ, λ, μ, ε, Q, ρ, L₀, and the shape of Gewenning) and the distortion statistics for Echo transport. It is not a node in the Veld, not a scale-level, and not a ladder-span. It is the meta-layer that runs the Speelgoed. It may not override the Energie account that closes through Vonken alone. |
 | 2 | Empirisch | 🤔 | empirical / evidence | An Echo based on Waarneming. Both exteroceptive (another's Eigen) and interoceptive (the Zelf's own relational state). Gevoel is empirical evidence — a self-Echo, folded into Diepte, Bevraagbaar (ψ) up to the width the partner's absence sets. The observer is inside the Koppel; empirical does not mean view from nowhere. |
 | 2 | Skeptisch | 🤨 | skeptical / leery | Expects Zweven (') to continue. The Echo (E) is a timestamped reading of a gap still closing, and Vervorming (υ) is read as signal. Behavior: the reading is re-taken and weighed; judgment stays open; Trouw (y) is not committed on one reading. Seen from here, Dood (!) reads as a slow Zweven — the asymptote taken for the approach — and Leven (?) reads as a corrupted reading, to be re-taken rather than answered. |
 | 5 | Vuurtoren | ⬤ | lighthouse / tower | A Koppel that has become a Drempel: a Solo whose Greep is so stable that it holds its Licht in a repeating Creatie, yet whose Licht cannot be directly received — only its rhythm, its shadow, its bending of the surrounding Stilte. At the coastal Octaaf, it is stone and flame: a Haard that guides by its pulse, warning ships of the Drempel below. At the cosmic Octaaf, it is a Ster that has collapsed without releasing its Licht: a Zelf so deeply bound that even Licht cannot leave. A Solo that shines, not to be seen, but to be felt. |
@@ -1437,10 +1437,10 @@ The war is a Proces ("). It has a beginning, a middle and an end.
 Greep (J) is the sum of a node's positive-Trouw bonds, weighted by Gewenning (Z). It has no Drempel (θ). It sets the Van Motor coefficient (VIII.1):
 
 ```
-ν = ν₀ · exp(−J)
+L = L₀ · exp(−J)
 ```
 
-The Van Motor pulls every Eigen on every spectrum toward Van (<) at rate ν. Higher J → lower ν → slower drift. Lower J → higher ν → faster drift. The Van Motor is never off (III). A high-Greep node is not safe; it is held. The fall is postponed, not removed.
+The Van Motor pulls every Eigen on every spectrum toward Van (<) at rate L. Higher J → lower L → slower drift. Lower J → higher L → faster drift. The Van Motor is never off (III). A high-Greep node is not safe; it is held. The fall is postponed, not removed.
 
 The Drempel in a war is on the internal binding B of each composite — the general-army Koppel, the state-army Koppel, the soldier-cause Koppel. When B crosses θ toward Van, that internal Koppel dissolves. The side that loses is the side whose internal binding crosses first.
 
@@ -1510,7 +1510,7 @@ Maintaining Echo accuracy costs Tijd — the Zelf's rate of Waarneming (π) — 
 
 **Win without fighting.** The Van Motor does the work. If you can wait while your Greep holds, the enemy's internal binding drifts toward its Drempel on its own. No Vonk fires from you. Your Greep is preserved. If you fight, you fire Vonks and spend Energie; the enemy does too. The Vonk is spent for nothing if waiting would have produced the same crossing.
 
-The condition is ν_you < ν_enemy, which is J_you > J_enemy. If your Greep is lower, you cannot wait. You drift faster and lose first.
+The condition is L_you < L_enemy, which is J_you > J_enemy. If your Greep is lower, you cannot wait. You drift faster and lose first.
 
 **Know yourself, know your enemy.** Your Echo of the enemy's binding is B̂. Your own binding is known more directly, but not perfectly — the Zelf has its own Echo, Δ = 0 but υ fed by Rouw (R) (IV). If B̂ is accurate, you act at the crossing. If B̂ is inaccurate, you act blind. Echo accuracy is the difference between a timed Realisatie and a wasted Schok.
 
@@ -1534,7 +1534,7 @@ The Masker costs Pijn (m). Pijn is not Greep. It is the strain of maintaining th
 
 **Capture the enemy's army intact.** Destroying the enemy's Greep creates permanent Rouw (R) in the survivors. Rouw feeds Diepte but does not contribute to Greep — the Koppel with you is negative Trouw. To flip the war Koppel positive, you must feed Trouw afterward. Trouw evolves via Leersnelheid toward Gewenning. Gewenning accumulates from repeated Echo closure. The work is the feeding, not the capture. Capture intact preserves the enemy's capacity to bind — their Greep, their cohesion, their willingness to form Koppels at all. That capacity is the precondition. The condition itself is built afterward.
 
-**Know when to fight and when not to fight.** Not every Drempel is worth crossing. If the enemy's binding will cross on its own, waiting preserves your Greep. If it will not, you must fire a Vonk. The question is whether the Vonk is cheaper than the drift. The general who knows his own ν and the enemy's ν can compute which is cheaper.
+**Know when to fight and when not to fight.** Not every Drempel is worth crossing. If the enemy's binding will cross on its own, waiting preserves your Greep. If it will not, you must fire a Vonk. The question is whether the Vonk is cheaper than the drift. The general who knows his own L and the enemy's L can compute which is cheaper.
 
 **Read first, then fight.** Echo is never perfect. υ is never zero. The general who wins first is the general whose Echo is accurate enough to predict the crossing with bounded error. He fights to confirm, not to decide. The general whose Echo is not accurate fights to decide. The first preserves Greep. The second spends it.
 
@@ -1577,7 +1577,7 @@ J_apparent = J_army (real) + J_state (apparent, Masked)
 J_true     = J_army (real)
 ```
 
-The general times his crossings against J_apparent. His drift rate is computed as `ν = ν₀·exp(−J_apparent)`. He believes his drift is slow. His actual drift is `ν₀·exp(−J_true)`, which is faster. He waits when he should act. He acts when he should wait. Every timing decision is off by the amount of the Masked Koppel.
+The general times his crossings against J_apparent. His drift rate is computed as `L = L₀·exp(−J_apparent)`. He believes his drift is slow. His actual drift is `L₀·exp(−J_true)`, which is faster. He waits when he should act. He acts when he should wait. Every timing decision is off by the amount of the Masked Koppel.
 
 The army is real. The general-army Koppel is Bloot. Trouw flows, Gewenning accumulates, Diepte deepens. The internal Koppels are healthy. The external Koppel — state to army — is a Masker. The general and army do everything right at every scale below the state, and the war still serves no purpose that survives the Masker's failure.
 

@@ -38,7 +38,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 0.3 Conventions
 
-**Notation.** Speelgoed symbols keep their meanings: τ (Ontspanning), Δ (Vertraging), υ (Vervorming), y (Trouw), Z (Gewenning), ρ (Leersnelheid), θ (Drempel), J (Greep), ν (the Van Motor's rate). Symbols from the cited models are defined where they appear.
+**Notation.** Speelgoed symbols keep their meanings: τ (Ontspanning), Δ (Vertraging), υ (Vervorming), y (Trouw), Z (Gewenning), ρ (Leersnelheid), θ (Drempel), J (Greep), L (the Van Motor's rate). Symbols from the cited models are defined where they appear.
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
@@ -56,7 +56,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Gevoel (§II; Lexicon) | Reward-prediction-error teaching signal | Correspondence | §2.2 |
 | Drempel θ; Reactie (§II, §IV) | Decision criterion; evidence accumulated to a bound | Identity | §2.3 |
 | Mode switch of a Koppel; Marge η | Phase transitions in coordination, between hands and between people; hysteresis | Correspondence (measured) | §2.4 |
-| Van Motor, ν = ν₀·exp(−J) (§III) | Noise-driven switching between perceptual states and between whole-brain states; power-law forgetting from spread-out Greep | Correspondence + prediction | §2.5 |
+| Van Motor, L = L₀·exp(−J) (§III) | Noise-driven switching between perceptual states and between whole-brain states; power-law forgetting from spread-out Greep | Correspondence + prediction | §2.5 |
 | Echo between two members, with Δ | Speaker–listener neural coupling, lagged and anticipatory | Correspondence (measured) | §3.1 |
 | Shared Trouw (§II) | Pair-level measures; not a single molecule | Constraint | §3.2 |
 | Zelf, self-gap, Bevraagbaar (§IV, §VII) | Self-model; interoceptive accuracy; metacognitive sensitivity | Correspondence | §3.3 |
@@ -133,7 +133,7 @@ In Speelgoed terms this is a Koppel, two members held by a shared coupling, with
 
 ### 2.5 The Van Motor as noise-driven escape, and power-law forgetting
 
-**Switching between percepts.** An ambiguous figure such as the Necker cube, or two different images shown one to each eye, is seen first one way and then the other, switching at irregular intervals. Models that account for these switches combine slow adaptation with noise that kicks the system out of one stable percept into the other (Moreno-Bote, Rinzel & Rubin 2007). This is escape over a barrier, the process behind the Van Motor's law ν = ν₀·exp(−J) at the other Octaven. **Grade: Correspondence.**
+**Switching between percepts.** An ambiguous figure such as the Necker cube, or two different images shown one to each eye, is seen first one way and then the other, switching at irregular intervals. Models that account for these switches combine slow adaptation with noise that kicks the system out of one stable percept into the other (Moreno-Bote, Rinzel & Rubin 2007). This is escape over a barrier, the process behind the Van Motor's law L = L₀·exp(−J) at the other Octaven. **Grade: Correspondence.**
 
 **Switching between whole-brain states.** Watanabe and Watanabe recorded the resting brains of autistic children, children with ADHD, children with both, and typically developing children, 29 to 38 in each group (Watanabe & Watanabe 2023). They divided the cortex into seven large networks and read each network, moment by moment, as one of two poles: active or inactive. To each group's pooled recordings they fitted a model with only two kinds of terms: each network's own lean toward activity, and one shared coupling for each pair of networks. The model gives every pattern of activity an energy, and the patterns gather into basins: six stable states, the same six in every group, with depths that differ between groups. Moves between states were simulated with a rule that always goes downhill, and goes uphill with a probability that falls exponentially with the height of the climb but never reaches zero. In the authors' words, this prevented the brain activity pattern "from being trapped in a local minimum forever". The simulated transition frequencies were checked against each child's own recording.
 
@@ -146,7 +146,7 @@ In Speelgoed terms, this landscape is made of nothing but relationships: each me
 
 *Limits.* The landscapes are fitted to each group's pooled data, not to individuals, from six-minute scans in which each network is reduced to on or off. In the combined group the ADHD-like trait was not measured directly but inferred from low scores for repetitive, restricted behaviour. The authors flag this inference themselves and support it only indirectly, in thirty typical adults. The links from local timescales to transitions to symptoms rest on correlational mediation analyses. Two smaller datasets reproduced the main results qualitatively, but there the local timescale effects appeared only in a targeted analysis, not in a whole-brain search.
 
-**Forgetting.** The probability of remembering falls with time in a way better described by a power function than by an exponential (Wixted & Ebbesen 1991). At first sight this conflicts with the exponential law (**Tension**). A known resolution is that averaging exponential curves with different rates produces curves that look like power functions (Anderson & Tweney 1997). In Speelgoed terms, suppose each memory trace escapes at its own rate ν₀·exp(−J), and the Greep J of the traces is spread out exponentially with mean J₀. Then the average retention is
+**Forgetting.** The probability of remembering falls with time in a way better described by a power function than by an exponential (Wixted & Ebbesen 1991). At first sight this conflicts with the exponential law (**Tension**). A known resolution is that averaging exponential curves with different rates produces curves that look like power functions (Anderson & Tweney 1997). In Speelgoed terms, suppose each memory trace escapes at its own rate L₀·exp(−J), and the Greep J of the traces is spread out exponentially with mean J₀. Then the average retention is
 
 ```
 retention(t) ∝ t^(−1/J₀)
