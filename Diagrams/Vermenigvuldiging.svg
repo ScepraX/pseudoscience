@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title" aria-describedby="desc" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">
+  <title id="title">The Vermenigvuldiging: a traveler and a Kruispunt as one Koppel, and its four readings</title>
+  <desc id="desc">The Vermenigvuldiging of Section IV of the Speelgoed, drawn as a map. The horizontal axis is the traveler's Eigen, Reactie, from Munt (unclaimed) to Kop (claimed), with its Drempel. The vertical axis is the Kruispunt's Eigen, Signaal, on the same spectrum, with its own Drempel. Reactie short of its Drempel: nothing resolves, whatever Signaal reads. Reactie past its Drempel with Signaal short of its own: a Doorgang, the ordinary passage, and the Vonk fires once, on the traveler's side. Both past their Drempels: a Doorbraak, two crossings live at one site, whose combination is left open. A Weigering is a path, not a region: the traveler commits, reads Signaal already past its Drempel, and withdraws below its own Drempel again, firing two Vonken and resolving nothing. Both Eigens move freely, any number of times. On the right, every act of observation has this form: the observer is the traveler and its measurement is the Reactie; the observed is the Kruispunt and its response is the Signaal; each side carries an Echo of the other.</desc>
+  <defs>
+    <filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="720">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#16130c"/>
+      <stop offset="100%" stop-color="#0c0b09"/>
+    </radialGradient>
+    <marker id="arrowFaint" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#8d877c"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#f1d27c"/></marker>
+    <marker id="arrowDim" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#cfcac0"/></marker>
+    <marker id="arrowBright" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#efebe2"/></marker>
+  </defs>
+  <rect width="1000" height="720" fill="url(#vignette)"/>
+  <text x="500.0" y="56.0" font-size="32" fill="#f1d27c" text-anchor="middle">The Vermenigvuldiging</text>
+  <text x="500.0" y="86.0" font-size="13.5" fill="#8d877c" text-anchor="middle" letter-spacing="2.2">§IV  ·  A TRAVELER AND A KRUISPUNT, ONE KOPPEL</text>
+  <line x1="440.0" y1="102.0" x2="560.0" y2="102.0" stroke="#d4af37" stroke-width="1" opacity="0.45"/>
+  <rect x="70.0" y="118.0" width="530.0" height="498.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <rect x="150.0" y="152.0" width="180.0" height="408.0" fill="#8d877c" opacity="0.07"/>
+  <rect x="330.0" y="360.0" width="246.0" height="200.0" fill="#efebe2" opacity="0.06"/>
+  <rect x="330.0" y="152.0" width="246.0" height="208.0" fill="#d4af37" opacity="0.13"/>
+  <line x1="150.0" y1="560.0" x2="150.0" y2="138.0" stroke="#8d877c" stroke-width="1.3" marker-end="url(#arrowFaint)"/>
+  <line x1="150.0" y1="560.0" x2="590.0" y2="560.0" stroke="#8d877c" stroke-width="1.3" marker-end="url(#arrowFaint)"/>
+  <text x="363.0" y="604.0" font-size="16.5" fill="#efebe2" text-anchor="middle">Reactie: the traveler’s Eigen</text>
+  <text x="150.0" y="580.0" font-size="14.5" fill="#8d877c" text-anchor="middle">Munt</text>
+  <text x="576.0" y="580.0" font-size="14.5" fill="#8d877c" text-anchor="middle">Kop</text>
+  <text x="96.0" y="356.0" font-size="16.5" fill="#efebe2" text-anchor="middle" transform="rotate(-90 96.0 356.0)">Signaal: the Kruispunt’s Eigen</text>
+  <text x="142.0" y="556.0" font-size="14.5" fill="#8d877c" text-anchor="end">Munt</text>
+  <text x="142.0" y="162.0" font-size="14.5" fill="#8d877c" text-anchor="end">Kop</text>
+  <line x1="330.0" y1="152.0" x2="330.0" y2="560.0" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.7"/>
+  <line x1="150.0" y1="360.0" x2="576.0" y2="360.0" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.7"/>
+  <text x="330.0" y="580.0" font-size="18" fill="#d4af37" text-anchor="middle"><tspan font-style="italic">θ</tspan></text>
+  <text x="142.0" y="366.0" font-size="18" fill="#d4af37" text-anchor="end"><tspan font-style="italic">θ</tspan></text>
+  <text x="240.0" y="452.0" font-size="17" fill="#cfcac0" text-anchor="middle" font-style="italic">nothing resolves,</text>
+  <text x="240.0" y="474.0" font-size="17" fill="#cfcac0" text-anchor="middle" font-style="italic">regardless of Signaal</text>
+  <text x="453.0" y="196.0" font-size="20" fill="#f1d27c" text-anchor="middle">Doorbraak (Y)</text>
+  <text x="453.0" y="220.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">two crossings live at one site;</text>
+  <text x="453.0" y="239.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">combine, cancel, or compound:</text>
+  <text x="453.0" y="258.0" font-size="14.5" fill="#cfcac0" text-anchor="middle" font-style="italic">left open</text>
+  <text x="453.0" y="430.0" font-size="20" fill="#efebe2" text-anchor="middle">Doorgang (O)</text>
+  <text x="453.0" y="454.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">the ordinary passage:</text>
+  <text x="453.0" y="473.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">the Vonk fires once,</text>
+  <text x="453.0" y="492.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">on the traveler’s side</text>
+  <path d="M214.0,278.0 L400.0,278.0" fill="none" stroke="#f1d27c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowGold)"/>
+  <path d="M416.0,282.0 L426.0,300.0 L400.0,312.0 L254.0,312.0" fill="none" stroke="#f1d27c" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrowGold)" stroke-dasharray="7 5"/>
+  <circle cx="330.0" cy="278.0" r="9.45" fill="none" stroke="#f1d27c" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="330.0" cy="278.0" r="4.5" fill="#f1d27c" filter="url(#glow)"/>
+  <circle cx="330.0" cy="312.0" r="9.45" fill="none" stroke="#f1d27c" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="330.0" cy="312.0" r="4.5" fill="#f1d27c" filter="url(#glow)"/>
+  <text x="214.0" y="266.0" font-size="14.5" fill="#f1d27c" font-style="italic">commits</text>
+  <text x="434.0" y="292.0" font-size="14.5" fill="#f1d27c" font-style="italic">reads the claim</text>
+  <text x="248.0" y="334.0" font-size="14.5" fill="#f1d27c" font-style="italic">withdraws</text>
+  <text x="240.0" y="186.0" font-size="19" fill="#f1d27c" text-anchor="middle">Weigering (P)</text>
+  <text x="240.0" y="208.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">two Vonken,</text>
+  <text x="240.0" y="227.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">nothing resolved</text>
+  <line x1="212.0" y1="520.0" x2="270.0" y2="520.0" stroke="#8d877c" stroke-width="1.2" marker-start="url(#arrowFaint)" marker-end="url(#arrowFaint)"/>
+  <text x="241.0" y="541.0" font-size="13.5" fill="#8d877c" text-anchor="middle" font-style="italic">moves freely</text>
+  <rect x="630.0" y="118.0" width="300.0" height="498.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="780.0" y="146.0" font-size="21" fill="#efebe2" text-anchor="middle">Every observation</text>
+  <text x="780.0" y="168.0" font-size="15.5" fill="#cfcac0" text-anchor="middle">is a Vermenigvuldiging</text>
+  <circle cx="780.0" cy="250.0" r="14.70" fill="none" stroke="#efebe2" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="780.0" cy="250.0" r="7" fill="#efebe2" filter="url(#glow)"/>
+  <circle cx="780.0" cy="440.0" r="14.70" fill="none" stroke="#f1d27c" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="780.0" cy="440.0" r="7" fill="#f1d27c" filter="url(#glow)"/>
+  <text x="780.0" y="222.0" font-size="16" fill="#efebe2" text-anchor="middle">observer = traveler</text>
+  <text x="780.0" y="288.0" font-size="14" fill="#cfcac0" text-anchor="middle">Eigen: Reactie, the measurement</text>
+  <text x="780.0" y="480.0" font-size="16" fill="#f1d27c" text-anchor="middle">observed = Kruispunt</text>
+  <text x="780.0" y="501.0" font-size="14" fill="#cfcac0" text-anchor="middle">Eigen: Signaal, the response</text>
+  <path d="M746.0,418.0 C716.0,345.0 716.0,345.0 746.0,302.0" fill="none" stroke="#cfcac0" stroke-width="1.6" marker-end="url(#arrowDim)"/>
+  <path d="M814.0,302.0 C844.0,345.0 844.0,345.0 814.0,418.0" fill="none" stroke="#d4af37" stroke-width="1.6" marker-end="url(#arrowGold)"/>
+  <text x="710.0" y="337.0" font-size="13.5" fill="#cfcac0" text-anchor="end">Reactie’s</text>
+  <text x="710.0" y="355.0" font-size="13.5" fill="#cfcac0" text-anchor="end">Echo of</text>
+  <text x="710.0" y="373.0" font-size="13.5" fill="#cfcac0" text-anchor="end">Signaal</text>
+  <text x="850.0" y="337.0" font-size="13.5" fill="#f1d27c">Signaal’s</text>
+  <text x="850.0" y="355.0" font-size="13.5" fill="#f1d27c">Echo of</text>
+  <text x="850.0" y="373.0" font-size="13.5" fill="#f1d27c">Reactie</text>
+  <text x="780.0" y="548.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">A bad Echo on either side:</text>
+  <text x="780.0" y="568.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">near-misses, false alarms,</text>
+  <text x="780.0" y="588.0" font-size="14.5" fill="#cfcac0" text-anchor="middle">a Doorbraak never registered.</text>
+  <text x="500.0" y="656.0" font-size="16" fill="#cfcac0" text-anchor="middle">Reactie is never mechanically blocked from committing. Nothing blocks the traveler; it withdraws.</text>
+  <text x="500.0" y="680.0" font-size="16" fill="#cfcac0" text-anchor="middle">Every crossing of a Drempel fires its Vonk: a Weigering costs the traveler two crossings and resolves nothing.</text>
+  <text x="500.0" y="704.0" font-size="13.5" fill="#8d877c" text-anchor="middle">Signaal and Reactie each move toward Kop and back toward Munt freely, any number of times.</text>
+</svg>
