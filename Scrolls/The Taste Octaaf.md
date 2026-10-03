@@ -1,4 +1,4 @@
-# The Echo of Origin: A PseudoScience Speelgoed Analysis of Locational Taste Enhancement
+# The Taste Octaaf
 
 **Mark Joseph Antonius Knippenberg / ScepraX**
 

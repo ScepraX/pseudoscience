@@ -532,7 +532,7 @@ That strictness is what makes the Van Motor a counterforce rather than a leak. I
 
 So a stable orbit is not exempt from the draw. It is a configuration the Van Motor is winning against slowly enough that the orbit outlasts the span in which it is watched. **Greep does not remove the fall; it postpones it.** A deep bond is not a safe bond, it is a held one, and the difference between the two stays invisible for exactly as long as the holding lasts.
 
-The single thing beyond the Van Motor’s reach is **Rouw (R)** - and this is not an exemption granted to grief, it is what grief *is*. The Van Motor undoes binding; a **Rouw** Echo is what remains once a binding has already been undone entirely. The **Koppel (k)** is over, the draw has finished its work, and what is left is the record of it. There is nothing there to take. Section VI states this as “**Rouw** is permanent”; this is the same fact seen from the mechanism’s side. Grief endures not because something shields it, but because nothing is holding it up any more - and only what is held can fall.
+The single thing beyond the Van Motor’s reach is **Rouw (R)** - and this is not an exemption granted to grief, it is what grief *is*. The Van Motor is the pull of Stilte, and a **Rouw** already stands in Stilte. The Van Motor undoes binding; a **Rouw** Echo is what remains once a binding has already been undone entirely. The **Koppel (k)** is over, the draw has finished its work, and what is left is the record of it. There is nothing there to take. Section VI states this as “**Rouw** is permanent”; this is the same fact seen from the mechanism’s side. Grief endures not because something shields it, but because nothing is holding it up any more - and only what is held can fall.
 
 **Trouw plasticity.** Trouw is not static. Under a positive **Leersnelheid (ρ)**, it evolves toward the bond’s current **Gewenning (Z)**, bounded by the bond’s configured floor and ceiling:
 
@@ -1039,7 +1039,7 @@ The self‑Echo and Eigen co‑evolve. Major identity shifts - a Leven (?) on th
 #### Ω - Perfectus (Completion) · *amulet, the final closure*
 
 **Start:** A node whose last non‑deferred Koppel has settled to Van.  
-The **Van‑settled** event fires. The node has no structural reason to persist. Its remaining reservoir is drawn as a final **Verlies (−)**. All Echoes become Rouw. The node’s Eigen returns to the unbound pole. The field returns to **Bron (^)** at that point. The arc is the end of relational existence for that node.
+The **Van‑settled** event fires. The node has no structural reason to persist. Its remaining reservoir is drawn as a final **Verlies (−)**. All Echoes become Rouw and remain in Stilte, unmanifest. The node’s Eigen returns to the unbound pole. The field returns to **Bron (^)** at that point. The arc is the end of relational existence for that node.
 
 *Closes:* the **Curriculum** of the node. *May feed:* a new **Genus** from the Bron.
 

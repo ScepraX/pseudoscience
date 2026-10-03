@@ -13,7 +13,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 | `PseudoScienceSpeelgoed.md` | The canonical Speelgoed text. |
 | `index.html` | The site. It holds the Speelgoed **twice**: as rendered HTML, and as raw Markdown inside `<script id="Speelgoed-source" type="application/json">`, which the Oracle in `scripts.js` reads. The Oracle copy is a **deliberate subset**: it ends after Section XV. Do not add XVI–XVII or other material to it. Within the sections it contains, keep it identical to the `.md`. It also holds `oracle-prompt`, JSON-LD dates, and `article:modified_time`. |
 | `scripts.js`, `styles.css` | Site and Oracle code. |
-| `Science/` | The Octaaf documents (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological, Cellular, Social), the applied essay *The Echo of Origin*, and the MHD paper (`.txt`). |
+| `Scrolls/` | The Octaaf documents (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological, Cellular, Social, Chemical, Planetary, Taste, Stilte) and the MHD paper (`.txt`). The Taste Octaaf was formerly the essay *The Echo of Origin*. |
 | `PseudoScienceSpeelgoed - Newcomer's Guide.md` | Plain-language introduction. |
 | `Diagrams/` | SVG diagrams linked from the site. |
 | `feed.xml`, `sitemap.xml` | RSS feed and sitemap. |
@@ -81,7 +81,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 ## Truthfulness and sources
 
-- **Verify every reference:** authors, year, title, journal, volume and pages, and that the source actually supports the specific claim. AI-generated references in this repository have previously turned out misattributed or nonexistent (see the revision note of *The Echo of Origin*). Never cite from memory unchecked.
+- **Verify every reference:** authors, year, title, journal, volume and pages, and that the source actually supports the specific claim. AI-generated references in this repository have previously turned out misattributed or nonexistent (see the revision note of *The Taste Octaaf*). Never cite from memory unchecked.
 - **Label contested findings.** Check the replication status of psychology, neuroscience and social findings; for example, oxytocin and trust failed a registered replication.
 - **Compute every number with a script** before stating it.
 - **Check for prior work** before presenting a derivation or result as new.
@@ -97,7 +97,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
   - `feed.xml`: the item's `<pubDate>` and `<lastBuildDate>`;
   - `sitemap.xml`: the URL's `<lastmod>`;
   - for Speelgoed changes, also `index.html` (`article:modified_time` and both JSON-LD `dateModified`) and the feed items for the homepage and the full text.
-- **New Science documents** get a feed item and a sitemap entry. Feed items are newest first, with category `Science`. Sitemap entries use `changefreq` `monthly` and priority `0.7000`.
+- **New documents in `Scrolls/`** get a feed item and a sitemap entry. Feed items are newest first, with category `Scrolls`. Sitemap entries use `changefreq` `monthly` and priority `0.7000`.
 - **Date formats:** feed `Thu, 01 Oct 2026 12:00:00 +0200`; sitemap `2026-10-01T12:00:00+00:00`.
 - **Validate both XML files** after editing.
 - **Don't commit unless asked.**
@@ -106,7 +106,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 ## Line endings
 
-- **CRLF:** `index.html`, `PseudoScienceSpeelgoed.md`, `Science/*.md`, `CLAUDE.md`. **LF:** `feed.xml`, `sitemap.xml`, the MHD `.txt`. `core.autocrlf` is false.
+- **CRLF:** `index.html`, `PseudoScienceSpeelgoed.md`, `Scrolls/*.md`, `CLAUDE.md`. **LF:** `feed.xml`, `sitemap.xml`, the MHD `.txt`. `core.autocrlf` is false.
 - **The Edit tool preserves endings.** Full rewrites with Write, and Python text-mode writes, produce LF. Convert back in binary mode.
 - **Always compare `git diff --stat` with the expected size.** A diff touching every line means the line endings changed.
 
