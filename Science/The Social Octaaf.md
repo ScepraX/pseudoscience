@@ -192,54 +192,54 @@ That is the *how*. The *why* is for the Speelgoed to say.
 
 ## References
 
-Almaatouq, A., Radaelli, L., Pentland, A., & Shmueli, E. (2016). Are you your friends' friend? Poor perception of friendship ties limits the ability to promote behavioral change. *PLoS ONE*, 11(3), e0151588. doi:10.1371/journal.pone.0151588
+Almaatouq, A., Radaelli, L., Pentland, A., & Shmueli, E. (2016). Are you your friends' friend? Poor perception of friendship ties limits the ability to promote behavioral change. *PLoS ONE*, 11(3), e0151588. [doi:10.1371/journal.pone.0151588](https://doi.org/10.1371/journal.pone.0151588)
 
-Antal, T., Krapivsky, P. L., & Redner, S. (2005). Dynamics of social balance on networks. *Physical Review E*, 72(3), 036121. doi:10.1103/PhysRevE.72.036121
+Antal, T., Krapivsky, P. L., & Redner, S. (2005). Dynamics of social balance on networks. *Physical Review E*, 72(3), 036121. [doi:10.1103/PhysRevE.72.036121](https://doi.org/10.1103/PhysRevE.72.036121)
 
-Cartwright, D., & Harary, F. (1956). Structural balance: A generalization of Heider's theory. *Psychological Review*, 63(5), 277-293. doi:10.1037/h0046049
+Cartwright, D., & Harary, F. (1956). Structural balance: A generalization of Heider's theory. *Psychological Review*, 63(5), 277-293. [doi:10.1037/h0046049](https://doi.org/10.1037/h0046049)
 
-Centola, D. (2010). The spread of behavior in an online social network experiment. *Science*, 329(5996), 1194-1197. doi:10.1126/science.1185231
+Centola, D. (2010). The spread of behavior in an online social network experiment. *Science*, 329(5996), 1194-1197. [doi:10.1126/science.1185231](https://doi.org/10.1126/science.1185231)
 
-Centola, D., Becker, J., Brackbill, D., & Baronchelli, A. (2018). Experimental evidence for tipping points in social convention. *Science*, 360(6393), 1116-1119. doi:10.1126/science.aas8827
+Centola, D., Becker, J., Brackbill, D., & Baronchelli, A. (2018). Experimental evidence for tipping points in social convention. *Science*, 360(6393), 1116-1119. [doi:10.1126/science.aas8827](https://doi.org/10.1126/science.aas8827)
 
-Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size and language in humans. *Behavioral and Brain Sciences*, 16(4), 681-694. doi:10.1017/S0140525X00032325
+Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size and language in humans. *Behavioral and Brain Sciences*, 16(4), 681-694. [doi:10.1017/S0140525X00032325](https://doi.org/10.1017/S0140525X00032325)
 
-Dunbar, R. I. M., Arnaboldi, V., Conti, M., & Passarella, A. (2015). The structure of online social networks mirrors those in the offline world. *Social Networks*, 43, 39-47. doi:10.1016/j.socnet.2015.04.005
+Dunbar, R. I. M., Arnaboldi, V., Conti, M., & Passarella, A. (2015). The structure of online social networks mirrors those in the offline world. *Social Networks*, 43, 39-47. [doi:10.1016/j.socnet.2015.04.005](https://doi.org/10.1016/j.socnet.2015.04.005)
 
-Granovetter, M. S. (1973). The strength of weak ties. *American Journal of Sociology*, 78(6), 1360-1380. doi:10.1086/225469
+Granovetter, M. S. (1973). The strength of weak ties. *American Journal of Sociology*, 78(6), 1360-1380. [doi:10.1086/225469](https://doi.org/10.1086/225469)
 
-Granovetter, M. (1978). Threshold models of collective behavior. *American Journal of Sociology*, 83(6), 1420-1443. doi:10.1086/226707
+Granovetter, M. (1978). Threshold models of collective behavior. *American Journal of Sociology*, 83(6), 1420-1443. [doi:10.1086/226707](https://doi.org/10.1086/226707)
 
-Heider, F. (1946). Attitudes and cognitive organization. *The Journal of Psychology*, 21(1), 107-112. doi:10.1080/00223980.1946.9917275
+Heider, F. (1946). Attitudes and cognitive organization. *The Journal of Psychology*, 21(1), 107-112. [doi:10.1080/00223980.1946.9917275](https://doi.org/10.1080/00223980.1946.9917275)
 
-Hill, R. A., & Dunbar, R. I. M. (2003). Social network size in humans. *Human Nature*, 14(1), 53-72. doi:10.1007/s12110-003-1016-y
+Hill, R. A., & Dunbar, R. I. M. (2003). Social network size in humans. *Human Nature*, 14(1), 53-72. [doi:10.1007/s12110-003-1016-y](https://doi.org/10.1007/s12110-003-1016-y)
 
-Kuran, T. (1991). Now out of never: The element of surprise in the East European revolution of 1989. *World Politics*, 44(1), 7-48. doi:10.2307/2010422
+Kuran, T. (1991). Now out of never: The element of surprise in the East European revolution of 1989. *World Politics*, 44(1), 7-48. [doi:10.2307/2010422](https://doi.org/10.2307/2010422)
 
-Leskovec, J., Huttenlocher, D., & Kleinberg, J. (2010). Signed networks in social media. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1361-1370). doi:10.1145/1753326.1753532
+Leskovec, J., Huttenlocher, D., & Kleinberg, J. (2010). Signed networks in social media. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1361-1370). [doi:10.1145/1753326.1753532](https://doi.org/10.1145/1753326.1753532)
 
-Lindenfors, P., Wartel, A., & Lind, J. (2021). 'Dunbar's number' deconstructed. *Biology Letters*, 17(5), 20210158. doi:10.1098/rsbl.2021.0158
+Lindenfors, P., Wartel, A., & Lind, J. (2021). 'Dunbar's number' deconstructed. *Biology Letters*, 17(5), 20210158. [doi:10.1098/rsbl.2021.0158](https://doi.org/10.1098/rsbl.2021.0158)
 
-Marvel, S. A., Strogatz, S. H., & Kleinberg, J. M. (2009). Energy landscape of social balance. *Physical Review Letters*, 103(19), 198701. doi:10.1103/PhysRevLett.103.198701
+Marvel, S. A., Strogatz, S. H., & Kleinberg, J. M. (2009). Energy landscape of social balance. *Physical Review Letters*, 103(19), 198701. [doi:10.1103/PhysRevLett.103.198701](https://doi.org/10.1103/PhysRevLett.103.198701)
 
-Nunn, N., & Wantchekon, L. (2011). The slave trade and the origins of mistrust in Africa. *American Economic Review*, 101(7), 3221-3252. doi:10.1257/aer.101.7.3221
+Nunn, N., & Wantchekon, L. (2011). The slave trade and the origins of mistrust in Africa. *American Economic Review*, 101(7), 3221-3252. [doi:10.1257/aer.101.7.3221](https://doi.org/10.1257/aer.101.7.3221)
 
-Prentice, D. A., & Miller, D. T. (1993). Pluralistic ignorance and alcohol use on campus: Some consequences of misperceiving the social norm. *Journal of Personality and Social Psychology*, 64(2), 243-256. doi:10.1037/0022-3514.64.2.243
+Prentice, D. A., & Miller, D. T. (1993). Pluralistic ignorance and alcohol use on campus: Some consequences of misperceiving the social norm. *Journal of Personality and Social Psychology*, 64(2), 243-256. [doi:10.1037/0022-3514.64.2.243](https://doi.org/10.1037/0022-3514.64.2.243)
 
-Rajkumar, K., Saint-Jacques, G., Bojinov, I., Brynjolfsson, E., & Aral, S. (2022). A causal test of the strength of weak ties. *Science*, 377(6612), 1304-1310. doi:10.1126/science.abl4476
+Rajkumar, K., Saint-Jacques, G., Bojinov, I., Brynjolfsson, E., & Aral, S. (2022). A causal test of the strength of weak ties. *Science*, 377(6612), 1304-1310. [doi:10.1126/science.abl4476](https://doi.org/10.1126/science.abl4476)
 
-Roberts, S. G. B., & Dunbar, R. I. M. (2015). Managing relationship decay: Network, gender, and contextual effects. *Human Nature*, 26(4), 426-450. doi:10.1007/s12110-015-9242-7
+Roberts, S. G. B., & Dunbar, R. I. M. (2015). Managing relationship decay: Network, gender, and contextual effects. *Human Nature*, 26(4), 426-450. [doi:10.1007/s12110-015-9242-7](https://doi.org/10.1007/s12110-015-9242-7)
 
-Saramäki, J., Leicht, E. A., López, E., Roberts, S. G. B., Reed-Tsochas, F., & Dunbar, R. I. M. (2014). Persistence of social signatures in human communication. *Proceedings of the National Academy of Sciences*, 111(3), 942-947. doi:10.1073/pnas.1308540110
+Saramäki, J., Leicht, E. A., López, E., Roberts, S. G. B., Reed-Tsochas, F., & Dunbar, R. I. M. (2014). Persistence of social signatures in human communication. *Proceedings of the National Academy of Sciences*, 111(3), 942-947. [doi:10.1073/pnas.1308540110](https://doi.org/10.1073/pnas.1308540110)
 
-Schelling, T. C. (1971). Dynamic models of segregation. *The Journal of Mathematical Sociology*, 1(2), 143-186. doi:10.1080/0022250X.1971.9989794
+Schelling, T. C. (1971). Dynamic models of segregation. *The Journal of Mathematical Sociology*, 1(2), 143-186. [doi:10.1080/0022250X.1971.9989794](https://doi.org/10.1080/0022250X.1971.9989794)
 
-Szell, M., Lambiotte, R., & Thurner, S. (2010). Multirelational organization of large-scale social networks in an online world. *Proceedings of the National Academy of Sciences*, 107(31), 13636-13641. doi:10.1073/pnas.1004008107
+Szell, M., Lambiotte, R., & Thurner, S. (2010). Multirelational organization of large-scale social networks in an online world. *Proceedings of the National Academy of Sciences*, 107(31), 13636-13641. [doi:10.1073/pnas.1004008107](https://doi.org/10.1073/pnas.1004008107)
 
-Voigtländer, N., & Voth, H.-J. (2012). Persecution perpetuated: The medieval origins of anti-Semitic violence in Nazi Germany. *The Quarterly Journal of Economics*, 127(3), 1339-1392. doi:10.1093/qje/qjs019
+Voigtländer, N., & Voth, H.-J. (2012). Persecution perpetuated: The medieval origins of anti-Semitic violence in Nazi Germany. *The Quarterly Journal of Economics*, 127(3), 1339-1392. [doi:10.1093/qje/qjs019](https://doi.org/10.1093/qje/qjs019)
 
-Xie, J., Sreenivasan, S., Korniss, G., Zhang, W., Lim, C., & Szymanski, B. K. (2011). Social consensus through the influence of committed minorities. *Physical Review E*, 84(1), 011130. doi:10.1103/PhysRevE.84.011130
+Xie, J., Sreenivasan, S., Korniss, G., Zhang, W., Lim, C., & Szymanski, B. K. (2011). Social consensus through the influence of committed minorities. *Physical Review E*, 84(1), 011130. [doi:10.1103/PhysRevE.84.011130](https://doi.org/10.1103/PhysRevE.84.011130)
 
-Zhou, W.-X., Sornette, D., Hill, R. A., & Dunbar, R. I. M. (2005). Discrete hierarchical organization of social group sizes. *Proceedings of the Royal Society B*, 272(1561), 439-444. doi:10.1098/rspb.2004.2970
+Zhou, W.-X., Sornette, D., Hill, R. A., & Dunbar, R. I. M. (2005). Discrete hierarchical organization of social group sizes. *Proceedings of the Royal Society B*, 272(1561), 439-444. [doi:10.1098/rspb.2004.2970](https://doi.org/10.1098/rspb.2004.2970)
 
 ---

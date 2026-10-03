@@ -307,88 +307,88 @@ That is the *how*. The *why* is for the Speelgoed to say.
 
 ## References
 
-Acuña, M. H., Connerney, J. E. P., Ness, N. F., Lin, R. P., Mitchell, D., Carlson, C. W., McFadden, J., Anderson, K. A., Rème, H., Mazelle, C., Vignes, D., Wasilewski, P., & Cloutier, P. (1999). Global distribution of crustal magnetization discovered by the Mars Global Surveyor MAG/ER experiment. *Science*, 284(5415), 790-793. doi:10.1126/science.284.5415.790
+Acuña, M. H., Connerney, J. E. P., Ness, N. F., Lin, R. P., Mitchell, D., Carlson, C. W., McFadden, J., Anderson, K. A., Rème, H., Mazelle, C., Vignes, D., Wasilewski, P., & Cloutier, P. (1999). Global distribution of crustal magnetization discovered by the Mars Global Surveyor MAG/ER experiment. *Science*, 284(5415), 790-793. [doi:10.1126/science.284.5415.790](https://doi.org/10.1126/science.284.5415.790)
 
-Berhanu, M., et al. (2007). Magnetic field reversals in an experimental turbulent dynamo. *Europhysics Letters*, 77(5), 59001. doi:10.1209/0295-5075/77/59001
+Berhanu, M., et al. (2007). Magnetic field reversals in an experimental turbulent dynamo. *Europhysics Letters*, 77(5), 59001. [doi:10.1209/0295-5075/77/59001](https://doi.org/10.1209/0295-5075/77/59001)
 
-Budyko, M. I. (1969). The effect of solar radiation variations on the climate of the Earth. *Tellus*, 21(5), 611-619. doi:10.1111/j.2153-3490.1969.tb00466.x
+Budyko, M. I. (1969). The effect of solar radiation variations on the climate of the Earth. *Tellus*, 21(5), 611-619. [doi:10.1111/j.2153-3490.1969.tb00466.x](https://doi.org/10.1111/j.2153-3490.1969.tb00466.x)
 
-Canup, R. M., & Asphaug, E. (2001). Origin of the Moon in a giant impact near the end of the Earth's formation. *Nature*, 412(6848), 708-712. doi:10.1038/35089010
+Canup, R. M., & Asphaug, E. (2001). Origin of the Moon in a giant impact near the end of the Earth's formation. *Nature*, 412(6848), 708-712. [doi:10.1038/35089010](https://doi.org/10.1038/35089010)
 
-Colbourn, G., Ridgwell, A., & Lenton, T. M. (2015). The time scale of the silicate weathering negative feedback on atmospheric CO₂. *Global Biogeochemical Cycles*, 29(5), 583-596. doi:10.1002/2014GB005054
+Colbourn, G., Ridgwell, A., & Lenton, T. M. (2015). The time scale of the silicate weathering negative feedback on atmospheric CO₂. *Global Biogeochemical Cycles*, 29(5), 583-596. [doi:10.1002/2014GB005054](https://doi.org/10.1002/2014GB005054)
 
-Constable, C. (2000). On rates of occurrence of geomagnetic reversals. *Physics of the Earth and Planetary Interiors*, 118(3-4), 181-193. doi:10.1016/S0031-9201(99)00139-9
+Constable, C. (2000). On rates of occurrence of geomagnetic reversals. *Physics of the Earth and Planetary Interiors*, 118(3-4), 181-193. [doi:10.1016/S0031-9201(99)00139-9](https://doi.org/10.1016/S0031-9201%2899%2900139-9)
 
-Davies, J. H., & Davies, D. R. (2010). Earth's surface heat flux. *Solid Earth*, 1(1), 5-24. doi:10.5194/se-1-5-2010
+Davies, J. H., & Davies, D. R. (2010). Earth's surface heat flux. *Solid Earth*, 1(1), 5-24. [doi:10.5194/se-1-5-2010](https://doi.org/10.5194/se-1-5-2010)
 
-Donahue, T. M., Hoffman, J. H., Hodges, R. R., & Watson, A. J. (1982). Venus was wet: A measurement of the ratio of deuterium to hydrogen. *Science*, 216(4546), 630-633. doi:10.1126/science.216.4546.630
+Donahue, T. M., Hoffman, J. H., Hodges, R. R., & Watson, A. J. (1982). Venus was wet: A measurement of the ratio of deuterium to hydrogen. *Science*, 216(4546), 630-633. [doi:10.1126/science.216.4546.630](https://doi.org/10.1126/science.216.4546.630)
 
-Feulner, G. (2012). The faint young Sun problem. *Reviews of Geophysics*, 50(2), RG2006. doi:10.1029/2011RG000375
+Feulner, G. (2012). The faint young Sun problem. *Reviews of Geophysics*, 50(2), RG2006. [doi:10.1029/2011RG000375](https://doi.org/10.1029/2011RG000375)
 
-Forster, P., et al. (2021). The Earth's energy budget, climate feedbacks, and climate sensitivity. In *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (pp. 923-1054). Cambridge: Cambridge University Press. doi:10.1017/9781009157896.009
+Forster, P., et al. (2021). The Earth's energy budget, climate feedbacks, and climate sensitivity. In *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change* (pp. 923-1054). Cambridge: Cambridge University Press. [doi:10.1017/9781009157896.009](https://doi.org/10.1017/9781009157896.009)
 
-Glatzmaier, G. A., Coe, R. S., Hongre, L., & Roberts, P. H. (1999). The role of the Earth's mantle in controlling the frequency of geomagnetic reversals. *Nature*, 401(6756), 885-890. doi:10.1038/44776
+Glatzmaier, G. A., Coe, R. S., Hongre, L., & Roberts, P. H. (1999). The role of the Earth's mantle in controlling the frequency of geomagnetic reversals. *Nature*, 401(6756), 885-890. [doi:10.1038/44776](https://doi.org/10.1038/44776)
 
-Goldblatt, C., Robinson, T. D., Zahnle, K. J., & Crisp, D. (2013). Low simulated radiation limit for runaway greenhouse climates. *Nature Geoscience*, 6(8), 661-667. doi:10.1038/ngeo1892
+Goldblatt, C., Robinson, T. D., Zahnle, K. J., & Crisp, D. (2013). Low simulated radiation limit for runaway greenhouse climates. *Nature Geoscience*, 6(8), 661-667. [doi:10.1038/ngeo1892](https://doi.org/10.1038/ngeo1892)
 
-Gough, D. O. (1981). Solar interior structure and luminosity variations. *Solar Physics*, 74(1), 21-34. doi:10.1007/BF00151270
+Gough, D. O. (1981). Solar interior structure and luminosity variations. *Solar Physics*, 74(1), 21-34. [doi:10.1007/BF00151270](https://doi.org/10.1007/BF00151270)
 
-Gunell, H., Maggiolo, R., Nilsson, H., Stenberg Wieser, G., Slapak, R., Lindkvist, J., Hamrin, M., & De Keyser, J. (2018). Why an intrinsic magnetic field does not protect a planet against atmospheric escape. *Astronomy & Astrophysics*, 614, L3. doi:10.1051/0004-6361/201832934
+Gunell, H., Maggiolo, R., Nilsson, H., Stenberg Wieser, G., Slapak, R., Lindkvist, J., Hamrin, M., & De Keyser, J. (2018). Why an intrinsic magnetic field does not protect a planet against atmospheric escape. *Astronomy & Astrophysics*, 614, L3. [doi:10.1051/0004-6361/201832934](https://doi.org/10.1051/0004-6361/201832934)
 
-Hasselmann, K. (1976). Stochastic climate models. Part I. Theory. *Tellus*, 28(6), 473-485. doi:10.1111/j.2153-3490.1976.tb00696.x
+Hasselmann, K. (1976). Stochastic climate models. Part I. Theory. *Tellus*, 28(6), 473-485. [doi:10.1111/j.2153-3490.1976.tb00696.x](https://doi.org/10.1111/j.2153-3490.1976.tb00696.x)
 
-Hoffman, P. F., Kaufman, A. J., Halverson, G. P., & Schrag, D. P. (1998). A Neoproterozoic snowball Earth. *Science*, 281(5381), 1342-1346. doi:10.1126/science.281.5381.1342
+Hoffman, P. F., Kaufman, A. J., Halverson, G. P., & Schrag, D. P. (1998). A Neoproterozoic snowball Earth. *Science*, 281(5381), 1342-1346. [doi:10.1126/science.281.5381.1342](https://doi.org/10.1126/science.281.5381.1342)
 
-Ida, S., Canup, R. M., & Stewart, G. R. (1997). Lunar accretion from an impact-generated disk. *Nature*, 389(6649), 353-357. doi:10.1038/38669
+Ida, S., Canup, R. M., & Stewart, G. R. (1997). Lunar accretion from an impact-generated disk. *Nature*, 389(6649), 353-357. [doi:10.1038/38669](https://doi.org/10.1038/38669)
 
-KamLAND Collaboration (2011). Partial radiogenic heat model for Earth revealed by geoneutrino measurements. *Nature Geoscience*, 4(9), 647-651. doi:10.1038/ngeo1205
+KamLAND Collaboration (2011). Partial radiogenic heat model for Earth revealed by geoneutrino measurements. *Nature Geoscience*, 4(9), 647-651. [doi:10.1038/ngeo1205](https://doi.org/10.1038/ngeo1205)
 
-Kasting, J. F., Whitmire, D. P., & Reynolds, R. T. (1993). Habitable zones around main sequence stars. *Icarus*, 101(1), 108-128. doi:10.1006/icar.1993.1010
+Kasting, J. F., Whitmire, D. P., & Reynolds, R. T. (1993). Habitable zones around main sequence stars. *Icarus*, 101(1), 108-128. [doi:10.1006/icar.1993.1010](https://doi.org/10.1006/icar.1993.1010)
 
-Kirchner, J. W. (2003). The Gaia hypothesis: Conjectures and refutations. *Climatic Change*, 58(1-2), 21-45. doi:10.1023/A:1023494111532
+Kirchner, J. W. (2003). The Gaia hypothesis: Conjectures and refutations. *Climatic Change*, 58(1-2), 21-45. [doi:10.1023/A:1023494111532](https://doi.org/10.1023/A:1023494111532)
 
-Kopp, G., & Lean, J. L. (2011). A new, lower value of total solar irradiance: Evidence and climate significance. *Geophysical Research Letters*, 38(1), L01706. doi:10.1029/2010GL045777
+Kopp, G., & Lean, J. L. (2011). A new, lower value of total solar irradiance: Evidence and climate significance. *Geophysical Research Letters*, 38(1), L01706. [doi:10.1029/2010GL045777](https://doi.org/10.1029/2010GL045777)
 
-Kopparapu, R. K., Ramirez, R., Kasting, J. F., Eymet, V., Robinson, T. D., Mahadevan, S., Terrien, R. C., Domagal-Goldman, S., Meadows, V., & Deshpande, R. (2013). Habitable zones around main-sequence stars: New estimates. *The Astrophysical Journal*, 765(2), 131. doi:10.1088/0004-637X/765/2/131
+Kopparapu, R. K., Ramirez, R., Kasting, J. F., Eymet, V., Robinson, T. D., Mahadevan, S., Terrien, R. C., Domagal-Goldman, S., Meadows, V., & Deshpande, R. (2013). Habitable zones around main-sequence stars: New estimates. *The Astrophysical Journal*, 765(2), 131. [doi:10.1088/0004-637X/765/2/131](https://doi.org/10.1088/0004-637X/765/2/131)
 
-Leconte, J., Forget, F., Charnay, B., Wordsworth, R., & Pottier, A. (2013). Increased insolation threshold for runaway greenhouse processes on Earth-like planets. *Nature*, 504(7479), 268-271. doi:10.1038/nature12827
+Leconte, J., Forget, F., Charnay, B., Wordsworth, R., & Pottier, A. (2013). Increased insolation threshold for runaway greenhouse processes on Earth-like planets. *Nature*, 504(7479), 268-271. [doi:10.1038/nature12827](https://doi.org/10.1038/nature12827)
 
-Lineweaver, C. H., & Norman, M. (2010). The potato radius: A lower minimum size for dwarf planets. arXiv:1004.1091.
+Lineweaver, C. H., & Norman, M. (2010). The potato radius: A lower minimum size for dwarf planets. [arXiv:1004.1091](https://arxiv.org/abs/1004.1091).
 
-Lovelock, J. E., & Margulis, L. (1974). Atmospheric homeostasis by and for the biosphere: The Gaia hypothesis. *Tellus*, 26(1-2), 2-10. doi:10.1111/j.2153-3490.1974.tb01946.x
+Lovelock, J. E., & Margulis, L. (1974). Atmospheric homeostasis by and for the biosphere: The Gaia hypothesis. *Tellus*, 26(1-2), 2-10. [doi:10.1111/j.2153-3490.1974.tb01946.x](https://doi.org/10.1111/j.2153-3490.1974.tb01946.x)
 
-Lüthi, D., Le Floch, M., Bereiter, B., Blunier, T., Barnola, J.-M., Siegenthaler, U., Raynaud, D., Jouzel, J., Fischer, H., Kawamura, K., & Stocker, T. F. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. *Nature*, 453(7193), 379-382. doi:10.1038/nature06949
+Lüthi, D., Le Floch, M., Bereiter, B., Blunier, T., Barnola, J.-M., Siegenthaler, U., Raynaud, D., Jouzel, J., Fischer, H., Kawamura, K., & Stocker, T. F. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. *Nature*, 453(7193), 379-382. [doi:10.1038/nature06949](https://doi.org/10.1038/nature06949)
 
-Molina-Cardín, A., Dinis, L., & Osete, M. L. (2021). Simple stochastic model for geomagnetic excursions and reversals reproduces the temporal asymmetry of the axial dipole moment. *Proceedings of the National Academy of Sciences*, 118(10), e2017696118. doi:10.1073/pnas.2017696118
+Molina-Cardín, A., Dinis, L., & Osete, M. L. (2021). Simple stochastic model for geomagnetic excursions and reversals reproduces the temporal asymmetry of the axial dipole moment. *Proceedings of the National Academy of Sciences*, 118(10), e2017696118. [doi:10.1073/pnas.2017696118](https://doi.org/10.1073/pnas.2017696118)
 
-Monchaux, R., et al. (2007). Generation of a magnetic field by dynamo action in a turbulent flow of liquid sodium. *Physical Review Letters*, 98(4), 044502. doi:10.1103/PhysRevLett.98.044502
+Monchaux, R., et al. (2007). Generation of a magnetic field by dynamo action in a turbulent flow of liquid sodium. *Physical Review Letters*, 98(4), 044502. [doi:10.1103/PhysRevLett.98.044502](https://doi.org/10.1103/PhysRevLett.98.044502)
 
-Müller, R. D., Sdrolias, M., Gaina, C., & Roest, W. R. (2008). Age, spreading rates, and spreading asymmetry of the world's ocean crust. *Geochemistry, Geophysics, Geosystems*, 9(4), Q04006. doi:10.1029/2007GC001743
+Müller, R. D., Sdrolias, M., Gaina, C., & Roest, W. R. (2008). Age, spreading rates, and spreading asymmetry of the world's ocean crust. *Geochemistry, Geophysics, Geosystems*, 9(4), Q04006. [doi:10.1029/2007GC001743](https://doi.org/10.1029/2007GC001743)
 
-Rahmstorf, S., et al. (2005). Thermohaline circulation hysteresis: A model intercomparison. *Geophysical Research Letters*, 32(23), L23605. doi:10.1029/2005GL023655
+Rahmstorf, S., et al. (2005). Thermohaline circulation hysteresis: A model intercomparison. *Geophysical Research Letters*, 32(23), L23605. [doi:10.1029/2005GL023655](https://doi.org/10.1029/2005GL023655)
 
-Sagan, C., & Mullen, G. (1972). Earth and Mars: Evolution of atmospheres and surface temperatures. *Science*, 177(4043), 52-56. doi:10.1126/science.177.4043.52
+Sagan, C., & Mullen, G. (1972). Earth and Mars: Evolution of atmospheres and surface temperatures. *Science*, 177(4043), 52-56. [doi:10.1126/science.177.4043.52](https://doi.org/10.1126/science.177.4043.52)
 
-Sellers, W. D. (1969). A global climatic model based on the energy balance of the earth-atmosphere system. *Journal of Applied Meteorology*, 8(3), 392-400. doi:10.1175/1520-0450(1969)008<0392:AGCMBO>2.0.CO;2
+Sellers, W. D. (1969). A global climatic model based on the energy balance of the earth-atmosphere system. *Journal of Applied Meteorology*, 8(3), 392-400. [doi:10.1175/1520-0450(1969)008\<0392:AGCMBO\>2.0.CO;2](https://doi.org/10.1175/1520-0450%281969%29008%3C0392:AGCMBO%3E2.0.CO;2)
 
-Singer, B. S., Jicha, B. R., Mochizuki, N., & Coe, R. S. (2019). Synchronizing volcanic, sedimentary, and ice core records of Earth's last magnetic polarity reversal. *Science Advances*, 5(8), eaaw4621. doi:10.1126/sciadv.aaw4621
+Singer, B. S., Jicha, B. R., Mochizuki, N., & Coe, R. S. (2019). Synchronizing volcanic, sedimentary, and ice core records of Earth's last magnetic polarity reversal. *Science Advances*, 5(8), eaaw4621. [doi:10.1126/sciadv.aaw4621](https://doi.org/10.1126/sciadv.aaw4621)
 
-Stevenson, D. J. (2003). Planetary magnetic fields. *Earth and Planetary Science Letters*, 208(1-2), 1-11. doi:10.1016/S0012-821X(02)01126-3
+Stevenson, D. J. (2003). Planetary magnetic fields. *Earth and Planetary Science Letters*, 208(1-2), 1-11. [doi:10.1016/S0012-821X(02)01126-3](https://doi.org/10.1016/S0012-821X%2802%2901126-3)
 
-Stommel, H. (1961). Thermohaline convection with two stable regimes of flow. *Tellus*, 13(2), 224-230. doi:10.3402/tellusb.v13i2.12985
+Stommel, H. (1961). Thermohaline convection with two stable regimes of flow. *Tellus*, 13(2), 224-230. [doi:10.3402/tellusb.v13i2.12985](https://doi.org/10.3402/tellusb.v13i2.12985)
 
-Turbet, M., Bolmont, E., Chaverot, G., Ehrenreich, D., Leconte, J., & Marcq, E. (2021). Day-night cloud asymmetry prevents early oceans on Venus but not on Earth. *Nature*, 598(7880), 276-280. doi:10.1038/s41586-021-03873-w
+Turbet, M., Bolmont, E., Chaverot, G., Ehrenreich, D., Leconte, J., & Marcq, E. (2021). Day-night cloud asymmetry prevents early oceans on Venus but not on Earth. *Nature*, 598(7880), 276-280. [doi:10.1038/s41586-021-03873-w](https://doi.org/10.1038/s41586-021-03873-w)
 
-Valet, J.-P., Meynadier, L., & Guyodo, Y. (2005). Geomagnetic dipole strength and reversal rate over the past two million years. *Nature*, 435(7043), 802-805. doi:10.1038/nature03674
+Valet, J.-P., Meynadier, L., & Guyodo, Y. (2005). Geomagnetic dipole strength and reversal rate over the past two million years. *Nature*, 435(7043), 802-805. [doi:10.1038/nature03674](https://doi.org/10.1038/nature03674)
 
-van der Ent, R. J., & Tuinenburg, O. A. (2017). The residence time of water in the atmosphere revisited. *Hydrology and Earth System Sciences*, 21(2), 779-790. doi:10.5194/hess-21-779-2017
+van der Ent, R. J., & Tuinenburg, O. A. (2017). The residence time of water in the atmosphere revisited. *Hydrology and Earth System Sciences*, 21(2), 779-790. [doi:10.5194/hess-21-779-2017](https://doi.org/10.5194/hess-21-779-2017)
 
-Vine, F. J., & Matthews, D. H. (1963). Magnetic anomalies over oceanic ridges. *Nature*, 199(4897), 947-949. doi:10.1038/199947a0
+Vine, F. J., & Matthews, D. H. (1963). Magnetic anomalies over oceanic ridges. *Nature*, 199(4897), 947-949. [doi:10.1038/199947a0](https://doi.org/10.1038/199947a0)
 
-Walker, J. C. G., Hays, P. B., & Kasting, J. F. (1981). A negative feedback mechanism for the long-term stabilization of Earth's surface temperature. *Journal of Geophysical Research: Oceans*, 86(C10), 9776-9782. doi:10.1029/JC086iC10p09776
+Walker, J. C. G., Hays, P. B., & Kasting, J. F. (1981). A negative feedback mechanism for the long-term stabilization of Earth's surface temperature. *Journal of Geophysical Research: Oceans*, 86(C10), 9776-9782. [doi:10.1029/JC086iC10p09776](https://doi.org/10.1029/JC086iC10p09776)
 
-Williams, D. R. (2024). *Earth Fact Sheet*. NASA Goddard Space Flight Center. https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+Williams, D. R. (2024). *Earth Fact Sheet*. NASA Goddard Space Flight Center. [https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html](https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html)
 
-Zhang, J., Dauphas, N., Davis, A. M., Leya, I., & Fedkin, A. (2012). The proto-Earth as a significant source of lunar material. *Nature Geoscience*, 5(4), 251-255. doi:10.1038/ngeo1429
+Zhang, J., Dauphas, N., Davis, A. M., Leya, I., & Fedkin, A. (2012). The proto-Earth as a significant source of lunar material. *Nature Geoscience*, 5(4), 251-255. [doi:10.1038/ngeo1429](https://doi.org/10.1038/ngeo1429)
 
 ---

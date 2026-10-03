@@ -210,62 +210,62 @@ This version replaces the essay of 23 September 2026. It was rewritten from the 
 
 ## References
 
-Barsalou, L. W. (2003). Situated simulation in the human conceptual system. *Language and Cognitive Processes*, 18(5-6), 513-562.
+Barsalou, L. W. (2003). Situated simulation in the human conceptual system. *Language and Cognitive Processes*, 18(5-6), 513-562. [doi:10.1080/01690960344000026](https://doi.org/10.1080/01690960344000026)
 
-Bryła, P. (2015). The role of appeals to tradition in origin food marketing. A survey among Polish consumers. *Appetite*, 91, 302-310.
+Bryła, P. (2015). The role of appeals to tradition in origin food marketing. A survey among Polish consumers. *Appetite*, 91, 302-310. [doi:10.1016/j.appet.2015.04.056](https://doi.org/10.1016/j.appet.2015.04.056)
 
-Bryła, P. (2017). The perception of EU quality signs for origin and organic food products among Polish consumers. *Quality Assurance and Safety of Crops & Foods*, 9(3), 345-355.
+Bryła, P. (2017). The perception of EU quality signs for origin and organic food products among Polish consumers. *Quality Assurance and Safety of Crops & Foods*, 9(3), 345-355. [doi:10.3920/qas2016.1038](https://doi.org/10.3920/qas2016.1038)
 
-Bryła, P. (2019). Regional ethnocentrism on the food market as a pattern of sustainable consumption. *Sustainability*, 11(22), 6408. doi:10.3390/su11226408
+Bryła, P. (2019). Regional ethnocentrism on the food market as a pattern of sustainable consumption. *Sustainability*, 11(22), 6408. [doi:10.3390/su11226408](https://doi.org/10.3390/su11226408)
 
-Burdack-Freitag, A., Bullinger, D., Mayer, F., & Breuer, K. (2011). Odor and taste perception at normal and low atmospheric pressure in a simulated aircraft cabin. *Journal für Verbraucherschutz und Lebensmittelsicherheit*, 6(1), 95-109. doi:10.1007/s00003-010-0630-y
+Burdack-Freitag, A., Bullinger, D., Mayer, F., & Breuer, K. (2011). Odor and taste perception at normal and low atmospheric pressure in a simulated aircraft cabin. *Journal für Verbraucherschutz und Lebensmittelsicherheit*, 6(1), 95-109. [doi:10.1007/s00003-010-0630-y](https://doi.org/10.1007/s00003-010-0630-y)
 
-Dijksterhuis, G. B., Kaneko, D., de Wijk, R. A., van Zoggel, M., Schiona, I., & Zandstra, L. (2019). *Effects of eating context on food perception are not caused by the eating location itself*. Poster, 13th Pangborn Sensory Science Symposium, Edinburgh.
+Dijksterhuis, G. B., Kaneko, D., de Wijk, R. A., van Zoggel, M., Schiona, I., & Zandstra, L. (2019). *Effects of eating context on food perception are not caused by the eating location itself*. Poster, 13th Pangborn Sensory Science Symposium, Edinburgh. [Wageningen University & Research](https://research.wur.nl/en/publications/effects-of-eating-context-on-food-perception-are-not-caused-by-th/)
 
-Fibri, D. L. N., & Frøst, M. B. (2020). Indonesian millennial consumers' perception of tempe – And how it is affected by product information and consumer psychographic traits. *Food Quality and Preference*, 80, 103798. doi:10.1016/j.foodqual.2019.103798
+Fibri, D. L. N., & Frøst, M. B. (2020). Indonesian millennial consumers' perception of tempe – And how it is affected by product information and consumer psychographic traits. *Food Quality and Preference*, 80, 103798. [doi:10.1016/j.foodqual.2019.103798](https://doi.org/10.1016/j.foodqual.2019.103798)
 
-McClure, S. M., Li, J., Tomlin, D., Cypert, K. S., Montague, L. M., & Montague, P. R. (2004). Neural correlates of behavioral preference for culturally familiar drinks. *Neuron*, 44(2), 379-387. doi:10.1016/j.neuron.2004.09.019
+McClure, S. M., Li, J., Tomlin, D., Cypert, K. S., Montague, L. M., & Montague, P. R. (2004). Neural correlates of behavioral preference for culturally familiar drinks. *Neuron*, 44(2), 379-387. [doi:10.1016/j.neuron.2004.09.019](https://doi.org/10.1016/j.neuron.2004.09.019)
 
-Merle, A., Herault-Fournier, C., & Werle, C. O. C. (2016). The effects of indication of local geographical origin on food perceptions. *Recherche et Applications en Marketing* (English Edition), 31(1).
+Merle, A., Herault-Fournier, C., & Werle, C. O. C. (2016). The effects of indication of local geographical origin on food perceptions. *Recherche et Applications en Marketing* (English Edition), 31(1). [doi:10.1177/2051570715626367](https://doi.org/10.1177/2051570715626367)
 
-North, A. C., Hargreaves, D. J., & McKendrick, J. (1997). In-store music affects product choice. *Nature*, 390, 132.
+North, A. C., Hargreaves, D. J., & McKendrick, J. (1997). In-store music affects product choice. *Nature*, 390, 132. [doi:10.1038/36484](https://doi.org/10.1038/36484)
 
-Ojeda, M., Etaio, I., Valentin, D., Dacremont, C., Zannoni, M., Tupasela, T., Lilleberg, L., & Pérez-Elortondo, F. J. (2021). Effect of consumers' origin on perceived sensory quality, liking and liking drivers: A cross-cultural study on European cheeses. *Food Quality and Preference*, 87, 104047.
+Ojeda, M., Etaio, I., Valentin, D., Dacremont, C., Zannoni, M., Tupasela, T., Lilleberg, L., & Pérez-Elortondo, F. J. (2021). Effect of consumers' origin on perceived sensory quality, liking and liking drivers: A cross-cultural study on European cheeses. *Food Quality and Preference*, 87, 104047. [doi:10.1016/j.foodqual.2020.104047](https://doi.org/10.1016/j.foodqual.2020.104047)
 
-Okamoto, M., & Dan, I. (2013). Extrinsic information influences taste and flavor perception: A review from psychological and neuroimaging perspectives. *Seminars in Cell & Developmental Biology*, 24(3), 247-255. doi:10.1016/j.semcdb.2012.11.001
+Okamoto, M., & Dan, I. (2013). Extrinsic information influences taste and flavor perception: A review from psychological and neuroimaging perspectives. *Seminars in Cell & Developmental Biology*, 24(3), 247-255. [doi:10.1016/j.semcdb.2012.11.001](https://doi.org/10.1016/j.semcdb.2012.11.001)
 
-Ong, L. S., IJzerman, H., & Leung, A. K.-Y. (2015). Is comfort food really good for the soul? A replication of Troisi and Gabriel's (2011) Study 2. *Frontiers in Psychology*, 6, 314. doi:10.3389/fpsyg.2015.00314
+Ong, L. S., IJzerman, H., & Leung, A. K.-Y. (2015). Is comfort food really good for the soul? A replication of Troisi and Gabriel's (2011) Study 2. *Frontiers in Psychology*, 6, 314. [doi:10.3389/fpsyg.2015.00314](https://doi.org/10.3389/fpsyg.2015.00314)
 
-Papies, E. K., Best, M., Gelibter, E., & Barsalou, L. W. (2017). The role of simulations in consumer experiences and behavior: Insights from the grounded cognition theory of desire. *Journal of the Association for Consumer Research*, 2(4), 402-418.
+Papies, E. K., Best, M., Gelibter, E., & Barsalou, L. W. (2017). The role of simulations in consumer experiences and behavior: Insights from the grounded cognition theory of desire. *Journal of the Association for Consumer Research*, 2(4), 402-418. [doi:10.1086/693110](https://doi.org/10.1086/693110)
 
-Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference*, 40, 165-179. doi:10.1016/j.foodqual.2014.09.013
+Piqueras-Fiszman, B., & Spence, C. (2015). Sensory expectations based on product-extrinsic food cues: An interdisciplinary review of the empirical evidence and theoretical accounts. *Food Quality and Preference*, 40, 165-179. [doi:10.1016/j.foodqual.2014.09.013](https://doi.org/10.1016/j.foodqual.2014.09.013)
 
-Plassmann, H., O'Doherty, J., Shiv, B., & Rangel, A. (2008). Marketing actions can modulate neural representations of experienced pleasantness. *Proceedings of the National Academy of Sciences*, 105(3), 1050-1054. doi:10.1073/pnas.0706929105
+Plassmann, H., O'Doherty, J., Shiv, B., & Rangel, A. (2008). Marketing actions can modulate neural representations of experienced pleasantness. *Proceedings of the National Academy of Sciences*, 105(3), 1050-1054. [doi:10.1073/pnas.0706929105](https://doi.org/10.1073/pnas.0706929105)
 
-Pliner, P. (1982). The effects of mere exposure on liking for edible substances. *Appetite*, 3, 283-290.
+Pliner, P. (1982). The effects of mere exposure on liking for edible substances. *Appetite*, 3, 283-290. [doi:10.1016/s0195-6663(82)80026-3](https://doi.org/10.1016/s0195-6663%2882%2980026-3)
 
-Rahne, T., Köppke, R., Nehring, M., Plontke, S. K., & Fischer, H.-G. (2018). Does ambient noise or hypobaric atmosphere influence olfactory and gustatory function? *PLOS ONE*, 13(1), e0190837. doi:10.1371/journal.pone.0190837
+Rahne, T., Köppke, R., Nehring, M., Plontke, S. K., & Fischer, H.-G. (2018). Does ambient noise or hypobaric atmosphere influence olfactory and gustatory function? *PLOS ONE*, 13(1), e0190837. [doi:10.1371/journal.pone.0190837](https://doi.org/10.1371/journal.pone.0190837)
 
-Schott, L., Britwum, K., & Bernard, J. C. (2022). Can region labeling alter taste impressions and willingness to pay? A field experiment with chocolate bars. *Food Quality and Preference*, 100, 104606. doi:10.1016/j.foodqual.2022.104606
+Schott, L., Britwum, K., & Bernard, J. C. (2022). Can region labeling alter taste impressions and willingness to pay? A field experiment with chocolate bars. *Food Quality and Preference*, 100, 104606. [doi:10.1016/j.foodqual.2022.104606](https://doi.org/10.1016/j.foodqual.2022.104606)
 
-Spence, C. (2017). Tasting in the air: A review. *International Journal of Gastronomy and Food Science*, 9, 10-15. doi:10.1016/j.ijgfs.2017.05.001
+Spence, C. (2017). Tasting in the air: A review. *International Journal of Gastronomy and Food Science*, 9, 10-15. [doi:10.1016/j.ijgfs.2017.05.001](https://doi.org/10.1016/j.ijgfs.2017.05.001)
 
-Spognardi, S., Vistocco, D., Cappelli, L., & Papetti, P. (2021). Impact of organic and "protected designation of origin" labels in the perception of olive oil sensory quality. *British Food Journal*, 123(8), 2641-2669. doi:10.1108/BFJ-07-2020-0596
+Spognardi, S., Vistocco, D., Cappelli, L., & Papetti, P. (2021). Impact of organic and "protected designation of origin" labels in the perception of olive oil sensory quality. *British Food Journal*, 123(8), 2641-2669. [doi:10.1108/BFJ-07-2020-0596](https://doi.org/10.1108/BFJ-07-2020-0596)
 
-Swahn, J., Nilsen, A., & Baptista, I. (2025). When the music stops: Crossmodal effects of sounds on taste do not explain changes in liking. *Food Quality and Preference*, 131, 105576. doi:10.1016/j.foodqual.2025.105576
+Swahn, J., Nilsen, A., & Baptista, I. (2025). When the music stops: Crossmodal effects of sounds on taste do not explain changes in liking. *Food Quality and Preference*, 131, 105576. [doi:10.1016/j.foodqual.2025.105576](https://doi.org/10.1016/j.foodqual.2025.105576)
 
-Toelstede, S., Dunkel, A., & Hofmann, T. (2009). A series of kokumi peptides impart the long-lasting mouthfulness of matured Gouda cheese. *Journal of Agricultural and Food Chemistry*, 57, 1440-1448.
+Toelstede, S., Dunkel, A., & Hofmann, T. (2009). A series of kokumi peptides impart the long-lasting mouthfulness of matured Gouda cheese. *Journal of Agricultural and Food Chemistry*, 57, 1440-1448. [doi:10.1021/jf803376d](https://doi.org/10.1021/jf803376d)
 
-Trope, Y., & Liberman, N. (2010). Construal-level theory of psychological distance. *Psychological Review*, 117(2), 440-463.
+Trope, Y., & Liberman, N. (2010). Construal-level theory of psychological distance. *Psychological Review*, 117(2), 440-463. [doi:10.1037/a0018963](https://doi.org/10.1037/a0018963)
 
-Troisi, J. D., & Gabriel, S. (2011). Chicken soup really is good for the soul: "Comfort food" fulfills the need to belong. *Psychological Science*, 22(6), 747-753.
+Troisi, J. D., & Gabriel, S. (2011). Chicken soup really is good for the soul: "Comfort food" fulfills the need to belong. *Psychological Science*, 22(6), 747-753. [doi:10.1177/0956797611407931](https://doi.org/10.1177/0956797611407931)
 
-van Bergen, G., Zandstra, E. H., Kaneko, D., Dijksterhuis, G. B., & de Wijk, R. A. (2021). Sushi at the beach: Effects of congruent and incongruent immersive contexts on food evaluations. *Food Quality and Preference*, 91, 104193.
+van Bergen, G., Zandstra, E. H., Kaneko, D., Dijksterhuis, G. B., & de Wijk, R. A. (2021). Sushi at the beach: Effects of congruent and incongruent immersive contexts on food evaluations. *Food Quality and Preference*, 91, 104193. [doi:10.1016/j.foodqual.2021.104193](https://doi.org/10.1016/j.foodqual.2021.104193)
 
-van den Berg, G., Meijer, W. C., Düsterhöft, E.-M., & Smit, G. (2004). Gouda and related cheeses. In P. F. Fox, P. L. H. McSweeney, T. M. Cogan, & T. P. Guinee (Eds.), *Cheese: Chemistry, Physics and Microbiology* (3rd ed., Vol. 2: Major Cheese Groups, pp. 103-140). London: Elsevier Academic Press.
+van den Berg, G., Meijer, W. C., Düsterhöft, E.-M., & Smit, G. (2004). Gouda and related cheeses. In P. F. Fox, P. L. H. McSweeney, T. M. Cogan, & T. P. Guinee (Eds.), *Cheese: Chemistry, Physics and Microbiology* (3rd ed., Vol. 2: Major Cheese Groups, pp. 103-140). London: Elsevier Academic Press. [doi:10.1016/S1874-558X(04)80041-1](https://doi.org/10.1016/S1874-558X%2804%2980041-1)
 
-Vanderhaegen, B., Neven, H., Verachtert, H., & Derdelinckx, G. (2006). The chemistry of beer aging – a critical review. *Food Chemistry*, 95, 357-381. doi:10.1016/j.foodchem.2005.01.006
+Vanderhaegen, B., Neven, H., Verachtert, H., & Derdelinckx, G. (2006). The chemistry of beer aging – a critical review. *Food Chemistry*, 95, 357-381. [doi:10.1016/j.foodchem.2005.01.006](https://doi.org/10.1016/j.foodchem.2005.01.006)
 
-Xu, Y., Hamid, N., Shepherd, D., Kantono, K., & Spence, C. (2019). Changes in flavour, emotion, and electrophysiological measurements when consuming chocolate ice cream in different eating environments. *Food Quality and Preference*, 77, 191-205.
+Xu, Y., Hamid, N., Shepherd, D., Kantono, K., & Spence, C. (2019). Changes in flavour, emotion, and electrophysiological measurements when consuming chocolate ice cream in different eating environments. *Food Quality and Preference*, 77, 191-205. [doi:10.1016/j.foodqual.2019.05.002](https://doi.org/10.1016/j.foodqual.2019.05.002)
 
 ---

@@ -287,109 +287,109 @@ That is the *how*. The *why* is for the Speelgoed to say.
 
 ## References
 
-Bandura, A. V., & Lvov, S. N. (2006). The ionization constant of water over wide ranges of temperature and density. *Journal of Physical and Chemical Reference Data*, 35(1), 15-30. doi:10.1063/1.1928231
+Bandura, A. V., & Lvov, S. N. (2006). The ionization constant of water over wide ranges of temperature and density. *Journal of Physical and Chemical Reference Data*, 35(1), 15-30. [doi:10.1063/1.1928231](https://doi.org/10.1063/1.1928231)
 
-Bard, A. J., Parsons, R., & Jordan, J. (Eds.). (1985). *Standard Potentials in Aqueous Solution*. New York: Marcel Dekker.
+Bard, A. J., Parsons, R., & Jordan, J. (Eds.). (1985). *Standard Potentials in Aqueous Solution*. New York: Marcel Dekker. [2017 reissue: doi:10.1201/9780203738764](https://doi.org/10.1201/9780203738764)
 
-Becker, R., & Döring, W. (1935). Kinetische Behandlung der Keimbildung in übersättigten Dämpfen. *Annalen der Physik*, 416(8), 719-752. doi:10.1002/andp.19354160806
+Becker, R., & Döring, W. (1935). Kinetische Behandlung der Keimbildung in übersättigten Dämpfen. *Annalen der Physik*, 416(8), 719-752. [doi:10.1002/andp.19354160806](https://doi.org/10.1002/andp.19354160806)
 
-Bergman, T. (1775). Disquisitio de attractionibus electivis. *Nova Acta Regiae Societatis Scientiarum Upsaliensis*, 2, 159-248.
+Bergman, T. (1775). Disquisitio de attractionibus electivis. *Nova Acta Regiae Societatis Scientiarum Upsaliensis*, 2, 159-248. [English translation (1785), Internet Archive](https://archive.org/details/india.history.resource.72319)
 
-Borden, W. T., Hoffmann, R., Stuyver, T., & Chen, B. (2017). Dioxygen: What makes this triplet diradical kinetically persistent? *Journal of the American Chemical Society*, 139(26), 9010-9018. doi:10.1021/jacs.7b04232
+Borden, W. T., Hoffmann, R., Stuyver, T., & Chen, B. (2017). Dioxygen: What makes this triplet diradical kinetically persistent? *Journal of the American Chemical Society*, 139(26), 9010-9018. [doi:10.1021/jacs.7b04232](https://doi.org/10.1021/jacs.7b04232)
 
-Burbidge, E. M., Burbidge, G. R., Fowler, W. A., & Hoyle, F. (1957). Synthesis of the elements in stars. *Reviews of Modern Physics*, 29(4), 547-650. doi:10.1103/RevModPhys.29.547
+Burbidge, E. M., Burbidge, G. R., Fowler, W. A., & Hoyle, F. (1957). Synthesis of the elements in stars. *Reviews of Modern Physics*, 29(4), 547-650. [doi:10.1103/RevModPhys.29.547](https://doi.org/10.1103/RevModPhys.29.547)
 
-*Chemical News* (1866). Report of the meeting of the Chemical Society, 1 March 1866. *Chemical News*, 13, 113.
+*Chemical News* (1866). Report of the meeting of the Chemical Society, 1 March 1866. *Chemical News*, 13, 113. [Text and context, Le Moyne College](https://web.lemoyne.edu/giunta/ea/newlandsann.html)
 
-Cox, J. D., Wagman, D. D., & Medvedev, V. A. (1989). *CODATA Key Values for Thermodynamics*. New York: Hemisphere.
+Cox, J. D., Wagman, D. D., & Medvedev, V. A. (1989). *CODATA Key Values for Thermodynamics*. New York: Hemisphere. [codata.info](https://www.codata.info/resources/databases/key1.html)
 
-Eigen, M., & De Maeyer, L. (1955). Untersuchungen über die Kinetik der Neutralisation. I. *Zeitschrift für Elektrochemie*, 59(10), 986-993.
+Eigen, M., & De Maeyer, L. (1955). Untersuchungen über die Kinetik der Neutralisation. I. *Zeitschrift für Elektrochemie*, 59(10), 986-993. [doi:10.1002/bbpc.19550591020](https://doi.org/10.1002/bbpc.19550591020)
 
-Fischer, E. (1894). Einfluss der Configuration auf die Wirkung der Enzyme. *Berichte der deutschen chemischen Gesellschaft*, 27(3), 2985-2993. doi:10.1002/cber.18940270364
+Fischer, E. (1894). Einfluss der Configuration auf die Wirkung der Enzyme. *Berichte der deutschen chemischen Gesellschaft*, 27(3), 2985-2993. [doi:10.1002/cber.18940270364](https://doi.org/10.1002/cber.18940270364)
 
-Frank, F. C. (1953). On spontaneous asymmetric synthesis. *Biochimica et Biophysica Acta*, 11, 459-463. doi:10.1016/0006-3002(53)90082-1
+Frank, F. C. (1953). On spontaneous asymmetric synthesis. *Biochimica et Biophysica Acta*, 11, 459-463. [doi:10.1016/0006-3002(53)90082-1](https://doi.org/10.1016/0006-3002%2853%2990082-1)
 
-Geoffroy, É.-F. (1718). Table des différents rapports observés en chimie entre différentes substances. *Mémoires de l'Académie royale des sciences*, 202-212.
+Geoffroy, É.-F. (1718). Table des différents rapports observés en chimie entre différentes substances. *Mémoires de l'Académie royale des sciences*, 202-212. [Biodiversity Heritage Library](https://www.biodiversitylibrary.org/page/27545149)
 
-Goethe, J. W. von (1809). *Die Wahlverwandtschaften*. Tübingen: Cotta.
+Goethe, J. W. von (1809). *Die Wahlverwandtschaften*. Tübingen: Cotta. [Project Gutenberg](https://www.gutenberg.org/ebooks/2403)
 
-Greenwood, N. N., & Earnshaw, A. (1997). *Chemistry of the Elements* (2nd ed.). Oxford: Butterworth-Heinemann.
+Greenwood, N. N., & Earnshaw, A. (1997). *Chemistry of the Elements* (2nd ed.). Oxford: Butterworth-Heinemann. [doi:10.1016/C2009-0-30414-6](https://doi.org/10.1016/C2009-0-30414-6)
 
-Heitler, W., & London, F. (1927). Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik. *Zeitschrift für Physik*, 44(6-7), 455-472. doi:10.1007/BF01397394
+Heitler, W., & London, F. (1927). Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik. *Zeitschrift für Physik*, 44(6-7), 455-472. [doi:10.1007/BF01397394](https://doi.org/10.1007/BF01397394)
 
-Helfman, P. M., & Bada, J. L. (1975). Aspartic acid racemization in tooth enamel from living humans. *Proceedings of the National Academy of Sciences*, 72(8), 2891-2894. doi:10.1073/pnas.72.8.2891
+Helfman, P. M., & Bada, J. L. (1975). Aspartic acid racemization in tooth enamel from living humans. *Proceedings of the National Academy of Sciences*, 72(8), 2891-2894. [doi:10.1073/pnas.72.8.2891](https://doi.org/10.1073/pnas.72.8.2891)
 
-Helfman, P. M., Bada, J. L., & Shou, M.-Y. (1977). Considerations on the role of aspartic acid racemization in the aging process. *Gerontology*, 23(6), 419-425. doi:10.1159/000212218
+Helfman, P. M., Bada, J. L., & Shou, M.-Y. (1977). Considerations on the role of aspartic acid racemization in the aging process. *Gerontology*, 23(6), 419-425. [doi:10.1159/000212218](https://doi.org/10.1159/000212218)
 
-Herman, P. R., LaRocque, P. E., & Stoicheff, B. P. (1988). Vacuum ultraviolet laser spectroscopy. V. Rovibronic spectra of Ar₂ and constants of the ground and excited states. *The Journal of Chemical Physics*, 89(8), 4535-4549. doi:10.1063/1.454794
+Herman, P. R., LaRocque, P. E., & Stoicheff, B. P. (1988). Vacuum ultraviolet laser spectroscopy. V. Rovibronic spectra of Ar₂ and constants of the ground and excited states. *The Journal of Chemical Physics*, 89(8), 4535-4549. [doi:10.1063/1.454794](https://doi.org/10.1063/1.454794)
 
-Hölsch, N., Beyer, M., Salumbides, E. J., Eikema, K. S. E., Ubachs, W., Jungen, C., & Merkt, F. (2019). Benchmarking theory with an improved measurement of the ionization and dissociation energies of H₂. *Physical Review Letters*, 122(10), 103002. doi:10.1103/PhysRevLett.122.103002
+Hölsch, N., Beyer, M., Salumbides, E. J., Eikema, K. S. E., Ubachs, W., Jungen, C., & Merkt, F. (2019). Benchmarking theory with an improved measurement of the ionization and dissociation energies of H₂. *Physical Review Letters*, 122(10), 103002. [doi:10.1103/PhysRevLett.122.103002](https://doi.org/10.1103/PhysRevLett.122.103002)
 
-Karen, P., McArdle, P., & Takats, J. (2016). Comprehensive definition of oxidation state (IUPAC Recommendations 2016). *Pure and Applied Chemistry*, 88(8), 831-839. doi:10.1515/pac-2015-1204
+Karen, P., McArdle, P., & Takats, J. (2016). Comprehensive definition of oxidation state (IUPAC Recommendations 2016). *Pure and Applied Chemistry*, 88(8), 831-839. [doi:10.1515/pac-2015-1204](https://doi.org/10.1515/pac-2015-1204)
 
-Kołos, W., & Wolniewicz, L. (1965). Potential-energy curves for the X ¹Σg⁺, b ³Σu⁺, and C ¹Πu states of the hydrogen molecule. *The Journal of Chemical Physics*, 43(7), 2429-2441. doi:10.1063/1.1697142
+Kołos, W., & Wolniewicz, L. (1965). Potential-energy curves for the X ¹Σg⁺, b ³Σu⁺, and C ¹Πu states of the hydrogen molecule. *The Journal of Chemical Physics*, 43(7), 2429-2441. [doi:10.1063/1.1697142](https://doi.org/10.1063/1.1697142)
 
-Kondepudi, D. K., Kaufman, R. J., & Singh, N. (1990). Chiral symmetry breaking in sodium chlorate crystallization. *Science*, 250(4983), 975-976. doi:10.1126/science.250.4983.975
+Kondepudi, D. K., Kaufman, R. J., & Singh, N. (1990). Chiral symmetry breaking in sodium chlorate crystallization. *Science*, 250(4983), 975-976. [doi:10.1126/science.250.4983.975](https://doi.org/10.1126/science.250.4983.975)
 
-Kondepudi, D. K., & Nelson, G. W. (1985). Weak neutral currents and the origin of biomolecular chirality. *Nature*, 314(6010), 438-441. doi:10.1038/314438a0
+Kondepudi, D. K., & Nelson, G. W. (1985). Weak neutral currents and the origin of biomolecular chirality. *Nature*, 314(6010), 438-441. [doi:10.1038/314438a0](https://doi.org/10.1038/314438a0)
 
-Laage, D., & Hynes, J. T. (2006). A molecular jump mechanism of water reorientation. *Science*, 311(5762), 832-835. doi:10.1126/science.1122154
+Laage, D., & Hynes, J. T. (2006). A molecular jump mechanism of water reorientation. *Science*, 311(5762), 832-835. [doi:10.1126/science.1122154](https://doi.org/10.1126/science.1122154)
 
-Laage, D., Stirnemann, G., Sterpone, F., & Hynes, J. T. (2012). Water jump reorientation: From theoretical prediction to experimental observation. *Accounts of Chemical Research*, 45(1), 53-62. doi:10.1021/ar200075u
+Laage, D., Stirnemann, G., Sterpone, F., & Hynes, J. T. (2012). Water jump reorientation: From theoretical prediction to experimental observation. *Accounts of Chemical Research*, 45(1), 53-62. [doi:10.1021/ar200075u](https://doi.org/10.1021/ar200075u)
 
-Langmuir, I. (1919). The arrangement of electrons in atoms and molecules. *Journal of the American Chemical Society*, 41(6), 868-934. doi:10.1021/ja02227a002
+Langmuir, I. (1919). The arrangement of electrons in atoms and molecules. *Journal of the American Chemical Society*, 41(6), 868-934. [doi:10.1021/ja02227a002](https://doi.org/10.1021/ja02227a002)
 
-Lewis, G. N. (1916). The atom and the molecule. *Journal of the American Chemical Society*, 38(4), 762-785. doi:10.1021/ja02261a002
+Lewis, G. N. (1916). The atom and the molecule. *Journal of the American Chemical Society*, 38(4), 762-785. [doi:10.1021/ja02261a002](https://doi.org/10.1021/ja02261a002)
 
-Lewis, G. N. (1923). *Valence and the Structure of Atoms and Molecules*. New York: Chemical Catalog Company.
+Lewis, G. N. (1923). *Valence and the Structure of Atoms and Molecules*. New York: Chemical Catalog Company. [Internet Archive](https://archive.org/details/valencestructure0000unse_g2u8)
 
-London, F. (1937). The general theory of molecular forces. *Transactions of the Faraday Society*, 33, 8-26. doi:10.1039/TF937330008b
+London, F. (1937). The general theory of molecular forces. *Transactions of the Faraday Society*, 33, 8-26. [doi:10.1039/TF937330008b](https://doi.org/10.1039/TF937330008b)
 
-Maksyutenko, P., Rizzo, T. R., & Boyarkin, O. V. (2006). A direct measurement of the dissociation energy of water. *The Journal of Chemical Physics*, 125(18), 181101. doi:10.1063/1.2387163
+Maksyutenko, P., Rizzo, T. R., & Boyarkin, O. V. (2006). A direct measurement of the dissociation energy of water. *The Journal of Chemical Physics*, 125(18), 181101. [doi:10.1063/1.2387163](https://doi.org/10.1063/1.2387163)
 
-Mayr, H., & Ofial, A. R. (2006). The reactivity–selectivity principle: An imperishable myth in organic chemistry. *Angewandte Chemie International Edition*, 45(12), 1844-1854. doi:10.1002/anie.200503273
+Mayr, H., & Ofial, A. R. (2006). The reactivity–selectivity principle: An imperishable myth in organic chemistry. *Angewandte Chemie International Edition*, 45(12), 1844-1854. [doi:10.1002/anie.200503273](https://doi.org/10.1002/anie.200503273)
 
-Moseley, H. G. J. (1913). The high-frequency spectra of the elements. *Philosophical Magazine*, 26(156), 1024-1034. doi:10.1080/14786441308635052
+Moseley, H. G. J. (1913). The high-frequency spectra of the elements. *Philosophical Magazine*, 26(156), 1024-1034. [doi:10.1080/14786441308635052](https://doi.org/10.1080/14786441308635052)
 
-Mullin, J. W. (2001). *Crystallization* (4th ed.). Oxford: Butterworth-Heinemann.
+Mullin, J. W. (2001). *Crystallization* (4th ed.). Oxford: Butterworth-Heinemann. [doi:10.1016/B978-0-7506-4833-2.X5000-1](https://doi.org/10.1016/B978-0-7506-4833-2.X5000-1)
 
-Munday, J. N., Capasso, F., & Parsegian, V. A. (2009). Measured long-range repulsive Casimir–Lifshitz forces. *Nature*, 457(7226), 170-173. doi:10.1038/nature07610
+Munday, J. N., Capasso, F., & Parsegian, V. A. (2009). Measured long-range repulsive Casimir–Lifshitz forces. *Nature*, 457(7226), 170-173. [doi:10.1038/nature07610](https://doi.org/10.1038/nature07610)
 
-Newlands, J. A. R. (1865). On the law of octaves. *Chemical News*, 12, 83.
+Newlands, J. A. R. (1865). On the law of octaves. *Chemical News*, 12, 83. [Text and context, Le Moyne College](https://web.lemoyne.edu/giunta/ea/newlandsann.html)
 
-Nørskov, J. K., Bligaard, T., Logadottir, A., Kitchin, J. R., Chen, J. G., Pandelov, S., & Stimming, U. (2005). Trends in the exchange current for hydrogen evolution. *Journal of The Electrochemical Society*, 152(3), J23-J26. doi:10.1149/1.1856988
+Nørskov, J. K., Bligaard, T., Logadottir, A., Kitchin, J. R., Chen, J. G., Pandelov, S., & Stimming, U. (2005). Trends in the exchange current for hydrogen evolution. *Journal of The Electrochemical Society*, 152(3), J23-J26. [doi:10.1149/1.1856988](https://doi.org/10.1149/1.1856988)
 
-Ostwald, W. (1894). [Review]. *Zeitschrift für physikalische Chemie*, 15, 705-706.
+Ostwald, W. (1894). [Review]. *Zeitschrift für physikalische Chemie*, 15, 705-706. [English translation](https://www.chemteam.info/Chem-History/Ostwald-1894.html)
 
-Pauling, L. (1932). The nature of the chemical bond. IV. The energy of single bonds and the relative electronegativity of atoms. *Journal of the American Chemical Society*, 54(9), 3570-3582. doi:10.1021/ja01348a011
+Pauling, L. (1932). The nature of the chemical bond. IV. The energy of single bonds and the relative electronegativity of atoms. *Journal of the American Chemical Society*, 54(9), 3570-3582. [doi:10.1021/ja01348a011](https://doi.org/10.1021/ja01348a011)
 
-Pearson, R. G. (1963). Hard and soft acids and bases. *Journal of the American Chemical Society*, 85(22), 3533-3539. doi:10.1021/ja00905a001
+Pearson, R. G. (1963). Hard and soft acids and bases. *Journal of the American Chemical Society*, 85(22), 3533-3539. [doi:10.1021/ja00905a001](https://doi.org/10.1021/ja00905a001)
 
-Pedersen, C. J. (1967). Cyclic polyethers and their complexes with metal salts. *Journal of the American Chemical Society*, 89(26), 7017-7036. doi:10.1021/ja01002a035
+Pedersen, C. J. (1967). Cyclic polyethers and their complexes with metal salts. *Journal of the American Chemical Society*, 89(26), 7017-7036. [doi:10.1021/ja01002a035](https://doi.org/10.1021/ja01002a035)
 
-Quack, M., Seyfang, G., & Wichmann, G. (2022). Perspectives on parity violation in chiral molecules: Theory, spectroscopic experiment and biomolecular homochirality. *Chemical Science*, 13(36), 10598-10643. doi:10.1039/d2sc01323a
+Quack, M., Seyfang, G., & Wichmann, G. (2022). Perspectives on parity violation in chiral molecules: Theory, spectroscopic experiment and biomolecular homochirality. *Chemical Science*, 13(36), 10598-10643. [doi:10.1039/d2sc01323a](https://doi.org/10.1039/d2sc01323a)
 
-Radzicka, A., & Wolfenden, R. (1995). A proficient enzyme. *Science*, 267(5194), 90-93. doi:10.1126/science.7809611
+Radzicka, A., & Wolfenden, R. (1995). A proficient enzyme. *Science*, 267(5194), 90-93. [doi:10.1126/science.7809611](https://doi.org/10.1126/science.7809611)
 
-Reeves, H., Fowler, W. A., & Hoyle, F. (1970). Galactic cosmic ray origin of Li, Be and B in stars. *Nature*, 226(5247), 727-729. doi:10.1038/226727a0
+Reeves, H., Fowler, W. A., & Hoyle, F. (1970). Galactic cosmic ray origin of Li, Be and B in stars. *Nature*, 226(5247), 727-729. [doi:10.1038/226727a0](https://doi.org/10.1038/226727a0)
 
-Rocher-Casterline, B. E., Ch'ng, L. C., Mollner, A. K., & Reisler, H. (2011). Communication: Determination of the bond dissociation energy (D₀) of the water dimer, (H₂O)₂, by velocity map imaging. *The Journal of Chemical Physics*, 134(21), 211101. doi:10.1063/1.3598339
+Rocher-Casterline, B. E., Ch'ng, L. C., Mollner, A. K., & Reisler, H. (2011). Communication: Determination of the bond dissociation energy (D₀) of the water dimer, (H₂O)₂, by velocity map imaging. *The Journal of Chemical Physics*, 134(21), 211101. [doi:10.1063/1.3598339](https://doi.org/10.1063/1.3598339)
 
-Ruben, S., Randall, M., Kamen, M., & Hyde, J. L. (1941). Heavy oxygen (O¹⁸) as a tracer in the study of photosynthesis. *Journal of the American Chemical Society*, 63(3), 877-879. doi:10.1021/ja01848a512
+Ruben, S., Randall, M., Kamen, M., & Hyde, J. L. (1941). Heavy oxygen (O¹⁸) as a tracer in the study of photosynthesis. *Journal of the American Chemical Society*, 63(3), 877-879. [doi:10.1021/ja01848a512](https://doi.org/10.1021/ja01848a512)
 
-Sabatier, P. (1913). *La catalyse en chimie organique*. Paris: Béranger.
+Sabatier, P. (1913). *La catalyse en chimie organique*. Paris: Béranger. [2013 reissue: doi:10.14375/np.9782369430186](https://doi.org/10.14375/np.9782369430186)
 
-Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 418 kJ per mole of O₂. *Journal of Chemical Education*, 92(12), 2094-2099. doi:10.1021/acs.jchemed.5b00333
+Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 418 kJ per mole of O₂. *Journal of Chemical Education*, 92(12), 2094-2099. [doi:10.1021/acs.jchemed.5b00333](https://doi.org/10.1021/acs.jchemed.5b00333)
 
-Soai, K., Shibata, T., Morioka, H., & Choji, K. (1995). Asymmetric autocatalysis and amplification of enantiomeric excess of a chiral molecule. *Nature*, 378(6559), 767-768. doi:10.1038/378767a0
+Soai, K., Shibata, T., Morioka, H., & Choji, K. (1995). Asymmetric autocatalysis and amplification of enantiomeric excess of a chiral molecule. *Nature*, 378(6559), 767-768. [doi:10.1038/378767a0](https://doi.org/10.1038/378767a0)
 
-Vlatakis, G., Andersson, L. I., Müller, R., & Mosbach, K. (1993). Drug assay using antibody mimics made by molecular imprinting. *Nature*, 361(6413), 645-647. doi:10.1038/361645a0
+Vlatakis, G., Andersson, L. I., Müller, R., & Mosbach, K. (1993). Drug assay using antibody mimics made by molecular imprinting. *Nature*, 361(6413), 645-647. [doi:10.1038/361645a0](https://doi.org/10.1038/361645a0)
 
-Wulff, G., & Sarhan, A. (1972). Use of polymers with enzyme-analogous structures for the resolution of racemates. *Angewandte Chemie International Edition in English*, 11(4), 341-344.
+Wulff, G., & Sarhan, A. (1972). Use of polymers with enzyme-analogous structures for the resolution of racemates. *Angewandte Chemie International Edition in English*, 11(4), 341-344. [doi:10.1002/anie.197203341](https://doi.org/10.1002/anie.197203341)
 
-Wuts, P. G. M. (2014). *Greene's Protective Groups in Organic Synthesis* (5th ed.). Hoboken, NJ: Wiley.
+Wuts, P. G. M. (2014). *Greene's Protective Groups in Organic Synthesis* (5th ed.). Hoboken, NJ: Wiley. [doi:10.1002/9781118905074](https://doi.org/10.1002/9781118905074)
 
-Young, I. S., & Baran, P. S. (2009). Protecting-group-free synthesis as an opportunity for invention. *Nature Chemistry*, 1(3), 193-205. doi:10.1038/nchem.216
+Young, I. S., & Baran, P. S. (2009). Protecting-group-free synthesis as an opportunity for invention. *Nature Chemistry*, 1(3), 193-205. [doi:10.1038/nchem.216](https://doi.org/10.1038/nchem.216)
 
 ---
 

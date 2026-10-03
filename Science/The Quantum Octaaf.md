@@ -302,90 +302,90 @@ A check of every reference on 1 October 2026 corrected the reach of the monogamy
 
 ## References
 
-Aasi, J., et al. (LIGO Scientific Collaboration) (2013). Enhanced sensitivity of the LIGO gravitational wave detector by using squeezed states of light. *Nature Photonics*, 7, 613–619.
+Aasi, J., et al. (LIGO Scientific Collaboration) (2013). Enhanced sensitivity of the LIGO gravitational wave detector by using squeezed states of light. *Nature Photonics*, 7, 613–619. [doi:10.1038/nphoton.2013.177](https://doi.org/10.1038/nphoton.2013.177)
 
-Allahverdyan, A. E., Balian, R., & Nieuwenhuizen, T. M. (2013). Understanding quantum measurement from the solution of dynamical models. *Physics Reports*, 525, 1–166.
+Allahverdyan, A. E., Balian, R., & Nieuwenhuizen, T. M. (2013). Understanding quantum measurement from the solution of dynamical models. *Physics Reports*, 525, 1–166. [doi:10.1016/j.physrep.2012.11.001](https://doi.org/10.1016/j.physrep.2012.11.001)
 
-Ashcroft, N. W., & Mermin, N. D. (1976). *Solid State Physics*. New York: Holt, Rinehart and Winston.
+Ashcroft, N. W., & Mermin, N. D. (1976). *Solid State Physics*. New York: Holt, Rinehart and Winston. [Internet Archive](https://archive.org/details/solidstatephysic00ashc)
 
-Bali, G. S., Neff, H., Düssel, T., Lippert, T., & Schilling, K. (2005). Observation of string breaking in QCD. *Physical Review D*, 71, 114513.
+Bali, G. S., Neff, H., Düssel, T., Lippert, T., & Schilling, K. (2005). Observation of string breaking in QCD. *Physical Review D*, 71, 114513. [doi:10.1103/physrevd.71.114513](https://doi.org/10.1103/physrevd.71.114513)
 
-Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1(3), 195–200.
+Bell, J. S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1(3), 195–200. [doi:10.1103/physicsphysiquefizika.1.195](https://doi.org/10.1103/physicsphysiquefizika.1.195)
 
-Bennett, C. H., & Brassard, G. (1984). Quantum cryptography: Public key distribution and coin tossing. *Proceedings of the IEEE International Conference on Computers, Systems and Signal Processing*, Bangalore, 175–179.
+Bennett, C. H., & Brassard, G. (1984). Quantum cryptography: Public key distribution and coin tossing. *Proceedings of the IEEE International Conference on Computers, Systems and Signal Processing*, Bangalore, 175–179. [2014 reprint: doi:10.1016/j.tcs.2014.05.025](https://doi.org/10.1016/j.tcs.2014.05.025)
 
-Breit, G., & Wheeler, J. A. (1934). Collision of two light quanta. *Physical Review*, 46(12), 1087–1091.
+Breit, G., & Wheeler, J. A. (1934). Collision of two light quanta. *Physical Review*, 46(12), 1087–1091. [doi:10.1103/physrev.46.1087](https://doi.org/10.1103/physrev.46.1087)
 
-Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review*, 83(1), 34–40.
+Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review*, 83(1), 34–40. [doi:10.1103/physrev.83.34](https://doi.org/10.1103/physrev.83.34)
 
-Caves, C. M. (1982). Quantum limits on noise in linear amplifiers. *Physical Review D*, 26(8), 1817–1839.
+Caves, C. M. (1982). Quantum limits on noise in linear amplifiers. *Physical Review D*, 26(8), 1817–1839. [doi:10.1103/physrevd.26.1817](https://doi.org/10.1103/physrevd.26.1817)
 
-Chen, M.-C., et al. (2022). Ruling out real-valued standard formalism of quantum theory. *Physical Review Letters*, 128(4), 040403.
+Chen, M.-C., et al. (2022). Ruling out real-valued standard formalism of quantum theory. *Physical Review Letters*, 128(4), 040403. [doi:10.1103/physrevlett.128.040403](https://doi.org/10.1103/physrevlett.128.040403)
 
-Coffman, V., Kundu, J., & Wootters, W. K. (2000). Distributed entanglement. *Physical Review A*, 61, 052306.
+Coffman, V., Kundu, J., & Wootters, W. K. (2000). Distributed entanglement. *Physical Review A*, 61, 052306. [doi:10.1103/physreva.61.052306](https://doi.org/10.1103/physreva.61.052306)
 
-de Marcillac, P., Coron, N., Dambier, G., Leblanc, J., & Moalic, J.-P. (2003). Experimental detection of α-particles from the radioactive decay of natural bismuth. *Nature*, 422, 876–878.
+de Marcillac, P., Coron, N., Dambier, G., Leblanc, J., & Moalic, J.-P. (2003). Experimental detection of α-particles from the radioactive decay of natural bismuth. *Nature*, 422, 876–878. [doi:10.1038/nature01541](https://doi.org/10.1038/nature01541)
 
-Dieks, D. (1982). Communication by EPR devices. *Physics Letters A*, 92(6), 271–272.
+Dieks, D. (1982). Communication by EPR devices. *Physics Letters A*, 92(6), 271–272. [doi:10.1016/0375-9601(82)90084-6](https://doi.org/10.1016/0375-9601%2882%2990084-6)
 
-Dürr, S., et al. (2008). Ab initio determination of light hadron masses. *Science*, 322, 1224–1227.
+Dürr, S., et al. (2008). Ab initio determination of light hadron masses. *Science*, 322, 1224–1227. [doi:10.1126/science.1163233](https://doi.org/10.1126/science.1163233)
 
-Fischer, M. C., Gutiérrez-Medina, B., & Raizen, M. G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87, 040402.
+Fischer, M. C., Gutiérrez-Medina, B., & Raizen, M. G. (2001). Observation of the quantum Zeno and anti-Zeno effects in an unstable system. *Physical Review Letters*, 87, 040402. [doi:10.1103/physrevlett.87.040402](https://doi.org/10.1103/physrevlett.87.040402)
 
-Fuchs, C. A., & Peres, A. (1996). Quantum-state disturbance versus information gain: Uncertainty relations for quantum information. *Physical Review A*, 53(4), 2038–2045.
+Fuchs, C. A., & Peres, A. (1996). Quantum-state disturbance versus information gain: Uncertainty relations for quantum information. *Physical Review A*, 53(4), 2038–2045. [doi:10.1103/physreva.53.2038](https://doi.org/10.1103/physreva.53.2038)
 
-Gamow, G. (1928). Zur Quantentheorie des Atomkernes. *Zeitschrift für Physik*, 51, 204–212.
+Gamow, G. (1928). Zur Quantentheorie des Atomkernes. *Zeitschrift für Physik*, 51, 204–212. [doi:10.1007/bf01343196](https://doi.org/10.1007/bf01343196)
 
-Geiger, H., & Nuttall, J. M. (1911). The ranges of the α particles from various radioactive substances and a relation between range and period of transformation. *Philosophical Magazine*, 22(130), 613–621.
+Geiger, H., & Nuttall, J. M. (1911). The ranges of the α particles from various radioactive substances and a relation between range and period of transformation. *Philosophical Magazine*, 22(130), 613–621. [doi:10.1080/14786441008637156](https://doi.org/10.1080/14786441008637156)
 
-Glaser, D. A. (1952). Some effects of ionizing radiation on the formation of bubbles in liquids. *Physical Review*, 87(4), 665.
+Glaser, D. A. (1952). Some effects of ionizing radiation on the formation of bubbles in liquids. *Physical Review*, 87(4), 665. [doi:10.1103/physrev.87.665](https://doi.org/10.1103/physrev.87.665)
 
-Glaser, D. A. (1953). Bubble chamber tracks of penetrating cosmic-ray particles. *Physical Review*, 91(3), 762–763.
+Glaser, D. A. (1953). Bubble chamber tracks of penetrating cosmic-ray particles. *Physical Review*, 91(3), 762–763. [doi:10.1103/physrev.91.762](https://doi.org/10.1103/physrev.91.762)
 
-Gleason, A. M. (1957). Measures on the closed subspaces of a Hilbert space. *Journal of Mathematics and Mechanics*, 6(6), 885–893.
+Gleason, A. M. (1957). Measures on the closed subspaces of a Hilbert space. *Journal of Mathematics and Mechanics*, 6(6), 885–893. [doi:10.1512/iumj.1957.6.56050](https://doi.org/10.1512/iumj.1957.6.56050)
 
-Gurney, R. W., & Condon, E. U. (1928). Wave mechanics and radioactive disintegration. *Nature*, 122, 439.
+Gurney, R. W., & Condon, E. U. (1928). Wave mechanics and radioactive disintegration. *Nature*, 122, 439. [doi:10.1038/122439a0](https://doi.org/10.1038/122439a0)
 
-Hahn, E. L. (1950). Spin echoes. *Physical Review*, 80(4), 580–594.
+Hahn, E. L. (1950). Spin echoes. *Physical Review*, 80(4), 580–594. [doi:10.1103/physrev.80.580](https://doi.org/10.1103/physrev.80.580)
 
-Hänggi, P., Talkner, P., & Borkovec, M. (1990). Reaction-rate theory: fifty years after Kramers. *Reviews of Modern Physics*, 62(2), 251–341.
+Hänggi, P., Talkner, P., & Borkovec, M. (1990). Reaction-rate theory: fifty years after Kramers. *Reviews of Modern Physics*, 62(2), 251–341. [doi:10.1103/revmodphys.62.251](https://doi.org/10.1103/revmodphys.62.251)
 
-Hensen, B., et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682–686.
+Hensen, B., et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682–686. [doi:10.1038/nature15759](https://doi.org/10.1038/nature15759)
 
-Itano, W. M., Heinzen, D. J., Bollinger, J. J., & Wineland, D. J. (1990). Quantum Zeno effect. *Physical Review A*, 41(5), 2295–2300.
+Itano, W. M., Heinzen, D. J., Bollinger, J. J., & Wineland, D. J. (1990). Quantum Zeno effect. *Physical Review A*, 41(5), 2295–2300. [doi:10.1103/physreva.41.2295](https://doi.org/10.1103/physreva.41.2295)
 
-Kim, Y.-H., Yu, R., Kulik, S. P., Shih, Y., & Scully, M. O. (2000). Delayed "choice" quantum eraser. *Physical Review Letters*, 84(1), 1–5.
+Kim, Y.-H., Yu, R., Kulik, S. P., Shih, Y., & Scully, M. O. (2000). Delayed "choice" quantum eraser. *Physical Review Letters*, 84(1), 1–5. [doi:10.1103/physrevlett.84.1](https://doi.org/10.1103/physrevlett.84.1)
 
-Li, Z.-D., et al. (2022). Testing real quantum theory in an optical quantum network. *Physical Review Letters*, 128(4), 040402.
+Li, Z.-D., et al. (2022). Testing real quantum theory in an optical quantum network. *Physical Review Letters*, 128(4), 040402. [doi:10.1103/physrevlett.128.040402](https://doi.org/10.1103/physrevlett.128.040402)
 
-Misra, B., & Sudarshan, E. C. G. (1977). The Zeno's paradox in quantum theory. *Journal of Mathematical Physics*, 18(4), 756–763.
+Misra, B., & Sudarshan, E. C. G. (1977). The Zeno's paradox in quantum theory. *Journal of Mathematical Physics*, 18(4), 756–763. [doi:10.1063/1.523304](https://doi.org/10.1063/1.523304)
 
-Osborne, T. J., & Verstraete, F. (2006). General monogamy inequality for bipartite qubit entanglement. *Physical Review Letters*, 96(22), 220503.
+Osborne, T. J., & Verstraete, F. (2006). General monogamy inequality for bipartite qubit entanglement. *Physical Review Letters*, 96(22), 220503. [doi:10.1103/physrevlett.96.220503](https://doi.org/10.1103/physrevlett.96.220503)
 
-Page, D. N. (1993). Information in black hole radiation. *Physical Review Letters*, 71(23), 3743–3746.
+Page, D. N. (1993). Information in black hole radiation. *Physical Review Letters*, 71(23), 3743–3746. [doi:10.1103/physrevlett.71.3743](https://doi.org/10.1103/physrevlett.71.3743)
 
-Particle Data Group: Navas, S., et al. (2024). Review of Particle Physics. *Physical Review D*, 110, 030001.
+Particle Data Group: Navas, S., et al. (2024). Review of Particle Physics. *Physical Review D*, 110, 030001. [doi:10.1103/PhysRevD.110.030001](https://doi.org/10.1103/PhysRevD.110.030001)
 
-Renou, M.-O., et al. (2021). Quantum theory based on real numbers can be experimentally falsified. *Nature*, 600, 625–629.
+Renou, M.-O., et al. (2021). Quantum theory based on real numbers can be experimentally falsified. *Nature*, 600, 625–629. [doi:10.1038/s41586-021-04160-4](https://doi.org/10.1038/s41586-021-04160-4)
 
-Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678.
+Rovelli, C. (1996). Relational quantum mechanics. *International Journal of Theoretical Physics*, 35(8), 1637–1678. [doi:10.1007/bf02302261](https://doi.org/10.1007/bf02302261)
 
-Shor, P. W. (1995). Scheme for reducing decoherence in quantum computer memory. *Physical Review A*, 52(4), R2493–R2496.
+Shor, P. W. (1995). Scheme for reducing decoherence in quantum computer memory. *Physical Review A*, 52(4), R2493–R2496. [doi:10.1103/physreva.52.r2493](https://doi.org/10.1103/physreva.52.r2493)
 
-STAR Collaboration: Adam, J., et al. (2021). Measurement of e⁺e⁻ momentum and angular distributions from linearly polarized photon collisions. *Physical Review Letters*, 127, 052302.
+STAR Collaboration: Adam, J., et al. (2021). Measurement of e⁺e⁻ momentum and angular distributions from linearly polarized photon collisions. *Physical Review Letters*, 127, 052302. [doi:10.1103/PhysRevLett.127.052302](https://doi.org/10.1103/PhysRevLett.127.052302)
 
-Takenaka, A., et al. (Super-Kamiokande Collaboration) (2020). Search for proton decay via p → e⁺π⁰ and p → μ⁺π⁰ with an enlarged fiducial volume in Super-Kamiokande I–IV. *Physical Review D*, 102, 112011.
+Takenaka, A., et al. (Super-Kamiokande Collaboration) (2020). Search for proton decay via p → e⁺π⁰ and p → μ⁺π⁰ with an enlarged fiducial volume in Super-Kamiokande I–IV. *Physical Review D*, 102, 112011. [doi:10.1103/PhysRevD.102.112011](https://doi.org/10.1103/PhysRevD.102.112011)
 
-Unden, T. K., Louzon, D., Zwolak, M., Zurek, W. H., & Jelezko, F. (2019). Revealing the emergence of classicality using nitrogen-vacancy centers. *Physical Review Letters*, 123, 140402.
+Unden, T. K., Louzon, D., Zwolak, M., Zurek, W. H., & Jelezko, F. (2019). Revealing the emergence of classicality using nitrogen-vacancy centers. *Physical Review Letters*, 123, 140402. [doi:10.1103/physrevlett.123.140402](https://doi.org/10.1103/physrevlett.123.140402)
 
-Wootters, W. K., & Zurek, W. H. (1982). A single quantum cannot be cloned. *Nature*, 299, 802–803.
+Wootters, W. K., & Zurek, W. H. (1982). A single quantum cannot be cloned. *Nature*, 299, 802–803. [doi:10.1038/299802a0](https://doi.org/10.1038/299802a0)
 
-Yang, Y.-B., et al. (2018). Proton mass decomposition from the QCD energy momentum tensor. *Physical Review Letters*, 121(21), 212001.
+Yang, Y.-B., et al. (2018). Proton mass decomposition from the QCD energy momentum tensor. *Physical Review Letters*, 121(21), 212001. [doi:10.1103/physrevlett.121.212001](https://doi.org/10.1103/physrevlett.121.212001)
 
-Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775.
+Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics*, 75(3), 715–775. [doi:10.1103/revmodphys.75.715](https://doi.org/10.1103/revmodphys.75.715)
 
-Zurek, W. H. (2005). Probabilities from entanglement, Born's rule p_k = |ψ_k|² from envariance. *Physical Review A*, 71, 052105.
+Zurek, W. H. (2005). Probabilities from entanglement, Born's rule p_k = |ψ_k|² from envariance. *Physical Review A*, 71, 052105. [doi:10.1103/physreva.71.052105](https://doi.org/10.1103/physreva.71.052105)
 
-Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5, 181–188.
+Zurek, W. H. (2009). Quantum Darwinism. *Nature Physics*, 5, 181–188. [doi:10.1038/nphys1202](https://doi.org/10.1038/nphys1202)
 
 ---

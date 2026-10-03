@@ -228,70 +228,70 @@ That is the *how*. The *why* is for the Speelgoed to say.
 
 ## References
 
-Allesina, S., & Tang, S. (2012). Stability criteria for complex ecosystems. *Nature*, 483, 205-208.
+Allesina, S., & Tang, S. (2012). Stability criteria for complex ecosystems. *Nature*, 483, 205-208. [doi:10.1038/nature10832](https://doi.org/10.1038/nature10832)
 
-Carpenter, S. R., et al. (2011). Early warnings of regime shifts: A whole-ecosystem experiment. *Science*, 332(6033), 1079-1082. doi:10.1126/science.1203672
+Carpenter, S. R., et al. (2011). Early warnings of regime shifts: A whole-ecosystem experiment. *Science*, 332(6033), 1079-1082. [doi:10.1126/science.1203672](https://doi.org/10.1126/science.1203672)
 
-Chapin, F. S., Matson, P. A., & Vitousek, P. M. (2011). *Principles of Terrestrial Ecosystem Ecology* (2nd ed.). New York: Springer.
+Chapin, F. S., Matson, P. A., & Vitousek, P. M. (2011). *Principles of Terrestrial Ecosystem Ecology* (2nd ed.). New York: Springer. [doi:10.1007/978-1-4419-9504-9](https://doi.org/10.1007/978-1-4419-9504-9)
 
-Connell, J. H. (1980). Diversity and the coevolution of competitors, or the ghost of competition past. *Oikos*, 35, 131-138.
+Connell, J. H. (1980). Diversity and the coevolution of competitors, or the ghost of competition past. *Oikos*, 35, 131-138. [doi:10.2307/3544421](https://doi.org/10.2307/3544421)
 
-Courchamp, F., Clutton-Brock, T., & Grenfell, B. (1999). Inverse density dependence and the Allee effect. *Trends in Ecology & Evolution*, 14(10), 405-410. doi:10.1016/S0169-5347(99)01683-3
+Courchamp, F., Clutton-Brock, T., & Grenfell, B. (1999). Inverse density dependence and the Allee effect. *Trends in Ecology & Evolution*, 14(10), 405-410. [doi:10.1016/S0169-5347(99)01683-3](https://doi.org/10.1016/S0169-5347%2899%2901683-3)
 
-Davies, N. B. (2015). *Cuckoo: Cheating by Nature*. London: Bloomsbury.
+Davies, N. B. (2015). *Cuckoo: Cheating by Nature*. London: Bloomsbury. [Internet Archive](https://archive.org/details/cuckoocheatingby0000davi)
 
-Drake, J. M., & Griffen, B. D. (2010). Early warning signals of extinction in deteriorating environments. *Nature*, 467(7314), 456-459.
+Drake, J. M., & Griffen, B. D. (2010). Early warning signals of extinction in deteriorating environments. *Nature*, 467(7314), 456-459. [doi:10.1038/nature09389](https://doi.org/10.1038/nature09389)
 
-Estes, J. A., & Palmisano, J. F. (1974). Sea otters: Their role in structuring nearshore communities. *Science*, 185(4156), 1058-1060.
+Estes, J. A., & Palmisano, J. F. (1974). Sea otters: Their role in structuring nearshore communities. *Science*, 185(4156), 1058-1060. [doi:10.1126/science.185.4156.1058](https://doi.org/10.1126/science.185.4156.1058)
 
-Estes, J. A., Tinker, M. T., Williams, T. M., & Doak, D. F. (1998). Killer whale predation on sea otters linking oceanic and nearshore ecosystems. *Science*, 282(5388), 473-476.
+Estes, J. A., Tinker, M. T., Williams, T. M., & Doak, D. F. (1998). Killer whale predation on sea otters linking oceanic and nearshore ecosystems. *Science*, 282(5388), 473-476. [doi:10.1126/science.282.5388.473](https://doi.org/10.1126/science.282.5388.473)
 
-Guimarães, P. R., Galetti, M., & Jordano, P. (2008). Seed dispersal anachronisms: Rethinking the fruits extinct megafauna ate. *PLoS ONE*, 3(3), e1745.
+Guimarães, P. R., Galetti, M., & Jordano, P. (2008). Seed dispersal anachronisms: Rethinking the fruits extinct megafauna ate. *PLoS ONE*, 3(3), e1745. [doi:10.1371/journal.pone.0001745](https://doi.org/10.1371/journal.pone.0001745)
 
-Janzen, D. H., & Martin, P. S. (1982). Neotropical anachronisms: The fruits the gomphotheres ate. *Science*, 215, 19-27.
+Janzen, D. H., & Martin, P. S. (1982). Neotropical anachronisms: The fruits the gomphotheres ate. *Science*, 215, 19-27. [doi:10.1126/science.215.4528.19](https://doi.org/10.1126/science.215.4528.19)
 
-Karst, J., Jones, M. D., & Hoeksema, J. D. (2023). Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests. *Nature Ecology & Evolution*, 7, 501-511. doi:10.1038/s41559-023-01986-1
+Karst, J., Jones, M. D., & Hoeksema, J. D. (2023). Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests. *Nature Ecology & Evolution*, 7, 501-511. [doi:10.1038/s41559-023-01986-1](https://doi.org/10.1038/s41559-023-01986-1)
 
-Kilner, R. M., Noble, D. G., & Davies, N. B. (1999). Signals of need in parent-offspring communication and their exploitation by the common cuckoo. *Nature*, 397, 667-672.
+Kilner, R. M., Noble, D. G., & Davies, N. B. (1999). Signals of need in parent-offspring communication and their exploitation by the common cuckoo. *Nature*, 397, 667-672. [doi:10.1038/17746](https://doi.org/10.1038/17746)
 
-Koh, L. P., et al. (2004). Species coextinctions and the biodiversity crisis. *Science*, 305(5690), 1632-1634. doi:10.1126/science.1101101
+Koh, L. P., et al. (2004). Species coextinctions and the biodiversity crisis. *Science*, 305(5690), 1632-1634. [doi:10.1126/science.1101101](https://doi.org/10.1126/science.1101101)
 
-Kramer, A. M., Dennis, B., Liebhold, A. M., & Drake, J. M. (2009). The evidence for Allee effects. *Population Ecology*, 51(3), 341-354. doi:10.1007/s10144-009-0152-6
+Kramer, A. M., Dennis, B., Liebhold, A. M., & Drake, J. M. (2009). The evidence for Allee effects. *Population Ecology*, 51(3), 341-354. [doi:10.1007/s10144-009-0152-6](https://doi.org/10.1007/s10144-009-0152-6)
 
-Lande, R. (1993). Risks of population extinction from demographic and environmental stochasticity and random catastrophes. *The American Naturalist*, 142, 911-927.
+Lande, R. (1993). Risks of population extinction from demographic and environmental stochasticity and random catastrophes. *The American Naturalist*, 142, 911-927. [doi:10.1086/285580](https://doi.org/10.1086/285580)
 
-Lendemer, J. C., Keepers, K. G., Tripp, E. A., Pogoda, C. S., McCain, C. M., & Kane, N. C. (2019). A taxonomically broad metagenomic survey of 339 species spanning 57 families suggests cystobasidiomycete yeasts are not ubiquitous across all lichens. *American Journal of Botany*, 106(8), 1090-1095.
+Lendemer, J. C., Keepers, K. G., Tripp, E. A., Pogoda, C. S., McCain, C. M., & Kane, N. C. (2019). A taxonomically broad metagenomic survey of 339 species spanning 57 families suggests cystobasidiomycete yeasts are not ubiquitous across all lichens. *American Journal of Botany*, 106(8), 1090-1095. [doi:10.1002/ajb2.1339](https://doi.org/10.1002/ajb2.1339)
 
-May, R. M. (1972). Will a large complex system be stable? *Nature*, 238, 413-414.
+May, R. M. (1972). Will a large complex system be stable? *Nature*, 238, 413-414. [doi:10.1038/238413a0](https://doi.org/10.1038/238413a0)
 
-May, R. M. (1977). Thresholds and breakpoints in ecosystems with a multiplicity of stable states. *Nature*, 269, 471-477.
+May, R. M. (1977). Thresholds and breakpoints in ecosystems with a multiplicity of stable states. *Nature*, 269, 471-477. [doi:10.1038/269471a0](https://doi.org/10.1038/269471a0)
 
-McCann, K., Hastings, A., & Huxel, G. R. (1998). Weak trophic interactions and the balance of nature. *Nature*, 395, 794-798.
+McCann, K., Hastings, A., & Huxel, G. R. (1998). Weak trophic interactions and the balance of nature. *Nature*, 395, 794-798. [doi:10.1038/27427](https://doi.org/10.1038/27427)
 
-Ogle, K., et al. (2015). Quantifying ecological memory in plant and ecosystem processes. *Ecology Letters*, 18(3), 221-235. doi:10.1111/ele.12399
+Ogle, K., et al. (2015). Quantifying ecological memory in plant and ecosystem processes. *Ecology Letters*, 18(3), 221-235. [doi:10.1111/ele.12399](https://doi.org/10.1111/ele.12399)
 
-Paine, R. T. (1966). Food web complexity and species diversity. *The American Naturalist*, 100(910), 65-75.
+Paine, R. T. (1966). Food web complexity and species diversity. *The American Naturalist*, 100(910), 65-75. [doi:10.1086/282400](https://doi.org/10.1086/282400)
 
-Ruxton, G. D., Sherratt, T. N., & Speed, M. P. (2004). *Avoiding Attack: The Evolutionary Ecology of Crypsis, Warning Signals and Mimicry*. Oxford: Oxford University Press.
+Ruxton, G. D., Sherratt, T. N., & Speed, M. P. (2004). *Avoiding Attack: The Evolutionary Ecology of Crypsis, Warning Signals and Mimicry*. Oxford: Oxford University Press. [doi:10.1093/acprof:oso/9780198528609.001.0001](https://doi.org/10.1093/acprof:oso/9780198528609.001.0001)
 
-Sagan, L. [later Margulis] (1967). On the origin of mitosing cells. *Journal of Theoretical Biology*, 14(3), 255-274.
+Sagan, L. [later Margulis] (1967). On the origin of mitosing cells. *Journal of Theoretical Biology*, 14(3), 255-274. [doi:10.1016/0022-5193(67)90079-3](https://doi.org/10.1016/0022-5193%2867%2990079-3)
 
-Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. *Nature*, 413(6856), 591-596. doi:10.1038/35098000
+Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. *Nature*, 413(6856), 591-596. [doi:10.1038/35098000](https://doi.org/10.1038/35098000)
 
-Scheffer, M., et al. (2009). Early-warning signals for critical transitions. *Nature*, 461, 53-59. doi:10.1038/nature08227
+Scheffer, M., et al. (2009). Early-warning signals for critical transitions. *Nature*, 461, 53-59. [doi:10.1038/nature08227](https://doi.org/10.1038/nature08227)
 
-Smith, S. E., & Read, D. J. (2008). *Mycorrhizal Symbiosis* (3rd ed.). London: Academic Press.
+Smith, S. E., & Read, D. J. (2008). *Mycorrhizal Symbiosis* (3rd ed.). London: Academic Press. [doi:10.1016/B978-0-12-370526-6.X5001-6](https://doi.org/10.1016/B978-0-12-370526-6.X5001-6)
 
-Solé, R. (2022). Revisiting Leigh Van Valen's "A New Evolutionary Law" (1973). *Biological Theory*, 17, 120-125.
+Solé, R. (2022). Revisiting Leigh Van Valen's "A New Evolutionary Law" (1973). *Biological Theory*, 17, 120-125. [doi:10.1007/s13752-021-00391-w](https://doi.org/10.1007/s13752-021-00391-w)
 
-Spribille, T., et al. (2016). Basidiomycete yeasts in the cortex of ascomycete macrolichens. *Science*, 353(6298), 488-492.
+Spribille, T., et al. (2016). Basidiomycete yeasts in the cortex of ascomycete macrolichens. *Science*, 353(6298), 488-492. [doi:10.1126/science.aaf8287](https://doi.org/10.1126/science.aaf8287)
 
-Stearns, S. C. (1992). *The Evolution of Life Histories*. Oxford: Oxford University Press.
+Stearns, S. C. (1992). *The Evolution of Life Histories*. Oxford: Oxford University Press. [doi:10.1093/oso/9780198577416.001.0001](https://doi.org/10.1093/oso/9780198577416.001.0001)
 
-Tilman, D., May, R. M., Lehman, C. L., & Nowak, M. A. (1994). Habitat destruction and the extinction debt. *Nature*, 371(6492), 65-66.
+Tilman, D., May, R. M., Lehman, C. L., & Nowak, M. A. (1994). Habitat destruction and the extinction debt. *Nature*, 371(6492), 65-66. [doi:10.1038/371065a0](https://doi.org/10.1038/371065a0)
 
-Van Valen, L. (1973). A new evolutionary law. *Evolutionary Theory*, 1, 1-30.
+Van Valen, L. (1973). A new evolutionary law. *Evolutionary Theory*, 1, 1-30. [PDF](https://www.mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf)
 
-Wang, R., Dearing, J. A., Langdon, P. G., Zhang, E., Yang, X., Dakos, V., & Scheffer, M. (2012). Flickering gives early warning signals of a critical transition to a eutrophic lake state. *Nature*, 492, 419-422. doi:10.1038/nature11655
+Wang, R., Dearing, J. A., Langdon, P. G., Zhang, E., Yang, X., Dakos, V., & Scheffer, M. (2012). Flickering gives early warning signals of a critical transition to a eutrophic lake state. *Nature*, 492, 419-422. [doi:10.1038/nature11655](https://doi.org/10.1038/nature11655)
 
 ---

@@ -337,134 +337,134 @@ That is the *how*. The *why* is for the Speelgoed to say.
 
 ## References
 
-Acar, M., Becskei, A., & van Oudenaarden, A. (2005). Enhancement of cellular memory by reducing stochastic transitions. *Nature*, 435(7039), 228-232. doi:10.1038/nature03524
+Acar, M., Becskei, A., & van Oudenaarden, A. (2005). Enhancement of cellular memory by reducing stochastic transitions. *Nature*, 435(7039), 228-232. [doi:10.1038/nature03524](https://doi.org/10.1038/nature03524)
 
-Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. (2015). Cancer across the tree of life: Cooperation and cheating in multicellularity. *Philosophical Transactions of the Royal Society B*, 370(1673), 20140219. doi:10.1098/rstb.2014.0219
+Aktipis, C. A., Boddy, A. M., Jansen, G., Hibner, U., Hochberg, M. E., Maley, C. C., & Wilkinson, G. S. (2015). Cancer across the tree of life: Cooperation and cheating in multicellularity. *Philosophical Transactions of the Royal Society B*, 370(1673), 20140219. [doi:10.1098/rstb.2014.0219](https://doi.org/10.1098/rstb.2014.0219)
 
-Alon, U., Surette, M. G., Barkai, N., & Leibler, S. (1999). Robustness in bacterial chemotaxis. *Nature*, 397(6715), 168-171. doi:10.1038/16483
+Alon, U., Surette, M. G., Barkai, N., & Leibler, S. (1999). Robustness in bacterial chemotaxis. *Nature*, 397(6715), 168-171. [doi:10.1038/16483](https://doi.org/10.1038/16483)
 
-Anderson, S., et al. (1981). Sequence and organization of the human mitochondrial genome. *Nature*, 290(5806), 457-465. doi:10.1038/290457a0
+Anderson, S., et al. (1981). Sequence and organization of the human mitochondrial genome. *Nature*, 290(5806), 457-465. [doi:10.1038/290457a0](https://doi.org/10.1038/290457a0)
 
-Assaf, M., & Meerson, B. (2017). WKB theory of large deviations in stochastic populations. *Journal of Physics A: Mathematical and Theoretical*, 50(26), 263001. doi:10.1088/1751-8121/aa669a
+Assaf, M., & Meerson, B. (2017). WKB theory of large deviations in stochastic populations. *Journal of Physics A: Mathematical and Theoretical*, 50(26), 263001. [doi:10.1088/1751-8121/aa669a](https://doi.org/10.1088/1751-8121/aa669a)
 
-Attwater, J., Augustin, T. L., Curran, J. F., Kwok, S. L. Y., Ohlendorf, L., Gianni, E., & Holliger, P. (2025). Trinucleotide substrates under pH–freeze–thaw cycles enable open-ended exponential RNA replication by a polymerase ribozyme. *Nature Chemistry*, 17(7), 1129-1137. doi:10.1038/s41557-025-01830-y
+Attwater, J., Augustin, T. L., Curran, J. F., Kwok, S. L. Y., Ohlendorf, L., Gianni, E., & Holliger, P. (2025). Trinucleotide substrates under pH–freeze–thaw cycles enable open-ended exponential RNA replication by a polymerase ribozyme. *Nature Chemistry*, 17(7), 1129-1137. [doi:10.1038/s41557-025-01830-y](https://doi.org/10.1038/s41557-025-01830-y)
 
-Barkai, N., & Leibler, S. (1997). Robustness in simple biochemical networks. *Nature*, 387(6636), 913-917. doi:10.1038/43199
+Barkai, N., & Leibler, S. (1997). Robustness in simple biochemical networks. *Nature*, 387(6636), 913-917. [doi:10.1038/43199](https://doi.org/10.1038/43199)
 
-Barrangou, R., Fremaux, C., Deveau, H., Richards, M., Boyaval, P., Moineau, S., Romero, D. A., & Horvath, P. (2007). CRISPR provides acquired resistance against viruses in prokaryotes. *Science*, 315(5819), 1709-1712. doi:10.1126/science.1138140
+Barrangou, R., Fremaux, C., Deveau, H., Richards, M., Boyaval, P., Moineau, S., Romero, D. A., & Horvath, P. (2007). CRISPR provides acquired resistance against viruses in prokaryotes. *Science*, 315(5819), 1709-1712. [doi:10.1126/science.1138140](https://doi.org/10.1126/science.1138140)
 
-Berg, H. C., & Purcell, E. M. (1977). Physics of chemoreception. *Biophysical Journal*, 20(2), 193-219. doi:10.1016/S0006-3495(77)85544-6
+Berg, H. C., & Purcell, E. M. (1977). Physics of chemoreception. *Biophysical Journal*, 20(2), 193-219. [doi:10.1016/S0006-3495(77)85544-6](https://doi.org/10.1016/S0006-3495%2877%2985544-6)
 
-Bialek, W., & Setayeshgar, S. (2005). Physical limits to biochemical signaling. *Proceedings of the National Academy of Sciences*, 102(29), 10040-10045. doi:10.1073/pnas.0504321102
+Bialek, W., & Setayeshgar, S. (2005). Physical limits to biochemical signaling. *Proceedings of the National Academy of Sciences*, 102(29), 10040-10045. [doi:10.1073/pnas.0504321102](https://doi.org/10.1073/pnas.0504321102)
 
-Campos, M., Surovtsev, I. V., Kato, S., Paintdakhi, A., Beltran, B., Ebmeier, S. E., & Jacobs-Wagner, C. (2014). A constant size extension drives bacterial cell size homeostasis. *Cell*, 159(6), 1433-1446. doi:10.1016/j.cell.2014.11.022
+Campos, M., Surovtsev, I. V., Kato, S., Paintdakhi, A., Beltran, B., Ebmeier, S. E., & Jacobs-Wagner, C. (2014). A constant size extension drives bacterial cell size homeostasis. *Cell*, 159(6), 1433-1446. [doi:10.1016/j.cell.2014.11.022](https://doi.org/10.1016/j.cell.2014.11.022)
 
-Cherry, J. L., & Adler, F. R. (2000). How to make a biological switch. *Journal of Theoretical Biology*, 203(2), 117-133. doi:10.1006/jtbi.2000.1068
+Cherry, J. L., & Adler, F. R. (2000). How to make a biological switch. *Journal of Theoretical Biology*, 203(2), 117-133. [doi:10.1006/jtbi.2000.1068](https://doi.org/10.1006/jtbi.2000.1068)
 
-Daffis, S., et al. (2010). 2'-O methylation of the viral mRNA cap evades host restriction by IFIT family members. *Nature*, 468(7322), 452-456. doi:10.1038/nature09489
+Daffis, S., et al. (2010). 2'-O methylation of the viral mRNA cap evades host restriction by IFIT family members. *Nature*, 468(7322), 452-456. [doi:10.1038/nature09489](https://doi.org/10.1038/nature09489)
 
-Deveau, H., et al. (2008). Phage response to CRISPR-encoded resistance in *Streptococcus thermophilus*. *Journal of Bacteriology*, 190(4), 1390-1400. doi:10.1128/JB.01412-07
+Deveau, H., et al. (2008). Phage response to CRISPR-encoded resistance in *Streptococcus thermophilus*. *Journal of Bacteriology*, 190(4), 1390-1400. [doi:10.1128/JB.01412-07](https://doi.org/10.1128/JB.01412-07)
 
-Drake, J. W. (1991). A constant rate of spontaneous mutation in DNA-based microbes. *Proceedings of the National Academy of Sciences*, 88(16), 7160-7164. doi:10.1073/pnas.88.16.7160
+Drake, J. W. (1991). A constant rate of spontaneous mutation in DNA-based microbes. *Proceedings of the National Academy of Sciences*, 88(16), 7160-7164. [doi:10.1073/pnas.88.16.7160](https://doi.org/10.1073/pnas.88.16.7160)
 
-Dunn, G. P., Bruce, A. T., Ikeda, H., Old, L. J., & Schreiber, R. D. (2002). Cancer immunoediting: From immunosurveillance to tumor escape. *Nature Immunology*, 3(11), 991-998. doi:10.1038/ni1102-991
+Dunn, G. P., Bruce, A. T., Ikeda, H., Old, L. J., & Schreiber, R. D. (2002). Cancer immunoediting: From immunosurveillance to tumor escape. *Nature Immunology*, 3(11), 991-998. [doi:10.1038/ni1102-991](https://doi.org/10.1038/ni1102-991)
 
-Eigen, M. (1971). Selforganization of matter and the evolution of biological macromolecules. *Die Naturwissenschaften*, 58(10), 465-523. doi:10.1007/BF00623322
+Eigen, M. (1971). Selforganization of matter and the evolution of biological macromolecules. *Die Naturwissenschaften*, 58(10), 465-523. [doi:10.1007/BF00623322](https://doi.org/10.1007/BF00623322)
 
-Ellis, H. M., & Horvitz, H. R. (1986). Genetic control of programmed cell death in the nematode *C. elegans*. *Cell*, 44(6), 817-829. doi:10.1016/0092-8674(86)90004-8
+Ellis, H. M., & Horvitz, H. R. (1986). Genetic control of programmed cell death in the nematode *C. elegans*. *Cell*, 44(6), 817-829. [doi:10.1016/0092-8674(86)90004-8](https://doi.org/10.1016/0092-8674%2886%2990004-8)
 
-Furshpan, E. J., & Potter, D. D. (1959). Transmission at the giant motor synapses of the crayfish. *The Journal of Physiology*, 145(2), 289-325. doi:10.1113/jphysiol.1959.sp006143
+Furshpan, E. J., & Potter, D. D. (1959). Transmission at the giant motor synapses of the crayfish. *The Journal of Physiology*, 145(2), 289-325. [doi:10.1113/jphysiol.1959.sp006143](https://doi.org/10.1113/jphysiol.1959.sp006143)
 
-Gardner, T. S., Cantor, C. R., & Collins, J. J. (2000). Construction of a genetic toggle switch in *Escherichia coli*. *Nature*, 403(6767), 339-342. doi:10.1038/35002131
+Gardner, T. S., Cantor, C. R., & Collins, J. J. (2000). Construction of a genetic toggle switch in *Escherichia coli*. *Nature*, 403(6767), 339-342. [doi:10.1038/35002131](https://doi.org/10.1038/35002131)
 
-Gianni, E., Kwok, S. L. Y., Wan, C. J. K., Goeij, K., Clifton, B. E., Colizzi, E. S., Attwater, J., & Holliger, P. (2026). A small polymerase ribozyme that can synthesize itself and its complementary strand. *Science*, 391(6789), 1022-1028. doi:10.1126/science.adt2760
+Gianni, E., Kwok, S. L. Y., Wan, C. J. K., Goeij, K., Clifton, B. E., Colizzi, E. S., Attwater, J., & Holliger, P. (2026). A small polymerase ribozyme that can synthesize itself and its complementary strand. *Science*, 391(6789), 1022-1028. [doi:10.1126/science.adt2760](https://doi.org/10.1126/science.adt2760)
 
-Gilbert, W. (1986). Origin of life: The RNA world. *Nature*, 319(6055), 618. doi:10.1038/319618a0
+Gilbert, W. (1986). Origin of life: The RNA world. *Nature*, 319(6055), 618. [doi:10.1038/319618a0](https://doi.org/10.1038/319618a0)
 
-Goldstein, J. C., Waterhouse, N. J., Juin, P., Evan, G. I., & Green, D. R. (2000). The coordinate release of cytochrome c during apoptosis is rapid, complete and kinetically invariant. *Nature Cell Biology*, 2(3), 156-162. doi:10.1038/35004029
+Goldstein, J. C., Waterhouse, N. J., Juin, P., Evan, G. I., & Green, D. R. (2000). The coordinate release of cytochrome c during apoptosis is rapid, complete and kinetically invariant. *Nature Cell Biology*, 2(3), 156-162. [doi:10.1038/35004029](https://doi.org/10.1038/35004029)
 
-Goodenough, D. A., & Paul, D. L. (2009). Gap junctions. *Cold Spring Harbor Perspectives in Biology*, 1(1), a002576. doi:10.1101/cshperspect.a002576
+Goodenough, D. A., & Paul, D. L. (2009). Gap junctions. *Cold Spring Harbor Perspectives in Biology*, 1(1), a002576. [doi:10.1101/cshperspect.a002576](https://doi.org/10.1101/cshperspect.a002576)
 
-Hanahan, D., & Weinberg, R. A. (2011). Hallmarks of cancer: The next generation. *Cell*, 144(5), 646-674. doi:10.1016/j.cell.2011.02.013
+Hanahan, D., & Weinberg, R. A. (2011). Hallmarks of cancer: The next generation. *Cell*, 144(5), 646-674. [doi:10.1016/j.cell.2011.02.013](https://doi.org/10.1016/j.cell.2011.02.013)
 
-Hopfield, J. J. (1974). Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity. *Proceedings of the National Academy of Sciences*, 71(10), 4135-4139. doi:10.1073/pnas.71.10.4135
+Hopfield, J. J. (1974). Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity. *Proceedings of the National Academy of Sciences*, 71(10), 4135-4139. [doi:10.1073/pnas.71.10.4135](https://doi.org/10.1073/pnas.71.10.4135)
 
-Horvath, P., et al. (2008). Diversity, activity, and evolution of CRISPR loci in *Streptococcus thermophilus*. *Journal of Bacteriology*, 190(4), 1401-1412. doi:10.1128/JB.01415-07
+Horvath, P., et al. (2008). Diversity, activity, and evolution of CRISPR loci in *Streptococcus thermophilus*. *Journal of Bacteriology*, 190(4), 1401-1412. [doi:10.1128/JB.01415-07](https://doi.org/10.1128/JB.01415-07)
 
-Iwai, Y., Ishida, M., Tanaka, Y., Okazaki, T., Honjo, T., & Minato, N. (2002). Involvement of PD-L1 on tumor cells in the escape from host immune system and tumor immunotherapy by PD-L1 blockade. *Proceedings of the National Academy of Sciences*, 99(19), 12293-12297. doi:10.1073/pnas.192461099
+Iwai, Y., Ishida, M., Tanaka, Y., Okazaki, T., Honjo, T., & Minato, N. (2002). Involvement of PD-L1 on tumor cells in the escape from host immune system and tumor immunotherapy by PD-L1 blockade. *Proceedings of the National Academy of Sciences*, 99(19), 12293-12297. [doi:10.1073/pnas.192461099](https://doi.org/10.1073/pnas.192461099)
 
-Jaiswal, S., et al. (2009). CD47 is upregulated on circulating hematopoietic stem cells and leukemia cells to avoid phagocytosis. *Cell*, 138(2), 271-285. doi:10.1016/j.cell.2009.05.046
+Jaiswal, S., et al. (2009). CD47 is upregulated on circulating hematopoietic stem cells and leukemia cells to avoid phagocytosis. *Cell*, 138(2), 271-285. [doi:10.1016/j.cell.2009.05.046](https://doi.org/10.1016/j.cell.2009.05.046)
 
-Jannasch, H. W., & Mottl, M. J. (1985). Geomicrobiology of deep-sea hydrothermal vents. *Science*, 229(4715), 717-725. doi:10.1126/science.229.4715.717
+Jannasch, H. W., & Mottl, M. J. (1985). Geomicrobiology of deep-sea hydrothermal vents. *Science*, 229(4715), 717-725. [doi:10.1126/science.229.4715.717](https://doi.org/10.1126/science.229.4715.717)
 
-Karnkowska, A., et al. (2016). A eukaryote without a mitochondrial organelle. *Current Biology*, 26(10), 1274-1284. doi:10.1016/j.cub.2016.03.053
+Karnkowska, A., et al. (2016). A eukaryote without a mitochondrial organelle. *Current Biology*, 26(10), 1274-1284. [doi:10.1016/j.cub.2016.03.053](https://doi.org/10.1016/j.cub.2016.03.053)
 
-Kerr, J. F. R., Wyllie, A. H., & Currie, A. R. (1972). Apoptosis: A basic biological phenomenon with wide-ranging implications in tissue kinetics. *British Journal of Cancer*, 26(4), 239-257. doi:10.1038/bjc.1972.33
+Kerr, J. F. R., Wyllie, A. H., & Currie, A. R. (1972). Apoptosis: A basic biological phenomenon with wide-ranging implications in tissue kinetics. *British Journal of Cancer*, 26(4), 239-257. [doi:10.1038/bjc.1972.33](https://doi.org/10.1038/bjc.1972.33)
 
-Korobkova, E., Emonet, T., Vilar, J. M. G., Shimizu, T. S., & Cluzel, P. (2004). From molecular noise to behavioural variability in a single bacterium. *Nature*, 428(6982), 574-578. doi:10.1038/nature02404
+Korobkova, E., Emonet, T., Vilar, J. M. G., Shimizu, T. S., & Cluzel, P. (2004). From molecular noise to behavioural variability in a single bacterium. *Nature*, 428(6982), 574-578. [doi:10.1038/nature02404](https://doi.org/10.1038/nature02404)
 
-Larralde, R., Robertson, M. P., & Miller, S. L. (1995). Rates of decomposition of ribose and other sugars: Implications for chemical evolution. *Proceedings of the National Academy of Sciences*, 92(18), 8158-8160. doi:10.1073/pnas.92.18.8158
+Larralde, R., Robertson, M. P., & Miller, S. L. (1995). Rates of decomposition of ribose and other sugars: Implications for chemical evolution. *Proceedings of the National Academy of Sciences*, 92(18), 8158-8160. [doi:10.1073/pnas.92.18.8158](https://doi.org/10.1073/pnas.92.18.8158)
 
-Majeti, R., et al. (2009). CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells. *Cell*, 138(2), 286-299. doi:10.1016/j.cell.2009.05.045
+Majeti, R., et al. (2009). CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells. *Cell*, 138(2), 286-299. [doi:10.1016/j.cell.2009.05.045](https://doi.org/10.1016/j.cell.2009.05.045)
 
-Marraffini, L. A., & Sontheimer, E. J. (2010). Self versus non-self discrimination during CRISPR RNA-directed immunity. *Nature*, 463(7280), 568-571. doi:10.1038/nature08703
+Marraffini, L. A., & Sontheimer, E. J. (2010). Self versus non-self discrimination during CRISPR RNA-directed immunity. *Nature*, 463(7280), 568-571. [doi:10.1038/nature08703](https://doi.org/10.1038/nature08703)
 
-Mitchell, P. (1961). Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. *Nature*, 191(4784), 144-148. doi:10.1038/191144a0
+Mitchell, P. (1961). Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. *Nature*, 191(4784), 144-148. [doi:10.1038/191144a0](https://doi.org/10.1038/191144a0)
 
-Mojica, F. J. M., Díez-Villaseñor, C., García-Martínez, J., & Almendros, C. (2009). Short motif sequences determine the targets of the prokaryotic CRISPR defence system. *Microbiology*, 155(3), 733-740. doi:10.1099/mic.0.023960-0
+Mojica, F. J. M., Díez-Villaseñor, C., García-Martínez, J., & Almendros, C. (2009). Short motif sequences determine the targets of the prokaryotic CRISPR defence system. *Microbiology*, 155(3), 733-740. [doi:10.1099/mic.0.023960-0](https://doi.org/10.1099/mic.0.023960-0)
 
-Nealson, K. H., Platt, T., & Hastings, J. W. (1970). Cellular control of the synthesis and activity of the bacterial luminescent system. *Journal of Bacteriology*, 104(1), 313-322. doi:10.1128/jb.104.1.313-322.1970
+Nealson, K. H., Platt, T., & Hastings, J. W. (1970). Cellular control of the synthesis and activity of the bacterial luminescent system. *Journal of Bacteriology*, 104(1), 313-322. [doi:10.1128/jb.104.1.313-322.1970](https://doi.org/10.1128/jb.104.1.313-322.1970)
 
-Nissen, P., Hansen, J., Ban, N., Moore, P. B., & Steitz, T. A. (2000). The structural basis of ribosome activity in peptide bond synthesis. *Science*, 289(5481), 920-930. doi:10.1126/science.289.5481.920
+Nissen, P., Hansen, J., Ban, N., Moore, P. B., & Steitz, T. A. (2000). The structural basis of ribosome activity in peptide bond synthesis. *Science*, 289(5481), 920-930. [doi:10.1126/science.289.5481.920](https://doi.org/10.1126/science.289.5481.920)
 
-Novick, A., & Weiner, M. (1957). Enzyme induction as an all-or-none phenomenon. *Proceedings of the National Academy of Sciences*, 43(7), 553-566. doi:10.1073/pnas.43.7.553
+Novick, A., & Weiner, M. (1957). Enzyme induction as an all-or-none phenomenon. *Proceedings of the National Academy of Sciences*, 43(7), 553-566. [doi:10.1073/pnas.43.7.553](https://doi.org/10.1073/pnas.43.7.553)
 
-Ozbudak, E. M., Thattai, M., Lim, H. N., Shraiman, B. I., & van Oudenaarden, A. (2004). Multistability in the lactose utilization network of *Escherichia coli*. *Nature*, 427(6976), 737-740. doi:10.1038/nature02298
+Ozbudak, E. M., Thattai, M., Lim, H. N., Shraiman, B. I., & van Oudenaarden, A. (2004). Multistability in the lactose utilization network of *Escherichia coli*. *Nature*, 427(6976), 737-740. [doi:10.1038/nature02298](https://doi.org/10.1038/nature02298)
 
-Papastavrou, N., Horning, D. P., & Joyce, G. F. (2024). RNA-catalyzed evolution of catalytic RNA. *Proceedings of the National Academy of Sciences*, 121(11), e2321592121. doi:10.1073/pnas.2321592121
+Papastavrou, N., Horning, D. P., & Joyce, G. F. (2024). RNA-catalyzed evolution of catalytic RNA. *Proceedings of the National Academy of Sciences*, 121(11), e2321592121. [doi:10.1073/pnas.2321592121](https://doi.org/10.1073/pnas.2321592121)
 
-Pasparakis, M., & Vandenabeele, P. (2015). Necroptosis and its role in inflammation. *Nature*, 517(7534), 311-320. doi:10.1038/nature14191
+Pasparakis, M., & Vandenabeele, P. (2015). Necroptosis and its role in inflammation. *Nature*, 517(7534), 311-320. [doi:10.1038/nature14191](https://doi.org/10.1038/nature14191)
 
-Pomerening, J. R., Sontag, E. D., & Ferrell, J. E., Jr. (2003). Building a cell cycle oscillator: Hysteresis and bistability in the activation of Cdc2. *Nature Cell Biology*, 5(4), 346-351. doi:10.1038/ncb954
+Pomerening, J. R., Sontag, E. D., & Ferrell, J. E., Jr. (2003). Building a cell cycle oscillator: Hysteresis and bistability in the activation of Cdc2. *Nature Cell Biology*, 5(4), 346-351. [doi:10.1038/ncb954](https://doi.org/10.1038/ncb954)
 
-Powner, M. W., Gerland, B., & Sutherland, J. D. (2009). Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions. *Nature*, 459(7244), 239-242. doi:10.1038/nature08013
+Powner, M. W., Gerland, B., & Sutherland, J. D. (2009). Synthesis of activated pyrimidine ribonucleotides in prebiotically plausible conditions. *Nature*, 459(7244), 239-242. [doi:10.1038/nature08013](https://doi.org/10.1038/nature08013)
 
-Rath, S., et al. (2021). MitoCarta3.0: An updated mitochondrial proteome now with sub-organelle localization and pathway annotations. *Nucleic Acids Research*, 49(D1), D1541-D1547. doi:10.1093/nar/gkaa1011
+Rath, S., et al. (2021). MitoCarta3.0: An updated mitochondrial proteome now with sub-organelle localization and pathway annotations. *Nucleic Acids Research*, 49(D1), D1541-D1547. [doi:10.1093/nar/gkaa1011](https://doi.org/10.1093/nar/gkaa1011)
 
-Ricardo, A., Carrigan, M. A., Olcott, A. N., & Benner, S. A. (2004). Borate minerals stabilize ribose. *Science*, 303(5655), 196. doi:10.1126/science.1092464
+Ricardo, A., Carrigan, M. A., Olcott, A. N., & Benner, S. A. (2004). Borate minerals stabilize ribose. *Science*, 303(5655), 196. [doi:10.1126/science.1092464](https://doi.org/10.1126/science.1092464)
 
-Rock, K. L., & Kono, H. (2008). The inflammatory response to cell death. *Annual Review of Pathology: Mechanisms of Disease*, 3, 99-126. doi:10.1146/annurev.pathmechdis.3.121806.151456
+Rock, K. L., & Kono, H. (2008). The inflammatory response to cell death. *Annual Review of Pathology: Mechanisms of Disease*, 3, 99-126. [doi:10.1146/annurev.pathmechdis.3.121806.151456](https://doi.org/10.1146/annurev.pathmechdis.3.121806.151456)
 
-Schaaper, R. M. (1993). Base selection, proofreading, and mismatch repair during DNA replication in *Escherichia coli*. *Journal of Biological Chemistry*, 268(32), 23762-23765.
+Schaaper, R. M. (1993). Base selection, proofreading, and mismatch repair during DNA replication in *Escherichia coli*. *Journal of Biological Chemistry*, 268(32), 23762-23765. [doi:10.1016/s0021-9258(20)80446-3](https://doi.org/10.1016/s0021-9258%2820%2980446-3)
 
-Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 418 kJ per mole of O₂. *Journal of Chemical Education*, 92(12), 2094-2099. doi:10.1021/acs.jchemed.5b00333
+Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 418 kJ per mole of O₂. *Journal of Chemical Education*, 92(12), 2094-2099. [doi:10.1021/acs.jchemed.5b00333](https://doi.org/10.1021/acs.jchemed.5b00333)
 
-Schoenheimer, R. (1942). *The Dynamic State of Body Constituents*. Cambridge, MA: Harvard University Press.
+Schoenheimer, R. (1942). *The Dynamic State of Body Constituents*. Cambridge, MA: Harvard University Press. [Internet Archive](https://archive.org/details/dynamicstateofbo0000rudo)
 
-Sha, W., Moore, J., Chen, K., Lassaletta, A. D., Yi, C.-S., Tyson, J. J., & Sible, J. C. (2003). Hysteresis drives cell-cycle transitions in *Xenopus laevis* egg extracts. *Proceedings of the National Academy of Sciences*, 100(3), 975-980. doi:10.1073/pnas.0235349100
+Sha, W., Moore, J., Chen, K., Lassaletta, A. D., Yi, C.-S., Tyson, J. J., & Sible, J. C. (2003). Hysteresis drives cell-cycle transitions in *Xenopus laevis* egg extracts. *Proceedings of the National Academy of Sciences*, 100(3), 975-980. [doi:10.1073/pnas.0235349100](https://doi.org/10.1073/pnas.0235349100)
 
-Si, F., Le Treut, G., Sauls, J. T., Vadia, S., Levin, P. A., & Jun, S. (2019). Mechanistic origin of cell-size control and homeostasis in bacteria. *Current Biology*, 29(11), 1760-1770.e7. doi:10.1016/j.cub.2019.04.062
+Si, F., Le Treut, G., Sauls, J. T., Vadia, S., Levin, P. A., & Jun, S. (2019). Mechanistic origin of cell-size control and homeostasis in bacteria. *Current Biology*, 29(11), 1760-1770.e7. [doi:10.1016/j.cub.2019.04.062](https://doi.org/10.1016/j.cub.2019.04.062)
 
-Soifer, I., Robert, L., & Amir, A. (2016). Single-cell analysis of growth in budding yeast and bacteria reveals a common size regulation strategy. *Current Biology*, 26(3), 356-361. doi:10.1016/j.cub.2015.11.067
+Soifer, I., Robert, L., & Amir, A. (2016). Single-cell analysis of growth in budding yeast and bacteria reveals a common size regulation strategy. *Current Biology*, 26(3), 356-361. [doi:10.1016/j.cub.2015.11.067](https://doi.org/10.1016/j.cub.2015.11.067)
 
-Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos* (2nd ed.). Boulder, CO: Westview Press.
+Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos* (2nd ed.). Boulder, CO: Westview Press. [2018 reissue: doi:10.1201/9780429492563](https://doi.org/10.1201/9780429492563)
 
-Sulston, J. E., Schierenberg, E., White, J. G., & Thomson, J. N. (1983). The embryonic cell lineage of the nematode *Caenorhabditis elegans*. *Developmental Biology*, 100(1), 64-119. doi:10.1016/0012-1606(83)90201-4
+Sulston, J. E., Schierenberg, E., White, J. G., & Thomson, J. N. (1983). The embryonic cell lineage of the nematode *Caenorhabditis elegans*. *Developmental Biology*, 100(1), 64-119. [doi:10.1016/0012-1606(83)90201-4](https://doi.org/10.1016/0012-1606%2883%2990201-4)
 
-Sung, W., Ackerman, M. S., Miller, S. F., Doak, T. G., & Lynch, M. (2012). Drift-barrier hypothesis and mutation-rate evolution. *Proceedings of the National Academy of Sciences*, 109(45), 18488-18492. doi:10.1073/pnas.1216223109
+Sung, W., Ackerman, M. S., Miller, S. F., Doak, T. G., & Lynch, M. (2012). Drift-barrier hypothesis and mutation-rate evolution. *Proceedings of the National Academy of Sciences*, 109(45), 18488-18492. [doi:10.1073/pnas.1216223109](https://doi.org/10.1073/pnas.1216223109)
 
-Taheri-Araghi, S., Bradde, S., Sauls, J. T., Hill, N. S., Levin, P. A., Paulsson, J., Vergassola, M., & Jun, S. (2015). Cell-size control and homeostasis in bacteria. *Current Biology*, 25(3), 385-391. doi:10.1016/j.cub.2014.12.009
+Taheri-Araghi, S., Bradde, S., Sauls, J. T., Hill, N. S., Levin, P. A., Paulsson, J., Vergassola, M., & Jun, S. (2015). Cell-size control and homeostasis in bacteria. *Current Biology*, 25(3), 385-391. [doi:10.1016/j.cub.2014.12.009](https://doi.org/10.1016/j.cub.2014.12.009)
 
-Tang, H. L., et al. (2012). Cell survival, DNA damage, and oncogenic transformation after a transient and reversible apoptotic response. *Molecular Biology of the Cell*, 23(12), 2240-2252. doi:10.1091/mbc.e11-11-0926
+Tang, H. L., et al. (2012). Cell survival, DNA damage, and oncogenic transformation after a transient and reversible apoptotic response. *Molecular Biology of the Cell*, 23(12), 2240-2252. [doi:10.1091/mbc.e11-11-0926](https://doi.org/10.1091/mbc.e11-11-0926)
 
-Topalian, S. L., et al. (2012). Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. *New England Journal of Medicine*, 366(26), 2443-2454. doi:10.1056/NEJMoa1200690
+Topalian, S. L., et al. (2012). Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. *New England Journal of Medicine*, 366(26), 2443-2454. [doi:10.1056/NEJMoa1200690](https://doi.org/10.1056/NEJMoa1200690)
 
-Vander Heiden, M. G., Cantley, L. C., & Thompson, C. B. (2009). Understanding the Warburg effect: The metabolic requirements of cell proliferation. *Science*, 324(5930), 1029-1033. doi:10.1126/science.1160809
+Vander Heiden, M. G., Cantley, L. C., & Thompson, C. B. (2009). Understanding the Warburg effect: The metabolic requirements of cell proliferation. *Science*, 324(5930), 1029-1033. [doi:10.1126/science.1160809](https://doi.org/10.1126/science.1160809)
 
-Waters, C. M., & Bassler, B. L. (2005). Quorum sensing: Cell-to-cell communication in bacteria. *Annual Review of Cell and Developmental Biology*, 21, 319-346. doi:10.1146/annurev.cellbio.21.012704.131001
+Waters, C. M., & Bassler, B. L. (2005). Quorum sensing: Cell-to-cell communication in bacteria. *Annual Review of Cell and Developmental Biology*, 21, 319-346. [doi:10.1146/annurev.cellbio.21.012704.131001](https://doi.org/10.1146/annurev.cellbio.21.012704.131001)
 
-Watt, I. N., Montgomery, M. G., Runswick, M. J., Leslie, A. G. W., & Walker, J. E. (2010). Bioenergetic cost of making an adenosine triphosphate molecule in animal mitochondria. *Proceedings of the National Academy of Sciences*, 107(39), 16823-16827. doi:10.1073/pnas.1011099107
+Watt, I. N., Montgomery, M. G., Runswick, M. J., Leslie, A. G. W., & Walker, J. E. (2010). Bioenergetic cost of making an adenosine triphosphate molecule in animal mitochondria. *Proceedings of the National Academy of Sciences*, 107(39), 16823-16827. [doi:10.1073/pnas.1011099107](https://doi.org/10.1073/pnas.1011099107)
 
-Yi, T.-M., Huang, Y., Simon, M. I., & Doyle, J. (2000). Robust perfect adaptation in bacterial chemotaxis through integral feedback control. *Proceedings of the National Academy of Sciences*, 97(9), 4649-4653. doi:10.1073/pnas.97.9.4649
+Yi, T.-M., Huang, Y., Simon, M. I., & Doyle, J. (2000). Robust perfect adaptation in bacterial chemotaxis through integral feedback control. *Proceedings of the National Academy of Sciences*, 97(9), 4649-4653. [doi:10.1073/pnas.97.9.4649](https://doi.org/10.1073/pnas.97.9.4649)
 
 ---

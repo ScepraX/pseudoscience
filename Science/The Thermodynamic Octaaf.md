@@ -385,68 +385,68 @@ A check of every reference on 1 October 2026 corrected the account of population
 
 ## References
 
-Arrhenius, S. (1889). Über die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Säuren. *Zeitschrift für Physikalische Chemie*, 4, 226–248.
+Arrhenius, S. (1889). Über die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Säuren. *Zeitschrift für Physikalische Chemie*, 4, 226–248. [doi:10.1515/zpch-1889-0416](https://doi.org/10.1515/zpch-1889-0416)
 
-Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Theory of superconductivity. *Physical Review*, 108(5), 1175–1204.
+Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Theory of superconductivity. *Physical Review*, 108(5), 1175–1204. [doi:10.1103/physrev.108.1175](https://doi.org/10.1103/physrev.108.1175)
 
-Bennett, C. H. (1982). The thermodynamics of computation — a review. *International Journal of Theoretical Physics*, 21(12), 905–940.
+Bennett, C. H. (1982). The thermodynamics of computation — a review. *International Journal of Theoretical Physics*, 21(12), 905–940. [doi:10.1007/bf02084158](https://doi.org/10.1007/bf02084158)
 
-Bérut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer's principle linking information and thermodynamics. *Nature*, 483, 187–189.
+Bérut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer's principle linking information and thermodynamics. *Nature*, 483, 187–189. [doi:10.1038/nature10872](https://doi.org/10.1038/nature10872)
 
-Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review*, 83(1), 34–40.
+Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review*, 83(1), 34–40. [doi:10.1103/physrev.83.34](https://doi.org/10.1103/physrev.83.34)
 
-Casimir, H. B. G. (1945). On Onsager's principle of microscopic reversibility. *Reviews of Modern Physics*, 17(2–3), 343–350.
+Casimir, H. B. G. (1945). On Onsager's principle of microscopic reversibility. *Reviews of Modern Physics*, 17(2–3), 343–350. [doi:10.1103/revmodphys.17.343](https://doi.org/10.1103/revmodphys.17.343)
 
-Chandrasekhar, S. (1961). *Hydrodynamic and Hydromagnetic Stability*. Oxford: Clarendon Press.
+Chandrasekhar, S. (1961). *Hydrodynamic and Hydromagnetic Stability*. Oxford: Clarendon Press. [Internet Archive](https://archive.org/details/bwb_Y0-BUJ-099)
 
-Chluba, J., & Sunyaev, R. A. (2004). Superposition of blackbodies and the dipole anisotropy: A possibility to calibrate CMB experiments. *Astronomy & Astrophysics*, 424, 389–408.
+Chluba, J., & Sunyaev, R. A. (2004). Superposition of blackbodies and the dipole anisotropy: A possibility to calibrate CMB experiments. *Astronomy & Astrophysics*, 424, 389–408. [doi:10.1051/0004-6361:20041016](https://doi.org/10.1051/0004-6361:20041016)
 
-Debenedetti, P. G. (1996). *Metastable Liquids: Concepts and Principles*. Princeton: Princeton University Press.
+Debenedetti, P. G. (1996). *Metastable Liquids: Concepts and Principles*. Princeton: Princeton University Press. [doi:10.1515/9780691213941](https://doi.org/10.1515/9780691213941)
 
-Eyring, H. (1935). The activated complex in chemical reactions. *The Journal of Chemical Physics*, 3(2), 107–115.
+Eyring, H. (1935). The activated complex in chemical reactions. *The Journal of Chemical Physics*, 3(2), 107–115. [doi:10.1063/1.1749604](https://doi.org/10.1063/1.1749604)
 
-Fixsen, D. J. (2009). The temperature of the cosmic microwave background. *The Astrophysical Journal*, 707, 916–920.
+Fixsen, D. J. (2009). The temperature of the cosmic microwave background. *The Astrophysical Journal*, 707, 916–920. [doi:10.1088/0004-637x/707/2/916](https://doi.org/10.1088/0004-637x/707/2/916)
 
-Fixsen, D. J., Cheng, E. S., Gales, J. M., Mather, J. C., Shafer, R. A., & Wright, E. L. (1996). The cosmic microwave background spectrum from the full COBE FIRAS data set. *The Astrophysical Journal*, 473, 576–587.
+Fixsen, D. J., Cheng, E. S., Gales, J. M., Mather, J. C., Shafer, R. A., & Wright, E. L. (1996). The cosmic microwave background spectrum from the full COBE FIRAS data set. *The Astrophysical Journal*, 473, 576–587. [doi:10.1086/178173](https://doi.org/10.1086/178173)
 
-Hänggi, P., Talkner, P., & Borkovec, M. (1990). Reaction-rate theory: fifty years after Kramers. *Reviews of Modern Physics*, 62(2), 251–341.
+Hänggi, P., Talkner, P., & Borkovec, M. (1990). Reaction-rate theory: fifty years after Kramers. *Reviews of Modern Physics*, 62(2), 251–341. [doi:10.1103/revmodphys.62.251](https://doi.org/10.1103/revmodphys.62.251)
 
-Hohenberg, P. C., & Halperin, B. I. (1977). Theory of dynamic critical phenomena. *Reviews of Modern Physics*, 49(3), 435–479.
+Hohenberg, P. C., & Halperin, B. I. (1977). Theory of dynamic critical phenomena. *Reviews of Modern Physics*, 49(3), 435–479. [doi:10.1103/revmodphys.49.435](https://doi.org/10.1103/revmodphys.49.435)
 
-Kittel, C. (1988). Temperature fluctuation: an oxymoron. *Physics Today*, 41(5), 93.
+Kittel, C. (1988). Temperature fluctuation: an oxymoron. *Physics Today*, 41(5), 93. [doi:10.1063/1.2811420](https://doi.org/10.1063/1.2811420)
 
-Kramers, H. A. (1940). Brownian motion in a field of force and the diffusion model of chemical reactions. *Physica*, 7(4), 284–304.
+Kramers, H. A. (1940). Brownian motion in a field of force and the diffusion model of chemical reactions. *Physica*, 7(4), 284–304. [doi:10.1016/s0031-8914(40)90098-2](https://doi.org/10.1016/s0031-8914%2840%2990098-2)
 
-Kubo, R. (1966). The fluctuation-dissipation theorem. *Reports on Progress in Physics*, 29(1), 255–284.
+Kubo, R. (1966). The fluctuation-dissipation theorem. *Reports on Progress in Physics*, 29(1), 255–284. [doi:10.1088/0034-4885/29/1/306](https://doi.org/10.1088/0034-4885/29/1/306)
 
-Landau, L. D. (1937). On the theory of phase transitions. *Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki*, 7, 19–32.
+Landau, L. D. (1937). On the theory of phase transitions. *Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki*, 7, 19–32. [English translation (1965): doi:10.1016/B978-0-08-010586-4.50034-1](https://doi.org/10.1016/B978-0-08-010586-4.50034-1)
 
-Landau, L. D., & Lifshitz, E. M. (1980). *Statistical Physics, Part 1* (3rd ed.). Oxford: Pergamon Press.
+Landau, L. D., & Lifshitz, E. M. (1980). *Statistical Physics, Part 1* (3rd ed.). Oxford: Pergamon Press. [doi:10.1016/C2009-0-24487-4](https://doi.org/10.1016/C2009-0-24487-4)
 
-Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183–191.
+Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183–191. [doi:10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
 
-Masanes, L., & Oppenheim, J. (2017). A general derivation and quantification of the third law of thermodynamics. *Nature Communications*, 8, 14538.
+Masanes, L., & Oppenheim, J. (2017). A general derivation and quantification of the third law of thermodynamics. *Nature Communications*, 8, 14538. [doi:10.1038/ncomms14538](https://doi.org/10.1038/ncomms14538)
 
-Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations*. New York: Wiley.
+Nicolis, G., & Prigogine, I. (1977). *Self-Organization in Nonequilibrium Systems: From Dissipative Structures to Order through Fluctuations*. New York: Wiley. [Internet Archive](https://archive.org/details/selforganization0000nico)
 
-Noterdaeme, P., Petitjean, P., Srianand, R., Ledoux, C., & López, S. (2011). The evolution of the cosmic microwave background temperature: Measurements of T_CMB at high redshift from carbon monoxide excitation. *Astronomy & Astrophysics*, 526, L7.
+Noterdaeme, P., Petitjean, P., Srianand, R., Ledoux, C., & López, S. (2011). The evolution of the cosmic microwave background temperature: Measurements of T_CMB at high redshift from carbon monoxide excitation. *Astronomy & Astrophysics*, 526, L7. [doi:10.1051/0004-6361/201016140](https://doi.org/10.1051/0004-6361/201016140)
 
-Onsager, L. (1931a). Reciprocal relations in irreversible processes. I. *Physical Review*, 37(4), 405–426.
+Onsager, L. (1931a). Reciprocal relations in irreversible processes. I. *Physical Review*, 37(4), 405–426. [doi:10.1103/physrev.37.405](https://doi.org/10.1103/physrev.37.405)
 
-Onsager, L. (1931b). Reciprocal relations in irreversible processes. II. *Physical Review*, 38(12), 2265–2279.
+Onsager, L. (1931b). Reciprocal relations in irreversible processes. II. *Physical Review*, 38(12), 2265–2279. [doi:10.1103/physrev.38.2265](https://doi.org/10.1103/physrev.38.2265)
 
-Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*. London: The Bodley Head.
+Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*. London: The Bodley Head. [Internet Archive (2011 edition)](https://archive.org/details/cyclesoftimeextr0000penr)
 
-Purcell, E. M., & Pound, R. V. (1951). A nuclear spin system at negative temperature. *Physical Review*, 81(2), 279–280.
+Purcell, E. M., & Pound, R. V. (1951). A nuclear spin system at negative temperature. *Physical Review*, 81(2), 279–280. [doi:10.1103/physrev.81.279](https://doi.org/10.1103/physrev.81.279)
 
-Ramsey, N. F. (1956). Thermodynamics and statistical mechanics at negative absolute temperatures. *Physical Review*, 103(1), 20–28.
+Ramsey, N. F. (1956). Thermodynamics and statistical mechanics at negative absolute temperatures. *Physical Review*, 103(1), 20–28. [doi:10.1103/physrev.103.20](https://doi.org/10.1103/physrev.103.20)
 
-Schrödinger, E. (1944). *What Is Life?* Cambridge: Cambridge University Press.
+Schrödinger, E. (1944). *What Is Life?* Cambridge: Cambridge University Press. [1992 edition: doi:10.1017/CBO9781139644129](https://doi.org/10.1017/CBO9781139644129)
 
-Seborg, D. E., Edgar, T. F., Mellichamp, D. A., & Doyle, F. J., III. (2016). *Process Dynamics and Control* (4th ed.). Hoboken: Wiley.
+Seborg, D. E., Edgar, T. F., Mellichamp, D. A., & Doyle, F. J., III. (2016). *Process Dynamics and Control* (4th ed.). Hoboken: Wiley. [WorldCat](https://search.worldcat.org/search?q=ti%3AProcess+Dynamics+and+Control+au%3ASeborg)
 
-Semenov, N. N. (1928). Zur Theorie des Verbrennungsprozesses. *Zeitschrift für Physik*, 48, 571–582.
+Semenov, N. N. (1928). Zur Theorie des Verbrennungsprozesses. *Zeitschrift für Physik*, 48, 571–582. [doi:10.1007/BF01340021](https://doi.org/10.1007/BF01340021)
 
-Stanley, H. E. (1971). *Introduction to Phase Transitions and Critical Phenomena*. Oxford: Oxford University Press.
+Stanley, H. E. (1971). *Introduction to Phase Transitions and Critical Phenomena*. Oxford: Oxford University Press. [Internet Archive](https://archive.org/details/introductiontoph0000stan_f7c0)
 
 ---

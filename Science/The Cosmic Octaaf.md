@@ -331,88 +331,88 @@ A check of every reference on 1 October 2026 corrected the reading of the mass�
 
 ## References
 
-Abbott, B. P., et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). Observation of gravitational waves from a binary black hole merger. *Physical Review Letters*, 116, 061102.
+Abbott, B. P., et al. (LIGO Scientific Collaboration and Virgo Collaboration) (2016). Observation of gravitational waves from a binary black hole merger. *Physical Review Letters*, 116, 061102. [doi:10.1103/PhysRevLett.116.061102](https://doi.org/10.1103/PhysRevLett.116.061102)
 
-Abbott, B. P., et al. (2017). Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters*, 848, L13.
+Abbott, B. P., et al. (2017). Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters*, 848, L13. [doi:10.3847/2041-8213/aa920c](https://doi.org/10.3847/2041-8213/aa920c)
 
-Adams, F. C., & Laughlin, G. (1997). A dying universe: the long-term fate and evolution of astrophysical objects. *Reviews of Modern Physics*, 69(2), 337–372.
+Adams, F. C., & Laughlin, G. (1997). A dying universe: the long-term fate and evolution of astrophysical objects. *Reviews of Modern Physics*, 69(2), 337–372. [doi:10.1103/RevModPhys.69.337](https://doi.org/10.1103/RevModPhys.69.337)
 
-Almheiri, A., Engelhardt, N., Marolf, D., & Maxfield, H. (2019). The entropy of bulk quantum fields and the entanglement wedge of an evaporating black hole. *Journal of High Energy Physics*, 2019(12), 63.
+Almheiri, A., Engelhardt, N., Marolf, D., & Maxfield, H. (2019). The entropy of bulk quantum fields and the entanglement wedge of an evaporating black hole. *Journal of High Energy Physics*, 2019(12), 63. [doi:10.1007/jhep12(2019)063](https://doi.org/10.1007/jhep12%282019%29063)
 
-Ambartsumian, V. A. (1938). On the dynamics of open clusters. *Uchenye Zapiski Leningradskogo Gosudarstvennogo Universiteta*, 22, 19–22.
+Ambartsumian, V. A. (1938). On the dynamics of open clusters. *Uchenye Zapiski Leningradskogo Gosudarstvennogo Universiteta*, 22, 19–22. [English translation (1985): doi:10.1017/S0074180900147758](https://doi.org/10.1017/S0074180900147758)
 
-Antonov, V. A. (1962). Most probable phase distribution in spherical star systems and conditions for its existence. *Vestnik Leningradskogo Universiteta*, 7, 135.
+Antonov, V. A. (1962). Most probable phase distribution in spherical star systems and conditions for its existence. *Vestnik Leningradskogo Universiteta*, 7, 135. [English translation (1985): doi:10.1017/S007418090014776X](https://doi.org/10.1017/S007418090014776X)
 
-Binney, J., & Tremaine, S. (2008). *Galactic Dynamics* (2nd ed.). Princeton: Princeton University Press.
+Binney, J., & Tremaine, S. (2008). *Galactic Dynamics* (2nd ed.). Princeton: Princeton University Press. [doi:10.1515/9781400828722](https://doi.org/10.1515/9781400828722)
 
-Bionta, R. M., et al. (1987). Observation of a neutrino burst in coincidence with supernova 1987A in the Large Magellanic Cloud. *Physical Review Letters*, 58(14), 1494–1496.
+Bionta, R. M., et al. (1987). Observation of a neutrino burst in coincidence with supernova 1987A in the Large Magellanic Cloud. *Physical Review Letters*, 58(14), 1494–1496. [doi:10.1103/physrevlett.58.1494](https://doi.org/10.1103/physrevlett.58.1494)
 
-Caldwell, R. R., Kamionkowski, M., & Weinberg, N. N. (2003). Phantom energy: dark energy with w < −1 causes a cosmic doomsday. *Physical Review Letters*, 91, 071301.
+Caldwell, R. R., Kamionkowski, M., & Weinberg, N. N. (2003). Phantom energy: dark energy with w < −1 causes a cosmic doomsday. *Physical Review Letters*, 91, 071301. [doi:10.1103/physrevlett.91.071301](https://doi.org/10.1103/physrevlett.91.071301)
 
-Carlip, S. (2000). Aberration and the speed of gravity. *Physics Letters A*, 267, 81–87.
+Carlip, S. (2000). Aberration and the speed of gravity. *Physics Letters A*, 267, 81–87. [doi:10.1016/s0375-9601(00)00101-8](https://doi.org/10.1016/s0375-9601%2800%2900101-8)
 
-Chandrasekhar, S. (1931). The maximum mass of ideal white dwarfs. *The Astrophysical Journal*, 74, 81–82.
+Chandrasekhar, S. (1931). The maximum mass of ideal white dwarfs. *The Astrophysical Journal*, 74, 81–82. [doi:10.1086/143324](https://doi.org/10.1086/143324)
 
-Chandrasekhar, S. (1935). The highly collapsed configurations of a stellar mass (Second paper). *Monthly Notices of the Royal Astronomical Society*, 95(3), 207–225.
+Chandrasekhar, S. (1935). The highly collapsed configurations of a stellar mass (Second paper). *Monthly Notices of the Royal Astronomical Society*, 95(3), 207–225. [doi:10.1093/mnras/95.3.207](https://doi.org/10.1093/mnras/95.3.207)
 
-Chernin, A. D. (2008). Dark energy and universal antigravitation. *Physics-Uspekhi*, 51(3), 253–282.
+Chernin, A. D. (2008). Dark energy and universal antigravitation. *Physics-Uspekhi*, 51(3), 253–282. [doi:10.1070/PU2008v051n03ABEH006320](https://doi.org/10.1070/PU2008v051n03ABEH006320)
 
-Christodoulou, D. (1991). Nonlinear nature of gravitation and gravitational-wave experiments. *Physical Review Letters*, 67(12), 1486–1489.
+Christodoulou, D. (1991). Nonlinear nature of gravitation and gravitational-wave experiments. *Physical Review Letters*, 67(12), 1486–1489. [doi:10.1103/physrevlett.67.1486](https://doi.org/10.1103/physrevlett.67.1486)
 
-Cole, S., et al. (2005). The 2dF Galaxy Redshift Survey: power-spectrum analysis of the final data set and cosmological implications. *Monthly Notices of the Royal Astronomical Society*, 362, 505–534.
+Cole, S., et al. (2005). The 2dF Galaxy Redshift Survey: power-spectrum analysis of the final data set and cosmological implications. *Monthly Notices of the Royal Astronomical Society*, 362, 505–534. [doi:10.1111/j.1365-2966.2005.09318.x](https://doi.org/10.1111/j.1365-2966.2005.09318.x)
 
-DESI Collaboration (Abdul-Karim, M., et al.) (2025). DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. *Physical Review D*, 112, 083515. doi:10.1103/tr6y-kpc6 (arXiv:2503.14738)
+DESI Collaboration (Abdul-Karim, M., et al.) (2025). DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. *Physical Review D*, 112, 083515. [doi:10.1103/tr6y-kpc6](https://doi.org/10.1103/tr6y-kpc6) ([arXiv:2503.14738](https://arxiv.org/abs/2503.14738))
 
-Dickey, J. O., et al. (1994). Lunar laser ranging: a continuing legacy of the Apollo program. *Science*, 265, 482–490.
+Dickey, J. O., et al. (1994). Lunar laser ranging: a continuing legacy of the Apollo program. *Science*, 265, 482–490. [doi:10.1126/science.265.5171.482](https://doi.org/10.1126/science.265.5171.482)
 
-Djorgovski, S., & King, I. R. (1986). A preliminary survey of collapsed cores in globular clusters. *The Astrophysical Journal Letters*, 305, L61–L65.
+Djorgovski, S., & King, I. R. (1986). A preliminary survey of collapsed cores in globular clusters. *The Astrophysical Journal Letters*, 305, L61–L65. [doi:10.1086/184685](https://doi.org/10.1086/184685)
 
-Eisenstein, D. J., et al. (2005). Detection of the baryon acoustic peak in the large-scale correlation function of SDSS luminous red galaxies. *The Astrophysical Journal*, 633, 560–574.
+Eisenstein, D. J., et al. (2005). Detection of the baryon acoustic peak in the large-scale correlation function of SDSS luminous red galaxies. *The Astrophysical Journal*, 633, 560–574. [doi:10.1086/466512](https://doi.org/10.1086/466512)
 
-Fabian, A. C. (2012). Observational evidence of active galactic nuclei feedback. *Annual Review of Astronomy and Astrophysics*, 50, 455–489.
+Fabian, A. C. (2012). Observational evidence of active galactic nuclei feedback. *Annual Review of Astronomy and Astrophysics*, 50, 455–489. [doi:10.1146/annurev-astro-081811-125521](https://doi.org/10.1146/annurev-astro-081811-125521)
 
-Ferrarese, L., & Merritt, D. (2000). A fundamental relation between supermassive black holes and their host galaxies. *The Astrophysical Journal Letters*, 539, L9–L12.
+Ferrarese, L., & Merritt, D. (2000). A fundamental relation between supermassive black holes and their host galaxies. *The Astrophysical Journal Letters*, 539, L9–L12. [doi:10.1086/312838](https://doi.org/10.1086/312838)
 
-Fischer, D. A., & Valenti, J. (2005). The planet-metallicity correlation. *The Astrophysical Journal*, 622, 1102–1117.
+Fischer, D. A., & Valenti, J. (2005). The planet-metallicity correlation. *The Astrophysical Journal*, 622, 1102–1117. [doi:10.1086/428383](https://doi.org/10.1086/428383)
 
-Fixsen, D. J. (2009). The temperature of the cosmic microwave background. *The Astrophysical Journal*, 707, 916–920.
+Fixsen, D. J. (2009). The temperature of the cosmic microwave background. *The Astrophysical Journal*, 707, 916–920. [doi:10.1088/0004-637x/707/2/916](https://doi.org/10.1088/0004-637x/707/2/916)
 
-Gebhardt, K., et al. (2000). A relationship between nuclear black hole mass and galaxy velocity dispersion. *The Astrophysical Journal Letters*, 539, L13–L16.
+Gebhardt, K., et al. (2000). A relationship between nuclear black hole mass and galaxy velocity dispersion. *The Astrophysical Journal Letters*, 539, L13–L16. [doi:10.1086/312840](https://doi.org/10.1086/312840)
 
-Gibbons, G. W., & Hawking, S. W. (1977). Cosmological event horizons, thermodynamics, and particle creation. *Physical Review D*, 15(10), 2738–2751.
+Gibbons, G. W., & Hawking, S. W. (1977). Cosmological event horizons, thermodynamics, and particle creation. *Physical Review D*, 15(10), 2738–2751. [doi:10.1103/physrevd.15.2738](https://doi.org/10.1103/physrevd.15.2738)
 
-Gough, D. O. (1981). Solar interior structure and luminosity variations. *Solar Physics*, 74, 21–34.
+Gough, D. O. (1981). Solar interior structure and luminosity variations. *Solar Physics*, 74, 21–34. [doi:10.1007/BF00151270](https://doi.org/10.1007/BF00151270)
 
-Hawking, S. W. (1975). Particle creation by black holes. *Communications in Mathematical Physics*, 43, 199–220.
+Hawking, S. W. (1975). Particle creation by black holes. *Communications in Mathematical Physics*, 43, 199–220. [doi:10.1007/bf02345020](https://doi.org/10.1007/bf02345020)
 
-Hirata, K., et al. (1987). Observation of a neutrino burst from the supernova SN1987A. *Physical Review Letters*, 58(14), 1490–1493.
+Hirata, K., et al. (1987). Observation of a neutrino burst from the supernova SN1987A. *Physical Review Letters*, 58(14), 1490–1493. [doi:10.1103/physrevlett.58.1490](https://doi.org/10.1103/physrevlett.58.1490)
 
-Hulse, R. A., & Taylor, J. H. (1975). Discovery of a pulsar in a binary system. *The Astrophysical Journal Letters*, 195, L51–L53.
+Hulse, R. A., & Taylor, J. H. (1975). Discovery of a pulsar in a binary system. *The Astrophysical Journal Letters*, 195, L51–L53. [doi:10.1086/181708](https://doi.org/10.1086/181708)
 
-Jeans, J. H. (1902). The stability of a spherical nebula. *Philosophical Transactions of the Royal Society A*, 199, 1–53.
+Jeans, J. H. (1902). The stability of a spherical nebula. *Philosophical Transactions of the Royal Society A*, 199, 1–53. [doi:10.1098/rsta.1902.0012](https://doi.org/10.1098/rsta.1902.0012)
 
-Jeans, J. H. (1925). *The Dynamical Theory of Gases* (4th ed.). Cambridge: Cambridge University Press.
+Jeans, J. H. (1925). *The Dynamical Theory of Gases* (4th ed.). Cambridge: Cambridge University Press. [Internet Archive (1954 reprint)](https://archive.org/details/dynamicaltheoryo0000jean_v0l0)
 
-Krauss, L. M., & Scherrer, R. J. (2007). The return of a static universe and the end of cosmology. *General Relativity and Gravitation*, 39, 1545–1550.
+Krauss, L. M., & Scherrer, R. J. (2007). The return of a static universe and the end of cosmology. *General Relativity and Gravitation*, 39, 1545–1550. [doi:10.1007/s10714-007-0472-9](https://doi.org/10.1007/s10714-007-0472-9)
 
-Lynden-Bell, D. (1999). Negative specific heat in astronomy, physics and chemistry. *Physica A*, 263, 293–304.
+Lynden-Bell, D. (1999). Negative specific heat in astronomy, physics and chemistry. *Physica A*, 263, 293–304. [doi:10.1016/s0378-4371(98)00518-4](https://doi.org/10.1016/s0378-4371%2898%2900518-4)
 
-Lynden-Bell, D., & Wood, R. (1968). The gravo-thermal catastrophe in isothermal spheres and the onset of red-giant structure for stellar systems. *Monthly Notices of the Royal Astronomical Society*, 138, 495–525.
+Lynden-Bell, D., & Wood, R. (1968). The gravo-thermal catastrophe in isothermal spheres and the onset of red-giant structure for stellar systems. *Monthly Notices of the Royal Astronomical Society*, 138, 495–525. [doi:10.1093/mnras/138.4.495](https://doi.org/10.1093/mnras/138.4.495)
 
-Page, D. N. (1976). Particle emission rates from a black hole: massless particles from an uncharged, nonrotating hole. *Physical Review D*, 13(2), 198–206.
+Page, D. N. (1976). Particle emission rates from a black hole: massless particles from an uncharged, nonrotating hole. *Physical Review D*, 13(2), 198–206. [doi:10.1103/physrevd.13.198](https://doi.org/10.1103/physrevd.13.198)
 
-Penington, G. (2020). Entanglement wedge reconstruction and the information paradox. *Journal of High Energy Physics*, 2020(9), 2.
+Penington, G. (2020). Entanglement wedge reconstruction and the information paradox. *Journal of High Energy Physics*, 2020(9), 2. [doi:10.1007/jhep09(2020)002](https://doi.org/10.1007/jhep09%282020%29002)
 
-Planck Collaboration (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, 641, A6.
+Planck Collaboration (2020). Planck 2018 results. VI. Cosmological parameters. *Astronomy & Astrophysics*, 641, A6. [doi:10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
 
-Pustylnik, I. (1998). The early history of resolving the Algol paradox. *Astronomical and Astrophysical Transactions*, 15, 357–362.
+Pustylnik, I. (1998). The early history of resolving the Algol paradox. *Astronomical and Astrophysical Transactions*, 15, 357–362. [doi:10.1080/10556799808201791](https://doi.org/10.1080/10556799808201791)
 
-Spitzer, L. (1940). The stability of isolated clusters. *Monthly Notices of the Royal Astronomical Society*, 100, 396–413.
+Spitzer, L. (1940). The stability of isolated clusters. *Monthly Notices of the Royal Astronomical Society*, 100, 396–413. [doi:10.1093/mnras/100.5.396](https://doi.org/10.1093/mnras/100.5.396)
 
-Tremonti, C. A., et al. (2004). The origin of the mass-metallicity relation: insights from 53,000 star-forming galaxies in the Sloan Digital Sky Survey. *The Astrophysical Journal*, 613, 898–913.
+Tremonti, C. A., et al. (2004). The origin of the mass-metallicity relation: insights from 53,000 star-forming galaxies in the Sloan Digital Sky Survey. *The Astrophysical Journal*, 613, 898–913. [doi:10.1086/423264](https://doi.org/10.1086/423264)
 
-Weisberg, J. M., & Huang, Y. (2016). Relativistic measurements from timing the binary pulsar PSR B1913+16. *The Astrophysical Journal*, 829, 55.
+Weisberg, J. M., & Huang, Y. (2016). Relativistic measurements from timing the binary pulsar PSR B1913+16. *The Astrophysical Journal*, 829, 55. [doi:10.3847/0004-637x/829/1/55](https://doi.org/10.3847/0004-637x/829/1/55)
 
-Woosley, S. E., Heger, A., & Weaver, T. A. (2002). The evolution and explosion of massive stars. *Reviews of Modern Physics*, 74(4), 1015–1071.
+Woosley, S. E., Heger, A., & Weaver, T. A. (2002). The evolution and explosion of massive stars. *Reviews of Modern Physics*, 74(4), 1015–1071. [doi:10.1103/revmodphys.74.1015](https://doi.org/10.1103/revmodphys.74.1015)
 
 ---

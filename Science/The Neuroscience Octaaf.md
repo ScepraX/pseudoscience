@@ -274,94 +274,94 @@ Also on 1 October 2026, a study of whole-brain state dynamics in autism and ADHD
 
 ## References
 
-American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text revision). Washington, DC: APA.
+American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text revision). Washington, DC: APA. [doi:10.1176/appi.books.9780890425787](https://doi.org/10.1176/appi.books.9780890425787)
 
-Anderson, R. B., & Tweney, R. D. (1997). Artifactual power curves in forgetting. *Memory & Cognition*, 25, 724-730.
+Anderson, R. B., & Tweney, R. D. (1997). Artifactual power curves in forgetting. *Memory & Cognition*, 25, 724-730. [doi:10.3758/bf03211315](https://doi.org/10.3758/bf03211315)
 
-Baumgartner, T., Heinrichs, M., Vonlanthen, A., Fischbacher, U., & Fehr, E. (2008). Oxytocin shapes the neural circuitry of trust and trust adaptation in humans. *Neuron*, 58, 639-650.
+Baumgartner, T., Heinrichs, M., Vonlanthen, A., Fischbacher, U., & Fehr, E. (2008). Oxytocin shapes the neural circuitry of trust and trust adaptation in humans. *Neuron*, 58, 639-650. [doi:10.1016/j.neuron.2008.04.009](https://doi.org/10.1016/j.neuron.2008.04.009)
 
-Berendzen, K. M., et al. (2023). Oxytocin receptor is not required for social attachment in prairie voles. *Neuron*, 111(6), 787-796.e4. doi:10.1016/j.neuron.2022.12.011
+Berendzen, K. M., et al. (2023). Oxytocin receptor is not required for social attachment in prairie voles. *Neuron*, 111(6), 787-796.e4. [doi:10.1016/j.neuron.2022.12.011](https://doi.org/10.1016/j.neuron.2022.12.011)
 
-Butler, E. A., Egloff, B., Wilhelm, F. H., Smith, N. C., Erickson, E. A., & Gross, J. J. (2003). The social consequences of expressive suppression. *Emotion*, 3, 48-67.
+Butler, E. A., Egloff, B., Wilhelm, F. H., Smith, N. C., Erickson, E. A., & Gross, J. J. (2003). The social consequences of expressive suppression. *Emotion*, 3, 48-67. [doi:10.1037/1528-3542.3.1.48](https://doi.org/10.1037/1528-3542.3.1.48)
 
-Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138-2143.
+Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138-2143. [doi:10.1073/pnas.1119598109](https://doi.org/10.1073/pnas.1119598109)
 
-Declerck, C. H., Boone, C., Pauwels, L., Vogt, B., & Fehr, E. (2020). A registered replication study on oxytocin and trust. *Nature Human Behaviour*, 4, 646-655. doi:10.1038/s41562-020-0878-x
+Declerck, C. H., Boone, C., Pauwels, L., Vogt, B., & Fehr, E. (2020). A registered replication study on oxytocin and trust. *Nature Human Behaviour*, 4, 646-655. [doi:10.1038/s41562-020-0878-x](https://doi.org/10.1038/s41562-020-0878-x)
 
-Dikker, S., et al. (2017). Brain-to-brain synchrony tracks real-world dynamic group interactions in the classroom. *Current Biology*, 27(9), 1375-1380.
+Dikker, S., et al. (2017). Brain-to-brain synchrony tracks real-world dynamic group interactions in the classroom. *Current Biology*, 27(9), 1375-1380. [doi:10.1016/j.cub.2017.04.002](https://doi.org/10.1016/j.cub.2017.04.002)
 
-Eagleman, D. M., & Sejnowski, T. J. (2000). Motion integration and postdiction in visual awareness. *Science*, 287, 2036-2038.
+Eagleman, D. M., & Sejnowski, T. J. (2000). Motion integration and postdiction in visual awareness. *Science*, 287, 2036-2038. [doi:10.1126/science.287.5460.2036](https://doi.org/10.1126/science.287.5460.2036)
 
-Ernst, M. O., & Banks, M. S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion. *Nature*, 415, 429-433.
+Ernst, M. O., & Banks, M. S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion. *Nature*, 415, 429-433. [doi:10.1038/415429a](https://doi.org/10.1038/415429a)
 
-Evstigneev, S. R., O'Connor, M.-F., Wilhelm, F. H., Blum, D., Slavich, G. M., & Seiler, A. (2026). Grief and bereavement: A pre-registered systematic review of neuroimaging studies. *Neuroscience and Biobehavioral Reviews*, 182, 106535. doi:10.1016/j.neubiorev.2025.106535
+Evstigneev, S. R., O'Connor, M.-F., Wilhelm, F. H., Blum, D., Slavich, G. M., & Seiler, A. (2026). Grief and bereavement: A pre-registered systematic review of neuroimaging studies. *Neuroscience and Biobehavioral Reviews*, 182, 106535. [doi:10.1016/j.neubiorev.2025.106535](https://doi.org/10.1016/j.neubiorev.2025.106535)
 
-Fleming, S. M., & Lau, H. C. (2014). How to measure metacognition. *Frontiers in Human Neuroscience*, 8, 443.
+Fleming, S. M., & Lau, H. C. (2014). How to measure metacognition. *Frontiers in Human Neuroscience*, 8, 443. [doi:10.3389/fnhum.2014.00443](https://doi.org/10.3389/fnhum.2014.00443)
 
-Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65-74.
+Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65-74. [doi:10.1016/j.biopsycho.2014.11.004](https://doi.org/10.1016/j.biopsycho.2014.11.004)
 
-Gold, J. I., & Shadlen, M. N. (2007). The neural basis of decision making. *Annual Review of Neuroscience*, 30, 535-574.
+Gold, J. I., & Shadlen, M. N. (2007). The neural basis of decision making. *Annual Review of Neuroscience*, 30, 535-574. [doi:10.1146/annurev.neuro.29.051605.113038](https://doi.org/10.1146/annurev.neuro.29.051605.113038)
 
-Green, D. M., & Swets, J. A. (1966). *Signal Detection Theory and Psychophysics*. New York: Wiley.
+Green, D. M., & Swets, J. A. (1966). *Signal Detection Theory and Psychophysics*. New York: Wiley. [Internet Archive (1988 reprint)](https://archive.org/details/signaldetectiont0000gree)
 
-Gündel, H., O'Connor, M.-F., Littrell, L., Fort, C., & Lane, R. D. (2003). Functional neuroanatomy of grief: An fMRI study. *American Journal of Psychiatry*, 160(11), 1946-1953.
+Gündel, H., O'Connor, M.-F., Littrell, L., Fort, C., & Lane, R. D. (2003). Functional neuroanatomy of grief: An fMRI study. *American Journal of Psychiatry*, 160(11), 1946-1953. [doi:10.1176/appi.ajp.160.11.1946](https://doi.org/10.1176/appi.ajp.160.11.1946)
 
-Haken, H., Kelso, J. A. S., & Bunz, H. (1985). A theoretical model of phase transitions in human hand movements. *Biological Cybernetics*, 51, 347-356.
+Haken, H., Kelso, J. A. S., & Bunz, H. (1985). A theoretical model of phase transitions in human hand movements. *Biological Cybernetics*, 51, 347-356. [doi:10.1007/bf00336922](https://doi.org/10.1007/bf00336922)
 
-Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. *Biological Psychiatry*, 78(4), 224-230.
+Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. *Biological Psychiatry*, 78(4), 224-230. [doi:10.1016/j.biopsych.2015.02.020](https://doi.org/10.1016/j.biopsych.2015.02.020)
 
-Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C. (2012). Brain-to-brain coupling: A mechanism for creating and sharing a social world. *Trends in Cognitive Sciences*, 16(2), 114-121.
+Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C. (2012). Brain-to-brain coupling: A mechanism for creating and sharing a social world. *Trends in Cognitive Sciences*, 16(2), 114-121. [doi:10.1016/j.tics.2011.12.007](https://doi.org/10.1016/j.tics.2011.12.007)
 
-Hickok, G. (2009). Eight problems for the mirror neuron theory of action understanding in monkeys and humans. *Journal of Cognitive Neuroscience*, 21(7), 1229-1243.
+Hickok, G. (2009). Eight problems for the mirror neuron theory of action understanding in monkeys and humans. *Journal of Cognitive Neuroscience*, 21(7), 1229-1243. [doi:10.1162/jocn.2009.21189](https://doi.org/10.1162/jocn.2009.21189)
 
-Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. *PLoS Medicine*, 7(7), e1000316.
+Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. *PLoS Medicine*, 7(7), e1000316. [doi:10.1371/journal.pmed.1000316](https://doi.org/10.1371/journal.pmed.1000316)
 
-Jung-Beeman, M., et al. (2004). Neural activity when people solve verbal problems with insight. *PLoS Biology*, 2(4), e97.
+Jung-Beeman, M., et al. (2004). Neural activity when people solve verbal problems with insight. *PLoS Biology*, 2(4), e97. [doi:10.1371/journal.pbio.0020097](https://doi.org/10.1371/journal.pbio.0020097)
 
-Kelso, J. A. S. (1984). Phase transitions and critical behavior in human bimanual coordination. *American Journal of Physiology: Regulatory, Integrative and Comparative Physiology*, 246, R1000-R1004.
+Kelso, J. A. S. (1984). Phase transitions and critical behavior in human bimanual coordination. *American Journal of Physiology: Regulatory, Integrative and Comparative Physiology*, 246, R1000-R1004. [doi:10.1152/ajpregu.1984.246.6.r1000](https://doi.org/10.1152/ajpregu.1984.246.6.r1000)
 
-Klass, D., Silverman, P. R., & Nickman, S. L. (Eds.) (1996). *Continuing Bonds: New Understandings of Grief*. Washington, DC: Taylor & Francis.
+Klass, D., Silverman, P. R., & Nickman, S. L. (Eds.) (1996). *Continuing Bonds: New Understandings of Grief*. Washington, DC: Taylor & Francis. [2014 reissue: doi:10.4324/9781315800790](https://doi.org/10.4324/9781315800790)
 
-McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. *Psychological Review*, 102(3), 419-457.
+McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. *Psychological Review*, 102(3), 419-457. [doi:10.1037/0033-295x.102.3.419](https://doi.org/10.1037/0033-295x.102.3.419)
 
-Moreno-Bote, R., Rinzel, J., & Rubin, N. (2007). Noise-induced alternations in an attractor network model of perceptual bistability. *Journal of Neurophysiology*, 98, 1125-1139.
+Moreno-Bote, R., Rinzel, J., & Rubin, N. (2007). Noise-induced alternations in an attractor network model of perceptual bistability. *Journal of Neurophysiology*, 98, 1125-1139. [doi:10.1152/jn.00116.2007](https://doi.org/10.1152/jn.00116.2007)
 
-Nijhawan, R. (1994). Motion extrapolation in catching. *Nature*, 370, 256-257.
+Nijhawan, R. (1994). Motion extrapolation in catching. *Nature*, 370, 256-257. [doi:10.1038/370256b0](https://doi.org/10.1038/370256b0)
 
-Northoff, G., Heinzel, A., de Greck, M., Bermpohl, F., Dobrowolny, H., & Panksepp, J. (2006). Self-referential processing in our brain: A meta-analysis of imaging studies on the self. *NeuroImage*, 31, 440-457.
+Northoff, G., Heinzel, A., de Greck, M., Bermpohl, F., Dobrowolny, H., & Panksepp, J. (2006). Self-referential processing in our brain: A meta-analysis of imaging studies on the self. *NeuroImage*, 31, 440-457. [doi:10.1016/j.neuroimage.2005.12.002](https://doi.org/10.1016/j.neuroimage.2005.12.002)
 
-O'Connor, M.-F., Wellisch, D. K., Stanton, A. L., Eisenberger, N. I., Irwin, M. R., & Lieberman, M. D. (2008). Craving love? Enduring grief activates brain's reward center. *NeuroImage*, 42(2), 969-972.
+O'Connor, M.-F., Wellisch, D. K., Stanton, A. L., Eisenberger, N. I., Irwin, M. R., & Lieberman, M. D. (2008). Craving love? Enduring grief activates brain's reward center. *NeuroImage*, 42(2), 969-972. [doi:10.1016/j.neuroimage.2008.04.256](https://doi.org/10.1016/j.neuroimage.2008.04.256)
 
-Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. *Proceedings of the National Academy of Sciences*, 99(16), 10237-10239.
+Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. *Proceedings of the National Academy of Sciences*, 99(16), 10237-10239. [doi:10.1073/pnas.172399499](https://doi.org/10.1073/pnas.172399499)
 
-Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108.
+Ratcliff, R. (1978). A theory of memory retrieval. *Psychological Review*, 85(2), 59-108. [doi:10.1037/0033-295x.85.2.59](https://doi.org/10.1037/0033-295x.85.2.59)
 
-Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), *Classical Conditioning II: Current Research and Theory* (pp. 64-99). New York: Appleton-Century-Crofts.
+Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), *Classical Conditioning II: Current Research and Theory* (pp. 64-99). New York: Appleton-Century-Crofts. [Internet Archive](https://archive.org/details/classicalconditi0000unse)
 
-Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842.
+Saxe, R., & Kanwisher, N. (2003). People thinking about thinking people: The role of the temporo-parietal junction in "theory of mind". *NeuroImage*, 19(4), 1835-1842. [doi:10.1016/s1053-8119(03)00230-1](https://doi.org/10.1016/s1053-8119%2803%2900230-1)
 
-Schmidt, R. C., Carello, C., & Turvey, M. T. (1990). Phase transitions and critical fluctuations in the visual coordination of rhythmic movements between people. *Journal of Experimental Psychology: Human Perception and Performance*, 16, 227-247.
+Schmidt, R. C., Carello, C., & Turvey, M. T. (1990). Phase transitions and critical fluctuations in the visual coordination of rhythmic movements between people. *Journal of Experimental Psychology: Human Perception and Performance*, 16, 227-247. [doi:10.1037/0096-1523.16.2.227](https://doi.org/10.1037/0096-1523.16.2.227)
 
-Scholz, J. P., Kelso, J. A. S., & Schöner, G. (1987). Nonequilibrium phase transitions in coordinated biological motion: Critical slowing down and switching time. *Physics Letters A*, 123, 390-394.
+Scholz, J. P., Kelso, J. A. S., & Schöner, G. (1987). Nonequilibrium phase transitions in coordinated biological motion: Critical slowing down and switching time. *Physics Letters A*, 123, 390-394. [doi:10.1016/0375-9601(87)90038-7](https://doi.org/10.1016/0375-9601%2887%2990038-7)
 
-Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, 275, 1593-1599.
+Schultz, W., Dayan, P., & Montague, P. R. (1997). A neural substrate of prediction and reward. *Science*, 275, 1593-1599. [doi:10.1126/science.275.5306.1593](https://doi.org/10.1126/science.275.5306.1593)
 
-Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences*, 17(11), 565-573.
+Seth, A. K. (2013). Interoceptive inference, emotion, and the embodied self. *Trends in Cognitive Sciences*, 17(11), 565-573. [doi:10.1016/j.tics.2013.09.007](https://doi.org/10.1016/j.tics.2013.09.007)
 
-Stephens, G. J., Silbert, L. J., & Hasson, U. (2010). Speaker-listener neural coupling underlies successful communication. *Proceedings of the National Academy of Sciences*, 107(32), 14425-14430.
+Stephens, G. J., Silbert, L. J., & Hasson, U. (2010). Speaker-listener neural coupling underlies successful communication. *Proceedings of the National Academy of Sciences*, 107(32), 14425-14430. [doi:10.1073/pnas.1008662107](https://doi.org/10.1073/pnas.1008662107)
 
-Stroebe, M., & Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. *Death Studies*, 23(3), 197-224.
+Stroebe, M., & Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. *Death Studies*, 23(3), 197-224. [doi:10.1080/074811899201046](https://doi.org/10.1080/074811899201046)
 
-Watanabe, D., & Watanabe, T. (2023). Distinct frontoparietal brain dynamics underlying the co-occurrence of autism and ADHD. *eNeuro*, 10(7), ENEURO.0146-23.2023. doi:10.1523/ENEURO.0146-23.2023
+Watanabe, D., & Watanabe, T. (2023). Distinct frontoparietal brain dynamics underlying the co-occurrence of autism and ADHD. *eNeuro*, 10(7), ENEURO.0146-23.2023. [doi:10.1523/ENEURO.0146-23.2023](https://doi.org/10.1523/ENEURO.0146-23.2023)
 
-Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. *Psychological Science*, 2(6), 409-415.
+Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. *Psychological Science*, 2(6), 409-415. [doi:10.1111/j.1467-9280.1991.tb00175.x](https://doi.org/10.1111/j.1467-9280.1991.tb00175.x)
 
-Wixted, J. T., & Ebbesen, E. B. (1997). Genuine power curves in forgetting: A quantitative analysis of individual subject forgetting functions. *Memory & Cognition*, 25, 731-739.
+Wixted, J. T., & Ebbesen, E. B. (1997). Genuine power curves in forgetting: A quantitative analysis of individual subject forgetting functions. *Memory & Cognition*, 25, 731-739. [doi:10.3758/bf03211316](https://doi.org/10.3758/bf03211316)
 
-World Health Organization (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. Geneva: WHO.
+World Health Organization (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. Geneva: WHO. [icd.who.int](https://icd.who.int/)
 
-Young, L. J., & Wang, Z. (2004). The neurobiology of pair bonding. *Nature Neuroscience*, 7(10), 1048-1054.
+Young, L. J., & Wang, Z. (2004). The neurobiology of pair bonding. *Nature Neuroscience*, 7(10), 1048-1054. [doi:10.1038/nn1327](https://doi.org/10.1038/nn1327)
 
-Zamariola, G., Maurage, P., Luminet, O., & Corneille, O. (2018). Interoceptive accuracy scores from the heartbeat counting task are problematic: Evidence from simple bivariate correlations. *Biological Psychology*, 137, 12-17.
+Zamariola, G., Maurage, P., Luminet, O., & Corneille, O. (2018). Interoceptive accuracy scores from the heartbeat counting task are problematic: Evidence from simple bivariate correlations. *Biological Psychology*, 137, 12-17. [doi:10.1016/j.biopsycho.2018.06.006](https://doi.org/10.1016/j.biopsycho.2018.06.006)
 
 ---
