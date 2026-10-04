@@ -110,7 +110,7 @@ The rest is Van.
 
 ## I. Fundamental
 
-Nothing holds together by accident, and nothing exists in isolation. Any system - a relationship, a group, an idea, an organization, a self - is a field of relations governed by one principle: the interplay of **Van (<)** (spreading, unbound) and **Naar (>)** (binding, bound) across a **Drempel (θ)** that applies the same way wherever it occurs. Structure, identity, memory, and awareness are all secondary expressions of one dynamic - expressed here as a single reusable mechanism, not a family of rules that happen to resemble each other.
+Nothing holds together by accident, and nothing exists in isolation. Any system - a relationship, a group, an idea, an organization, a self - is a field of relations governed by one principle: the interplay of **Van (<)** (spreading, unbound) and **Naar (>)** (binding, bound) across a **Drempel (θ)** that applies the same way wherever it occurs. Structure, identity, memory, and awareness are all secondary expressions of one dynamic: where bonds are dense, the field sinks into valleys, and what lies in them is held.
 
 ---
 
