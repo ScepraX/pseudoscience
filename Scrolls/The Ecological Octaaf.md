@@ -16,7 +16,7 @@ Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the
 
 Four features set this Octaaf apart:
 
-1. **Thresholds with hysteresis are measured in whole ecosystems.** Lakes, populations and food webs flip between states and do not flip back at the same point. Before they flip, they flicker and slow down, as the thermodynamic Octaaf predicted (§2.1, §2.2).
+1. **Thresholds with hysteresis are measured in whole ecosystems.** Lakes, populations and food webs flip between states and do not flip back at the same point. Before they flip, they often flicker and slow down, as the thermodynamic Octaaf predicted (§2.1, §2.2).
 2. **Bonds have two signs, and the signs need not match.** In predation and parasitism one partner gains and the other loses. This behaviour begins at this Octaaf, and it is recorded here (§3.1, §4.1).
 3. **Partners can vanish and leave their Echo in the survivors for thousands of years.** Rouw is visible in the shape of living things (§3.7).
 4. **Deception is an evolved strategy with measurable costs.** Masker and Parasiet are biology here, not metaphor (§3.2, §3.3).
@@ -50,7 +50,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Drempel θ and Marge η (§II; Lexicon) | Alternative stable states with hysteresis | Correspondence (measured) | §2.1 |
 | Flicker before a crossing (*Thermodynamic Octaaf* §2.3) | Early-warning signals: slowing down, rising variance, flickering | Correspondence (measured) | §2.2 |
 | Van Motor, L = L₀·exp(−J) (§III) | Extinction time exponential in population size under member-level noise; power law under shared shocks | Identity (form) + Constraint | §2.3 |
-| Greep from bonds with one's own kind | The Allee effect: a density below which a population declines | Correspondence (measured) | §2.4 |
+| Greep from bonds with one's own kind | The Allee effect: a density below which a population declines | Correspondence (measured, partial) | §2.4 |
 | "A deep bond is not a safe one" (§III) | May's limit: more and stronger links destabilise | Constraint | §2.5 |
 | Trouw y (§II) | Signed interaction strengths; signs need not match | Correspondence (this Octaaf) | §3.1 |
 | Masker (§VII; Lexicon) | Batesian mimicry; honest warning signals as Bloot | Correspondence | §3.2 |
@@ -83,9 +83,11 @@ The thermodynamic Octaaf predicted that a system approaching a Drempel recovers 
 
 - **A whole lake.** Researchers gradually added a top predator to one lake, keeping a second lake as a control. The signals appeared in the manipulated lake more than a year before its food web shifted (Carpenter et al. 2011).
 - **Laboratory populations.** Populations of water fleas in a slowly deteriorating environment showed slowing recovery before collapsing (Drake & Griffen 2010).
-- **Flickering.** Lake sediments from Erhai Lake in China record the lake switching back and forth between states with increasing frequency before it settled into the turbid state (Wang et al. 2012). Ecologists call this *flickering*.
+- **Flickering.** Lake sediments from Erhai Lake in China show rising variance with falling autocorrelation for 10–30 years before the lake settled into the turbid state, the statistical signature of switching back and forth between states (Wang et al. 2012). Ecologists call this *flickering*.
 
 That last finding sharpens the Speelgoed. A Marge "prevents flickering crossings" only if it is wide compared with the disturbances the Medium delivers. When disturbances are large enough to kick the system across the Marge, it flickers. **A Marge holds against flicker only to the extent that its width exceeds the Medium's noise.** **Grade: Correspondence (measured)**, with a refinement.
+
+Not every shift is announced. In some ecological models a regime shift comes with no warning at all (Hastings & Wysham 2010).
 
 ### 2.3 The Van Motor: how extinction scales with size
 
@@ -98,7 +100,7 @@ The second result is a limit on Greep that the Speelgoed does not state. **Expon
 
 ### 2.4 The Allee effect: Greep from one's own kind
 
-In many species, individuals do worse when there are too few of their own kind. They struggle to find mates, defend against predators, or feed cooperatively. Below a critical density, a population's growth rate turns negative and it declines toward extinction. Above it, the population grows. This is the strong Allee effect (Courchamp, Clutton-Brock & Grenfell 1999). The evidence for it, reviewed across many taxa, is substantial (Kramer et al. 2009).
+In many species, individuals do worse when there are too few of their own kind. They struggle to find mates, defend against predators, or feed cooperatively. Below a critical density, a population's growth rate turns negative and it declines toward extinction. Above it, the population grows. This is the strong Allee effect (Courchamp, Clutton-Brock & Grenfell 1999). Allee effects are conclusively documented in natural populations of many animal species, but direct evidence of a critical density is lacking for most of them (Kramer et al. 2009).
 
 In Speelgoed terms, the critical density is a Drempel, and the reason it exists is Greep: the bonds a member has with others of its kind. Too few bonds, and the Van Motor wins. Below the threshold the decline feeds itself: fewer members means fewer bonds, and fewer bonds means faster decline. That is Doem as a cascade, "the cascade of Verlies that strips a node of every Greep" (Lexicon). **Grade: Correspondence (measured).**
 
@@ -106,7 +108,7 @@ In Speelgoed terms, the critical density is a Drempel, and the reason it exists 
 
 In 1972 Robert May asked whether larger, more connected ecosystems are more stable. He found the opposite for randomly assembled communities. A community of S species, with a fraction C of possible links present and typical link strength σ, is almost surely unstable once σ·√(S·C) exceeds 1 (May 1972). Adding species, adding links, or strengthening them all push it toward instability.
 
-Later work showed that the *kind* of link matters. Predator–prey pairs, where one partner gains and the other loses, are stabilising. Competition and mutualism, where both partners are affected in the same direction, are destabilising (Allesina & Tang 2012). Many weak links also stabilise a food web, damping the oscillations that strong links would drive (McCann, Hastings & Huxel 1998).
+Later work showed that the *kind* of link matters. Predator–prey pairs, where one partner gains and the other loses, are stabilising. Competition and mutualism, where both partners are affected in the same direction, are destabilising (Allesina & Tang 2012). Many weak links also stabilise a food web, damping the oscillations that strong links would drive (McCann, Hastings & Huxel 1998). For local stability near an equilibrium, though, Allesina and Tang found the opposite: in predator–prey networks, a large preponderance of weak interactions lowers it.
 
 The Speelgoed says that more Greep slows the Van Motor's pull (§III). May's result does not contradict this; it concerns something else. Greep slows the steady drift toward Van. Strong, same-sign coupling amplifies shocks. Both can be true at once, and the Speelgoed already says as much: "A deep bond is not a safe one; it is a held one" (§III), and of Bloei, compounding mutual gain, "Bloei does not remove risk—it raises the stakes" (Lexicon). May's limit makes this quantitative for many bonds at once: past σ·√(S·C) = 1, more binding means less stability. **Grade: Constraint.**
 
@@ -150,7 +152,7 @@ The chick's trick is subtler. A reed warbler parent adjusts its feeding to two s
 
 **Keystones.** When the starfish *Pisaster* was removed from a rocky shore, mussels took over and the number of species fell sharply (Paine 1966). Some members hold a community together far out of proportion to their numbers.
 
-**A cascade across ecosystems.** Sea otters eat sea urchins, and urchins eat kelp. Where otters are present, kelp forests stand. Where they are absent, urchins strip the seabed bare (Estes & Palmisano 1974). In the 1990s, otter numbers in western Alaska collapsed. The cause was killer whales, oceanic predators that had begun to eat them. Urchins boomed, and kelp forests were lost (Estes et al. 1998). That is Doem as the Speelgoed describes it, a cascade rather than a fading. It also illustrates §VI's boundary rule. The killer whales had been treated as outside the nearshore system. They were part of the bond all along, and "the boundary was drawn wrong".
+**A cascade across ecosystems.** Sea otters eat sea urchins, and urchins eat kelp. Where otters are present, kelp forests stand. Where they are absent, urchins strip the seabed bare (Estes & Palmisano 1974). In the 1990s, otter numbers in western Alaska collapsed. The likely cause, Estes and colleagues argued, was killer whales, oceanic predators that had begun to eat them. Urchins boomed, and kelp forests were lost (Estes et al. 1998). The evidence for the whales is indirect and has been questioned (Kuker & Barrett-Lennard 2010), though a later analysis found the collapse consistent with predation (Tinker et al. 2021). That is Doem as the Speelgoed describes it, a cascade rather than a fading. It also illustrates §VI's boundary rule. The killer whales had been treated as outside the nearshore system. If they were the cause, they were part of the bond all along, and "the boundary was drawn wrong".
 
 **Coextinction.** When a species is lost, the parasites and mutualists that depend on it are lost with it. One estimate puts thousands of such dependent species at risk alongside the endangered hosts they rely on (Koh et al. 2004). Doem spreads along the bonds.
 
@@ -158,7 +160,7 @@ The chick's trick is subtler. A reed warbler parent adjusts its feeding to two s
 
 ### 3.7 Rouw: the Echo of a vanished partner
 
-§VI says an Echo outlives its Koppel permanently and becomes "progressively more a record of the mourner than of the departed". In Central American forests, some trees bear large, hard fruits with no animal now living there to disperse them well. Their likely partners were gomphotheres, ground sloths and other large mammals that went extinct about ten thousand years ago (Janzen & Martin 1982). Later analysis of fruits across the Americas supports and refines the idea that many plants still carry traits shaped by vanished megafauna (Guimarães, Galetti & Jordano 2008). The partner is gone. Its Echo remains in the survivor's form, an "evolutionary anachronism". **Grade: Correspondence.**
+§VI says an Echo outlives its Koppel permanently and becomes "progressively more a record of the mourner than of the departed". In Central American forests, some trees bear large, hard fruits with no animal now living there to disperse them well. Their likely partners were gomphotheres, ground sloths and other large mammals that went extinct about ten thousand years ago (Janzen & Martin 1982). Later analysis of 103 Neotropical fruit species supports and refines the idea that many plants still carry traits shaped by vanished megafauna (Guimarães, Galetti & Jordano 2008). The partner is gone. Its Echo remains in the survivor's form, an "evolutionary anachronism". **Grade: Correspondence.**
 
 The idea has a famous warning attached. Connell named the "ghost of competition past", the idea that species' present traits were shaped by competitors no longer present. He warned that it is easy to invoke and hard to test (Connell 1980). The Speelgoed says the same about Rouw: "with the partner gone, there is nothing left to compare against" (§VII). Rouw is real, and it is also the place where explanations are least checkable.
 
@@ -248,6 +250,8 @@ Estes, J. A., Tinker, M. T., Williams, T. M., & Doak, D. F. (1998). Killer whale
 
 Guimarães, P. R., Galetti, M., & Jordano, P. (2008). Seed dispersal anachronisms: Rethinking the fruits extinct megafauna ate. *PLoS ONE*, 3(3), e1745. [doi:10.1371/journal.pone.0001745](https://doi.org/10.1371/journal.pone.0001745)
 
+Hastings, A., & Wysham, D. B. (2010). Regime shifts in ecological systems can occur with no warning. *Ecology Letters*, 13(4), 464-472. [doi:10.1111/j.1461-0248.2010.01439.x](https://doi.org/10.1111/j.1461-0248.2010.01439.x)
+
 Janzen, D. H., & Martin, P. S. (1982). Neotropical anachronisms: The fruits the gomphotheres ate. *Science*, 215, 19-27. [doi:10.1126/science.215.4528.19](https://doi.org/10.1126/science.215.4528.19)
 
 Karst, J., Jones, M. D., & Hoeksema, J. D. (2023). Positive citation bias and overinterpreted results lead to misinformation on common mycorrhizal networks in forests. *Nature Ecology & Evolution*, 7, 501-511. [doi:10.1038/s41559-023-01986-1](https://doi.org/10.1038/s41559-023-01986-1)
@@ -257,6 +261,8 @@ Kilner, R. M., Noble, D. G., & Davies, N. B. (1999). Signals of need in parent-o
 Koh, L. P., et al. (2004). Species coextinctions and the biodiversity crisis. *Science*, 305(5690), 1632-1634. [doi:10.1126/science.1101101](https://doi.org/10.1126/science.1101101)
 
 Kramer, A. M., Dennis, B., Liebhold, A. M., & Drake, J. M. (2009). The evidence for Allee effects. *Population Ecology*, 51(3), 341-354. [doi:10.1007/s10144-009-0152-6](https://doi.org/10.1007/s10144-009-0152-6)
+
+Kuker, K., & Barrett-Lennard, L. (2010). A re-evaluation of the role of killer whales *Orcinus orca* in a population decline of sea otters *Enhydra lutris* in the Aleutian Islands and a review of alternative hypotheses. *Mammal Review*, 40(2), 103-124. [doi:10.1111/j.1365-2907.2009.00156.x](https://doi.org/10.1111/j.1365-2907.2009.00156.x)
 
 Lande, R. (1993). Risks of population extinction from demographic and environmental stochasticity and random catastrophes. *The American Naturalist*, 142, 911-927. [doi:10.1086/285580](https://doi.org/10.1086/285580)
 
@@ -274,7 +280,7 @@ Paine, R. T. (1966). Food web complexity and species diversity. *The American Na
 
 Ruxton, G. D., Sherratt, T. N., & Speed, M. P. (2004). *Avoiding Attack: The Evolutionary Ecology of Crypsis, Warning Signals and Mimicry*. Oxford: Oxford University Press. [doi:10.1093/acprof:oso/9780198528609.001.0001](https://doi.org/10.1093/acprof:oso/9780198528609.001.0001)
 
-Sagan, L. [later Margulis] (1967). On the origin of mitosing cells. *Journal of Theoretical Biology*, 14(3), 255-274. [doi:10.1016/0022-5193(67)90079-3](https://doi.org/10.1016/0022-5193%2867%2990079-3)
+Sagan, L. [later Margulis] (1967). On the origin of mitosing cells. *Journal of Theoretical Biology*, 14(3), 225-274. [doi:10.1016/0022-5193(67)90079-3](https://doi.org/10.1016/0022-5193%2867%2990079-3)
 
 Scheffer, M., Carpenter, S., Foley, J. A., Folke, C., & Walker, B. (2001). Catastrophic shifts in ecosystems. *Nature*, 413(6856), 591-596. [doi:10.1038/35098000](https://doi.org/10.1038/35098000)
 
@@ -289,6 +295,8 @@ Spribille, T., et al. (2016). Basidiomycete yeasts in the cortex of ascomycete m
 Stearns, S. C. (1992). *The Evolution of Life Histories*. Oxford: Oxford University Press. [doi:10.1093/oso/9780198577416.001.0001](https://doi.org/10.1093/oso/9780198577416.001.0001)
 
 Tilman, D., May, R. M., Lehman, C. L., & Nowak, M. A. (1994). Habitat destruction and the extinction debt. *Nature*, 371(6492), 65-66. [doi:10.1038/371065a0](https://doi.org/10.1038/371065a0)
+
+Tinker, M. T., et al. (2021). Sea otter population collapse in southwest Alaska: Assessing ecological covariates, consequences, and causal factors. *Ecological Monographs*, 91(4), e01472. [doi:10.1002/ecm.1472](https://doi.org/10.1002/ecm.1472)
 
 Van Valen, L. (1973). A new evolutionary law. *Evolutionary Theory*, 1, 1-30. [PDF](https://www.mn.uio.no/cees/english/services/van-valen/evolutionary-theory/volume-1/vol-1-no-1-pages-1-30-l-van-valen-a-new-evolutionary-law.pdf)
 

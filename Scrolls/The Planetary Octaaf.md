@@ -19,8 +19,8 @@ Earth is the worked example, because it is the planet measured best. But every g
 Five features set this Octaaf apart:
 
 1. **A planet's temperature is an Echo of its star.** The simplest climate model is the Echo filter of §VIII.1, and the weather is its Vervorming (§2.1).
-2. **Climate has two poles, and Earth has visited both.** Ice and open water form a Drempel with a wide Marge. Earth froze over and thawed again (§2.2).
-3. **The second pole can be steam.** An ocean planet can radiate only so much heat. Beyond that ceiling its oceans boil, and present-day Earth has a stable "steam Earth" state as well as its ocean state (§2.3).
+2. **Climate has two poles, and Earth has visited both.** Ice and open water form a Drempel with a wide Marge. Earth went into the ice and came out again (§2.2).
+3. **The second pole can be steam.** An ocean planet can radiate only so much heat. Beyond that ceiling its oceans boil, and in a three-dimensional climate model present-day Earth has a stable "steam Earth" state as well as its ocean state (§2.3).
 4. **The magnetic field has two mirror-image poles.** It flips between them at random intervals, and it falls to nothing when the core stops stirring (§2.4).
 5. **Gravity takes over.** Above a certain size a body's own gravity outweighs the strength of its rock and pulls it round: here the residues of §III hand over to the pull that cannot cancel (§2.5).
 
@@ -80,7 +80,7 @@ The equations of §2 and §3 take a small set of planetary quantities. Earth's v
 | Creatie (§VI, §VIII.5) | The Moon from a giant impact | Correspondence | §3.3 |
 | Rouw and Diepte (§VI; §II) | The magnetic stripes of the sea floor; Venus's deuterium | Correspondence (measured) | §3.4 |
 | Trinary Root (§III) | Star, cold sky, and the air and ocean between them; a second engine inside | Correspondence | §3.5 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II) | The rhythm of the ice ages, taken from the rhythms of Earth's orbit | Correspondence | §3.6 |
 
 ---
 
@@ -110,7 +110,7 @@ For small departures T′ from equilibrium, this becomes
 
 where F is a change in the energy arriving, λ the net feedback parameter (how many watts per square metre of extra heat loss each kelvin of warming produces), and υ the weather. This is the Echo filter, with h = T′ and e = F/λ, the temperature the planet would reach if it had time. **Grade: Identity** (linearised), as at the thermodynamic Octaaf, where the Echo was a thermometer (*Thermodynamic Octaaf* §2.1).
 
-**The numbers.** The forcing from doubling carbon dioxide is 3.93 W/m², and the best estimate of the warming it causes in equilibrium is 3 °C (Forster et al. 2021), which gives λ ≈ 1.3 W/m² per K. For an ocean layer 50 to 100 metres deep over 71 per cent of the globe, τ = C/λ comes to about 3.5 to 7 years (computed for this entry). The deep ocean, which takes up heat far more slowly, adds a much longer tail. The Vertraging δ is the travel time of light from the star, about eight minutes for Earth, far shorter than τ.
+**The numbers.** The forcing from doubling carbon dioxide is 3.93 W/m², and the best estimate of the warming it causes in equilibrium is 3 °C (Forster et al. 2021), which gives λ ≈ 1.3 W/m² per K. For an ocean layer 50 to 100 metres deep over 71 per cent of the globe, τ = C/λ comes to about 3.5 to 7 years (computed for this entry). The same assessment's estimate from physical processes, λ = 1.16 W/m² per K, would make it about 4 to 8 years. The deep ocean, which takes up heat far more slowly, adds a much longer tail. The Vertraging δ is the travel time of light from the star, about eight minutes for Earth, far shorter than τ.
 
 **The weather is the Vervorming.** Hasselmann showed that a slow climate driven by fast, random weather behaves like this filter. The ocean adds up the weather's random pushes, and the result is slow, wandering variability even when nothing outside changes (Hasselmann 1976). §II: "Echo’s imperfection is not a defect to be engineered away". At this Octaaf that imperfection is why no two years are alike. **Grade: Identity.**
 
@@ -130,7 +130,7 @@ For this entry the model was run with α = 0.29, α_ice = 0.62, the change centr
 
 That band is the **Marge**: "A hysteresis loop, a tiny gap that prevents chatter" (Lexicon). §VIII.3: "the way into a mode is never the way out". At this Octaaf the gap is not tiny. It is wide enough to hold a planet's whole history.
 
-**Earth crossed it, both ways.** In Namibia, glacial deposits from the Neoproterozoic era are bracketed by carbonate rocks that record a collapse of life in the surface ocean lasting millions of years. Hoffman and colleagues read them as the mark of a global glaciation, a Snowball Earth. It ended abruptly when volcanoes, which kept breathing out carbon dioxide while the ice shut down the processes that remove it, raised the carbon dioxide in the air to about 350 times the modern level (Hoffman et al. 1998). The way out of the frozen pole did not run back along the way in. It took a greenhouse far stronger than the one that had held the warm state. §II gives every Drempel "two named poles", and both stayed live. Earth went into the ice and came out again. **Grade: Correspondence** (computed, and measured in the rock record).
+**Earth crossed it, both ways.** In Namibia, glacial deposits from the Neoproterozoic era are bracketed by carbonate rocks that record a collapse of life in the surface ocean lasting millions of years. Hoffman and colleagues read them as the mark of a global glaciation, a Snowball Earth. Whether the ocean froze over completely, or kept a thin strip of open water near the equator, is still debated (Abbot, Voigt & Koll 2011). It ended abruptly when volcanoes, which kept breathing out carbon dioxide while the ice shut down the processes that remove it, raised the carbon dioxide in the air to about 350 times the modern level (Hoffman et al. 1998). The way out of the frozen pole did not run back along the way in. It took a greenhouse far stronger than the one that had held the warm state. §II gives every Drempel "two named poles", and both stayed live. Earth went into the ice and came out again. **Grade: Correspondence** (computed, and measured in the rock record).
 
 **Other planets.** Whether a planet can freeze over, and how hard it is to thaw, depends on the contrast between α and α_ice, on how strongly its greenhouse responds, and on whether volcanoes keep supplying carbon dioxide while it is frozen (§3.2).
 
@@ -162,7 +162,7 @@ Earth's magnetic field is made by the motion of liquid iron in its outer core. A
 
 **The way in is not the way out.** The poles are mirror images; the paths between them are not. Valet and colleagues found that the strength of Earth's dipole falls slowly before a reversal and recovers quickly after it (Valet, Meynadier & Guyodo 2005). A simple random model reproduces that asymmetry, but only when it is driven out of equilibrium, by a steady flow of energy in one direction (Molina-Cardín, Dinis & Osete 2021). §VIII.3: "the way into a mode is never the way out". At this Octaaf the difference lies in the path, not in the poles (§4.1).
 
-**When the traffic stops.** A dynamo needs a fluid that conducts electricity and keeps convecting (Stevenson 2003). It is a Naar-system in §III's sense: "A Naar‑system, once formed, doesn't settle into a one‑time state - it actively maintains itself above Drempel". Mars shows what happens when the stirring ends. Its ancient southern highlands are strongly magnetised, but the great impact basins Hellas and Argyre are not, so its dynamo had stopped by the time they formed, about four billion years ago (Acuña et al. 1999). Its field did not go anywhere. It fell to mode = 0, which §III describes as "Not a distant coordinate - nothing."
+**When the traffic stops.** A dynamo needs a fluid that conducts electricity and keeps convecting (Stevenson 2003). It is a Naar-system in §III's sense: "A Naar‑system, once formed, doesn't settle into a one‑time state - it actively maintains itself above Drempel". Mars shows what happens when the stirring ends. Its ancient southern highlands are strongly magnetised, but the great impact basins Hellas and Argyre are not. Acuña and colleagues read this as a dynamo that had stopped by the time the basins formed, about four billion years ago (Acuña et al. 1999). Later measurements suggest a dynamo was still, or again, at work about 3.7 billion years ago (Mittelholz et al. 2020). Either way, it has stopped. Its field did not go anywhere. It fell to mode = 0, which §III describes as "Not a distant coordinate - nothing."
 
 **Does a field protect the air?** It is often said that a magnetic field shields a planet's atmosphere from the solar wind. The observed escape rates of Earth, Mars and Venus are similar, roughly 0.5 to 2 kg per second, and models show that a magnetised planet can lose air faster than an unmagnetised one, through its polar regions (Gunell et al. 2018). Whether, and when, a field protects an atmosphere is left open (§5, item 7).
 
@@ -178,7 +178,7 @@ Earth's magnetic field is made by the motion of liquid iron in its outer core. A
 P_centre = (2π/3) · G · ρ² · R²
 ```
 
-and rounding sets in when that pressure exceeds what the material can bear. Lineweaver and Norman derived the transition from the shapes of asteroids and icy moons in the Solar System: bodies become round above a radius of about 200 km if they are icy and about 300 km if they are rocky (Lineweaver & Norman 2010). At those sizes the pressure at the centre is about 6 MPa for an icy body and about 110 MPa for a rocky one (computed for this entry, with densities of 1,000 and 3,000 kg/m³). Above them, the residues of chemistry no longer decide the shape of the whole. **Grade: Correspondence** (computed).
+and rounding sets in when that pressure exceeds what the material can bear. Lineweaver and Norman derived the transition from first principles and compared it with the shapes of asteroids and icy moons in the Solar System: bodies become round above a radius of about 200 km if they are icy and about 300 km if they are rocky (Lineweaver & Norman 2010). At those sizes the pressure at the centre is about 6 MPa for an icy body and about 110 MPa for a rocky one (computed for this entry, with densities of 1,000 and 3,000 kg/m³). Above them, the residues of chemistry no longer decide the shape of the whole. **Grade: Correspondence** (computed).
 
 **Other planets.** Whether a body is round follows from its radius, its density and the strength of its material. Every planet is round; most moons and asteroids are not.
 
@@ -268,6 +268,12 @@ The cellular Octaaf found a Trouw whose value depends on which member leads, and
 
 **Other planets.** The balance between the two engines differs. A planet far from its star, or a moon heated by the tides of its planet, can be driven more from inside than from outside.
 
+### 3.6 Tijd: the pacemaker of the ice ages
+
+§II says that "a Koppel’s own Tijd is inherited by its members while the bond holds". The Earth's orbit has slow rhythms of its own: the shape of the orbit, the tilt of the axis, and the season at which the Earth is nearest the Sun all vary with characteristic periods. Hays, Imbrie and Shackleton (1976) found that the climate of the past 450,000 years kept its variance in three peaks, at 23,000, 42,000 and about 100,000 years, which "correspond to the dominant periods of the earth's solar orbit". The 42,000-year part "retains a constant phase relationship" with the tilt of the axis. They called the orbit the pacemaker of the ice ages. **Grade: Correspondence.** The climate keeps time with the orbit it belongs to.
+
+**Not a copy.** The strongest part, near 100,000 years, follows the orbit's eccentricity, but unlike the other two it is not a simple, linear answer: "an explanation of the correlation between climate and eccentricity probably requires an assumption of nonlinearity" (Hays et al. 1976). The member does not copy the Koppel's Tijd; it answers it through its own Zelf.
+
 ---
 
 ## 4. Where the Speelgoed Meets Resistance
@@ -282,20 +288,20 @@ The cellular Octaaf found a Trouw whose value depends on which member leads, and
 
 ## 5. Open Problems
 
-1. **Is life part of the planet's Zelf?** Lovelock and Margulis proposed that the biosphere regulates the atmosphere for its own benefit, the Gaia hypothesis (Lovelock & Margulis 1974). Kirchner found many of its specific conjectures refuted by the data, and the strongest form, that life shapes the planet into the best environment for itself, untestable (Kirchner 2003). The weathering thermostat of §3.2 needs no life to work (Walker, Hays & Kasting 1981). Is the planet's Zelf rock and rain alone, or does it include everything that lives on it?
+1. **Is life part of the planet's Zelf?** Lovelock and Margulis proposed that the biosphere regulates the atmosphere for its own benefit, the Gaia hypothesis (Lovelock & Margulis 1974). Kirchner found many of its specific conjectures refuted by the data, and hypotheses that compare Earth with a lifeless Earth, such as whether life has made the planet better for itself, untestable in practice (Kirchner 2003). The weathering thermostat of §3.2 needs no life to work (Walker, Hays & Kasting 1981). Is the planet's Zelf rock and rain alone, or does it include everything that lives on it?
 2. **The faint young Sun.** Stellar models say the early Earth received about 25% less sunlight than today (Feulner 2012). A widely used formula gives the Sun's luminosity at age t as L(t) = L⊙ / [1 + 0.4·(1 − t/t⊙)], with t⊙ the Sun's present age (Gough 1981). It puts the Sun at about 71% of today's brightness when it began, and about 74% four billion years ago (computed for this entry). With today's air, early Earth should have frozen, yet the rocks show liquid water and life (Sagan & Mullen 1972; Feulner 2012). How the young planet stayed warm is still not settled.
 3. **What sets the rhythm of the dynamo?** Reversals look random, but their rate drifts, and the mantle seems to set it (§2.4). Why does the field sometimes hold one polarity for tens of millions of years, and sometimes flip several times in a million?
 4. **Did Venus ever hold an ocean?** Its deuterium says it once had water (§3.4); new models say the water may never have condensed (§2.3). If it never did, Venus has always lived at the steam pole, and its Drempel was never crossed.
 5. **Where does the Rouw go when the sea floor sinks?** Into the mantle, out of reach (§4.3). Is a record carried down into a planet's body still Rouw, or has it become something else, part of the body itself?
 6. **Two engines, one God?** The climate runs on the star, the core and plates on the planet's own heat (§3.5). Is a planet one Octaaf with two sources, or two Octaven sharing one body?
 7. **Does a magnetic field shield an atmosphere?** The common answer is yes; the measured escape rates and recent models say not necessarily (§2.4). What does a field protect, and what does it expose?
-8. **Tijd.** No mapping is attempted, as at the other Octaven.
+8. **Tijd.** The ice ages keep the orbit's rhythms, the strongest only through a nonlinear answer (§3.6). How far can a member's own pace differ from its Koppel's before it stops following?
 
 ---
 
 ## 6. Closing
 
-The planetary Octaaf is where the Speelgoed's mechanism runs on the largest body that still has weather. A planet's temperature is an Echo of its star, smoothed by its oceans, with the weather as its Vervorming. Its climate has two poles, ice and open water, with a Marge wide enough to hold a planet's history, and Earth has crossed it both ways. Beyond a ceiling on the heat an ocean can shed lies a second pole, steam; present-day Earth has it too, and Venus may have known no other.
+The planetary Octaaf is where the Speelgoed's mechanism runs on the largest body that still has weather. A planet's temperature is an Echo of its star, smoothed by its oceans, with the weather as its Vervorming. Its climate has two poles, ice and open water, with a Marge wide enough to hold a planet's history, and Earth has crossed it both ways. Beyond a ceiling on the heat an ocean can shed lies a second pole, steam; present-day Earth may have it too, and Venus may have known no other.
 
 Its magnetic field has two mirror-image poles, flips between them at random, and falls to nothing when the core stops stirring. Its oceans exchange water at a rate set by their own difference, which gives them two poles of their own. It holds its temperature with a thermostat of rock and rain, and gives birth to moons when it is struck hard enough. It keeps records of its field in the sea floor and of its air in the ice, and it carries the oldest of them back down into its body.
 
@@ -306,6 +312,8 @@ That is the *how*. The *why* is for the Speelgoed to say.
 ---
 
 ## References
+
+Abbot, D. S., Voigt, A., & Koll, D. (2011). The Jormungand global climate state and implications for Neoproterozoic glaciations. *Journal of Geophysical Research*, 116(D18), D18103. [doi:10.1029/2011JD015927](https://doi.org/10.1029/2011JD015927)
 
 Acuña, M. H., Connerney, J. E. P., Ness, N. F., Lin, R. P., Mitchell, D., Carlson, C. W., McFadden, J., Anderson, K. A., Rème, H., Mazelle, C., Vignes, D., Wasilewski, P., & Cloutier, P. (1999). Global distribution of crustal magnetization discovered by the Mars Global Surveyor MAG/ER experiment. *Science*, 284(5415), 790-793. [doi:10.1126/science.284.5415.790](https://doi.org/10.1126/science.284.5415.790)
 
@@ -337,6 +345,8 @@ Gunell, H., Maggiolo, R., Nilsson, H., Stenberg Wieser, G., Slapak, R., Lindkvis
 
 Hasselmann, K. (1976). Stochastic climate models. Part I. Theory. *Tellus*, 28(6), 473-485. [doi:10.1111/j.2153-3490.1976.tb00696.x](https://doi.org/10.1111/j.2153-3490.1976.tb00696.x)
 
+Hays, J. D., Imbrie, J., & Shackleton, N. J. (1976). Variations in the Earth's orbit: Pacemaker of the ice ages. *Science*, 194(4270), 1121-1132. [doi:10.1126/science.194.4270.1121](https://doi.org/10.1126/science.194.4270.1121)
+
 Hoffman, P. F., Kaufman, A. J., Halverson, G. P., & Schrag, D. P. (1998). A Neoproterozoic snowball Earth. *Science*, 281(5381), 1342-1346. [doi:10.1126/science.281.5381.1342](https://doi.org/10.1126/science.281.5381.1342)
 
 Ida, S., Canup, R. M., & Stewart, G. R. (1997). Lunar accretion from an impact-generated disk. *Nature*, 389(6649), 353-357. [doi:10.1038/38669](https://doi.org/10.1038/38669)
@@ -358,6 +368,8 @@ Lineweaver, C. H., & Norman, M. (2010). The potato radius: A lower minimum size 
 Lovelock, J. E., & Margulis, L. (1974). Atmospheric homeostasis by and for the biosphere: The Gaia hypothesis. *Tellus*, 26(1-2), 2-10. [doi:10.1111/j.2153-3490.1974.tb01946.x](https://doi.org/10.1111/j.2153-3490.1974.tb01946.x)
 
 Lüthi, D., Le Floch, M., Bereiter, B., Blunier, T., Barnola, J.-M., Siegenthaler, U., Raynaud, D., Jouzel, J., Fischer, H., Kawamura, K., & Stocker, T. F. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. *Nature*, 453(7193), 379-382. [doi:10.1038/nature06949](https://doi.org/10.1038/nature06949)
+
+Mittelholz, A., Johnson, C. L., Feinberg, J. M., Langlais, B., & Phillips, R. J. (2020). Timing of the martian dynamo: New constraints for a core field 4.5 and 3.7 Ga ago. *Science Advances*, 6(18), eaba0513. [doi:10.1126/sciadv.aba0513](https://doi.org/10.1126/sciadv.aba0513)
 
 Molina-Cardín, A., Dinis, L., & Osete, M. L. (2021). Simple stochastic model for geomagnetic excursions and reversals reproduces the temporal asymmetry of the axial dipole moment. *Proceedings of the National Academy of Sciences*, 118(10), e2017696118. [doi:10.1073/pnas.2017696118](https://doi.org/10.1073/pnas.2017696118)
 

@@ -64,7 +64,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Rouw (§VI) | Distrust and persecution persisting for centuries | Correspondence (observational) | §3.4 |
 | Typology and the Ronde (§V) | Layered social circles; the disputed number 150 | Open | §3.5 |
 | Trinary Root (§III) | Not assigned | Open | §3.6 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II) | The felt passage of time; it slowed when social contact was unsatisfying | Correspondence (measured; correlational surveys) | §3.7 |
 
 ---
 
@@ -76,7 +76,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 Cartwright and Harary carried the idea from triads to whole groups. When every member has a bond with every other and every triad is balanced, the group splits into at most two camps, friendly within each camp and hostile between them (Cartwright & Harary 1956). Marvel, Strogatz and Kleinberg then gave this "balance" an energy landscape: the energy of a group falls as more of its triads are balanced (Marvel, Strogatz & Kleinberg 2009). A calculation for this entry, on a group of six, gives the same lowest energy (−1) for "everyone is friends" and for "two hostile camps of three", and a higher energy (−0.6) for a friendly group with one hostile pair inside it. Their numerical experiments found the landscape "dimpled with local minima of widely varying energy levels": a group can come to rest in a state that is not balanced, held there in strain because no single change of one bond makes it better. Under dynamics that repair unbalanced triads one at a time, even when a repair upsets another triad, a finite group always ends up balanced (Antal, Krapivsky & Redner 2005).
 
-**The evidence.** One of the first large-scale tests used a multiplayer online game. In one of its game universes, 18,819 players had their friendships, enmities, trades, messages, attacks and punishments on record; the game as a whole had about 300,000 players. The authors called it "the first empirical large-scale verification of the long-standing structural balance theory" (Szell, Lambiotte & Thurner 2010). What it verified was a weaker form of the theory. Triads in which the friend of a friend is an enemy were strongly avoided, but triads of three mutual enemies were the one type no different from chance. That fits the *weak* formulation of balance, in which three mutual enemies are no strain, so a group can hold more than two hostile camps. On social media sites, balance theory captured some common patterns but was "at odds with some of the fundamental phenomena", particularly the directed nature of the links. A theory of *status*, in which a positive link points toward someone seen as higher, explained the signs better (Leskovec, Huttenlocher & Kleinberg 2010; §4.1).
+**The evidence.** One of the first large-scale tests used a multiplayer online game. In one of its game universes, 18,819 players had their friendships, enmities, trades, messages, attacks and punishments on record; the game as a whole had about 300,000 players. The authors called it "the first empirical large-scale verification of the long-standing structural balance theory" (Szell, Lambiotte & Thurner 2010). What it verified was a weaker form of the theory. Triads in which the friend of a friend is an enemy were strongly avoided, but triads of three mutual enemies were only mildly under-represented, and over time their share did not differ significantly from chance. That fits the *weak* formulation of balance, in which three mutual enemies are no strain, so a group can hold more than two hostile camps. On social media sites, balance theory captured some common patterns but was "at odds with some of the fundamental phenomena", particularly the directed nature of the links. A theory of *status*, in which a positive link points toward someone seen as higher, explained the signs better (Leskovec, Huttenlocher & Kleinberg 2010; §4.1).
 
 **The mapping.** Trouw has a sign: "Positive Trouw pulls the Eigen toward its Echo of the partner; negative Trouw pushes it away" (§II). In these models the bonds themselves change, flipping sign to relieve strain. In the Speelgoed, Trouw changes too, by relaxing toward Gewenning (§VIII.1). Held still for a moment, the signs shape a landscape for the members: which camp each one stands in, and how much strain is left.
 
@@ -88,7 +88,7 @@ The unit of balance is the triad: three people and their three bonds. Only its a
 
 **The mechanism.** Granovetter modelled a crowd as people who each join an action, such as a riot, once enough others have joined. Each person's threshold is the number of others who must act first. Take a hundred people with thresholds 0, 1, 2, … 99. The person with threshold 0 starts, which brings in the person with threshold 1, and so on until all hundred riot. Now change one person: the one with threshold 1 has threshold 2 instead. The instigator acts alone, and no one follows (Granovetter 1978). A calculation for this entry reproduces both outcomes: a hundred rioters, then one. The average threshold differs between the two crowds only from 49.50 to 49.51, and even the spread is almost unchanged (standard deviation 28.87 against 28.85). What decides is a single gap at the low end. What a crowd does cannot be read from its average member.
 
-**The evidence.** Centola built online communities with designed network structures and watched a health behaviour spread. People were much more likely to adopt it when they received reinforcement from several neighbours, and the behaviour spread farther and faster through clustered networks than through random ones (Centola 2010). Each further contact brought people closer to adopting. Schelling had shown earlier, in models of where people choose to live, that the interplay of individual choices produces far more separation than the choices themselves would suggest. In his words, "there is no simple correspondence of individual incentive to collective results", and "Inferences about individual motives can usually not be drawn from aggregate patterns" (Schelling 1971).
+**The evidence.** Centola built online communities with designed network structures and watched a health behaviour spread. People were much more likely to adopt it when they received reinforcement from several neighbours, and the behaviour spread farther and faster through clustered networks than through random ones (Centola 2010). A second contact made adoption much more likely and a third somewhat more; beyond that, the sample was too small to tell. Schelling had shown earlier, in models of where people choose to live, that the interplay of individual choices produces far more separation than the choices themselves would suggest. In his words, "there is no simple correspondence of individual incentive to collective results", and "Inferences about individual motives can usually not be drawn from aggregate patterns" (Schelling 1971).
 
 **The mapping.** The Speelgoed's Drempel is personal and local: "The comparison always runs in a specific context-never against one global reading" (§II). Both poles stay available to every crowd, and which one it reaches can turn on a single member. **Grade: Correspondence (measured).**
 
@@ -138,7 +138,7 @@ Kuran built a theory of revolution on the same gap. By hiding their opposition t
 
 **The evidence.** Nunn and Wantchekon combined modern survey data from across Africa with historical records of how many people were taken from each ethnic group in the slave trades. People whose ancestors were heavily raided are less trusting today, and most of the effect works through "factors that are internal to the individual, such as cultural norms, beliefs, and values". The authors use several strategies to argue that the link is causal (Nunn & Wantchekon 2011). Voigtländer and Voth traced anti-Jewish violence in German towns across 600 years. Pogroms during the Black Death of 1348–50 "reliably predict violence against Jews in the 1920s, votes for the Nazi Party, deportations after 1933, attacks on synagogues, and letters to Der Stürmer". Persistence was lower in cities with high levels of trade or immigration (Voigtländer & Voth 2012).
 
-**The mapping.** §VI says an Echo outlives its Koppel and becomes "progressively more a record of the mourner than of the departed". The distrust Nunn and Wantchekon measured is no longer aimed at the raiders; it is held as a general norm. The people who carry it never met the partners of the bond that ended, so if this is Rouw, the mourner is the group rather than each person (§5, item 6). Where trade or immigration was high, the old pattern persisted less. That is consistent with §VI, where new Koppels "form *beside* the Rouw, never in place of it" and "How *loud* a Rouw runs is the Instantie’s choice", but the Speelgoed allows the finding without predicting it. Whether it shows new bonds quieting a Rouw, or a Rouw simply passed on less, is left open. Both studies are observational, so their causal claims rest on the strategies the authors give. **Grade: Correspondence (observational).**
+**The mapping.** §VI says an Echo outlives its Koppel and becomes "progressively more a record of the mourner than of the departed". The distrust Nunn and Wantchekon measured is no longer aimed at the raiders; it is held as a general norm. The people who carry it never met the partners of the bond that ended, so if this is Rouw, the mourner is the group rather than each person (§5, item 6). Where trade or immigration was high, the old pattern persisted less. That is consistent with §VI, where new Koppels "form *beside* the Rouw, never in place of it" and "How *loud* a Rouw runs is the Instantie’s choice", but the Speelgoed allows the finding without predicting it. Whether it shows new bonds quieting a Rouw, or a Rouw simply passed on less, is left open. Both studies are observational, so their causal claims rest on the strategies the authors give. A reanalysis of persistence studies found both effects considerably smaller once their most extreme regions were left out (Kelly 2020). **Grade: Correspondence (observational).**
 
 ### 3.5 Typology: the prime ladder meets the layers of a life
 
@@ -155,6 +155,12 @@ One coincidence is recorded and left alone. The Speelgoed's **Ronde** spans the 
 ### 3.6 The Trinary Root: what this entry leaves open
 
 §III says that when a member enters a higher Octaaf, "it does not carry its old title upward", and "The larger whole must find its own God and Godin, fresh among its own members." A society is such a whole. This entry does not assign its God and Godin (§5, item 1).
+
+### 3.7 Tijd: time slows without company
+
+§II: "Left alone, a Zelf slows, and its Stilte widens into loneliness." At this Octaaf Tijd can be asked about directly: how fast is time passing for you? That judgment is distinct from judging how long something lasted (*Neuroscience Octaaf* §3.11).
+
+The Covid-19 lockdowns of 2020 thinned social contact for whole populations. In the United Kingdom, over 80% of respondents found the passage of time distorted. A slower passage of time during the day went with greater age, more stress, less to do and lower satisfaction with their social contact; across a whole week, only age and social satisfaction predicted it (Ogden 2020). In France, time seemed to pass more slowly than before the lockdown, mainly with boredom, and to a lesser extent with feeling less happy and sleeping badly (Martinelli et al. 2021). **Grade: Correspondence** (measured; online surveys). They show an association, not that loneliness causes the slowing.
 
 ---
 
@@ -176,7 +182,7 @@ One coincidence is recorded and left alone. The Speelgoed's **Ronde** spans the 
 4. **What frees a group held in strain?** A group can rest in a dip of its landscape that is not balanced. In models, it is freed by repairs that are allowed to make things worse for a while (§2.1). In real groups, what does that work: the Van Motor, a new member, a departure, or a common enemy (§XVII)?
 5. **When do the masks fall?** Can a population's hidden Eigens be read before the cascade (§3.3), or is surprise built in, as Kuran predicts?
 6. **Whose Rouw is inherited distrust?** The people who carry it never met the partners of the bond that ended (§3.4). Is it each person's Rouw, or the Rouw of the group they belong to?
-7. **Tijd.** No mapping is attempted, as at the other Octaven.
+7. **Tijd.** Felt time slowed when social contact thinned (§3.7). Does it quicken again as bonds return, and do people who keep time together, clapping or walking in step, share a felt pace as well as a rhythm?
 
 ---
 
@@ -214,15 +220,21 @@ Heider, F. (1946). Attitudes and cognitive organization. *The Journal of Psychol
 
 Hill, R. A., & Dunbar, R. I. M. (2003). Social network size in humans. *Human Nature*, 14(1), 53-72. [doi:10.1007/s12110-003-1016-y](https://doi.org/10.1007/s12110-003-1016-y)
 
+Kelly, M. (2020). Understanding persistence. *CEPR Discussion Paper* DP15246. [SSRN](https://ssrn.com/abstract=3688200)
+
 Kuran, T. (1991). Now out of never: The element of surprise in the East European revolution of 1989. *World Politics*, 44(1), 7-48. [doi:10.2307/2010422](https://doi.org/10.2307/2010422)
 
 Leskovec, J., Huttenlocher, D., & Kleinberg, J. (2010). Signed networks in social media. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1361-1370). [doi:10.1145/1753326.1753532](https://doi.org/10.1145/1753326.1753532)
 
 Lindenfors, P., Wartel, A., & Lind, J. (2021). 'Dunbar's number' deconstructed. *Biology Letters*, 17(5), 20210158. [doi:10.1098/rsbl.2021.0158](https://doi.org/10.1098/rsbl.2021.0158)
 
+Martinelli, N., Gil, S., Belletier, C., Chevalère, J., Dezecache, G., Huguet, P., & Droit-Volet, S. (2021). Time and emotion during lockdown and the Covid-19 epidemic: Determinants of our experience of time? *Frontiers in Psychology*, 11, 616169. [doi:10.3389/fpsyg.2020.616169](https://doi.org/10.3389/fpsyg.2020.616169)
+
 Marvel, S. A., Strogatz, S. H., & Kleinberg, J. M. (2009). Energy landscape of social balance. *Physical Review Letters*, 103(19), 198701. [doi:10.1103/PhysRevLett.103.198701](https://doi.org/10.1103/PhysRevLett.103.198701)
 
 Nunn, N., & Wantchekon, L. (2011). The slave trade and the origins of mistrust in Africa. *American Economic Review*, 101(7), 3221-3252. [doi:10.1257/aer.101.7.3221](https://doi.org/10.1257/aer.101.7.3221)
+
+Ogden, R. S. (2020). The passage of time during the UK Covid-19 lockdown. *PLoS ONE*, 15(7), e0235871. [doi:10.1371/journal.pone.0235871](https://doi.org/10.1371/journal.pone.0235871)
 
 Prentice, D. A., & Miller, D. T. (1993). Pluralistic ignorance and alcohol use on campus: Some consequences of misperceiving the social norm. *Journal of Personality and Social Psychology*, 64(2), 243-256. [doi:10.1037/0022-3514.64.2.243](https://doi.org/10.1037/0022-3514.64.2.243)
 

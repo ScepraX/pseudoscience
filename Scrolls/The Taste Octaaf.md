@@ -33,30 +33,30 @@ The third claim is plausible because the first two are real, but it is not yet s
 ### II.1 Origin information changes taste
 
 - **Labels raise taste ratings.** In a field experiment, United States consumers tasted chocolate bars labelled with their region of origin (United States, Europe, Africa, South America) and unlabelled pieces of the same bars. Origin labels typically raised both taste evaluations and willingness to pay. Consumers also rated chocolate from the developed regions higher, Europe first and Africa last (Schott, Britwum & Bernard 2022).
-- **"Local" makes food seem tastier.** In two experiments with 632 consumers, cheese and apples presented as local were judged healthier and better tasting than the same products presented as national or from another region. The authors explain the effect through psychological distance: a local product feels closer, so consumers imagine its making more concretely (Merle, Herault-Fournier & Werle 2016; on psychological distance generally, Trope & Liberman 2010).
+- **"Local" makes food seem tastier.** In two experiments with 632 consumers, cheese and apples presented as local were judged healthier and better tasting than the same products presented as national or from another region. The authors explain the effect through psychological distance: a local product feels closer, so consumers imagine its making more concretely (Merle, Herault-Fournier & Werle 2016; on psychological distance generally, Trope & Liberman 2010). That link between distance and abstraction found little support in a registered replication with 11,775 participants from 27 countries and regions; for spatial distance the effect was d = 0.04, against 0.55 in the original study (Calderon et al. 2026).
 - **Information about local and traditional origin changes liking.** 165 young Indonesians tasted nine traditional and modern versions of *tempe*, first without information and then with information about the beans (local or imported) and the method (traditional or modern). The information raised liking for the traditional versions (Fibri & Frøst 2020).
 - **Origin labels carry inferences.** Italian consumers asked to describe "PDO" (Protected Designation of Origin) most often chose the words *safe*, *better quality*, *certified* and *local* (Spognardi, Vistocco, Cappelli & Papetti 2021). Polish consumers rate regional food as higher in quality, more trustworthy and more authentic than ordinary food (Bryła 2015, 2017), and preferring one's own region's food can be read as a pattern of sustainable consumption (Bryła 2019).
 - **Familiarity sharpens discrimination at home.** In a study of 438 consumers in four European countries, consumers in the three countries with a strong PDO tradition rated their own country's PDO cheese as higher in perceived sensory quality than its non-PDO counterpart. They could not make the same distinction for the other countries' cheeses (Ojeda et al. 2021). Origin knowledge helps most where it is backed by familiarity.
 
 ### II.2 Context changes taste
 
-- **The eating environment.** Chocolate ice cream eaten in a laboratory, a café, a university study area and at a busy bus stop produced different flavour ratings, emotions and physiological responses. In the café, it was rated sweeter and more cocoa-like, and it evoked more positive emotions (Xu, Hamid, Shepherd, Kantono & Spence 2019).
+- **The eating environment.** Chocolate ice cream eaten in a laboratory, a café, a university study area and at a busy bus stop produced different dominant flavours, emotions and physiological responses. In the café, it was associated with a sweet taste and positive emotions; in the study area, with cocoa and milky flavours; at the bus stop, with roasted and bitter flavours and the most negative emotions (Xu, Hamid, Shepherd, Kantono & Spence 2019).
 - **Congruence.** In immersive contexts, food was expected to be liked more, and was rated more consistently over time, when product and setting fit together (van Bergen, Zandstra, Kaneko, Dijksterhuis & de Wijk 2021).
-- **Location alone is a small effect.** When test procedure and social context were held constant and only the location changed (laboratory versus home), liking and sensory scores did differ, but the effects were typically small. The authors suggest that larger location effects found elsewhere come from factors other than the location itself (Dijksterhuis, Kaneko, de Wijk, van Zoggel, Schiona & Zandstra 2019). For this paper, this is the key caution: what matters is the whole context, not the coordinates.
+- **Location alone is a small effect.** When test procedure and social context were held constant and only the location changed (laboratory versus home), liking scores and sensory profiles did not differ between the locations, though eating at home was faster and brought higher heart rates and more intense facial expressions (de Wijk et al. 2019). The authors suggest that larger location effects found elsewhere come from factors other than the location itself (Dijksterhuis, Kaneko, de Wijk, van Zoggel, Schiona & Zandstra 2019). For this paper, this is the key caution: what matters is the whole context, not the coordinates.
 - **Sound.** In a wine shop, French music increased sales of French wine and German music increased sales of German wine. Few customers noticed the music as a reason (North, Hargreaves & McKendrick 1997). In the laboratory, a "bitter" sound increased the perceived bitterness of a chocolate ganache, and a "sweet" sound increased the sweetness of the sweeter version. Both sounds raised liking, but not because they improved the taste (Swahn, Nilsen & Baptista 2025).
-- **The physical medium.** In a simulated aircraft cabin at cruising pressure, sensitivity to salt fell by about 20-30% and to sugar by about 20%, while sour, bitter and umami changed little (Burdack-Freitag, Bullinger, Mayer & Breuer 2011). In a pressure-chamber study, low pressure impaired taste sensitivity, and white noise impaired sensitivity to sweet and sour but not to bitter or salty (Rahne, Köppke, Nehring, Plontke & Fischer 2018). The two studies agree that the physical environment changes taste. They disagree on which tastes are affected. These findings are reviewed by Spence (2017).
+- **The physical medium.** In a simulated aircraft cabin at cruising pressure, the thresholds for salt, sugar and glutamate (umami) rose clearly, while organic acids and some bitter compounds showed no change (Burdack-Freitag, Bullinger, Mayer & Breuer 2011). A review citing a press account of the study puts the loss at about 20-30% of perceived intensity for salt and 15-20% for sugar (Spence 2017). In a pressure-chamber study, low pressure impaired taste sensitivity, and white noise lowered sensitivity to sour but raised it to sweet (Rahne, Köppke, Nehring, Plontke & Fischer 2018). The two studies agree that the physical environment changes taste. They disagree on which tastes are affected.
 
 ### II.3 Expectation is the route
 
 - **The assimilation model.** Extrinsic cues such as packaging, brand and price shift taste toward what is expected. When they do, the cortical representation of the taste shifts too (Okamoto & Dan 2013; Piqueras-Fiszman & Spence 2015).
-- **Price and brand reach the brain.** Wine believed to be more expensive was rated more pleasant, and it produced more activity in the medial orbitofrontal cortex, a region associated with experienced pleasantness (Plassmann, O'Doherty, Shiv & Rangel 2008). Coca-Cola and Pepsi are chemically very similar. Tasted blind, preference tracked one brain response; when the brand was shown, brand knowledge changed both the stated preference and the brain response (McClure et al. 2004).
+- **Price and brand reach the brain.** Wine believed to be more expensive was rated more pleasant, and it produced more activity in the medial orbitofrontal cortex, a region associated with experienced pleasantness (Plassmann, O'Doherty, Shiv & Rangel 2008). Coca-Cola and Pepsi are chemically very similar. Tasted blind, preference tracked one brain response; when the brand of one of the drinks, Coca-Cola, was shown, brand knowledge changed both the stated preference and the brain response (McClure et al. 2004).
 - **Expectation can also backfire.** When a frozen smoked-salmon dish was presented as "ice cream", the violated expectation made it markedly less pleasant and exaggerated its saltiness, compared with the same dish presented as a savoury mousse (Yeomans, Chambers, Blumenthal & Blake 2008). This is contrast, the opposite of assimilation.
 
 ### II.4 Familiarity and memory
 
 - **Exposure raises liking.** Repeated tasting of unfamiliar drinks increased liking for them (Pliner 1982).
 - **Food is remembered in situations.** Concepts, including the concept of a food, are stored as simulations of the situations in which they were experienced: the place, the people, the bodily state (Barsalou 2003). A food cue can trigger an "eating simulation" that drives desire (Papies, Best, Gelibter & Barsalou 2017).
-- **Food carries relationships.** Eating comfort food automatically activated relationship-related concepts (Troisi & Gabriel 2011, Study 1). The same paper's second claim, that comfort food buffers loneliness after a social threat, was not confirmed overall in a large three-country replication. It held only in the American sample (Ong, IJzerman & Leung 2015).
+- **Food carries relationships.** Eating comfort food automatically activated relationship-related concepts (Troisi & Gabriel 2011, Study 1). The same paper's second claim, that comfort food buffers loneliness after a social threat, was not confirmed overall in a large three-country replication. Only exploratory analyses suggested it might hold among American participants, and the authors say these "should be regarded with great caution" (Ong, IJzerman & Leung 2015).
 
 ### II.5 What has not been shown
 
@@ -123,7 +123,7 @@ The binding contains a penalty for Echo gaps. When the actual food lands far fro
 
 ### III.6 Why the favourite food stops delighting
 
-In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "A Vonk fires every time, for any Eigen-value, on any spectrum, the instant its Drempel is crossed" (§II). A food eaten daily keeps its binding above θ. The bond is strong, and Gewenning and liking stay high (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can stay high while *delight* (the Vonk) fades. A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
+In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "A Vonk fires every time, for any Eigen-value, on any spectrum, the instant its Drempel is crossed" (§II). A food eaten daily keeps its binding above θ. Repeated tasting raises liking for an unfamiliar drink (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can outlast *delight* (the Vonk), though not forever: eaten every day for 22 days, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002). A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
 
 ### III.7 The taste of home abroad is Rouw
 
@@ -162,11 +162,11 @@ The Speelgoed predicts that both exist, and the design in Section VI separates t
 
 | | Prediction | Speelgoed mechanism | What would count against it | Existing evidence |
 |---|---|---|---|---|
-| P1 | With the food held identical and tasted blind in a neutral room, the origin advantage shrinks to near zero. | The effect runs through the Echo (information, Medium), not the Eigen. | A large origin advantage under blind, neutral conditions. | Location alone gives small effects (Dijksterhuis et al. 2019). |
+| P1 | With the food held identical and tasted blind in a neutral room, the origin advantage shrinks to near zero. | The effect runs through the Echo (information, Medium), not the Eigen. | A large origin advantage under blind, neutral conditions. | Liking and sensory ratings did not differ between lab and home; implicit measures did (de Wijk et al. 2019). |
 | P2 | The origin advantage is larger for locals than for visitors. | Gewenning sets the Trouw baseline. | Equal effects for locals and first-time visitors. | Locals discriminate their own PDO cheese only (Ojeda et al. 2021). |
 | P3 | Origin cues raise ratings when the food meets the expectation they set, and lower them when it clearly falls short. | Small Echo gap: assimilation (Realisatie). Large gap: contrast (Schok). | Origin cues raise ratings regardless of how far the food falls short. | Smoked-salmon "ice cream" (Yeomans et al. 2008). |
 | P4 | A label-only boost fades over repeated tastings unless backed by familiarity. | Trouw relaxes toward Gewenning. | Label effects that persist undiminished over many sessions without familiarity. | Untested. |
-| P5 | Daily repetition lowers delight more than liking. | Vonken fire on crossings, not levels. | Delight and liking always fall (or rise) together. | Exposure raises liking (Pliner 1982); delight over repetition untested in these terms. |
+| P5 | Daily repetition lowers delight more than liking. | Vonken fire on crossings, not levels. | Delight and liking always fall (or rise) together. | Exposure raises liking for unfamiliar drinks (Pliner 1982), but eaten daily, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002); delight over repetition untested in these terms. |
 | P6 | Changing the physical Medium shifts specific tastes, with expectation held fixed. | Distortion υ enters the Echo directly. | No change in taste sensitivity under cabin conditions. | Supported, with disagreement on which tastes (Burdack-Freitag et al. 2011; Rahne et al. 2018). |
 
 **A test design.** Take one batch of a stable product, such as a sealed, matured Gouda, and split it. Serve it at the same temperature, in the same portions and at the same time of day, under a factorial design:
@@ -202,9 +202,11 @@ This version replaces the essay of 23 September 2026. It was rewritten from the 
 
 - **The direct origin effect.** It is now stated as untested, not as confirmed.
 - **The rival explanation.** The food abroad may itself differ (Section V), so it is treated as an explanation in its own right instead of being assumed away.
-- **Claims tied to their sources.** Several are now described more accurately: the chocolate study did not run "counter to the researchers' hypotheses"; the location-only effect is small; the sound study found that crossmodal taste changes do not explain liking; and the cabin figures are about 20-30% for salt and about 20% for sugar.
+- **Claims tied to their sources.** Several are now described more accurately: the location-only effect is small; the sound study found that crossmodal taste changes do not explain liking; and the cabin figures are about 20-30% for salt and 15-20% for sugar.
 - **The Drempel.** The Speelgoed's Drempel is no longer said to be "raised"; the binding falls instead (Section III.4).
 - **Additions.** New mechanisms (contrast, the crossing rule, Rouw), predictions, and a test design.
+
+A further check of every reference on 5 October 2026 corrected the cabin, noise and café findings, the laboratory-versus-home study, the comfort-food replication and the account of daily repetition, added a missing reference, and noted that construal-level theory found little support in a registered replication.
 
 ---
 
@@ -220,13 +222,19 @@ Bryła, P. (2019). Regional ethnocentrism on the food market as a pattern of sus
 
 Burdack-Freitag, A., Bullinger, D., Mayer, F., & Breuer, K. (2011). Odor and taste perception at normal and low atmospheric pressure in a simulated aircraft cabin. *Journal für Verbraucherschutz und Lebensmittelsicherheit*, 6(1), 95-109. [doi:10.1007/s00003-010-0630-y](https://doi.org/10.1007/s00003-010-0630-y)
 
-Dijksterhuis, G. B., Kaneko, D., de Wijk, R. A., van Zoggel, M., Schiona, I., & Zandstra, L. (2019). *Effects of eating context on food perception are not caused by the eating location itself*. Poster, 13th Pangborn Sensory Science Symposium, Edinburgh. [Wageningen University & Research](https://research.wur.nl/en/publications/effects-of-eating-context-on-food-perception-are-not-caused-by-th/)
+Calderon, S., Mac Giolla, E., Ask, K., et al. (2026). Effects of psychological distance on mental abstraction: A registered report of four tests of construal-level theory. *Advances in Methods and Practices in Psychological Science*, 9(2). [doi:10.1177/25152459251401177](https://doi.org/10.1177/25152459251401177)
+
+de Wijk, R. A., Kaneko, D., Dijksterhuis, G. B., van Zoggel, M., Schiona, I., Visalli, M., & Zandstra, E. H. (2019). Food perception and emotion measured over time in-lab and in-home. *Food Quality and Preference*, 75, 170-178. [doi:10.1016/j.foodqual.2019.02.019](https://doi.org/10.1016/j.foodqual.2019.02.019)
+
+Dijksterhuis, G. B., Kaneko, D., de Wijk, R. A., van Zoggel, M., Schiona, I., & Zandstra, E. H. (2019). *Effects of eating context on food perception are not caused by the eating location itself*. Conference abstract, 13th Pangborn Sensory Science Symposium, Edinburgh. [Wageningen University & Research](https://research.wur.nl/en/publications/effects-of-eating-context-on-food-perception-are-not-caused-by-th/)
 
 Fibri, D. L. N., & Frøst, M. B. (2020). Indonesian millennial consumers' perception of tempe – And how it is affected by product information and consumer psychographic traits. *Food Quality and Preference*, 80, 103798. [doi:10.1016/j.foodqual.2019.103798](https://doi.org/10.1016/j.foodqual.2019.103798)
 
+Hetherington, M. M., Pirie, L. M., & Nabb, S. (2002). Stimulus satiation: Effects of repeated exposure to foods on pleasantness and intake. *Appetite*, 38(1), 19-28. [doi:10.1006/appe.2001.0442](https://doi.org/10.1006/appe.2001.0442)
+
 McClure, S. M., Li, J., Tomlin, D., Cypert, K. S., Montague, L. M., & Montague, P. R. (2004). Neural correlates of behavioral preference for culturally familiar drinks. *Neuron*, 44(2), 379-387. [doi:10.1016/j.neuron.2004.09.019](https://doi.org/10.1016/j.neuron.2004.09.019)
 
-Merle, A., Herault-Fournier, C., & Werle, C. O. C. (2016). The effects of indication of local geographical origin on food perceptions. *Recherche et Applications en Marketing* (English Edition), 31(1). [doi:10.1177/2051570715626367](https://doi.org/10.1177/2051570715626367)
+Merle, A., Herault-Fournier, C., & Werle, C. O. C. (2016). The effects of indication of local geographical origin on food perceptions. *Recherche et Applications en Marketing* (English Edition), 31(1), 26-42. [doi:10.1177/2051570715626367](https://doi.org/10.1177/2051570715626367)
 
 North, A. C., Hargreaves, D. J., & McKendrick, J. (1997). In-store music affects product choice. *Nature*, 390, 132. [doi:10.1038/36484](https://doi.org/10.1038/36484)
 
@@ -267,5 +275,7 @@ van den Berg, G., Meijer, W. C., Düsterhöft, E.-M., & Smit, G. (2004). Gouda a
 Vanderhaegen, B., Neven, H., Verachtert, H., & Derdelinckx, G. (2006). The chemistry of beer aging – a critical review. *Food Chemistry*, 95, 357-381. [doi:10.1016/j.foodchem.2005.01.006](https://doi.org/10.1016/j.foodchem.2005.01.006)
 
 Xu, Y., Hamid, N., Shepherd, D., Kantono, K., & Spence, C. (2019). Changes in flavour, emotion, and electrophysiological measurements when consuming chocolate ice cream in different eating environments. *Food Quality and Preference*, 77, 191-205. [doi:10.1016/j.foodqual.2019.05.002](https://doi.org/10.1016/j.foodqual.2019.05.002)
+
+Yeomans, M. R., Chambers, L., Blumenthal, H., & Blake, A. (2008). The role of expectancy in sensory and hedonic evaluation: The case of smoked salmon ice-cream. *Food Quality and Preference*, 19(6), 565-573. [doi:10.1016/j.foodqual.2008.02.009](https://doi.org/10.1016/j.foodqual.2008.02.009)
 
 ---

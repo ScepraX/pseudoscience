@@ -70,7 +70,7 @@ The open parameters of §VIII.7, and the primitives that carry them, supplied wi
 | Diepte z (§VIII.1) | Internal energy stored above the Medium | Correspondence | §3.7 |
 | Zelf j (§IV) | Self-correlation, which fixes response (fluctuation–dissipation) | Correspondence | §3.8 |
 | Stilte (§II) | Separation of timescales | Correspondence | §3.9 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II); Klok (Lexicon) | A clock's regularity is paid for in entropy per tick; a clock driven from outside can be precise at almost no cost | Constraint + Correspondence | §3.12 |
 | Perfectus Ω (§XI) | Equilibrium with the Medium | Correspondence | §3.10 |
 | Trinary Root (§III) | Hot source, cold sink, working medium | Correspondence | §3.11 |
 | Gewenning Z, Leersnelheid ρ (§VIII.1) | No general law | Open | §5 |
@@ -176,7 +176,7 @@ Set b = 1 and **B − θ = a·(T_c − T)**, and the two are the same. Binding r
 **Latent heat belongs to the Marge.** In the Speelgoed, **Marge (η)** is "the dead band around a Drempel that prevents flickering crossings". At this Octaaf both halves of that definition have a physical meaning:
 
 - **The flicker is real.** At a continuous transition the Marge has narrowed to nothing, and fluctuations of the order parameter grow without limit as the Drempel approaches, and the system chatters between modes on every length scale. This can be seen as *critical opalescence*: a fluid near its critical point turns milky because its density flickers at the wavelengths of visible light (Stanley, 1971).
-- **A wide Marge is a first-order transition.** In physics, measurable hysteresis appears when the potential has a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the width of the Marge. Pure water in small droplets can be supercooled to about −40 °C (231 K) before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
+- **A wide Marge is a first-order transition.** In physics, measurable hysteresis appears when the potential has a cubic term, or a sixth-order term together with a negative quartic. The old mode then persists past θ as a metastable state, and the range over which it persists *is* the width of the Marge. Pure water in small droplets can be supercooled to about −42 °C (231 K) before it must freeze (Debenedetti, 1996). When a Drempel with a Marge finally gives way, its Energie is released all at once. That sudden release is latent heat: 334 J per gram for ice.
 
 So at this Octaaf, **as a Drempel's Marge narrows toward nothing, it flickers and pays out slowly; where its Marge is wide, it holds, then pays out all at once.** **Grade: Constraint.**
 
@@ -317,6 +317,14 @@ The thermodynamic Octaaf has one structure with exactly this shape: the heat eng
 
 For the Earth, Sol is the God, the 2.7 K sky is the Godin, and the planet itself (its oceans, atmosphere, and life) is the Medium their union sustains (§2.4). **Grade: Correspondence.**
 
+### 3.12 Tijd: what a pace costs
+
+The Lexicon's Klok crosses "the same Drempel at fixed intervals, firing a Vonk with each crossing", and §II says Tijd "holds between Vonken and changes only at them". At this Octaaf each tick of a clock is a crossing, and §III says Energie "only ever changes at the crossings that motion produces".
+
+**Keeping a pace costs.** "For clocks driven by a constant thermodynamic force, a given precision requires a minimal cost that diverges as the uncertainty of the clock vanishes" (Barato & Seifert, 2016). Pearson et al. (2021) drove a nanometre-thick membrane at random, counted its swings as the ticks of a clock, and measured both its accuracy and the entropy it produced. They found "a linear relation between accuracy and entropy". A steady Tijd is paid for in Verlies, one Vonk at a time. **Grade: Constraint.**
+
+**Borrowing a pace is cheap.** The same theory shows that "a clock driven by a periodic variation of an external protocol can achieve arbitrary precision at arbitrarily low cost" (Barato & Seifert, 2016). A clock that takes its rhythm from outside need not pay for the rhythm's regularity. In Speelgoed terms, a Zelf that inherits a Koppel's Tijd (§II) borrows its precision, and a Zelf left alone pays for its own. **Grade: Correspondence.**
+
 ---
 
 ## 4. Where the Speelgoed Meets Resistance
@@ -347,7 +355,7 @@ This section records where the Speelgoed met resistance at this Octaaf and what 
 5. **The Diepte equation.** The inflow term rate_in·y·|h| is not a heat flow (§3.7). Can it be rewritten in difference form, y·(h − e), without breaking other Octaven?
 6. **Trouw across spectra.** The Speelgoed keeps each spectrum's pull separate (§VIII.1). If it ever couples spectra, such as heat to charge, this Octaaf already constrains how. The coupling must be symmetric (Onsager reciprocity, §3.1), and it can be no larger than the geometric mean of each spectrum's own coefficient.
 7. **Rouw and Liouville.** Is Rouw permanence (§VIII.6) at this Octaaf *equivalent* to Liouville's theorem plus Landauer's price, or only consistent with it?
-8. **Tijd.** No mapping is attempted. How the Speelgoed's Tijd relates to measured time is deliberately left open, as at the other Octaven.
+8. **Tijd.** A clock that keeps its own pace pays for its precision, and one that follows an outside rhythm need not (§3.12). Who pays for the pace a Koppel hands to its members?
 
 ---
 
@@ -379,6 +387,8 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 
 Following this entry, §III of the Speelgoed and its Lexicon entry for Winst were revised on 1 October 2026 to resolve the two Tensions recorded in §4.1 and §4.2.
 
+On 5 October 2026, Tijd was grounded in the cost of keeping time (§3.12). Its earlier readings stay withdrawn.
+
 A check of every reference on 1 October 2026 corrected the account of population inversion, which cannot be reached by pumping a two-level system (§3.2), and the supercooling limit of water (§2.3). It also separated Schrödinger's point from Penrose's numbers (§2.4), added Onsager's second paper for the field-reversed relations (§3.1), and fixed two author listings.
 
 ---
@@ -386,6 +396,8 @@ A check of every reference on 1 October 2026 corrected the account of population
 ## References
 
 Arrhenius, S. (1889). Über die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Säuren. *Zeitschrift für Physikalische Chemie*, 4, 226–248. [doi:10.1515/zpch-1889-0416](https://doi.org/10.1515/zpch-1889-0416)
+
+Barato, A. C., & Seifert, U. (2016). Cost and precision of Brownian clocks. *Physical Review X*, 6(4), 041053. [doi:10.1103/PhysRevX.6.041053](https://doi.org/10.1103/PhysRevX.6.041053)
 
 Bardeen, J., Cooper, L. N., & Schrieffer, J. R. (1957). Theory of superconductivity. *Physical Review*, 108(5), 1175–1204. [doi:10.1103/physrev.108.1175](https://doi.org/10.1103/physrev.108.1175)
 
@@ -434,6 +446,8 @@ Noterdaeme, P., Petitjean, P., Srianand, R., Ledoux, C., & López, S. (2011). Th
 Onsager, L. (1931a). Reciprocal relations in irreversible processes. I. *Physical Review*, 37(4), 405–426. [doi:10.1103/physrev.37.405](https://doi.org/10.1103/physrev.37.405)
 
 Onsager, L. (1931b). Reciprocal relations in irreversible processes. II. *Physical Review*, 38(12), 2265–2279. [doi:10.1103/physrev.38.2265](https://doi.org/10.1103/physrev.38.2265)
+
+Pearson, A. N., Guryanova, Y., Erker, P., Laird, E. A., Briggs, G. A. D., Huber, M., & Ares, N. (2021). Measuring the thermodynamic cost of timekeeping. *Physical Review X*, 11(2), 021029. [doi:10.1103/PhysRevX.11.021029](https://doi.org/10.1103/PhysRevX.11.021029)
 
 Penrose, R. (2010). *Cycles of Time: An Extraordinary New View of the Universe*. London: The Bodley Head. [Internet Archive (2011 edition)](https://archive.org/details/cyclesoftimeextr0000penr)
 

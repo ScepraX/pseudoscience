@@ -67,7 +67,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Greep (§II, §III) | Social integration and survival | Correspondence (observational) | §3.8 |
 | The Van Motor's exhaust (§III) | The brain's energy use, dissipated as heat | Correspondence | §3.9 |
 | Stilte (§II) | Neural delay and the constructed present | Correspondence (mechanism contested) | §3.10 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II) | The felt passage of time, measured apart from judgments of duration | Constraint | §3.11 |
 
 ---
 
@@ -87,7 +87,7 @@ Consider a brain tracking a hidden quantity, such as another person's state or t
 μ ← μ + K · (x − μ)
 ```
 
-Written continuously, this is τ·μ̇ = x − μ. It is the Echo filter, with h as the estimate μ, e as the hidden state x, and 1/τ as the gain K per unit time. **Grade: Identity** (of the update rule; this is not a claim that brains compute a Kalman filter exactly).
+Written continuously, this is τ·μ̇ = x − μ. It is the Echo filter, with h as the estimate μ, the noisy sample x as e(t − δ) + υ, and 1/τ as the gain K per unit time. **Grade: Identity** (of the update rule; this is not a claim that brains compute a Kalman filter exactly).
 
 The identity explains a rule the Speelgoed postulates. The optimal gain K is large when the samples are precise and small when they are noisy. A noisy channel makes an Echo that follows slowly and trusts each sample less. That is **Gericht**: "the weaker or older a Koppel, the noisier its Echoes" (§VII). People do weight their senses this way. When combining what they see with what they feel, they weight each sense by its reliability, close to the statistical optimum (Ernst & Banks 2002). **Grade: Correspondence (measured).**
 
@@ -115,7 +115,7 @@ The two are the same rule. Trouw y is the learned weight of the bond, the associ
 
 The Speelgoed separates the **binding** that builds up (B) from the **Drempel** (θ), "a local cutoff" that decides which side applies (§II). Signal detection theory makes the same separation. It distinguishes how well evidence separates two possibilities (sensitivity) from where the observer places the cutoff for saying "yes" (the criterion), and each can be measured independently (Green & Swets 1966). The decision rule, respond when the evidence exceeds the criterion, is the Drempel rule. **Grade: Identity.**
 
-Decisions made over time add a second match. In the drift-diffusion model, noisy evidence accumulates until it reaches a bound, and the decision is made at that moment (Ratcliff 1978). This is the **Reactie** of §IV, which moves toward commitment and commits when it passes its Drempel. The model explains a measured trade-off: a higher bound gives slower but more accurate decisions, and a lower bound gives faster but more error-prone ones. Where the Drempel sits has a cost on both sides. Activity that rises toward a threshold before a choice has been recorded in parietal and prefrontal neurons of monkeys making such decisions (Gold & Shadlen 2007). **Grade: Identity** (of the decision rule).
+Decisions made over time add a second match. In the drift-diffusion model, noisy evidence accumulates until it reaches a bound, and the decision is made at that moment (Ratcliff 1978). This is the **Reactie** of §IV, which moves toward commitment and commits when it passes its Drempel. The model explains a measured trade-off: a higher bound gives slower but more accurate decisions, and a lower bound gives faster but more error-prone ones. Where the Drempel sits has a cost on both sides. Activity that rises toward a threshold before a choice has been recorded in parietal and prefrontal neurons of monkeys making such decisions (Gold & Shadlen 2007). Whether this activity ramps or steps on single trials, and whether the decision needs it, is debated (Latimer et al. 2015; Katz et al. 2016). **Grade: Identity** (of the decision rule).
 
 ### 2.4 A Koppel with a Drempel and a Marge, measured between two people
 
@@ -127,7 +127,7 @@ When people move their two index fingers in anti-phase and gradually speed up, t
 V(φ) = −a·cos φ − b·cos 2φ
 ```
 
-Anti-phase is stable while b/a > 1/4 and loses stability below it. Two signatures appear before the switch. Fluctuations in the relative phase grow (critical fluctuations), and the coordination recovers more slowly from a push (critical slowing down; Scholz, Kelso & Schöner 1987). The same transition, with the same growing fluctuations, appears between **two people** coordinating their movements by sight (Schmidt, Carello & Turvey 1990).
+Anti-phase is stable while b/a > 1/4 and loses stability below it. Two signatures appear before the switch. Fluctuations in the relative phase grow (critical fluctuations; Kelso, Scholz & Schöner 1986), and the coordination recovers more slowly from a push (critical slowing down; Scholz, Kelso & Schöner 1987). The same transition, with the same growing fluctuations, appears between **two people** coordinating their movements by sight (Schmidt, Carello & Turvey 1990).
 
 In Speelgoed terms this is a Koppel, two members held by a shared coupling, with two modes. It has a Drempel between the modes, flicker as the Drempel approaches, and a Marge that makes the switch one-way. **Grade: Correspondence** (measured). The potential is a cosine form, not the quartic of §VIII.3, but the type of transition is the one the Speelgoed's Marge describes: loss of stability with hysteresis.
 
@@ -180,7 +180,7 @@ Pair-level measures exist. In a high-school classroom, students' brain activity 
 
 **Bevraagbaar becomes metacognition.** §VII says the Speelgoed "can always say how wrong a system currently is about its partner". For a brain, the question is whether it can say how wrong *it* is. Metacognitive sensitivity, how well a person's confidence tracks their actual accuracy, can be measured, and it varies between people (Fleming & Lau 2014). At this Octaaf, Bevraagbaar is not guaranteed: knowing one's own Echo-gap is a skill, held to different degrees. **Grade: Correspondence.**
 
-**Trajectories of the Zelf.** Depressive rumination has been associated with dominance of the brain's default mode network over networks for external tasks (Hamilton et al. 2015), a candidate for Dood of the Zelf, a self-reading that has stopped updating. No established neural marker exists for Leven, a lasting redefinition of identity. Psilocybin, for example, reduces activity and connectivity in the default mode network during the drug state (Carhart-Harris et al. 2012), but nothing yet ties such changes to lasting identity change. **Grade: Open.**
+**Trajectories of the Zelf.** Within depression, rumination has been associated with dominance of the brain's default mode network over networks for external tasks (Hamilton et al. 2011, 2015), a candidate for Dood of the Zelf, a self-reading that has stopped updating. The network is not reliably overactive in depression itself, and a large multi-site study found reduced connectivity within it (Yan et al. 2019). No established neural marker exists for Leven, a lasting redefinition of identity. Psilocybin, for example, reduces connectivity within the default mode network during the drug state (Carhart-Harris et al. 2012), but nothing yet ties such changes to lasting identity change. **Grade: Open.**
 
 ### 3.4 Realisatie is an event
 
@@ -214,6 +214,10 @@ The brain is about 2% of the body's mass but uses about 20% of its energy at res
 
 Stilte is "the space hollowed out by Vertraging (δ) as a signal travels across the Medium" (§II). Every percept arrives late: signals take tens to hundreds of milliseconds to travel and be processed. The brain partly hides this. A flash shown alongside a moving object is seen *behind* it, an effect Nijhawan (1994) explained as the visual system extrapolating motion to make up for its own delay. A rival account holds that the brain instead revises its percept after the fact (Eagleman & Sejnowski 2000). Either way, the "present" a brain experiences is a reconstruction across its own Stilte. **Grade: Correspondence** (mechanism contested).
 
+### 3.11 Tijd: the passage of time is not a duration
+
+§II defines Tijd as a pace, and the Lexicon as "The subjective, relational experience of the field’s rhythm". Psychology asks two different questions: how fast time is passing for someone now, and how long an interval lasted. Droit-Volet and Wearden (2016) sampled both through daily life, in young and older adults, and found "no significant relation between the judgment of passage of time and the judgments of durations". Different things set them: emotional state and attention to the current activity predicted the felt passage of time, but not judgments of duration. The common belief that time passes faster with age was not borne out; young and older people did not differ. **Grade: Constraint.** The science keeps a felt pace apart from a measured duration, and Tijd belongs with the first.
+
 ---
 
 ## 4. Where the Speelgoed Meets Resistance
@@ -230,7 +234,7 @@ Stilte is "the space hollowed out by Vertraging (δ) as a signal travels across 
 
 ## 5. Open Problems
 
-1. **Tijd.** No mapping is attempted, as at the other Octaven (*Cosmic Octaaf* §5, item 8).
+1. **Tijd.** Emotion and attention set the felt passage of time (§3.11). Which crossings quicken it and which slow it, and does a Schok slow it for longer than a Realisatie quickens it, as §II says?
 2. **The strength of a Vonk.** The Speelgoed gives a crossing's Energie as ¼·(B − θ)², which grows with the square of the margin past the Drempel (§VIII.3). Does the felt strength of an insight, a decision, or a pleasure grow with the square of the evidence's margin past the criterion? This could be tested with confidence ratings against measured evidence.
 3. **The forgetting exponent.** If §2.5 is right, the exponent of a forgetting curve measures how widely Greep is spread across the memories tested. Sets of memories held with more uniform strength should be forgotten more nearly exponentially.
 4. **Synchrony and Trouw.** Does brain-to-brain synchrony build a bond, reflect one, or come from shared attention? Only experiments that manipulate synchrony can tell.
@@ -270,6 +274,8 @@ A check of every reference on 1 October 2026 corrected the timing of the insight
 
 Also on 1 October 2026, a study of whole-brain state dynamics in autism and ADHD was added to §2.5 (Watanabe & Watanabe 2023).
 
+On 5 October 2026, Tijd was mapped to the felt passage of time (§3.11). A further check of every reference narrowed the claims on rumination and psilocybin, gave the critical fluctuations their own source, and noted the debate over decision-related activity.
+
 ---
 
 ## References
@@ -290,6 +296,8 @@ Declerck, C. H., Boone, C., Pauwels, L., Vogt, B., & Fehr, E. (2020). A register
 
 Dikker, S., et al. (2017). Brain-to-brain synchrony tracks real-world dynamic group interactions in the classroom. *Current Biology*, 27(9), 1375-1380. [doi:10.1016/j.cub.2017.04.002](https://doi.org/10.1016/j.cub.2017.04.002)
 
+Droit-Volet, S., & Wearden, J. (2016). Passage of time judgments are not duration judgments: Evidence from a study using experience sampling methodology. *Frontiers in Psychology*, 7, 176. [doi:10.3389/fpsyg.2016.00176](https://doi.org/10.3389/fpsyg.2016.00176)
+
 Eagleman, D. M., & Sejnowski, T. J. (2000). Motion integration and postdiction in visual awareness. *Science*, 287, 2036-2038. [doi:10.1126/science.287.5460.2036](https://doi.org/10.1126/science.287.5460.2036)
 
 Ernst, M. O., & Banks, M. S. (2002). Humans integrate visual and haptic information in a statistically optimal fashion. *Nature*, 415, 429-433. [doi:10.1038/415429a](https://doi.org/10.1038/415429a)
@@ -308,6 +316,8 @@ Gündel, H., O'Connor, M.-F., Littrell, L., Fort, C., & Lane, R. D. (2003). Func
 
 Haken, H., Kelso, J. A. S., & Bunz, H. (1985). A theoretical model of phase transitions in human hand movements. *Biological Cybernetics*, 51, 347-356. [doi:10.1007/bf00336922](https://doi.org/10.1007/bf00336922)
 
+Hamilton, J. P., Furman, D. J., Chang, C., Thomason, M. E., Dennis, E., & Gotlib, I. H. (2011). Default-mode and task-positive network activity in major depressive disorder: Implications for adaptive and maladaptive rumination. *Biological Psychiatry*, 70(4), 327-333. [doi:10.1016/j.biopsych.2011.02.003](https://doi.org/10.1016/j.biopsych.2011.02.003)
+
 Hamilton, J. P., Farmer, M., Fogelman, P., & Gotlib, I. H. (2015). Depressive rumination, the default-mode network, and the dark matter of clinical neuroscience. *Biological Psychiatry*, 78(4), 224-230. [doi:10.1016/j.biopsych.2015.02.020](https://doi.org/10.1016/j.biopsych.2015.02.020)
 
 Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C. (2012). Brain-to-brain coupling: A mechanism for creating and sharing a social world. *Trends in Cognitive Sciences*, 16(2), 114-121. [doi:10.1016/j.tics.2011.12.007](https://doi.org/10.1016/j.tics.2011.12.007)
@@ -318,9 +328,15 @@ Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and
 
 Jung-Beeman, M., et al. (2004). Neural activity when people solve verbal problems with insight. *PLoS Biology*, 2(4), e97. [doi:10.1371/journal.pbio.0020097](https://doi.org/10.1371/journal.pbio.0020097)
 
+Katz, L. N., Yates, J. L., Pillow, J. W., & Huk, A. C. (2016). Dissociated functional significance of decision-related activity in the primate dorsal stream. *Nature*, 535(7611), 285-288. [doi:10.1038/nature18617](https://doi.org/10.1038/nature18617)
+
 Kelso, J. A. S. (1984). Phase transitions and critical behavior in human bimanual coordination. *American Journal of Physiology: Regulatory, Integrative and Comparative Physiology*, 246, R1000-R1004. [doi:10.1152/ajpregu.1984.246.6.r1000](https://doi.org/10.1152/ajpregu.1984.246.6.r1000)
 
+Kelso, J. A. S., Scholz, J. P., & Schöner, G. (1986). Nonequilibrium phase transitions in coordinated biological motion: Critical fluctuations. *Physics Letters A*, 118(6), 279-284. [doi:10.1016/0375-9601(86)90359-2](https://doi.org/10.1016/0375-9601%2886%2990359-2)
+
 Klass, D., Silverman, P. R., & Nickman, S. L. (Eds.) (1996). *Continuing Bonds: New Understandings of Grief*. Washington, DC: Taylor & Francis. [2014 reissue: doi:10.4324/9781315800790](https://doi.org/10.4324/9781315800790)
+
+Latimer, K. W., Yates, J. L., Meister, M. L. R., Huk, A. C., & Pillow, J. W. (2015). Single-trial spike trains in parietal cortex reveal discrete steps during decision-making. *Science*, 349(6244), 184-187. [doi:10.1126/science.aaa4056](https://doi.org/10.1126/science.aaa4056)
 
 McClelland, J. L., McNaughton, B. L., & O'Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. *Psychological Review*, 102(3), 419-457. [doi:10.1037/0033-295x.102.3.419](https://doi.org/10.1037/0033-295x.102.3.419)
 
@@ -359,6 +375,8 @@ Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. *Psychologica
 Wixted, J. T., & Ebbesen, E. B. (1997). Genuine power curves in forgetting: A quantitative analysis of individual subject forgetting functions. *Memory & Cognition*, 25, 731-739. [doi:10.3758/bf03211316](https://doi.org/10.3758/bf03211316)
 
 World Health Organization (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. Geneva: WHO. [icd.who.int](https://icd.who.int/)
+
+Yan, C.-G., et al. (2019). Reduced default mode network functional connectivity in patients with recurrent major depressive disorder. *Proceedings of the National Academy of Sciences*, 116(18), 9078-9083. [doi:10.1073/pnas.1900390116](https://doi.org/10.1073/pnas.1900390116)
 
 Young, L. J., & Wang, Z. (2004). The neurobiology of pair bonding. *Nature Neuroscience*, 7(10), 1048-1054. [doi:10.1038/nn1327](https://doi.org/10.1038/nn1327)
 

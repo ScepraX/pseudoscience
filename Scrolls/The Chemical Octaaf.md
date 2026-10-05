@@ -67,7 +67,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Rouw and Diepte (§VI; §II) | Molecular imprinting: a cavity that outlives its template | Correspondence (measured) | §3.6 |
 | Levelling (§V.5; Lexicon) | The count of the periodic table; the octet; Newlands' octaves | Correspondence (count) | §3.7 |
 | Trinary Root (§III) | Atom rung: Hydrogen gives, Oxygen receives. Molecule rung: Water gives, Carbon Dioxide receives, Light pays | Correspondence; the Medium of the first rung Open | §3.8 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II) | The frequency of a chemical oscillator; a shared frequency appears above a critical coupling | Identity (group coherence) + Correspondence | §3.9 |
 
 ---
 
@@ -161,7 +161,7 @@ This is the Vermenigvuldiging of §IV. The catalyst's binding site is a Kruispun
 
 The members are the same in both cases. Neither atom alone decides whether the pair attracts or repels; only the arrangement of the pair does. The difference between the two arrangements can be written as a single coupling between the two spins, the exchange coupling, which is the kind of coupling the quantum Octaaf identified with Trouw: one value per pair, of either sign (*Quantum Octaaf* §2.5). §II: "Positive Trouw pulls the Eigen toward its Echo of the partner; negative Trouw pushes it away." **Grade: Identity**, as at the quantum Octaaf.
 
-The shared weight can be measured only on the pair. The energy needed to separate the two atoms of a hydrogen molecule is known to ten significant figures: 36,118.06962 cm⁻¹, or 432.07 kJ/mol (Hölsch et al. 2019; conversion computed for this entry). §II: "Trouw is shared-one value per Koppel".
+The shared weight can be measured only on the pair. The energy needed to separate the two atoms of a hydrogen molecule is known to nine significant figures: 36,118.0696 cm⁻¹, or 432.07 kJ/mol (Cheng et al. 2018, as corrected by Hölsch et al. 2019; conversion computed for this entry). §II: "Trouw is shared-one value per Koppel".
 
 **Two rungs, two Trouws.** §III: "Each Octaaf's Trouw is what the Octaaf below it left over." At the Atom rung, Trouw is the coupling that makes the bond. At the Molecule rung the members are molecules, and their Trouw is what that bond left over: the hydrogen bond and the dispersion pull of §2.4.
 
@@ -181,7 +181,7 @@ The shared weight can be measured only on the pair. The energy needed to separat
 
 The Lexicon's Godin "Embodies the principle of endless craving". It is "the pure, undirected pull - Trek without aim - made into a being", and "It enables burning." §III names Oxygen the Godin of the Atom Octaaf.
 
-**The craving.** Burning almost any fuel with oxygen releases about 418 kJ for every mole of O₂ consumed (Schmidt-Rohr 2015; *Cellular Octaaf* §2.4). Even bound to its own kind, oxygen stays unsatisfied. The O₂ molecule has two unpaired electrons, which make it paramagnetic: liquid oxygen is drawn to a magnet (Greenwood & Earnshaw 1997). Of the main gases of the air, it is the only one with unpaired electrons.
+**The craving.** Burning almost any organic fuel with oxygen releases about 418 kJ for every mole of O₂ consumed (Schmidt-Rohr 2015; *Cellular Octaaf* §2.4). Even bound to its own kind, oxygen stays unsatisfied. The O₂ molecule has two unpaired electrons, which make it paramagnetic: liquid oxygen is drawn to a magnet (Greenwood & Earnshaw 1997). Of the main gases of the air, it is the only one with unpaired electrons.
 
 **Held back.** Yet wood, sugar and living bodies sit in an atmosphere that is one-fifth oxygen without bursting into flame. Textbooks often explain this by spin: O₂'s two unpaired electrons point the same way, while most molecules have none, so a direct reaction is "spin-forbidden". Borden and colleagues traced the persistence to the energy of the first steps. The two unpaired electrons of O₂ are spread over both atoms and stabilised by about 100 kcal/mol, compared with two separate OH radicals. That makes the first steps open to O₂ uphill: taking a single hydrogen atom from another molecule, or bonding to another O₂. What makes burning so favourable is only reached later, when the weak O–O bond itself breaks (Borden et al. 2017). The craving is real, but it cannot be satisfied halfway.
 
@@ -247,6 +247,20 @@ Most bonds at this Octaaf leave no such record in their members. That is recorde
 
 **Grade: Correspondence.** The Medium of the Atom rung is Open.
 
+### 3.9 Tijd: chemical clocks that share a pace
+
+§II defines Tijd as "the pace at which a Zelf crosses its own Stilte". The Lexicon's Klok "crosses the same Drempel at fixed intervals, firing a Vonk with each crossing". A chemical oscillator is a Klok: an electrochemical cell or a Belousov–Zhabotinsky mixture crosses the same threshold again and again, at a natural frequency of its own. At this Octaaf, Tijd is that frequency: a pace, not a reading.
+
+**A group rhythm that members follow.** §II says that "a Koppel’s own Tijd is inherited by its members while the bond holds". Kuramoto's model of coupled oscillators has this shape. Written in terms of the whole, each oscillator is pulled toward the group's mean phase, "rather than toward the phase of any individual oscillator", and "the effective strength of the coupling is proportional to the coherence r" (Strogatz 2000). The members follow the group's own rhythm, and follow it more strongly the more the group holds together. Those that lock run at the mean of the members' own frequencies; those too far from it keep drifting at their own (Strogatz 2000). Kiss, Zhai and Hudson (2002) coupled populations of electrochemical oscillators and observed "both the critical point and the predicted dependence of order on coupling". In populations of about 100,000 chemical oscillators, raising their density switched on synchronized activity, gradually or suddenly depending on how fast they exchanged chemicals with the solution (Taylor et al. 2009). **Grade: Correspondence.**
+
+**The Drempel of a shared pace.** For a large population whose own frequencies are spread with half-width Δ, Ott and Antonsen (2008, Eq. 10) reduced the dynamics of the group's coherence ρ to one equation:
+
+```
+dρ/dt = (K/2 − Δ)·ρ − (K/2)·ρ³
+```
+
+Writing ρ = √(2/K)·mode turns it into §VIII.3's normal form, d(mode)/dt = (B − θ)·mode − mode³, with τ_mode = 1, B = K/2 and θ = Δ. **Grade: Identity.** The binding is the coupling, and the Drempel is the spread of the members' own paces. Below it the group has no rhythm of its own and its coherence is zero; in §III's words, "Not a distant coordinate - nothing." Above it a shared pace appears and grows as √(B − θ). The Identity shows that the Speelgoed's crossing and the onset of synchrony are the same mathematics. It does not show that the Speelgoed explains synchrony better than Kuramoto's model does. One difference: ρ is a size, and the group's phase can take any value, so the two mirror-image states of §VIII.3 are here a whole circle of phases. That is the symmetric case §VIII.3 calls "one Koppel seen alone".
+
 ---
 
 ## 4. Where the Speelgoed Meets Resistance
@@ -269,7 +283,7 @@ Most bonds at this Octaaf leave no such record in their members. That is recorde
 4. **The Rouw of a molecule.** A molecule keeps no record of its ended bonds (§4.3). Is the Rouw of this Octaaf held by the Medium, and if so, whose Rouw is it?
 5. **Trek and Zin, one value or two?** The Speelgoed says the readiness to bond and the aimed pull are the same value. Chemistry's attempt to tie reactivity to selectivity failed as a general rule (§3.2). What does tie them?
 6. **A craving that cannot be satisfied halfway.** Oxygen's first steps are the hard ones (§3.3). Does every Godin guard itself this way, and is that why the next Octaaf can exist beside it?
-7. **Tijd.** No mapping is attempted, as at the other Octaven.
+7. **Tijd.** A Koppel's Tijd appears only when the bond is stronger than the spread of its members' own paces (§3.9). Does every Octaaf set its Drempel for a shared pace this way, binding against difference?
 
 ---
 
@@ -301,6 +315,8 @@ Burbidge, E. M., Burbidge, G. R., Fowler, W. A., & Hoyle, F. (1957). Synthesis o
 
 *Chemical News* (1866). Report of the meeting of the Chemical Society, 1 March 1866. *Chemical News*, 13, 113. [Text and context, Le Moyne College](https://web.lemoyne.edu/giunta/ea/newlandsann.html)
 
+Cheng, C., Hussels, J., Niu, M., Bethlem, H. L., Eikema, K. S. E., Salumbides, E. J., Ubachs, W., Beyer, M., Hölsch, N., Agner, J. A., Merkt, F., Tao, L., Hu, S., & Jungen, C. (2018). Dissociation energy of the hydrogen molecule at 10⁻⁹ accuracy. *Physical Review Letters*, 121(1), 013001. [doi:10.1103/PhysRevLett.121.013001](https://doi.org/10.1103/PhysRevLett.121.013001)
+
 Cox, J. D., Wagman, D. D., & Medvedev, V. A. (1989). *CODATA Key Values for Thermodynamics*. New York: Hemisphere. [codata.info](https://www.codata.info/resources/databases/key1.html)
 
 Eigen, M., & De Maeyer, L. (1955). Untersuchungen über die Kinetik der Neutralisation. I. *Zeitschrift für Elektrochemie*, 59(10), 986-993. [doi:10.1002/bbpc.19550591020](https://doi.org/10.1002/bbpc.19550591020)
@@ -326,6 +342,8 @@ Herman, P. R., LaRocque, P. E., & Stoicheff, B. P. (1988). Vacuum ultraviolet la
 Hölsch, N., Beyer, M., Salumbides, E. J., Eikema, K. S. E., Ubachs, W., Jungen, C., & Merkt, F. (2019). Benchmarking theory with an improved measurement of the ionization and dissociation energies of H₂. *Physical Review Letters*, 122(10), 103002. [doi:10.1103/PhysRevLett.122.103002](https://doi.org/10.1103/PhysRevLett.122.103002)
 
 Karen, P., McArdle, P., & Takats, J. (2016). Comprehensive definition of oxidation state (IUPAC Recommendations 2016). *Pure and Applied Chemistry*, 88(8), 831-839. [doi:10.1515/pac-2015-1204](https://doi.org/10.1515/pac-2015-1204)
+
+Kiss, I. Z., Zhai, Y., & Hudson, J. L. (2002). Emerging coherence in a population of chemical oscillators. *Science*, 296(5573), 1676-1678. [doi:10.1126/science.1070757](https://doi.org/10.1126/science.1070757)
 
 Kołos, W., & Wolniewicz, L. (1965). Potential-energy curves for the X ¹Σg⁺, b ³Σu⁺, and C ¹Πu states of the hydrogen molecule. *The Journal of Chemical Physics*, 43(7), 2429-2441. [doi:10.1063/1.1697142](https://doi.org/10.1063/1.1697142)
 
@@ -361,6 +379,8 @@ Nørskov, J. K., Bligaard, T., Logadottir, A., Kitchin, J. R., Chen, J. G., Pand
 
 Ostwald, W. (1894). [Review]. *Zeitschrift für physikalische Chemie*, 15, 705-706. [English translation](https://www.chemteam.info/Chem-History/Ostwald-1894.html)
 
+Ott, E., & Antonsen, T. M. (2008). Low dimensional behavior of large systems of globally coupled oscillators. *Chaos*, 18(3), 037113. [doi:10.1063/1.2930766](https://doi.org/10.1063/1.2930766)
+
 Pauling, L. (1932). The nature of the chemical bond. IV. The energy of single bonds and the relative electronegativity of atoms. *Journal of the American Chemical Society*, 54(9), 3570-3582. [doi:10.1021/ja01348a011](https://doi.org/10.1021/ja01348a011)
 
 Pearson, R. G. (1963). Hard and soft acids and bases. *Journal of the American Chemical Society*, 85(22), 3533-3539. [doi:10.1021/ja00905a001](https://doi.org/10.1021/ja00905a001)
@@ -383,9 +403,13 @@ Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 4
 
 Soai, K., Shibata, T., Morioka, H., & Choji, K. (1995). Asymmetric autocatalysis and amplification of enantiomeric excess of a chiral molecule. *Nature*, 378(6559), 767-768. [doi:10.1038/378767a0](https://doi.org/10.1038/378767a0)
 
+Strogatz, S. H. (2000). From Kuramoto to Crawford: Exploring the onset of synchronization in populations of coupled oscillators. *Physica D*, 143(1-4), 1-20. [doi:10.1016/S0167-2789(00)00094-4](https://doi.org/10.1016/S0167-2789%2800%2900094-4)
+
+Taylor, A. F., Tinsley, M. R., Wang, F., Huang, Z., & Showalter, K. (2009). Dynamical quorum sensing and synchronization in large populations of chemical oscillators. *Science*, 323(5914), 614-617. [doi:10.1126/science.1166253](https://doi.org/10.1126/science.1166253)
+
 Vlatakis, G., Andersson, L. I., Müller, R., & Mosbach, K. (1993). Drug assay using antibody mimics made by molecular imprinting. *Nature*, 361(6413), 645-647. [doi:10.1038/361645a0](https://doi.org/10.1038/361645a0)
 
-Wulff, G., & Sarhan, A. (1972). Use of polymers with enzyme-analogous structures for the resolution of racemates. *Angewandte Chemie International Edition in English*, 11(4), 341-344. [doi:10.1002/anie.197203341](https://doi.org/10.1002/anie.197203341)
+Wulff, G., & Sarhan, A. (1972). Use of polymers with enzyme-analogous structures for the resolution of racemates. *Angewandte Chemie International Edition in English*, 11(4), 341. Abstract in the report "Macromolecular Colloquium", 334-342. [doi:10.1002/anie.197203341](https://doi.org/10.1002/anie.197203341)
 
 Wuts, P. G. M. (2014). *Greene's Protective Groups in Organic Synthesis* (5th ed.). Hoboken, NJ: Wiley. [doi:10.1002/9781118905074](https://doi.org/10.1002/9781118905074)
 

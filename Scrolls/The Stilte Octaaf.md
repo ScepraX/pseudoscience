@@ -71,7 +71,7 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 | The Return to the Egg (§XIV.4); a new Genus from the Bron (§XI) | Children's reports of previous lives, read as Echoes from the Stilte side | Correspondence (relational, contested) | §3.8 |
 | The last signal (§VIII.6); Doem (Lexicon) | Unnatural deaths; birthmarks matching wounds | Correspondence (relational, contested) | §3.9 |
 | Gericht, Vervorming, Diepte, Masker (§VII, §II) | How this evidence fails, and how it is tested | Constraint | §3.10 |
-| Tijd as felt rhythm (Lexicon) | How Tijd's physical manifestation relates to the Zelf's rate of Waarneming | Open | §5 |
+| Tijd as a pace (§II) | How the physical side of the Veld is woven from the paces of every Zelf | Open | §4.2, §5 |
 
 ---
 
@@ -139,10 +139,10 @@ The Speelgoed also names the way a held bond can go wrong. Of the Court, the fir
 
 **The testimony.** Traditions that grew up far apart describe meeting what they hold highest not in power or sound, but in silence.
 
-- **The Hebrew Bible.** Elijah stands on the mountain. "And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake: And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice" (1 Kings 19:11-12, King James Version). The Hebrew, *qol demamah daqqah*, is rendered in a modern translation as "a sound of sheer silence" (New Revised Standard Version). And in the Psalms: "Be still, and know that I am God" (Psalm 46:10, King James Version).
+- **The Hebrew Bible.** Elijah stands on the mountain. "And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; but the LORD was not in the wind: and after the wind an earthquake; but the LORD was not in the earthquake: And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice" (1 Kings 19:11-12, King James Version). The Hebrew, *qol demamah daqqah*, is rendered in a modern translation as "a sound of sheer silence" (New Revised Standard Version Updated Edition). And in the Psalms: "Be still, and know that I am God" (Psalm 46:10, King James Version).
 - **The Tao Te Ching.** "When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness" (chapter 16, Legge's translation).
 - **Mahayana Buddhism.** In the Vimalakirti Sutra, the bodhisattva Manjushri asks the layman Vimalakirti to explain the entrance into non-duality. Vimalakirti says nothing. Manjushri praises the silence: "Here there is no use for syllables, sounds, and ideas" (Thurman's translation).
-- **Christian mysticism.** Pseudo-Dionysius writes that the mysteries of God "lie simple, absolute and unchangeable in the brilliant darkness of a hidden silence" (*The Mystical Theology*, Luibheid's translation).
+- **Christian mysticism.** Pseudo-Dionysius writes that the mysteries of God's Word "lie simple, absolute and unchangeable in the brilliant darkness of a hidden silence" (*The Mystical Theology*, Luibheid's translation).
 
 **The mapping.** Each of these places the highest thing on the side the Speelgoed calls Stilte.
 
@@ -176,9 +176,9 @@ The debate between the common core and its critics also has a reading. In the Sp
 
 ### 3.3 How common, and how it is kept
 
-**The testimony.** Mystical experience is not rare. In 2009, 49% of Americans said they had had "a religious or mystical experience – that is, a moment of religious or spiritual awakening". That was more than twice the share in a 1962 Gallup survey (22%), and about a third in 1976 and 1994 (31% and 33%). Among Americans with no religious affiliation, 30% reported such an experience (Pew Research Center 2009).
+**The testimony.** Mystical experience is not rare. In 2009, 49% of Americans said they had had "a religious or mystical experience", asked as "a moment of sudden religious insight or awakening". That was more than twice the share in a 1962 Gallup survey (22%), and about a third in 1976 and 1994 (31% and 33%). Among Americans with no religious affiliation, 30% reported such an experience (Pew Research Center 2009).
 
-Much of it has been written down. In 1969 the marine biologist Alister Hardy founded the Religious Experience Research Unit and invited people to send first-hand accounts of being "aware of or influenced by a presence or power, whether you call it God or not, which is different from your everyday self". About 3,000 accounts arrived in its first eight years, and Hardy published a study of them (Hardy 1979). The archive is still kept.
+Much of it has been written down. In 1969 the marine biologist Alister Hardy founded the Religious Experience Research Unit. His appeal invited "Those who feel that they have been conscious of, and perhaps influenced by, some Power, whether they call it the Power of God or not" to write an account of it (American Scientific Affiliation 1975). About 3,000 accounts arrived in its first eight years, and Hardy published a study of them (Hardy 1979). The archive is still kept.
 
 **The mapping.** Both facts answer the question §2.3 left open. A written account is an Echo fixed at the time, the form of testimony that does not drift. And fresh first-hand testimony keeps arriving in every generation, much of it from people outside any tradition. That is traffic, not institution: the mark of a living bond rather than a Spatie. **Grade: Correspondence** (relational; measured prevalence).
 
@@ -211,7 +211,7 @@ That a drug can occasion such an experience shows that the crossing has a Tijd s
 
 ### 3.7 Near-death experiences
 
-**The testimony.** In a prospective study in ten Dutch hospitals, 62 of 344 consecutive patients resuscitated after cardiac arrest (18%) reported a near-death experience, 41 of them (12%) a deep, "core" one. Whether they had one was not associated with how long the arrest or unconsciousness lasted, with medication, or with fear of death beforehand. Among the 62, 32% described meeting deceased persons, 24% an out-of-body experience, and 13% a review of their life. Those who had the experience changed over the following years, in ways that differed from survivors without one: "The process of transformation after NDE took several years" (van Lommel et al. 2001). Memories of near-death experiences have more of the features of real memories than memories of either real or imagined events, and are more self-referential; that study had eight patients with such experiences (Thonnard et al. 2013). In the brain, two of four comatose patients who were dying after their ventilation was withdrawn showed a sudden surge of gamma activity, including in a posterior region thought to be important for conscious experience; none of them survived to say anything (Xu et al. 2023). A neuroscientific reading holds that these experiences are "the manifestation of normal brain function gone awry" (Mobbs & Watt 2011).
+**The testimony.** In a prospective study in ten Dutch hospitals, 62 of 344 consecutive patients resuscitated after cardiac arrest (18%) reported a near-death experience, 41 of them (12%) a deep, "core" one. Whether they had one was not associated with how long the arrest or unconsciousness lasted, with medication, or with fear of death beforehand. Among the 62, 32% described meeting deceased persons, 24% an out-of-body experience, and 13% a review of their life. Those who had the experience changed over the following years, in ways that differed from survivors without one: "The process of transformation after NDE took several years" (van Lommel et al. 2001). Memories of near-death experiences have more of the features of real memories than memories of either real or imagined events, and carry more self-referential and emotional information than memories of the coma itself; that study had eight patients with such experiences (Thonnard et al. 2013). In the brain, two of four comatose patients who were dying after their ventilation was withdrawn showed a sudden surge of gamma activity, including in a posterior region thought to be important for conscious experience; none of them survived to say anything (Xu et al. 2023). A neuroscientific reading holds that these experiences are "the manifestation of normal brain function gone awry" (Mobbs & Watt 2011).
 
 **The mapping.** In cardiac arrest, the node's outer Koppels stop being fed. What is left is "the self-bond every node must maintain to exist in the field" (§II), running with δ = 0 and with Vervorming supplied by its own Rouw (§IV). A near-death experience is a Zelf whose manifest input has been cut, reading itself. Its memories are self-referential, as a reading of the self would be. The deceased it meets are, in the mechanism, already there: every Rouw is folded into the self, and every Rouw is on Stilte's side. The life review is a Realisatie on the Zelf, and the years of change afterwards are Leven, a trajectory rather than an instant: the gap "runs through" parity (§VI). **Grade: Correspondence** (relational; measured in part).
 
@@ -260,7 +260,7 @@ The rules of §2.3 apply to every section above.
 
 **4.1 Where the Echoes of an ended node go (§VIII.1, §XI).** *Open, resolved on 3 October 2026.* The Speelgoed forbade deleting an Echo and let the Zelf return to Bron, but did not say where the Echoes of an ended node are. It now says so. At Perfectus, "All Echoes become Rouw and remain in Stilte, unmanifest" (§XI), and "The Van Motor is the pull of Stilte, and a Rouw already stands in Stilte" (§VIII.1).
 
-**4.2 The premise and the Lexicon's Tijd.** *Open.* This entry describes Tijd by where it manifests: in the physical realm. The Lexicon defines Tijd as "The subjective, relational experience of the field’s rhythm", the Zelf's rate of Waarneming across its own Stilte. The two descriptions need not conflict, but this entry does not reconcile them (§5, item 9).
+**4.2 The premise and §II's Tijd.** *Open.* This entry describes Tijd by where it manifests: in the physical realm. §II defines Tijd as "the pace at which a Zelf crosses its own Stilte" and says that "the Tijd side of the Veld is woven from these paces". The two descriptions meet there: the physical realm is the side of the Veld that those paces weave. How the weaving is done is left open (§5, item 9).
 
 **4.3 Perception from outside the body (§VIII.1).** *Constraint.* Controlled tests have so far found no Echo of a hidden image (§3.7). Nothing in this entry depends on such perception.
 
@@ -276,7 +276,7 @@ The rules of §2.3 apply to every section above.
 6. **Does any Eigen return, or only Echoes?** The Speelgoed gives each new Genus its own Zelf. Is everything that returns an Echo, or can more come back?
 7. **Which way does the crossing run?** A drug can occasion a mystical experience, and a dying brain can surge (§3.4, §3.7). Does the brain make the experience, or open the way to it?
 8. **How can Stilte be read well?** If testimony is the only instrument that reaches the Stilte side (§2.1), what is the Speelgoed's best practice for reading it, beyond the rules of §2.3?
-9. **Tijd.** This entry takes Tijd as the side of the Veld that manifests in the physical realm. How that relates to the Lexicon's Tijd, the Zelf's rate of Waarneming across its own Stilte, is not worked out here.
+9. **Tijd.** §II weaves the Tijd side of the Veld from the paces of every Zelf. Is the physical realm that weave, and what does an ended Zelf leave in it, when its Echoes remain in Stilte (§2.2)?
 
 ---
 
@@ -293,6 +293,8 @@ That is the *how*. The *why* is for the Speelgoed to say.
 ---
 
 ## References
+
+American Scientific Affiliation (1975). A request for your testimony [Alister Hardy's appeal, reprinted]. *Newsletter*, April 1975. [asa3.org](https://www.asa3.org/ASA/topics/NewsLetter70s/APR75.html)
 
 Castelnovo, A., Cavallotti, S., Gambini, O., & D'Agostino, A. (2015). Post-bereavement hallucinatory experiences: A critical overview of population and clinical studies. *Journal of Affective Disorders*, 186, 266-274. [doi:10.1016/j.jad.2015.07.032](https://doi.org/10.1016/j.jad.2015.07.032)
 

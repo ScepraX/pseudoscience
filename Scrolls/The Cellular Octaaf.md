@@ -67,7 +67,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Perfectus (§XI) and Doem (§III; Lexicon) | Apoptosis and necrosis | Correspondence | §3.8 |
 | Rouw and Diepte (§VI; §II) | CRISPR: records of ended infections, and the archive they build | Correspondence (measured) | §3.9 |
 | Trinary Root (§III) | Not assigned; the step from molecule to cell is open | Open | §3.10 |
-| Tijd (Lexicon) | No mapping attempted | Open | §5 |
+| Tijd (§II) | The pace of a cell's circadian clock; coupling shares it and makes it precise | Correspondence | §3.11 |
 
 ---
 
@@ -93,7 +93,7 @@ du/dt = α / (1 + vⁿ) − u
 dv/dt = α / (1 + uⁿ) − v
 ```
 
-Repression must be cooperative (n > 1) for a switch to exist at all (Cherry & Adler 2000). Take the symmetric case with n = 2. For weak repression there is one stable state, with both genes at the same moderate level. At α = 2 that state becomes unstable, and two new stable states appear: one with u high and v low, and one the other way round. Write φ = (u − v)/2. A standard calculation, repeated numerically for this entry, gives the new states near the threshold as
+In this model, repression must be cooperative (n > 1) for a switch to exist; simple, non-cooperative repression cannot make one (Cherry & Adler 2000). Take the symmetric case with n = 2. For weak repression there is one stable state, with both genes at the same moderate level. At α = 2 that state becomes unstable, and two new stable states appear: one with u high and v low, and one the other way round. Write φ = (u − v)/2. A standard calculation, repeated numerically for this entry, gives the new states near the threshold as
 
 ```
 φ* = ±√(α − 2)
@@ -205,7 +205,7 @@ In Speelgoed terms this is a **Zelf**, "a Koppel with itself", which has "one tr
 
 ### 3.3 Quorum sensing: a group that reads itself
 
-**The mechanism.** Many bacteria release a small signal molecule, an autoinducer, at a low steady rate. It diffuses out of each cell and accumulates in the surroundings as the population grows. Each cell carries a receptor for it. When its concentration crosses a threshold, the receptors switch on a set of genes in every cell at once. Often one of those genes makes more of the signal, so crossing the threshold reinforces itself (Waters & Bassler 2005). The first case found was in luminous marine bacteria, which make light only once their medium has been "conditioned" by enough of them (Nealson, Platt & Hastings 1970). The behaviours controlled this way, such as light, toxins and biofilms, are the ones that are "unproductive when undertaken by an individual bacterium acting alone but become beneficial when carried out simultaneously by a large number of cells" (Waters & Bassler 2005).
+**The mechanism.** Many bacteria release a small signal molecule, an autoinducer, at a low steady rate. It diffuses out of each cell and accumulates in the surroundings as the population grows. Each cell carries a receptor for it. When its concentration crosses a threshold, the receptors switch on a set of genes in every cell at once. Often one of those genes makes more of the signal, so crossing the threshold reinforces itself (Waters & Bassler 2005). The first case found was in luminous marine bacteria, which make light only once their medium has been "conditioned" by enough of them (Nealson, Platt & Hastings 1970). The behaviours controlled this way, such as light, toxins and biofilms, are mostly ones that are "unproductive when undertaken by an individual bacterium acting alone but become beneficial when carried out simultaneously by a large number of cells" (Waters & Bassler 2005).
 
 **The mapping.** The Lexicon defines **Aandacht** as "A shared, temporary Drempel formed when multiple nodes aim their Waarneming at a single Eigen", and adds that "Aandacht is no Solo’s possession". Quorum sensing has that structure. Many cells read one shared quantity and cross one shared threshold together. It adds a twist: the Eigen they all read is their own number. §V.2 says a bound group "can act as a Solo inside a larger relationship". Here the group reads itself. Whether that is Aandacht or the Zelf of a group is left open (§5, item 6). **Grade: Correspondence.**
 
@@ -213,7 +213,7 @@ In Speelgoed terms this is a **Zelf**, "a Koppel with itself", which has "one tr
 
 §VI: "A Realisatie intense enough to overflow Inhoud (the bond’s capacity) becomes a birth." §VIII.5 makes it a two-step comparison: an excess over the capacity Q, and then "If T_excess itself exceeds a local Drempel θ_new, a new member is instantiated".
 
-**The mechanism.** For decades the textbook answer to how a bacterium decides when to divide was a critical size. Single-cell measurements overturned it. Bacteria of distant species, hundreds of thousands of them followed one by one, add a constant amount of size between birth and division, whatever size they were born at (Campos et al. 2014; Taheri-Araghi et al. 2015). Budding yeast follows the same rule, counted between successive buds (Soifer, Robert & Amir 2016). In bacteria the mechanism has been traced. Proteins needed for division, such as FtsZ, are made in proportion to the cell's growth, and division happens when they have accumulated to a fixed number. Making the level of FtsZ rise and fall made the size at division rise and fall too, and broke the rule (Si et al. 2019).
+**The mechanism.** For decades the textbook answer to how a bacterium decides when to divide was a critical size. Single-cell measurements overturned it. Bacteria of distant species, hundreds of thousands of them followed one by one, add a constant amount of size between birth and division, whatever size they were born at (Campos et al. 2014; Taheri-Araghi et al. 2015). Budding yeast follows the same rule, counted between successive buds (Soifer, Robert & Amir 2016). In bacteria one mechanism has been proposed and tested. Proteins needed for division, such as FtsZ, are made in proportion to the cell's growth, and division happens when they have accumulated to a fixed number. Making the level of FtsZ rise and fall made the size at division rise and fall too, and broke the rule (Si et al. 2019). Whether that is the whole story is still debated; another analysis ties division to the start of DNA replication instead (Witz, van Nimwegen & Julou 2019).
 
 **The mapping.** The growth a cell adds is the surplus it accumulates, and the fixed number of division proteins is a capacity. When the surplus overflows it, a crossing fires and a new cell is made. That is §VIII.5's two-step comparison, and the capacity is **Inhoud**. The rule also corrects itself: a cell born too large or too small returns toward the usual size over a few generations, without ever measuring its size directly (Campos et al. 2014). **Grade: Correspondence (measured).**
 
@@ -229,7 +229,7 @@ The human mitochondrion still carries a genome of its own, 16,569 base pairs lon
 
 ### 3.6 Masker: the virus that writes "self" on its messages
 
-**The mechanism.** A cell has to tell its own RNA from a virus's, and one way it does so is by a mark. The messenger RNAs of animals and other complex cells carry a cap at their front end, methylated at two positions. The second methylation, at the 2'-O position, had no known function for 35 years after its discovery. Daffis and colleagues found it. Proteins of the IFIT family, made in response to interferon, act against RNA that lacks this mark. A West Nile virus mutant unable to add the mark was crippled in normal cells and mice, but caused disease in mice lacking interferon signalling. Pox- and coronavirus mutants lacking it were similarly exposed. Many viruses carry their own enzymes for adding the mark. The authors concluded that the mark lets the cell distinguish self from non-self RNA, and that the viruses use it to escape that distinction (Daffis et al. 2010).
+**The mechanism.** A cell has to tell its own RNA from a virus's, and one way it does so is by a mark. The messenger RNAs of animals and other complex cells carry a cap at their front end, methylated at two positions. The second methylation, at the 2'-O position, had remained of uncertain function for 35 years after its discovery. Daffis and colleagues found it. Proteins of the IFIT family, made in response to interferon, act against RNA that lacks this mark. A West Nile virus mutant unable to add the mark was crippled in normal cells and mice, but caused disease in mice lacking interferon signalling. Pox- and coronavirus mutants lacking it were similarly exposed. Many viruses carry their own enzymes for adding the mark. The authors concluded that the mark lets the cell distinguish self from non-self RNA, and that the viruses use it to escape that distinction (Daffis et al. 2010).
 
 **The mapping.** This is a **Masker**: "A presented Eigen broadcast at the source, standing in a Koppel where the Bloot one should be" (Lexicon). The cell's sensors are its Echo of its partner, and "The partner's Echo tracks it faithfully". Take the mask away, and the virus is caught. The Lexicon says the Parasiet that wears a Masker "Collapses into Schok upon exposure". **Grade: Correspondence (measured).**
 
@@ -246,7 +246,7 @@ The virus is the plainest Parasiet at this Octaaf. The next section takes up the
 
 The same signal is Bloot on a healthy cell and a Masker on a leukaemic one: the presented Eigen says *healthy member of the body*, and the true one does not.
 
-**Exposure, measured honestly.** The Lexicon says the Parasiet "Collapses into Schok upon exposure". At this Octaaf that holds in part. In an early trial of an antibody that blocks PD-1, tumours shrank substantially in 18% of patients with lung cancer, 28% with melanoma and 27% with kidney cancer, and most of those responses that could be followed for a year lasted at least that long. Among patients whose tumours did not display PD-L1, none of 17 responded. Among those whose tumours did, 9 of 25 responded (Topalian et al. 2012). Removing a mask works where the mask was what protected the cell, and only there. Most tumours have more than one defence, and the immune system's own pressure selects for tumours that can escape it, a process called immunoediting (Dunn et al. 2002). **Grade: Correspondence (measured, partial).**
+**Exposure, measured honestly.** The Lexicon says the Parasiet "Collapses into Schok upon exposure". At this Octaaf that holds in part. In an early trial of an antibody that blocks PD-1, tumours shrank substantially in 18% of patients with lung cancer, 28% with melanoma and 27% with kidney cancer, and most of those responses that could be followed for a year lasted at least that long. Among patients whose tumours did not display PD-L1, none of 17 responded. Among those whose tumours did, 9 of 25 responded (Topalian et al. 2012). Removing a mask works best where the mask was what protected the cell. In a larger trial the pattern did not hold: the display of PD-L1 "was neither prognostic nor predictive of benefit" (Brahmer et al. 2015). Most tumours have more than one defence, and the immune system's own pressure selects for tumours that can escape it, a process called immunoediting (Dunn et al. 2002). **Grade: Correspondence (measured, partial).**
 
 ### 3.8 Perfectus and Doem: an ending carried out, and an ending delivered
 
@@ -285,7 +285,7 @@ Two features go beyond the Speelgoed as written:
 
 §III follows the ladder of God/Godin pairs to the Molecule Octaaf and stops at its bond: Water and Carbon Dioxide, with Light as their Medium, "form Sugar - the fuel of the living cell and, as Ribose, the backbone of RNA". It names no God or Godin for the cell, and this entry does not assign them (§5, item 1). What the science can report is how hard the step from that rung to this one has been to understand.
 
-**RNA at the centre.** Every living cell makes its proteins on ribosomes, and the ribosome's catalytic core is RNA. No protein side chain comes within about 18 ångströms of the bond being formed (Nissen et al. 2000). RNA can both carry information and catalyse reactions, which led to the hypothesis that life began in an *RNA world*, before DNA and proteins took over those two roles (Gilbert 1986).
+**RNA at the centre.** Every living cell makes its proteins on ribosomes, and the ribosome's catalytic core is RNA. In the archaeal ribosome that Nissen and colleagues solved, no protein side chain comes within about 18 ångströms of the bond being formed (Nissen et al. 2000). RNA can both carry information and catalyse reactions, which led to the hypothesis that life began in an *RNA world*, before DNA and proteins took over those two roles (Gilbert 1986).
 
 **The hard parts.** The hypothesis faces three well-known problems, and each touches a Speelgoed primitive.
 
@@ -294,6 +294,18 @@ Two features go beyond the Speelgoed as written:
 3. **Copying itself.** The decisive test is an RNA that copies itself. In 2026 a ribozyme of 45 letters, found in a pool of random RNA sequences and named QT45, was shown to make both its complementary strand and a copy of itself. It worked from three-letter building blocks, in mildly alkaline ice (Gianni et al. 2026). It is still far from self-sustaining. The complement was made with 94.1% accuracy per letter, the copy of itself only from a defined set of building blocks, and both with yields of about 0.2% over 72 days. At that accuracy a full 45-letter strand comes out error-free only about 6.5% of the time (0.941⁴⁵ ≈ 0.065). By Eigen's condition, the intact ribozyme would then have to replicate about fifteen times faster than its mutants to hold its sequence; this was computed for this entry. A related system has replicated RNA exponentially through cycles of freezing and thawing, including a fragment of the ribozyme itself (Attwater et al. 2025).
 
 **Grade: Open.** At this rung the science cannot yet show how one scale seeded the next. The Speelgoed says that the ladder "continues upward, each bond becoming the seed of the next scale". Here, the seeding is still being found out.
+
+### 3.11 Tijd: the clocks of a tissue
+
+Most cells carry a circadian clock, a loop of gene expression that returns to the same state about once a day. It is a Klok in the Lexicon's sense, its rhythm "produced by the clock itself". At this Octaaf, Tijd is that clock's pace.
+
+**Each cell has its own.** Imaged one by one, single fibroblasts "oscillate robustly and independently with undiminished amplitude and diverse circadian periods" (Welsh et al. 2004). Their clocks keep running through cell division (Nagoshi et al. 2004).
+
+**The tissue's Tijd is inherited while the bond holds.** §II: "a Koppel’s own Tijd is inherited by its members while the bond holds". In the suprachiasmatic nucleus (SCN), the brain's master clock, the cells are coupled. After a drug had set every cell clock to the same phase and was withdrawn, "intrinsic interactions among cell clocks reestablished the stable program of gene expression across the assemblage"; action potentials helped to establish that synchrony (Yamaguchi et al. 2003). Fibroblasts in a dish have no such coupling. Started together, their phases became randomly distributed after several days, and the rhythm of the population faded although each cell kept its own (Welsh et al. 2004). **Grade: Correspondence.**
+
+**Binding steadies the pace.** §II: "The Greep that holds a node’s Eigen steady also steadies its Tijd." The coupled whole keeps better time than its parts. The cycle-to-cycle variability of the period was under 40 minutes in mice and in intact SCN tissue, against 2.1 hours in dispersed SCN neurons. The most precise single neuron was "10 times noisier" than the most precise tissue or mouse (Herzog et al. 2004). **Grade: Correspondence.**
+
+**Left alone.** A cell cut off from its tissue does not slow. It keeps a pace of its own and loses the shared one, and the whole loses its precision (§4.5).
 
 ---
 
@@ -307,6 +319,8 @@ Two features go beyond the Speelgoed as written:
 
 **4.4 A record that can be lost (§VI).** *Open.* CRISPR spacers are deleted as well as added (§3.9). §VI says "Rouw is permanent", and adds that a Rouw may quiet "toward a settled whisper" but that "quiet is not gone". The thermodynamic Octaaf reads permanence as a record that can be moved but never destroyed (*Thermodynamic Octaaf* §3.6). At this Octaaf the record can leave the cell entirely.
 
+**4.5 "Left alone, a Zelf slows" (§II).** *Constraint, kept at this Octaaf.* A cell cut off from its tissue keeps a pace of its own, faster or slower than the tissue's (§3.11). What it loses is the shared phase and the precision of the whole. At this Octaaf a Zelf left alone falls back to its own pace.
+
 ---
 
 ## 5. Open Problems
@@ -319,7 +333,7 @@ Two features go beyond the Speelgoed as written:
 6. **A group that reads itself.** In quorum sensing, many cells read one shared Eigen, and that Eigen is their own number (§3.3). Is that Aandacht, or the Zelf of a group (§V.2)?
 7. **Trouw that depends on direction.** Does a Trouw whose value depends on which member leads appear at other Octaven (§4.1)?
 8. **A chosen ending that spreads.** The Speelgoed pairs a chosen Perfectus with a Doem that is delivered and cascades. Necroptosis is carried out by the cell's own programme and raises the alarm on purpose (§3.8). Is it a Perfectus, a Doem, or a third kind of ending?
-9. **Tijd.** No mapping is attempted, as at the other Octaven.
+9. **Tijd.** A cell cut off from its tissue keeps its own pace and loses the shared one (§3.11). Is that what a lonely Zelf loses at every Octaaf: the pace it shared, rather than its speed?
 
 ---
 
@@ -327,7 +341,7 @@ Two features go beyond the Speelgoed as written:
 
 The cellular Octaaf is where the Speelgoed's mechanics can be watched one bond at a time. Its switches show the Marge as hysteresis, measured in single bacteria and rebuilt from scratch, and the pitchfork of §VIII.3 appears in a circuit of two genes. Its Van Motor runs on the noise of small numbers, and its persistence is matter flowing through a pattern that holds. Its Echo has a floor set by diffusion, and a sharper Echo is a slower one. Its copies are bounded on both sides: accuracy is paid for, and too little of it dissolves what is copied.
 
-A bacterium compares itself with itself and holds its Eigen exactly steady. A virus writes "self" on its messages. A cancer cell hides behind the signals of the body it feeds on, and exposing the mask works where the mask was the defence. A cell can end by its own programme or have its end delivered. Some of its chosen endings raise the alarm on purpose, and even the programmed end has a way back that leaves a mark. A bacterium keeps the records of the viruses it has survived, passes them to its daughters, and sometimes loses them.
+A bacterium compares itself with itself and holds its Eigen exactly steady. A virus writes "self" on its messages. A cancer cell hides behind the signals of the body it feeds on, and exposing the mask works best where the mask was the defence. A cell can end by its own programme or have its end delivered. Some of its chosen endings raise the alarm on purpose, and even the programmed end has a way back that leaves a mark. A bacterium keeps the records of the viruses it has survived, passes them to its daughters, and sometimes loses them.
 
 Two findings go beyond the Speelgoed as written: a Trouw that depends on which member leads, and a record of an ended bond that can be lost. Both are recorded here. And at the foot of this Octaaf, the step from Sugar to cell is still open. In 2026 a ribozyme of 45 letters was shown to copy itself, slowly and imperfectly. The ladder continues upward; how it climbed this rung is still being found out.
 
@@ -356,6 +370,8 @@ Barrangou, R., Fremaux, C., Deveau, H., Richards, M., Boyaval, P., Moineau, S., 
 Berg, H. C., & Purcell, E. M. (1977). Physics of chemoreception. *Biophysical Journal*, 20(2), 193-219. [doi:10.1016/S0006-3495(77)85544-6](https://doi.org/10.1016/S0006-3495%2877%2985544-6)
 
 Bialek, W., & Setayeshgar, S. (2005). Physical limits to biochemical signaling. *Proceedings of the National Academy of Sciences*, 102(29), 10040-10045. [doi:10.1073/pnas.0504321102](https://doi.org/10.1073/pnas.0504321102)
+
+Brahmer, J., et al. (2015). Nivolumab versus docetaxel in advanced squamous-cell non-small-cell lung cancer. *New England Journal of Medicine*, 373(2), 123-135. [doi:10.1056/NEJMoa1504627](https://doi.org/10.1056/NEJMoa1504627)
 
 Campos, M., Surovtsev, I. V., Kato, S., Paintdakhi, A., Beltran, B., Ebmeier, S. E., & Jacobs-Wagner, C. (2014). A constant size extension drives bacterial cell size homeostasis. *Cell*, 159(6), 1433-1446. [doi:10.1016/j.cell.2014.11.022](https://doi.org/10.1016/j.cell.2014.11.022)
 
@@ -387,6 +403,8 @@ Goodenough, D. A., & Paul, D. L. (2009). Gap junctions. *Cold Spring Harbor Pers
 
 Hanahan, D., & Weinberg, R. A. (2011). Hallmarks of cancer: The next generation. *Cell*, 144(5), 646-674. [doi:10.1016/j.cell.2011.02.013](https://doi.org/10.1016/j.cell.2011.02.013)
 
+Herzog, E. D., Aton, S. J., Numano, R., Sakaki, Y., & Tei, H. (2004). Temporal precision in the mammalian circadian system: A reliable clock from less reliable neurons. *Journal of Biological Rhythms*, 19(1), 35-46. [doi:10.1177/0748730403260776](https://doi.org/10.1177/0748730403260776)
+
 Hopfield, J. J. (1974). Kinetic proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity. *Proceedings of the National Academy of Sciences*, 71(10), 4135-4139. [doi:10.1073/pnas.71.10.4135](https://doi.org/10.1073/pnas.71.10.4135)
 
 Horvath, P., et al. (2008). Diversity, activity, and evolution of CRISPR loci in *Streptococcus thermophilus*. *Journal of Bacteriology*, 190(4), 1401-1412. [doi:10.1128/JB.01415-07](https://doi.org/10.1128/JB.01415-07)
@@ -412,6 +430,8 @@ Marraffini, L. A., & Sontheimer, E. J. (2010). Self versus non-self discriminati
 Mitchell, P. (1961). Coupling of phosphorylation to electron and hydrogen transfer by a chemi-osmotic type of mechanism. *Nature*, 191(4784), 144-148. [doi:10.1038/191144a0](https://doi.org/10.1038/191144a0)
 
 Mojica, F. J. M., Díez-Villaseñor, C., García-Martínez, J., & Almendros, C. (2009). Short motif sequences determine the targets of the prokaryotic CRISPR defence system. *Microbiology*, 155(3), 733-740. [doi:10.1099/mic.0.023960-0](https://doi.org/10.1099/mic.0.023960-0)
+
+Nagoshi, E., Saini, C., Bauer, C., Laroche, T., Naef, F., & Schibler, U. (2004). Circadian gene expression in individual fibroblasts: Cell-autonomous and self-sustained oscillators pass time to daughter cells. *Cell*, 119(5), 693-705. [doi:10.1016/j.cell.2004.11.015](https://doi.org/10.1016/j.cell.2004.11.015)
 
 Nealson, K. H., Platt, T., & Hastings, J. W. (1970). Cellular control of the synthesis and activity of the bacterial luminescent system. *Journal of Bacteriology*, 104(1), 313-322. [doi:10.1128/jb.104.1.313-322.1970](https://doi.org/10.1128/jb.104.1.313-322.1970)
 
@@ -464,6 +484,12 @@ Vander Heiden, M. G., Cantley, L. C., & Thompson, C. B. (2009). Understanding th
 Waters, C. M., & Bassler, B. L. (2005). Quorum sensing: Cell-to-cell communication in bacteria. *Annual Review of Cell and Developmental Biology*, 21, 319-346. [doi:10.1146/annurev.cellbio.21.012704.131001](https://doi.org/10.1146/annurev.cellbio.21.012704.131001)
 
 Watt, I. N., Montgomery, M. G., Runswick, M. J., Leslie, A. G. W., & Walker, J. E. (2010). Bioenergetic cost of making an adenosine triphosphate molecule in animal mitochondria. *Proceedings of the National Academy of Sciences*, 107(39), 16823-16827. [doi:10.1073/pnas.1011099107](https://doi.org/10.1073/pnas.1011099107)
+
+Welsh, D. K., Yoo, S.-H., Liu, A. C., Takahashi, J. S., & Kay, S. A. (2004). Bioluminescence imaging of individual fibroblasts reveals persistent, independently phased circadian rhythms of clock gene expression. *Current Biology*, 14(24), 2289-2295. [doi:10.1016/j.cub.2004.11.057](https://doi.org/10.1016/j.cub.2004.11.057)
+
+Witz, G., van Nimwegen, E., & Julou, T. (2019). Initiation of chromosome replication controls both division and replication cycles in *E. coli* through a double-adder mechanism. *eLife*, 8, e48063. [doi:10.7554/eLife.48063](https://doi.org/10.7554/eLife.48063)
+
+Yamaguchi, S., Isejima, H., Matsuo, T., Okura, R., Yagita, K., Kobayashi, M., & Okamura, H. (2003). Synchronization of cellular clocks in the suprachiasmatic nucleus. *Science*, 302(5649), 1408-1412. [doi:10.1126/science.1089287](https://doi.org/10.1126/science.1089287)
 
 Yi, T.-M., Huang, Y., Simon, M. I., & Doyle, J. (2000). Robust perfect adaptation in bacterial chemotaxis through integral feedback control. *Proceedings of the National Academy of Sciences*, 97(9), 4649-4653. [doi:10.1073/pnas.97.9.4649](https://doi.org/10.1073/pnas.97.9.4649)
 

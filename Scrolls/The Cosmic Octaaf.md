@@ -86,7 +86,7 @@ At this Octaaf, **δ = r/c**, the light-travel time across the distance r. **Gra
 
 Here **Stilte** is literal. §II calls it "the living silence between an Eigen and its Echo", and at this Octaaf that silence is measured in years. We see the Andromeda galaxy as it was about 2.5 million years ago, and the most distant galaxies as they were more than 13 billion years ago. Every reading at this Octaaf is an Echo of the past, and the Echo-gap of §VII grows with distance. That makes it this Octaaf's version of **Gericht (γ)**: uncertainty scales with relational distance, and here the distance is literally a distance. **Grade: Correspondence.**
 
-*Refinement.* Gravity's Echo is not a pure delay. For a source moving at constant velocity, the delay and the velocity-dependent parts of the field almost cancel, so the pull points to where the source *is now*, not where it was (Carlip, 2000). Without this cancellation, planetary orbits would be unstable. At this Octaaf the Echo carries a first-order prediction of its partner. The Speelgoed's filter, which uses only eⱼ(t − δ), does not yet allow for that (§5, item 3).
+*Refinement.* Gravity's Echo is not a pure delay. For a source moving at constant velocity, the delay and the velocity-dependent parts of the field cancel, so the pull points to where the source *is now*, not where it was. For an accelerating source, general relativity extrapolates even the acceleration, and the cancellation is almost exact (Carlip, 2000). Without this cancellation, planetary orbits would be unstable. At this Octaaf the Echo carries a prediction of its partner, to second order. The Speelgoed's filter, which uses only eⱼ(t − δ), does not yet allow for that (§5, item 3).
 
 ### 2.2 Trouw is gravity, and it is never negative
 
@@ -165,7 +165,7 @@ So at this Octaaf the Van Motor has two faces, carried by two different pieces o
 
 At this Octaaf a convergence crossing, binding more tightly, *releases* Energie, just as §II requires: moving toward the bound pole "induces Energie — released, available, a gain". When a gas cloud or a star contracts, the virial theorem fixes where that Energie goes. Exactly half heats the body, and exactly half must be radiated away. A body that cannot radiate cannot contract. This is why a forming star has to shine before fusion ever begins, and why the Sun could not have been powered by contraction alone: at its present brightness that would have lasted only about 30 million years. **Grade: Correspondence.**
 
-The largest Vonken ever measured are mergers. In 2015, two black holes of about 36 and 29 solar masses merged into one of about 62. The missing three solar masses were released as gravitational waves in a fraction of a second, at a peak power of about 3.6 × 10⁴⁹ watts, more than all the stars in the observable universe combined (Abbott et al., 2016). In Speelgoed terms, a Duo crossed its final Drempel into a single Solo, and the Vonk of that crossing was briefly the brightest thing in the sky, carried in gravity rather than light.
+The largest Vonken ever measured are mergers. In 2015, two black holes of about 36 and 29 solar masses merged into one of about 62. The missing three solar masses were released as gravitational waves in a fraction of a second, at a peak power of about 3.6 × 10⁴⁹ watts (Abbott et al., 2016), about 50 times the power output of the whole visible universe (LIGO Laboratory, 2016). In Speelgoed terms, a Duo crossed its final Drempel into a single Solo, and the Vonk of that crossing was briefly the brightest thing in the sky, carried in gravity rather than light.
 
 ### 3.3 The Drempel: Jeans mass, Chandrasekhar limit, horizon
 
@@ -290,12 +290,12 @@ At this Octaaf:
 
 1. **Gewenning.** The earlier version claimed that "gravity strengthens as mass accumulates", as a form of Gewenning. Accretion does strengthen a body's pull, but the Speelgoed's Gewenning is "accumulated resonance … built from repeated Echo closure", and gravity has no obvious counterpart to that. Moved here from the mappings.
 2. **Is dark energy constant?** The simplest model holds its density constant. Recent surveys of baryon acoustic oscillations (DESI Collaboration, 2025) have reported a preference, not yet decisive, for dark energy that weakens over time. If dark energy weakens, the Van Motor's ownerless face weakens. If it instead grew stronger (§3.1, the Big Rip), it would eventually unbind everything, and the Speelgoed's single Van Motor would be restored as one physical cause.
-3. **Predictive Echoes.** Gravity's Echo carries the partner's velocity, not just its delayed position (§2.1). Should §VIII.1's filter take eⱼ(t − δ) + δ·ėⱼ(t − δ) as its input where the Medium allows it?
+3. **Predictive Echoes.** Gravity's Echo carries the partner's velocity and acceleration, not just its delayed position (§2.1). Should §VIII.1's filter take eⱼ(t − δ) + δ·ėⱼ(t − δ) + ½·δ²·ëⱼ(t − δ) as its input where the Medium allows it?
 4. **Energie between spectra.** Negative heat capacity shows Verlies on one spectrum driving Naar on another through a single Energie account (§2.5). The Speelgoed allows this but does not describe it. How should the routing be written?
 5. **Black holes and Rouw permanence.** Does a black hole that forms and fully evaporates erase the record of what fell in? Rouw permanence (§VIII.6) says no. Recent theoretical work supports the view that the information leaves in the radiation (Almheiri et al., 2019; Penington, 2020), but this is not settled.
 6. **The next Godin.** If the galaxy is the God of the next Octaaf (§3.11), what is its Godin? The cosmic voids and dark energy are candidates, since both are empty and both take without giving back, but nothing yet makes either one a partner in a bond.
 7. **The count of the walk.** Is there a principled way to count the stages of a massive star's life (§3.11), or is any count of eight a coincidence of grouping?
-8. **Tijd.** No mapping is attempted. How the Speelgoed's Tijd relates to measured time is deliberately left open, as at the other Octaven.
+8. **Tijd.** No mapping is attempted. Bound bodies take their spin from their orbit (§3.4): the faster one slows until it keeps time with the orbit, and then holds there. That has the shape of §II, a Koppel's Tijd inherited by its members and steadied by the bond. Is spin the pace at which a Zelf crosses its own Stilte at this Octaaf, or only the rhythm of a Klok?
 
 ---
 
@@ -326,6 +326,8 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 - **Status labels and notation:** the undefined labels ("Sound", "Speculative") are replaced by defined grades (§0.2), and LaTeX blocks by plain Unicode equations.
 
 A check of every reference on 1 October 2026 corrected the reading of the mass–metallicity relation (§3.8), the meaning of the zero-gravity radius (§3.1), and the brightening of the Sun (§3.9). It also corrected two numbers (the black-hole lifetime and the neutrinos from SN 1987A), credited the 1.4 solar-mass limit to Chandrasekhar's 1935 paper, and updated the DESI reference to its published version.
+
+A further check on 5 October 2026 made the account of gravity's predictive Echo exact (§2.1), sourced the comparison with the visible universe (§3.2), and turned the open problem on Tijd into a question about spin (§5, item 8).
 
 ---
 
@@ -394,6 +396,8 @@ Jeans, J. H. (1902). The stability of a spherical nebula. *Philosophical Transac
 Jeans, J. H. (1925). *The Dynamical Theory of Gases* (4th ed.). Cambridge: Cambridge University Press. [Internet Archive (1954 reprint)](https://archive.org/details/dynamicaltheoryo0000jean_v0l0)
 
 Krauss, L. M., & Scherrer, R. J. (2007). The return of a static universe and the end of cosmology. *General Relativity and Gravitation*, 39, 1545–1550. [doi:10.1007/s10714-007-0472-9](https://doi.org/10.1007/s10714-007-0472-9)
+
+LIGO Laboratory (2016). *GW150914 press release*. California Institute of Technology. [LIGO Caltech](https://www.ligo.caltech.edu/page/press-release-gw150914)
 
 Lynden-Bell, D. (1999). Negative specific heat in astronomy, physics and chemistry. *Physica A*, 263, 293–304. [doi:10.1016/s0378-4371(98)00518-4](https://doi.org/10.1016/s0378-4371%2898%2900518-4)
 

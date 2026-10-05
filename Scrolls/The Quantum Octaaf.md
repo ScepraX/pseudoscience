@@ -141,7 +141,7 @@ In the Eigen equation of §VIII.1, Trouw y is the coefficient by which one membe
 |ψ⟩ = Σᵢ cᵢ · |φᵢ⟩
 ```
 
-The amplitudes cᵢ carry both a size and a phase, and the phases make the parts interfere. A single real number cannot describe interference. A test proposed by Renou et al. (2021), and since carried out (Li et al., 2022; Chen et al., 2022), rules out even more elaborate real-number versions of quantum theory, assuming that independent sources are truly independent: the complex numbers are needed.
+The amplitudes cᵢ carry both a size and a phase, and the phases make the parts interfere. A single real number cannot describe interference. A test proposed by Renou et al. (2021), and since carried out (Li et al., 2022; Chen et al., 2022), rules out the standard real-number version of quantum theory, in which real amplitudes are combined by the usual rule for joining systems, assuming that independent sources are truly independent. Within that standard form, the complex numbers are needed. Preprints since 2025 argue that real formulations with other rules for combining systems survive the test; they are not yet peer-reviewed (Hoffreumon & Woods, 2025).
 
 This is a question of scope, not a contradiction. A quantum state that interacts with its environment loses its interference between a few preferred states, known as *pointer states*, and each pointer state *is* a definite position on a spectrum (Zurek, 2003). **§VIII.1's real-valued Eigen describes the Eigen after this has happened, and this Octaaf describes what comes before.** **Grade: Constraint** (of scope).
 
@@ -235,7 +235,7 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 - **Vol and Leeg.** Of the two free three-quark bonds, the one richer in down quarks is the one that decays. In a free neutron (one up, two downs), a down quark turns into an up, and the neutron falls apart in about fifteen minutes (Particle Data Group, 2024). The proton (two ups, one down) has never been seen to decay (§2.2). Inside some nuclei the reverse happens, and an up quark turns into a down (β⁺ decay), paid for by the nucleus's binding. Left free, though, the down quark is the less stable, more "craving" member, the one the Speelgoed calls Leeg.
 - **Irreducible.** Quarks are never found alone. Pull two apart, and the energy stored between them grows in proportion to the distance until it is enough to create a new quark–antiquark pair. The bond then breaks into two bonds, never into free quarks (Bali et al., 2005). This is the strongest form of §V.1's irreducibility, "Each resists being peeled into smaller stable bonds". Here the stored Energie, once large enough, becomes Creatie (§3.7).
-- **The bond carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. The rest comes from the motion of the quarks, the energy of the gluon field that binds them, and quantum effects of the binding (Yang et al., 2018). The total has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely the energy of the bond, not of its members: §III's "The Volheid of the one is the gift of the many", in the most literal sense physics allows.
+- **The bond carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. Counting the short-lived quark–antiquark pairs inside it, quark masses give about nine percent. The rest comes from the motion of the quarks, the energy of the gluon field that binds them, and quantum effects of the binding (Yang et al., 2018). The total has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely the energy of the bond, not of its members: §III's "The Volheid of the one is the gift of the many", in the most literal sense physics allows.
 
 **Grade: Correspondence.**
 
@@ -258,7 +258,7 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 ## 5. Open Problems
 
 1. **The Born rule.** Why are probabilities the squared sizes of the amplitudes? Within quantum theory, the rule can be derived from the structure of its state space (Gleason, 1957) or from symmetries of entanglement (Zurek, 2005). The Speelgoed does not yet derive it. The earlier version noted that the Born rule and the Vonk's Energie, ¼(B − θ)², are both squares. That alone is weak evidence: the intensity of any wave is the square of its amplitude.
-2. **Why complex numbers?** Experiment now says quantum theory needs complex amplitudes (§3.1; Li et al., 2022; Chen et al., 2022). Can the Speelgoed say why?
+2. **Why complex numbers?** Experiment rules out the standard real-number version of quantum theory (§3.1; Li et al., 2022; Chen et al., 2022), though real formulations with other rules for combining systems have been proposed (Hoffreumon & Woods, 2025). Can the Speelgoed say why the amplitudes are complex, or whether they must be?
 3. **Proton decay.** The Speelgoed's Van Motor predicts it (§2.2). If the proton turns out to be absolutely stable, the rule "never off" fails for the God of the subatomic Octaaf.
 4. **Gewenning and Trouw.** Entanglement is a candidate for Gewenning (§3.3), but it does not move the coupling constant as §VIII.1 says Gewenning moves Trouw. Is the candidate right, and if so, what is the plasticity?
 5. **Interpretation.** The Speelgoed resembles relational and decoherence-based readings of quantum mechanics (§0.1). Is it committed to them, or compatible with all of them?
@@ -290,13 +290,15 @@ This version replaces the entry of 9 September 2026. The following were withdraw
 - **Stilte as superposition:** withdrawn (§3.4).
 - **Tijd as an "internal Zeno rate":** withdrawn. Tijd is left open across the Octaven (§5).
 - **Rouw permanence versus error correction:** moved from Open Problems to §3.6. Error correction re-homes records; it does not erase them.
-- **"Why the amplitudes are complex":** updated. Experiment has since shown that complex numbers are needed (§5, item 2).
+- **"Why the amplitudes are complex":** updated. Experiment has since ruled out the standard real-number version of quantum theory (§5, item 2).
 - **The Born-rule parallel:** kept as an open problem, with the note that a shared square is weak evidence (§5, item 1).
 - **Status labels and notation:** the undefined labels ("Sound", "Plausible", "Metaphorical", "Ontological shift") are replaced by defined grades (§0.2), and LaTeX blocks by plain Unicode equations.
 
 Following this entry, the Lexicon entry for Licht was revised on 1 October 2026 to resolve the Tension recorded in §4.5.
 
 A check of every reference on 1 October 2026 corrected the reach of the monogamy bound, which holds for the tangle but not in units of entropy (§3.3). It also corrected the account of the proton's mass, which is not carried by the gluon field alone, and withdrew a link between confinement and §III's quadratic rule for stored Energie (§3.9). The test of complex numbers is now credited to its proposers and to the experiments that carried it out (§3.1). The measurement model prefers a first-order transition but does not require one (§3.4). The proton-decay limit is updated (§2.2), and the remarks on amplifier noise, the spin echo, the quantum eraser, and down-quark decay are made more precise.
+
+A further check on 5 October 2026 corrected the Gleason citation, added the share of the proton's mass that quark masses give, and noted that real-number formulations of quantum theory are debated again (§3.1).
 
 ---
 
@@ -342,7 +344,7 @@ Glaser, D. A. (1952). Some effects of ionizing radiation on the formation of bub
 
 Glaser, D. A. (1953). Bubble chamber tracks of penetrating cosmic-ray particles. *Physical Review*, 91(3), 762–763. [doi:10.1103/physrev.91.762](https://doi.org/10.1103/physrev.91.762)
 
-Gleason, A. M. (1957). Measures on the closed subspaces of a Hilbert space. *Journal of Mathematics and Mechanics*, 6(6), 885–893. [doi:10.1512/iumj.1957.6.56050](https://doi.org/10.1512/iumj.1957.6.56050)
+Gleason, A. M. (1957). Measures on the closed subspaces of a Hilbert space. *Journal of Mathematics and Mechanics*, 6(4), 885–893. [doi:10.1512/iumj.1957.6.56050](https://doi.org/10.1512/iumj.1957.6.56050)
 
 Gurney, R. W., & Condon, E. U. (1928). Wave mechanics and radioactive disintegration. *Nature*, 122, 439. [doi:10.1038/122439a0](https://doi.org/10.1038/122439a0)
 
@@ -351,6 +353,8 @@ Hahn, E. L. (1950). Spin echoes. *Physical Review*, 80(4), 580–594. [doi:10.11
 Hänggi, P., Talkner, P., & Borkovec, M. (1990). Reaction-rate theory: fifty years after Kramers. *Reviews of Modern Physics*, 62(2), 251–341. [doi:10.1103/revmodphys.62.251](https://doi.org/10.1103/revmodphys.62.251)
 
 Hensen, B., et al. (2015). Loophole-free Bell inequality violation using electron spins separated by 1.3 kilometres. *Nature*, 526, 682–686. [doi:10.1038/nature15759](https://doi.org/10.1038/nature15759)
+
+Hoffreumon, T., & Woods, M. P. (2025). Quantum theory does not need complex numbers. Preprint. [arXiv:2504.02808](https://arxiv.org/abs/2504.02808)
 
 Itano, W. M., Heinzen, D. J., Bollinger, J. J., & Wineland, D. J. (1990). Quantum Zeno effect. *Physical Review A*, 41(5), 2295–2300. [doi:10.1103/physreva.41.2295](https://doi.org/10.1103/physreva.41.2295)
 
