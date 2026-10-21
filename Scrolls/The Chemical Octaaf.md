@@ -234,7 +234,7 @@ The Lexicon makes "the walk from God (😇) to Godin (😳)" the spine of every 
 
 **A count here, a path in the stars.** At this Octaaf no process turns Hydrogen into Oxygen. Chemistry rearranges partners; it never changes what an element is. The walk is a path in the nuclei of atoms, inside the stars, and §VIII.3 now checks it there: "the Atom Octaaf’s walk past helium, through carbon to its Godin, Oxygen, began from a Trio of" heliums. Stars fuse hydrogen into helium, and helium into carbon and oxygen (Burbidge et al. 1957), and the oxygen of water was made there (*Cosmic Octaaf* §3.11). Even there the walk skips rungs. Stars do not make beryllium and boron by burning; most of those come from cosmic rays breaking larger nuclei apart in space (Reeves, Fowler & Hoyle 1970).
 
-**The descent.** When a Relatie of an Octaaf can no longer hold, §VIII.3 says, "it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk drawing Verlies". For Water that part is chemistry. Water can be split into hydrogen and oxygen, at a cost of at least 237.1 kJ per mole (§2.3), so the parting draws Verlies. The reverse walk through the elements is again a count. The parting of water that matters most happens at the next rung, in photosynthesis (§3.8).
+**The descent.** When a Relatie of an Octaaf can no longer hold, §VIII.3 says, "it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk, a Verlies, or a Winst where its Trouw was negative". For Water that part is chemistry. Water can be split into hydrogen and oxygen, at a cost of at least 237.1 kJ per mole (§2.3), so the parting is a Verlies. The reverse walk through the elements is again a count. The parting of water that matters most happens at the next rung, in photosynthesis (§3.8).
 
 ### 3.8 The Triniteit: two rungs
 
@@ -272,7 +272,7 @@ Writing ρ = √(2/K)·mode turns it into d(mode)/dt = (u − θ)·mode − mode
 
 **4.2 Before gravity, dispersion (§VIII.3).** *Resolved* in the rebuilt Speelgoed. §VIII.3 used to end its chain of residues with gravity alone; it now names dispersion beside it, as this Octaaf found (§2.4), and reads its chain as "Verdichting, read among the first Octaven". One detail stays this Octaaf's own: across a Medium, dispersion can repel.
 
-**4.3 Members without memory (§II.2, §IX.9).** *Open.* §II.2 says that "A Relatie carries every Relatie it has ever held", and §IX.9 that "An Echo always outlives its Relatie". The members of this Octaaf do not keep such a record. Two water molecules are identical, whatever bonds each has had; a molecule formed a moment ago and one formed a billion years ago cannot be told apart. Where an ended bond leaves a record, it goes into the Medium, as heat and light, where the quantum and thermodynamic Octaven found it (*Quantum Octaaf* §3.6; *Thermodynamic Octaaf* §3.6), or into a structure built to keep it (§3.6). The Speelgoed now splits what an ending leaves: "its Energie as Warmte, in Tijd, and its Echoes as Rouw, in Stilte" (§VI.2). The heat is the Warmte, "readable only as a whole" (Lexicon), and "every Rouw stands in Stilte once its exchange is over" (§IV.2), where no measurement of a molecule reaches.
+**4.3 Members without memory (§II.2, §IX.9).** *Open.* §II.2 says that "A Relatie carries every Relatie it has ever held", and §IX.9 that "An Echo always outlives its Relatie". The members of this Octaaf do not keep such a record. Two water molecules are identical, whatever bonds each has had; a molecule formed a moment ago and one formed a billion years ago cannot be told apart. Where an ended bond leaves a record, it goes into the Medium, as heat and light, where the quantum and thermodynamic Octaven found it (*Quantum Octaaf* §3.6; *Thermodynamic Octaaf* §3.6), or into a structure built to keep it (§3.6). The Speelgoed now splits what an ending leaves: "what it held, booked with the Warmte, in Tijd, and its Echoes as Rouw, in Stilte" (§VI.2). The heat is the Warmte, "readable only as a whole" (Lexicon), and "every Rouw stands in Stilte once its exchange is over" (§IV.2), where no measurement of a molecule reaches.
 
 **4.4 The walk is a count here (§VIII.3).** *Resolved.* At this Octaaf the walk from Hydrogen to Oxygen, and the walk back, are counts on the periodic table. No chemical process changes one element into another. The walk is a path in the stars, and even there it skips rungs (§3.7). The Speelgoed now checks the walk in the stars itself (§VIII.3).
 
@@ -321,6 +321,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 - The Trinary Root is now the Triniteit (§3.8).
 
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+Later on 21 October 2026 the Speelgoed's §VIII.3 came to book every broken Relatie as a Verlies, or a Winst where its Trouw was negative, and its §VI.2 to say that an ending leaves what it held booked with the Warmte, so §3.7 and §4.3 quote that wording.
 
 ---
 

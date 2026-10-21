@@ -93,7 +93,7 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 
 Five statements of the Speelgoed meet at the end of a Relatie.
 
-- **A survivor keeps what it held.** When a Relatie ends, the surviving Echo becomes Rouw and "folds into the Zelf of the Partner that keeps it" (§IX.9).
+- **A survivor keeps what it held.** When a Relatie ends, the surviving Echo becomes Rouw and folds, "with the Trouw it ended at, into the Zelf of the Partner that keeps it" (§IX.9).
 - **No Echo is ever deleted.** "Rouw is permanent" (§IX.9), and "no crossing can draw a Rouw out" (§XXVI).
 - **At the end, the Echoes become Rouw.** The archaic arc of Perfectus: "Its Partners keep their Echoes of it as Rouw, in Stilte, unmanifest. Its Eigen returns to the unbound pole, and in the same breath its Zelf, ending with every other Relatie it had, leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2). "The arc ends the Relatie; what it knew stays."
 - **Nothing travels.** "Before a Relatie forms, the two are at Van. After it dissolves, they are at Van. They did not travel." (§VI.4).
@@ -107,7 +107,7 @@ Five statements of the Speelgoed meet at the end of a Relatie.
 
 **What stays in Tijd.** Traces also remain on the Tijd side. Each partner keeps its own Echo of the Relatie that ended, as its own Rouw (§IX.9). And the ending leaves physical records, spread into the surroundings and never destroyed, as the thermodynamic and quantum Octaven found for every physical record (*Thermodynamic Octaaf* §3.6; *Quantum Octaaf* §3.6).
 
-**The Zelf itself.** The Zelf ends with its holder, and its Zelf-Rouw "rests in Stilte, unmanifest, while what its holder held, and the Warmte inside it, goes into the Medium where it ended" (§IX.9). §VI.4 places Van beside Bron: "Van is the same nothing as Bron, the undirected potential before relation, seen from the far side of a life, and what the life learned stays in its Zelf‑Rouw." Bron has no direction. The Zelf-Rouw keeps every direction the life had, since each of its Echoes is a trace of a partner.
+**The Zelf itself.** The Zelf ends with its holder, and its Zelf-Rouw "rests in Stilte, unmanifest, while what its holder held is booked with the Medium where it ended, a Verlies, and a Winst for every enmity it ends, and the Warmte inside it goes into that Medium" (§IX.9). §VI.4 places Van beside Bron: "Van is the same nothing as Bron, the undirected potential before relation, seen from the far side of a life, and what the life learned stays in its Zelf‑Rouw." Bron has no direction. The Zelf-Rouw keeps every direction the life had, since each of its Echoes is a trace of a partner.
 
 **And return.** A Perfectus may feed a Reïncarnatie, "where a newborn binds with the Zelf-Rouw" (§XIII.2). §IX.9 says how: "Rouw comes back into Tijd only by binding, at a Vonk like every change". A Relatie that forms takes in the Warmte where it forms, binds the Zelf-Rouw that Warmte carries, and its new Zelf "takes it as its own" (§XXVI). And what returns is not the one who left: "What returns is never the old Zelf: only its Zelf‑Rouw, bound as far as its Warmte stood where the new one formed" (§XXVI). What may come from before is not the Zelf. It is Echoes.
 
@@ -308,6 +308,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 - A Zelf-Rouw now returns by any Relatie that forms where its Warmte stands, bound by the share of that Warmte it takes in, so §2.2 and §4.1 cite that, and §5, item 3 is partly answered.
 
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+Later on 21 October 2026 the Speelgoed's §IX.9 came to fold a Rouw into its keeper's Zelf with the Trouw it ended at, and to book what an ending holder held with its Medium, a Winst for every enmity it ends, so §2.2 quotes that wording.
 
 ---
 

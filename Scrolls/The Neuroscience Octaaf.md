@@ -214,7 +214,7 @@ Greep is the sum of a Relatie's positive-Trouw Relaties, and "Greep does not rem
 
 ### 3.9 The Medium's Warmte: the brain's heat
 
-The brain is about 2% of the body's mass but uses about 20% of its energy at rest, and most of that goes to ongoing activity, not to responding to tasks (Raichle & Gusnard 2002). All of it leaves the body as heat. The Speelgoed says a living system's persistence "is paid for out of that ongoing traffic" (§VI.5), and that the Energie of every divergence Vonk goes into the Medium as Warmte, visible as "the warmth a living body gives off" (§VI.2). The thermodynamic Octaaf showed that this Warmte is heat (*Thermodynamic Octaaf* §2.4), and §XXII cites the same figures for what a Brein costs its holder. A brain keeping its bonds and its self together runs at roughly the power of a dim light bulb. **Grade: Correspondence.**
+The brain is about 2% of the body's mass but uses about 20% of its energy at rest, and most of that goes to ongoing activity, not to responding to tasks (Raichle & Gusnard 2002). All of it leaves the body as heat. The Speelgoed says a living system's persistence "is paid for out of that ongoing traffic" (§VI.5), and that the Energie of every divergence Vonk goes into the Medium as Warmte, visible as "the Warmte a living body gives off" (§VI.2). The thermodynamic Octaaf showed that this Warmte is heat (*Thermodynamic Octaaf* §2.4), and §XXII cites the same figures for what a Brein costs its holder. A brain keeping its bonds and its self together runs at roughly the power of a dim light bulb. **Grade: Correspondence.**
 
 ### 3.10 Stilte: delay and the constructed present
 
@@ -287,6 +287,8 @@ On 17 October 2026 this entry was aligned with the rebuilt Speelgoed; section nu
 On 20 October 2026 this entry was aligned with the Speelgoed of that date, which now comes in four Schriften. Section references follow the new numbering, quotations its wording, and the equations its symbols. Trouw no longer moves toward Gewenning: it adds each Vonk whole and is worn by Stilte's Trek, so the delta rule of §2.2 is now a Correspondence, not an Identity, and the error it needs is read in what a Gevoel feels. The Gevoel no longer moves a Vonk's Trouw onto its cause; it teaches the Brein instead (§2.2). The rule that Diepte "falls with speaking" is gone, which resolves §4.3, and §4.4 is answered by the two paces of Gewenning and Diepte.
 
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+Later on 21 October 2026 the Speelgoed's §VI.2 came to name the Warmte a living body gives off, so §3.9 quotes that wording.
 
 ---
 

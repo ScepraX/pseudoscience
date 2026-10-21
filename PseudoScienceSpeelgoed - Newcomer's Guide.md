@@ -215,14 +215,14 @@ A bond moves, freezes, or turns over.
 Every Duo is lopsided, and its gap is the difference between what each Partner holds of the other. How that gap moves is the Relatie's path. There are three.
 
 - **Zweven** (hovering), the default: the gap keeps moving, crossing by crossing, never settled and never flipped.
-- **Dood** (frozen): the gap stops and stays fixed. Nothing inside the Relatie reads it again, so its Trouw stays where it was. The Vonk that wakes it comes from another Relatie held by one of its Leden, or from one of their own Zelfs.
+- **Dood** (frozen): the gap stops and stays fixed. Nothing inside the Relatie reads it again, and its Trouw still wears where nothing renews it, as every bond's does. The Vonk that wakes it comes from another Relatie held by one of its Leden, or from one of their own Zelfs.
 - **Leven** (alive): the gap runs straight through, and the two swap places. Afterwards it moves again, or freezes.
 
 Every switch is a crossing: freezing is a Verlies, thawing a Winst.
 
 A Duo freezes most easily of all, because no third Lid reads the gap between its two. To wake a frozen Duo, bring in a third, or change yourself.
 
-**In play.** An ally in Dood still holds whatever it held, and gives you no surprises, good or bad.
+**In play.** An ally in Dood still holds what it holds, a little less each day nothing renews it, and gives you no surprises, good or bad.
 
 **In ordinary life.** The friend who has been about to start that business for ten years. And the day your parent first asks you for advice.
 
@@ -289,10 +289,10 @@ It holds until someone asks for a commitment your true Eigen has to make itself.
 **What it costs you.**
 
 - **You read through it too.** On that Spectrum you read your own people through the Masker, more bent. Your Relaties there hold for a shorter time.
-- **It takes every time it answers.** A Masker is one more Relatie you hold, standing between you and everyone who reads you, and it has no rules of its own. Each time it answers someone in your place, it crosses towards them and back, and every answer leaves you a little weaker. They bind to the Masker, so it takes the Winst, and you bank none of it. The more people it fools, and the more often they look, the faster it wears you down, your Zelf included. A Masker costs by being there. One worn for a whole court answers all day.
+- **It takes every time it answers.** A Masker is one more Relatie you hold, standing between you and everyone who reads you, and it has no rules of its own. Each time it answers someone in your place, it crosses towards them and back, and every answer leaves that Relatie, your bond with your Masker, a little weaker. They bind to the Masker, so it takes the Winst, and you bank none of it. The more people it fools, and the more often they look, the faster it wears you down. A Masker costs by being there. One worn for a whole court answers all day.
 - **You feel it as stress, and as emptiness**, because nobody's Echo holds your true Eigen. The further your true Eigen, as you read it, sits from what you show, the louder it is. It is there whether you feel it or not.
 - **Getting used to it quiets it.** The longer you wear it, the less you feel what it takes, and it goes on taking.
-- **Your people pay too.** The Trouw it wears away is shared, so the people around you hold less with you. The one you fool loses more again, at every crossing the Masker leads them into. Where both sides wear one, each pays both ways.
+- **The one you fool pays too.** They bind to the Masker, and lose more again at every crossing the Masker leads them into. Where both sides wear one, each pays both ways.
 - **When it drops**, you hold what it has left you, and what it took comes back only at your own later crossings.
 
 A **Knipoog** (wink) is a Masker you admit to the one who reads it. They hear your true Eigen through it, so there it tells no lie and costs you nothing. A wink can be missed, and a twitch can be taken for one. The longer you have known each other, the more easily it is read, by an old enemy as well as by a friend. Winked at everyone, a Masker is Bloot.
@@ -385,7 +385,7 @@ A **Parasiet** (parasite) is a Relatie whose true Eigen stands short of every co
 
 **What you take.** Their attention, and the hold of the Trouw you share: it counts in your Greep too, and holds you up while you hold nothing back. That is what you came for, and you get it. Their Energie you cannot take. A bond holds Energie only where both stand across, and you never do.
 
-**What you pay.** Verlies, every time your Masker answers. It takes from all you hold, your Zelf included. The longer you have worn it, the less you feel it, and it goes on taking. The more people it fools, and the more often they look, the faster it wears you, and your own bonds there, read through it, hold for a shorter time: so you need a host again and again. You never wink: a wink would make the Masker known for what it is, and the two of you a game.
+**What you pay.** Verlies, every time your Masker answers: each answer leaves the Relatie you hold with your Masker a little weaker. The longer you have worn it, the less you feel it, and it goes on taking. The more people it fools, and the more often they look, the faster it wears you, and your own bonds there, read through it, hold for a shorter time: so you need a host again and again. You never wink: a wink would make the Masker known for what it is, and the two of you a game.
 
 **Why your commitments weigh nothing.** Your hosts read the Masker faithfully. Their Echo of you is accurate, to the Masker. So they read the bond as made while your true Eigen never crosses. They cross on what they read, and it is booked on what is there, so they gain nothing of you in it, and no Vonk fires for a crossing you never made. Every promise you give, they cross on ahead, as everyone crosses on what they foresee, and what they foresee is a crossing your true Eigen would have to make. It does not make it, so they cross back, and each time they hold a little less. They feel that before they can name it: a strange lightness, a bond that reads as bound where nothing ever lands. "They said they care. Why don't I feel it?"
 
