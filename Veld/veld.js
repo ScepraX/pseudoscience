@@ -1072,13 +1072,11 @@
   var PRESETS = {
     instantie: { v: {}, note: "The values this page opens with." },
     cold: { v: { "s-warmte": 0.6, "s-ups": 0.7, "s-lm": 0.03 },
-      note: "Little Warmte, little Vervorming and little wear: few Relaties form, and those that do last." },
-    hot: { v: { "s-warmte": 1.8, "s-ups": 1.3, "s-lm": 0.08 },
-      note: "Much Warmte, Vervorming and wear: Relaties form and end four or five times as often, and the field fills." },
+      note: "Little Warmte, little Vervorming and little wear: about a fifth as many Relaties form, and the field stays quiet." },
+    hot: { v: { "s-warmte": 1.4, "s-ups": 1.2, "s-lm": 0.07 },
+      note: "Much Warmte, Vervorming and wear: Relaties form and end nearly three times as often, and the field fills to its limit." },
     deep: { v: { "s-rho": 0.9, "s-y0": 0.9 },
-      note: "Each Vonk moves its Trouw far, and every Relatie opens deep: bonds run deeper." },
-    light: { v: { "s-rho": 0.25, "s-y0": 0.35 },
-      note: "Each Vonk moves its Trouw a little, and Relaties open shallow: light bonds, more of them in Naar." },
+      note: "Each Vonk moves its Trouw far, and every Relatie opens deep: bonds run about twice as deep." },
     crowd: { v: { "s-init": 24, "s-max": 32, "s-reach": 0.25 },
       note: "Many Solos, each reaching only those near it." }
   };

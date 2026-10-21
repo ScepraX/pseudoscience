@@ -56,7 +56,7 @@
   var DEFAULTS = {
     // the Octaaf: how its Leden learn, and how a place on its Spectrum is read
     rho: 0.5,            // ρ, the Leersnelheid
-    y0: 0.6,             // y⁰, the Trouw a Relatie opens at
+    y0: 0.4,             // y⁰, the Trouw a Relatie opens at
     gZ: 0.08, gz: 0.08,  // g_Z and g_z, how fast Gewenning and Diepte grow
     kZ: 0.02,            // κ_Z, how much Gewenning fades at every look its holder takes
     kz: 0.03,            // κ_z, how much Diepte fades at a look of its Zelf, less the more it holds besides
@@ -64,8 +64,9 @@
     alphaW: 0.3,         // α: how far from its Echo a look still finds it near
     Tt: 3,               // T_t, the Energie that quickens a Tijd e-fold
     beta: 0.05,          // β, how Diepte colours a reading, zero between equals
-    W: 0.6,              // W, where the God stands on this Spectrum: every Relatie's Vol pole
-    S0: 0.9, Y0: 3,      // Vol/Leeg v reads as Leeg S = S0·(1 − v) and Zelf's Trouw y_ii = Y0·v
+    W: 0.4,              // W, where the God stands on this Spectrum: every Relatie's Vol pole
+    S0: 0.42, Y0: 2.2,   // Vol/Leeg v reads as Leeg S = S0·(1 − v) and Zelf's Trouw y_ii = Y0·v:
+                         // the Leeg alone never reaches a Drempel, so every Drempel can fork (§XXVIII.5)
     share: 0.5,          // how a newborn's Trouw is shared among its parents, by their Vol/Leeg
     // the Medium
     tauM: 0.7,           // τ_◌, its pace
@@ -75,15 +76,15 @@
     Lm: 0.05,            // L_◌, what one look of a Zelf at itself wears where no Marge holds it
     kMed: 0.03,          // its share of ‖υ‖ for each unit of Warmte it keeps per Lid, over a reach
     ageMed: 120,         // the age, in seconds, at which a Relatie's Medium share has doubled
-    warmte: 1.2,         // the Warmte it holds for every Lid when the Veld opens
+    warmte: 0.8,         // the Warmte it holds for every Lid when the Veld opens
     // each Lid draws its own values within these
-    theta: [0.85, 1.05], vol: [0.1, 0.4], volNew: [0.05, 0.2], D: [0.8, 1.2], t0: [0.8, 1.0],
-    lam0: [3.0, 4.0], ups: [0.15, 0.25], upsR: [0.02, 0.04], lean: [0.2, 0.6], gR: [0.3, 0.7],
+    theta: [0.64, 0.84], vol: [0.1, 0.4], volNew: [0.05, 0.2], D: [0.8, 1.2], t0: [0.8, 1.0],
+    lam0: [3.0, 4.0], ups: [0.255, 0.425], upsR: [0.02, 0.04], lean: [0.2, 0.6], gR: [0.3, 0.7],
     thetaA: [0.2, 0.28], etaA: [0.06, 0.1], thetaPi: [0.08, 0.12],
     // each Relatie of Leden draws its own
-    thetaK: [0.45, 0.7], // its Drempel, in y⁰: above its Leeg once worn, so a worn Duo can end
+    thetaK: [0.31, 0.76], // its Drempel, in y⁰: above its Leeg once worn, so a worn Duo can end
     SKb: [0.0, 0.05],    // its Leeg at its birth
-    thetaNew: [0.7, 0.9],
+    thetaNew: [0.47, 0.67],
     // the page
     nInit: 9, nMax: 16, fadeTime: 2.5
   };
@@ -1176,11 +1177,31 @@
   Field.prototype.setSize = function (W, Hh) {
     if (W > 0 && Hh > 0) { this.W = W; this.H = Hh; this.place(0); }
   };
+  // the drawing follows the Solos: it frames where they stand on the
+  // Medium, easing as they are born, end and move, and never closer than
+  // two fifths of the Medium. Nothing in the Veld reads it.
+  Field.prototype.fitView = function (dt) {
+    var x0 = Infinity, y0 = Infinity, x1 = -Infinity, y1 = -Infinity, m = 0.09, i, n, c;
+    for (i = 0; i < this.nodes.length; i++) {
+      n = this.nodes[i];
+      if (n.state !== "live") continue;
+      x0 = Math.min(x0, n.hx); x1 = Math.max(x1, n.hx); y0 = Math.min(y0, n.hy); y1 = Math.max(y1, n.hy);
+    }
+    if (x0 > x1) { x0 = 0; x1 = this.bw; y0 = 0; y1 = this.bh; m = 0; }
+    x0 -= m; x1 += m; y0 -= m; y1 += m;
+    if (x1 - x0 < 0.4 * this.bw) { c = (x0 + x1) / 2; x0 = c - 0.2 * this.bw; x1 = c + 0.2 * this.bw; }
+    if (y1 - y0 < 0.4 * this.bh) { c = (y0 + y1) / 2; y0 = c - 0.2 * this.bh; y1 = c + 0.2 * this.bh; }
+    var v = this.view, k = dt > 0 ? 1 - Math.exp(-dt / 4) : 1;
+    if (!v) v = this.view = { x0: 0, y0: 0, x1: this.bw, y1: this.bh };
+    v.x0 += (x0 - v.x0) * k; v.x1 += (x1 - v.x1) * k; v.y0 += (y0 - v.y0) * k; v.y1 += (y1 - v.y1) * k;
+  };
   Field.prototype.frame = function () {
-    var s = Math.min(this.W / this.bw, this.H / this.bh);
-    return { s: s, ox: (this.W - s * this.bw) / 2, oy: (this.H - s * this.bh) / 2 };
+    var v = this.view || { x0: 0, y0: 0, x1: this.bw, y1: this.bh }, w = v.x1 - v.x0, h = v.y1 - v.y0;
+    var s = Math.min(this.W / w, this.H / h);
+    return { s: s, ox: (this.W - s * w) / 2 - s * v.x0, oy: (this.H - s * h) / 2 - s * v.y0 };
   };
   Field.prototype.place = function (dt) {
+    if (dt > 0 || !this.view) this.fitView(dt);
     var f = this.frame(), s = f.s, nodes = this.nodes, i, j, k, a, c, t = this.t;
     var L = Math.min(this.W, this.H), ease = dt > 0 ? 1 - Math.exp(-dt / 0.9) : 1;
     for (i = 0; i < nodes.length; i++) {
