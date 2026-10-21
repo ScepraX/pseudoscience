@@ -4,3 +4,8 @@ kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
   # The Sources sit in a <details> block; read the Markdown inside it.
   parse_block_html: true
+
+# Working notes for Claude: kept in the repository, never built into the site
+# (they quote Liquid and kramdown syntax on purpose).
+exclude:
+  - CLAUDE.md
