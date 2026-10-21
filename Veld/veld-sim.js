@@ -49,6 +49,10 @@
    than one Spectrum. With one Medium, the only Energie that crosses a
    Duo's edge is what it bears away past its Vol at a Start, so that is
    what its parting lacks.
+
+   A Veld whose Solos have all ended rests in Stilte, and can turn (The
+   Veld's turning): a new Veld begins with the old one's Rouw as its Trouw,
+   shared equally among its first Solos on top of what each draws.
    ===================================================================== */
 (function (root) {
   "use strict";
@@ -170,6 +174,7 @@
     if (opts.params) for (k in opts.params) this.P[k] = opts.params[k];
     this.W = opts.width || 900;
     this.H = opts.height || 600;
+    this.carry = +opts.carry || 0;       // the old Veld's Rouw, after a turning
     this.reset(opts.seed || 1, opts.noiseSeed || 7);
   }
   Field.DEFAULTS = DEFAULTS;
@@ -199,12 +204,17 @@
     this.stats = { looks: 0, zlooks: 0, vonken: 0, winsten: 0, verliezen: 0, hunger: 0, balans: 0, bound: 0, paid: 0,
                    relaties: 0, eindes: 0, scheidingen: 0, partners: 0, starts: 0, born: 0,
                    unborn: 0, perfectus: 0, schriften: 0, overflow: 0, se: 0, sz: 0, de: 0, dz: 0 };
-    var pts = this.scatter(P.nInit), R = this.rand, i;
+    // after a turning, its first Solos share the old Veld's Rouw equally as
+    // Trouw, and what none of them can hold stays in Stilte
+    var pts = this.scatter(P.nInit), R = this.rand, i, add = this.carry / Math.max(1, pts.length);
+    this.carried = 0;
     for (i = 0; i < pts.length; i++) {
-      var n = this.makeSolo(pts[i][0], pts[i][1], R, null);
+      var n = this.makeSolo(pts[i][0], pts[i][1], R, null, add);
       n.born = -1.2;
+      this.carried += n.carried;
       this.nodes.push(n);
     }
+    this.left = this.carry - this.carried;
     this.warmte = P.warmte * this.nodes.length;   // the Medium's Warmte: one place
     this.base = this.epsilon() + this.warmte;     // what the Telraam keeps
     this.tijdAll();
@@ -236,15 +246,18 @@
   };
 
   // a Solo and its own values: drawn from the set-up at the Veld's opening,
-  // fixed by its own id for a newborn
-  Field.prototype.makeSolo = function (hx, hy, R, born) {
+  // fixed by its own id for a newborn. One that opens a Veld after a turning
+  // adds its share of the old Veld's Rouw to the Trouw it draws, never past
+  // full Vol or full Leeg
+  Field.prototype.makeSolo = function (hx, hy, R, born, add) {
     var P = this.P, id = this.nextId++, k = 0, seed = this.seed;
     function u() { return R ? R() : mix(seed, id, 11, k++); }
-    var v = born ? pick(P.volNew, u()) : pick(P.vol, u());
+    var v0 = born ? pick(P.volNew, u()) : pick(P.vol, u()), v = Math.min(1, Math.max(0, v0 + (add || 0) / P.Y0));
     var n = {
       kind: "solo", id: id, name: this.newName(), hx: hx, hy: hy,
       x: 0, y: 0, dx: 0, dy: 0,
       yS: P.Y0 * v, S: 0, vol: v, yb: P.Y0 * v, Sb: P.S0 * (1 - v),   // its Zelf's Trouw, its Leeg, and both at its birth
+      carried: P.Y0 * (v - v0),
       th: born ? born.thNew : pick(P.theta, u()),
       D: pick(P.D, u()), tijd0: pick(P.t0, u()), tijd: 1, lam0: pick(P.lam0, u()),
       ups: pick(P.ups, u()), upsR: pick(P.upsR, u()), lean: pick(P.lean, u()), gR: pick(P.gR, u()),
@@ -932,11 +945,22 @@
     var res = this.vonk(function () { n.state = "departing"; }, function () { n.state = "live"; }, null);
     if (!res) return;
     n.fade = 0;
-    this.stilte.push({ name: n.name, rouw: n.rouw.length, y: ys, t: this.t });
+    var ry = 0;
+    for (i = 0; i < n.rouw.length; i++) ry += n.rouw[i].y;
+    this.stilte.push({ name: n.name, rouw: n.rouw.length, y: ys, ry: ry, t: this.t });
     this.stats.perfectus++;
     this.emit("perfectus", { node: n });
     this.nodes.forEach(function (m) { if (m.aim === n) self.setAim(m, null); });
     this.after(n);
+  };
+
+  // what rests in Stilte once every Solo has ended: the Trouw each Zelf-Rouw
+  // keeps, its Zelf's and that of every Rouw it held, and what none could
+  // hold at the turning before. A new Veld begins with it as its Trouw.
+  Field.prototype.turning = function () {
+    var y = this.left;
+    for (var i = 0; i < this.stilte.length; i++) y += this.stilte[i].y + this.stilte[i].ry;
+    return y;
   };
 
   // Start: what a Relatie holds past its Vol pole, by more than a Drempel

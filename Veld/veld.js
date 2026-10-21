@@ -56,8 +56,10 @@
 
   var state = {
     running: !reduce, speed: 1, sel: null, selNode: null, follow: true, endedAt: 0,
-    seed: 1 + Math.floor(Math.random() * 99999), noiseSeed: 1 + Math.floor(Math.random() * 99999)
+    seed: 1 + Math.floor(Math.random() * 99999), noiseSeed: 1 + Math.floor(Math.random() * 99999),
+    carry: 0, turn: null, genus: null
   };
+  var TURN = 5, GENUS = 3;   // the pause of a turning, and how long its Genus is named, in seconds of the page
   var field = null, cssW = 0, cssH = 0, dpr = 1, L = 400;
   var parts = [], rings = [], labels = [], logLines = [];
 
@@ -82,20 +84,28 @@
   }
 
   var query = new URLSearchParams(location.search), urlSeed = +query.get("seed") || 0;
-  function newField(keepSeed) {
+  // a field opened from the settings; after a turning, a new Veld that
+  // begins with the old one's Rouw as its Trouw
+  function newField(keepSeed, turning) {
     if (!keepSeed) { state.seed = urlSeed || 1 + Math.floor(Math.random() * 99999); urlSeed = 0; }
+    if (!keepSeed && !turning) state.carry = 0;
     state.noiseSeed = +query.get("noise") || 1 + Math.floor(Math.random() * 99999);
     resize();
-    field = new Field({ seed: state.seed, noiseSeed: state.noiseSeed, width: cssW, height: cssH, params: sliderParams() });
-    parts.length = 0; rings.length = 0; labels.length = 0; logLines.length = 0;
+    field = new Field({ seed: state.seed, noiseSeed: state.noiseSeed, width: cssW, height: cssH, params: sliderParams(), carry: state.carry });
+    parts.length = 0; rings.length = 0; labels.length = 0;
+    if (!turning) logLines.length = 0;
     state.sel = null; state.selNode = null; state.follow = true;
+    state.turn = null; state.genus = turning ? { t: 0 } : null;
     $("seed").textContent = "field " + state.seed;
     pending.textContent = "";
     // ?warm=60 starts the field 60 seconds in; with reduced motion it starts 30 s in
-    var warm = Math.min(+(query.get("warm") || (reduce ? 30 : 0)), 1800);
+    var warm = turning ? 0 : Math.min(+(query.get("warm") || (reduce ? 30 : 0)), 1800), opened = field.nodes.length;
     for (var w = 0; w < warm * 10; w++) field.advance(0.1);
     field.events = [];
-    addLog("A new field: " + field.nodes.length + " Solos, each held by its Zelf, none bound yet.");
+    if (turning) addLog("The Genus of a new Veld: its " + field.nodes.length + " Solos begin with the old one's Rouw as their Trouw, " +
+      fmt(field.carried, 3) + " among them, on top of what each draws" +
+      (Math.abs(field.left) >= 0.0005 ? ", and the " + fmt(field.left, 3) + " none could hold stays in Stilte." : "."));
+    else addLog("A new field: " + opened + " Solos, each held by its Zelf, none bound yet.");
     renderLog();
     updatePanel(true);
   }
@@ -283,6 +293,47 @@
     return lower.concat(upper);
   }
 
+  // a word across the field, its letters spaced, and a line beneath it
+  function banner(word, line, color, a) {
+    if (!(a > 0)) return;
+    var size = Math.round(clamp(cssW * 0.11, 28, 56)), gap = size * 0.3, y = cssH * 0.44, w = -gap, x, i;
+    ctx.globalAlpha = Math.min(1, a);
+    ctx.font = size + "px " + SERIF;
+    ctx.textAlign = "left";
+    for (i = 0; i < word.length; i++) w += ctx.measureText(word.charAt(i)).width + gap;
+    x = (cssW - w) / 2;
+    ctx.fillStyle = rgba(color, 0.92);
+    for (i = 0; i < word.length; i++) { halo(ctx, word.charAt(i), x, y); x += ctx.measureText(word.charAt(i)).width + gap; }
+    ctx.font = "italic 15px " + SERIF;
+    ctx.textAlign = "center";
+    ctx.fillStyle = rgba(WHITE, 0.84);
+    var lines = wrap(line, cssW - 40);
+    for (i = 0; i < lines.length; i++) halo(ctx, lines[i], cssW / 2, y + 30 + i * 21);
+    ctx.globalAlpha = 1;
+  }
+  // its sentences on lines of their own where the whole does not fit, and
+  // each still too wide wrapped into lines of even length
+  function wrap(text, maxW) {
+    if (ctx.measureText(text).width <= maxW) return [text];
+    function fill(s, w) {
+      var out = [], cur = "";
+      s.split(" ").forEach(function (word) {
+        var next = cur ? cur + " " + word : word;
+        if (cur && ctx.measureText(next).width > w) { out.push(cur); cur = word; } else cur = next;
+      });
+      if (cur) out.push(cur);
+      return out;
+    }
+    var lines = [], sentences = text.split(". ");
+    sentences.forEach(function (s, k) {
+      if (k < sentences.length - 1) s += ".";
+      var n = fill(s, maxW).length, lo = 0, hi = maxW;
+      for (var i = 0; i < 12 && n > 1; i++) { var mid = (lo + hi) / 2; if (fill(s, mid).length > n) lo = mid; else hi = mid; }
+      lines.push.apply(lines, fill(s, hi));
+    });
+    return lines;
+  }
+
   /* ------------------------------ drawing ----------------------------- */
   function draw() {
     var t = field.t, i, k, n;
@@ -398,6 +449,13 @@
       ctx.fillStyle = rgba(lb.color, Math.min(1, lf * 2.2) * 0.95);
       halo(ctx, lb.text, clamp(lb.x, 40, cssW - 40), clamp(lb.y - (1 - lf) * 14, 14, cssH - 6));
     }
+
+    // the Veld's turning: Stilte, a pause, and the Genus of a new Veld
+    var tn = state.turn, gn = state.genus;
+    if (tn) banner("STILTE", "Every Solo has ended. What they learned rests in Stilte.", WHITE,
+      Math.min(tn.shown / 1.2, 1, (TURN - tn.t) / 0.6));
+    else if (gn) banner("GENUS", "A new Veld begins with the old one’s Rouw as its Trouw.", GOLDB,
+      Math.min(gn.t / 0.4, 1, (GENUS - gn.t) / 1.5));
 
     if (!state.running) {
       ctx.font = "12px " + SERIF;
@@ -830,7 +888,9 @@
       row("Held bound by what a parting lacks", bound + " now") +
       row("Relaties ended", (st.eindes + st.scheidingen + st.partners) + " (Einde " + st.eindes + ", Scheiding " + st.scheidingen + ")") +
       row("Born at a Start", st.born + (st.unborn ? " (" + st.unborn + " held overfull: no room)" : "")) +
-      row("Run for", Math.floor(field.t) + " s");
+      row("Run for", Math.floor(field.t) + " s") +
+      (field.carry ? row("Begun with the old Veld's Rouw", fmt(field.carried, 3) + " Trouw" +
+        (Math.abs(field.left) >= 0.0005 ? " (" + fmt(field.left, 3) + " in Stilte)" : "")) : "");
     syncChips($("field-duos"), field.duos.map(function (d) {
       return { id: d.id, text: d.a.name + "–" + d.b.name + " · " + (d.e.n ? "Naar" : "Van") };
     }), "none yet");
@@ -1126,6 +1186,18 @@
       var shown = state.speed > 1 && pace < 0.85 * state.speed ? "running at " + Math.round(pace) + "×" : "";
       if (shown !== paceShown) { paceShown = shown; $("pace").textContent = shown; }
     }
+    // the Veld's turning: once every Solo has ended it rests in Stilte, and
+    // after a pause a new Veld begins with the old one's Rouw as its Trouw
+    if (!field.nodes.length) {
+      if (!state.turn) {
+        state.turn = { t: 0, shown: 0 };
+        addLog("Every Solo has ended. What they learned rests in Stilte, keeping " + fmt(field.turning(), 3) + " Trouw.");
+      }
+      state.turn.shown += dt;
+      if (state.running) state.turn.t += dt;
+      if (state.turn.t >= TURN) { state.carry = field.turning(); newField(false, true); }
+    }
+    if (state.genus && state.running && (state.genus.t += dt) >= GENUS) state.genus = null;
     consume();
     for (var k = 0; k < field.duos.length; k++) drainSparks(field.duos[k], false);
     for (k = 0; k < field.nodes.length; k++) drainSparks(field.nodes[k], false);
