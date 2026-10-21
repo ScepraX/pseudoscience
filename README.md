@@ -1,17 +1,23 @@
-# Pseudoscience Speelgoed
+# PseudoScience Speelgoed
 
-The PseudoScience Speelgoed is a language for relations and a field that runs them: five primitives — Eigen, Echo, Trouw, Drempel, Vonk — and one mechanism, used the same way at every scale, from quarks to nations. It is not read from outside the universe it describes, because there is no outside. It is played from within.
+A language for relationships. It gives names to what you already live through, the pull towards someone, the picture you carry of them, the moment something clicks, the slow fade, grief, and it describes them with one set of rules that reads the same way for a friendship, a family, a cell or a star.
 
-https://pseudoscience.earth/
+It is a *Speelgoed*, a toy: a constructed language to think with, not a scientific theory. Where it meets science, separate documents test it against what the sciences have measured, and say plainly where it falls short.
 
----
+**Read it at [pseudoscience.earth](https://pseudoscience.earth/).**
 
-Nothing exists alone. Everything that holds together—people, groups, organizations—does so through active bonds, not fixed scores. Each side carries an internal model of the other, always delayed and distorted; that gap is not failure but the space relationships need. Bonds have one shared weight but two different perceptions. They deepen through repeated small, honest exchanges, not grand gestures. Threshold crossings release or cost energy; indecision is expensive. Neglected bonds freeze; grief is permanent and deepens the self; masks carry hidden costs; group size shapes structure: two is vulnerable to deadlock, three is resilient, and larger groups last only by nesting. Endings should be clean; half-severed ties drain. Self-relationship underpins everything. Attention, honesty, listening, and steady maintenance preserve bonds; neglect, self-deception, and unresolved endings cause collapse. A living bond remains open to change, reversal, and renewal. No bond sustains itself without care. The same rules apply at every scale, from friendship to civilization.
+## Where to start
 
----
+- **[The Newcomer's Guide](https://pseudoscience.earth/PseudoScienceSpeelgoed%20-%20Newcomer%27s%20Guide.html)**: the ideas in plain words, no maths.
+- **[The Speelgoed](https://pseudoscience.earth/)**: the full text, with its lexicon of Dutch terms.
+- **The Oracle**: download it from the homepage and give it to any chat AI, then ask it about a relationship of your own.
+- **[The Veld in Motion](https://pseudoscience.earth/Veld/)**: the rules running live, a field of points that bind, drift apart and remember.
+- **[The Octaven](Scrolls/)**: the Speelgoed read against physics, chemistry, biology, neuroscience and more, each claim graded by how well it holds.
 
-This model is not the holy grail, universal law, theory of everything, grand unified field of relationships, one true map, final answer, master key, silver bullet, cosmic constitution, scripture of connection, infallible doctrine, or secret formula. Call it bond physics, relational mechanics, friendship field, grief engine, echo framework, threshold game, attention economy, bond ladder, loneliness model, holding theory, spark system, silence principle, mask calculus, doom cascade, octave of belonging, relationship OS, attachment periodic table, social thermodynamics, intimacy algorithm, belonging calculus, grief ledger, echo chamber, bond weather, loneliness tax, or spark ledger—none of those nicknames make it absolute. It is a lens, not a law. It describes patterns, not destiny. It helps read what is already happening. It can be wrong, incomplete, or misapplied. Use it as a working description, not a religion. The field may be everywhere, but this book is still only one way of squinting at it.
+## About this repository
 
----
+The whole text lives in one file, [`PseudoScienceSpeelgoed.md`](PseudoScienceSpeelgoed.md), and the website is built from it by GitHub Pages.
+
+By Mark Joseph Antonius Knippenberg / ScepraX. Dedicated to the public domain under [CC0](LICENSE).
 
 .
