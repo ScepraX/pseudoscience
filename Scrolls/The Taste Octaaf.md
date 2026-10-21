@@ -8,7 +8,7 @@
 
 ## Abstract
 
-Many people report that a food tastes best in the place it comes from: Gouda in the Netherlands, beer and *frites* in Belgium, espresso in Italy. This paper asks what is actually known about that effect, and what the PseudoScience Speelgoed can add to it. The direct claim, that the *same* food tastes better at its origin than abroad, has not been tested head-on. The evidence around it is strong. Telling people where a food comes from changes how it tastes to them. The place, sounds and company in which a food is eaten change ratings of it. Expectations shape perception, and they shape the brain's response to flavour. And familiarity built through repeated exposure raises liking. Read through the Speelgoed, these findings form one mechanism. A food's own properties (its **Eigen**) reach the eater only as an **Echo**, a lagging and imperfect percept that is shaped by the **Medium** it passes through and that starts from what the eater already expects. Origin information and familiarity raise the weight of the eater's bond with the food (**Trouw**). The moment of "this is good" is a threshold crossing (a **Vonk**), which fires more strongly the further the bond clears its threshold. The mechanism also predicts when origin should *lower* ratings rather than raise them, and why a favourite food eaten every day stops delighting. It also points to a rival explanation the effect must be separated from: abroad, the food is often not the same food. The paper ends with a test design that could tell these accounts apart.
+Many people report that a food tastes best in the place it comes from: Gouda in the Netherlands, beer and *frites* in Belgium, espresso in Italy. This paper asks what is actually known about that effect, and what the PseudoScience Speelgoed can add to it. The direct claim, that the *same* food tastes better at its origin than abroad, has not been tested head-on. The evidence around it is strong. Telling people where a food comes from changes how it tastes to them. The place, sounds and company in which a food is eaten change ratings of it. Expectations shape perception, and they shape the brain's response to flavour. And familiarity built through repeated exposure raises liking. Read through the Speelgoed, these findings form one mechanism. A food's own properties (its **Eigen**) reach the eater only as an **Echo**, a lagging and imperfect percept that is shaped by the **Medium** it passes through and that starts from what the eater already expects. Origin information raises the weight of the eater's bond with the food (**Trouw**), and familiarity sets the scale it is tasted in. The moment of "this is good" is a threshold crossing (a **Vonk**), and near the threshold a small change in the bond decides how often it fires. The mechanism also predicts when origin should *lower* ratings rather than raise them, and why a favourite food eaten every day stops delighting. It also points to a rival explanation the effect must be separated from: abroad, the food is often not the same food. The paper ends with a test design that could tell these accounts apart.
 
 ---
 
@@ -66,68 +66,66 @@ The direct comparison has not been made: the same food, eater and information, a
 
 ## III. The Mechanism in the Speelgoed
 
-### III.1 Eating is a Koppel
+### III.1 Eating is a Relatie
 
-The Speelgoed defines a **Koppel** as two systems linked by a shared weight (**Trouw**) and two imperfect traces of each other (**Echoes**). An eater and a food they know are such a bond: the eater carries a long-standing relationship with the food, a **Relatie**. Each tasting is also a momentary act of observation, and §IV of the Speelgoed says: "Every act of observation is a Vermenigvuldiging (\*) of this form." Underneath both runs the eater's bond with themself, the **Zelf**. §IV calls this layering "Maximum: stages 3, 4, and 5 at once". A bite of a familiar food engages all three bonds at once.
+The Speelgoed defines a **Relatie** as "Two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others" (§II.2). An eater and a food they know are such a bond: the eater carries a long-standing Relatie with the food, held by one shared weight (**Trouw**) and read through imperfect traces (**Echoes**). Each tasting is also a momentary act of observation, and §VII.3 of the Speelgoed says: "Every act of observation is a Vermenigvuldiging (\*) of this form." Underneath both runs the eater's bond with themself, the **Zelf**. §VII allows exactly this layering: "At most, stages 3, 4 and 5 run at once for a Duo". A bite of a familiar food engages all three bonds at once.
 
 ### III.2 The food's Eigen is stable; its Echo is not
 
-The food's **Eigen** is its physical make-up. For Gouda, this includes the γ-glutamyl peptides that give matured Gouda its long-lasting, mouth-filling "kokumi" sensation, which develops with ripening (Toelstede, Dunkel & Hofmann 2009; on Gouda ripening generally, van den Berg, Meijer, Düsterhöft & Smit 2004). What the eater experiences is not the Eigen but an **Echo** of it. The Speelgoed (§II) describes an Echo as "a lagging, imperfect impression, the way a shout comes back off a canyon wall quieter and later than it left, shaped by whatever it crossed to get back". What it crosses is the **Medium (◌)**, which the Lexicon defines as "the channel that makes Vertraging and Vervorming possible": transport lag and distortion.
+The food's **Eigen** is its physical make-up. For Gouda, this includes the γ-glutamyl peptides that give matured Gouda its long-lasting, mouth-filling "kokumi" sensation, which develops with ripening (Toelstede, Dunkel & Hofmann 2009; on Gouda ripening generally, van den Berg, Meijer, Düsterhöft & Smit 2004). What the eater experiences is not the Eigen but an **Echo** of it. The Speelgoed (§II.2) describes an Echo as "later and fainter than what it tracks, and shaped by whatever it crossed", "the way a shout comes back off a canyon wall". What it crosses is the **Medium (◌)**, of which the Lexicon says: "the time that takes is Vertraging, and what it crosses adds Vervorming to the Echo that reads it". That is transport lag and distortion.
 
-The Speelgoed's Echo equation (§VIII.1) makes this precise:
+The Speelgoed's Echo equation (§XV), in its first-order limit (no Traagheid, I = 0) and with no colouring by Diepte (β = 0), makes this precise:
 
 ```
-τ · ḣ(t) = e(t − δ) − h(t) + υ(t)
+τ · Ė(t) = x(t − δ) − E(t) + υ(t)
 ```
 
-Here e is the food's Eigen, h the eater's percept, δ a lag, τ a relaxation time, and υ the distortion added by the Medium. Two features of this equation correspond to the evidence.
+Here x is the food's Eigen, E the eater's percept, δ a lag, τ a relaxation time, and υ the distortion added by the Medium. Two features of this equation correspond to the evidence.
 
-- **Expectation is the starting point.** A percept does not start from nothing. It starts from what the eater already carries, the expectation built from earlier tastings and from the situation (Barsalou 2003). Write that starting value as h₀. If the food's signal is steady, the equation gives
+- **Expectation is the starting point.** A percept does not start from nothing. It starts from what the eater already carries, the expectation built from earlier tastings and from the situation (Barsalou 2003). Write that starting value as E₀. If the food's signal is steady, the equation gives
 
   ```
-  h(t) = e + (h₀ − e) · exp(−t/τ)
+  E(t) = x + (E₀ − x) · exp(−t/τ)
   ```
 
   The percept is a weighted blend of the expected and the actual, with the expectation's weight fading over time. That is the assimilation model of Section II.3 in one line. The slower the relaxation (larger τ), the longer expectation dominates.
-- **The Medium adds distortion.** Noise, pressure, light, incongruent surroundings and unfamiliar company enter as υ. Each changes the percept without changing the food. The Speelgoed's §VII states the general rule: "Two structurally identical situations diverge because their Echoes carried different distortions".
+- **The Medium adds distortion.** Noise, pressure, light, incongruent surroundings and unfamiliar company enter as υ. Each changes the percept without changing the food. The Speelgoed's §X states the general rule: "Two structurally identical situations diverge because their Echoes carried different Vervorming".
 
-### III.3 Origin raises Trouw; familiarity sets its baseline
+### III.3 Origin raises Trouw; familiarity sets the scale
 
-**Trouw (y)** is the weight of the bond. Origin information, cultural pride, trust and the inferences carried by a label (Section II.1) all raise it. In the Speelgoed, Trouw is not fixed. It relaxes toward **Gewenning (Z)**, which the Lexicon defines as "the accumulated resonance of a Koppel, built from repeated Echo closure" (§VIII.1):
+**Trouw (y)** is the weight of the bond. Origin information, cultural pride, trust and the inferences carried by a label (Section II.1) all raise it. In the Speelgoed, Trouw is not fixed. It changes only at the bond's own Vonken, by the whole of each, at the Leersnelheid ρ, and Stilte's Trek wears it towards Leeg at every look the eater's Zelf takes at itself (§XV):
 
 ```
-dy/dt = ρ · (Z − y)
+at each Vonk of the bond:   y ← y + ρ · T
 ```
 
-Read this way, a label can lift Trouw above its baseline, but the lift relaxes back toward what repeated experience has built. This is a prediction rather than a finding: label effects not backed by familiarity should fade over repeated tastings (Section VI, P4). Gewenning is also why locals discriminate their own PDO cheese and not other countries' (Ojeda et al. 2021). Familiarity is what makes origin information count.
+A label can lift Trouw only through a Vonk, and what no later Vonk renews, Stilte's Trek wears, the faster the less the bond is held (§VI.5). This is a prediction rather than a finding: a label's lift on a food the eater barely knows should fade over repeated tastings (Section VI, P4).
+
+Familiarity, **Gewenning (Z)**, is "How used to its Partner a Relatie is, now" (Lexicon). It runs beside the Trouw and does not move it. It sets the scale the eater tastes in instead: what a reader is used to "keeps its answers spread over whatever range arrives, answers each change in proportion to the level it starts from" (§II.2). That is why locals discriminate their own PDO cheese and not other countries' (Ojeda et al. 2021). Familiarity is what makes origin information count.
 
 ### III.4 The Drempel stays; the binding moves
 
-In the Speelgoed, the moment a bond "clicks" is a **Drempel (θ)** crossing. The Drempel is "a local cutoff deciding which of the spectrum's two named poles currently applies" (§II). What crosses it is the **binding** B of the Relatie (§VIII.2):
+In the Speelgoed, the moment a bond "clicks" is a **Drempel (θ)** crossing. The Drempel is "a local cutoff that decides which of the Spectrum’s two poles applies" (§II.2). What crosses it is the **binding** the eater reads (§XVIII):
 
 ```
-B = y · (e_eater + e_food) − c · s( Echo gaps )
+û = S + y_ii·n_ii + Σⱼ y_j·ñⱼ
 ```
 
-B rises with Trouw and with the state of both members (the eater's hunger, attention and readiness; the food's Eigen). It falls with the gaps between each side's Echo and the true state. When B rises through θ, a **Vonk** fires, a **Realisatie**: the felt "this is good". Its strength (§VIII.3) is
+S is the eater's own Leeg on that Spectrum (its hunger and readiness), y_ii the Trouw of its Zelf, and each other term a Trouw carried through the pole the eater reads in its Echo of a partner, here chiefly the food. û rises with Trouw. It falls where an Echo misplaces a pole, and an Echo far from what it tracks misplaces one more often (§XVIII). When û rises through θ, a **Vonk** fires, a **Realisatie**: the felt "this is good". Its Energie is the Trouw the crossing joins (§XIX). How strongly it is felt is set by the eater's **Gevoel**, "by what its Waarneming sets for that crossing, never by the Vonk’s Energie" (§XXI).
 
-```
-T = ¼ · (B − θ)²
-```
-
-The earlier version of this paper said the Drempel is "effectively raised" abroad. That is not how the Speelgoed works: the Drempel is a fixed local cutoff, and what changes is the binding. Abroad, Trouw may be lower and the Echo gaps wider, so B ends up closer to θ, or below it. The click is weaker, or does not come. Because the strength grows as the square of the margin, a modest drop in binding near the threshold produces a large drop in pleasure. A food that "just works" at home can fall flat abroad without anything dramatic having changed.
+The earlier version of this paper said the Drempel is "effectively raised" abroad. That is not how the Speelgoed works: the Drempel is a fixed local cutoff, and what changes is the binding. Abroad, Trouw may be lower and the Echo gaps wider, so û ends up closer to θ, or below it. The click comes less reliably, or does not come. Near the threshold, Vervorming decides how often the binding is carried across, and there a modest drop in binding makes a large difference in how often the click comes (§XIX). A food that "just works" at home can fall flat abroad without anything dramatic having changed.
 
 ### III.5 Contrast is a Schok
 
-The binding contains a penalty for Echo gaps. When the actual food lands far from what was expected, the gap is large and B falls. If B falls through θ, the Vonk fires in the other direction, a **Schok**: disappointment, the smoked-salmon "ice cream" (Yeomans et al. 2008). The mechanism therefore predicts a crossover. Origin cues raise ratings when the food roughly meets the expectation they create, and lower them when it clearly does not (Section VI, P3).
+The binding falls where an Echo gap misplaces a pole. When the actual food lands far from what was expected, the eater's Echo of it, moving from the expectation toward the food, can cross the food's Drempel the wrong way: the pole it reads flips, and û loses the whole Trouw that pole carried. If û falls through θ, the Vonk fires in the other direction, a **Schok**: disappointment, the smoked-salmon "ice cream" (Yeomans et al. 2008). The mechanism therefore predicts a crossover. Origin cues raise ratings when the food roughly meets the expectation they create, and lower them when it clearly does not (Section VI, P3).
 
 ### III.6 Why the favourite food stops delighting
 
-In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "A Vonk fires every time, for any Eigen-value, on any spectrum, the instant its Drempel is crossed" (§II). A food eaten daily keeps its binding above θ. Repeated tasting raises liking for an unfamiliar drink (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can outlast *delight* (the Vonk), though not forever: eaten every day for 22 days, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002). A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
+In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "Crossing a Drempel fires a Vonk of Energie, every time, on any Spectrum, the instant it is crossed" (§II.2). A food eaten daily keeps its binding above θ. Repeated tasting raises liking for an unfamiliar drink (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can outlast *delight* (the Vonk), though not forever: eaten every day for 22 days, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002). The Speelgoed adds two routes of its own. Eating fills, and a Relatie that stands Vol takes in less; its own Check is sensory-specific satiety, in which eating one food lowers its pleasantness more than that of foods not eaten (§VII.2). And a Gevoel feels a crossing by what it brings beyond what the eater is used to (§XXI), so even a crossing that comes again is felt less each time. A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
 
 ### III.7 The taste of home abroad is Rouw
 
-When a bond ends, the Speelgoed says its Echo does not disappear: "Rouw is permanent" (§VI). An emigrant's bond with the food of home does not end, but its everyday form does. What remains is an Echo carried without its usual Medium. The Speelgoed predicts two faces of this. The food of home, eaten abroad, can taste *more* meaningful, because it carries the relationship (Troisi & Gabriel 2011, Study 1). It can also taste *less* right, because the Medium that completed it is missing. Which face shows should depend on the eater's state, not on the food. The comfort-food replication failure (Ong, IJzerman & Leung 2015) is a reminder that such effects may vary by culture.
+When a bond ends, the Speelgoed says its Echo does not disappear: "Rouw is permanent" (§IX.9). An emigrant's bond with the food of home does not end, but its everyday form does. What remains is an Echo carried without its usual Medium. The Speelgoed predicts two faces of this. The food of home, eaten abroad, can taste *more* meaningful, because it carries the relationship (Troisi & Gabriel 2011, Study 1). It can also taste *less* right, because the Medium that completed it is missing. Which face shows should depend on the eater's state, not on the food. The comfort-food replication failure (Ong, IJzerman & Leung 2015) is a reminder that such effects may vary by culture.
 
 ---
 
@@ -135,7 +133,7 @@ When a bond ends, the Speelgoed says its Echo does not disappear: "Rouw is perma
 
 ### IV.1 Gouda in France
 
-The cheese's chemistry is the same on both sides of the border if the cheese is the same (Section V). What changes is everything around it. In the Netherlands, a Dutch eater meets Gouda with decades of Gewenning, in a Medium that matches the expectation: Dutch bread, Dutch speech, the setting in which Gouda is normally eaten. Expectation and signal agree, Echo gaps are small, Trouw is high, and the binding clears the Drempel by a wide margin. In France the same eater meets the same cheese among other cheeses, with other expectations, in an unfamiliar setting. Trouw is a little lower, the gaps a little wider, and the margin smaller. The click weakens, and by the square law it weakens more than the change in binding alone would suggest. The cross-country study that comes closest (Ojeda et al. 2021) shows the familiarity part directly, though measured at home rather than abroad: consumers detected the quality of their own PDO cheese but not that of other countries'.
+The cheese's chemistry is the same on both sides of the border if the cheese is the same (Section V). What changes is everything around it. In the Netherlands, a Dutch eater meets Gouda with decades of Gewenning, in a Medium that matches the expectation: Dutch bread, Dutch speech, the setting in which Gouda is normally eaten. Expectation and signal agree, Echo gaps are small, Trouw is high, and the binding clears the Drempel by a wide margin. In France the same eater meets the same cheese among other cheeses, with other expectations, in an unfamiliar setting. Trouw is a little lower, the gaps a little wider, and the margin smaller. The click comes less reliably, and near the threshold a small change in binding makes a large change in how often it comes. The cross-country study that comes closest (Ojeda et al. 2021) shows the familiarity part directly, though measured at home rather than abroad: consumers detected the quality of their own PDO cheese but not that of other countries'.
 
 ### IV.2 Belgian beer and *frites*
 
@@ -163,9 +161,9 @@ The Speelgoed predicts that both exist, and the design in Section VI separates t
 | | Prediction | Speelgoed mechanism | What would count against it | Existing evidence |
 |---|---|---|---|---|
 | P1 | With the food held identical and tasted blind in a neutral room, the origin advantage shrinks to near zero. | The effect runs through the Echo (information, Medium), not the Eigen. | A large origin advantage under blind, neutral conditions. | Liking and sensory ratings did not differ between lab and home; implicit measures did (de Wijk et al. 2019). |
-| P2 | The origin advantage is larger for locals than for visitors. | Gewenning sets the Trouw baseline. | Equal effects for locals and first-time visitors. | Locals discriminate their own PDO cheese only (Ojeda et al. 2021). |
+| P2 | The origin advantage is larger for locals than for visitors. | Gewenning sets the scale the eater tastes in. | Equal effects for locals and first-time visitors. | Locals discriminate their own PDO cheese only (Ojeda et al. 2021). |
 | P3 | Origin cues raise ratings when the food meets the expectation they set, and lower them when it clearly falls short. | Small Echo gap: assimilation (Realisatie). Large gap: contrast (Schok). | Origin cues raise ratings regardless of how far the food falls short. | Smoked-salmon "ice cream" (Yeomans et al. 2008). |
-| P4 | A label-only boost fades over repeated tastings unless backed by familiarity. | Trouw relaxes toward Gewenning. | Label effects that persist undiminished over many sessions without familiarity. | Untested. |
+| P4 | A label-only boost fades over repeated tastings unless backed by familiarity. | Stilte's Trek wears what no Vonk renews, fastest where the bond holds least. | Label effects that persist undiminished over many sessions without familiarity. | Untested. |
 | P5 | Daily repetition lowers delight more than liking. | Vonken fire on crossings, not levels. | Delight and liking always fall (or rise) together. | Exposure raises liking for unfamiliar drinks (Pliner 1982), but eaten daily, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002); delight over repetition untested in these terms. |
 | P6 | Changing the physical Medium shifts specific tastes, with expectation held fixed. | Distortion υ enters the Echo directly. | No change in taste sensitivity under cabin conditions. | Supported, with disagreement on which tastes (Burdack-Freitag et al. 2011; Rahne et al. 2018). |
 
@@ -190,7 +188,7 @@ A second arm with a transport-sensitive product, beer, should add a physical con
 
 The experience of food tasting best at its origin rests on effects that are real and measured. Information about origin changes taste. Context changes taste, although location alone does so only weakly. Expectations change both the experience and the brain's response to it. And familiarity raises liking and sharpens discrimination. What has not been measured is the origin effect itself, with the food held constant. Part of what people experience abroad is very likely a different food.
 
-The Speelgoed gathers these findings into one mechanism. A food's Eigen reaches the eater only as an Echo shaped by the Medium and anchored in expectation. Origin and familiarity raise the Trouw of the bond. Pleasure is a Vonk that fires when the binding crosses its Drempel, with a strength that grows as the square of the margin. The same mechanism predicts when origin cues backfire, why a beloved food stops thrilling without being loved less, and why the taste of home abroad can be both sweeter and sadder. These are claims that can be tested, and Section VI says how.
+The Speelgoed gathers these findings into one mechanism. A food's Eigen reaches the eater only as an Echo shaped by the Medium and anchored in expectation. Origin raises the Trouw of the bond, and familiarity sets the scale it is tasted in. Pleasure is a Vonk that fires when the binding crosses its Drempel, and near the Drempel a small change in the bond decides how often it fires at all. The same mechanism predicts when origin cues backfire, why a beloved food stops thrilling without being loved less, and why the taste of home abroad can be both sweeter and sadder. These are claims that can be tested, and Section VI says how.
 
 The cheese does not lose its taste in France. What changes is the bond through which it is tasted, and sometimes, quietly, the cheese.
 
@@ -207,6 +205,12 @@ This version replaces the essay of 23 September 2026. It was rewritten from the 
 - **Additions.** New mechanisms (contrast, the crossing rule, Rouw), predictions, and a test design.
 
 A further check of every reference on 5 October 2026 corrected the cabin, noise and café findings, the laboratory-versus-home study, the comfort-food replication and the account of daily repetition, added a missing reference, and noted that construal-level theory found little support in a registered replication.
+
+On 17 October 2026 this paper was aligned with the rebuilt Speelgoed. The binding is now read through the poles the eater's Echoes place (Section III.4), and Trouw moves at Vonken (Section III.3). The square law for the strength of a Vonk is gone: how strongly a crossing is felt is now set by the eater's Gevoel, so Sections III.4, IV.1 and VII rest on how often a binding near its Drempel is carried across. Section III.5 now reads contrast as a pole the Echo misplaces, and Section III.6 notes the Speelgoed's own Check on sensory-specific satiety. Quotations follow the current text.
+
+On 20 October 2026 this paper was aligned with the Speelgoed of that date, which now comes in four Schriften. Trouw is no longer drawn toward Gewenning: it moves only at the bond's own Vonken and is worn by Stilte's Trek, and Gewenning runs beside it. Familiarity now enters through the scale the eater tastes in and through how much of a tasting is felt (Sections III.3 and III.6), and P2 and P4 rest on that. Section references follow the new numbering, and the equations use its symbols.
+
+On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 ---
 

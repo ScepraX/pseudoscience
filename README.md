@@ -1,12 +1,12 @@
 # Pseudoscience Speelgoed
 
-The PseudoScience Speelgoed is a language for bonds and an engine that runs them: five primitives — Eigen, Echo, Trouw, Drempel, Vonk — and one mechanism, used the same way at every scale, from quarks to nations. It is not read from outside the world it describes, because there is no outside. It is played from within, and every rule in it is one a world can run.
+The PseudoScience Speelgoed is a language for relations and a field that runs them: five primitives — Eigen, Echo, Trouw, Drempel, Vonk — and one mechanism, used the same way at every scale, from quarks to nations. It is not read from outside the universe it describes, because there is no outside. It is played from within.
 
 https://pseudoscience.earth/
 
 ---
 
-Nothing exists alone. Everything that holds together—people, groups, organizations—does so through active bonds, not fixed scores. Each side carries an internal model of the other, always delayed and distorted; that gap is not failure but the space relationships need. Bonds have one shared weight but two different perceptions. They deepen through repeated small, honest exchanges, not grand gestures. Threshold crossings release or cost energy; indecision is expensive. Neglected bonds freeze; grief is permanent and deepens the self; masks carry hidden costs; group size shapes structure: two is vulnerable to deadlock, three is resilient, composite groups hide smaller alliances. Endings should be clean; half-severed ties drain. Self-relationship underpins everything. Attention, honesty, listening, and steady maintenance preserve bonds; neglect, self-deception, and unresolved endings cause collapse. A living bond remains open to change, reversal, and renewal. No bond sustains itself without care. The same rules apply at every scale, from friendship to civilization.
+Nothing exists alone. Everything that holds together—people, groups, organizations—does so through active bonds, not fixed scores. Each side carries an internal model of the other, always delayed and distorted; that gap is not failure but the space relationships need. Bonds have one shared weight but two different perceptions. They deepen through repeated small, honest exchanges, not grand gestures. Threshold crossings release or cost energy; indecision is expensive. Neglected bonds freeze; grief is permanent and deepens the self; masks carry hidden costs; group size shapes structure: two is vulnerable to deadlock, three is resilient, and larger groups last only by nesting. Endings should be clean; half-severed ties drain. Self-relationship underpins everything. Attention, honesty, listening, and steady maintenance preserve bonds; neglect, self-deception, and unresolved endings cause collapse. A living bond remains open to change, reversal, and renewal. No bond sustains itself without care. The same rules apply at every scale, from friendship to civilization.
 
 ---
 

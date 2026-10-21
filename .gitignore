@@ -1,0 +1,6 @@
+# the checks, the Oracle builder and the local preview
+_tools/
+# marked, used only by a local preview without Jekyll
+lib/
+# Python caches
+__pycache__/

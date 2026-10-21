@@ -1,0 +1,6 @@
+# GitHub Pages renders every .md with kramdown, the Speelgoed also into index.html.
+# Keep quotes as written: the Speelgoed uses ' and " as symbols (Zweven is ').
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  # The Sources sit in a <details> block; read the Markdown inside it.
+  parse_block_html: true

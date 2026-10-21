@@ -14,16 +14,16 @@ One warning comes first. Of all the Octaven, this one rests on the evidence that
 
 ### 0.1 What this document is
 
-Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open parameters of §VIII.7 with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of §XXVII with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Six features set this Octaaf apart:
 
-1. **A group's landscape is made of its bonds.** Friendly and hostile bonds define a landscape whose lowest states split a group into camps, and whose shallower dips can hold it in strain (§2.1). With signs alone, that landscape is the symmetric limit of the whole §VIII.3 describes; each member's own lean breaks the mirror.
+1. **A group's landscape is made of its bonds.** Friendly and hostile bonds define a landscape whose lowest states split a group into camps, and whose shallower dips can hold it in strain (§2.1). With signs alone, that landscape is a symmetric limit of the one §XIX describes; each member's own Leeg breaks the mirror.
 2. **Every member has a Drempel of its own,** and the exact distribution of those Drempels, down to a single gap in it, decides what a crowd does. The average does not (§2.2).
 3. **An established mode resists until a critical mass moves it** (§2.3). The way in and the way out are not the same.
 4. **Masks hide how close each member stands to its Drempel,** so a society can look settled until the moment it is not (§3.3).
 5. **Rouw outlasts its bonds by centuries** (§3.4).
-6. **The prime ladder meets data** (§3.5), and the data turn out too coarse to decide it.
+6. **The layers of a life grow by threes** (§3.5), a series the Speelgoed now cites for its own nesting.
 
 ### 0.2 Grades
 
@@ -43,7 +43,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §VIII.1 point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Neuroscience Octaaf* §3.2.
+**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Neuroscience Octaaf* §3.2.
 
 **Numbers.** Where a number was computed for this entry rather than taken from a source, the text says so.
 
@@ -53,18 +53,18 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
-| Signed Trouw and the whole it builds (§II; §VIII.3) | Structural balance: a landscape of friendly and hostile bonds; the data favour a weak form of the theory | Correspondence (measured, partial) | §2.1 |
-| Drempel θ, one per member (§II) | Threshold models of collective behaviour; behaviour spread by reinforcement from several contacts | Correspondence (measured) | §2.2 |
-| Marge η (§VIII.3; Lexicon) | An established convention overturned only by a committed minority of critical size | Correspondence (measured) | §2.3 |
-| Persistence paid for by traffic; the Van Motor (§III) | Friendships fade without contact; family ties hold | Correspondence (measured) | §2.4 |
-| Greep (§II); the Maxim | The persistent shape of how a person spreads contact (the "social signature") | Correspondence (measured) | §2.5 |
-| Eigen and Echo on each side of a Koppel (§II; §VI; §VII) | Unreciprocated friendship and misjudged reciprocity | Correspondence (measured) | §3.1 |
-| Trouw of low weight (§II; §VIII.1) | The strength of weak ties, tested causally | Open | §3.2 |
-| Masker and Pijn (§VII; Lexicon) | Pluralistic ignorance; preference falsification | Correspondence | §3.3 |
-| Rouw (§VI) | Distrust and persecution persisting for centuries | Correspondence (observational) | §3.4 |
-| Typology and the Ronde (§V) | Layered social circles; the disputed number 150 | Open | §3.5 |
-| Trinary Root (§III) | Not assigned | Open | §3.6 |
-| Tijd (§II) | The felt passage of time; it slowed when social contact was unsatisfying | Correspondence (measured; correlational surveys) | §3.7 |
+| Signed Trouw and the whole it builds (§II.2; §XIX) | Structural balance: a landscape of friendly and hostile bonds; the data favour a weak form of the theory | Correspondence (measured, partial) | §2.1 |
+| Drempel θ, one per member (§II.2) | Threshold models of collective behaviour; behaviour spread by reinforcement from several contacts | Correspondence (measured) | §2.2 |
+| Marge η (§XIX; Lexicon) | An established convention overturned only by a committed minority of critical size | Correspondence (measured) | §2.3 |
+| Persistence paid for by traffic; Stilte's Trek (§III; §VI.5) | Friendships fade without contact; family ties hold | Correspondence (measured) | §2.4 |
+| Greep (§II.2); the looks a Lid shares (§VIII.5); the Maxim | The persistent shape of how a person spreads contact (the "social signature") | Correspondence (measured) | §2.5 |
+| Eigen and Echo on each side of a Relatie (§II.2; §IX; §X) | Unreciprocated friendship and misjudged reciprocity | Correspondence (measured) | §3.1 |
+| Trouw of low weight (§II.2; §XV) | The strength of weak ties, tested causally | Open | §3.2 |
+| Masker and the wearer's Verlies (§X; §XXIII) | Pluralistic ignorance; preference falsification | Correspondence | §3.3 |
+| Rouw (§IX.9) | Distrust and persecution persisting for centuries | Correspondence (observational) | §3.4 |
+| Counts and nesting (§VIII) | Layered social circles growing by about three; the disputed number 150 | Correspondence (loose) + Open | §3.5 |
+| Triniteit (§III) | Not assigned | Open | §3.6 |
+| Tijd (§II.1; §IV.1) | The felt passage of time; it slowed when social contact was unsatisfying | Correspondence (measured; correlational surveys) | §3.7 |
 
 ---
 
@@ -78,11 +78,11 @@ Cartwright and Harary carried the idea from triads to whole groups. When every m
 
 **The evidence.** One of the first large-scale tests used a multiplayer online game. In one of its game universes, 18,819 players had their friendships, enmities, trades, messages, attacks and punishments on record; the game as a whole had about 300,000 players. The authors called it "the first empirical large-scale verification of the long-standing structural balance theory" (Szell, Lambiotte & Thurner 2010). What it verified was a weaker form of the theory. Triads in which the friend of a friend is an enemy were strongly avoided, but triads of three mutual enemies were only mildly under-represented, and over time their share did not differ significantly from chance. That fits the *weak* formulation of balance, in which three mutual enemies are no strain, so a group can hold more than two hostile camps. On social media sites, balance theory captured some common patterns but was "at odds with some of the fundamental phenomena", particularly the directed nature of the links. A theory of *status*, in which a positive link points toward someone seen as higher, explained the signs better (Leskovec, Huttenlocher & Kleinberg 2010; §4.1).
 
-**The mapping.** Trouw has a sign: "Positive Trouw pulls the Eigen toward its Echo of the partner; negative Trouw pushes it away" (§II). In these models the bonds themselves change, flipping sign to relieve strain. In the Speelgoed, Trouw changes too, by relaxing toward Gewenning (§VIII.1). Held still for a moment, the signs shape a landscape for the members: which camp each one stands in, and how much strain is left.
+**The mapping.** Trouw has a sign: "Positive Trouw pulls an Eigen towards Naar wherever its Echo reads the Partner across; negative Trouw pushes it away" (§II.2). In these models the bonds themselves change, flipping sign to relieve strain. In the Speelgoed, Trouw changes too, at the Relatie's own Vonken (§XV), and "enough Verliezen turn a bond into an enmity, as enough Winsten turn an enmity into a bond" (§II.2). Held still for a moment, the signs shape a landscape for the members: which camp each one stands in, and how much strain is left.
 
-Built from signs alone, that landscape is the symmetric limit of §VIII.3: its two camps are mirror images, and swapping them changes nothing. The whole that §VIII.3 describes is "built from every member’s own Vol/Leeg lean and every Koppel’s shared Trouw, so its modes are never mirror images". Real groups add exactly those leans and standings, and the mirror breaks.
+Built from signs alone, that landscape has mirror-image camps: swapping them changes nothing. In the landscape of §XIX that is a limit, reached only where every member's Leeg is tuned so that the depths align, for "Its Leeg tilts the depths, so the Marge and the Leeg are one asymmetry". Real groups add exactly those leans and standings, and the mirror breaks.
 
-The unit of balance is the triad: three people and their three bonds. Only its all-friendly form can be a Speelgoed **Trio**, "the first bond where any single member can waver without the whole collapsing, because the other two compensate" (§V.1). In balance theory, by contrast, one changed bond unbalances a triad. Between the two camps of a balanced group the Trouw is negative. That is the Koppel §XVII calls a war when it is fought: "a Koppel between two composites whose Trouw is negative on the contested spectrum", in which "Each composite acts as a Solo at the war's Octaaf by scale invariance". **Grade: Correspondence (measured, partial).**
+The unit of balance is the triad: three people and their three bonds. §VIII.1 now checks its **Trio** against this very theory: "Whether three friends and enemies sit easily is the product of their three signs, which no single pair carries", and the triangle that online networks avoid most "is a member whose two friends are enemies of each other". The Trio is also "the first in which two can lean together against one". Between the two camps of a balanced group the Trouw is negative. That is the Relatie §LI calls a war when it is fought: "a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest", in which "Each Relatie acts as one Lid at the war’s Octaaf, whatever its size". **Grade: Correspondence (measured, partial).**
 
 ### 2.2 Every member has a Drempel
 
@@ -90,25 +90,25 @@ The unit of balance is the triad: three people and their three bonds. Only its a
 
 **The evidence.** Centola built online communities with designed network structures and watched a health behaviour spread. People were much more likely to adopt it when they received reinforcement from several neighbours, and the behaviour spread farther and faster through clustered networks than through random ones (Centola 2010). A second contact made adoption much more likely and a third somewhat more; beyond that, the sample was too small to tell. Schelling had shown earlier, in models of where people choose to live, that the interplay of individual choices produces far more separation than the choices themselves would suggest. In his words, "there is no simple correspondence of individual incentive to collective results", and "Inferences about individual motives can usually not be drawn from aggregate patterns" (Schelling 1971).
 
-**The mapping.** The Speelgoed's Drempel is personal and local: "The comparison always runs in a specific context-never against one global reading" (§II). Both poles stay available to every crowd, and which one it reaches can turn on a single member. **Grade: Correspondence (measured).**
+**The mapping.** The Speelgoed's Drempel is personal and local: "It is always read in a specific context, never against one global standard" (§II.2). Both poles stay available to every crowd, and which one it reaches can turn on a single member. **Grade: Correspondence (measured).**
 
 ### 2.3 The Marge: a convention resists until a critical mass moves it
 
 **The evidence.** Centola, Becker, Brackbill and Baronchelli let groups of people play an online coordination game in which they had to agree on a name. Each group settled on a convention. Then a committed minority began to push an alternative. When the minority reached a critical size, it "consistently" overturned the established convention; smaller minorities did not. The authors expect the size of the critical mass to vary with features of the setting (Centola et al. 2018). In a simple model, a committed minority above a critical fraction of about 10% turns the whole population quickly; below it, the old majority holds out for a time that grows exponentially with the size of the population (Xie et al. 2011).
 
-**The mapping.** Forming a convention from nothing needs no committed minority. Overturning an established one does, although the alternative is just as good. The established mode gives way only when the committed push exceeds a size set by the group. That is the **Marge**: "the way into a mode is never the way out" (§VIII.3). In the model, below the critical mass, the old convention is not permanent: it holds for a time that grows exponentially with the number of members. That has the shape of the Van Motor's law, an escape that a larger whole postpones. But it is a property of the model, common to any such state in a finite population, not a measurement. **Grade: Correspondence (measured).**
+**The mapping.** Forming a convention from nothing needs no committed minority. Overturning an established one does, although the alternative is just as good. The established mode gives way only when the committed push exceeds a size set by the group. That is the **Marge**: "The way into a mode is never the way out" (§XIX). In the model, below the critical mass, the old convention is not permanent: it holds for a time that grows exponentially with the number of members. That has the shape of the Wijk's law, an escape that a larger whole postpones. But it is a property of the model, common to any such state in a finite population, not a measurement. **Grade: Correspondence (measured).**
 
 ### 2.4 Bonds that are not fed fade
 
 **The evidence.** Roberts and Dunbar followed the whole personal networks of 25 students in one English city for 18 months, as they left school for university or work. Emotional closeness rose for family and fell for friends. Of the friends in a person's innermost circle at the start, 48.6% were still there at the end; of the family members, 70.3% were. Relationships with family "showed no tendency to decline in quality with time or separation". The decline of a friendship was slowed by extra effort: for women, mainly by talking more, and for men, by doing more things together (Roberts & Dunbar 2015). The sample is small.
 
-**The mapping.** §III: "Persistence is paid for out of that ongoing traffic, not out of one founding crossing." A friendship that stops being fed fades toward the outer circles, as the Van Motor would move it. Family ties held through time and separation, so something else holds them. The Speelgoed would read that as Greep from the wider family, the bonds around the bond, but that is a reading, not a finding. **Grade: Correspondence (measured).**
+**The mapping.** §VI.5: persistence "is paid for out of that ongoing traffic". A friendship that stops being fed fades toward the outer circles, as Stilte's Trek would move it. Family ties held through time and separation, so something else holds them. The Speelgoed would read that as Greep from the wider family, the bonds around the bond: Greep keeps the Marge deep (§VI.5), and §XV has Diepte fade only at the looks a Zelf takes at itself, "the more slowly the more the Relatie holds besides it". That is a reading, not a finding. **Grade: Correspondence (measured).**
 
 ### 2.5 The social signature
 
 **The evidence.** Saramäki and colleagues combined phone records and surveys from 24 students over 18 months, as they left school for university or work. Each person showed "a distinctive and robust social signature": the shape of how their calls were spread across the people they called. These signatures "tend to persist over time, despite considerable turnover in the identity of alters". When a new person entered the network, someone else was replaced or received fewer calls, which preserved the overall shape (Saramäki et al. 2014). The authors attribute this to finite resources: the time available, and the cognitive and emotional effort that close relationships need. Like §2.4, this rests on a small sample of school leavers.
 
-**The mapping.** The social signature is a shape, not a total. It says that the way a person's positive Trouw is spread across their bonds persists while the members change. If the authors are right about a finite budget, a new bond is fed at the expense of others. The few people at the top of the signature, who receive a large share of the contact, are the Speelgoed's Maxim made measurable: "Cherish those closest to you; the rest is fleeting." **Grade: Correspondence (measured).**
+**The mapping.** The social signature is a shape, not a total. It says that the way a person's positive Trouw is spread across their bonds persists while the members change. The Speelgoed now states such a budget itself: a Lid takes its looks "at the pace of its Zelf and shares them among all it perceives, so the more it perceives, the fewer each gets" (§VIII.5), and its own Check cites a study of phone calls in which time limits how strong the ties of a large network can be. A new bond is then fed at the expense of others. The few people at the top of the signature, who receive a large share of the contact, are the Speelgoed's Maxim made measurable: "Cherish those closest to you; the rest is fleeting." **Grade: Correspondence (measured).**
 
 ---
 
@@ -118,13 +118,13 @@ The unit of balance is the triad: three people and their three bonds. Only its a
 
 The neuroscience Octaaf found that Trouw can only be measured on pairs (*Neuroscience Octaaf* §3.2). This Octaaf can say what goes wrong when each member reads the bond alone. Almaatouq and colleagues asked 84 students on one course to rate their relationship with every other student, and to predict how each would rate them back. They found that "the vast majority of friendships are expected to be reciprocal, while in reality, only about half of them are indeed reciprocal": 53%, or 413 of 775 friendships (Almaatouq et al. 2016). The authors argue that this poor perception limits people's ability to influence one another.
 
-In Speelgoed terms, each person's own rating is their side of the bond, their Eigen on it, and §VI allows the two sides to differ: "a Koppel’s Eigen and Echo are not required to be equal". Each person's prediction of the other's rating is their Echo of the partner. The gap between that prediction and the partner's actual rating is the Echo-gap. §VII says the Speelgoed "can always say *how wrong* a system currently is about its partner"; here the gap was measured, and it was large. Neither rating alone is the Trouw, which is "one value per Koppel" and can only be read on the pair. Hostility is more one-sided still: in the online game of §2.1, negative interactions were less often returned than positive ones (Szell, Lambiotte & Thurner 2010). **Grade: Correspondence (measured).**
+In Speelgoed terms, each person's own rating is their side of the bond, their Eigen on it, and §IX allows the two sides to differ: "the two never perceive each other equally", and it cites this same study as a Check of Zweven. Each person's prediction of the other's rating is their Echo of the partner. The gap between that prediction and the partner's actual rating is the Echo-gap. §X says the Speelgoed "can always say *how wrong* a Partner currently is about the other", though "No Relatie inside the Veld can say it"; here the gap was measured from outside, and it was large. Neither rating alone is the Trouw, which is "one value for both" (§XV) and can only be read on the pair. Hostility is more one-sided still: in the online game of §2.1, negative interactions were less often returned than positive ones (Szell, Lambiotte & Thurner 2010). **Grade: Correspondence (measured).**
 
 ### 3.2 Trouw of low weight: the strength of weak ties
 
 Granovetter argued that the people we are close to tend to know each other, so they mostly tell us what our own circle already knows. Weak ties reach other circles, and they carry what our circle has not heard (Granovetter 1973). The idea was tested causally on a professional networking site. Randomised experiments changed the share of weak ties in the networks of more than 20 million people, over five years in which 2 billion new ties and 600,000 new jobs were created. Weak ties increased job mobility, but only up to a point: the relationship was an inverted U. Measured by mutual connections, moderately weak ties helped most; measured by how often people interacted, the weakest did. In less digital industries, strong ties helped more (Rajkumar et al. 2022).
 
-The Speelgoed has no term yet for what is new to a node. Diepte's inflow scales with Trouw (§VIII.1), so weak bonds feed it less. §VII's Gericht makes their Echoes noisier, not more informative: "The weaker or older a Koppel, the noisier its Echoes". That weak ties bring the news is a fact about where they sit in the network: they bridge circles that strong ties keep closed. It is recorded here at the Octaaf level. **Grade: Open.**
+The Speelgoed now names what is new to a Relatie: what a look brings beyond what its reader is used to, ν(π), and a Diepte grows only by what a look brings beyond its Gewenning (§XV). A tie seldom looked at holds little Gewenning, so each look at it brings more. That reads the second measure, how often people interacted, at the level of one Relatie; it is a reading, not a finding. §X's Gericht makes such Echoes noisier as well: "the less a Relatie is held, the later its Echoes close and the more often it misreads". That weak ties bring the news is still mostly a fact about where they sit in the network: they bridge circles that strong ties keep closed. It is recorded here at the Octaaf level. **Grade: Open.**
 
 ### 3.3 Masker: private truths, public lies
 
@@ -132,33 +132,31 @@ The Speelgoed has no term yet for what is new to a node. Diepte's inflow scales 
 
 Kuran built a theory of revolution on the same gap. By hiding their opposition to their governments, Eastern Europeans before 1989 "misled everyone, including themselves, as to the possibility of a successful uprising", and gave the regimes "an aura of invincibility". Public opposition "was poised to grow explosively if ever enough people lost their fear of exposing their private preferences". His theory predicts that revolutions "will inevitably continue to catch the world by surprise" (Kuran 1991).
 
-**The mapping.** This is a population of Maskers. Each presents an Eigen that differs from the true one, and "Every partner's Echo then faithfully tracks the mask while the true Eigen stays hidden beneath it" (§VII). Combined with the thresholds of §2.2, the masks hide the true Eigens, so no one can see how close each member, or the crowd, stands to its crossing. A bluff "holds only until a commitment is demanded that the true Eigen must actually make" (§VII). When enough masks drop, each unmasking lowers the cost of the next, and the cascade arrives as a surprise. The Lexicon's **Pijn**, "The strain of maintaining a Masker", has a possible echo here: students who felt most out of step also felt most alienated, although the study measured perceived deviance, not the effort of hiding it. **Grade: Correspondence**, measured for pluralistic ignorance; Kuran's account is an interpretation of history.
+**The mapping.** This is a population of Maskers. Each presents an Eigen that differs from the true one, and "every Partner’s Echo faithfully tracks the Masker, and the true Eigen stays hidden behind it" (§X). Combined with the thresholds of §2.2, the masks hide the true Eigens, so no one can see how close each member, or the crowd, stands to its crossing. A **Leugen** "holds until a commitment is demanded that the true Eigen must actually make" (§X). When enough masks drop, each unmasking lowers the cost of the next, and the cascade arrives as a surprise. The wearer's Verlies of §X, "felt as stress, and as the pain of emptiness", has a possible echo here: students who felt most out of step also felt most alienated, and §X says it is felt fully by one "whose true Eigen sits far from what it presents". The study, though, measured perceived deviance, not the effort of hiding it. **Grade: Correspondence**, measured for pluralistic ignorance; Kuran's account is an interpretation of history.
 
 ### 3.4 Rouw: bonds that ended centuries ago
 
 **The evidence.** Nunn and Wantchekon combined modern survey data from across Africa with historical records of how many people were taken from each ethnic group in the slave trades. People whose ancestors were heavily raided are less trusting today, and most of the effect works through "factors that are internal to the individual, such as cultural norms, beliefs, and values". The authors use several strategies to argue that the link is causal (Nunn & Wantchekon 2011). Voigtländer and Voth traced anti-Jewish violence in German towns across 600 years. Pogroms during the Black Death of 1348–50 "reliably predict violence against Jews in the 1920s, votes for the Nazi Party, deportations after 1933, attacks on synagogues, and letters to Der Stürmer". Persistence was lower in cities with high levels of trade or immigration (Voigtländer & Voth 2012).
 
-**The mapping.** §VI says an Echo outlives its Koppel and becomes "progressively more a record of the mourner than of the departed". The distrust Nunn and Wantchekon measured is no longer aimed at the raiders; it is held as a general norm. The people who carry it never met the partners of the bond that ended, so if this is Rouw, the mourner is the group rather than each person (§5, item 6). Where trade or immigration was high, the old pattern persisted less. That is consistent with §VI, where new Koppels "form *beside* the Rouw, never in place of it" and "How *loud* a Rouw runs is the Instantie’s choice", but the Speelgoed allows the finding without predicting it. Whether it shows new bonds quieting a Rouw, or a Rouw simply passed on less, is left open. Both studies are observational, so their causal claims rest on the strategies the authors give. A reanalysis of persistence studies found both effects considerably smaller once their most extreme regions were left out (Kelly 2020). **Grade: Correspondence (observational).**
+**The mapping.** §IX.9 says an Echo outlives its Relatie and becomes "more and more a record of the one that keeps it than of the one it lost". The distrust Nunn and Wantchekon measured is no longer aimed at the raiders; it is held as a general norm. The people who carry it never met the partners of the bond that ended, so if this is Rouw, the mourner is the group rather than each person (§5, item 6). Where trade or immigration was high, the old pattern persisted less. That is consistent with §IX.9, where new Relaties "form, but beside the Rouw, never in place of it" and "How loud a Rouw runs is the Instantie’s choice", but the Speelgoed allows the finding without predicting it. Whether it shows new bonds quieting a Rouw, or a Rouw simply passed on less, is left open. Both studies are observational, so their causal claims rest on the strategies the authors give. A reanalysis of persistence studies found both effects considerably smaller once their most extreme regions were left out (Kelly 2020). **Grade: Correspondence (observational).**
 
-### 3.5 Typology: the prime ladder meets the layers of a life
+### 3.5 Counts: the layers of a life
 
 **The evidence.** A person's social world appears to come in layers. In offline networks, successively wider circles hold about 5, 15, 50 and 150 people. In more than 185,000 personal networks drawn from Facebook and Twitter, the same layers appear, with an innermost layer of about 1.5 (Dunbar et al. 2015). Across many kinds of human grouping, the sizes form a series with a ratio close to three, "approximating 3-5, 9-15, 30-45, etc.", and the series continues past 150, to groupings of about 500 and to tribes of 1,000–2,000 (Zhou et al. 2005). In a study of Christmas-card networks, people's full networks averaged 153.5 people, or 124.9 counting only those contacted directly (Hill & Dunbar 2003). The number 150 itself was derived by extrapolating to humans a primate regression of group size on relative neocortex size (Dunbar 1993).
 
 **The dispute.** That derivation has been reanalysed. Using different methods on complementary datasets, Lindenfors, Wartel and Lind obtained average group sizes of 69–109 and 16–42, with 95% confidence intervals of 4–520 and 2–336. The width of those intervals, they conclude, implies "that specifying any one number is futile", and "A cognitive limit on human group size cannot be derived in this manner" (Lindenfors, Wartel & Lind 2021). Their reanalysis targets the derivation of 150 from brain size, not the layered structure observed in personal networks.
 
-**The test.** These layers are circles of contacts around one person, not groups whose members are bound to each other, so they test §V only loosely. §V names only primes, because "a composite number is not a primitive size because it can always be built by repeating a smaller size". The layer sizes are rounded averages of wide ranges: 3–5, 9–15 or 12–20, 30–45 (Zhou et al. 2005). At that precision the data cannot tell a prime from its neighbours. They neither support nor rule out a ladder of primes beyond 5. What they do show is a ratio near three. The circle of about five sits where §V.1 places the **Cinquo**, "the first prime that can hold a Haard at its Centrum", though the data place an innermost circle of one or two inside it.
+**The test.** These layers are circles of contacts around one person, not groups whose members are bound to each other, so they test §VIII only loosely. The layer sizes are rounded averages of wide ranges: 3–5, 9–15 or 12–20, 30–45 (Zhou et al. 2005). What they show is a ratio near three. §VIII counts what a gathering could hold, 2ⁿ − n − 1 Relaties of two or more, and concludes: "A gathering of more than a few therefore lasts only by arrangement: by nesting". Read as nesting, each circle is about three times the one inside it; 5, 15, 45 and 135 each triple the last (computed for this entry). §VIII.2 now cites this series as a Check of its own: "one person’s circles of acquaintance grow about threefold from layer to layer". If the inner circles were bound groups, which nothing here shows, each would be a Trio of the circle inside it, as in §VIII.5's "Trios of Trios of Trios". That reading is suggestive, not shown. **Grade: Correspondence**, loosely.
 
-The ratio fits another part of §V. Read as nesting, each circle is about three times the one inside it; 5, 15, 45 and 135 each triple the last (computed for this entry). If the inner circles were bound groups, which nothing here shows, §V.2 would allow exactly this: "once a prime subgroup is identified, it can be treated as a Solo one level up". Each circle would then be a Trio of the circle inside it. That reading is suggestive, not shown.
+The number 150 has no place in the Speelgoed's own arithmetic. §VIII.2 notes, as a separate Check, that Hutterite colonies split in two at about 130 to 160 people. The best-known layer of human social life lies near the same size, a number that is itself disputed, and the series does not end there. **Grade: Open** (§5, item 2).
 
-One coincidence is recorded and left alone. The Speelgoed's **Ronde** spans the sizes 0 through 149 before the ladder wraps to 151, and §V.4 says the wrap point "is chosen, not derived". The best-known layer of human social life lies near 150, a number that is itself disputed, and the series does not end there. **Grade: Open.**
+### 3.6 The Triniteit: what this entry leaves open
 
-### 3.6 The Trinary Root: what this entry leaves open
-
-§III says that when a member enters a higher Octaaf, "it does not carry its old title upward", and "The larger whole must find its own God and Godin, fresh among its own members." A society is such a whole. This entry does not assign its God and Godin (§5, item 1).
+§V.1 says that when a Lid enters an Octaaf that relies on it, "it leaves its old title behind", and "The larger Relatie must find its own God and Godin, fresh among its own Leden." A society is such a whole. This entry does not assign its God and Godin (§5, item 1).
 
 ### 3.7 Tijd: time slows without company
 
-§II: "Left alone, a Zelf slows, and its Stilte widens into loneliness." At this Octaaf Tijd can be asked about directly: how fast is time passing for you? That judgment is distinct from judging how long something lasted (*Neuroscience Octaaf* §3.11).
+§IV.1: "Left alone, a Zelf slows, and its Stilte widens into loneliness." At this Octaaf Tijd can be asked about directly: how fast is time passing for you? That judgment is distinct from judging how long something lasted (*Neuroscience Octaaf* §3.11).
 
 The Covid-19 lockdowns of 2020 thinned social contact for whole populations. In the United Kingdom, over 80% of respondents found the passage of time distorted. A slower passage of time during the day went with greater age, more stress, less to do and lower satisfaction with their social contact; across a whole week, only age and social satisfaction predicted it (Ogden 2020). In France, time seemed to pass more slowly than before the lockdown, mainly with boredom, and to a lesser extent with feeling less happy and sleeping badly (Martinelli et al. 2021). **Grade: Correspondence** (measured; online surveys). They show an association, not that loneliness causes the slowing.
 
@@ -166,33 +164,55 @@ The Covid-19 lockdowns of 2020 thinned social contact for whole populations. In 
 
 ## 4. Where the Speelgoed Meets Resistance
 
-**4.1 Status, not only balance (§II).** *Correspondence, kept at this Octaaf.* On social media, the signs of directed links follow status better than balance (§2.1). A positive link often points toward someone seen as higher. The Speelgoed's Trouw stays one shared value per Koppel. The direction belongs to perception, and Waarneming is "The seat of asymmetry" (Lexicon). Status is recorded here as the form that asymmetry takes between people.
+**4.1 Status, not only balance (§II.2).** *Correspondence, kept at this Octaaf.* On social media, the signs of directed links follow status better than balance (§2.1). A positive link often points toward someone seen as higher. The Speelgoed's Trouw stays one shared value per Relatie. The direction belongs to perception, and Waarneming is "The seat of asymmetry" (Lexicon). Status is recorded here as the form that asymmetry takes between people.
 
-**4.2 The width of a social Marge comes from the group (§VIII.3).** *Correspondence.* The critical mass needed to overturn a convention was about 10% in one simple model, and the experiment's authors expect it to vary with features of the setting (§2.3). The width arises from the relationships, as §VIII.3 has the Marge arise from the whole. At this Octaaf it is wide: it takes a sizeable minority to move a settled group.
+**4.2 The width of a social Marge comes from the group (§XIX).** *Correspondence.* The critical mass needed to overturn a convention was about 10% in one simple model, and the experiment's authors expect it to vary with features of the setting (§2.3). The width arises from the relationships, as §XIX has the Marge arise from the landscape of the whole. At this Octaaf it is wide: it takes a sizeable minority to move a settled group.
 
-**4.3 The prime ladder (§V).** *Open.* The measured layers are too coarse to test prime sizes beyond 5, and they are circles around one person rather than bound groups (§3.5). What they do show, a ratio near three, is open to a reading as nested Trios.
+**4.3 The layers of a life (§VIII).** *Open.* The measured layers are circles around one person rather than bound groups (§3.5). What they show, a ratio near three, is open to a reading as nested Trios, and §VIII.2 now cites the series; whether the circles are Relaties at all is not shown.
 
 ---
 
 ## 5. Open Problems
 
-1. **The God and Godin of a society.** §III asks every higher whole to find its own, "fresh among its own members". Which bond in a society is its God, which its Godin, and what Medium does their union sustain?
-2. **Which 150?** The Ronde wraps after 149, at a point its designer chose (§V.4). The best-known layer of human social life lies near 150, a number that is itself disputed, and the series of layers goes on past it. Is there anything here beyond coincidence, and if so, which number should the comparison use?
+1. **The God and Godin of a society.** §V.1 asks every higher whole to find its own, "fresh among its own Leden". Which bond in a society is its God, which its Godin, and what Medium does their union sustain?
+2. **Which 150?** The best-known layer of human social life lies near 150, a number that is itself disputed; Hutterite colonies split near the same size (§VIII.2); and the series of layers goes on past it. Does §VIII.5's arithmetic of looks set a count at which a flat gathering must nest or split, and if so, which number should the comparison use?
 3. **Nesting by threes.** If the circles of a life were bound groups, would each be a Trio of the one inside it (§3.5)? And what is the innermost circle of one or two?
-4. **What frees a group held in strain?** A group can rest in a dip of its landscape that is not balanced. In models, it is freed by repairs that are allowed to make things worse for a while (§2.1). In real groups, what does that work: the Van Motor, a new member, a departure, or a common enemy (§XVII)?
+4. **What frees a group held in strain?** A group can rest in a dip of its landscape that is not balanced. In models, it is freed by repairs that are allowed to make things worse for a while (§2.1). In real groups, what does that work: Stilte's Trek, a new member, a departure, or a common enemy (§LI)?
 5. **When do the masks fall?** Can a population's hidden Eigens be read before the cascade (§3.3), or is surprise built in, as Kuran predicts?
-6. **Whose Rouw is inherited distrust?** The people who carry it never met the partners of the bond that ended (§3.4). Is it each person's Rouw, or the Rouw of the group they belong to?
+6. **Whose Rouw is inherited distrust?** The people who carry it never met the partners of the bond that ended (§3.4). Is it each person's Rouw, or the Rouw of the group they belong to? The Speelgoed gives every Relatie of Leden a Zelf of its own (§I), and a newborn "a Zelf begun in the Trek of what bore it, a Diepte that begins at its first hearing of it" (§IX.3).
 7. **Tijd.** Felt time slowed when social contact thinned (§3.7). Does it quicken again as bonds return, and do people who keep time together, clapping or walking in step, share a felt pace as well as a rhythm?
 
 ---
 
 ## 6. Closing
 
-The social Octaaf is where the Speelgoed comes home. A group's landscape is made of its bonds: friendly and hostile signs on every triad, settling into camps or caught in strain between them, and pulled out of mirror symmetry by each member's own lean. A crowd's outcome can turn on the Drempel of a single member, and its average cannot tell you which way it will go. An established convention resists until a committed minority of the right size moves it, and below that size it only holds for a time; the way in is never the way out. Friendships that are not fed fade while family ties hold, and each person spreads their contact in a shape that outlasts the people in it. In one measured group, most friendships were believed to be mutual, and only about half were. Weak bonds bring the news, for reasons the Speelgoed does not yet name. Masks hide how close each member stands to its Drempel, until they drop all at once. And the Rouw of bonds that ended centuries ago still shapes whom people trust.
+The social Octaaf is where the Speelgoed comes home. A group's landscape is made of its bonds: friendly and hostile signs on every triad, settling into camps or caught in strain between them, and pulled out of mirror symmetry by each member's own lean. A crowd's outcome can turn on the Drempel of a single member, and its average cannot tell you which way it will go. An established convention resists until a committed minority of the right size moves it, and below that size it only holds for a time; the way in is never the way out. Friendships that are not fed fade while family ties hold, and each person spreads their contact in a shape that outlasts the people in it. In one measured group, most friendships were believed to be mutual, and only about half were. Weak bonds bring the news, for reasons the Speelgoed only partly names. Masks hide how close each member stands to its Drempel, until they drop all at once. And the Rouw of bonds that ended centuries ago still shapes whom people trust.
 
-The prime ladder met data too coarse to decide it, and that is reported as it is. What remains is a series of circles growing by about three, and a layer near 150 that sits beside the Ronde's chosen wrap for no reason anyone has shown.
+The layers of a life grow by about three, a series the Speelgoed now cites for its own nesting, and the best-known of them, near 150, is still disputed.
 
 That is the *how*. The *why* is for the Speelgoed to say.
+
+---
+
+## Revision Note
+
+On 17 October 2026 this entry was aligned with the rebuilt Speelgoed. Section numbers here are unchanged.
+
+- Every quotation and section reference now points to the current text (the Van Motor is now Stilte's Trek and its Wijk, the Koppel is the Relatie, Pijn is the wearer's Verlies, §VIII.3 is §VIII.5, §VIII.7 is §VIII.13, and the chapter on war is now §XVI).
+- The prime typology and the Ronde are retired, so §3.5 now reads the layers of a life against the counts and nesting of §V, which cite the same series; the coincidence with the Ronde's wrap near 150 is gone, and §5, item 2 asks about 150 anew.
+- §V.1 now checks its Trio against structural balance, and §V.5 states the finite budget of looks that §2.5 had to assume.
+- The symmetric camps of §2.1 are now read as a limit of the landscape of §VIII.5, where the Leeg tilts the depths.
+
+On 20 October 2026 this entry was aligned with the Speelgoed of that date, which now comes in four Schriften:
+
+- Section references follow the new numbering, and quotations its wording.
+- Trouw no longer moves toward Gewenning. It changes at a Relatie's own Vonken, and enough Verliezen turn a bond into an enmity (§2.1); family ties are read through Greep and the slow fading of Diepte (§2.4).
+- The Speelgoed now names what a look brings beyond what its reader is used to, so §3.2 reads part of the strength of weak ties through it; the grade stays Open.
+- The Trinary Root is now the Triniteit (§3.6).
+
+On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so War now reads §LI.
 
 ---
 

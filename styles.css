@@ -450,6 +450,15 @@ body.menu-open .menu {
 
 .equation {
   color: var(--gold);
+  white-space: pre;
+  overflow-x: auto;
+  margin: 1.2em 0;
+  padding: .2em 0 .4em;
+}
+
+/* the Overture keeps its verse lines */
+.m-section.overture p {
+  white-space: pre-line;
 }
 
 .mnum {
@@ -624,6 +633,84 @@ blockquote {
   color: var(--white);
   font-style: italic;
   background: var(--gold-faint);
+}
+
+/* wide tables scroll inside the column instead of the page */
+.table-wrap {
+  overflow-x: auto;
+  margin: 1.4em 0;
+}
+
+.table-wrap > table {
+  margin: 0;
+}
+
+/* long addresses in the Sources break instead of running off a phone */
+#m-sources a {
+  overflow-wrap: anywhere;
+}
+
+#m-sources summary {
+  cursor: pointer;
+  color: var(--gold);
+  margin: 0 0 1em;
+}
+
+/* ---- a Schrift: one of the four books of the text ---- */
+.m-section.schrift {
+  text-align: center;
+  padding-top: 2.4em;
+}
+
+.m-section.schrift h2 .num {
+  display: block;
+  width: max-content;
+  margin: 0 auto .6em;
+}
+
+.m-section.schrift p {
+  max-width: 44em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu-eyebrow a {
+  color: inherit;
+  border-bottom: 0;
+}
+
+/* on a phone, tables of long prose read as cards */
+@media (max-width: 640px) {
+  .table-wrap > table.wide,
+  .table-wrap > table.wide tbody,
+  .table-wrap > table.wide tr,
+  .table-wrap > table.wide td {
+    display: block;
+  }
+
+  .table-wrap > table.wide thead {
+    display: none;
+  }
+
+  .table-wrap > table.wide tr {
+    border-bottom: 1px solid var(--gold-mid);
+    padding: .5em 0;
+  }
+
+  .table-wrap > table.wide td {
+    border: 0;
+    padding: .2em 12px;
+  }
+
+  .table-wrap > table.wide td[data-label]::before {
+    content: attr(data-label);
+    display: block;
+    color: var(--gold);
+    font-family: var(--display);
+    font-size: .72rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
 }
 
 table {
@@ -2201,4 +2288,66 @@ body.spiral .spiral-flash {
   .crystal-ball .orb-core {
     animation: none !important;
   }
+}
+/* =====================================================================
+   GRAPH — a ```mermaid flowchart in the text, drawn by speelgoed.js
+   ===================================================================== */
+.graph-figure {
+  margin: 28px 0 24px;
+  padding: 12px 10px;
+  border: 1px solid var(--gold-faint);
+  background: rgba(0, 0, 0, .18);
+  overflow-x: auto;
+}
+
+.graph-figure svg {
+  display: block;
+  margin: 0 auto;
+}
+
+.graph-node rect {
+  fill: var(--black);
+  stroke: var(--gold-soft);
+  stroke-width: 1;
+}
+
+.graph-t {
+  fill: var(--gold-bright);
+  font-family: var(--display);
+  font-size: 15px;
+}
+
+.graph-s {
+  fill: var(--white-dim);
+  font-family: var(--serif);
+  font-size: 12.5px;
+}
+
+.graph-edge {
+  fill: none;
+  stroke: var(--gold-soft);
+  stroke-width: 1.3;
+}
+
+.graph-edge.dashed {
+  stroke-dasharray: 5 4;
+}
+
+.graph-edge.thick {
+  stroke-width: 2.4;
+}
+
+.graph-arrow {
+  fill: var(--gold);
+}
+
+.graph-label rect {
+  fill: var(--black);
+}
+
+.graph-label text {
+  fill: var(--white-faint);
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 12px;
 }

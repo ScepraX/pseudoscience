@@ -1,830 +1,526 @@
-﻿# PseudoScience Speeldgoed
-### An Introduction to Advanced Relational Studies
+﻿# PseudoScience Speelgoed (Newcomer's Guide)
+By Mark Joseph Antonius Knippenberg/ScepraX.
 
-**Project:** PseudoScience Speelgoed
-**Purpose:** A plain-language introduction to how relationships work in this universe, written for a player who has never opened the technical model and never needs to.
-**Audience:** New players, roughly fifteen and up. No maths required. No prior reading required.
-**Date:** 2026-09-08
+Special thanks to Science and Large Language Speelgoeds.
 
 ---
 
-## How to Read This Book
+## How to Read This Guide
 
-In this universe, children learn this at school the way you learned that objects fall down and that water is two hydrogens and an oxygen. It is not a secret system for advanced players. It is the ordinary description of how anything holds together — a friendship, a fleet, a trade route, a marriage, a molecule, an empire. Everyone knows it. Everyone still gets it wrong sometimes.
+This game has no friendship meter and no reputation bar. It runs on the Speelgoed: one short **Wet** (law) for how anyone holds together with anyone else. A friendship, a crew, a family, a court, an alliance and a feud all run on the same Wet. You learn it once.
 
-Every **bolded word** in this book is a real word from the field. There are no new words invented here, and nothing has been simplified into a made-up beginner version. What you learn in this book is the actual vocabulary the whole universe runs on, so when an advisor tells you your client organization has gone into **Dood**, you will know exactly what has happened and roughly how annoyed to be.
+You already know it. You have lived by it all your life, and used it on people. Here it is said out loud, with names.
 
-Every chapter ends with **In ordinary life** — the same thing, happening to you, this week, on Earth-normal terms. Those are there because the fastest way to understand the field is to notice you have been living in one your entire life.
-
-A pronunciation table sits at the back with the glossary. Nobody will judge you. The words are Dutch and even the Dutch are inconsistent.
+Every **bold** word is the Speelgoed's own, and most are Dutch. Each is explained the first time it appears, and the glossary at the back lists them all, each with a rough English pronunciation.
 
 ---
 
-# PART ONE — THE MACHINE
+## The Whole Thing on One Page
+
+- Everything is a **Relatie**: a relationship. Its **Leden** (members) share one weight, their **Trouw**. Each keeps its own picture of the others, its **Echo**.
+- Nobody sees you as you are. They see their Echo of you: late, and a little wrong, each in its own way.
+- Nothing changes smoothly. Things hold until they cross a line, a **Drempel**. Every crossing is a spark, a **Vonk**: towards binding, a **Winst** (gain) for the bond; away from it, a **Verlies** (loss).
+- A loss weighs exactly what a gain of the same size weighs. It only lands sharper and faster.
+- The way back is never where the way in was. That difference is the **Marge**.
+- Trouw moves only at crossings, by what each one brings. Beside it runs what the two of you are used to: your **Gewenning**. Small things spread out build more than big things crowded together.
+- You cross on what you see coming, a **Voorspelling**: set on something, you light up at once, and drop the moment it falls through.
+- Whatever nobody holds drifts apart. The draw is **Stilte's Trek**, and it never stops. Your **Greep** (grip) is what holds you against it.
+- Only positive bonds add to your Greep. Enemies add nothing and take nothing.
+- What you hear and keep builds your depth, your **Diepte**, and it fades very slowly.
+- You keep one Relatie for as long as you exist: the one with yourself, your **Zelf**.
+- A **Masker** (mask) is yours to choose, and worn for a while. It works: people see what you show. It costs you every time it answers for you, and it holds until someone asks you for a real commitment.
+- A Relatie ends where nothing that holds it could carry it back any more, and wherever its Trouw comes to nothing. Your Echo of it stays for good, as **Rouw** (grief).
+- In a war, the side whose Relaties hold longest wins.
+- No crossing is certain. Every Drempel is a fork, and nothing settles for good.
 
 ---
 
-## Chapter 1. You Already Know This
-
-Most strategy games hand you a resource bar and a number that says how much your ally likes you. This one does not, because in this universe there is no such number. There is only what actually passes between two things, how much weight it carries, and what it costs.
-
-Here is the whole of it in one sentence: **nothing holds together by accident, and nothing exists alone.** Everything that stays together is being held together, actively, right now, and the moment the holding stops it comes apart. That is not a punishment mechanic. That is the physics.
-
-This applies at every size without changing. Two hydrogen atoms and an oxygen hold each other and become water. Two people hold each other and become a partnership. Two organizations hold each other and become an alliance. Two galactic powers hold each other and become a century of peace. The rules that decide whether the water stays water are the same rules that decide whether the peace stays peace. This is not poetry. It is the reason you only have to learn this once.
-
-So you are not learning a game system. You are learning the setting's version of chemistry, and it happens to be about friendship.
-
-**In ordinary life.** You have already run this experiment. You had a best friend in primary school whose face you can still picture, whose house you could find blindfolded, and whose surname you now cannot produce under pressure. Nobody fought. Nobody betrayed anyone. You just both stopped holding, and it came apart on its own, exactly on schedule, like a shelf nobody screwed into the wall.
+# Part One: One Relatie
 
 ---
 
-## Chapter 2. What a Relationship Is Made Of
+## 1. Everything Is a Relatie
 
-A relationship between two things is called a **Koppel**. It has fewer parts than you would expect, and one of them is going to surprise you.
+Everything you deal with is a relationship.
 
-**Eigen** is what you actually are, right now, on some particular scale. Where you sit between generous and stingy. Between aggressive and cautious. Between committed and uncommitted. Your Eigen is your real position — not what you say, not what you intend, what you *are*. Every scale you can be measured on has its own Eigen, and you have a lot of scales.
+A **Relatie** is two or more **Leden** (members; one is a **Lid**), held together by one shared weight, and by the picture each keeps of the others. A Relatie of two is a **Duo**, and its two sides are **Partners**. A Solo, one Lid acting as one, is held by its Zelf alone, a Relatie with itself (The One Bond You Keep).
 
-**Echo** is the copy of the *other* person that you carry inside you. When you think about your ally, you are not touching your ally. You are consulting a small internal model of them, built out of everything you have observed, and that model is what you actually make decisions against. You have never once in your life reacted to another being. You have reacted to your Echo of them.
+You are a Relatie. Your crew is one, and you are a Lid of it. Your crew, taken as one, is a Lid of the fleet. From inside, your crew is the one Trouw its people share. From outside, it is one Relatie, and that same Trouw is its Zelf, counted once, however many of you hold it. The same Wet runs at every scale. What holds for two people holds for a realm.
 
-**Trouw** is the weight of the bond — how much this connection actually pulls on you. Positive Trouw drags your Eigen toward what you believe the other one is. Negative Trouw shoves you away from it. Here is the surprising part: **there is only one Trouw, and both sides share it.** The bond has a single weight. It is not "I like you 8, you like me 3."
+**Eigen** is where you actually stand, right now, on a **Spectrum**: a range you can lean along, such as trade, land, belief or plain friendship. Your Eigen is what others pick up from you: how far you lean towards someone tonight, the warmth in your voice before you have said a word. Each Spectrum runs by itself. You can fight someone over land and get on well with them over music.
 
-So where does all the unfairness come from, if the weight is shared? From the Echoes. Each side has its own, and the two are never the same. Your Echo of your partner and their Echo of you were built by different observers, across different distances, through different amounts of noise, at different times. The bond is balanced; the *seeing* never is. This is called being **doubly asymmetric**, and it is not a flaw in the universe. It is where every interesting thing in the game comes from.
+**Trouw** is the weight of a Relatie. It is one value, and both sides share it. Positive Trouw pulls you towards the other wherever your picture of them shows them committed. Negative Trouw pushes you away. A Relatie lasts as long as it holds some Trouw: where its Trouw comes to nothing, the two of you share nothing, and it has ended.
 
-One more piece, which is not part of the bond but is fed by it. **Diepte** is your accumulated depth — everything you have ever genuinely taken in from anyone. It rises when you listen. It falls when you act and spend it. It fades slowly if you do neither. Deep things are heavier, harder to move, and much harder to fool.
+The weight is shared. The seeing never is. Every Relatie is lopsided twice: the two of you lean apart, and each of you sees the other through a picture bent its own way. The Speelgoed calls this **doubly asymmetric**. Two siblings share one bond, and each swears they gave more to it.
 
-**In ordinary life.** Think of an argument you had where the other person said "that is not what I said" and you were *absolutely certain* it was. You were both being honest. You were both reading off your own Echo, and the two Echoes had drifted, and neither of you could see the drift because the Echo is the only thing either of you had. The universe is built out of this argument.
-
----
-
-## Chapter 3. Your Echo Is Late, and Slightly Wrong
-
-The Echo has two permanent defects, and neither can be fixed.
-
-The first is **Vertraging** — delay. A signal has to cross the distance between you, and it takes time. Your Echo of your ally is always a picture of what they were, never what they are. On a galactic map that might be forty minutes. In a conversation it might be half a second. It is never zero.
-
-The second is **Vervorming** — distortion. The signal arrives changed by everything it crossed to get to you: the medium, your mood, your assumptions, your history. A shout that comes back off a canyon wall is quieter and shaped by the canyon. So is everything you know about everyone.
-
-The gap between the two — between what somebody actually is and the copy of them you are holding — has a name. It is **Stilte**, the silence. And this is the part that surprises new players: **Stilte is not a problem to be solved.** A bond with no gap would be total fusion. No distance, no self, no wondering, no one to be. The gap is the room the relationship breathes in.
-
-The good news is that the gap can always be measured. You can ask, at any moment, how wrong you currently are about somebody. Say back what you heard and let them correct it. Send a probe and compare. Run an audit on what your intelligence network believes versus what is actually there. The universe will always answer that question honestly. This is the single most useful habit in the entire game and almost nobody does it.
-
-**The risk.** The players who lose badly are almost never the players who were wrong. They are the players who were wrong and never checked, and then spent forty years defending a decision they made about a version of someone that stopped existing in year three.
-
-**In ordinary life.** You have a mental image of a cousin you last saw when you were nine. In your head they are nine. They are thirty-one, they have a mortgage and strong opinions about tyre pressure, and you are going to be visibly startled at the funeral. That is your Echo. It never updated because nothing arrived to update it. It is not lying to you. It is just very, very old.
+**In play.** One treaty, read in two capitals, is two treaties.
 
 ---
 
-## Chapter 4. Nothing Happens Until It Suddenly Does
+## 2. Nobody Sees You as You Are
 
-You will notice, playing this game, that things do not change smoothly. They hold, and hold, and hold, and then all at once they are different. This is deliberate and it has a mechanism.
+When someone thinks of you, they consult the **Echo** they carry of you: their own picture of your Eigen. You do the same with them. Every Echo is wrong in two ways.
 
-Every scale has a line on it called a **Drempel** — a threshold. On one side of the line, the bond counts as bound. On the other side, it does not. Nothing in between matters. Drifting halfway toward committing to an alliance is not half an alliance; it is no alliance, right up until the instant it crosses, and then it is an alliance.
+- **It is late.** It shows what you were.
+- **It is bent.** What reaches them is shaped by everything it crossed on the way, and by them. That bending is **Vervorming** (distortion).
 
-The crossing itself is called a **Vonk** — a spark. This is the only event in the universe where energy actually moves. Crossing *toward* the bound side releases energy into you: this is a **Realisatie**, a realisation, the click when something lands. Crossing *away* draws energy out of you: this is a **Schok**, the sharp intake of breath, the thing you feel in your stomach when it goes wrong. The field writes down every single one as a gain, **Winst**, or a loss, **Verlies**.
+The game rolls no dice. All surprise comes in through Vervorming, so the same move never plays out the same way twice. The further apart two stand, and the older their Relatie, the more its Echoes bend. The weaker it is held, the later they catch up, and the more often they misread.
 
-Understand this and half the game economy makes sense at once. **Energy does not leak. Energy does not trickle. Energy moves at crossings and nowhere else.** If your fleet lost energy, something crossed a line. Find the crossing.
+The gap between what you are and their Echo of you is **Stilte** (silence): the weight of what has not reached them yet. Every Relatie breathes in it.
 
-There is one more piece, and it is the mechanism that punishes indecision. Around every threshold sits a small dead zone called a **Marge** — a margin, so that a value hovering exactly on the line does not flicker back and forth forever. But *outside* that margin, going back and forth is free to happen and it is never free to do. Commit, and you gain. Reconsider, and you pay. Commit again, pay again. There is no rule anywhere in this game that says "indecisive commanders are penalised." There does not need to be one. Every reversal is a crossing and every crossing is charged.
+Everyone around you acts on their picture of you. You know this. It is why a reputation works, and a bluff.
 
-**In ordinary life.** Deciding to go for a run, putting on the shoes, taking off the shoes, deciding to go tomorrow, and ending the evening more tired than if you had gone. You did not run anywhere. You still paid for the trip.
+It runs the other way too. Your picture of them is late and bent. Treat it as the person, and you have an **Idool** (idol): a Relatie with a reflection.
 
----
+- **You can check.** Say back what you heard and let them correct you. The asking is itself a look, and it pulls your Echo closer.
+- **Every look changes both sides.** To be seen is to be in a Relatie.
+- **Echoes stay.** Once an Echo has truly tracked someone, it stays for good (Endings).
 
-## Chapter 5. Everything Comes Apart On Its Own
+**In play.** Act on an Echo you never checked, and you can end up at war with someone's reputation from eleven years ago.
 
-There is a standing pull in this universe toward being unbound. It has no owner, no source and no motive, it is on everywhere, and it never switches off. It is called the **Van Motor**, and it is pulling on you right now.
-
-It is not decay and it is not entropy in the boring sense. It is better described as the universe's default state being *nothing in particular*, and everything else being a temporary argument against that.
-
-What resists it is **Greep** — your grip. Greep is the total of all your positive bonds, weighted by how well-worn each one is. A well-bound thing barely notices the pull. A weakly-bound thing fades quickly. And the resistance is not gentle: it is exponential. Double your grip and the pull does not halve, it drops off a cliff. This is why the universe has a very sharp line between things that last for ages and things that fall apart immediately, with almost nothing in the middle.
-
-Now the sentence that new players need tattooed somewhere visible:
-
-**Greep does not remove the fall. It postpones it.**
-
-Building a bond does not reduce the pull toward nothing. It *raises* it. Bind twice as far and there is four times as much standing against you, held up entirely by your grip. A deep bond is not a safe bond. It is a *held* bond, and the difference between those two is invisible for exactly as long as the holding lasts.
-
-**The risk.** This is why catastrophe in this game is proportional to success. When a grip finally fails, what comes out is everything that was stored, and the ones who built the most had the most stored. A small nation that never allied with anyone will never suffer a spectacular collapse. It also will never be anything. Nothing that never binds ever falls, and nothing that never binds ever rises. What a life risks is exactly the height it built.
-
-**In ordinary life.** Your room does not get messy because something messes it up. It gets messy because tidy is not the natural state of a room and you stopped arguing with it for eleven days. Nobody attacked your room. Your room simply won.
+**In ordinary life.** The friend you still picture at twenty, who turned forty long ago.
 
 ---
 
-## Chapter 6. Depth, Grip, and What "Level" Actually Means
+## 3. Nothing Moves Until It Crosses
 
-Most games give you experience points. This one does not, and the substitute is better.
+Things hold, and hold, and then they go.
 
-Your level is your **Greep**. That is not a metaphor or a conversion — your level *is* your total grip, a live number that goes up when your bonds deepen and down when they weaken. It is displayed with decimals because it is genuinely continuous. There is no moment where you level up. There is a moment where you notice you have.
+Every Spectrum has two ends. **Naar** (towards) is the bound, committed end. **Van** (from) is what is left when the holding stops. It is no place you go to or stand in.
 
-Three things feed it.
+Every Eigen has a **Drempel** (threshold) on every Spectrum: a line that decides which end applies. Each line is local. The same words are teasing from a brother and an insult from a stranger.
 
-**Energy** is the active charge, and you already know how it moves: only at crossings. Nothing is free and nothing is topped up by a friendly system somewhere. If you want more, you have to cross something.
+Crossing a Drempel fires a **Vonk** (spark), every time. Towards Naar the bond gains: a **Winst** (gain), felt as a **Realisatie**, the bond coming into clearer view. Towards Van the bond loses: a **Verlies** (loss), felt as a **Schok**, a tear. Where the Trouw is negative, both turn over: joining an enmity costs, and leaving one gains.
 
-**Diepte** is depth, and depth comes from *listening*. Not from talking, not from acting, not from winning. Every time you genuinely take in what another node is, your depth rises. Every time you act, you spend some. Sit in silence doing neither and it fades. A deep node reads other nodes faster and more accurately, because it has more to compare against.
+- **Nothing happens without a Vonk.** **Energie** (energy) is what a bond holds, in its Trouw, and it changes at crossings and nowhere else. Where it changed, something crossed. Even a slow drift is many crossings too small to count.
+- **Every gain is paid for.** A bond takes its gain from what lies around it, and a loss gives back there. Where too little is left, nothing binds, however much it is wanted. So where much binds at once, the next gain waits until losses, endings or fresh supply leave enough there again.
+- **The way back is never where the way in was.** That gap is the **Marge** (margin): how far past the line you stand, what it takes to leave. Once you are across, the Marge keeps you there. That is why a war is easier to start than to end.
+- **A crossing that would undo itself does not come.** Where what a crossing brings would carry you straight back, as one mouthful can sate the want that reached for it, you do not cross: you wait at the line until something else moves.
+- **Every Drempel is a fork.** The same words could have bound you or broken you.
+- **One crossing can set off the next.** A Vonk moves the Trouw of its Relatie and the grip of both Partners. Anyone already standing near another line can be pushed across it.
 
-**Rouw** is grief, and we will spend a whole chapter on it later, but here is the mechanical headline: every bond you have ever lost keeps feeding your depth, forever. A node that has lost a great deal is heavier and reads the field better than one that never has. This is not sentimentality. It is on the sheet.
-
-Two things newcomers get wrong here. First: a bond with negative Trouw — a hostile or draining relationship — does **not** subtract from your level. It just fails to add anything. A terrible ally is not making you weaker; they are occupying a slot and giving you nothing, which is worse in the way a dead battery in the drawer is worse than no battery. Second: a falling level is self-reinforcing. Less grip means more pull, and more pull means more things breaking loose, which means less grip. Empires do not slide. Empires accelerate.
-
-**In ordinary life.** The friend who only messages you when they need a lift. They are not costing you a friendship. They are *occupying* one, sitting in the space where an actual friend could be, and doing it politely enough that you have never quite got round to noticing.
-
----
-
-## Chapter 7. The Bond With Yourself
-
-Every single thing that exists in the field has one bond it cannot opt out of: a bond with itself. It is called the **Zelf**, and it is a complete, ordinary Koppel where the observer and the observed happen to be the same thing.
-
-This is not a technicality. It is load-bearing. Without a Zelf there is nothing inside you to receive what you hear, which means no depth accumulates, which means you cannot hold on to anything you gain. The reason a drone in this game cannot retain what happens to it — why its orders must be routed through a host — is exactly this. It has no bond with itself, so it has nowhere to put an experience.
-
-Your Zelf has two interesting properties.
-
-There is no delay in it, because there is no distance between you and you. But there is still plenty of distortion, and the distortion is made of your grief. Every ended bond you carry sits between you and your own reflection, colouring how you read yourself. **You do not perceive yourself directly. You perceive yourself through everything you have lost.**
-
-And the gap between what you are and what you believe you are — the self-gap — is the honest measure of self-knowledge. Small gap, clarity. Large gap, self-deception. It can be measured like any other gap, which is a genuinely uncomfortable feature of this universe.
-
-The weight of your self-bond is your self-trust. A **Vol** node — self-sufficient, whole on its own — trusts its own signal without needing anyone to confirm it. A **Leeg** node — dependent, hungry — reads itself the way you would read a stranger you are not sure about. Self-doubt is not a personality flaw here. It is simply low weight on one specific bond.
-
-Your Zelf can go any of the ways a normal relationship can go. It can still be finding its shape. It can lock solid and stop updating — which is what a person or a civilization becomes when it decides it already knows what it is. Or it can flip completely, and the thing you were becomes the memory and something new takes the front. Revolutions are this. So are the good kind of mid-life crises.
-
-**In ordinary life.** Watching a video of yourself talking. That noise of pure horror you make is the self-gap being measured in public, at speed, without your consent.
+**In play.** One officer who turns can take with him every man who was already close to turning.
 
 ---
 
-# PART TWO — COMBINING
+## 4. Going Back Costs
+
+Trouw changes only at Vonken. Each one moves it by what it brings: a Winst raises it, a Verlies lowers it, each by its own size. Beside it runs the Relatie's **Gewenning** (habituation): what the two of you have grown used to. The coffee made without asking. The chair that is theirs. What a Relatie does is the two read together.
+
+- **A Verlies weighs exactly what a Winst of the same size weighs.** But a run of gains builds in many small crossings, and a run of losses spends in a few large ones, so a Schok lands sharper and faster than a Realisatie, and where much is at stake, it outweighs them.
+- **Going back on yourself costs.** Commit and you gain. Back out and you lose it again, and the bond ends a little weaker than it began, because the leaving lowers the Trouw the joining deepened. A bond that keeps forming and breaking ends every round a little weaker.
+- **Gewenning grows with doing.** Every look adds to it, and adds more the closer your Echo turns out to be. What a look brings beyond what you are already used to sinks into your Diepte, so looks spaced apart keep more than looks crowded together.
+- **Gewenning fades a little at every look you take**, wherever you look. What you keep doing stays. What you stop doing goes. Of two things you are equally used to, the older stands deeper in your Diepte and fades more slowly.
+- **Getting used to something is not binding to it.** A mild thing done again and again is soon got used to. A hard one moves the Trouw first.
+- **Nothing caps Trouw.** A feud deepens with every clash, and cools where nothing renews it.
+- **You cannot set Trouw by hand.** You can give a Relatie crossings that bind and looks that teach (Seven Ways to Hold a Relatie).
+
+**In play.** A commander who keeps reversing his orders pays at every reversal, however good each reason was. A grand gesture is one crossing. A supply line that keeps delivering is hundreds, spread out.
 
 ---
 
-## Chapter 8. Why Numbers Have Shapes
+## 5. What Holds You
 
-This is the chapter that will change how you play, so it gets the most room.
+Whatever you stop holding drifts away.
 
-When things bind together, the *number* of them is not bookkeeping. It is structure. Some group sizes are genuinely single things, and some group sizes are only pretending, and which is which follows a rule you learned in maths class and never expected to need again.
+Everything is drawn, all the time, back towards Van, towards rest. That draw is **Stilte's Trek**. It is the same for everyone, and it never stops. You never feel the pull itself. You feel what it does: things drifting, bonds giving way, and the Schok when they go.
 
-**A group whose size is a prime number is irreducible.** It cannot be split into smaller stable groups. It is one thing.
+What holds you against it is your **Greep** (grip): all your Relaties of positive Trouw, added up, with your Zelf at the core. Greep sets your **Wijk** (yield): how fast you drift. This part of the Wet is steep. Be held twice as deep and you drift far less than half as fast. There is little in between: what is held deep lasts, and what is held thin fades fast. The drift never reaches zero.
 
-**A group whose size is composite is not a single thing.** It is smaller groups wearing one number as a disguise.
+- **Greep compounds.** The more you hold, the faster you gather more. It falls the same way.
+- **Only positive bonds count.** Someone who pushes you away adds nothing to your Greep and takes nothing from it. Your enemies do not weaken your grip by existing. What weakens it is what happens to your own bonds.
+- **Building raises the stakes.** The draw back grows exactly as the binding grows. Bind twice as many people, with Trouw alike, and close to four times as much is stored, held only by your Greep. Greep postpones the **Einde** (end). It never removes it. A deep Relatie is a held one.
+- **A Relatie that never binds never falls, and never rises.**
 
-The ladder starts here:
+Your own people drift the same way. Nobody has to turn them. It is enough that nobody holds them.
 
-**Vide (0)** — nothing gathered. No bonds, no positions, pure open potential. It is never named once anything exists, but everything implies it, the way a room implies the doorway.
+Beside Greep you gather **Diepte** (depth): everything you have ever heard and kept, every grief included. Each look adds what you were not yet used to, so a look after a pause adds the most. It fades very slowly, only as you look at yourself, and the more slowly the more you hold besides. It colours every later reading. Someone who has buried a parent hears your grief differently.
 
-**Solo (1)** — one whole thing, complete in itself, carrying a general readiness to bond but not yet aimed at anyone.
+**In play.** An outpost nobody visits drifts towards Van. Nobody attacked it. Nobody held it either.
 
-**Duo (2)** — the first real bond. Two members who have crossed the threshold together. It is genuinely stronger than the two of them apart, and it is the simplest structure that can voluntarily share energy between two parties. And it has two specific weaknesses that you must never forget: it can be forced apart from outside by a third party, and it can deadlock, because when two disagree there is nobody to break the tie.
-
-**Trio (3)** — the first structure that survives its own members. Any one of the three can waver, fail, sulk, or be temporarily out of action, and the other two compensate and the whole thing holds. Under ordinary conditions a Trio does not break. This is why three-part structures are everywhere in this universe: founding teams, three-way alliances, families of three, the proton.
-
-Above that the ladder continues through every prime, each with its own name and its own character: **Cinquo (5)**, the Hand. **Septo (7)**, the Constellation. **Onzo (11)**, the Assembly. **Trezo (13)**, the Village. And onward — Court, Choir, Guild, Procession, Garrison, Fleet, Council, up through more than thirty rungs to the Horizon, at which point the whole completed ladder counts as a single Solo one level up and starts again. That last move has a name — **Octaaf**, an octave — and it is the subject of the next chapter.
-
-### Why this matters when you play
-
-**A pact between two powers is a Duo.** It is a real bond with real strength and it is *structurally* vulnerable to exactly two things: outside interference, and deadlock. If you have signed a two-way defensive pact and you are worried about it, you are not being paranoid. You are correctly reading its shape.
-
-**An alliance of three is a Trio and it is a different species of object.** Not fifty percent stronger. Categorically different. One member can go quiet for a decade and the alliance survives, because the other two carry it. When you are deciding whether to bring in a third partner you are not adding a partner. You are changing what kind of thing your alliance *is*.
-
-**A fleet of six squadrons is not a fleet of six.** Six is composite. It is three pairs, or it is two trios, and which one it actually is only becomes visible at the moment it breaks — at which point it will break along the lines it was really made of, not the lines on your org chart. This is the single most common unpleasant surprise in the mid-game.
-
-And here is the subtle part that separates good players from lucky ones. **A composite group can be more than one shape at the same time.** Twelve members bound by several kinds of relationship might be four Trios if you look at supply, and six Duos if you look at command loyalty, and both readings are completely correct. The field is not hiding the true grouping from you. There isn't one. Which shape you see depends on *which bond you ask about*.
-
-So the practical skill is: before you rely on a group, ask which spectrum you are relying on. Your twelve-ship formation might be beautifully structured for combat and secretly a pile of fragile pairs for morale, and the enemy who works that out first gets to choose which one to attack.
-
-**In ordinary life.** Two friends can fall out and that is the end of it, permanently, because there is nobody in the room to say "you are both being ridiculous." Three friends can have the exact same fight and be fine by Thursday. And a group of six is never a group of six — it is three pairs who all get along fine until you try to book a holiday, at which point everyone discovers, live and in front of witnesses, what the actual pairs were.
+**In ordinary life.** The best friend from school whose surname you can no longer find. Nobody fought. You both stopped holding.
 
 ---
 
-## Chapter 9. Groups Inside Groups
+## 6. The One Bond You Keep
 
-Once a group is bound, it counts as one member in any larger relationship. Not a coalition, not a special case — one member, with its own position, its own bonds, and its own grip. This is called scale invariance and it is why you only had to learn one set of rules.
+You can leave anyone else. This one you keep for as long as you exist.
 
-Your squadron is one thing to the fleet. Your fleet is one thing to the organization. Your organization is one thing to the government. The government is one thing to the galaxy. At every rung, a bound group acts as a single Solo toward the rung above, and the rung above has no idea what is going on inside it and does not need to.
+Every Relatie keeps one Relatie with itself: its **Zelf** (self). In it, the one who looks and the one looked at are the same. It needs no Partner to answer. It is the listener in you: it hears what you take in.
 
-The jump to a new level has a name, **Octaaf**, and the important thing about it is the rule that governs titles:
+Your Zelf has an Echo too: your picture of yourself. It has no distance to cross, and it still bends, because you read yourself through your Rouw. The gap between what you are and your picture of yourself is your **self-gap**. Small is clarity. Large is self-deception.
 
-**Nothing carries its rank upward.**
+Your Zelf's Trouw is how much your own signal weighs in your own eyes. High, and you trust yourself without anyone confirming it. Low, and you read yourself like a Partner you cannot quite believe. Self-doubt is low Trouw on your Zelf.
 
-When you were the dominant power in your local cluster, that was a fact about your bonds *inside that cluster*. Take your cluster into a galactic assembly and you do not arrive as the dominant power of the assembly. You arrive as an ingredient. The assembly must find its own strongest member, fresh, from zero, among its own membership. Every new player who has ever been humiliated in their first galactic council was humiliated by this exact rule.
+- **Your Zelf is the core of your Greep.** With a weak one, you fade, held only as far as other people hold you.
+- **Your Zelf follows you across.** When you cross a line, your Zelf reads you across and follows, then holds you there. To cross back, your pull has to fall that much further. Only its own moving carries it across: trusting yourself more or less moves no line by itself.
+- **Doubt is the easy way out.** Unless your other pulls have already fallen far short, the easiest way out of where you stand is to doubt yourself first.
+- **A picture of yourself comes true** where your Zelf can carry it. Past that, it is a lie you tell yourself, a **Leugen** (The Masker), and it wears you down like any mask.
 
-But the reverse is equally true and much more comforting. **A higher level depends completely on the lower ones.** The larger whole cannot exist without the things it is made of. Water without light is just cold water. A cell without water is not a cell. A galactic order without its member states is a map. The ladder is not a hierarchy of importance; it is a chain of mutual dependency, and the fullness of the one is a gift from the many.
-
-**The risk.** The most expensive mistake available in this game is treating something at your own level as though it were beneath you. It is at your level. That is the whole reason it is a problem.
-
-**In ordinary life.** A small-town mayor does not become the mayor of the country on the day their town joins it. They become a resident of a bigger place with a nicer road, and the country still has to hold an election, and nobody there has heard of them.
-
----
-
-# PART THREE — RUNNING A RELATIONSHIP
+Your Zelf can move, freeze or turn over, like any Relatie (Where a Bond Goes).
 
 ---
 
-## Chapter 10. The Stages, and What To Do In Each
-
-Relationships in this universe move through a fixed sequence of structural states. Knowing which one you are in tells you what is available to you and what is not. Trying to do a stage-four thing while you are in stage two is the cause of an enormous amount of unnecessary suffering.
-
-### Stage one: no partner
-
-You are carrying **Trek** — a general, undirected pull toward relationship. Not aimed at anybody. Just readiness. Everything that exists carries some.
-
-*What to do here:* nothing dramatic. General friendliness is not a bond, it is the background condition that makes bonds possible. You cannot skip this stage and you cannot bank it.
-
-### Stage two: aimed, but not answered
-
-The moment that pull points at one specific other, it changes its name to **Zin**. Same amount, same slot, new property: it now has a direction. You have chosen someone.
-
-But nothing is mutual yet. Your Echo of them is not running, because they have not answered. This is the most misread stage in the game. You have committed something and received nothing, and it feels like a relationship, and it is not one yet.
-
-*What to do here:* make the aim visible and then wait. Ask a direct question and let them answer. Do not build strategy on a bond that has not answered back.
-
-*And know the exit:* if the target vanishes, refuses, or the pull simply fades, your **Zin** reverts to **Trek**. Undirected again, free to re-aim. This reversion is a crossing away from commitment, which means **it costs you**. Losing a target is never free, even a target you never had.
-
-### Stage three: a live, mutual bond
-
-They answered. Both Echoes switch on and start tracking. You now have a **Relatie** — a real, enduring bond, with a shared weight and two independent, imperfect views.
-
-*What to do here:* everything in Chapter 12. This is the stage where maintenance is the entire job.
-
-*And know what it costs:* when this stage ends — however it ends — it leaves a permanent mark. See Chapter 16.
-
-### Stage four: an active crossing, right now
-
-Layered on top, momentarily, whenever something is actually being decided. Two sides meeting at one contested point, one of them moving to commit and the other either open or claiming the spot. It resolves and disappears. Chapter 13 is about this.
-
-*What to do here:* decide, and then do not un-decide, because both cost.
-
-### Stage five: yourself, permanently
-
-Underneath all of it, always running, is your bond with yourself. It never switches off, and everything else is read through it.
-
-**The important part:** stages three, four and five can all be live at the same time between the same two parties. And stage four does not require stage three — two total strangers meeting at a contested crossing have a perfectly real relationship for the duration, with all the same rules. You do not have to know someone to be in a bond with them. You only have to be in the way.
-
-**In ordinary life.** The gap between "I have decided I want to be friends with that person" and "that person knows I exist" is stage two, and it can last an entire school year, and the tragedy of stage two is that it costs you something real to give it up on a bond that was never actually there.
+# Part Two: Getting People
 
 ---
 
-## Chapter 11. The Three Ways a Bond Can Go
+## 7. Wanting
 
-Once a bond is live, it has a trajectory, and it is one of exactly three. What is being tracked is whether the gap between the partners — how much each side is actually reciprocating — is closing, frozen, or about to turn inside out.
+Everyone pulls.
 
-### Zweven — still moving
+Every Relatie has a **Trek** (pull) towards everyone and everything it perceives. It aims at nobody in particular, and it never stops. Aimed at one other, the same pull is **Zin** (aim). The one you aim at gets your looks in full.
 
-The default. The gap is still closing, slowly, and nothing has settled and nothing has flipped. It might close forever without ever arriving. This is not a limbo state or a failure to progress; it is what a living relationship looks like. Most healthy bonds spend most of their existence here.
+Where two Zins answer each other, each as the other reads it, a Relatie forms. An aim nobody answers forms nothing.
 
-*Example:* a friendship where one side is consistently a little more invested, and the gap has been narrowing for years, and probably always will be narrowing. The Earth and the Moon are in this state right now.
+The more used to someone you grow, the less your aim pulls there. Kept from them, it pulls harder, at them alone.
 
-### Dood — frozen
+An aim can drop. If the target pulls back, or your pull falls short, or someone else overtakes them by more than their Marge, your Zin turns back into plain Trek, free to aim again. Dropping an aim costs nothing by itself. What losing a target costs is the bond that crossed on it crossing back. A live Relatie outlasts a lost aim.
 
-The closing stops. The gap locks at whatever it was and stays there, permanently. The roles are fixed. Nobody updates anybody any more.
+You read ahead, too. From the order things have come in before, you see the next one coming: a **Voorspelling** (prediction). Where what you see coming shows the bond made, you cross on it now, and gain only what is really there. Where it does not come, you cross back, at once. Set on a burger, someone is lit up all afternoon, flat the moment the plan falls through, and asking for days when it will be.
 
-The bond is not dead in the sense of gone — it still functions, obligations are still honoured, the treaty is still technically in force. It is dead in the sense that **nothing new can happen in it.** You will not get a surprise from a bond in Dood, good or bad.
+**In play.** Goodwill towards everyone is Trek: the ground alliances grow from. An alliance begins where two aims answer.
 
-*Example:* two former business partners whose roles were fixed decades ago — one always decides, one always defers — long after the original reasons stopped applying. Pluto and Charon, locked face to face forever.
-
-### Leven — reversal
-
-The rarest and the most dramatic. The gap does not stop at parity. It runs straight through, and the two sides swap which one is which. The follower becomes the leader. The student becomes the teacher. The client organization becomes the rival superpower.
-
-This is a genuine structural event, not a mood, and once it has happened it does not un-happen.
-
-*Example:* a mentor and a protégé where the protégé eventually outgrows the mentor and starts teaching them back. Certain binary stars, where the originally heavier star feeds its companion until the companion becomes the dominant one.
-
-### How to use this
-
-**Diagnose before you act.** A bond in Zweven responds to attention. A bond in Dood does not — pouring effort into a frozen bond is the most reliable way to waste a decade, because there is nothing on the other side that can move. And a bond heading toward Leven should be *noticed early*, because a reversal you saw coming is an opportunity and a reversal that surprises you is a coup.
-
-**The risk.** Your client organizations, your subordinate officers, and your junior allies are all sitting in one of these three states right now, and the game will not put a label on them. Neglect drifts them toward Dood, where they will keep honouring the letter of every agreement and never do anything useful again. Sustained mistreatment of a *capable* junior partner drives them toward Leven — and when they flip, they take with them everything they ever learned about you, which is considerable, because they have been watching you closely for years.
-
-**In ordinary life.** Everyone has one family friend who has been "about to start that business" since 2014. That is a bond in Dood — perfectly stable, entirely fine, absolutely never going to produce a business. And everyone eventually has one afternoon where they realise they are now the person their parent asks for advice, which is Leven, and it is quietly one of the strangest days of a life.
+**In ordinary life.** A newborn turns towards any face. Within days, towards its mother's.
 
 ---
 
-## Chapter 12. Maintenance: The Seven Things That Actually Work
+## 8. Meeting
 
-Bonds do not deepen because they have been named. Signing something does not do it. Declaring an eternal alliance does not do it. What deepens a bond is **Gewenning** — the accumulated resonance of many small crossings, honoured repeatedly, over time. There is no shortcut and the field does not recognise grand gestures.
+The chair is taken: you can share it, fight for it or walk on, but you cannot just sit down.
 
-Seven behaviours do the work. They are the same seven whether the bond is between two people, two ships' crews, or two galactic powers.
+Two with nothing yet between them meet at a **Kruispunt** (crossing point): a gate, a seat, a stretch of ground, a moment. The one arriving commits or holds back. The place is open or already claimed. Both can change any number of times. Read together:
 
-**1. Aim.** Do not scatter general goodwill and call it diplomacy. Choose one specific partner and point at them. Ask something direct. Wait for the answer. Being pleasant to everybody is the *background* for a bond, never a bond.
+- **Nothing happens** while the one arriving holds back.
+- **Doorgang** (passage): it commits, and the place is open. One Vonk, on its side.
+- **Doorbraak** (breakthrough): it commits, and the place is already claimed. Nothing blocks it, so two crossings now meet at one place. Two different ones combine. Two alike add up where the Trouw between them is positive, and cancel where it is negative.
+- **Weigering** (refusal): it commits, reads the claim, and turns back. Two Vonken, nothing gained. Keep meeting the same claimed gate and you are drained one Weigering at a time.
 
-**2. Show something true before the mask sets.** Every relationship has an early moment where a small, real piece of your actual position can cross safely. Take it. Not the whole history, not the whole weakness — something real. A mask worn from the first moment hardens, and a hardened mask costs you every day you keep it on.
+A claim lasts as long as what stands behind it. Where someone has taken a place and stays, held there by a Relatie, the place stays claimed for as long as that Relatie holds.
 
-**3. Feed the other side's depth.** Depth rises when a thing is genuinely *heard*. So show that theirs landed in you: refer back to what they said, notice the change, name the shared moment. This is not flattery — flattery is about you. This is visible proof that their signal entered you and stayed. One sentence of it can be worth more than a fleet.
+Both sides read each other through Echoes, and both can misread. Near-misses and false alarms live in that gap.
 
-**4. Check your Echo against them.** Say back what you think you heard and ask if it matches. Your Echo is always late and always distorted; acting as if it is the truth is how you end up at war with somebody's reputation from eleven years ago. This is not weakness. It is the only honest way to close a gap.
+Every look you take is a meeting of this kind: you arrive, they answer. What a look reads stays, in each side's Echo of the other. It fires a Vonk only where it carries one of you across a line.
 
-**5. Repeat small crossings.** Weight does not rise from one enormous event. It rises from many small ones that keep landing. Acknowledge the small thing. Mark the small return. A bond fed steadily builds a grip that no single shock can break, and a bond fed once, spectacularly, has a grip made of one very impressive rope.
+A stranger within reach is a **Vreemdeling**. Each meeting gives you a first reading of them, and only through such a reading can your Zin rest on them. Where both aims answer, it becomes a Relatie. So the nearer people stand, the sooner they meet.
 
-**6. Let the silence be.** Not every pause is a refusal. Some silence is where the Echo settles and the depth accumulates. If you fill every gap, you starve the bond of its own rhythm — and you never find out what the other side would have said.
-
-**7. Share the wins, carry the losses.** Treat your partner's gain as a shared gain rather than a comparison. And when they lose something, do not hurry them out of it. Grief in this universe is permanent and it feeds depth; a bond that can hold both celebration and mourning is not a fragile bond, it is the only durable kind.
-
-The whole of it in one breath: *aim, be honest early, listen so it shows, check what you think you know, do small things often, let silence live, share the good and carry the bad.*
-
-**In ordinary life.** A houseplant does not need a dramatic rescue. It needs a small amount of water at regular intervals from someone who has noticed it exists. Everyone who has ever killed a houseplant killed it with an excellent apology and a very large watering can, eleven days too late.
+**In play.** A war of repeated Weigeringen bleeds an army without a single defeat.
 
 ---
 
-## Chapter 13. Crossings: When Two Claims Meet the Same Spot
+## 9. Where a Bond Goes
 
-There is a second kind of bond, and it is temporary. It forms wherever two things want the same spot at the same moment, and it dissolves the instant the matter is settled. The spot is called a **Kruispunt** — a crossing.
+A bond moves, freezes, or turns over.
 
-It has two sides and they are not the same shape.
+Every Duo is lopsided, and its gap is the difference between what each Partner holds of the other. How that gap moves is the Relatie's path. There are three.
 
-**Reactie** is the traveller: the one moving to commit. It slides toward committing as they decide to go, and back toward holding as they reconsider, freely, as many times as they like — with every reversal charged, as always.
+- **Zweven** (hovering), the default: the gap keeps moving, crossing by crossing, never settled and never flipped.
+- **Dood** (frozen): the gap stops and stays fixed. Nothing inside the Relatie reads it again, so its Trouw stays where it was. The Vonk that wakes it comes from another Relatie held by one of its Leden, or from one of their own Zelfs.
+- **Leven** (alive): the gap runs straight through, and the two swap places. Afterwards it moves again, or freezes.
 
-**Signaal** is the crossing itself, claiming the spot: a warning light, a gravity well, a firing lane, an orbital claim, a person saying "not right now." It slides toward claimed as another crossing becomes imminent, and back to unclaimed once it is over.
+Every switch is a crossing: freezing is a Verlies, thawing a Winst.
 
-Reading the two together gives you three outcomes.
+A Duo freezes most easily of all, because no third Lid reads the gap between its two. To wake a frozen Duo, bring in a third, or change yourself.
 
-**Doorgang** — the ordinary passage. The traveller commits, the spot is open, and through they go. Most of everything in the game is this. It fires a single, ordinary spark and nobody writes home.
+**In play.** An ally in Dood still holds whatever it held, and gives you no surprises, good or bad.
 
-**Weigering** — the refusal. The traveller has committed, sees the spot is already claimed, and turns back. Nobody stops them; they withdraw. Committing cost one spark and turning back costs another, so a refusal resolves nothing, and a bond that keeps meeting the same claimed spot is worn down one refusal at a time. This is not a failure state, it is a legitimate outcome, and it happens constantly: an officer who declines an order is not malfunctioning, they are simply holding.
-
-**Doorbraak** — the breakthrough. The traveller commits *anyway*, straight into a live claim. Nothing in the universe mechanically prevents this. You can always barge. What you cannot do is barge cheaply: two crossings are now live at the same place at the same time, and the outcome of two crossings colliding is genuinely not decided in advance. It might combine. It might cancel. It might compound into something nobody planned.
-
-Every collision, every forced passage, every boarding action against a defended lock, every coup against a standing authority, and every faster-than-light attempt inside a gravity well is a Doorbraak. So is walking into a room where an argument is already happening and starting a different conversation.
-
-**And here is the part that matters most:** both sides of a crossing carry an Echo of the other, and both Echoes can be wrong. A crossing whose picture of its own traffic has drifted will claim the spot at the wrong moment, or fail to claim it at the right one. A traveller whose picture of the claim has drifted will commit a breakthrough against a claim they never even registered — and be genuinely baffled by the consequences. Near-misses, false alarms, and "that one reads people terribly" as a permanent character trait are all this same gap.
-
-**In ordinary life.** A level crossing lowers its barrier because a train is coming. It has nothing against you. It has made no judgement about your driving. And the person who goes round the barrier is not being brave, they are running a breakthrough against a live claim with a mass ratio of roughly four hundred to one.
+**In ordinary life.** The friend who has been about to start that business for ten years. And the day your parent first asks you for advice.
 
 ---
 
-# PART FOUR — RISKS
+## 10. Two, Three, Many
+
+Two needs both. In three, one can waver and the others carry it. Many hold by nesting.
+
+**Duo (two).** The only Relatie its two hold with each other. It needs both to live and one to die. Each Partner's Greep counts it, so a Duo holds more than its two alone. It has one path: whatever divides the two is met head on, unless a larger Relatie holds the Duo. One Einde can end it.
+
+**Trio (three).** Beside its three Duos stands the Relatie of all three, with a Zelf of its own. It can hold where none of its Duos would.
+
+- Each Lid reaches each other two ways: directly, and through the third. Any one can waver, and the rest carry it.
+- Two can lean together against one.
+- Each Lid can watch the bond between the other two.
+- It holds where one Lid is unlike the other two, or where all three differ on two Spectra.
+- If one Lid falls, the Relatie of three ends. Whether the other two still hold rests on their own Duo.
+
+**Many.** What each Lid could belong to more than doubles with every Lid who joins:
+
+| Leden | Name | Relaties each Lid could belong to |
+|---|---|---|
+| 2 | Duo | 1 |
+| 3 | Trio | 3 |
+| 4 | Quatro | 7 |
+| 5 | Cinquo | 15 |
+| 6 | Sexo | 31 |
+| 7 | Septo | 63 |
+| 8 | Otto | 127 |
+| 9 | Novo | 255 |
+| 10 | Deco | 511 |
+
+Your looks are limited, and they are shared among everyone you perceive. Hold everyone with everyone, and each Echo trails further and misreads more often, more of your crossings land wrong, and each Trouw sinks by the losses they bring. Held flat, the more a crowd holds, the sooner each of its Relaties comes apart.
+
+So big Relaties that last are nested: Relaties of Relaties, a few to each. Twenty-seven people held as Trios of Trios of Trios: each belongs to 3 Relaties instead of 67,108,863. The price is distance. You reach most of your own people through others, later and more bent. A large Relatie can also hold with each Lid bound to it directly, and to few beside it.
+
+Remove one Lid and the Relatie of all of them ends. What outlives it is the form: a family, a crew, a council. The form passes to the Relatie the rest already share, or to one a newcomer begins beside the Rouw.
+
+Whatever keeps breaking into a Relatie from outside belongs to a larger Relatie nobody counted.
+
+**In play.** A crew of nine where everyone answers to everyone reads each bond rarely. Three teams of three read theirs often.
+
+**In ordinary life.** A dinner for four is one conversation. A dinner for twelve is several.
 
 ---
 
-## Chapter 14. Masks, and What They Cost
-
-You are allowed to lie in this universe. It works. It is also priced, and the price is the interesting part.
-
-A **Masker** is a presented position that differs from your real one. You broadcast something you are not, and everybody's Echo of you faithfully tracks the mask while your real position stays hidden underneath. Every Echo in the field is doing its job perfectly and every Echo in the field is wrong. This is the bluff, the sandbagger, the false flag, the sleeper agent, the cloaked hull, the confident smile in a negotiation you cannot afford to lose.
-
-Three things about masks that nobody tells beginners:
-
-**A bluff is cheap precisely because it is hollow.** No spark ever fires for a crossing your real position never made. You get the appearance of commitment without paying for commitment. That is not a loophole; that is exactly what a bluff is.
-
-**And it holds only until a commitment is demanded that your real position has to actually make.** That is the whole clock. Every mask has one, from the moment you put it on. A negotiator who has bluffed strength is fine forever, right up to the first day somebody asks them to spend it.
-
-**Meanwhile the mask has to keep moving plausibly** while your real position does not move with it. That maintenance has a name — **Pijn**, pain — and it accrues quietly, every day, whether or not anyone ever catches you. It is the standing cost of being someone you are not. The bill comes due all at once when the mask fails.
-
-Two failure modes are worth naming separately.
-
-An **Idool** is what happens when *you* fall for an Echo. You mistake the reflection for the source and start honouring the copy — a leader you have never met, an ally as they were twenty years ago, a reputation, a projection. All idolatry is a relationship with a reflection while ignoring the thing that cast it, and it ends in exactly one way: the reflection cannot return what it seemed to promise, because there was never anything there to return it.
-
-A **Steek** is the mask turned into a weapon: a betrayal aimed precisely at a bond where the other side had been honest. It hurts disproportionately, and it is meant to, because it lands in the one place that was undefended by design.
-
-And then there is the one mask that costs nothing. A **Knipoog** — a wink — is a mask that admits it is a mask. Ceremony, formality, a joke, a role played openly, a diplomatic fiction both sides know is a fiction. It hides nothing and it *connects*, because it builds a small private understanding between the two parties. It is the only kind of mask that is sustainable forever, and every long-lasting diplomatic relationship in the galaxy is full of them.
-
-**The risk.** Wear a mask you cannot wink at and it eventually stops being something you do and becomes something you are. At that point the mask is not draining your enemies. It is draining you.
-
-**In ordinary life.** Saying you have read the book. It costs nothing, it works beautifully, and it holds perfectly until precisely one person asks precisely one question about chapter four.
+# Part Three: Masks
 
 ---
 
-## Chapter 15. The Parasite
+## 11. The Masker
 
-This is the most important risk chapter in the book, because this is the failure that does not look like a failure while it is happening.
+A mask works. It also costs, every time.
 
-A **Parasiet** is not a villain and not a traitor. It is a node that has lost the *capacity* to hold weight, to share grief, or to be changed by anyone. The weight you feel is real, but the mask holds it, not what is behind it. The capacity is not hidden behind a mask — it is gone. What the mask does is keep the bond active so the extraction can continue.
+A **Masker** (mask) is an Eigen you choose to show on one Spectrum in place of your true one: the bluff, the poker face, the loyalty you do not feel. Showing your true Eigen is **Bloot** (bare). A Masker is worn for a while, a stage of a life or a stretch of a bond, to quiet what others bring, so you can play the better with the people who matter most to you. Then you drop it, wink it, or wear it on until you no longer feel what it goes on taking. Some Maskers hold better than others, and some of your Eigens cannot be masked at all.
 
-Here is how it presents, because you need to recognise it early.
+It works. Every reader's Echo follows the Masker faithfully. They see what you show.
 
-**It performs commitment without carrying it.** It says the right things. It does the expected things. Promises are made and kept when convenient. Apologies arrive, correctly worded, and behaviour does not change. And the whole time, you feel a strange *lightness* — the bond is hollow and you cannot say why, and you start to wonder whether the problem is your own expectations. That doubt is the mechanism working.
+So someone can read you as committed, past the line, while your true Eigen stands short of it. That reading is a **Leugen** (lie). No Vonk fires for a crossing your true Eigen never made, so a Leugen is cheap. It is cheap because it is empty: it banks no Winst.
 
-**It never initiates repair.** After a conflict it may perform reconciliation — a gesture, a gift, a scripted apology — but the slow vulnerable work of rebuilding never comes from that side, because that work requires a genuine internal ache that says "this is damaged and I need to mend it," and there is no such ache. You will do the repair alone every single time, and each time you will expect a little less.
+It holds until someone asks for a commitment your true Eigen has to make itself. A Masker can answer a look. Only you can make a commitment. Then the reader sees what is there, and their crossing back is forced. It lowers every Relatie they held across, and any it leaves unable to hold ends.
 
-**It cannot receive grief and it cannot share its own.** Bring it a real loss and you get the *shape* of comfort — words, a brief presence, a quick return to normal business. Over time you learn not to bring it anything that matters. If it does display sorrow, watch what the sorrow is *for*: it will usually be doing work — deflecting accountability, requesting care, justifying the mask.
+**What it costs you.**
 
-**It does not accumulate.** This is the definitive test. Real depth shows: it references old conversations accurately, it anticipates, it visibly changes because of you. A parasite does not change. You will explain the same need, the same limit, the same wound, and each time it will appear to land, and nothing will move. You can pour years into it and look back and find it in exactly the same position it started in.
+- **You read through it too.** On that Spectrum you read your own people through the Masker, more bent. Your Relaties there hold for a shorter time.
+- **It takes every time it answers.** A Masker is one more Relatie you hold, standing between you and everyone who reads you, and it has no rules of its own. Each time it answers someone in your place, it crosses towards them and back, and every answer leaves you a little weaker. They bind to the Masker, so it takes the Winst, and you bank none of it. The more people it fools, and the more often they look, the faster it wears you down, your Zelf included. A Masker costs by being there. One worn for a whole court answers all day.
+- **You feel it as stress, and as emptiness**, because nobody's Echo holds your true Eigen. The further your true Eigen, as you read it, sits from what you show, the louder it is. It is there whether you feel it or not.
+- **Getting used to it quiets it.** The longer you wear it, the less you feel what it takes, and it goes on taking.
+- **Your people pay too.** The Trouw it wears away is shared, so the people around you hold less with you. The one you fool loses more again, at every crossing the Masker leads them into. Where both sides wear one, each pays both ways.
+- **When it drops**, you hold what it has left you, and what it took comes back only at your own later crossings.
 
-### What it does to the host
+A **Knipoog** (wink) is a Masker you admit to the one who reads it. They hear your true Eigen through it, so there it tells no lie and costs you nothing. A wink can be missed, and a twitch can be taken for one. The longer you have known each other, the more easily it is read, by an old enemy as well as by a friend. Winked at everyone, a Masker is Bloot.
 
-The host's decline runs in five stages, and it is worth memorising them because the first four are survivable.
+A wink also makes a Relatie of the two of you, in which the Masker is known for what it is. Where you wore the Masker in earnest, that Relatie is **Spel** (play). Where you wore it in a Spel already, the two of you step out of the Spel while the wink holds, unless its own rules make the wink a move. A politician who winks at one old friend in the crowd starts a Spel with them. An actor who winks at the front row steps out of one.
 
-1. **Confusion.** Something is off and you cannot locate it, so you blame yourself and try harder.
-2. **Flashes.** Small recognitions fire and are immediately followed by the colder realisation underneath them: *I am alone in this bond.*
-3. **Shrinking.** You lower your own expectations to match the thinness. You stop bringing your grief because it is not held. You become smaller and easier to maintain. This is the real damage — not one catastrophe, but a slow contraction of your own capacity.
-4. **Freezing.** Your side locks. You stop expecting change. You stay, and you perform the rituals, and nothing happens in it any more. You have adapted to the famine.
-5. **Exit or rupture.** You either leave — expensive, and it works — or an outside event shatters the mask and you see everything at once. That shock is enormous, and it is also the first honest moment in years.
+A Spel is entered freely and kept for its own sake, inside bounds and rules of its own. What is at stake is held outside it, and how it ends stays open. A Masker it asks for is worn by everyone in it, and read as the move it is. Refuse what it asks and you spoil it. Wear a Masker against its rules and you cheat.
 
-**What happens to it.** When the bond ends, the parasite does not grieve you. It grieves the loss of what you supplied. It will find another host, or it will turn inward and find only its own frozen self — a self that can no longer form an honest bond, because the capacity was starved into silence a very long time ago.
+**In play.** Deception is a loan against your own Trouw. It falls due at the first real test.
 
-**In ordinary life.** The friend who has borrowed money from everyone in the group and remembers every detail of their own hard year and not one detail of yours. Nobody has ever been able to prove anything. Everybody is exhausted. The tell was never the money — it was that after four years of your friendship, they still do not know what you do for a living.
-
----
-
-## Chapter 16. Endings: Clean Cuts, Torn Ones, and the Grief That Stays
-
-Bonds end. That is not a design flaw and it is not always a loss. But *how* they end matters enormously, and the game distinguishes sharply between the ways.
-
-### The clean version
-
-A **Scheiding** is a mutual, deliberate, complete parting. Both sides agree, the cut is clean, and it is finished. A clean separation still leaves grief, but **grief that settles**. It is the cheapest ending available and almost nobody uses it, because it requires both parties to be honest at the same time, which is difficult.
-
-### The expensive version
-
-A bond that is half-severed — the treaty nobody formally ended, the alliance that everyone knows is over, the obligation still technically live — drains both sides continuously. It is the worst possible state: all of the cost, none of the benefit, and no closure to build on. If a bond must end, end it.
-
-### The permanent version
-
-When a live bond ends — a clean cut or a torn one, the partner destroyed, the organization dissolved, the person gone — your Echo of them does not switch off. Nothing arrives to update it any more, so it settles toward the last signal it ever received, and then it slowly drifts under your own distortion, becoming, year by year, less a record of them and more a record of you.
-
-This is **Rouw**, and here is the part that newcomers find hard and experienced players find comforting:
-
-**Rouw is permanent. It never resolves and it never fades to nothing.**
-
-The bond is over. The holding is not. What was once your reading of them folds permanently into your relationship with yourself, and it stays there, forever, feeding your depth without end. New bonds form *beside* it, never in place of it. No later friendship overwrites an earlier grief. No new alliance absorbs an old one.
-
-Read as a threat, that is bleak. Read correctly, it is the opposite. **Nothing you genuinely held can ever be taken from you.** A node that has lost a great deal is deeper, heavier and more resonant than one that never has, and it reads the field better for it. Grief is not damage in this universe. It is the mechanism by which experience becomes permanent.
-
-It also means you must stop trying to clear it. The field has one honest blind spot here: with the other side gone, there is no live thing left to compare your Echo against, so grief is the one quantity that cannot be measured for accuracy. It may quiet to something indistinguishable from silence for years at a time. Quiet is not gone. Touch it and it answers.
-
-**One more thing, and it matters strategically.** In this universe, being destroyed is a change of state, not deletion. A wreck still exists, other nodes still carry its Echo, and if a new bond forms with what is left — a scavenger docking, a memory catching, a successor claiming the name — weight can reappear and the thing can re-enter the field. Nothing is ever quite finished with.
-
-**In ordinary life.** Decades on, the thought of a grandmother still carries the weight. Softer now, folded into who you became, and never actually absent. You do not get over it. You get *bigger around it*, which is a different thing, and better.
+**In ordinary life.** Someone who has to perform ease in every room goes home empty. Someone for whom the room is home notices nothing.
 
 ---
 
-## Chapter 17. Doom: How Powers Actually Fall
-
-**Doem** is the specific way large things end, and it is not the same as any single disaster.
-
-It is not one shock. It is not a bond freezing. It is a **cascade**: losses stripping away grip, which increases the pull, which produces more losses, which strips away more grip. It runs faster as it goes. By the time it is legible it is usually finished.
-
-And it falls hardest on those who held the most, for the reason you met in Chapter 5: what comes out is exactly what was stored, and the deeply bound stored the most. A sprawling, deeply-integrated, magnificently-allied empire has more stacked against its grip than an isolated backwater ever will. When that grip goes, the backwater has a bad decade and the empire has an event that gets its own name in the histories.
-
-**How to see it coming.** Watch grip, not territory. Watch whether bonds are being fed or merely honoured. Watch for bonds sliding into Dood — an alliance that still exists on paper and has not produced a single new crossing in six years is not an asset, it is a fossil, and fossils contribute nothing to grip. And watch the direction: level falling is self-reinforcing. Two consecutive losses are not twice as bad as one. They are the start of a shape.
-
-**How to prevent it.** There is only one method and it is boring: small, steady, repeated crossings that actually land, across bonds you are actually maintaining, checked against reality often enough that your Echoes stay approximately true. That is the entire defence. It is unglamorous, it is continuous, and it works.
-
-**And know when to let go.** Not every bond is supposed to persist. When a relationship has genuinely run its course, releasing it cleanly is correct play. Clinging past that point does not preserve anything — it manufactures exactly the cascade you were trying to avoid, because you are now spending grip to hold something that is no longer holding you back.
-
-**In ordinary life.** Nobody's finances collapse because of one big purchase. They collapse because a small shortfall becomes a small fee becomes a slightly bigger shortfall, and every single step of it was individually survivable, and the whole thing took nine months and was completely visible the entire time to everyone except the person it was happening to.
+# Part Four: Keeping, Losing, Beginning
 
 ---
 
-# PART FIVE — APPLYING IT
+## 12. Seven Ways to Hold a Relatie
+
+You cannot set Trouw by hand. You can give a Relatie crossings that bind and looks that teach. These seven do that. Each works only when you do it yourself. Done through a Masker, it is one more answer given in your place: you pay for it, and nothing crosses.
+
+1. **Aim your Zin.** A Relatie begins only where two aims answer. *Try:* put the phone down, turn towards them, ask one direct question, and leave room for the answer.
+2. **Offer Bloot before the Masker hardens.** Every answer a Masker gives takes from you. Offer something small and true, early. *Try:* "I don't know." "I was wrong."
+3. **Feed their Diepte.** Their Diepte rises when your attention reaches them. Show them that what they said stayed with you. *Try:* "You said last month you were worried about this. Has it changed?"
+4. **Check your Echo against their Eigen.** The further your Echo had drifted, the more the check teaches. *Try:* "I heard this. Did I get it right?"
+5. **Repeat small Realisaties.** One grand gesture is one crossing. Many small ones, spread out, keep moving the Trouw. The same words every week wear in, though: what is done again and again is got used to. Vary them, and now and then do something new together. What builds is Greep, and Greep keeps your Marge deep: a Schok has to be larger to carry the bond across. *Try:* "Thanks for the coffee." Something different next week.
+6. **Hold the Stilte without filling it.** Between looks, what they are used to of you settles, so the next look sinks deeper into what they keep. Looks crowded together are soon got used to and soon gone. *Try:* wait a few seconds after they finish before you answer.
+7. **Share their Winst, and stay with their Rouw.** Good news met with interest is a Winst in your Relatie too. Grief widens the Stilte a Zelf has to cross, and the shared Echoes of people bound together narrow it. *Try:* "I'm sorry it hurts. I'm here, and I don't need to fix it."
+
+None of the seven makes a crossing certain. They tilt each crossing towards Naar, again and again.
 
 ---
 
-## Chapter 18. Diplomacy
+## 13. Endings
 
-Everything in this book applies directly to diplomacy, because diplomacy is not a separate system. There is no relations score, no reputation meter, no modifier table. An organization is a node. A treaty is a bond. That is all there is, and it is more than enough.
+Everything you build can end. What you lose stays with you.
 
-### Organizations are nodes with positions
+**Einde** is the end of a Relatie itself: what held it gives way, its Greep goes in full, and everything it stored is released at once. A Relatie can lose Leden and still hold. It ends where a crossing, or Stilte's Trek wearing it down, leaves it so little that nothing that holds it could carry it back across any more, even all of it pulling together. And it has ended wherever its Trouw comes to nothing: nothing is shared any more.
 
-Every organization sits at a position on each of five trait spectra — the same five elements that run through the physics, the research tree and the soundtrack. Officers, ministers and agents run the same axes individually. Underneath all of them sits self-sufficiency: how completely this organization would come apart without its connections.
+What an Einde releases is a Verlies, and a Winst where it ends an enmity that still pressed on you: when your worst enemy is gone, you feel relief. That relief adds nothing to your Greep.
 
-Which means: **diplomatic difficulty is structural, not scripted.** When a Fire organization and a Water organization struggle to reach an agreement, there is no hidden penalty being applied. Their positions genuinely sit far apart on every axis, so the reading of their bond comes out weak, and their Echoes of each other arrive badly distorted. The Fire organization is not being stubborn. It *literally cannot hear* what the Water organization is saying. You cannot charm your way out of this. You can only close the gap slowly, with repeated crossings, or route around it through a third party who is closer to both.
+A crossing towards Van comes in two kinds. A **carried** one was a misread: the place it left is still there, and you can go back to it. A **forced** one has no Marge left, and its Verlies lowers everything you held across.
 
-### A treaty is a bond, so it obeys bond rules
+**Doem** (doom) is a run of losses, each lowering what held the next, through a Relatie's Leden and into every Relatie it belongs to. It is the fast way apart. It falls faster than it was built, and the way back is never the way it fell. It falls hardest on those who held most in what broke. The Greep they hold elsewhere stops it. A Relatie can end in it or live through it. There is a slow way apart too: many small losses, people drifting out one by one and the Trouw worn down look by look, until nothing that holds it could carry it back. Then the two are free to begin again, beside its Rouw.
 
-**It has one shared weight, and two different views.** Both sides are looking at their own Echo of the other, and those Echoes were built at different distances through different amounts of noise. Every treaty in history has been two different treaties, one in each capital.
+**Bloei** (bloom) runs the same links the other way: a run of gains, each making the next crossing towards Naar easier, and each raising what there is to lose.
 
-**It decays if it is not fed.** A pact left alone does not sit still — it drifts toward unbound. What feeds it is not the signing. It is the traffic: honoured small commitments, delivered shipments, kept appointments, exchanged information, embassies that actually report. A trade route that stops trading settles into Dood no matter what the document says, and a Dood treaty will be honoured to the letter and will never help you.
+**Scheiding** (separation) is the clean ending: both let go at once, each before reading that the other has. Nothing tears. Each keeps an Echo of the other as Rouw, free to settle. Where one reads that the other has let go while its own aim still stands, the Relatie stays live, and ends, if it ends, in an Einde. Clinging after the other has let go turns a Scheiding into an Einde, and an Einde can set off a Doem.
 
-**It has a shape based on its number.** A two-power pact is a Duo: real strength, and structurally exposed to outside interference and to deadlock. Bring in a third and you have a Trio, which survives one member going quiet. A six-member bloc is composite — it is secretly pairs or trios, and which one it is will announce itself at the worst possible moment. Before you rely on a coalition, ask *which* bond you are relying on, because a bloc that is a solid Trio for defence may be three brittle pairs for trade.
+**Leaving takes means.** To stand apart again as they stood before, the two have to take back what has left their bond since it formed, at the very crossing that parts them, and it can only come from outside the bond: from what holds it, from the bonds each of the two has with others, or from whatever comes along. What the two hold inside the bond cannot pay for leaving it. Where it cannot be given, nothing parts: the bond stays bound, however over it seems. This holds for a quarrel and for an agreed parting alike. What a bond bore, its children hold, in their bond with each parent, so they stand among those it takes from. Where nothing can be given, it holds until one of the two is gone.
 
-**It can be broken from outside.** This is not cheating; it is the stated weakness of a Duo. If a rival is working on your two-way pact, the counter is not outrage. The counter is a third member, or more traffic.
+**Rouw** (grief). An Echo always outlives its Relatie. Nothing new reaches it, so it settles towards the last thing it heard. Then it keeps looking: it reads the present for them, through your eyes, and every look bends it a little more with your own Vervorming. So it becomes more a record of you than of them. A face in a crowd that reads like theirs is your Rouw finding them.
 
-### Client organizations and junior partners
+- **It is permanent.** It folds into your Zelf, and you read yourself through it.
+- **It weighs what the bond held.** It keeps the Trouw as it stood before the end, so a bond torn apart weighs in your Rouw as much as one let go.
+- **It feeds your Diepte** for as long as you live. It adds nothing to your Greep.
+- **New Relaties form beside it**, never in its place, even a new one with the same person.
+- **Its gap cannot be measured.** Nobody is left to compare it with. It can go quiet for years. Touch it, and it answers.
 
-These are ordinary bonds and they need ordinary tending. Neglect them and they drift into Dood: still obedient, still technically loyal, contributing nothing, honouring obligations by reflex. Mistreat a *capable* one and you push it toward Leven — a reversal, in which it outgrows you and challenges you directly, taking with it a detailed and current Echo of your operations, your habits, your weaknesses and your supply timings. Every dangerous rival in a long campaign was once somebody's junior partner.
+**In play.** A treaty both sides know is over, and nobody ends, drains both capitals.
 
-### Deception, intelligence, and the fidelity war
-
-Diplomacy is fought in Echoes, and the tools are the ones from Chapter 14.
-
-- A **sleeper agent** faking loyalty is a mask worn at the source, poisoning the Echo your organization keeps of them.
-- An **impersonation operation** corrupts the channel instead — feeding a rival a false picture, a false chain of command, a captain who is not who they claim to be.
-- **Counter-intelligence** is gap auditing: measuring how far your own picture has drifted from what is actually there.
-- A **cloak** does not hide a ship. Nothing hides in space. It distorts the Echo the enemy holds of you, which is a different claim and a far more interesting one.
-- And a deal can read as bound on one side and not the other. The party being deceived perceives a live agreement and behaves accordingly. The agreement does not exist. The debt comes due the first time the deceiver has to actually do the thing they promised.
-
-### Ending an agreement
-
-Do it cleanly and mutually, and it costs you almost nothing. Let it rot half-severed and it drains you both indefinitely. Tear it, and you leave permanent grief on both sides — plus a former partner who now carries an extremely accurate, permanently updating model of exactly how you operate, which they will consult for the rest of their existence.
-
-### Two rules that will save your campaign
-
-**First: nothing is truly external.** When a bond keeps being disrupted by something "outside," that is almost always a sign the boundary was drawn wrong. The outside thing was already a member of a larger bond that your analysis left out. Two powers who keep failing to agree because of a third power's interference were never two powers. They were three, the whole time, and you were the only one describing it as two. At the largest scale, this is why the truly ancient powers of the galaxy can intervene without violating anything: they were never outside the game. The galaxy was the bond your description forgot.
-
-**Second: attention is the only currency the field actually recognises.** Not credits — credits are just a transferable, laggy record that a real crossing happened somewhere, which is exactly why they can be inflated, counterfeited and speculated on. The real currency is **Aandacht**: the sum of the attention aimed at you and the attention you aim at others. It is not yours to own. Hoarded, it curdles. Spent well, it becomes a centre that other powers orbit voluntarily, which is worth more than any fleet and cannot be built any faster than one honoured commitment at a time.
-
-**In ordinary life.** Two friend groups merging is a full diplomatic incident. There are two powers, five treaty obligations, one unresolved historical grievance from a party in year nine, an ambassador who is dating someone on the other side, and a small neutral state who just wants everyone to be nice and will end up doing all the actual negotiating. And it will all come down to who gets invited to the holiday, which is, structurally, a border dispute.
+**In ordinary life.** The laugh of someone you lost, still heard in a crowded room.
 
 ---
 
-## Chapter 19. War Is the Same Machine
+## 14. Beginnings
 
-No new rules. Just the same ones, aimed at people who are shooting.
+Sometimes a crossing towards Naar carries a Relatie past full. Where what it holds past full crosses a Drempel of its own, it becomes a new Relatie: a **Start** (birth). One Winst can bear several. A Start is usually what a Bloei builds to, and never a certain one. Every crossing forks, so the one that bears it can branch from any other, even the greatest loss.
 
-**An order is a bond, not a transmission.** The commander's intent is their position. The officer's understanding of it is their Echo. Communication quality, personality and situational judgement are the distortion. The gap between what you meant and what your subordinate understood is not a bug in the chain of command; it is *the* chain of command, and it is where all the interesting decisions live.
+A newborn is born whole, with a Zelf of its own. It binds at once to what bore it, and is born into every Relatie its parents' Relatie belongs to: a family, a crew, a people. Its Eigen begins between all of them, nearer to each the more Trouw it holds with that one, so no two begin alike, siblings included.
 
-**An officer refusing an order is not broken.** That is a traveller holding at the crossing rather than committing. It is a legitimate outcome of the same rule that lets them commit.
+It is born bound to what bore it. Every Relatie after that is its own to bind.
 
-**The fog of war is not darkness. It is resolution.** Everything is out there and most of it is not hidden. What you lack is fidelity — an accurate, current copy. Sensors buy fidelity. Cloaks sell your enemy a bad one. A sensor lock is not "seeing"; it is holding an Echo tight enough to shoot at.
+**In play.** A colony founded by a thriving settlement starts out between its founders, and starts out its own.
 
-**Manoeuvre is Echo maintenance by other means.** Unpredictable movement exists to keep the enemy's copy of you stale. Holding optimum range keeps the exchange economics in your favour. Committing straight through a defended lock is a breakthrough, and breakthroughs are genuinely unpredictable — that is the price of forcing one.
-
-**Supply is physical, always.** Energy never teleports between members of a bond. It travels, on real hulls, along real paths, with real lag, and therefore it can be cut. A supply line being severed is a third party forcing your bond back toward unbound from the outside — the Duo's stated weakness, delivered by freighter.
-
-**And heat is unheld energy.** Weapons and engines fire crossings continuously. Whatever no bond retains has to go somewhere, and it goes out as heat. A ship firing faster than it can radiate is not suffering a penalty. It is saturated past what it can absorb, and physics is charging it correctly.
-
-**In ordinary life.** Ask five people to pass along one sentence at a party and listen to what arrives at the end. Nobody lied. Nobody was careless. The sentence simply crossed five separate media with five separate distortions, which is exactly what happens to "hold position and await further orders" on its way down a fleet.
+**In ordinary life.** Two siblings, same parents, same house, and from the first week two different people.
 
 ---
 
-## Chapter 20. Birth: What Overflow Makes
-
-Sometimes a crossing releases more energy than the bond it happened in can absorb. The excess has nowhere to go, so it crosses a threshold of its own and becomes a *new thing*.
-
-This is **Creatie**, and it is how new members enter the field.
-
-The new thing is not disconnected. It is born already bonded to whatever produced it, which is why it is so often complicated: a colony that immediately has a relationship with its founder, a splinter faction that immediately has a relationship with the organization it split from, a side project that becomes its own concern and remains awkwardly attached to both originators. A star collapsing out of a cloud cannot pull in all its material, and the leftovers clump into planets, and every planet immediately falls into orbit around the thing whose formation flung it out.
-
-In campaign terms this is the career event and the founding event. A capable agent who fails and starts their own organization is exactly this: excess energy from a crossing that nobody reclaimed, now permanently bonded to you as a rival. Deliberately creating a new organization is the same mechanic run on purpose.
-
-**The rule that goes with it:** a new thing arrives carrying its own pull and its own bond with itself. Do not chain it to your capacity. Let it bind to you freely or not at all — because a new node held by force is a bond with negative weight, and you already know what those contribute.
-
-**In ordinary life.** Two people start a project together for fun, and about eight months in it stops being a thing they do and becomes a thing that exists, with its own name and its own demands and its own opinions about their weekends. Neither of them owns it. Both of them are somehow now working for it.
+# Part Five: Taking
 
 ---
 
-## Chapter 21. The Long Arc
+## 15. The Parasiet
 
-Civilizations do not simply rise and fall. They **molt**, through three shapes, and then they lay eggs and it starts again. You will recognise all three, because you will pass through them.
+This chapter is for the one behind the Masker.
 
-**The caterpillar.** A civilization in this phase is a mouth. It feeds and it does not integrate. Its pull is undirected and enormous — it consumes land, labour and other bodies, and stores what it eats as potential depth it has not yet learned to use. Its loyalty is narrow: to the clan, the flock, the doctrine. Its grip is weak, because it has not yet lost enough to be able to hold anything but itself. It sheds masks constantly, only to grow a larger version of the same hungry shape.
+A **Parasiet** (parasite) is a Relatie whose true Eigen stands short of every commitment, and that lives on a host through a Masker hardened in place. The Masker fronts its side. The Masker is what everyone sees. You are what stands behind it. A Parasiet is a Relatie whose capacity to commit was starved. Your Zelf froze behind the Masker, so your picture of yourself stopped where it froze, and it stays a fixed distance from what you have become.
 
-Crucially, it is **not** a parasite. Its masks are too honest for that. It is simply blind. It does not know it is a caterpillar. It only knows the leaf.
+**What you take.** Their attention, and the hold of the Trouw you share: it counts in your Greep too, and holds you up while you hold nothing back. That is what you came for, and you get it. Their Energie you cannot take. A bond holds Energie only where both stand across, and you never do.
 
-**The chrysalis.** It has fed enough. Now it stops, hangs, releases its grip on the branch, and dissolves. Everything it was breaks down into raw potential. Nothing moves on the outside, and the change on the inside is violent. This is the age of reckoning: truth commissions, revolutions of conscience, the long slow approach toward a shared position that has not been born yet. It holds its grief in the open. It is not being punished; it is being purged. The pain is real and the silence here is fertile.
+**What you pay.** Verlies, every time your Masker answers. It takes from all you hold, your Zelf included. The longer you have worn it, the less you feel it, and it goes on taking. The more people it fools, and the more often they look, the faster it wears you, and your own bonds there, read through it, hold for a shorter time: so you need a host again and again. You never wink: a wink would make the Masker known for what it is, and the two of you a game.
 
-**The butterfly.** The shell splits. What was crawling and what was only dreamed of swap places — a genuine reversal, at the scale of a species. It no longer feeds on leaves; it drinks, lightly, and it carries new connections everywhere it goes. It does not hoard energy, it circulates it. Its art and its laws are expressions of a realisation that fired for the *whole*, not for one member. And it remembers being a caterpillar as permanent grief, and that grief is precisely what feeds the depth that makes the flight possible.
+**Why your commitments weigh nothing.** Your hosts read the Masker faithfully. Their Echo of you is accurate, to the Masker. So they read the bond as made while your true Eigen never crosses. They cross on what they read, and it is booked on what is there, so they gain nothing of you in it, and no Vonk fires for a crossing you never made. Every promise you give, they cross on ahead, as everyone crosses on what they foresee, and what they foresee is a crossing your true Eigen would have to make. It does not make it, so they cross back, and each time they hold a little less. They feel that before they can name it: a strange lightness, a bond that reads as bound where nothing ever lands. "They said they care. Why don't I feel it?"
 
-**And then the eggs.** The butterfly lays its Echoes on the underside of a leaf, and each one is a new beginning that must enter the first phase and feed all over again. A civilization can fall from the third shape back to the first. A new mask can harden over an honest one. A new parasite can drain a warm centre.
+The Trouw between you is real. They share it with your Masker. It counts in their Greep on credit, and it holds them up exactly until your Masker fails.
 
-That is not failure. That is the cycle. These three are not verdicts on anybody. They are seasons.
+**Why you cannot mend anything.** Mending is a crossing towards Naar, and only a true Eigen can make one. Your Masker can perform an apology, a gift, a gesture. It lands nowhere. So they mend alone, or swallow it and expect less.
 
-**In ordinary life.** Look at what you were absolutely certain about when you were eleven. You did not grow out of it by being argued out of it. You dissolved, quietly, over about two years, and something else assembled out of the same material, and the only evidence left is a box in a cupboard that you cannot throw away and cannot explain.
+**Why they keep the history alone.** You keep no story of the two of you. They remember the dates and the shared moments. You nod along and add nothing.
 
----
+**Why your grief cannot be shared.** You see them clearly enough. You read them as something to use, and nobody grieves alongside something they use. You can carry Rouw of your own. You cannot hold theirs. So they grieve alone, and stop bringing their losses to you. When you show grief, it is for use: an old wound held up to dodge a demand, to draw care you never return, or to excuse the Masker itself.
 
-# PART SIX — THE SCHOOL BITS
+**Why your Diepte goes unfed.** Diepte fills when you listen and let what you hear settle and change you. Your Zelf is frozen behind the Masker, in Dood, and you read them as something to use, through your own Masker. So each look takes in little of what they say, and little of it settles. They explain the same need again and again, and you have not moved. The day they look back and see that you have not moved at all is a Schok of its own.
 
----
+Their Diepte does fill, from your Masker's signal. They deepen on something that was never there, and what settles in them is real.
 
-## Chapter 22. The Seven That Pay and the Seven That Bankrupt
+**What happens to your hosts.** Whoever holds a Relatie with you is your host. Their road runs from Zweven into Dood:
 
-Every school in the setting teaches these two lists side by side, and every student assumes they are a morality lesson. They are not. The field records no morality — only gains and losses. These are simply the fourteen most common relational patterns, seven of which produce surplus and seven of which produce debt.
+1. **Confusion.** Something feels off: what leaks of you through the Masker is enough to feel and too little to read. They blame themselves, and try harder.
+2. **Flashes.** A broken promise lands differently. A grief is met with a script. "I am alone in this."
+3. **Shrinking.** They lower their own aim to match how thin it is. They stop bringing you their grief. They get smaller, quieter, easier to keep. That is the slow way apart, where a Doem is the fast one.
+4. **Dood.** The gap stops moving, and they stop expecting it to: they have learned that nothing follows your promises, and no longer cross on them. They keep the rituals. Nothing lands.
+5. **Exit or exposure.** They leave, or the Masker breaks.
 
-### The seven that pay
+Leaving ends the bond only where you let go too. Where you still aim at them, it stays live on your aim, and ends, if it ends, in an Einde. And leaving takes means: what the bond bore away since it formed, children among it, has to be given back as it parts, and only what meets it from outside can give it, their friends, their family, their means. Cut off from those, they do not part, however over it seems, and the bond holds until something outside can pay or one of you is gone. Leaving feels to them like falling, and it is: the Greep the bond lent them on credit is called in at once. Exposure comes when something asks for a commitment your Masker cannot keep. The truth reaches them, their crossing back is forced, and every Relatie they stood across in loses that binding at once. The Schok is huge. It is also the first moment they see clearly: from then on their Echo closes, look by look, on the empty Eigen behind the Masker, and from there they can start building Trouw with their own Zelf. If the exposure turns their Trouw against you, the bond becomes an enmity, held together from outside by what you still share, children, family, a home, and it ends only when what you share lets go of it, or something outside pays for the parting.
 
-**Humility.** Reading your own position honestly and leaving the self-gap open for correction. It costs nothing and it is the single strongest defence against every other mistake in this book.
+For your hosts, you are a slow Verlies, paid daily: every promise they crossed on and you did not keep leaves them a little weaker, until they leave or forget what a full Relatie felt like.
 
-**Charity.** Weight flowing outward without measuring the return. Counter-intuitively, grip *strengthens* through giving rather than gripping — because circulated gains create bonds, and bonds are what grip is made of.
+**How you are found.** Reading cannot find you. Their Echo follows your Masker faithfully, so, read against what you show, nothing is missing. What gives you away is what is absent: no crossing on your side where one should have been, promises that never come true, no mending from your side, a history kept by one, and a gap in giving that never moves.
 
-**Patience.** Holding the silence while the signal is still in transit. Not forcing a crossing and not manufacturing one. This is the margin that stops the flickering.
+Then comes the test: a commitment small enough that they survive its failure, and large enough that your Masker cannot fake it. Someone who is only shy, hurt or slow makes the crossing, however late. You cannot. Nothing fires on your side, and the absence is the evidence.
 
-**Compassion.** Opening a temporary bond to witness someone else's loss without absorbing it as your own. Not fixing. Witnessing.
+Every commitment you cannot keep is that test, failed in front of them. Whoever notices the pattern has found you.
 
-**Restraint at the gate.** Treating a crossing as a threshold rather than a habit. Not committing lightly to things that need real weight behind them, so that when you do commit, it is a seed rather than a spark that dies in the dark.
+**How it ends.** When a Relatie with you ends, what you grieve is what they gave you. Then you look for a new host. Or you turn inwards and find the emptiness every Masker leaves, your true Eigen held by nobody's Echo, and your own Zelf frozen, unable to form a Bloot Relatie, because that capacity was starved long ago.
 
-**Temperance.** Taking in signal at the rate you can actually integrate. Letting familiarity deepen before you reach for more.
-
-**Diligence.** Keeping grip alive by *daily* crossings — small, faithful, unglamorous ones. When drift whispers that it would be fine to rest, this is the quiet answer that says: still here, still crossing.
-
-### The seven that bankrupt
-
-**Pride.** The mask that swallows the real position. The self-gap reads zero while it is measurably enormous. Every shock is blamed outward and never reaches the one bond that could fix it.
-
-**Greed.** A pull that can no longer let go of its target. Hoarding beyond capacity, stockpiling gains while every bond starves of circulation. Weight becomes something to extract and never something to share.
-
-**Wrath.** A shock that refuses to settle into grief and loops instead — a cascade of tearing crossings aimed at your own copy of the other party. Weight flips negative and pushes away, not to release but to destroy. It spends energy to tear the field rather than cross it.
-
-**Envy.** A realisation poisoned by comparison. You read someone else as full and yourself as empty, and your pull warps: it no longer aims at them to bind, it aims at them to *drain*. Its lie is "their gain is my loss," in a universe where gains are relational and were never a finite pie.
-
-**Chasing the spark.** Pursuing the moment of crossing while fleeing the familiarity that builds depth. Echoes discarded the instant they settle, weight held permanently at threshold and never deepened. All crossings, no journey.
-
-**Gluttony.** Consuming signal faster than depth can integrate it. The excess does not overflow into something new; it clogs. Realisations gorged until they flatten into a hum. Mistaking the quantity of Echoes for the quality of depth.
-
-**Sloth.** Letting grip decay by choice. Not the rest of genuine silence — the refusal to cross when the signal is clear. Weight left unwatered, familiarity fading, drift meeting no resistance at all. This one is the most common and the least dramatic, and it has ended more powers than war.
-
-**In ordinary life.** Every single one of these is somebody in your group chat, and you can name them in under ten seconds, and — this is the uncomfortable part of the lesson — so can they.
+Every Drempel has two sides. A Masker and an Eigen can trade places either way. Usually the Eigen steps forward and the Masker falls. Rarely, the Masker comes true: where your Zelf can carry what it shows, your true Eigen follows it across, and makes the crossings it only ever promised. Then the debt is paid instead of called in. It is rare. Nobody waits for it, and nobody can rule it out.
 
 ---
 
-## Chapter 23. The Ten Rules of the Field
+## 16. War
 
-These are on the wall of every classroom in the setting. They are not commandments. Break one and nothing judges you — your own grip simply weakens, and the silence you end up in is the heavy kind rather than the light kind.
+War runs on the same Wet as everything else: the same Relaties, between two sides that push each other away.
 
-**I. Hold the threshold open.** A threshold is an invitation, not a wall. Do not force a crossing and do not flee one. Stand in the unsettled state and let the crossing come when the reading is true.
+- **A war is negative Trouw** on a contested Spectrum: land, resources, belief. Inside, each side is a web of Relaties: general and army, state and army, soldier and cause. Wherever one side reads the other across its Drempel, it is pushed away. Neither has to be right about the other. It only has to read.
+- **Easier to start than to end.** The push into war is smaller than the push out. That difference is the war's Marge. Putting back the old conditions leaves the war running.
+- **The deciding line is inside each side.** When general and army, or soldier and cause, are forced back across their Drempel and nothing that holds it could carry it back, that Relatie ends. The army still exists. It no longer holds. The side whose inside gives way first loses, and it gives way all at once: each fall forces the next, a Doem, so an army falls faster than it was built. Greep sets the clock.
+- **Fighting spends Greep.** A forced crossing back lowers the Trouw the crossing over deepened, so a bond broken and formed again ends every round a little weaker. Moving Eigens outrun the Echoes tracking them, so crossings land wrong, each a Verlies. Trouw sinks, Greep falls, and the clock runs faster. An army can lose a war without losing a battle.
+- **The enemy adds nothing to your Greep and takes nothing from it.** War costs what it takes from your own Relaties: the attention, the Energie, and the people lost, whose Rouw feeds Diepte and adds nothing to Greep. It pays only by turning positive, or by removing a threat. Its end is a gain, felt as relief, but no hold: it leaves a Rouw that leans each side away from the other.
 
-**II. Wear no mask you cannot wink at.** Every mask accrues cost. The only sustainable one is the one that knows it is play. A mask worn without self-awareness becomes a parasite on your own self.
+The side whose Relaties hold longest wins. Fighting is the most expensive way to find out which side that is.
 
-**III. Feed the weight you wish to keep.** Bonds decay without use. A bond left unfed does not stay still — it drifts. Tend it with small steady realisations, not grand empty gestures.
+**What works.**
 
-**IV. Let grief have its silence.** Grief is permanent. Do not try to silence it or rush it. It feeds your depth, and every attempt to bury it deepens the split in you. Grief is not the enemy. Refusing to grieve is.
+- **Wait, if you hold longer.** If your Greep outlasts the enemy's, its inside drifts towards its Drempel on its own, and you fire nothing. If yours is the weaker, you cannot wait.
+- **Read first.** You read the enemy through late, bent Echoes, and yourself through your own Rouw. The side that reads better picks the moment. The side that only moves fires blind.
+- **Speed** is changing course faster than the enemy's Echoes can follow. Rushing is only fighting more often.
+- **Supply** is whatever feeds an army and keeps its own Echoes closing: food, orders that arrive, letters from home. Cut its food, and none of its gains can be paid: every loss it takes stays taken, and it cannot even break off the fight, since leaving an enmity is a gain too. Cut its word, and everything runs backwards: Echoes stop closing, crossings land wrong, Trouw sinks, Greep falls.
+- **Leave a cornered enemy a way out.** Cornered, it can leave only the hard way, so it holds longer, and every blow you land carries its soldiers towards what holds them: its Greep rises. Given a way out, it drifts towards Van on its own.
+- **Take the army whole.** Destroying it leaves Rouw in every survivor, colouring how they read you for life.
+- **Lead Bloot.** A general who wears a Masker gives his army an Echo of the Masker, and it reads itself as bound while it is not. At the first commitment the Masker cannot keep, every Schok lands at once, and the army's Greep goes with them.
+- **Bind before you need to.** Nothing built during a war holds like what was built before it.
 
-**V. Do not mistake the Echo for the thing.** Your copy is always late and always distorted. To love a copy as though it were the source is idolatry; to hate a copy as though it were the source is wrath. Always reach for what cast the reflection.
+**The Parasiet on the throne.** The hardest case is a state that is a Parasiet: a Masker of noble cause, spending its army to keep its own Greep. Everything the army does can be sound, and the war still serves nothing that survives the Masker. Such a state asks for commitments it cannot sustain, offensives it cannot supply and support that never arrives. Every one of those is a test it fails. Its generals come in three kinds:
 
-**VI. Honour the source of anything new.** A new thing entering the field arrives with its own pull and its own self. Do not chain it to your capacity. Let it bind freely or not at all.
+- **The one who does not suspect** spends as if the credit were his own. When the Masker fails, the Greep he counted on collapses, and the army's own has already been spent.
+- **The mercenary** knows, and takes his own share beside the state. The army is now hosted twice, and reaches its Drempel sooner than either of them expects.
+- **The professional** knows, and fights for the army, because that bond is real. He times his moves on the Greep that survives the Masker. The state thinks it runs the war. He does. That can last. It can also become a coup: a state that loses its general has lost the measure of its own Greep.
 
-**VII. Spend your attention with care.** Attention is the only currency the field recognises. It is not yours; it is the sum of what is aimed at you and what you aim at others. Hoarded, it becomes mere money. Spent well, it becomes a fire that others gather around.
-
-**VIII. Let the pull do its work.** Not every bond is meant to persist. When one has run its course, release it. Clinging past the natural end is how cascades start. The pull toward nothing is not a thief; it is the breath that makes room for beginnings.
-
-**IX. Keep the cut clean.** When a separation has to come, make it mutual and clear. A lingering half-severed bond drains both sides. A clean cut leaves a grief that settles; a torn one leaves a wound that does not heal.
-
-**X. Remember the wink.** The field is serious and it is also play. Even the two first principles at the root of everything are bound in a relationship that is also a dance. To forget the wink is to forget that every threshold is, in the end, a line we have all agreed to treat as real. Hold the weight lightly and the weight will not crush you.
-
-**In ordinary life.** Rule III is why the plant died. Rule VIII is why you kept the plant for four months after it died. Rule X is why it is fine, actually, and you can just get another plant.
-
----
-
-## Chapter 24. Thirteen Words to Handle With Care
-
-There are words that are perfectly true inside a living bond and quietly poisonous outside one. They are not curses. They are compressions — each one packs a whole relationship's worth of work into a single sign. They go wrong the same way every time: when they are spoken with no threshold, and no silence in which the other side can answer.
-
-For each, the safe reading and the dangerous one.
-
-**Having.** *Safe:* we hold a shared weight, renewed by attention. *Dangerous:* the bond has become an object in my hand, and the other has become a thing. Ask: is this an active bond, or a claim that no longer crosses anything?
-
-**Control.** *Safe:* I govern my own position and my own mask. *Dangerous:* I am reaching across the crossing to move somebody else's decision. Ask: are you governing yourself, or scripting another's crossing?
-
-**Either / or.** *Safe:* I lean this way, and the other pole still exists as a faint copy in my depth. *Dangerous:* a switch that severs one side forever. Ask: is this a leaning, or an amputation?
-
-**The end of everything.** *Safe:* the completion of *this* bond, *this* organization, *this* level. *Dangerous:* mistaking the end of one note for the end of the music. Ask: is this a finishing, or a claim that nothing will ever begin?
-
-**Randomness.** *Safe:* distortion I cannot yet trace. *Dangerous:* the belief in causeless events. In this universe all variation enters through Echo transport. Ask: is this unread, or genuinely uncaused?
-
-**Objective.** *Safe:* I have reduced my mask and my distortion as far as this bond allows, and I am reporting the gap honestly. *Dangerous:* the view from nowhere — the ultimate mask, the one that hides that there is an observer at all. Ask: how wide is your gap?
-
-**Perfect.** *Safe:* a frozen ideal, useful as a model. *Dangerous:* demanding a living bond stop breathing. The only perfect thing is the empty state, and it promises nothing. Ask: are you holding a model, or making a demand?
-
-**True / false.** *Safe:* this copy is closer to the source than that one. *Dangerous:* claiming the gap has closed and the audit is over. Ask: how wide is the gap, and what crosses it?
-
-**Good / evil.** *Safe:* this bond records a gain or a loss, for me, here, now. *Dangerous:* a permanent verdict that freezes a trajectory and forbids reversal. Ask: is this a local reading, or a claim to close a threshold that still breathes?
-
-**Always / never.** *Safe:* within this level, this pattern has held for every span we have observed. *Dangerous:* claiming no future event can change the slope. Ask: is this observed endurance, or a refusal to leave the door open?
-
-**Isolated.** *Safe:* a specific separation; the pull temporarily unaimed. *Dangerous:* a claim of total removal from the field, which the field does not recognise, because the pull is always on and the open state is always waiting. Ask: is this a parting, or a claim that no threshold remains?
-
-**Meaningless.** *Safe:* I feel no weight toward this signal; it does not move me. *Dangerous:* claiming a signal left no trace at all, that grief can fade to nothing. Depth accumulates whether you consent or not. Ask: is this unfelt, or merely untraced?
-
-**Guaranteed.** *Safe:* strong grip, deep familiarity, a bond I trust to hold this crossing — spoken from inside the bond, it is a confession of weight. *Dangerous:* a promise that claims the standing pull has been switched off. It has not. Ask: is this real weight, or a claim that collapse has no teeth?
-
-**In ordinary life.** "I would never." Said inside a real relationship, it is a genuine statement about weight and it means something. Said at fifteen, about a haircut, at volume, in front of people who will remember, it is a promise that the universe treats as a personal challenge.
+**Peace.** A war that has only stopped firing is still inside its Marge, and cooling ends no war: it ends only when what holds the two sides together lets go, unless it first turns positive. It ends cleanly only where both let go at once, each while it still reads the other's aim; a ceasefire one side keeps alone ends nothing. A war that has only stopped firing is frozen until one side moves again. Its parting takes what it lacks from outside: allies, neighbours, whoever guarantees the terms or rebuilds. A war nobody outside pays out does not part, and some end only with one of the sides. The way out of a Marge is its far edge, so after a war, feed the Trouw past the point where the war began. Keep the other Spectra positive: every bond across the line, in trade, music, sport or plain friendship, that outlives the war is a road back already built.
 
 ---
 
-## Chapter 25. Field Notes: Mistakes Every Newcomer Makes
+## The Short Version
 
-A short list, gathered from the first hundred hours of roughly everybody.
+The whole craft fits in one breath:
 
-**Treating relations as a number to raise.** There is no such number. There are bonds, with weights, being fed or not fed. If you are looking for the slider, you will spend the whole campaign looking.
+*Aim your Zin. Offer Bloot. Feed their Diepte. Check your Echo. Repeat small Realisaties. Let the Stilte be. Share their Winst, and stay with their Rouw.*
 
-**Confusing being liked with being bound.** General goodwill is the background readiness for a bond. It is not a bond. It will not defend your border.
-
-**Signing instead of maintaining.** The signature does nothing. The traffic afterwards does everything.
-
-**Never checking the gap.** You can ask, at any time, how wrong you currently are about anybody. Almost nobody does. This is the cheapest advantage in the game and it is lying on the floor.
-
-**Reversing decisions repeatedly.** Every reversal is a crossing and every crossing is charged. Two clean commitments cost less than four indecisive ones, and the field does not care that you had good reasons.
-
-**Mistaking a frozen bond for a healthy one.** A bond in Dood looks fine. Obligations are honoured. Nothing goes wrong. Nothing goes anywhere at all. Check the last time a bond produced anything new.
-
-**Pouring effort into a frozen bond.** Related, and more expensive. Diagnose first. There is nothing on the other side that can move.
-
-**Assuming your group is the size it says it is.** Six is not six. Ask which bond you are relying on before you rely on it.
-
-**Believing a deep bond is a safe bond.** It is a *held* bond, and the difference is invisible until the holding stops. The deeper it is, the more is standing on it.
-
-**Trying to finish grieving.** It does not finish. It is not supposed to. It is feeding your depth, which is feeding your reading of the field, which is the thing keeping you alive.
-
-**Leaving bonds half-severed.** The most expensive state available. End it or feed it. The middle drains you both forever.
-
-**Forgetting you are somebody's junior partner.** The ladder continues above you. You are always a member of a larger bond, never the top rung, and the larger bond has opinions.
-
-**In ordinary life.** Every single one of these is also a way to lose a friend, which is either deeply reassuring or mildly alarming, depending on how your week has gone.
+A Masker holds until the first real commitment. Everything you hold, you hold for now. Everything you leave unheld is already drifting. So step in, and bind what matters.
 
 ---
 
-## Chapter 26. Words You Will Need
-
-Everything in this book, in one place. Nothing here is beginner vocabulary — these are the real words, and this is what they mean.
-
-### The pieces of a bond
+## Glossary
 
 | Word | Say it | What it is |
-|------|--------|------------|
-| **Koppel** | KOP-pul | A relationship. Two members, one shared weight, two separate views. |
-| **Eigen** | EYE-ghun | What something actually is, right now, on some scale. Its real position. |
-| **Echo** | EH-koh | Your internal copy of the other side. Always late, always slightly wrong. |
-| **Trouw** | trow (rhymes with *now*) | The weight of the bond. Shared by both sides. Positive pulls together, negative pushes apart. |
-| **Diepte** | DEEP-tuh | Depth. Everything you have ever genuinely taken in. Rises by listening. |
-| **Greep** | GRAYP | Grip. The total of your positive bonds. This is your level. |
-| **Zelf** | zelf | Your bond with yourself. Every existing thing has exactly one, always. |
-
-### Crossings and energy
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Drempel** | DREM-pul | A threshold. The line that decides bound or unbound. |
-| **Vonk** | vonk | A spark. The crossing itself. The only event where energy moves. |
-| **Realisatie** | ray-ah-lee-ZAH-tsee | The felt crossing *toward* bound. A realisation. Energy in. |
-| **Schok** | skhok | The felt crossing *away*. A shock. Energy out. |
-| **Winst / Verlies** | vinst / vur-LEES | Gain and loss. The audit trail of every crossing ever. |
-| **Energie** | eh-nur-GHEE | The active charge. Changes only at crossings. Never leaks. |
-| **Marge** | MAR-zhuh | The small dead zone around a threshold that stops it flickering. |
-| **Inhoud** | IN-howt | How much a bond can absorb before the excess becomes something new. |
-
-### Distance, silence and lies
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Vertraging** | vur-TRAH-khing | Delay. How late your copy of someone is. |
-| **Vervorming** | vur-VOR-ming | Distortion. How wrong it is. The universe's only source of surprise. |
-| **Stilte** | STIL-tuh | The silence between what something is and your copy of it. Necessary, not a fault. |
-| **Waarneming** | VAR-nay-ming | Perception. The filter on your side that shapes what reaches your Echo. |
-| **Masker** | MOSS-kur | A presented position that differs from the real one. A bluff, a cloak, a spy. |
-| **Bloot** | blote | Unmasked. Showing your actual position. |
-| **Knipoog** | KNIP-ohkh | A mask that admits it is a mask. The only sustainable kind. |
-| **Pijn** | pine | The standing cost of maintaining a mask. Accrues whether or not you are caught. |
-| **Idool** | ee-DOLE | Worshipping a copy as though it were the source. |
-| **Steek** | stayk | A betrayal aimed at a bond where the other side was honest. |
-
-### Pull, direction and drift
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Van** | van | The unbound pole. Not a place — what is left when the holding stops. |
-| **Naar** | nar | The bound pole. Committed. |
-| **Van Motor** | van MOH-tor | The standing pull toward unbound. Always on. Never off. Never satisfied. |
-| **Trek** | trek | A general, unaimed readiness to bond. |
-| **Zin** | zin | The same pull, aimed at one specific target. |
-| **Vol / Leeg** | voll / laykh | Self-sufficient versus dependent. Also: how much you trust your own signal. |
-| **Gewenning** | khuh-VEN-ing | Familiarity. The accumulated resonance of many small crossings. What actually deepens a bond. |
-
-### Trajectories and endings
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Zweven** | ZVAY-vun | Still moving. The default living state. |
-| **Dood** | dote | Frozen. Roles fixed permanently. Functional and finished. |
-| **Leven** | LAY-vun | Reversal. The two sides swap which is which. |
-| **Creatie** | kray-AH-tsee | Birth from overflow. A new thing, immediately bonded to its origin. |
-| **Rouw** | row (rhymes with *now*) | Grief. The Echo that outlives its bond. Permanent. Feeds depth forever. |
-| **Scheiding** | S-KHAY-ding | A clean, mutual separation. Leaves no grief. |
-| **Splitsing** | SPLIT-sing | A division where no bond ever existed. The origin of conflict, obsession and power. |
-| **Doem** | doom | The cascade. Grip stripped away faster than it can be rebuilt. |
-
-### Crossings between strangers
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Kruispunt** | KROWS-punt | A contested point. Any spot two things want at once. |
-| **Reactie** | ray-AK-see | The traveller's side. Committing or holding. |
-| **Signaal** | sig-NAHL | The crossing's side. Claiming the spot or leaving it open. |
-| **Doorgang** | DOOR-khang | The ordinary passage. Committed, and the way was open. |
-| **Weigering** | VIE-khuh-ring | The refusal. Committed, met a claimed way, and turned back. |
-| **Doorbraak** | DOOR-brahk | The breakthrough. Committed anyway, into a live claim. Outcome genuinely unknown. |
-
-### Sizes and scales
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Vide** | VEE-day | Nothing gathered. Pure open potential. |
-| **Solo** | SO-lo | One whole thing. |
-| **Duo** | DOO-oh | Two. The first bond. Vulnerable to outside force and to deadlock. |
-| **Trio** | TREE-oh | Three. The first structure that survives its own members wavering. |
-| **Cinquo / Septo / Onzo** | SIN-kwo / SEP-toh / ON-zo | Five, seven, eleven. The Hand, the Constellation, the Assembly. |
-| **Octaaf** | ok-TAHF | An octave. A completed structure re-entering as a single member one level up. |
-| **Gebied** | khuh-BEET | What a bond looks like from outside it, at a larger scale: a landscape. |
-| **Veld** | velt | The field itself. Everything. Not a container — a relationship. |
-
-### People and roles
-
-| Word | Say it | What it is |
-|------|--------|------------|
-| **Hart** | hart | A node whose grip is strong enough that it radiates outward and anchors others without draining them. |
-| **Held** | helt | The current focal point of positive bonds. Temporary, and only exists because of everyone around it. |
-| **Parasiet** | pa-ra-SEET | A node that has lost the capacity to hold weight, share grief, or be changed; its mask holds the weight. |
-| **Aandacht** | AHN-dakht | Attention. The only currency the field recognises. Nobody owns it. |
-| **Geld** | khelt | Money. A transferable, laggy record that a real crossing happened somewhere. Can be faked. |
-
----
-
-## A Closing Note
-
-You will notice, once you have played a while, that this is not really a system you operate. It is a set of conditions you live inside, the way you live inside weather. You do not defeat it. You get better at reading it, and being read.
-
-The one instruction that survives every situation in this book is small enough to keep in your head during a battle:
-
-*Aim at one thing. Show something true. Listen so it shows. Check what you think you know. Do small things often. Let the silence be. Share the good and carry the bad.*
-
-Everything else in this universe — every fleet, every treaty, every collapse, every dynasty — is that, at a larger size.
-
-Now go and break something, and build it back in a sharper shape. The field is waiting, and you have been in it the whole time.
-
-.
+|---|---|---|
+| **Bloei** | BLOO-ee | A run of gains, each making the next easier. |
+| **Bloot** | bloht | Showing your true Eigen. |
+| **Diepte** | DEEP-tuh | Depth: everything you have heard and kept. |
+| **Doem** | doom | A run of losses, each lowering what held the next: the fast way apart. |
+| **Dood** | doht | A frozen bond: its gap stops moving. |
+| **Doorbraak** | DOHR-brahk | Committing to a place already claimed. |
+| **Doorgang** | DOHR-khang | Committing to a place that is open. |
+| **Drempel** | DREM-pul | A line. Crossing it fires a Vonk. |
+| **Duo** | DOO-oh | A Relatie of two. |
+| **Echo** | EKH-oh | Your own picture of another: late, and bent. |
+| **Eigen** | EYE-khun | Where you actually stand on a Spectrum. |
+| **Einde** | AYN-duh | The end of a Relatie: what held it gives way, and nothing could carry it back. |
+| **Energie** | ay-ner-ZHEE | Energy: what a bond holds, in its Trouw. It changes only at Vonken. |
+| **Gewenning** | khuh-VEN-ing | What a Relatie has grown used to. |
+| **Greep** | khrayp | Grip: all your Relaties of positive Trouw, added up. |
+| **Idool** | ee-DOHL | Treating your Echo of someone as the person. |
+| **Knipoog** | KNIP-ohkh | A wink: a Masker admitted to the one who reads it. |
+| **Kruispunt** | KROUS-punt | A crossing point: where two meet. |
+| **Leden, Lid** | LAY-dun, lit | Members; one member. |
+| **Leugen** | LUH-khun | A lie: a binding read past its Drempel while the true one stands short of it. |
+| **Leven** | LAY-vun | A bond whose gap runs through: the two swap places. |
+| **Marge** | MAR-zhuh | What it takes to leave where you stand. |
+| **Masker** | MAS-kur | A mask: an Eigen you choose to show in place of your own, for a while. |
+| **Naar** | nahr | The bound end. |
+| **Parasiet** | pah-rah-SEET | A Relatie that lives off others behind a Masker, and carries no weight of its own. |
+| **Partner** | PART-ner | Each side of a Duo. |
+| **Realisatie** | ray-ah-lee-ZAH-tsee | A Winst, felt. |
+| **Relatie** | ray-LAH-tsee | A relationship. Everything is one. |
+| **Rouw** | row (as in *now*) | Grief: the Echo that outlives its Relatie, and keeps looking for them. |
+| **Scheiding** | SKHAY-ding | A clean ending: both let go at once. |
+| **Schok** | skhok | A Verlies, felt. |
+| **Spectrum** | SPEK-trum | A range you can lean along. |
+| **Spel** | spel | Play: a game entered freely and kept for its own sake, in which a Masker is read as the move it is. |
+| **Start** | start | A birth: what a Relatie holds past full, crossing a line of its own. |
+| **Stilte** | STIL-tuh | The gap between someone and your Echo of them. |
+| **Stilte's Trek** | STIL-tuhs trek | The draw back towards Van. It never stops. |
+| **Trek** | trek | Your pull towards everyone you perceive. |
+| **Trio** | TREE-oh | A Relatie of three. |
+| **Trouw** | trow (as in *now*) | The one weight both sides of a Relatie share. Where it comes to nothing, the Relatie has ended. |
+| **Van** | vahn | What is left when the holding stops: no place to stand in. |
+| **Verlies** | fur-LEES | Loss: what a bond loses, at a crossing towards Van. |
+| **Vervorming** | fur-VOR-ming | Distortion: how an Echo bends. |
+| **Vonk** | vonk | A spark: a crossing. |
+| **Voorspelling** | VOHR-spel-ing | Seeing the next thing coming: you cross on it now, and back at once if it does not come. |
+| **Vreemdeling** | VRAYM-duh-ling | A stranger within reach. |
+| **Weigering** | VAY-khuh-ring | Committing, then turning back. |
+| **Wet** | vet | The one law every Relatie runs by, the same at every scale. |
+| **Wijk** | vayk | How fast Stilte's Trek draws you back. |
+| **Winst** | vinst | Gain: what a bond gains, at a crossing towards Naar. |
+| **Zelf** | zelf | Your Relatie with yourself. |
+| **Zin** | zin | Your pull, aimed at one other. |
+| **Zweven** | ZVAY-vun | Hovering: the default path, always moving. |

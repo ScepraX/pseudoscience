@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Veld in Motion · PseudoScience Speelgoed</title>
   <meta name="description"
-    content="A living Instantie of the PseudoScience Speelgoed: Solos meet, Echoes lag, Drempels fire Vonken, the Van Motor never rests, and Rouw stays.">
+    content="A living Instantie of the PseudoScience Speelgoed, run as Schrift II writes it: looks, crossings and Schriften, each at its own moment. Echoes lag, every Vonk trades with the Medium's Warmte, and Rouw stays.">
   <meta name="author" content="ScepraX">
   <meta name="theme-color" content="#000000">
   <link rel="canonical" href="https://pseudoscience.earth/Veld/">
@@ -131,6 +131,10 @@
     .sliders label { display: inline-flex; align-items: center; gap: 8px; }
     .sliders output { min-width: 3.4em; color: var(--white); font-variant-numeric: tabular-nums; }
     input[type="range"] { accent-color: var(--gold); width: 130px; }
+    details.more { margin: 10px 0 0; font-size: 14px; }
+    details.more summary { cursor: pointer; color: var(--gold); }
+    details.more p { margin: 8px 0 0; }
+    .presets { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; }
     .small { font-size: 13px; color: var(--white-faint); }
 
     #veld {
@@ -157,13 +161,12 @@
     }
     .card .title { font-size: 17px; color: var(--white); margin: 0 0 2px; }
     .card .state { color: var(--gold-bright); margin: 0 0 8px; min-height: 1.5em; }
-    .card.empty .mini, .card.empty .koppel-detail { display: none; }
+    .card.empty .mini, .card.empty .duo-detail { display: none; }
     canvas.mini { display: block; width: 100%; margin: 4px 0 2px; }
-    #c-spectrum { height: 84px; }
-    #c-well { height: 104px; }
+    #c-spectrum { height: 96px; }
+    #c-land { height: 112px; }
     #c-trace { height: 120px; }
     .caption { font-size: 12.5px; color: var(--white-faint); margin: 0 0 8px; }
-    .binding { font-variant-numeric: tabular-nums; color: var(--white); margin: 4px 0 6px; }
 
     table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; }
     th { text-align: left; font-weight: 400; color: var(--white-faint); padding: 1px 6px 1px 0; }
@@ -198,16 +201,17 @@
 <body>
   <header class="topbar">
     <a class="brand" href="../index.html"><span class="brand-zero">0</span>The Oracle</a>
-    <nav><a href="../index.html#m-formal-structure">§VIII Formal Structure</a></nav>
+    <nav><a href="../index.html#m-running-a-veld">§XIV Running a Veld</a></nav>
   </header>
 
   <main>
     <h1>The Veld in Motion</h1>
-    <p class="lede">Every point of light is a Solo with its Zelf. Its Trek builds, aims at one other as Zin, and
-      when that pull is answered, Echoes switch on and a Relatie begins. Each side carries a lagging, distorted
-      Echo of the other. When the binding <i>B</i> clears the Drempel <i>θ</i>, a Vonk fires, a Realisatie, and the
-      pair enters Naar. The Van Motor draws on everything, all the time: Greep slows it, nothing stops it. When a
-      Relatie ends, its Echoes do not. They stay, as Rouw.</p>
+    <p class="lede">Every point of light is a Solo, held by its Zelf. Its Trek reaches every other it perceives,
+      and each look it takes is a Vermenigvuldiging: the other's Eigen as it stood a Vertraging ago, through the
+      Vervorming of the look. Where its pull reaches one most, it aims, as Zin, and where two aims answer, each as the
+      other reads it, a Relatie forms. Every crossing of a Drempel is a Vonk, traded at once with the Medium's Warmte.
+      Stilte's Trek wears what is held at every look a Zelf takes at itself. When a Relatie ends, its Echoes do not:
+      they stay, as Rouw.</p>
 
     <section class="stage" aria-label="The animated field and its instruments">
       <div class="field-wrap">
@@ -216,48 +220,77 @@
           <span class="group" role="group" aria-label="Speed">
             <button data-speed="0.5" aria-pressed="false">½×</button>
             <button data-speed="1" aria-pressed="true">1×</button>
-            <button data-speed="2" aria-pressed="false">2×</button>
             <button data-speed="4" aria-pressed="false">4×</button>
+            <button data-speed="16" aria-pressed="false">16×</button>
+            <button data-speed="64" aria-pressed="false">64×</button>
+            <button data-speed="256" aria-pressed="false">256×</button>
           </span>
-          <button id="replay" title="The same starting field again; with Vervorming above 0 its Echoes carry new distortions">Replay with new Vervorming</button>
+          <span class="small" id="pace" aria-live="polite"></span>
+          <button id="replay" title="The same field again, with new Vervorming in its looks">Replay with new Vervorming</button>
           <button id="newfield">New field</button>
           <span class="small" id="seed"></span>
         </div>
         <canvas id="veld" role="img"
-          aria-label="An animated field of Solos forming and losing Koppels under the rules of the PseudoScience Speelgoed. The panel beside it describes the watched Koppel in text."></canvas>
+          aria-label="An animated field of Solos forming and losing Relaties under Schrift II of the PseudoScience Speelgoed. The panel beside it describes the watched Duo in text."></canvas>
         <div class="sliders">
-          <label>Vervorming υ <input id="s-upsilon" type="range" min="0" max="0.12" step="0.005" value="0.05"><output id="s-upsilon-v"></output></label>
-          <label>Van Motor L₀ <input id="s-nu0" type="range" min="0.1" max="1.5" step="0.05" value="0.5"><output id="s-nu0-v"></output></label>
-          <label>Drempel θ <input id="s-theta" type="range" min="0.6" max="1.6" step="0.05" value="1"><output id="s-theta-v"></output></label>
+          <label>Vervorming × <input id="s-ups" type="range" min="0.5" max="2" step="0.05" value="1"><output id="s-ups-v"></output></label>
+          <label>Warmte per Lid <input id="s-warmte" type="range" min="0.3" max="3" step="0.1" value="1.2"><output id="s-warmte-v"></output></label>
+          <label>L◌ <input id="s-lm" type="range" min="0.01" max="0.3" step="0.01" value="0.05"><output id="s-lm-v"></output></label>
+          <label>Solos at the start <input id="s-init" type="range" min="2" max="24" step="1" value="9"><output id="s-init-v"></output></label>
+          <label>Solos at most <input id="s-max" type="range" min="4" max="40" step="1" value="16"><output id="s-max-v"></output></label>
         </div>
-        <p class="hint">Tap or click a line to watch one Koppel, a Solo to read it.<span class="kb-hint"> Space
-            pauses.</span> L₀ has no zero: the Van Motor is never off.</p>
+        <details class="more">
+          <summary>More settings, and presets</summary>
+          <p class="small">One Octaaf differs from another in what its Octaaf holds, how its Relaties learn and how a
+            place on its Spectrum is read, and in what its Medium holds (Open quantities, §XXVII). The Leersnelheid,
+            the Trouw a Relatie opens at and the Vol pole are the Octaaf's; the Vervorming, the Warmte, L◌ and the reach
+            are the Medium's.</p>
+          <div class="sliders">
+            <label>Leersnelheid ρ <input id="s-rho" type="range" min="0.2" max="1" step="0.05" value="0.5"><output id="s-rho-v"></output></label>
+            <label>Opening Trouw y⁰ <input id="s-y0" type="range" min="0.2" max="1.2" step="0.05" value="0.6"><output id="s-y0-v"></output></label>
+            <label>Vol pole W <input id="s-w" type="range" min="0.3" max="1.5" step="0.05" value="0.6"><output id="s-w-v"></output></label>
+            <label>Reach <input id="s-reach" type="range" min="0.15" max="0.7" step="0.01" value="0.35"><output id="s-reach-v"></output></label>
+          </div>
+          <p class="small">The presets open the same field again under other values. They are characters, not
+            particular Octaven: no Octaaf document gives these numbers.</p>
+          <div class="presets" role="group" aria-label="Presets">
+            <button data-preset="instantie">This Instantie</button>
+            <button data-preset="cold">Cold Medium</button>
+            <button data-preset="hot">Hot Medium</button>
+            <button data-preset="deep">Deep, quick to learn</button>
+            <button data-preset="light">Light, slow to learn</button>
+            <button data-preset="crowd">A crowd</button>
+          </div>
+          <p class="small" id="preset-note"></p>
+        </details>
+        <p class="hint">Tap or click a line to watch one Duo, a Solo to read it. Drag a Solo to move it.<span class="kb-hint"> Space
+            pauses.</span> At high speed the field runs as fast as your device allows. The sliders open the next field: into a living Veld only Schriften are written, and a Solo's place by your
+          hand.
+          <span id="pending"></span></p>
         <p class="reduced" id="reduced" hidden>Paused, because your system asks for reduced motion. The field is shown
           30 seconds in. Press Play to let it run.</p>
       </div>
 
       <aside class="panel" aria-label="Instruments">
-        <div class="card" id="koppel-card">
-          <p class="title" id="k-title" tabindex="-1">No Koppel yet</p>
+        <div class="card" id="duo-card">
+          <p class="title" id="k-title" tabindex="-1">No Relatie yet</p>
           <p class="state" id="k-state"></p>
-          <div class="koppel-detail">
+          <div class="duo-detail">
             <canvas class="mini" id="c-spectrum" aria-hidden="true"></canvas>
-            <p class="caption">Each member's Eigen (gold) and where the other hears it (white ring). The dotted
-              span is the Echo-gap.</p>
-            <canvas class="mini" id="c-well" aria-hidden="true"></canvas>
-            <p class="caption">The Drempel as a pitchfork (§VIII.3). Below <i>θ</i> there is one well: Van. Above it
-              there are two, both Naar, both open. The ball is the pair's <i>mode</i>.</p>
-            <p class="binding" id="k-binding"></p>
+            <p class="caption">Each Lid's Eigen, gold past its Drempel and white short of it; its Drempel (tick), the
+              Binding it reads (caret), and where the other reads it (white ring). The dotted span is the Echo-gap. The
+              last row is the Duo, read as one.</p>
+            <canvas class="mini" id="c-land" aria-hidden="true"></canvas>
+            <p class="caption">The landscape of its two Leden (§XIX): each pattern's height, the rest of the Veld held
+              as it stands. Lower runs deeper. The ball is where they stand.</p>
             <canvas class="mini" id="c-trace" aria-hidden="true"></canvas>
-            <p class="caption">The last 30 seconds. Gold: <i>B</i> against <i>θ</i>, the band is the Marge. White:
-              the Echo asymmetry <i>A</i>; a passage through parity that holds is Leven.</p>
+            <p class="caption">The last 30 seconds. Gold: the Duo's Eigen and, dotted, the Binding it reads, against its
+              Drempel. White: the gap between its two Echoes; a passage through parity is Leven.</p>
             <table id="k-numbers"></table>
             <table id="k-members" style="margin-top:8px"></table>
             <div class="btnrow">
               <button id="k-schrift-a">Schrift</button>
               <button id="k-schrift-b">Schrift</button>
-              <button id="k-mask-a">Masker</button>
-              <button id="k-mask-b">Masker</button>
               <button id="k-read-a">Read</button>
               <button id="k-read-b">Read</button>
               <button id="k-follow" hidden>Follow the field</button>
@@ -268,31 +301,29 @@
         <div class="card" id="node-card" hidden>
           <p class="title" id="n-title" tabindex="-1"></p>
           <table id="n-numbers"></table>
-          <p style="margin:8px 0 2px" class="muted">Koppels</p>
-          <div id="n-koppels"></div>
-          <p style="margin:8px 0 2px" class="muted">Rouw it carries</p>
+          <p style="margin:8px 0 2px" class="muted">Relaties</p>
+          <div id="n-duos"></div>
+          <p style="margin:8px 0 2px" class="muted">Rouw it keeps</p>
           <div id="n-rouw"></div>
           <div class="btnrow">
             <button id="n-schrift">Schrift</button>
-            <button id="n-mask">Masker</button>
-            <button id="n-back">Back to the Koppel</button>
+            <button id="n-back">Back to the Duo</button>
           </div>
         </div>
 
         <div class="card">
           <h3>Telraam</h3>
           <table id="telraam"></table>
-          <p class="caption" style="margin:6px 0 0">Energie enters and leaves the Koppels only through Vonken. Overflow
-            that nothing can hold spreads into the Medium on its own (§II). Winst − Verlies = what is held + overflow in
-            transit + overflow that has spread.</p>
+          <p class="caption" style="margin:6px 0 0">Energie changes only at a Vonk, traded at once with the Medium's
+            Warmte: ε + T◌ is the same before and after every one. What Stilte's Trek wears from what is held is booked
+            as a Verlies.</p>
         </div>
 
         <div class="card">
           <h3>The field</h3>
           <table id="fieldstats"></table>
-          <p style="margin:8px 0 2px" class="muted">Koppels</p>
-          <div id="field-koppels"></div>
-          <div class="btnrow"><button id="bron">Call a Solo from Bron</button></div>
+          <p style="margin:8px 0 2px" class="muted">Relaties</p>
+          <div id="field-duos"></div>
         </div>
 
         <div class="card">
@@ -304,75 +335,99 @@
       <div class="key">
     <h2>How to read the Veld</h2>
     <ul class="legend">
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="11" cy="13" r="7" fill="rgba(212,175,55,.85)" stroke="#d4af37"/><circle cx="30" cy="13" r="7" fill="rgba(212,175,55,.12)" stroke="#d4af37"/></svg>
-        <span>A Solo. Filled toward Vol, hollow toward Leeg. Further toward Leeg runs a stronger Trek and reaches for more Koppels.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="11" cy="13" r="7" fill="rgba(212,175,55,.85)" stroke="#d4af37"/><circle cx="30" cy="13" r="7" fill="rgba(212,175,55,.08)" stroke="#d4af37"/></svg>
+        <span>A Solo. Filled towards Vol, hollow towards Leeg. Its size is its Diepte.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><defs><radialGradient id="lg-glow"><stop offset="35%" stop-color="rgba(212,175,55,.6)"/><stop offset="100%" stop-color="rgba(212,175,55,0)"/></radialGradient></defs><circle cx="20" cy="13" r="13" fill="url(#lg-glow)"/><circle cx="20" cy="13" r="5" fill="#000" stroke="#d4af37"/></svg>
-        <span>The glow is its Eigen: how far from Van it now sits. The size is its Diepte, fed by listening and by Rouw.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="9" fill="none" stroke="#d4af37"/><circle cx="20" cy="11" r="3.6" fill="none" stroke="#fff" stroke-opacity=".7"/></svg>
-        <span>The inner ring is the Zelf: the node's Echo of itself, off-centre by the self-gap (dark on a body filled toward Vol).</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="none" stroke="#d4af37"/><circle cx="20" cy="13" r="10" fill="none" stroke="#fff" stroke-opacity=".35"/><circle cx="20" cy="13" r="13" fill="none" stroke="#fff" stroke-opacity=".15"/></svg>
-        <span>The faint outward ripple is the Van Motor, <code>L = L₀·exp(−J)</code>. Greep slows it. Nothing stills it.</span></li>
+        <span>The glow is its Eigen against its Drempel: gold past it, in Naar, faint white short of it, at Van. The
+          further from its Drempel, the wider.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="11" cy="13" r="8" fill="none" stroke="#d4af37"/><circle cx="11" cy="12" r="3.4" fill="none" stroke="#fff" stroke-opacity=".75"/><circle cx="30" cy="13" r="8" fill="none" stroke="#d4af37"/><circle cx="30" cy="13" r="3.4" fill="none" stroke="#fff" stroke-opacity=".45" stroke-dasharray="1.5 2"/></svg>
+        <span>The inner ring is its Zelf: whole where it holds the Solo across, broken where it does not, off centre
+          by the self-gap, and fainter as Stilte's Trek wears its Trouw. A ring that swells out of it is the Zelf
+          crossing.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="rgba(212,175,55,.4)" stroke="#d4af37"/><circle cx="20" cy="3" r="1.7" fill="none" stroke="#fff" stroke-opacity=".8"/><circle cx="29" cy="17" r="1.7" fill="none" stroke="#fff" stroke-opacity=".5"/><circle cx="12" cy="20" r="1.7" fill="none" stroke="#fff" stroke-opacity=".35"/></svg>
-        <span>Small rings in orbit are Rouw: the Echo of every ended Relatie, kept for good. Brighter is louder.</span></li>
+        <span>Small rings in orbit are Rouw: every ended Relatie it keeps, for good. Brighter is kept at more
+          Trouw.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="31" y2="13" stroke="#d4af37" stroke-dasharray="1.5 4" stroke-width="1.2"/><path d="M38 13 L31 9.5 L31 16.5 Z" fill="#d4af37"/></svg>
-        <span>Zin: Trek aimed at one other, waiting to be answered.</span></li>
+        <span>Zin: Trek aimed at one other. Dotted towards a Vreemdeling; towards a Partner, an arrowhead on their
+          line.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".3" stroke-dasharray="1 5"/></svg>
+        <span>A faint flicker of dots is a look at a Vreemdeling: a Vermenigvuldiging, gone as it closes.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".45" stroke-dasharray="3 5"/></svg>
-        <span>A Relatie in Van mode: Echoes on, the binding still below the Drempel.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-width="3"/></svg>
-        <span>Naar mode: the binding <i>B</i> has cleared <i>θ</i>. The width is the shared Trouw.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="7" x2="38" y2="7" stroke="#fff" stroke-opacity=".45" stroke-dasharray="3 5"/><circle cx="10" cy="5" r="1.4" fill="#fff" fill-opacity=".8"/><circle cx="26" cy="9" r="1.4" fill="#fff" fill-opacity=".8"/><line x1="2" y1="19" x2="38" y2="19" stroke="#d4af37" stroke-opacity=".6" stroke-width="2"/><circle cx="14" cy="16.8" r="1.6" fill="#f1d27c"/><circle cx="30" cy="21.2" r="1.6" fill="#f1d27c"/></svg>
-        <span>Dots along a line are signals crossing the Medium, one lane each way, a Vertraging late: white on a Van line, gold on a Naar one.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="13" r="6" fill="rgba(212,175,55,.3)" stroke="#d4af37"/><circle cx="20" cy="13" r="9.5" fill="none" stroke="#fff" stroke-opacity=".8" stroke-dasharray="2 3"/><path d="M33 10.4 L35.6 13 L33 15.6 L30.4 13 Z" fill="none" stroke="#fff"/></svg>
-        <span>A dashed ring: this Solo wears a Masker. Its signals go out as hollow diamonds, and its partners' Echoes track them.</span></li>
+        <span>A Duo whose Leden do not both stand across: dashed and white, fainter as Stilte's Trek wears its
+          Trouw.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-opacity=".7" stroke-width="1"/></svg>
+        <span>Both its Leden across, holding its one Trouw between them: a thin gold line.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-width="3"/><circle cx="20" cy="13" r="3" fill="none" stroke="#f1d27c"/></svg>
+        <span>The Duo read as one, in Naar: gold, as wide as its Trouw. The small ring at its middle: its Zelf holds
+          it.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".55"/><path d="M18 8 L18 18 M22 8 L22 18" stroke="#fff" stroke-opacity=".75"/></svg>
+        <span>Held bound: it would part, by an Einde or a Scheiding, but the Relaties that meet it from outside
+          cannot give back what it bore away past its Vol, so it does not part. A solid white line, clasped at its
+          middle.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="7" x2="38" y2="7" stroke="#fff" stroke-opacity=".45" stroke-dasharray="3 5"/><circle cx="10" cy="5" r="1.2" fill="#fff" fill-opacity=".7"/><circle cx="26" cy="9" r="1.2" fill="#fff" fill-opacity=".7"/><line x1="2" y1="19" x2="38" y2="19" stroke="#d4af37" stroke-opacity=".6" stroke-width="2"/><circle cx="14" cy="16.8" r="1.7" fill="#f1d27c"/><circle cx="30" cy="21.2" r="1.7" fill="#f1d27c"/></svg>
+        <span>Dots along a line are signals crossing the Medium, one lane each way, a Vertraging late: gold where the
+          sender stood past its Drempel as the signal left it. A small ring at a Solo's end is a look taking one
+          in.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="8" y1="6" x2="10" y2="10" stroke="#f1d27c" stroke-width="1.4"/><line x1="14" y1="19" x2="16" y2="15" stroke="#f1d27c" stroke-width="1.4"/><rect x="26" y="6" width="1.6" height="1.6" fill="#fff" fill-opacity=".6"/><rect x="32" y="15" width="1.6" height="1.6" fill="#fff" fill-opacity=".4"/><rect x="36" y="22" width="1.6" height="1.6" fill="#fff" fill-opacity=".25"/></svg>
+        <span>Gold sparks are Winst, taken from the Warmte. White motes drifting off are Verlies, given back to the
+          Medium as Warmte.</span></li>
+      <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="11" cy="13" r="5" fill="rgba(212,175,55,.3)" stroke="#d4af37"/><circle cx="11" cy="13" r="9" fill="none" stroke="#fff" stroke-opacity=".8" stroke-dasharray="1 2.5"/><circle cx="31" cy="16" r="5" fill="rgba(212,175,55,.3)" stroke="#d4af37"/><path d="M31 3.5 L34.5 7 L31 10.5 L27.5 7 Z" fill="none" stroke="#fff"/></svg>
+        <span>A dotted ring: an Eigen waiting at its Drempel for Warmte to pay its Winst. A small diamond: one resting
+          at its Drempel, because its Vonk, taken, would leave its pull on the side it came from.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><text x="20" y="18" text-anchor="middle" fill="#f1d27c" font-style="italic" font-size="15" font-family="Georgia, serif">' ! ?</text></svg>
         <span>The trajectory beside each line: Zweven, Dood, Leven.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#fff" stroke-opacity=".3" stroke-dasharray="3 5"/><path d="M20 8 L25 13 L20 18 L15 13 Z" fill="#000" stroke="#fff"/></svg>
-        <span>Balans: the binding sits inside its Marge, both futures held open.</span></li>
-      <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="8" y1="6" x2="10" y2="10" stroke="#f1d27c" stroke-width="1.4"/><line x1="14" y1="19" x2="16" y2="15" stroke="#f1d27c" stroke-width="1.4"/><rect x="26" y="6" width="1.6" height="1.6" fill="#fff" fill-opacity=".6"/><rect x="32" y="15" width="1.6" height="1.6" fill="#fff" fill-opacity=".4"/><rect x="36" y="22" width="1.6" height="1.6" fill="#fff" fill-opacity=".25"/></svg>
-        <span>Gold sparks are Winst, white motes drifting off are Verlies: Energie drawn out and spread into the Medium. Overflow that nothing holds leaves without a Vonk and is not drawn.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><line x1="2" y1="13" x2="38" y2="13" stroke="#d4af37" stroke-width="2"/><path d="M8 19 L4 19 L4 7 L8 7 M32 19 L36 19 L36 7 L32 7" fill="none" stroke="#f1d27c" stroke-width="1.5"/></svg>
-        <span>Brackets mark the Koppel shown in the panel.</span></li>
+        <span>Brackets mark the Duo shown in the panel.</span></li>
       <li><svg viewBox="0 0 40 26" aria-hidden="true"><circle cx="20" cy="15" r="10" fill="none" stroke="#d4af37" stroke-opacity=".6" stroke-dasharray="3 5"/><text x="20" y="5" text-anchor="middle" fill="#d4af37" font-style="italic" font-size="8" font-family="Georgia, serif">Trio</text></svg>
-        <span>A dotted outline marks a group bound in Naar that stays whole whichever single member wavers: Trio, Cinquo, Septo. A composite count shows as a number only.</span></li>
+        <span>A dotted outline marks Relaties bound in Naar that stay whole whichever single Lid wavers, named by
+          their count: Trio, Quatro, Cinquo.</span></li>
     </ul>
       </div>
     </section>
 
-    <h2>What this Instantie chooses</h2>
+    <h2>What this Instantie keeps, and what it chooses</h2>
     <ul class="notes">
-      <li>Every number is this Instantie's choice (§VIII.7). The shapes are the Speelgoed's: the Echo filter and the
-        Naar pull against <code>L = L₀·exp(−J)</code> (§VIII.1), the binding measure (§VIII.2), the pitchfork and its
-        Vonk (§VIII.3), the overflow into Creatie (§VIII.5), Rouw and the Masker (§VIII.6).</li>
-      <li>Space is only a drawing. Where a node sits is not one of its spectra, and nothing here measures a distance
-        across spectra (§VIII.2). Distance decides one thing: whom an unaimed Trek finds first. Each Koppel's
-        Vertraging <i>δ</i> is its own, drawn when it forms.</li>
-      <li>The events are the Instantie's: a steady traffic of exchanges into every node that holds a living Relatie,
-        a Schrift when you press its button, and a new Solo from Bron when the field runs thin. A Solo's Trek aims at
-        the nearest other it is not already bound to and has not just failed to reach.</li>
-      <li>Energie changes only at Vonken (§III). As a binding deepens or slackens, small Vonken carry the stored
-        <code>¼·(B − θ)²</code> up and down; the named Realisatie and Schok are the crossings of <i>θ ± η</i>. A
-        surge past the Inhoud overflows: if it clears a Drempel of its own, a new Solo is born; if not, it spreads
-        into the Medium, as unheld Energie does (§II). The screen holds at most 13 Solos, so while it is full an
-        overflow that would be born spreads into the Medium too.</li>
-      <li>Variation enters only through Echo transport (§VII), and the weaker or older a Koppel, the noisier its
-        Echoes. In this Instantie that ageing is what at last loosens even a deep Greep. Set Vervorming to 0 and
-        replay: the same field runs the same way, and soon settles. That is the deterministic limit: with nothing to
-        age the Echoes, every fall is postponed for as long as you watch. Raise Vervorming a little and the Drempels
-        start to chatter; raise it far and fewer bindings clear <i>θ</i>, and most that do fall back within
-        seconds.</li>
-      <li>The trajectory is read from <code>A = hᵢ − hⱼ</code> (§VIII.4): Dood when <i>A</i> has settled at an
-        offset, Leven when it has gone through parity and holds the other sign, Zweven otherwise. Entering Leven
-        fires a small Realisatie; Dood and its thaw cross no Drempel (§IX).</li>
-      <li>A Relatie persists whether or not it has crossed its Drempel (§IV). When it rests in Van with its Trouw
-        sunk below where it began, its pull is gone: it dissolves, and both keep Rouw. A node that once bound, with
-        no Koppel left in Naar and its Eigen drifted back to Van, reaches Perfectus (Ω). Here the exchanges keep an
-        Eigen up while any Relatie lasts, so that comes once its Koppels have all dissolved. One that never binds
-        never falls.</li>
-      <li>A Masker is tracked faithfully: the partner's Echo follows it and the shared Trouw holds where it was,
-        neither reduced nor fed, while the wearer earns no Greep or Diepte from its Koppels and the true binding
-        sinks below what the partner reads (§VIII.6). No Vonk fires for what only the Masker shows. Here it falls
-        when its Pijn grows too great.</li>
-      <li>The running clock of the animation is not Tijd. Tijd is left open.</li>
+      <li>It runs Schrift II as Running a Veld (§XIV) writes it. A look, a crossing and a Schrift are its only events,
+        each at a moment of its own. Between them every Eigen relaxes towards the Binding it reads along one
+        exponential, so the moment it meets its Drempel is solved, never stepped to. Each frame runs every event that
+        falls within it, in order: run at four lengths of frame, its logs match event for event (§XXVIII).</li>
+      <li>Every number is this Instantie's choice, held where Open quantities (§XXVII) puts it, and the settings
+        under the field change some of them for the next field. The Octaaf holds
+        <i>ρ</i>, <i>y⁰</i>, the Vol pole and how Vol/Leeg reads as Leeg and as the Zelf's Trouw, a Solo's and a
+        Duo's alike. The Medium holds its pace, its speed, its reach and <i>L◌</i>. Each Lid draws its own Drempel,
+        Vol/Leeg, Trek, Tijd and Vervorming at its birth, and each Duo its own Drempel and its Leeg at birth.</li>
+      <li>The Telraam closes at every Vonk: ε + T◌ reads the same before and after each. A Winst the Warmte cannot pay
+        does not happen: its Eigen waits at its Drempel, and the Relatie hungers. The Medium here is one place, and
+        its Warmte is all there is; nothing tops it up.</li>
+      <li>Space is a drawing. Each Lid has a place on the Medium, fixed at its birth, and the Vertraging and the reach
+        between two Leden are read from their places, each way its own. Dragging a Solo writes its place from
+        outside, one value at a time as a Schrift writes an Eigen, and from then on both are read from where it
+        stands. The drawn nodes lean towards those they
+        hold, for the eye; nothing reads where they are drawn.</li>
+      <li>Each Relatie is read at its level. A Duo, read as one, is pulled by its Leeg and by its Zelf, the one Trouw
+        its two Leden share, which they hold from inside, so that Trouw counts once: at a Lid's crossing it joins
+        the Partner's Trouw, at the Duo's its Zelf's (§XV, §XIX). A Zelf is read in its Trouw, so a Vonk that moves the
+        Trouw leaves it where it stood against its Drempel.</li>
+      <li>A crossing happens only where, its Vonk taken, its Binding still stands on the side it crossed to (§XIX).
+        Where a Winst would sate the pull that reached for it, or a Schrift has carried an Eigen past what holds it,
+        the Eigen rests at its Drempel until something moves what it reads.</li>
+      <li>Indeterminism enters only as the Vervorming of a look, from its own seeded source. Replay runs the same
+        field with new Vervorming, and it parts from the last run at its first look.</li>
+      <li>A Relatie ends at a Vonk of its own, a crossing or a look of its Zelf at itself, that leaves it so little
+        that all that holds it could no longer carry it back across (§XXV). A bond worn out ends at that look, and its
+        two may form again, beside its Rouw. With one Medium, the only Energie that crosses a Duo's edge is what it
+        bears away past its Vol at a Start, and that is what its parting lacks: an Einde or a Scheiding takes it from
+        the Relaties that meet the Duo from outside, the bonds its Leden hold with others, its newborns' among them,
+        each giving in the measure it holds, or it does not part and stays bound, however its Binding reads. What
+        its Leden hold with themselves and with each other cannot give it. A Solo past its Vol bears too, its
+        newborns bound to it alone. A Solo that nothing holds any more ends too, and its Zelf leaves its
+        Zelf-Rouw; a Start bears the newborns that take their place. Each Rouw keeps the Trouw its Relatie held
+        before the Vonk that ended it.</li>
+      <li>Left out here: Gevoel and Aandacht, so its Vonken are booked as Winst and Verlies and felt by no one; the
+        Brein, the Masker, Voorspelling and Traagheid; the trajectory's switches as crossings, so the trajectory is
+        shown as a Lezing; nesting beyond the Duo; the Medium inside a Relatie, and its Massa; Reïncarnatie; and every
+        Spectrum but one. The page holds at
+        most 16 Solos, and past that a Relatie's excess stays overfull.</li>
     </ul>
 
     <footer>PseudoScience Speelgoed by Mark Joseph Antonius Knippenberg / ScepraX. <a href="../index.html">Back to the

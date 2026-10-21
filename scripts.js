@@ -45,7 +45,7 @@
       if (!body.classList.contains("cursor-active")) body.classList.add("cursor-active");
       if (!raf) raf = requestAnimationFrame(follow);
       var t = e.target;
-      var onLink = t.closest && t.closest("a,button,.chip,.tile,summary,input,.wildcard");
+      var onLink = t.closest && t.closest("a,button,summary,input");
       var onHam = t.closest && t.closest(".hamburger");
       halo.classList.toggle("on-ham", !!onHam);
       halo.classList.toggle("on-link", !!onLink && !onHam);
@@ -71,43 +71,49 @@
     if (e.key === "Escape") setMenu(false);
   });
   var revealEl = $("#Speelgoed-reveal");
-  $$("#menu a").forEach(function (a) {
-    a.addEventListener("click", function (e) {
-      var href = a.getAttribute("href");
-      setMenu(false);
-      if (!href || href === "#") {
-        e.preventDefault();
-        window.scrollTo({ top: 0, behavior: "smooth" });
-        return;
-      }
-      if (href.charAt(0) === "#" && revealEl && revealEl.hidden) {
-        var tgt = document.querySelector(href);
-        if (tgt && revealEl.contains(tgt)) {
+  // The chapters and their menu entries are written by speelgoed.js.
+  var textReady = (window.Speelgoed && window.Speelgoed.ready) || Promise.resolve();
+  textReady.then(wireMenu);
+  function wireMenu() {
+    $$("#menu a").forEach(function (a) {
+      a.addEventListener("click", function (e) {
+        var href = a.getAttribute("href");
+        setMenu(false);
+        if (!href || href === "#") {
           e.preventDefault();
-          revealEl.hidden = false;
-          setTimeout(function () { tgt.scrollIntoView({ behavior: "smooth", block: "start" }); }, 60);
+          window.scrollTo({ top: 0, behavior: "smooth" });
+          return;
         }
-      }
-    });
-  });
-  if ("IntersectionObserver" in window) {
-    var secObs = new IntersectionObserver(function (entries) {
-      entries.forEach(function (en) {
-        var lnk = document.querySelector('#menu a[href="#' + en.target.id + '"]');
-        if (lnk) lnk.classList.toggle("on", en.isIntersecting);
+        if (href.charAt(0) === "#" && revealEl && revealEl.hidden) {
+          var tgt = document.querySelector(href);
+          if (tgt && revealEl.contains(tgt)) {
+            e.preventDefault();
+            revealEl.hidden = false;
+            setTimeout(function () { tgt.scrollIntoView({ behavior: "smooth", block: "start" }); }, 60);
+          }
+        }
       });
-    }, { rootMargin: "-20% 0px -65% 0px", threshold: 0 });
-    $$("#Speelgoed-reveal .m-section[id], .m-section[id]").forEach(function (s) { secObs.observe(s); });
+    });
+    if ("IntersectionObserver" in window) {
+      var secObs = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          var lnk = document.querySelector('#menu a[href="#' + en.target.id + '"]');
+          if (lnk) lnk.classList.toggle("on", en.isIntersecting);
+        });
+      }, { rootMargin: "-20% 0px -65% 0px", threshold: 0 });
+      $$(".m-section[id]").forEach(function (s) { secObs.observe(s); });
+    }
   }
 
   /* ---------------------------------------------------------------
      IV. Copy the Oracle (Speelgoed + charge)
      --------------------------------------------------------------- */
+  // The Oracle is read from PseudoScienceSpeelgoed.md by speelgoed.js.
+  // It is fetched when the Ask panel opens, so a click can copy at once.
+  var oracleText = null;
   function oraclePayload() {
-    var srcEl = $("#Speelgoed-source"), prEl = $("#oracle-prompt");
-    if (!srcEl) return "";
-    var prompt = prEl ? prEl.textContent.trim() : "";
-    return (prompt ? prompt + "\n\n" : "") + srcEl.textContent.trim() + "\n";
+    if (!window.Speelgoed) return Promise.reject(new Error("speelgoed.js is missing"));
+    return window.Speelgoed.payload().then(function (p) { oracleText = p; return p; });
   }
   function acknowledge(btn, text) {
     btn.classList.add("copied");
@@ -120,33 +126,48 @@
   var copyBtn = $("#copy-Speelgoed");
   if (copyBtn) {
     copyBtn.addEventListener("click", function () {
-      var payload = oraclePayload();
-      if (!payload) return;
       var done = function () { acknowledge(copyBtn, "The Oracle is yours — paste it anywhere"); };
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(payload).then(done, function () { legacyCopy(payload, done); });
-      } else { legacyCopy(payload, done); }
+      var failed = function () { acknowledge(copyBtn, "The Oracle could not be read — try again"); };
+      var clip = navigator.clipboard;
+      if (oracleText !== null) {
+        if (clip && clip.writeText) clip.writeText(oracleText).then(done, function () { legacyCopy(oracleText, done); });
+        else legacyCopy(oracleText, done);
+      } else if (clip && clip.write && window.ClipboardItem) {
+        // still loading: hand the clipboard a promise, so the click still counts
+        var blob = oraclePayload().then(function (p) { return new Blob([p], { type: "text/plain" }); });
+        clip.write([new ClipboardItem({ "text/plain": blob })]).then(done, function () {
+          blob.then(function () { acknowledge(copyBtn, "Copying failed — use Download instead"); }, failed);
+        });
+      } else {
+        oraclePayload().then(function (p) {
+          if (clip && clip.writeText) clip.writeText(p).then(done, function () { legacyCopy(p, done); });
+          else legacyCopy(p, done);
+        }, failed);
+      }
     });
   }
   var dlBtn = $("#download-oracle");
   if (dlBtn) {
     dlBtn.addEventListener("click", function () {
-      var payload = oraclePayload();
-      if (!payload) return;
-      var url = URL.createObjectURL(new Blob([payload], { type: "text/markdown;charset=utf-8" }));
-      var a = document.createElement("a");
-      a.href = url; a.download = "PseudoScience Oracle.md";
-      document.body.appendChild(a); a.click(); document.body.removeChild(a);
-      setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
-      acknowledge(dlBtn, "The Oracle is yours — attach it anywhere");
+      oraclePayload().then(function (payload) {
+        var url = URL.createObjectURL(new Blob([payload], { type: "text/markdown;charset=utf-8" }));
+        var a = document.createElement("a");
+        a.href = url; a.download = "PseudoScience Oracle.md";
+        document.body.appendChild(a); a.click(); document.body.removeChild(a);
+        setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+        acknowledge(dlBtn, "The Oracle is yours — attach it anywhere");
+      }, function () { acknowledge(dlBtn, "The Oracle could not be read — try again"); });
     });
   }
   function legacyCopy(text, cb) {
     var ta = document.createElement("textarea");
     ta.value = text; ta.style.position = "fixed"; ta.style.opacity = "0";
     document.body.appendChild(ta); ta.select();
-    try { document.execCommand("copy"); } catch (e) { }
-    document.body.removeChild(ta); if (cb) cb();
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch (e) { }
+    document.body.removeChild(ta);
+    if (ok) { if (cb) cb(); }
+    else if (copyBtn) acknowledge(copyBtn, "Copying failed — use Download instead");
   }
 
   /* ---------------------------------------------------------------
@@ -166,7 +187,10 @@
       var open = askPanel.hidden;
       askPanel.hidden = !open;
       if (ask) { ask.classList.toggle("on", open); ask.setAttribute("aria-expanded", open ? "true" : "false"); }
-      if (open) askPanel.scrollIntoView({ behavior: "smooth", block: "center" });
+      if (open) {
+        askPanel.scrollIntoView({ behavior: "smooth", block: "center" });
+        oraclePayload().catch(function () { });
+      }
     }
     if (ball) {
       ball.addEventListener("click", gaze);
@@ -176,28 +200,18 @@
     }
     if (touch) touch.addEventListener("click", gaze);
     if (ask) ask.addEventListener("click", summon);
+    // a link to a chapter (#m-…) opens the text and goes there
+    function openHash() {
+      var id = location.hash.slice(1);
+      var tgt = id && document.getElementById(id);
+      if (tgt && reveal && reveal.contains(tgt)) {
+        reveal.hidden = false;
+        setTimeout(function () { tgt.scrollIntoView({ block: "start" }); }, 60);
+      }
+    }
+    textReady.then(openHash);
+    window.addEventListener("hashchange", openHash);
 
-    // topology — collapsible number blocks (the deeper ball)
-    $$(".topo-toggle").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        var block = btn.closest(".topo-block");
-        var open = block.classList.toggle("open");
-        btn.setAttribute("aria-expanded", open ? "true" : "false");
-      });
-    });
-    // constellation stars surface a veiled number, then the anchor scrolls to it
-    $$(".star").forEach(function (s) {
-      s.addEventListener("click", function () {
-        var sel = s.getAttribute("href");
-        var block = sel && document.querySelector(sel);
-        if (block) {
-          block.classList.add("open");
-          var tb = block.querySelector(".topo-toggle");
-          if (tb) tb.setAttribute("aria-expanded", "true");
-          s.classList.add("lit");
-        }
-      });
-    });
     // back-to-top on the Speelgoed page too
     var mTop = $("#to-top");
     if (mTop) {
@@ -208,23 +222,6 @@
         window.scrollTo({ top: 0, behavior: "smooth" });
         mTop.classList.remove("pulse"); void mTop.offsetWidth; mTop.classList.add("pulse");
       });
-    }
-  }
-
-  /* ---------------------------------------------------------------
-     VI. The Poem — lines spoken as you scroll
-     --------------------------------------------------------------- */
-  if (page === "poem") {
-    var lines = $$(".poem-line");
-    if ("IntersectionObserver" in window) {
-      var po = new IntersectionObserver(function (entries) {
-        entries.forEach(function (en) {
-          if (en.isIntersecting) { en.target.classList.add("in"); po.unobserve(en.target); }
-        });
-      }, { rootMargin: "0px 0px -12% 0px", threshold: 0.1 });
-      lines.forEach(function (l) { po.observe(l); });
-    } else {
-      lines.forEach(function (l) { l.classList.add("in"); });
     }
   }
 
@@ -269,7 +266,8 @@
      Everything else → plain (the Divergence engine)
      Applied lazily to prose so the great library stays quick.
      --------------------------------------------------------------- */
-  (function triUnity() {
+  textReady.then(triUnity);
+  function triUnity() {
     function set(list) {
       var s = Object.create(null);
       list.split(" ").forEach(function (w) { if (w) s[w] = 1; });
@@ -281,7 +279,7 @@
       "beneath below above between among amid amidst through throughout during within " +
       "without against toward towards about around across along beside besides beyond " +
       "near off out up down inside outside per via despite plus minus versus " +
-      "amongst unto th st nd rd not no");
+      "amongst unto th st nd rd not no et al");
     var PRON = set("i you he she it we they me him her us them my mine your yours his " +
       "hers its our ours their theirs who whom whose myself yourself himself herself " +
       "itself oneself ourselves yourselves themselves whoever whomever " +
@@ -373,30 +371,59 @@
     }
     function cap(w) { return w.charAt(0).toUpperCase() + w.slice(1); }
 
-    var TOKEN = /[A-Za-z]+(?:['’-][A-Za-z]+)*/g;
+    var L = "A-Za-z\u00C0-\u00D6\u00D8-\u00F6\u00F8-\u024F";
+    var TOKEN = new RegExp("[" + L + "]+(?:['’-][" + L + "]+)*", "g");
+    // Symbols stay as written: one-letter variables (x, y, e) and any word
+    // touching a subscript, an underscore, a digit, Greek or a math sign.
+    var SYMBOLIC = /[_0-9\u0300-\u036F\u0370-\u03FF\u00B2\u00B3\u00B9\u00B7\u1D62-\u1D6A\u2070-\u209F\u2190-\u21FF\u2200-\u22FF\u27C0-\u27FF\u2A00-\u2AFF\u2016^=+\/]/;
+    function symbolic(w, before, after) {
+      var base = w.replace(/['\u2019]s$/, "");
+      if (base.length === 1) return !/^[aAI]$/.test(base);
+      if (SYMBOLIC.test(before) || SYMBOLIC.test(after)) return true;
+      return after === "(" && w === w.toLowerCase() && w.length <= 6;
+    }
+    // The Speelgoed's own words, read from its Lexicon, stay nouns:
+    // Held is not a verb here, nor Signaal an adjective.
+    var TERMS = Object.create(null);
+    ((window.Speelgoed && window.Speelgoed.terms) || []).forEach(function (w) { TERMS[w.toLowerCase()] = 1; });
+    var ENDINGS = ["s", "es", "en", "n", "’s", "'s"];
+    function isTerm(w) {
+      if (w.charAt(0) === w.charAt(0).toLowerCase()) return false;
+      var lw = w.toLowerCase();
+      if (TERMS[lw]) return true;
+      for (var i = 0; i < ENDINGS.length; i++) {
+        var e = ENDINGS[i];
+        if (lw.length > e.length + 1 && lw.slice(-e.length) === e && TERMS[lw.slice(0, -e.length)]) return true;
+      }
+      return false;
+    }
+    // Plain words gather into one text node; only verbs and adjectives
+    // get an element of their own.
     function transformText(node) {
       var text = node.nodeValue;
       if (!/[A-Za-z]/.test(text)) return;
       var frag = document.createDocumentFragment();
-      var last = 0, m;
+      var plain = "", last = 0, m, wrapped = false;
+      function wrap(tag, cls, w) {
+        if (plain) { frag.appendChild(document.createTextNode(plain)); plain = ""; }
+        var e = document.createElement(tag); e.className = cls;
+        e.textContent = w; frag.appendChild(e);
+        wrapped = true;
+      }
       TOKEN.lastIndex = 0;
       while ((m = TOKEN.exec(text)) !== null) {
-        if (m.index > last) frag.appendChild(document.createTextNode(text.slice(last, m.index)));
-        var w = m[0], t = classify(w);
-        if (t === "v") {
-          var st = document.createElement("strong"); st.className = "tu-v";
-          st.textContent = w; frag.appendChild(st);
-        } else if (t === "a") {
-          var em = document.createElement("em"); em.className = "tu-a";
-          em.textContent = w; frag.appendChild(em);
-        } else if (t === "n") {
-          frag.appendChild(document.createTextNode(cap(w)));
-        } else {
-          frag.appendChild(document.createTextNode(w));
-        }
+        plain += text.slice(last, m.index);
+        var w = m[0];
+        var t = symbolic(w, text.charAt(m.index - 1), text.charAt(m.index + w.length)) || isTerm(w)
+          ? "p" : classify(w);
+        if (t === "v") wrap("strong", "tu-v", w);
+        else if (t === "a") wrap("em", "tu-a", w);
+        else plain += t === "n" ? cap(w) : w;
         last = m.index + w.length;
       }
-      if (last < text.length) frag.appendChild(document.createTextNode(text.slice(last)));
+      plain += text.slice(last);
+      if (!wrapped) { if (plain !== text) node.nodeValue = plain; return; }
+      if (plain) frag.appendChild(document.createTextNode(plain));
       node.parentNode.replaceChild(frag, node);
     }
     var SKIP = { SCRIPT: 1, STYLE: 1, CODE: 1 };
@@ -423,13 +450,14 @@
       var n = walker.nextNode();
       if (!n) return;
       var text = n.nodeValue, i = text.search(/\S/);
+      var ch = String.fromCodePoint(text.codePointAt(i));
       var b = document.createElement("b");
       b.className = "spark";
-      b.textContent = text.charAt(i);
+      b.textContent = ch;
       var parent = n.parentNode;
       if (i > 0) parent.insertBefore(document.createTextNode(text.slice(0, i)), n);
       parent.insertBefore(b, n);
-      n.nodeValue = text.slice(i + 1);
+      n.nodeValue = text.slice(i + ch.length);
     }
     function applyPage(el) {
       var c = sentenceCount(el);
@@ -445,7 +473,7 @@
         acceptNode: function (n) {
           var p = n.parentNode;
           if (!p || SKIP[p.nodeName]) return NodeFilter.FILTER_REJECT;
-          if (p.closest && p.closest(".math,.tu-v,.tu-a,.cat-num,.num,.topo-mark,.tile-num,.star-n"))
+          if (p.closest && p.closest("a,code,strong,em,b,i,.equation,.math,.num"))
             return NodeFilter.FILTER_REJECT;
           return n.nodeValue && /[A-Za-z]/.test(n.nodeValue)
             ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
@@ -456,19 +484,16 @@
       nodes.forEach(function (nd) { try { transformText(nd); } catch (e) { } });
       // the Page governs answer paragraphs only — stage furniture
       // (tagline, colophon) keeps its own designed geometry
-      if (el.tagName === "P" && !el.closest(".poem-line,.oracle-tagline,.living-update,.charge-peek")) {
+      if (el.tagName === "P" && !el.closest(".oracle-tagline,.charge-peek")) {
         try { applyPage(el); } catch (e) { }
       }
     }
-    window.__triProcess = function (scope) {
-      $$("p,li,blockquote,td,th,figcaption,dd,.poem-line", scope).forEach(processBlock);
-    };
 
     var main = $("main");
     if (!main) return;
     function eligible() {
-      return $$("p,li,blockquote,td,th,figcaption,dd,.poem-line", main).filter(function (el) {
-        return !el.closest(".copy-panel,.menu,.topbar,.seal,.ring-index,.honeycomb,.search-wrap,.cat-head,.orb-choices,.constellation,.maxim,.scrolls");
+      return $$("p,li,blockquote,td,th,figcaption,dd", main).filter(function (el) {
+        return !el.closest(".copy-panel,.menu,.topbar,.seal,.orb-choices,.scrolls,.overture,#m-sources");
       });
     }
     var blocks = eligible();
@@ -486,7 +511,7 @@
     /* III. the Silence — one extra blank line after each major answer.
        Interior silences hold a Breath (U+200B, remembered rest); the last
        holds a Bond (U+2060, waiting) — the library never closes. */
-    var answers = $$("#Speelgoed-reveal > .m-section, #Speelgoed-reveal > .binary-arch, #Speelgoed-reveal > .topology");
+    var answers = $$("#Speelgoed-reveal > .m-section");
     answers.forEach(function (sec, i) {
       var sil = document.createElement("div");
       sil.className = "silence";
@@ -494,62 +519,28 @@
       sil.textContent = i === answers.length - 1 ? "⁠" : "​";
       sec.appendChild(sil);
     });
-
-    // style freshly-revealed regions at once (Speelgoed reveal, opened topology)
-    ["#crystal-ball", "#touch-orb", "#ask-oracle"].forEach(function (s) {
-      var el = $(s);
-      if (el) el.addEventListener("click", function () {
-        setTimeout(function () { window.__triProcess($("#Speelgoed-reveal") || main); }, 30);
-      });
-    });
-    $$(".topo-toggle").forEach(function (b) {
-      b.addEventListener("click", function () {
-        var blk = b.closest(".topo-block");
-        setTimeout(function () { window.__triProcess(blk); }, 30);
-      });
-    });
-  })();
+  }
 
   /* ---------------------------------------------------------------
-     X. The Drift — the same line in many tongues, barely there
+     X. The Drift — the same line in many tongues, barely there.
+     The lines are the Maxim, read from the text by speelgoed.js.
      --------------------------------------------------------------- */
   var driftEl = $("#quote-drift");
   if (driftEl && !(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
-    var dQ = [
-      "Cherish those closest to you; the rest is fleeting.",
-      "Cultive tes liens\u202f; le reste est souffle.",
-      "Minne die Deinen; das andre ist Hauch.",
-      "Koester je naasten; de rest is ijl.",
-      "\u03a3\u03c4\u03ad\u03c1\u03b3\u03b5 \u03c4\u03bf\u1f7a\u03c2 \u03c3\u03bf\u1f7b\u03c2\u00b7 \u03c4\u1f78 \u03bb\u03bf\u03b9\u03c0\u1f78\u03bd \u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1.",
-      "Ama a los tuyos; lo dem\u00e1s es soplo.",
-      "Ama chi ti ama; il resto \u00e8 alito.",
-      "Junge quod verum; ceterum vanum.",
-      "Ama os teus; o resto \u00e9 sopro.",
-      "\u0425\u0440\u0430\u043d\u0438 \u0441\u0432\u043e\u0438\u0445; \u043f\u0440\u043e\u0447\u0435\u0435 \u2014 \u0442\u043b\u0435\u043d.",
-      "\u03b8 \u227a x \u27f6 B ; x \u2270 \u03b8 \u27f6 V",
-      "\u7e6b\u6240\u7576\u7e6b\uff0c\u9918\u7686\u865b\u3002",
-      "\u05e8\u05d7\u05d9\u05dd \u05d3\u05d9\u05dc\u05da; \u05e9\u05d0\u05e8 \u05d4\u05d1\u05dc.",
-      "\u05d0\u05d4\u05d1 \u05d0\u05ea \u05d0\u05e9\u05e8 \u05dc\u05da; \u05d5\u05d4\u05e0\u05d5\u05ea\u05e8 \u05d4\u05d1\u05dc.",
-      "\u6148\u3057\u3081\u3000\u3042\u306a\u305f\u306e\u8005\u3092\u3000\u3042\u3068\u306f\u98a8",
-      "\u0623\u062d\u0628\u0628 \u0645\u0646 \u0647\u0645 \u0644\u0643\u060c \u0648\u0645\u0627 \u0628\u0642\u064a \u0647\u0628\u0627\u0621",
-      "\u0aaa\u0acd\u0ab0\u0ac7\u0aae \u0a95\u0ab0\u0acb \u0a9c\u0ac7 \u0aa4\u0aae\u0abe\u0ab0\u0abe; \u0aac\u0abe\u0a95\u0ac0 \u0aac\u0aa7\u0ac1\u0a82 \u0aaa\u0ab5\u0aa8.",
-      "\u73cd\u60dc\u4f60\u8eab\u8fb9\u7684\u4eba\uff0c\u5176\u4f59\u90fd\u662f\u8fc7\u773c\u4e91\u70df\u3002",
-      "\u091c\u093f\u0928\u094d\u0939\u0947\u0902 \u092a\u094d\u092f\u093e\u0930 \u0915\u0930\u094b \u0935\u0947 \u0924\u0941\u092e\u094d\u0939\u093e\u0930\u0947; \u092c\u093e\u0915\u0940 \u0938\u092c \u0939\u0935\u093e\u0964",
-      "\u0627\u067e\u0646\u0648\u06ba \u0633\u06d2 \u0645\u062d\u0628\u062a \u06a9\u0631\u0648\u061b \u0628\u0627\u0642\u06cc \u0633\u0628 \u06c1\u0648\u0627\u06d4",
-      "\u09ad\u09be\u09b2\u09cb\u09ac\u09be\u09b8\u09cb \u09af\u09be\u09b0\u09be \u09a4\u09cb\u09ae\u09be\u09b0, \u09ac\u09be\u0995\u09bf \u09b8\u09ac \u09b9\u09be\u0993\u09df\u09be\u0964",
-      "꧋ꦠꦽꦱ꧀ꦤꦤꦶꦱꦶꦁꦢꦢꦶꦢꦸꦮꦺꦏ꧀ꦩꦸ;ꦭꦶꦪꦤꦺꦩꦸꦁꦲꦔꦶꦤ꧀꧉",
-      "\u0686\u06be\u0627\u0646\u06da\u062f \u06a9\u064e\u0631 \u062a\u0650\u0645\u064e\u0646 \u06cc\u0650\u0645 \u062a\u06c1\u0650 \u0686\u06be\u0650\u060c \u0628\u0627\u0642\u06cc \u0686\u06be\u064f \u0628\u064e\u0633 \u067e\u064e\u0648\u064e\u0646\u06d4"
-    ];
-    var dIdx = 0;
-    function dDrift() {
-      driftEl.textContent = dQ[dIdx];
-      driftEl.style.opacity = ".2";
-      dIdx = (dIdx + 1) % dQ.length;
-      setTimeout(function () {
-        driftEl.style.opacity = "0";
-        setTimeout(dDrift, 2600);
-      }, 8000);
-    }
-    setTimeout(dDrift, 3000);
+    textReady.then(function () {
+      var dQ = (window.Speelgoed && window.Speelgoed.maxim) || [];
+      if (!dQ.length) return;
+      var dIdx = 0;
+      function dDrift() {
+        driftEl.textContent = dQ[dIdx];
+        driftEl.style.opacity = ".2";
+        dIdx = (dIdx + 1) % dQ.length;
+        setTimeout(function () {
+          driftEl.style.opacity = "0";
+          setTimeout(dDrift, 2600);
+        }, 8000);
+      }
+      setTimeout(dDrift, 3000);
+    });
   }
 })();

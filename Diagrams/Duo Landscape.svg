@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" role="img" aria-labelledby="title" aria-describedby="desc" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,'Times New Roman',serif">
+  <title id="title">The Drempel in a Duo’s landscape: two modes, a Drempel between, and a Marge on each side</title>
+  <desc id="desc">The landscape of Section XIX of the Speelgoed for a Duo, read over its two Leden: V̄(n) = − h₁·n₁ − h₂·n₂ − y·n₁·n₂, where each pole n is 1 past its Drempel and 0 short of it, each Lid’s lean is hᵢ = Sᵢ + ½·y_ii − θᵢ, and y is the one Trouw the two share. Drawn with h₁ = −1.0, h₂ = −1.4 and y = 3.0. Left, the heights of its four patterns: Van (0,0) at 0, (1,0) at 1.0, (0,1) at 1.4, and Naar (1,1) at −0.6. Van and Naar are its two modes. The Drempel between them is the shallowest pattern on the deepest path, (1,0). The way out of Van crosses a Marge of 1.0; the way out of Naar a Marge of 1.6. The two differ by the difference of their depths: the way into a mode is never the way out. Right, how often the crossings visit each pattern when every reading is distorted afresh, in proportion to exp(−V̄ / ‖υ‖), at ‖υ‖ = 0.5: about 22% Van, 3% and 1% the two halfway patterns, and 74% Naar. Neither mode is ever left empty; a mode holds for a time that goes as exp(η / ‖υ‖), so Naar holds about 3.3 times longer than Van.</desc>
+  <defs>
+    <filter id="glow" filterUnits="userSpaceOnUse" x="0" y="0" width="1000" height="720">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#16130c"/>
+      <stop offset="100%" stop-color="#0c0b09"/>
+    </radialGradient>
+    <marker id="arrowFaint" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#8d877c"/></marker>
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#f1d27c"/></marker>
+    <marker id="arrowDim" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9 z" fill="#cfcac0"/></marker>
+  </defs>
+  <rect width="1000" height="720" fill="url(#vignette)"/>
+  <text x="500.0" y="56.0" font-size="32" fill="#f1d27c" text-anchor="middle">The Drempel in a Duo’s landscape</text>
+  <text x="500.0" y="86.0" font-size="13.5" fill="#8d877c" text-anchor="middle" letter-spacing="2.2">§XIX  ·  TWO MODES, A DREMPEL BETWEEN, A MARGE ON EACH SIDE</text>
+  <line x1="440.0" y1="102.0" x2="560.0" y2="102.0" stroke="#d4af37" stroke-width="1" opacity="0.45"/>
+  <rect x="70.0" y="118.0" width="560.0" height="432.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="350.0" y="148.0" font-size="21" fill="#efebe2" text-anchor="middle">The heights of its four patterns</text>
+  <text x="350.0" y="170.0" font-size="16" fill="#cfcac0" text-anchor="middle" font-style="italic">one crossing at a time, from Van to Naar and back</text>
+  <line x1="110.0" y1="392.0" x2="600.0" y2="392.0" stroke="#26221b" stroke-width="1"/>
+  <line x1="110.0" y1="267.0" x2="600.0" y2="267.0" stroke="#d4af37" stroke-width="1.2" stroke-dasharray="5 5" opacity="0.7"/>
+  <text x="604.0" y="272.0" font-size="18" fill="#d4af37"><tspan font-style="italic">θ</tspan></text>
+  <text x="610.0" y="291.0" font-size="13.5" fill="#d4af37" text-anchor="end">Drempel</text>
+  <path d="M170.0,392.0 L350.0,217.0 L530.0,467.0" fill="none" stroke="#8d877c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 5"/>
+  <path d="M170.0,392.0 L350.0,267.0 L530.0,467.0" fill="none" stroke="#d4af37" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle cx="170.0" cy="392.0" r="12.60" fill="none" stroke="#efebe2" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="170.0" cy="392.0" r="6" fill="#efebe2" filter="url(#glow)"/>
+  <circle cx="530.0" cy="467.0" r="12.60" fill="none" stroke="#f1d27c" stroke-width="1.5" opacity="0.55"/>
+  <circle cx="530.0" cy="467.0" r="6" fill="#f1d27c" filter="url(#glow)"/>
+  <circle cx="350.0" cy="267.0" r="4.5" fill="#f1d27c" filter="url(#glow)"/>
+  <circle cx="350.0" cy="217.0" r="4" fill="#8d877c" filter="url(#glow)"/>
+  <text x="170.0" y="426.0" font-size="17" fill="#efebe2" text-anchor="middle">Van  (0, 0)</text>
+  <text x="170.0" y="446.0" font-size="14" fill="#cfcac0" text-anchor="middle" font-style="italic">a mode</text>
+  <text x="552.0" y="473.0" font-size="17" fill="#f1d27c">Naar  (1, 1)</text>
+  <text x="552.0" y="493.0" font-size="14" fill="#cfcac0" font-style="italic">the deeper mode</text>
+  <text x="350.0" y="297.0" font-size="15" fill="#f1d27c" text-anchor="middle">(1, 0)</text>
+  <text x="350.0" y="203.0" font-size="15" fill="#8d877c" text-anchor="middle">(0, 1)</text>
+  <line x1="120.0" y1="386.0" x2="120.0" y2="273.0" stroke="#f1d27c" stroke-width="1.5" marker-start="url(#arrowGold)" marker-end="url(#arrowGold)"/>
+  <text x="130.0" y="302.0" font-size="14" fill="#f1d27c">η(Van→Naar)</text>
+  <text x="130.0" y="320.0" font-size="14" fill="#f1d27c">= 1.0</text>
+  <line x1="582.0" y1="461.0" x2="582.0" y2="273.0" stroke="#f1d27c" stroke-width="1.5" marker-start="url(#arrowGold)" marker-end="url(#arrowGold)"/>
+  <text x="574.0" y="323.2" font-size="14" fill="#f1d27c" text-anchor="end">η(Naar→Van)</text>
+  <text x="574.0" y="341.2" font-size="14" fill="#f1d27c" text-anchor="end">= 1.6</text>
+  <text x="300.0" y="538.0" font-size="16" fill="#cfcac0" text-anchor="middle" font-style="italic">the way into a mode is never the way out</text>
+  <rect x="660.0" y="118.0" width="270.0" height="432.0" fill="none" stroke="#4a3f22" stroke-width="1"/>
+  <text x="795.0" y="148.0" font-size="19" fill="#efebe2" text-anchor="middle">How often each is visited</text>
+  <text x="795.0" y="170.0" font-size="15" fill="#cfcac0" text-anchor="middle" font-style="italic">∝ exp(−<tspan font-style="italic">V̄</tspan> / ‖<tspan font-style="italic">υ</tspan>‖), at ‖<tspan font-style="italic">υ</tspan>‖ = 0.5</text>
+  <rect x="690.0" y="412.4" width="36.0" height="57.6" fill="#efebe2" opacity="0.85"/>
+  <text x="708.0" y="404.4" font-size="14" fill="#efebe2" text-anchor="middle">22%</text>
+  <text x="708.0" y="490.0" font-size="13.5" fill="#efebe2" text-anchor="middle">Van</text>
+  <rect x="750.0" y="462.2" width="36.0" height="7.8" fill="#f1d27c" opacity="0.6"/>
+  <text x="768.0" y="454.2" font-size="14" fill="#f1d27c" text-anchor="middle">3%</text>
+  <text x="768.0" y="490.0" font-size="13.5" fill="#f1d27c" text-anchor="middle">(1, 0)</text>
+  <rect x="810.0" y="466.5" width="36.0" height="3.5" fill="#8d877c" opacity="0.6"/>
+  <text x="828.0" y="458.5" font-size="14" fill="#8d877c" text-anchor="middle">1%</text>
+  <text x="828.0" y="490.0" font-size="13.5" fill="#8d877c" text-anchor="middle">(0, 1)</text>
+  <rect x="870.0" y="278.9" width="36.0" height="191.1" fill="#d4af37" opacity="0.85"/>
+  <text x="888.0" y="270.9" font-size="14" fill="#f1d27c" text-anchor="middle">74%</text>
+  <text x="888.0" y="490.0" font-size="13.5" fill="#f1d27c" text-anchor="middle">Naar</text>
+  <line x1="682.0" y1="470.0" x2="918.0" y2="470.0" stroke="#8d877c" stroke-width="1"/>
+  <text x="795.0" y="512.0" font-size="14" fill="#cfcac0" text-anchor="middle" font-style="italic">neither mode is ever left empty</text>
+  <text x="795.0" y="532.0" font-size="14" fill="#cfcac0" text-anchor="middle" font-style="italic">Naar holds about 3.3× longer</text>
+  <text x="500.0" y="590.0" font-size="24" fill="#f1d27c" text-anchor="middle"><tspan font-style="italic">V̄</tspan>(<tspan font-style="italic">n</tspan>) = − <tspan font-style="italic">h</tspan>₁·<tspan font-style="italic">n</tspan>₁ − <tspan font-style="italic">h</tspan>₂·<tspan font-style="italic">n</tspan>₂ − <tspan font-style="italic">y</tspan>·<tspan font-style="italic">n</tspan>₁·<tspan font-style="italic">n</tspan>₂</text>
+  <text x="500.0" y="626.0" font-size="15.5" fill="#cfcac0" text-anchor="middle">Each Lid’s lean, <tspan font-style="italic">h</tspan>ᵢ = <tspan font-style="italic">S</tspan>ᵢ + ½·<tspan font-style="italic">y</tspan><tspan font-size="70%" dy="4">ii</tspan><tspan dy="-4"> </tspan> − <tspan font-style="italic">θ</tspan>ᵢ, leaves it short of its Drempel alone (<tspan font-style="italic">h</tspan>₁ = −1.0, <tspan font-style="italic">h</tspan>₂ = −1.4);</text>
+  <text x="500.0" y="650.0" font-size="15.5" fill="#cfcac0" text-anchor="middle">the one Trouw they share (<tspan font-style="italic">y</tspan> = 3.0) makes Naar the deeper mode. <tspan font-style="italic">η</tspan>(μ→μ′) = <tspan font-style="italic">V</tspan>(<tspan font-style="italic">θ</tspan><tspan font-size="70%" dy="4">μμ′</tspan><tspan dy="-4"> </tspan>) − <tspan font-style="italic">V</tspan>(μ).</text>
+  <text x="500.0" y="684.0" font-size="16" fill="#d4af37" text-anchor="middle" font-style="italic">Every crossing is a Vonk: toward Naar a Winst, toward Van a Verlies. Both poles stay live.</text>
+</svg>

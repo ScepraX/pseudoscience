@@ -1,24 +1,32 @@
 /* =====================================================================
    The Veld in Motion: drawing, panel and controls.
-   The simulation itself lives in veld-sim.js and knows nothing of this.
-   Gold leans toward Naar, white toward Van, black is Stilte.
+   The simulation lives in veld-sim.js and knows nothing of this page.
+   Everything here reads the Veld and moves nothing in it, except a
+   Schrift the viewer writes.
+   Gold leans towards Naar, white towards Van, black is Stilte.
    ===================================================================== */
 (function () {
   "use strict";
   var Sim = window.VeldSim;
   if (!Sim) return;
-  var Field = Sim.Field, H = Sim.H;
+  var Field = Sim.Field, valueAt = Sim.valueAt, duoEps = Sim.duoEps;
 
   var GOLD = "212,175,55", GOLDB = "241,210,124", WHITE = "255,255,255";
   var SERIF = '"Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif';
-  var PRIME_NAMES = { 2: "Duo", 3: "Trio", 5: "Cinquo", 7: "Septo", 11: "Onzo", 13: "Trezo", 17: "Dixsepto" };
   var TRAJ_NAMES = { "'": "Zweven", "!": "Dood", "?": "Leven" };
 
   function rgba(c, a) { return "rgba(" + c + "," + (a < 0 ? 0 : a > 1 ? 1 : a).toFixed(3) + ")"; }
   function clamp(v, a, b) { return v < a ? a : v > b ? b : v; }
   function fmt(v, d) { return (v < 0 ? "−" : "") + Math.abs(v).toFixed(d === undefined ? 2 : d); }
-  function signed(v, d) { return (v >= 0 ? "+" : "−") + Math.abs(v).toFixed(d === undefined ? 2 : d); }
+  // a Trouw worn towards nothing never reaches it: show the small number it is
+  function fmtT(v, d) {
+    if (v === 0 || Math.abs(v) >= 0.001) return fmt(v, d);
+    var e = Math.floor(Math.log10(Math.abs(v))), m = Math.abs(v) / Math.pow(10, e), sup = "⁰¹²³⁴⁵⁶⁷⁸⁹";
+    if (m >= 9.95) { m = 1; e++; }
+    return (v < 0 ? "−" : "") + m.toFixed(1) + "·10⁻" + String(-e).replace(/\d/g, function (c) { return sup.charAt(+c); });
+  }
   function $(id) { return document.getElementById(id); }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
   // canvas text with a dark halo, so lines and dots never strike it through
   function halo(g, text, x, y) {
     g.lineJoin = "round";
@@ -27,7 +35,19 @@
     g.strokeText(text, x, y);
     g.fillText(text, x, y);
   }
-  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  // the names of the counts (Composition, The Names of the Counts)
+  var UNITS = ["Vide", "Solo", "Duo", "Trio", "Quatro", "Cinquo", "Sexo", "Septo", "Otto", "Novo"];
+  var TENS = ["", "Deco", "Duanto", "Trianto", "Quatranto", "Cinquanto", "Sexanto", "Septanto", "Ottanto", "Novanto"];
+  function countName(n) {
+    if (n < 10) return UNITS[n];
+    if (n >= 100) return String(n);
+    var t = TENS[Math.floor(n / 10)], u = n % 10;
+    if (!u) return t;
+    var tail = u === 1 ? "uno" : UNITS[u].toLowerCase();
+    var head = t.slice(0, -1) + ("aeiou".indexOf(tail.charAt(0)) >= 0 ? "" : "a");
+    return head + tail;
+  }
 
   var canvas = $("veld");
   if (!canvas || !canvas.getContext) return;
@@ -38,7 +58,7 @@
     running: !reduce, speed: 1, sel: null, selNode: null, follow: true, endedAt: 0,
     seed: 1 + Math.floor(Math.random() * 99999), noiseSeed: 1 + Math.floor(Math.random() * 99999)
   };
-  var field = null, cssW = 0, cssH = 0, dpr = 1;
+  var field = null, cssW = 0, cssH = 0, dpr = 1, L = 400;
   var parts = [], rings = [], labels = [], logLines = [];
 
   /* ------------------------------ sizing ------------------------------ */
@@ -50,38 +70,42 @@
       canvas.height = Math.round(h * dpr);
     }
     if (field && (w !== cssW || h !== cssH)) field.setSize(w, h);
-    cssW = w; cssH = h;
+    cssW = w; cssH = h; L = Math.min(w, h);
   }
 
+  // the values a new field opens with; a living Veld takes only Schriften
   function sliderParams() {
-    return { upsilon: +$("s-upsilon").value, nu0: +$("s-nu0").value, theta: +$("s-theta").value };
+    var D = Sim.DEFAULTS, f = +$("s-ups").value, nMax = +$("s-max").value;
+    return { ups: [D.ups[0] * f, D.ups[1] * f], warmte: +$("s-warmte").value, Lm: +$("s-lm").value,
+             nInit: Math.min(+$("s-init").value, nMax), nMax: nMax,
+             rho: +$("s-rho").value, y0: +$("s-y0").value, W: +$("s-w").value, reach: +$("s-reach").value };
   }
 
   var query = new URLSearchParams(location.search), urlSeed = +query.get("seed") || 0;
   function newField(keepSeed) {
     if (!keepSeed) { state.seed = urlSeed || 1 + Math.floor(Math.random() * 99999); urlSeed = 0; }
-    state.noiseSeed = 1 + Math.floor(Math.random() * 99999);
+    state.noiseSeed = +query.get("noise") || 1 + Math.floor(Math.random() * 99999);
     resize();
     field = new Field({ seed: state.seed, noiseSeed: state.noiseSeed, width: cssW, height: cssH, params: sliderParams() });
     parts.length = 0; rings.length = 0; labels.length = 0; logLines.length = 0;
     state.sel = null; state.selNode = null; state.follow = true;
     $("seed").textContent = "field " + state.seed;
-    // ?warm=60 starts the field 60 seconds in; with reduced motion it starts 30 s in, so
-    // the still frame already shows Koppels
-    var warm = +(query.get("warm") || (reduce ? 30 : 0));
-    for (var w = 0; w < Math.min(warm, 1800) / H; w++) field.step();
+    pending.textContent = "";
+    // ?warm=60 starts the field 60 seconds in; with reduced motion it starts 30 s in
+    var warm = Math.min(+(query.get("warm") || (reduce ? 30 : 0)), 1800);
+    for (var w = 0; w < warm * 10; w++) field.advance(0.1);
     field.events = [];
-    addLog("A new field: " + field.nodes.length + " Solos, each with its Zelf" + (field.bonds.length ? "." : ", none bound yet."));
+    addLog("A new field: " + field.nodes.length + " Solos, each held by its Zelf, none bound yet.");
     renderLog();
     updatePanel(true);
   }
 
   /* ------------------------------ effects ----------------------------- */
-  function mid(b) { return { x: (b.a.x + b.b.x) / 2, y: (b.a.y + b.b.y) / 2 }; }
+  function mid(d) { return { x: (d.a.x + d.b.x) / 2, y: (d.a.y + d.b.y) / 2 }; }
 
   function ring(x, y, r0, r1, life, color, kind) {
     rings.push({ x: x, y: y, r0: r0, r1: r1, life: life, max: life, color: color, kind: kind || "ring" });
-    if (rings.length > 60) rings.shift();
+    if (rings.length > 80) rings.shift();
   }
 
   function label(text, x, y, color) {
@@ -90,127 +114,148 @@
       if (Math.abs(l.x - x) < 70 && Math.abs(l.y - y) < 16) y = l.y - 16;
     }
     labels.push({ text: text, x: x, y: y, life: 2.4, max: 2.4, color: color });
-    if (labels.length > 6) labels.shift();
+    if (labels.length > 7) labels.shift();
   }
 
-  function spark(b, gain) {
-    var u = 0.2 + 0.6 * Math.random();
-    var x = b.a.x + (b.b.x - b.a.x) * u, y = b.a.y + (b.b.y - b.a.y) * u;
-    var dx = b.b.x - b.a.x, dy = b.b.y - b.a.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
-    var nx = -dy / d, ny = dx / d, side = Math.random() < 0.5 ? -1 : 1, L = field.L;
-    if (gain) {
-      parts.push({ x: x, y: y, vx: nx * side * 22, vy: ny * side * 22, life: 0.6, max: 0.6, gain: true });
+  // a Winst leaves gold sparks where it binds; a Verlies gives its Energie
+  // to the Medium as Warmte, white motes that drift off and spread
+  function spark(o, gain) {
+    var x, y, nx, ny;
+    if (o.kind === "duo") {
+      var u = 0.2 + 0.6 * Math.random(), dx = o.b.x - o.a.x, dy = o.b.y - o.a.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
+      x = o.a.x + dx * u; y = o.a.y + dy * u;
+      var side = Math.random() < 0.5 ? -1 : 1;
+      nx = -dy / d * side; ny = dx / d * side;
     } else {
-      // Verlies leaves as exhaust into the Medium, and spreads
-      var sp = L * (0.05 + 0.06 * Math.random());
-      parts.push({ x: x, y: y, vx: nx * side * sp, vy: ny * side * sp, life: 2.6, max: 2.6, gain: false });
+      var a = Math.random() * 6.283;
+      nx = Math.cos(a); ny = Math.sin(a);
+      x = o.x + nx * o.r; y = o.y + ny * o.r;
     }
-    if (parts.length > 500) parts.shift();
-  }
-
-  function exhaustAt(x, y, n) {
-    for (var i = 0; i < n; i++) {
-      var a = Math.random() * 6.283, sp = field.L * (0.04 + 0.06 * Math.random());
-      parts.push({ x: x, y: y, vx: Math.cos(a) * sp, vy: Math.sin(a) * sp, life: 2.6, max: 2.6, gain: false });
+    if (gain) parts.push({ x: x, y: y, vx: nx * 22, vy: ny * 22, life: 0.6, max: 0.6, gain: true });
+    else {
+      var sp = L * (0.04 + 0.06 * Math.random());
+      parts.push({ x: x, y: y, vx: nx * sp, vy: ny * sp, life: 2.6, max: 2.6, gain: false });
     }
+    if (parts.length > 600) parts.shift();
   }
-
-  var SPARK_Q = 0.004;
-  function drainSparks(b, burst) {
-    var cap = burst ? 30 : 2, c = 0;
-    while (b.sparkW >= SPARK_Q && c < cap) { spark(b, true); b.sparkW -= SPARK_Q; c++; }
+  var SPARK_Q = 0.002;
+  function drainSparks(o, burst) {
+    var cap = burst ? 40 : 2, c = 0;
+    while (o.sparkW >= SPARK_Q && c < cap) { spark(o, true); o.sparkW -= SPARK_Q; c++; }
     c = 0;
-    while (b.sparkV >= SPARK_Q && c < cap) { spark(b, false); b.sparkV -= SPARK_Q; c++; }
-    if (b.sparkW > 20 * SPARK_Q) b.sparkW = 20 * SPARK_Q;
-    if (b.sparkV > 20 * SPARK_Q) b.sparkV = 20 * SPARK_Q;
+    while (o.sparkV >= SPARK_Q && c < cap) { spark(o, false); o.sparkV -= SPARK_Q; c++; }
+    if (o.sparkW > 20 * SPARK_Q) o.sparkW = 20 * SPARK_Q;
+    if (o.sparkV > 20 * SPARK_Q) o.sparkV = 20 * SPARK_Q;
   }
 
   /* ------------------------------- log -------------------------------- */
+  var logDirty = true;
   function addLog(text) {
     logLines.unshift(text);
-    if (logLines.length > 7) logLines.pop();
+    if (logLines.length > 8) logLines.pop();
     logDirty = true;
   }
-  var logDirty = true;
   function renderLog() {
     if (!logDirty) return;
     logDirty = false;
     $("log").innerHTML = logLines.map(function (l) { return "<li>" + l + "</li>"; }).join("");
   }
   function nm(n) { return "<b>" + esc(n.name) + "</b>"; }
-  function pair(b) { return nm(b.a) + "–" + nm(b.b); }
+  function pair(d) { return nm(d.a) + "–" + nm(d.b); }
 
   function consume() {
-    var evs = field.events;
+    var evs = field.events, i, ev, p, d;
     field.events = [];
-    for (var i = 0; i < evs.length; i++) {
-      var ev = evs[i], p, b = ev.bond, L = field.L;
+    for (i = 0; i < evs.length; i++) {
+      ev = evs[i]; d = ev.duo;
       switch (ev.kind) {
-        case "realisatie":
-          p = mid(b);
-          ring(p.x, p.y, 4, L * 0.07, 1.1, GOLDB, "rays");
-          label("Realisatie", p.x, p.y - 12, GOLDB);
-          addLog(pair(b) + " cross the Drempel toward Naar: a Realisatie.");
+        case "vonk":
+          var o = ev.owner;
+          if (o.state === "gone") break;
+          if (ev.which === "zs") break;            // a Zelf's crossing shows as its ring
+          p = o.kind === "duo" ? mid(o) : o;
+          if (o.kind === "solo") {
+            ring(p.x, p.y, o.r, o.r + L * 0.05, 1.0, ev.up ? GOLDB : WHITE, ev.up ? "rays" : "jag");
+            label(ev.up ? "Winst" : "Verlies", p.x, p.y - o.R - 8, ev.up ? GOLDB : WHITE);
+            addLog(nm(o) + (ev.up ? " crosses its Drempel towards Naar: a Winst of " : " falls back across its Drempel towards Van: a Verlies of ") + fmt(Math.abs(ev.T), 3) + ".");
+          } else {
+            ring(p.x, p.y, 3, L * 0.035, 0.8, ev.up ? GOLDB : WHITE, ev.up ? "rays" : "jag");
+            if (o === state.sel) addLog(pair(o) + (ev.up ? ", read as one, crosses towards Naar." : ", read as one, crosses back towards Van."));
+          }
           break;
-        case "schok":
-          p = mid(b);
-          ring(p.x, p.y, 4, L * 0.06, 1.0, WHITE, "jag");
-          label("Schok", p.x, p.y - 12, WHITE);
-          addLog(pair(b) + " fall back across the Drempel toward Van: a Schok.");
+        case "hunger":
+          if (ev.owner.kind === "solo" && ev.which === "e") label("hunger", ev.owner.x, ev.owner.y - ev.owner.R - 8, WHITE);
           break;
-        case "creatie":
-          ring(ev.node.x, ev.node.y, 2, L * 0.09, 1.4, GOLDB, "rays");
-          label("Creatie", ev.node.x, ev.node.y - 16, GOLDB);
-          addLog("Creatie: " + pair(b) + " overflow their Inhoud, and " + nm(ev.node) + " is born, bound to both.");
+        case "rest":
+          if (ev.owner.kind === "solo" && ev.which === "e" && ev.owner.state === "live") {
+            label("rests", ev.owner.x, ev.owner.y - ev.owner.R - 8, WHITE);
+            if (ev.owner === state.selNode || ev.owner.lastSchrift > field.t - 2)
+              addLog(nm(ev.owner) + " rests at its Drempel: its Vonk taken, its pull would not hold it " + (ev.up ? "across." : "back.") );
+          }
+          break;
+        case "bound":
+          p = mid(d);
+          label("bound", p.x, p.y - 12, WHITE);
+          addLog(pair(d) + (ev.cause === "scheiding" ? " withdraw their Zin at once" : ": all that holds it could no longer carry it back across") +
+            ", but the Relaties that meet it from outside cannot give the " + fmt(ev.lack, 3) +
+            " it bore away past its Vol. Nothing parts, and it stays bound.");
+          break;
+        case "relatie":
+          ring(d.a.x, d.a.y, d.a.r, d.a.r + L * 0.03, 0.8, WHITE, "ring");
+          ring(d.b.x, d.b.y, d.b.r, d.b.r + L * 0.03, 0.8, WHITE, "ring");
+          addLog(pair(d) + ": each reads the other's Zin on it, and a Relatie forms" +
+            (ev.T > 0 ? ". Both stand across: Genus joins its first Trouw at once." : ", its first Trouw not yet joined."));
+          if (state.follow && (!state.sel || state.sel.state !== "live")) { state.sel = d; if (!state.selNode) updatePanel(true); }
+          break;
+        case "end":
+          drainSparks(d, true);
+          p = mid(d);
+          if (ev.cause === "scheiding") {
+            label("Scheiding", p.x, p.y - 12, WHITE);
+            addLog(pair(d) + " withdraw their Zin at once: a Scheiding." + (ev.paid > 0
+              ? " The Relaties that meet it from outside give back the " + fmt(ev.paid, 3) + " it bore away past its Vol." : "") +
+              " Both keep the other as Rouw.");
+          } else if (ev.cause === "partner") {
+            var s = ev.departed === d.a ? d.b : d.a;
+            addLog(nm(s) + " keeps the last Echo of " + nm(ev.departed) + ", as Rouw.");
+          } else {
+            label("Einde", p.x, p.y - 12, WHITE);
+            addLog(pair(d) + ": nothing that holds it could carry it back across any more." + (ev.paid > 0
+              ? " The Relaties that meet it from outside give back the " + fmt(ev.paid, 3) + " it bore away past its Vol, and it ends: an Einde, and both keep Rouw."
+              : " An Einde, and both keep Rouw."));
+          }
+          if (d === state.sel) state.endedAt = field.t;
+          break;
+        case "start":
+          ev.nodes.forEach(function (c) {
+            ring(c.x, c.y, 2, L * 0.09, 1.4, GOLDB, "rays");
+            label("Start", c.x, c.y - 16, GOLDB);
+          });
+          if (d) addLog("Start: " + pair(d) + " hold more than their Vol pole, and " + ev.nodes.map(nm).join(", ") +
+            (ev.nodes.length > 1 ? " are born, each bound to both." : " is born, bound to both."));
+          else addLog("Start: " + nm(ev.parent) + " holds more than its Vol pole, and " + ev.nodes.map(nm).join(", ") +
+            (ev.nodes.length > 1 ? " are born, each bound to it alone." : " is born, bound to it alone."));
           break;
         case "perfectus":
           ring(ev.node.x, ev.node.y, L * 0.07, 2, 2.2, WHITE, "ring");
-          exhaustAt(ev.node.x, ev.node.y, 8);
           label("Perfectus", ev.node.x, ev.node.y - 16, WHITE);
-          addLog(nm(ev.node) + " has settled to Van: Perfectus. Its field returns to Bron.");
-          break;
-        case "relatie":
-          ring(b.a.x, b.a.y, b.a.r, b.a.r + L * 0.03, 0.8, WHITE, "ring");
-          ring(b.b.x, b.b.y, b.b.r, b.b.r + L * 0.03, 0.8, WHITE, "ring");
-          if (!ev.birth) addLog(pair(b) + ": both pulls answer. Echoes switch on, a Relatie begins.");
-          if (state.follow && (!state.sel || state.sel.ended)) { state.sel = b; if (!state.selNode) updatePanel(true); }
-          break;
-        case "end":
-          drainSparks(b, true);
-          if (ev.cause === "dissolved") {
-            label("Rouw", b.a.x, b.a.y - b.a.R - 8, WHITE);
-            label("Rouw", b.b.x, b.b.y - b.b.R - 8, WHITE);
-            addLog(pair(b) + " dissolve. Both keep the other's Echo, as Rouw.");
-          } else if (ev.departed) {
-            var s = ev.departed === b.a ? b.b : b.a;
-            addLog(nm(s) + " keeps the last Echo of " + nm(ev.departed) + ", as Rouw.");
-          }
-          if (b === state.sel) state.endedAt = field.t;
+          addLog(nm(ev.node) + ": nothing that holds it could carry it across any more. Its Zelf leaves its Zelf-Rouw, resting in Stilte.");
           break;
         case "traj":
           if (ev.traj === "?") {
-            p = mid(b);
+            p = mid(d);
             label("Leven ?", p.x, p.y - 12, GOLDB);
-            addLog(pair(b) + ": the Echo asymmetry runs through parity. Leven: the roles swap, and a small Realisatie fires.");
-          } else if (ev.how === "verstijving") {
-            addLog(pair(b) + ": the Echo-gap stops closing. Dood.");
+            if (d === state.sel) addLog(pair(d) + ": the gap between their Echoes runs through parity. Leven.");
           }
           break;
-        case "masker":
-          label(ev.on ? "Masker" : "Bloot", ev.node.x, ev.node.y - ev.node.R - 8, WHITE);
-          addLog(nm(ev.node) + (ev.on ? " puts on a Masker." : " sets the Masker down."));
-          break;
-        case "masker-falls":
-          ring(ev.node.x, ev.node.y, ev.node.r, ev.node.r + L * 0.05, 1.0, WHITE, "ring");
-          label("Masker falls", ev.node.x, ev.node.y - ev.node.R - 8, WHITE);
-          addLog(nm(ev.node) + "'s Masker falls under its Pijn; its partners now hear the true Eigen.");
-          break;
-        case "bron":
-          ring(ev.node.x, ev.node.y, L * 0.06, 2, 1.4, GOLDB, "ring");
-          addLog(nm(ev.node) + " arrives from Bron, a Solo with Trek and no Koppel.");
+        case "moved":
+          ring(ev.node.x, ev.node.y, ev.node.r, ev.node.r + L * 0.05, 0.9, GOLDB, "ring");
+          addLog("A hand from outside moves " + nm(ev.node) + " to another place on the Medium. Its Vertraging and its reach to every other are read from there.");
           break;
         case "schrift":
+          ev.node.lastSchrift = field.t;
           ring(ev.node.x, ev.node.y, ev.node.r, ev.node.r + L * 0.05, 0.9, GOLDB, "ring");
+          addLog("A Schrift writes " + fmt(ev.v) + " into " + nm(ev.node) + "'s Eigen. Its self-Echo stays where it stood.");
           break;
       }
     }
@@ -239,57 +284,66 @@
   }
 
   /* ------------------------------ drawing ----------------------------- */
-  function draw(dtv) {
-    var L = field.L, t = field.t, i, k, n, b;
+  function draw() {
+    var t = field.t, i, k, n;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
     ctx.fillStyle = "#000";
     ctx.fillRect(0, 0, cssW, cssH);
     var g = ctx.createRadialGradient(cssW / 2, cssH * 0.45, 0, cssW / 2, cssH * 0.45, Math.max(cssW, cssH) * 0.7);
-    g.addColorStop(0, rgba(GOLD, 0.05));
+    g.addColorStop(0, rgba(GOLD, 0.03 + 0.04 * clamp(field.warmte / Math.max(1, field.live()), 0, 1.5)));
     g.addColorStop(1, rgba(GOLD, 0));
     ctx.fillStyle = g;
     ctx.fillRect(0, 0, cssW, cssH);
 
-    // irreducibly bound groups (§V): a loose outline around each block of three or more
+    // Relaties of three or more bound in Naar that stay whole whichever single Lid wavers
     var groups = field.groups();
     ctx.font = "italic 12px " + SERIF;
     ctx.textAlign = "center";
     for (i = 0; i < groups.length; i++) {
-      var m = groups[i].members;
-      if (m.length < 3) continue;
-      var hull = outline(m, L * 0.03);
+      var m = groups[i].members, hull = outline(m, L * 0.03);
       ctx.setLineDash([3, 5]);
       ctx.strokeStyle = rgba(GOLD, 0.5);
       ctx.lineWidth = 1;
       ctx.beginPath();
-      for (k = 0; k < hull.length; k++) {
-        if (k === 0) ctx.moveTo(hull[k][0], hull[k][1]); else ctx.lineTo(hull[k][0], hull[k][1]);
-      }
+      for (k = 0; k < hull.length; k++) { if (k === 0) ctx.moveTo(hull[k][0], hull[k][1]); else ctx.lineTo(hull[k][0], hull[k][1]); }
       ctx.closePath();
       ctx.stroke();
       ctx.setLineDash([]);
       var top = hull[0];
       for (k = 1; k < hull.length; k++) if (hull[k][1] < top[1]) top = hull[k];
       ctx.fillStyle = rgba(GOLD, 0.75);
-      halo(ctx, PRIME_NAMES[m.length] || String(m.length), clamp(top[0], 30, cssW - 30), Math.max(12, top[1] - 5));
+      halo(ctx, countName(m.length), clamp(top[0], 30, cssW - 30), Math.max(12, top[1] - 5));
     }
 
-    // Koppels
-    for (k = 0; k < field.bonds.length; k++) drawBond(field.bonds[k], t, L);
+    for (k = 0; k < field.duos.length; k++) drawDuo(field.duos[k], t);
 
-    // Zin: Trek aimed at one other, not yet answered
+    // looks at a Vreemdeling: a Vermenigvuldiging at a Kruispunt, gone as it closes
+    for (i = field.looks.length - 1; i >= 0; i--) {
+      var lk = field.looks[i], age = t - lk.t;
+      if (age > 0.35) break;
+      if (lk.from.state !== "live" || lk.to.state !== "live" || field.duoOf(lk.from, lk.to)) continue;
+      ctx.setLineDash([1, 5]);
+      ctx.strokeStyle = rgba(WHITE, 0.22 * (1 - age / 0.35));
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(lk.from.x, lk.from.y); ctx.lineTo(lk.to.x, lk.to.y); ctx.stroke();
+      ctx.setLineDash([]);
+    }
+
+    // Zin: Trek aimed at one other
     for (i = 0; i < field.nodes.length; i++) {
       n = field.nodes[i];
-      if (!n.zin || n.state !== "live") continue;
-      var T = n.zin.target, dx = T.x - n.x, dy = T.y - n.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
-      var ux = dx / d, uy = dy / d, x0 = n.x + ux * n.R, y0 = n.y + uy * n.R, x1 = T.x - ux * (T.R + 3), y1 = T.y - uy * (T.R + 3);
+      if (!n.aim || n.state !== "live" || n.aim.state !== "live") continue;
+      var T = n.aim, dx = T.x - n.x, dy = T.y - n.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
+      var ux = dx / d, uy = dy / d, x1 = T.x - ux * (T.R + 3), y1 = T.y - uy * (T.R + 3);
       if (d < n.R + T.R + 6) continue;
-      ctx.setLineDash([1.5, 4]);
-      ctx.strokeStyle = rgba(GOLD, 0.6);
-      ctx.lineWidth = 1.2;
-      ctx.beginPath(); ctx.moveTo(x0, y0); ctx.lineTo(x1, y1); ctx.stroke();
-      ctx.setLineDash([]);
-      ctx.fillStyle = rgba(GOLD, 0.7);
+      if (!field.duoOf(n, T)) {
+        ctx.setLineDash([1.5, 4]);
+        ctx.strokeStyle = rgba(GOLD, 0.6);
+        ctx.lineWidth = 1.2;
+        ctx.beginPath(); ctx.moveTo(n.x + ux * n.R, n.y + uy * n.R); ctx.lineTo(x1, y1); ctx.stroke();
+        ctx.setLineDash([]);
+      }
+      ctx.fillStyle = rgba(GOLD, 0.8);
       ctx.beginPath();
       ctx.moveTo(x1, y1);
       ctx.lineTo(x1 - ux * 6 - uy * 3.5, y1 - uy * 6 + ux * 3.5);
@@ -297,10 +351,9 @@
       ctx.closePath(); ctx.fill();
     }
 
-    // nodes
-    for (i = 0; i < field.nodes.length; i++) drawNode(field.nodes[i], t, L, dtv);
+    for (i = 0; i < field.nodes.length; i++) drawNode(field.nodes[i], t);
 
-    // sparks and exhaust
+    // sparks and motes
     for (i = 0; i < parts.length; i++) {
       var q = parts[i], f = q.life / q.max;
       if (q.gain) {
@@ -314,7 +367,6 @@
       }
     }
 
-    // rings
     for (i = 0; i < rings.length; i++) {
       var r = rings[i], u = 1 - r.life / r.max, rr = r.r0 + (r.r1 - r.r0) * (1 - Math.pow(1 - u, 2)), al = (1 - u) * 0.9;
       ctx.strokeStyle = rgba(r.color, al);
@@ -326,9 +378,7 @@
           if (a === 0) ctx.moveTo(r.x + Math.cos(ang) * rj, r.y + Math.sin(ang) * rj);
           else ctx.lineTo(r.x + Math.cos(ang) * rj, r.y + Math.sin(ang) * rj);
         }
-      } else {
-        ctx.arc(r.x, r.y, Math.max(0.5, rr), 0, 6.283);
-      }
+      } else ctx.arc(r.x, r.y, Math.max(0.5, rr), 0, 6.283);
       ctx.stroke();
       if (r.kind === "rays") {
         ctx.beginPath();
@@ -341,7 +391,6 @@
       }
     }
 
-    // floating names of events
     ctx.font = "italic 13px " + SERIF;
     ctx.textAlign = "center";
     for (i = 0; i < labels.length; i++) {
@@ -358,13 +407,12 @@
     }
   }
 
-  function drawBond(b, t, L) {
-    var a = b.a, c = b.b, dx = c.x - a.x, dy = c.y - a.y, d = Math.sqrt(dx * dx + dy * dy) || 1;
-    var ux = dx / d, uy = dy / d, nx = -uy, ny = ux;
+  function drawDuo(d, t) {
+    var a = d.a, c = d.b, dx = c.x - a.x, dy = c.y - a.y, dist = Math.sqrt(dx * dx + dy * dy) || 1;
+    var ux = dx / dist, uy = dy / dist, nx = -uy, ny = ux;
     var x0 = a.x + ux * a.r, y0 = a.y + uy * a.r, x1 = c.x - ux * c.r, y1 = c.y - uy * c.r;
-    var naar = b.mode === "naar", sel = b === state.sel;
+    var naar = d.e.n === 1, sel = d === state.sel, w = clamp(Math.abs(d.y) / 0.5, 0, 1), neg = d.y < 0;
     if (sel) {
-      // the Koppel in the panel is bracketed at both ends
       ctx.strokeStyle = rgba(GOLDB, 0.95);
       ctx.lineWidth = 1.5;
       ctx.beginPath();
@@ -377,130 +425,158 @@
       }
       ctx.stroke();
     }
-    if (naar) {
-      ctx.strokeStyle = rgba(GOLD, 0.35 + 0.5 * clamp(Math.abs(b.phi) / 0.9, 0, 1));
-      ctx.lineWidth = 1 + 3 * b.y;
+    // held bound, its Leden unable to give back what it bore away past its
+    // Vol: white and solid, clasped at its middle; read as one in Naar: gold,
+    // as wide as its Trouw; its two Leden both across, holding its Trouw
+    // between them: a thin gold line; otherwise white and dashed, as faint as
+    // its Trouw is worn
+    var held = d.a.e.n && d.b.e.n;
+    if (d.bound) {
+      ctx.strokeStyle = rgba(WHITE, 0.5 + 0.3 * d.flash);
+      ctx.lineWidth = 1;
+      var mx = 0.5 * (x0 + x1), my = 0.5 * (y0 + y1);
+      ctx.beginPath();
+      ctx.moveTo(mx - ux * 2 + nx * 5, my - uy * 2 + ny * 5); ctx.lineTo(mx - ux * 2 - nx * 5, my - uy * 2 - ny * 5);
+      ctx.moveTo(mx + ux * 2 + nx * 5, my + uy * 2 + ny * 5); ctx.lineTo(mx + ux * 2 - nx * 5, my + uy * 2 - ny * 5);
+      ctx.stroke();
+    } else if (naar) {
+      ctx.strokeStyle = rgba(neg ? WHITE : GOLD, 0.4 + 0.5 * w + 0.3 * d.flash);
+      ctx.lineWidth = 1 + 3.2 * w;
+    } else if (held && !neg) {
+      ctx.strokeStyle = rgba(GOLD, 0.25 + 0.4 * w + 0.3 * d.flash);
+      ctx.lineWidth = 1;
     } else {
       ctx.setLineDash([3, 5]);
-      ctx.strokeStyle = rgba(WHITE, 0.45);
+      ctx.strokeStyle = rgba(WHITE, 0.08 + 0.45 * w + 0.3 * d.flash);
       ctx.lineWidth = 1;
     }
     ctx.beginPath(); ctx.moveTo(x0, y0); ctx.lineTo(x1, y1); ctx.stroke();
     ctx.setLineDash([]);
 
-    // Echo signals crossing the Medium, one lane each way, δ late
-    var every = 0.22, lanes = [[a, c, 0, 1], [c, a, 1, -1]];
+    // signals crossing the Medium, one lane each way, a Vertraging late: gold
+    // where the sender stood past its Drempel when it left, white where it did not
+    var every = 0.25, lanes = [[a, c, 1], [c, a, -1]];
     for (var l = 0; l < 2; l++) {
-      var from = lanes[l][0], who = lanes[l][2], side = lanes[l][3] * 2.2;
+      var from = lanes[l][0], to = lanes[l][1], side = lanes[l][2] * 2.2, del = field.delta(to, from);
       var fx0 = l ? x1 : x0, fy0 = l ? y1 : y0, fx1 = l ? x0 : x1, fy1 = l ? y0 : y1;
       var base = Math.floor(t / every) * every;
-      for (var s = 0; s * every <= b.delta + every; s++) {
+      for (var s = 0; s * every <= del + every; s++) {
         var age = t - (base - s * every);
-        if (age < 0 || age > b.delta) continue;
-        var u = age / b.delta, v = clamp(field.heard(b, who, age) / 1.4, 0, 1);
+        if (age < 0 || age > del) continue;
+        var u = age / del, past = field.past(from, t - age), on = past > from.th;
         var px = fx0 + (fx1 - fx0) * u + nx * side, py = fy0 + (fy1 - fy0) * u + ny * side;
-        if (from.mask) {
-          ctx.strokeStyle = rgba(WHITE, 0.45 + 0.5 * v);
-          ctx.lineWidth = 1;
-          ctx.beginPath();
-          ctx.moveTo(px, py - 2.6); ctx.lineTo(px + 2.6, py); ctx.lineTo(px, py + 2.6); ctx.lineTo(px - 2.6, py); ctx.closePath();
-          ctx.stroke();
-        } else {
-          ctx.fillStyle = rgba(naar ? GOLDB : WHITE, 0.2 + 0.65 * v);
-          ctx.beginPath(); ctx.arc(px, py, 1 + 1.1 * v, 0, 6.283); ctx.fill();
-        }
+        ctx.fillStyle = rgba(on ? GOLDB : WHITE, (0.15 + 0.5 * Math.max(w, 0.25)) * (naar ? 1 : 0.7));
+        ctx.beginPath(); ctx.arc(px, py, on ? 1.7 : 1.2, 0, 6.283); ctx.fill();
       }
     }
-
-    // trajectory glyph, and Balans when the binding sits inside its Marge
-    var mx = (x0 + x1) / 2 + nx * 11, my = (y0 + y1) / 2 + ny * 11;
-    ctx.font = "italic 14px " + SERIF;
-    ctx.textAlign = "center";
-    ctx.textBaseline = "middle";
-    ctx.fillStyle = rgba(naar ? GOLDB : WHITE, naar ? 0.9 : 0.65);
-    halo(ctx, b.traj, mx, my);
-    if (b.balans) {
-      var bx = (x0 + x1) / 2, by = (y0 + y1) / 2;
-      ctx.strokeStyle = rgba(WHITE, 0.75);
+    // a look that takes the signal in: a brief mark at the reader's end
+    for (var i = field.looks.length - 1; i >= 0; i--) {
+      var lk = field.looks[i], lage = t - lk.t;
+      if (lage > 0.3) break;
+      if (!((lk.from === a && lk.to === c) || (lk.from === c && lk.to === a))) continue;
+      var rd = lk.from, ox = rd === a ? x0 + ux * 6 : x1 - ux * 6, oy = rd === a ? y0 + uy * 6 : y1 - uy * 6;
+      ctx.strokeStyle = rgba(WHITE, 0.7 * (1 - lage / 0.3));
       ctx.lineWidth = 1;
-      ctx.beginPath();
-      ctx.moveTo(bx, by - 4); ctx.lineTo(bx + 4, by); ctx.lineTo(bx, by + 4); ctx.lineTo(bx - 4, by); ctx.closePath();
-      ctx.stroke();
+      ctx.beginPath(); ctx.arc(ox, oy, 2.4, 0, 6.283); ctx.stroke();
     }
-    ctx.textBaseline = "alphabetic";
+
+    // trajectory glyph, its Zelf's hold, and a wait at its Drempel
+    var mx = (x0 + x1) / 2, my = (y0 + y1) / 2;
+    if (w > 0.12 || sel) {
+      ctx.font = "italic 14px " + SERIF;
+      ctx.textAlign = "center";
+      ctx.textBaseline = "middle";
+      ctx.fillStyle = rgba(naar ? GOLDB : WHITE, naar ? 0.9 : 0.6);
+      halo(ctx, d.traj, mx + nx * 11, my + ny * 11);
+      ctx.textBaseline = "alphabetic";
+    }
+    if (d.zs.n || d.zflash > 0) {
+      ctx.strokeStyle = rgba(naar ? GOLDB : WHITE, d.zs.n ? 0.75 : 0.4 * d.zflash);
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.arc(mx, my, 3 + 6 * (d.zflash || 0), 0, 6.283); ctx.stroke();
+    }
+    if (d.e.wait) {
+      ctx.strokeStyle = rgba(WHITE, 0.8);
+      ctx.setLineDash([1, 2]);
+      ctx.beginPath(); ctx.arc(mx, my, 7, 0, 6.283); ctx.stroke();
+      ctx.setLineDash([]);
+    }
   }
 
-  function drawNode(n, t, L, dtv) {
+  function drawNode(n, t) {
     var fade = n.state === "live" ? 1 : clamp(1 - n.fade / field.P.fadeTime, 0, 1);
-    var r = Math.max(1, n.r), sel = n === state.selNode;
-    var ge = clamp(n.e / 1.4, 0, 1);
+    var r = Math.max(1, n.r), sel = n === state.selNode, x = valueAt(n.e, t);
+    var past = n.e.n === 1, gap = clamp(Math.abs(x - n.th) / 0.8, 0, 1);
 
-    // Eigen: how far from Van the node now sits
-    var gg = ctx.createRadialGradient(n.x, n.y, r * 0.6, n.x, n.y, r * (1.6 + 1.8 * ge));
-    gg.addColorStop(0, rgba(GOLD, (0.06 + 0.42 * ge) * fade));
-    gg.addColorStop(1, rgba(GOLD, 0));
+    // its Eigen against its Drempel: a gold glow past it, a faint white one short of it
+    var gr = r * (1.6 + 1.8 * gap);
+    var gg = ctx.createRadialGradient(n.x, n.y, r * 0.6, n.x, n.y, gr);
+    gg.addColorStop(0, rgba(past ? GOLD : WHITE, (past ? 0.12 + 0.4 * gap : 0.05 + 0.08 * (1 - gap)) * fade));
+    gg.addColorStop(1, rgba(past ? GOLD : WHITE, 0));
     ctx.fillStyle = gg;
-    ctx.beginPath(); ctx.arc(n.x, n.y, r * (1.6 + 1.8 * ge), 0, 6.283); ctx.fill();
+    ctx.beginPath(); ctx.arc(n.x, n.y, gr, 0, 6.283); ctx.fill();
 
-    // the Van Motor: a draw outward on every node, slower the stronger the Greep, never still
-    if (n.state === "live") {
-      n._vp = (n._vp || 0) + dtv * (0.2 + 2.4 * n.nu);
-      var ph = n._vp % 1, vr = r + (n.R - r + L * 0.03) * ph;
-      ctx.strokeStyle = rgba(WHITE, (0.06 + 0.32 * clamp(n.nu / field.P.nu0, 0, 1)) * (1 - ph));
-      ctx.lineWidth = 1;
-      ctx.beginPath(); ctx.arc(n.x, n.y, vr, 0, 6.283); ctx.stroke();
-    }
-
-    // Rouw: every Echo of an ended Koppel, kept for good
-    var shown = Math.min(n.rouw.length, Sim.ROUW_SHOWN);
+    // Rouw: every ended Relatie it keeps, for good
+    var shown = Math.min(n.rouw.length, 36);
     for (var k = n.rouw.length - shown; k < n.rouw.length; k++) {
       var ro = n.rouw[k], ix = k - (n.rouw.length - shown), ringIx = Math.floor(ix / 12);
-      var orb = r + L * 0.012 + ringIx * L * 0.008;
-      var ang = ro.ang + t * 0.05 * (ringIx % 2 ? -1 : 1);
-      var loud = clamp(Math.abs(ro.h) / 1.2, 0, 1);
-      ctx.strokeStyle = rgba(WHITE, (0.25 + 0.55 * loud) * fade);
+      var orb = r + L * 0.012 + ringIx * L * 0.008, ang = ro.ang + t * 0.05 * (ringIx % 2 ? -1 : 1);
+      ctx.strokeStyle = rgba(WHITE, (0.3 + 0.5 * clamp(Math.abs(ro.y) / 0.4, 0, 1)) * fade);
       ctx.lineWidth = 0.9;
       ctx.beginPath(); ctx.arc(n.x + Math.cos(ang) * orb, n.y + Math.sin(ang) * orb, 1.7, 0, 6.283); ctx.stroke();
     }
 
-    // body: filled toward Vol, hollow toward Leeg
+    // body: filled towards Vol, hollow towards Leeg
     ctx.fillStyle = "#000";
     ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 6.283); ctx.fill();
-    ctx.fillStyle = rgba(GOLD, (0.08 + 0.78 * n.vol) * fade);
+    ctx.fillStyle = rgba(GOLD, (0.06 + 0.8 * clamp(n.vol / 0.3, 0, 1)) * fade);
     ctx.fill();
     ctx.strokeStyle = rgba(sel ? GOLDB : GOLD, (sel ? 1 : 0.85) * fade);
     ctx.lineWidth = sel ? 2 : 1.2;
     ctx.stroke();
 
-    // the Zelf: the node's Echo of itself, off-centre by the self-gap
-    var off = clamp((n.hs - n.e) * r * 20, -r * 0.45, r * 0.45);
-    ctx.strokeStyle = rgba(n.vol > 0.55 ? "0,0,0" : WHITE, 0.65 * fade);
+    // its Zelf: an inner ring, whole where it holds the Solo across, broken
+    // where it does not, off centre by the self-gap
+    var off = clamp((n.eS - x) * r * 0.8, -r * 0.45, r * 0.45), dark = n.vol > 0.18;
+    var held = 0.12 + 0.88 * clamp(Math.abs(n.yS) / 0.3, 0, 1);   // fainter as its Trouw wears
+    ctx.strokeStyle = rgba(dark ? "0,0,0" : WHITE, (n.zs.n ? 0.75 : 0.4) * held * fade);
     ctx.lineWidth = 1;
-    ctx.beginPath(); ctx.arc(n.x, n.y - off, r * 0.4, 0, 6.283); ctx.stroke();
-
-    if (n.mask) {
-      ctx.setLineDash([2, 3]);
-      ctx.strokeStyle = rgba(WHITE, 0.8);
-      ctx.beginPath(); ctx.arc(n.x, n.y, r + 3.5, 0, 6.283); ctx.stroke();
-      ctx.setLineDash([]);
+    if (!n.zs.n) ctx.setLineDash([1.5, 2]);
+    ctx.beginPath(); ctx.arc(n.x, n.y - off, r * 0.42, 0, 6.283); ctx.stroke();
+    ctx.setLineDash([]);
+    if (n.zflash > 0) {
+      ctx.strokeStyle = rgba(n.zs.n ? GOLDB : WHITE, 0.7 * n.zflash * fade);
+      ctx.beginPath(); ctx.arc(n.x, n.y, r * (0.45 + 0.7 * (1 - n.zflash)), 0, 6.283); ctx.stroke();
     }
     if (n.flash > 0) {
-      ctx.strokeStyle = rgba(GOLDB, n.flash * 0.9);
+      ctx.strokeStyle = rgba(past ? GOLDB : WHITE, n.flash * 0.9);
       ctx.lineWidth = 1.5;
       ctx.beginPath(); ctx.arc(n.x, n.y, r + 2 + (1 - n.flash) * 8, 0, 6.283); ctx.stroke();
+    }
+    // waiting at its Drempel: for Warmte (dotted), or in Balans (a diamond)
+    if (n.e.wait === "hunger") {
+      ctx.strokeStyle = rgba(WHITE, 0.8);
+      ctx.lineWidth = 1;
+      ctx.setLineDash([1, 2.5]);
+      ctx.beginPath(); ctx.arc(n.x, n.y, r + 4, 0, 6.283); ctx.stroke();
+      ctx.setLineDash([]);
+    } else if (n.e.wait === "balans") {
+      var by = n.y - r - 7;
+      ctx.strokeStyle = rgba(WHITE, 0.8);
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.moveTo(n.x, by - 3.5); ctx.lineTo(n.x + 3.5, by); ctx.lineTo(n.x, by + 3.5); ctx.lineTo(n.x - 3.5, by); ctx.closePath(); ctx.stroke();
     }
     if (sel) {
       ctx.strokeStyle = rgba(GOLDB, 0.5);
       ctx.lineWidth = 1;
       ctx.beginPath(); ctx.arc(n.x, n.y, n.R + 4, 0, 6.283); ctx.stroke();
     }
-
     ctx.font = "11px " + SERIF;
     ctx.textAlign = "center";
     ctx.fillStyle = rgba(WHITE, (sel ? 0.95 : 0.6) * fade);
     var ly = n.y + n.R + 12;
     if (ly > cssH - 4) ly = n.y - n.R - 5;
-    halo(ctx, n.name + (n.rouw.length > Sim.ROUW_SHOWN ? " · " + n.rouw.length : ""), n.x, ly);
+    halo(ctx, n.name + (n.rouw.length > 36 ? " · " + n.rouw.length : ""), n.x, ly);
   }
 
   function stepEffects(dt) {
@@ -532,141 +608,153 @@
     return m;
   }
 
-  // Eigen and Echo on the spectrum: each member's true place, and where its partner hears it
-  function drawSpectrum(b) {
+  // each Lid's Eigen against its Drempel, where the other reads it, and
+  // the Duo's own Eigen against its own Drempel
+  function drawSpectrum(d) {
     var m = miniCanvas("c-spectrum");
     if (!m) return;
-    var g = m.ctx, w = m.w, h = m.h, padL = 22, padR = 10, X = function (v) { return padL + clamp(v / 2, -0.02, 1.02) * (w - padL - padR); };
+    var g = m.ctx, w = m.w, h = m.h, t = field.t, padL = 30, padR = 10;
+    var xa = valueAt(d.a.e, t), xb = valueAt(d.b.e, t), xk = valueAt(d.e, t);
+    var hi = Math.max(1.6, xa, xb, xk, d.E.ab, d.E.ba, d.a.th, d.b.th) * 1.08, lo = Math.min(0, xa, xb, xk, d.E.ab, d.E.ba);
+    var X = function (v) { return padL + (clamp(v, lo, hi) - lo) / (hi - lo) * (w - padL - padR); };
     g.font = "11px " + SERIF;
     g.strokeStyle = rgba(WHITE, 0.25);
     g.lineWidth = 1;
-    g.beginPath(); g.moveTo(padL, h - 16); g.lineTo(w - padR, h - 16); g.stroke();
+    g.beginPath(); g.moveTo(padL, h - 14); g.lineTo(w - padR, h - 14); g.stroke();
     g.fillStyle = rgba(WHITE, 0.55);
-    g.textAlign = "left"; g.fillText("Van <", padL - 2, h - 3);
-    g.textAlign = "right"; g.fillText("> Naar", w - padR, h - 3);
-    var rows = [[b.a, b.hB, 0], [b.b, b.hA, 1]];
-    for (var i = 0; i < 2; i++) {
-      var n = rows[i][0], heard = rows[i][1], y = 18 + i * (h - 48);
+    g.textAlign = "left"; g.fillText("Van <", padL - 2, h - 2);
+    g.textAlign = "right"; g.fillText("> Naar", w - padR, h - 2);
+    var rows = [[d.a.name, xa, d.a.th, d.E.ba, d.a.e.target], [d.b.name, xb, d.b.th, d.E.ab, d.b.e.target], ["Duo", xk, d.th, null, d.e.target]];
+    for (var i = 0; i < 3; i++) {
+      var R = rows[i], y = 12 + i * (h - 34) / 2;
       g.textAlign = "left";
       g.fillStyle = rgba(WHITE, 0.8);
-      g.fillText(n.name, 2, y + 4);
-      var xe = X(n.e), xh = X(heard);
-      g.strokeStyle = rgba(WHITE, 0.35);
-      g.setLineDash([2, 3]);
-      g.beginPath(); g.moveTo(xe, y); g.lineTo(xh, y); g.stroke();
-      g.setLineDash([]);
-      if (n.mask) {
-        var xm = X(n.m);
-        g.strokeStyle = rgba(WHITE, 0.85);
-        g.beginPath(); g.moveTo(xm, y - 6); g.lineTo(xm + 6, y); g.lineTo(xm, y + 6); g.lineTo(xm - 6, y); g.closePath(); g.stroke();
+      g.fillText(R[0], 2, y + 4);
+      // its Drempel
+      g.strokeStyle = rgba(WHITE, 0.6);
+      g.beginPath(); g.moveTo(X(R[2]), y - 7); g.lineTo(X(R[2]), y + 7); g.stroke();
+      // the Binding it reads, where its Eigen is heading
+      g.fillStyle = rgba(GOLD, 0.55);
+      g.beginPath(); g.moveTo(X(R[4]), y - 9); g.lineTo(X(R[4]) - 3.5, y - 14); g.lineTo(X(R[4]) + 3.5, y - 14); g.closePath(); g.fill();
+      if (R[3] !== null) {
+        g.strokeStyle = rgba(WHITE, 0.35);
+        g.setLineDash([2, 3]);
+        g.beginPath(); g.moveTo(X(R[1]), y); g.lineTo(X(R[3]), y); g.stroke();
+        g.setLineDash([]);
       }
-      g.fillStyle = rgba(GOLD, 1);
-      g.beginPath(); g.arc(xe, y, 5, 0, 6.283); g.fill();
-      g.strokeStyle = rgba(WHITE, 0.95);
-      g.lineWidth = 1.4;
-      g.beginPath(); g.arc(xh, y, 5, 0, 6.283); g.stroke();
-      g.lineWidth = 1;
+      g.fillStyle = rgba(R[1] > R[2] ? GOLD : WHITE, 1);
+      g.beginPath(); g.arc(X(R[1]), y, 4.5, 0, 6.283); g.fill();
+      if (R[3] !== null) {
+        g.strokeStyle = rgba(WHITE, 0.95);
+        g.lineWidth = 1.4;
+        g.beginPath(); g.arc(X(R[3]), y, 4.5, 0, 6.283); g.stroke();
+        g.lineWidth = 1;
+      }
     }
   }
 
-  // the pitchfork potential(mode; B) = ¼·mode⁴ − ½·(B − θ)·mode², with the pair's mode resting in it.
-  // The frame follows the depth of the well, so its shape stays readable.
-  var wellScale = { p: 1, lo: -0.1, hi: 0.4 };
-  function drawWell(b) {
-    var m = miniCanvas("c-well");
-    if (!m) return;
-    var g = m.ctx, w = m.w, h = m.h, P = field.P, d = b.B - P.theta;
-    var V = function (p) { return 0.25 * p * p * p * p - 0.5 * d * p * p; };
-    var dp = Math.max(d, 0), pT = Math.max(0.9, 1.6 * Math.sqrt(dp)), pTarget = Math.max(pT, Math.abs(b.phi) * 1.15);
-    var loT = -0.25 * dp * dp * 1.3 - 0.02, hiT = Math.max(V(pTarget), 0.05);
-    wellScale.p += (pTarget - wellScale.p) * 0.15;
-    wellScale.lo += (loT - wellScale.lo) * 0.15;
-    wellScale.hi += (hiT - wellScale.hi) * 0.15;
-    var pmax = wellScale.p, vlo = wellScale.lo, vhi = wellScale.hi;
-    var X = function (p) { return 8 + (p + pmax) / (2 * pmax) * (w - 16); };
-    var Y = function (v) { return 10 + (vhi - clamp(v, vlo, vhi)) / (vhi - vlo) * (h - 28); };
-    g.strokeStyle = rgba(WHITE, 0.15);
-    g.beginPath(); g.moveTo(8, Y(0)); g.lineTo(w - 8, Y(0)); g.stroke();
-    g.strokeStyle = rgba(b.mode === "naar" ? GOLD : WHITE, 0.9);
-    g.lineWidth = 1.6;
-    g.beginPath();
-    for (var i = 0; i <= 120; i++) {
-      var p = -pmax + i / 120 * 2 * pmax;
-      if (i === 0) g.moveTo(X(p), Y(V(p))); else g.lineTo(X(p), Y(V(p)));
+  // the landscape of its two Leden (Drempel and the Vonk): each pattern's
+  // height V̄, everything else held as it stands. Lower runs deeper.
+  function landscape(d) {
+    function h(n) {
+      var v = n.S + 0.5 * n.yS - n.th;
+      for (var i = 0; i < n.duos.length; i++) {
+        var o = n.duos[i];
+        if (o !== d) v += o.y * field.partner(o, n).e.n;
+      }
+      return v;
     }
-    g.stroke();
+    var ha = h(d.a), hb = h(d.b);
+    return { "00": 0, "10": -ha, "01": -hb, "11": -ha - hb - d.y };
+  }
+  function drawLandscape(d) {
+    var m = miniCanvas("c-land");
+    if (!m) return;
+    var g = m.ctx, w = m.w, h = m.h, V = landscape(d), keys = ["00", "10", "01", "11"];
+    var vs = keys.map(function (k) { return V[k]; }), lo = Math.min.apply(null, vs), hi = Math.max.apply(null, vs);
+    if (hi - lo < 0.2) { var c0 = (hi + lo) / 2; lo = c0 - 0.1; hi = c0 + 0.1; }
+    // deeper patterns are drawn lower
+    var X = { "00": w * 0.13, "10": w * 0.38, "01": w * 0.62, "11": w * 0.87 };
+    var Y = function (v) { return 10 + (hi - v) / (hi - lo) * (h - 34); };
+    var pos = function (k) { return [X[k], Y(V[k])]; };
+    g.strokeStyle = rgba(WHITE, 0.25);
     g.lineWidth = 1;
-    var ph = clamp(b.phi, -pmax, pmax);
-    g.fillStyle = rgba(GOLDB, 1);
-    g.beginPath(); g.arc(X(ph), Y(V(ph)) - 5, 5, 0, 6.283); g.fill();
+    [["00", "10"], ["00", "01"], ["10", "11"], ["01", "11"]].forEach(function (p) {
+      var A = pos(p[0]), B = pos(p[1]);
+      g.beginPath(); g.moveTo(A[0], A[1]); g.lineTo(B[0], B[1]); g.stroke();
+    });
+    var cur = String(d.a.e.n) + String(d.b.e.n), names = { "00": "both Van", "10": d.a.name + " across", "01": d.b.name + " across", "11": "both across" };
     g.font = "11px " + SERIF;
     g.textAlign = "center";
-    g.fillStyle = rgba(WHITE, 0.55);
-    if (d > 0) {
-      var ps = Math.sqrt(d), yl = Math.min(h - 3, Y(-0.25 * d * d) + 16);
-      g.fillText("Naar", X(-ps), yl);
-      g.fillText("Naar", X(ps), yl);
-    } else {
-      g.fillText("Van", X(0), Math.min(h - 3, Y(0) + 16));
-    }
+    keys.forEach(function (k) {
+      var p = pos(k);
+      g.strokeStyle = rgba(k === "11" ? GOLD : WHITE, 0.9);
+      g.lineWidth = 2;
+      g.beginPath(); g.moveTo(p[0] - 16, p[1]); g.lineTo(p[0] + 16, p[1]); g.stroke();
+      g.lineWidth = 1;
+      g.fillStyle = rgba(WHITE, 0.6);
+      g.fillText(names[k], p[0], Math.min(h - 3, p[1] + 14));
+    });
+    var pc = pos(cur);
+    g.fillStyle = rgba(GOLDB, 1);
+    g.beginPath(); g.arc(pc[0], pc[1] - 5, 4.5, 0, 6.283); g.fill();
   }
 
-  // the binding against its Drempel, and the Echo asymmetry, over the last 30 seconds
-  function drawTrace(b) {
+  // the last 30 seconds: the Duo's Eigen against its Drempel, and the gap
+  // between its two Echoes against parity
+  function drawTrace(d) {
     var m = miniCanvas("c-trace");
     if (!m) return;
-    var g = m.ctx, w = m.w, h = m.h, P = field.P, N = b.Ahist.length, cnt = Math.min(b.hcount, N), i, v;
+    var g = m.ctx, w = m.w, h = m.h, N = 300, cnt = d.xh.length, i;
     var top = { y0: 16, y1: h / 2 - 4 }, bot = { y0: h / 2 + 16, y1: h - 4 };
-    var bmin = P.theta - 0.9, bmax = P.theta + 0.9;   // values beyond are drawn at the edge
-    var Yb = function (v) { return top.y1 - (clamp(v, bmin, bmax) - bmin) / (bmax - bmin) * (top.y1 - top.y0); };
-    var Ya = function (v) { return (bot.y0 + bot.y1) / 2 - clamp(v, -0.5, 0.5) / 0.5 * (bot.y1 - bot.y0) / 2; };
+    var hi = d.th * 1.6, lo = 0;
+    for (i = 0; i < cnt; i++) { hi = Math.max(hi, d.xh[i], d.uh[i]); lo = Math.min(lo, d.xh[i], d.uh[i]); }
+    var gmax = 0.3;
+    for (i = 0; i < d.gap.length; i++) gmax = Math.max(gmax, Math.abs(d.gap[i]));
+    var Yx = function (v) { return top.y1 - (v - lo) / (hi - lo || 1) * (top.y1 - top.y0); };
+    var Yg = function (v) { return (bot.y0 + bot.y1) / 2 - v / gmax * (bot.y1 - bot.y0) / 2; };
     var X = function (k) { return w - 4 - (cnt - 1 - k) / (N - 1) * (w - 8); };
-    var bandT = Yb(P.theta + P.eta), bandB = Yb(P.theta - P.eta);
-    if (bandB - bandT < 5) { var mid0 = (bandT + bandB) / 2; bandT = mid0 - 2.5; bandB = mid0 + 2.5; }
-    g.fillStyle = rgba(WHITE, 0.18);
-    g.fillRect(4, bandT, w - 8, bandB - bandT);
-    g.strokeStyle = rgba(WHITE, 0.3);
-    g.beginPath(); g.moveTo(4, bandT); g.lineTo(w - 4, bandT); g.moveTo(4, bandB); g.lineTo(w - 4, bandB); g.stroke();
+    g.strokeStyle = rgba(WHITE, 0.35);
     g.setLineDash([3, 4]);
-    g.beginPath(); g.moveTo(4, Yb(P.theta)); g.lineTo(w - 4, Yb(P.theta)); g.stroke();
-    g.beginPath(); g.moveTo(4, Ya(0)); g.lineTo(w - 4, Ya(0)); g.stroke();
+    g.beginPath(); g.moveTo(4, Yx(d.th)); g.lineTo(w - 4, Yx(d.th)); g.stroke();
+    g.beginPath(); g.moveTo(4, Yg(0)); g.lineTo(w - 4, Yg(0)); g.stroke();
     g.setLineDash([]);
-    function line(arr, Y, color) {
+    function line(arr, Y, color, dash) {
       g.strokeStyle = color;
       g.lineWidth = 1.4;
+      if (dash) g.setLineDash([2, 3]);
       g.beginPath();
-      for (var k = 0; k < cnt; k++) {
-        v = arr[(b.hix - cnt + k + N) % N];
-        if (k === 0) g.moveTo(X(k), Y(v)); else g.lineTo(X(k), Y(v));
-      }
+      for (var k = 0; k < arr.length; k++) { if (k === 0) g.moveTo(X(k), Y(arr[k])); else g.lineTo(X(k), Y(arr[k])); }
       g.stroke();
+      g.setLineDash([]);
       g.lineWidth = 1;
     }
-    line(b.Bhist, Yb, rgba(GOLD, 1));
-    line(b.Ahist, Ya, rgba(WHITE, 0.85));
+    line(d.uh, Yx, rgba(GOLD, 0.5), true);
+    line(d.xh, Yx, rgba(GOLD, 1));
+    line(d.gap, Yg, rgba(WHITE, 0.85));
     g.font = "11px " + SERIF;
     g.textAlign = "left";
     g.fillStyle = rgba(WHITE, 0.6);
-    g.fillText("B against θ ± η", 6, 11);
-    g.fillText("A = hᵢ − hⱼ against parity", 6, h / 2 + 11);
+    g.fillText("its Eigen, and the Binding it reads, against θ", 6, 11);
+    g.fillText("ΔE, the gap between its Echoes, against parity", 6, h / 2 + 11);
   }
 
   function row(k, v, cls) { return "<tr" + (cls ? ' class="' + cls + '"' : "") + "><th>" + k + "</th><td>" + v + "</td></tr>"; }
 
   var panelT = 0, cache = { nodeRs: null, nodeId: null };
 
-  // keep one button per Koppel: add new ones, drop ended ones, update text in place
+  // one button per Relatie: add new ones, drop ended ones, update text in place
   function syncChips(box, items, empty) {
-    var have = {}, i, el, keep = {};
-    Array.prototype.forEach.call(box.querySelectorAll("[data-bond]"), function (b) { have[b.getAttribute("data-bond")] = b; });
+    var have = {}, i, el, keep = {}, id;
+    Array.prototype.forEach.call(box.querySelectorAll("[data-duo]"), function (b) { have[b.getAttribute("data-duo")] = b; });
     for (i = 0; i < items.length; i++) {
-      var id = String(items[i].id);
+      id = String(items[i].id);
       keep[id] = 1;
       el = have[id];
       if (!el) {
         el = document.createElement("button");
         el.className = "chip";
-        el.setAttribute("data-bond", id);
+        el.setAttribute("data-duo", id);
         box.appendChild(el);
       }
       if (el.textContent !== items[i].text) el.textContent = items[i].text;
@@ -677,113 +765,76 @@
     none.textContent = empty;
     none.hidden = items.length > 0;
   }
+
   function updatePanel(force) {
     var now = performance.now();
-    if (!force && now - panelT < 120) return;
+    if (!force && now - panelT < 150) return;
     panelT = now;
-    var P = field.P;
-    // follow the field: when the watched Koppel is gone, pick a living one
-    if (state.follow && (!state.sel || (state.sel.ended && field.t - state.endedAt > 5))) {
+    var P = field.P, i;
+    // follow the field: when the watched Relatie is gone, pick a living one
+    if (state.follow && (!state.sel || (state.sel.state !== "live" && field.t - state.endedAt > 5))) {
       var best = null, bs = -Infinity;
-      for (var i = 0; i < field.bonds.length; i++) {
-        var bb = field.bonds[i], sc = (bb.mode === "naar" ? 2 : 0) + bb.y - bb.age / 600;
-        if (sc > bs) { bs = sc; best = bb; }
+      for (i = 0; i < field.duos.length; i++) {
+        var dd = field.duos[i], sc = 2 * dd.e.n + dd.y - (field.t - dd.born) / 600;
+        if (sc > bs) { bs = sc; best = dd; }
       }
-      if (best) state.sel = best;
+      state.sel = best;
     }
-
     var n = state.selNode;
     if (n && n.state !== "live" && (n.fade >= P.fadeTime || field.nodes.indexOf(n) < 0)) state.selNode = n = null;
     $("node-card").hidden = !n;
-    $("koppel-card").hidden = !!n;
-    if (n) renderNode(n); else renderKoppel(state.sel);
+    $("duo-card").hidden = !!n;
+    if (n) renderNode(n); else renderDuo(state.sel);
     var ae = document.activeElement;
     if (ae && ae !== document.body && ae.closest && ae.closest("[hidden]")) $(n ? "n-title" : "k-title").focus();
 
     // the Telraam
-    var Lg = field.ledger, held = field.held(), transit = field.inTransit(), cl = field.closure();
-    var ok = Math.abs(cl) < 1e-10 * Math.max(1, Lg.winst);
+    var Lg = field.ledger, inSolo = 0, inDuo = 0;
+    for (i = 0; i < field.nodes.length; i++) { var s = field.nodes[i]; if (s.state === "live") inSolo += s.yS * s.e.n * s.zs.n; }
+    for (i = 0; i < field.duos.length; i++) inDuo += duoEps(field.duos[i]);
+    var cl = field.closure(), ok = Math.abs(cl) < 1e-9 * Math.max(1, field.base);
     $("telraam").innerHTML =
-      row("Winst (+)", "+" + Lg.winst.toFixed(4)) +
-      row("Verlies (−)", "−" + Lg.verlies.toFixed(4)) +
-      row("Held in Koppels and Solos", (held - transit).toFixed(4)) +
-      row("Overflow, unheld", transit.toFixed(4)) +
-      row("Overflow spread, unheld", Lg.dissipated.toFixed(4)) +
-      row("Account", ok ? "closes" : "off by " + cl.toExponential(2), ok ? "ok" : "bad");
+      row("Held by the Zelfs of Solos", inSolo.toFixed(4)) +
+      row("Held by Duos", inDuo.toFixed(4)) +
+      row("Warmte of the Medium", field.warmte.toFixed(4)) +
+      row("ε + T◌, as it opened", (inSolo + inDuo + field.warmte).toFixed(4) + " · " + field.base.toFixed(4)) +
+      row("Winst (+) · Verlies (−), all told", "+" + Lg.winst.toFixed(3) + " · −" + Lg.verlies.toFixed(3)) +
+      row("Account", ok ? "closes at every Vonk" : "off by " + cl.toExponential(2), ok ? "ok" : "bad");
 
     // the field
-    var live = 0, rouw = 0, naar = 0, counts = {};
-    for (i = 0; i < field.nodes.length; i++) if (field.nodes[i].state === "live") { live++; rouw += field.nodes[i].rouw.length; }
-    for (i = 0; i < field.bonds.length; i++) if (field.bonds[i].mode === "naar") naar++;
-    var gs = field.groups();
-    for (i = 0; i < gs.length; i++) if (gs[i].irreducible) {
-      var s = gs[i].members.length, key = PRIME_NAMES[s] || ("group of " + s);
-      counts[key] = (counts[key] || 0) + 1;
+    var live = 0, rouw = 0, naar = 0, hungry = 0, bound = 0, worn = 0, counts = {};
+    for (i = 0; i < field.nodes.length; i++) {
+      var q = field.nodes[i];
+      if (q.state !== "live") continue;
+      live++; rouw += q.rouw.length;
+      if (Math.abs(q.yS) < 0.001) worn++;
+      if (q.e.wait === "hunger" || q.zs.wait === "hunger") hungry++;
     }
-    var gtxt = Object.keys(counts).map(function (k) { return k + (counts[k] > 1 ? " ×" + counts[k] : ""); }).join(", ") || "none yet";
+    for (i = 0; i < field.duos.length; i++) {
+      if (field.duos[i].e.n) naar++;
+      if (field.duos[i].e.wait === "hunger" || field.duos[i].zs.wait === "hunger") hungry++;
+      if (field.duos[i].bound) bound++;
+    }
+    var gs = field.groups();
+    for (i = 0; i < gs.length; i++) { var key = countName(gs[i].members.length); counts[key] = (counts[key] || 0) + 1; }
+    var gtxt = Object.keys(counts).map(function (k) { return k + (counts[k] > 1 ? " ×" + counts[k] : ""); }).join(", ") || "none now";
+    var st = field.stats;
     $("fieldstats").innerHTML =
-      row("Solos", live + " of " + P.nMax) +
-      row("Relaties", field.bonds.length + " (" + naar + " in Naar)") +
-      row("Bound groups", gtxt) +
-      row("Rouw carried", rouw);
-    // a keyboard path to every Koppel; rebuilt only when the set changes, so focus holds
-    syncChips($("field-koppels"), field.bonds.map(function (b) {
-      return { id: b.id, text: b.a.name + "–" + b.b.name + " · " + (b.mode === "naar" ? "Naar" : "Van") };
+      row("Solos", live + " of at most " + P.nMax) +
+      row("Their Zelf's Trouw worn below 0.001", worn + " now") +
+      row("Relaties", field.duos.length + " (" + naar + " in Naar)") +
+      row("Bound in Naar, three or more", gtxt) +
+      row("Rouw kept", rouw) +
+      row("Vonken", st.vonken + " (Winst " + st.winsten + ", Verlies " + st.verliezen + ")") +
+      row("Waiting on Warmte now", hungry) +
+      row("Held bound by what a parting lacks", bound + " now") +
+      row("Relaties ended", (st.eindes + st.scheidingen + st.partners) + " (Einde " + st.eindes + ", Scheiding " + st.scheidingen + ")") +
+      row("Born at a Start", st.born + (st.unborn ? " (" + st.unborn + " held overfull: no room)" : "")) +
+      row("Run for", Math.floor(field.t) + " s");
+    syncChips($("field-duos"), field.duos.map(function (d) {
+      return { id: d.id, text: d.a.name + "–" + d.b.name + " · " + (d.e.n ? "Naar" : "Van") };
     }), "none yet");
     renderLog();
-  }
-
-  function renderKoppel(b) {
-    var card = $("koppel-card");
-    if (!b) {
-      $("k-title").innerHTML = "No Koppel yet";
-      $("k-state").textContent = "Solos are building Trek. Watch for a dotted Zin.";
-      card.classList.add("empty");
-      return;
-    }
-    card.classList.remove("empty");
-    var P = field.P, d = b.B - P.theta, ended = !!b.ended;
-    $("k-title").innerHTML = "Koppel " + nm(b.a) + " ↔ " + nm(b.b);
-    var mode = ended ? (b.ended === "dissolved" ? "Ended: dissolved. Both Echoes are Rouw now." : "Ended: a member reached Perfectus. The survivor's Echo is Rouw now.")
-      : (b.balans ? "Balans: B sits in the Marge, both futures open" : (b.mode === "naar" ? "Naar mode" : "Van mode")) +
-        " · " + TRAJ_NAMES[b.traj] + " (" + b.traj + ")";
-    $("k-state").textContent = mode;
-    drawSpectrum(b);
-    drawWell(b);
-    drawTrace(b);
-    var Bline = "B = " + fmt(b.B) + ",  θ = " + fmt(P.theta) + ",  B − θ = " + signed(d);
-    if (b.Bhat !== null) Bline += "<br>read through the Masker, B looks like " + fmt(b.Bhat) + (b.Bhat > P.theta && b.B < P.theta ? " (looks bound, is not)" : "");
-    $("k-binding").innerHTML = Bline;
-    $("k-numbers").innerHTML =
-      row("Trouw y (shared)", fmt(b.y)) +
-      row("Gewenning Z", fmt(b.Z)) +
-      row("Stored ¼(B − θ)²", (d > 0 ? (0.25 * d * d).toFixed(4) : "0") + (d > 0 && 0.25 * d * d > b.Q ? " (Inhoud full)" : "")) +
-      row("Held, of Inhoud Q", b.S.toFixed(4) + " / " + b.Q.toFixed(2)) +
-      row("Overflow toward Creatie", b.X.toFixed(4) + " / " + P.thetaNew.toFixed(3)) +
-      row("Vertraging δ · Ontspanning τ", b.delta.toFixed(2) + " · " + b.tau.toFixed(2));
-    var mem = [b.a, b.b], echo = [b.hA, b.hB];
-    var h = "<tr><th></th><th>" + esc(b.a.name) + "</th><th>" + esc(b.b.name) + "</th></tr>";
-    var rowsDef = [
-      ["Vol/Leeg", function (n) { return fmt(n.vol); }],
-      ["Eigen x", function (n) { return fmt(n.e); }],
-      ["Echo of the other", function (n, i) { return fmt(echo[i]); }],
-      ["Diepte z", function (n) { return fmt(n.z); }],
-      ["Greep J", function (n) { return fmt(n.J); }],
-      ["Van Motor L", function (n) { return n.nu.toFixed(3); }],
-      ["Rouw", function (n) { return n.rouw.length; }]
-    ];
-    rowsDef.forEach(function (rd) {
-      h += "<tr><th>" + rd[0] + "</th><td>" + rd[1](mem[0], 0) + "</td><td>" + rd[1](mem[1], 1) + "</td></tr>";
-    });
-    $("k-members").innerHTML = h;
-    var live = !ended && b.a.state === "live" && b.b.state === "live";
-    setBtn("k-schrift-a", live, "Schrift on " + b.a.name);
-    setBtn("k-schrift-b", live, "Schrift on " + b.b.name);
-    setBtn("k-mask-a", live, (b.a.mask ? "Set down " : "Masker on ") + b.a.name);
-    setBtn("k-mask-b", live, (b.b.mask ? "Set down " : "Masker on ") + b.b.name);
-    setBtn("k-read-a", b.a.state === "live", "Read " + b.a.name);
-    setBtn("k-read-b", b.b.state === "live", "Read " + b.b.name);
-    $("k-follow").hidden = state.follow;
   }
 
   function setBtn(id, enabled, text) {
@@ -792,56 +843,167 @@
     if (el.textContent !== text) el.textContent = text;
   }
 
-  function renderNode(n) {
-    var live = n.state === "live";
-    $("n-title").innerHTML = nm(n) + (live ? "" : " · Perfectus");
-    var held = n.bonds.length ? "Zin, held in " + n.bonds.length + (n.bonds.length > 1 ? " Koppels" : " Koppel") : "";
-    var aim = !live ? "none: returned to Bron" : n.zin ? "Zin, aimed at " + nm(n.zin.target) : (n.bonds.length < n.cap ? (held ? held + "; Trek, unaimed" : "Trek, unaimed") : held);
-    $("n-numbers").innerHTML =
-      row("Vol/Leeg", fmt(n.vol) + (n.vol > 0.6 ? " (toward Vol)" : n.vol < 0.4 ? " (toward Leeg)" : "")) +
-      row("Eigen x", fmt(n.e)) +
-      row("Self-gap (Zelf)", fmt(Math.abs(n.e - n.hs), 3)) +
-      row("Diepte z", fmt(n.z)) +
-      row("Greep J", fmt(n.J)) +
-      row("Van Motor L = L₀·exp(−J)", n.nu.toFixed(3)) +
-      row("Pull", aim) +
-      (n.mask || n.pijn > 0 ? row("Pijn of the Masker", n.pijn.toFixed(2) + " / " + field.P.pijnMax) : "");
-    if (cache.nodeId !== n.id) { cache.nodeId = n.id; cache.nodeRs = null; $("n-koppels").textContent = ""; }
-    syncChips($("n-koppels"), n.bonds.map(function (b) {
-      var o = b.a === n ? b.b : b.a;
-      return { id: b.id, text: o.name + " · " + (b.mode === "naar" ? "Naar" : "Van") + " · " + TRAJ_NAMES[b.traj] + " (" + b.traj + ")" };
-    }), "none");
-    var rs = n.rouw.slice(-10).reverse().map(function (r) {
-      return esc(r.name) + ' <span class="muted">(' + (r.cause === "departed" ? "Perfectus" : "dissolved") + ")</span>";
+  function renderDuo(d) {
+    var card = $("duo-card");
+    if (!d) {
+      $("k-title").innerHTML = "No Relatie yet";
+      $("k-state").textContent = "Each Solo's Trek reaches those it perceives. Watch for a dotted Zin, and for two that answer.";
+      card.classList.add("empty");
+      return;
+    }
+    card.classList.remove("empty");
+    var t = field.t, ended = d.state !== "live", P = field.P;
+    $("k-title").innerHTML = "Duo " + nm(d.a) + " ↔ " + nm(d.b);
+    var txt = ended ? (d.ended === "scheiding" ? "Ended in a Scheiding. Each keeps the other as Rouw."
+      : d.ended === "partner" ? "Ended with its Partner. The one that stays keeps it as Rouw."
+      : "Ended in an Einde. Each keeps the other as Rouw.")
+      : "Read as one, " + (d.e.n ? "in Naar" : "at Van") + (d.zs.n ? ", its Zelf holding it" : ", its Zelf not holding it") +
+        (d.a.e.n && d.b.e.n ? "; both Leden across" : "") +
+        (d.bound ? "; held bound: what meets it from outside cannot give back what it bore away past its Vol"
+          : d.e.wait === "hunger" ? "; waiting at its Drempel for Warmte" : d.e.wait === "balans" ? "; resting at its Drempel" : "") +
+        " · " + TRAJ_NAMES[d.traj] + " (" + d.traj + ")";
+    $("k-state").textContent = txt;
+    drawSpectrum(d);
+    drawLandscape(d);
+    drawTrace(d);
+    var eK = duoEps(d);
+    $("k-numbers").innerHTML =
+      row("Trouw y, one for both", fmtT(d.y, 3)) +
+      row("What it holds ε, and its Vol pole W", fmt(eK, 3) + " · " + fmt(P.W)) +
+      (d.bore > 0 ? row("Borne away past its Vol: what a parting lacks", fmt(d.bore, 3)) : "") +
+      row("Its Eigen · its Drempel", fmt(valueAt(d.e, t)) + " · " + fmt(d.th)) +
+      row("Its Leeg · all that holds it", fmt(d.S) + " · " + fmt(field.holdAll(d))) +
+      row("Its Tijd", d.tijd.toFixed(2)) +
+      row("Wijk its Zelf last read · its Marge", d.Lhat.toFixed(4) + " · " + fmt(d.eta)) +
+      row("Vertraging " + esc(d.a.name) + "→" + esc(d.b.name) + " · back", field.delta(d.b, d.a).toFixed(2) + " · " + field.delta(d.a, d.b).toFixed(2) + " s") +
+      row("Age", Math.floor(t - d.born) + " s");
+    var mem = [d.a, d.b], sides = ["ab", "ba"];
+    var hd = "<tr><th></th><th>" + esc(d.a.name) + "</th><th>" + esc(d.b.name) + "</th></tr>";
+    var rowsDef = [
+      ["Vol/Leeg · Leeg S", function (n) { return fmt(n.vol) + " · " + fmt(n.S); }],
+      ["Eigen x · Drempel θ", function (n) { return fmt(valueAt(n.e, t)) + " · " + fmt(n.th); }],
+      ["Binding read · as it stands", function (n) { return fmt(field.bindingSolo(n)) + " · " + fmt(field.standing(n)); }],
+      ["Its Echo of the other", function (n, i) { return fmt(d.E[sides[i]]); }],
+      ["Gewenning · Diepte of it", function (n, i) { return fmt(d.Z[sides[i]]) + " · " + fmt(d.z[sides[i]]); }],
+      ["Its Zelf holds it", function (n) { return n.zs.n ? "yes" : "no"; }],
+      ["Greep J · Tijd", function (n) { return fmt(field.greep(n)) + " · " + n.tijd.toFixed(2); }],
+      ["Rouw kept", function (n) { return n.rouw.length; }]
+    ];
+    rowsDef.forEach(function (rd) {
+      hd += "<tr><th>" + rd[0] + "</th><td>" + rd[1](mem[0], 0) + "</td><td>" + rd[1](mem[1], 1) + "</td></tr>";
     });
+    $("k-members").innerHTML = hd;
+    setBtn("k-schrift-a", d.a.state === "live", "Schrift on " + d.a.name);
+    setBtn("k-schrift-b", d.b.state === "live", "Schrift on " + d.b.name);
+    setBtn("k-read-a", d.a.state === "live", "Read " + d.a.name);
+    setBtn("k-read-b", d.b.state === "live", "Read " + d.b.name);
+    $("k-follow").hidden = state.follow;
+  }
+
+  function renderNode(n) {
+    var live = n.state === "live", t = field.t, x = valueAt(n.e, t);
+    $("n-title").innerHTML = nm(n) + (live ? "" : " · Perfectus");
+    var aim = !live ? "none" : n.aim ? "Zin, aimed at " + nm(n.aim) + (field.duoOf(n, n.aim) ? ", a Partner" : ", a Vreemdeling") : "Trek, unaimed";
+    var wait = n.e.wait === "hunger" ? "at its Drempel, waiting for Warmte" : n.e.wait === "balans" ? "at its Drempel: its Vonk would carry it back" : "";
+    $("n-numbers").innerHTML =
+      row("Vol/Leeg", fmt(n.vol) + " (Leeg S " + fmt(n.S) + ", its Zelf's Trouw " + fmtT(n.yS, 3) + ")") +
+      row("Eigen x · Drempel θ", fmt(x) + " · " + fmt(n.th) + (n.e.n ? " (Naar)" : " (Van)")) +
+      row("Binding read · as it stands", fmt(field.bindingSolo(n)) + " · " + fmt(field.standing(n))) +
+      row("Self-Echo · self-gap", fmt(n.eS) + " · " + fmt(x - n.eS)) +
+      row("Its Zelf", (n.zs.n ? "holds it across" : "does not hold it") +
+        (Math.abs(n.yS) < 0.001 ? ", its Trouw worn almost to nothing; " +
+          (n.duos.some(function (d) { return d.y > 0; }) ? "its Leeg and its Relaties hold it" : "its Leeg alone holds it") : "")) +
+      row("Marge, read from outside", fmt(field.marge(n))) +
+      row("Wijk its Zelf last read", n.Lhat.toFixed(4)) +
+      row("Greep J · Tijd", fmt(field.greep(n)) + " · " + n.tijd.toFixed(2)) +
+      row("Diepte z", fmt(n.z)) +
+      row("Pull", aim) +
+      (wait ? row("Now", wait) : "");
+    if (cache.nodeId !== n.id) { cache.nodeId = n.id; cache.nodeRs = null; $("n-duos").textContent = ""; }
+    syncChips($("n-duos"), n.duos.map(function (d) {
+      var o = field.partner(d, n);
+      return { id: d.id, text: o.name + " · " + (d.e.n ? "Naar" : "Van") + " · " + TRAJ_NAMES[d.traj] + " (" + d.traj + ")" };
+    }), "none");
+    var rs = n.rouw.slice(-10).reverse().map(function (r) { return esc(r.name); });
     if (n.rouw.length > 10) rs.push('<span class="muted">and ' + (n.rouw.length - 10) + " more</span>");
     var rj = rs.join(", ");
     if (rj !== cache.nodeRs) { cache.nodeRs = rj; $("n-rouw").innerHTML = rj || '<span class="muted">none yet</span>'; }
-    setBtn("n-schrift", live, "Schrift on " + n.name);
-    setBtn("n-mask", live, (n.mask ? "Set the Masker down" : "Put on a Masker"));
+    setBtn("n-schrift", live, n.e.n ? "Schrift: write it back towards Van" : "Schrift: write it across, towards Naar");
   }
 
   /* ---------------------------- interaction --------------------------- */
-  function selectBond(b, pin) {
-    state.sel = b;
+  // a Schrift from outside: a value that carries the Eigen a little past
+  // its Drempel the other way; what follows is the Veld's own
+  function schrift(n) {
+    if (!n || n.state !== "live") return;
+    var x = valueAt(n.e, field.t), v = n.e.n ? (n.th - x) - 0.3 : (n.th - x) + 0.3;
+    field.schrift(n, v);
+  }
+  function selectDuo(d, pin) {
+    state.sel = d;
     state.selNode = null;
     if (pin) state.follow = false;
     updatePanel(true);
   }
-
-  function pointer(ev) {
-    var r = canvas.getBoundingClientRect(), x = ev.clientX - r.left - canvas.clientLeft, y = ev.clientY - r.top - canvas.clientTop;
-    var n = field.nodeAt(x, y);
+  function at(ev) {
+    var r = canvas.getBoundingClientRect();
+    return [ev.clientX - r.left - canvas.clientLeft, ev.clientY - r.top - canvas.clientTop];
+  }
+  // a Solo can be moved by hand: dragging it writes its place on the
+  // Medium; a press that does not move reads it, as a click does
+  var drag = null, handled = null;
+  canvas.addEventListener("touchstart", function (ev) {
+    if (ev.touches.length !== 1 || !field) return;
+    var t = ev.touches[0], r = canvas.getBoundingClientRect();
+    // a touch that starts on a Solo moves it, and does not scroll the page
+    if (field.nodeAt(t.clientX - r.left - canvas.clientLeft, t.clientY - r.top - canvas.clientTop)) ev.preventDefault();
+  }, { passive: false });
+  canvas.addEventListener("pointerdown", function (ev) {
+    if (ev.button !== 0 || !field || drag) return;
+    var p = at(ev), n = field.nodeAt(p[0], p[1]);
+    if (!n) return;
+    drag = { n: n, id: ev.pointerId, x: p[0], y: p[1], moved: false };
+    try { canvas.setPointerCapture(ev.pointerId); } catch (e) { /* the press ended first */ }
+  });
+  canvas.addEventListener("pointermove", function (ev) {
+    var p = at(ev);
+    if (!drag) {
+      if (ev.pointerType === "mouse")
+        canvas.style.cursor = !field ? "default" : field.nodeAt(p[0], p[1]) ? "grab" : field.duoAt(p[0], p[1]) ? "pointer" : "default";
+      return;
+    }
+    if (ev.pointerId !== drag.id) return;
+    if (!drag.moved && Math.abs(p[0] - drag.x) + Math.abs(p[1] - drag.y) < 6) return;
+    var n = drag.n;
+    if (n.state !== "live") { drag = null; return; }
+    drag.moved = true;
+    canvas.style.cursor = "grabbing";
+    var f = field.frame();
+    field.movePlace(n, (p[0] - f.ox) / f.s - n.dx, (p[1] - f.oy) / f.s - n.dy);
+    n.x = f.ox + f.s * (n.hx + n.dx); n.y = f.oy + f.s * (n.hy + n.dy);   // drawn where it now stands, paused or not
+  });
+  function release(ev) {
+    if (!drag || ev.pointerId !== drag.id) return;
+    var d = drag;
+    drag = null;
+    handled = { t: performance.now(), p: at(ev) };
+    canvas.style.cursor = "grab";
+    if (ev.type === "pointercancel") return;
+    if (d.moved) field.movePlace(d.n, d.n.hx, d.n.hy, true);
+    if (d.n.state === "live") { state.selNode = d.n; updatePanel(true); }
+  }
+  canvas.addEventListener("pointerup", release);
+  canvas.addEventListener("pointercancel", release);
+  canvas.addEventListener("click", function (ev) {
+    var p = at(ev), n;
+    // the click that ends a press on a Solo: read or moved above
+    if (handled && performance.now() - handled.t < 400 && Math.abs(p[0] - handled.p[0]) + Math.abs(p[1] - handled.p[1]) < 12) return;
+    n = field.nodeAt(p[0], p[1]);
     if (n) { state.selNode = n; updatePanel(true); return; }
-    var b = field.bondAt(x, y);
-    if (b) { selectBond(b, true); return; }
+    var d = field.duoAt(p[0], p[1]);
+    if (d) { selectDuo(d, true); return; }
     state.selNode = null;
     updatePanel(true);
-  }
-  canvas.addEventListener("click", pointer);
-  canvas.addEventListener("mousemove", function (ev) {
-    var r = canvas.getBoundingClientRect(), x = ev.clientX - r.left - canvas.clientLeft, y = ev.clientY - r.top - canvas.clientTop;
-    canvas.style.cursor = field && (field.nodeAt(x, y) || field.bondAt(x, y)) ? "pointer" : "default";
   });
 
   // a pointer click leaves no focus behind, so Space keeps meaning pause
@@ -849,37 +1011,32 @@
     var el = $(id);
     if (el) el.addEventListener("click", function (ev) { fn(ev); if (ev.detail) el.blur(); });
   }
-  on("k-schrift-a", function () { if (state.sel) field.schrift(state.sel.a); });
-  on("k-schrift-b", function () { if (state.sel) field.schrift(state.sel.b); });
-  on("k-mask-a", function () { if (state.sel) field.setMask(state.sel.a, !state.sel.a.mask); });
-  on("k-mask-b", function () { if (state.sel) field.setMask(state.sel.b, !state.sel.b.mask); });
+  on("k-schrift-a", function () { if (state.sel) schrift(state.sel.a); });
+  on("k-schrift-b", function () { if (state.sel) schrift(state.sel.b); });
   on("k-follow", function () { state.follow = true; state.sel = null; updatePanel(true); });
-  on("n-schrift", function () { if (state.selNode) field.schrift(state.selNode); });
-  on("n-mask", function () { if (state.selNode) field.setMask(state.selNode, !state.selNode.mask); });
+  on("n-schrift", function () { schrift(state.selNode); });
   on("n-back", function () { state.selNode = null; updatePanel(true); });
   on("k-read-a", function () { if (state.sel) { state.selNode = state.sel.a; updatePanel(true); } });
   on("k-read-b", function () { if (state.sel) { state.selNode = state.sel.b; updatePanel(true); } });
   function chipClick(ev) {
-    var el = ev.target && ev.target.closest ? ev.target.closest("[data-bond]") : null;
+    var el = ev.target && ev.target.closest ? ev.target.closest("[data-duo]") : null;
     if (!el) return;
-    var id = el.getAttribute("data-bond");
-    for (var i = 0; i < field.bonds.length; i++) if (String(field.bonds[i].id) === id) selectBond(field.bonds[i], true);
+    var id = el.getAttribute("data-duo");
+    for (var i = 0; i < field.duos.length; i++) if (String(field.duos[i].id) === id) selectDuo(field.duos[i], true);
   }
-  $("n-koppels").addEventListener("click", chipClick);
-  $("field-koppels").addEventListener("click", chipClick);
-  on("bron", function () { if (!field.fromBron()) addLog("The field is full: " + field.P.nMax + " Solos."); });
+  $("n-duos").addEventListener("click", chipClick);
+  $("field-duos").addEventListener("click", chipClick);
 
   function setRunning(r) {
     state.running = r;
-    var b = $("play");
-    b.textContent = r ? "Pause" : "Play";
+    $("play").textContent = r ? "Pause" : "Play";
+    if (!r) { paceShown = ""; $("pace").textContent = ""; }
     if (r) $("reduced").hidden = true;
   }
   on("play", function () { setRunning(!state.running); });
   on("replay", function () {
     newField(true);
-    addLog(field.P.upsilon > 0 ? "The same field again, with new distortions in its Echoes."
-      : "The same field again. With Vervorming at 0 its Echoes are faithful, and it runs the same way.");
+    addLog("The same field again, with new Vervorming in its looks: it parts from the last run at its first look.");
   });
   on("newfield", function () { newField(false); });
   Array.prototype.forEach.call(document.querySelectorAll("[data-speed]"), function (btn) {
@@ -889,18 +1046,54 @@
       Array.prototype.forEach.call(document.querySelectorAll("[data-speed]"), function (o) { o.setAttribute("aria-pressed", o === btn ? "true" : "false"); });
     });
   });
-  function bindSlider(id, key, digits) {
+  var pending = $("pending");
+  function bindSlider(id, digits) {
     var el = $(id), out = $(id + "-v");
-    function upd() {
+    function upd(ev) {
       out.textContent = (+el.value).toFixed(digits);
-      if (field) field.P[key] = +el.value;
+      if (ev && field) pending.textContent = "These values open the next field: press Replay or New field.";
     }
     el.addEventListener("input", upd);
     upd();
   }
-  bindSlider("s-upsilon", "upsilon", 3);
-  bindSlider("s-nu0", "nu0", 2);
-  bindSlider("s-theta", "theta", 2);
+  // the sliders open at the values this Instantie chose
+  var SLIDERS = { "s-ups": [1, 2], "s-warmte": ["warmte", 2], "s-lm": ["Lm", 2], "s-init": ["nInit", 0], "s-max": ["nMax", 0],
+                  "s-rho": ["rho", 2], "s-y0": ["y0", 2], "s-w": ["W", 2], "s-reach": ["reach", 2] };
+  function setDefaults() {
+    Object.keys(SLIDERS).forEach(function (id) {
+      var k = SLIDERS[id][0];
+      $(id).value = typeof k === "number" ? k : Sim.DEFAULTS[k];
+    });
+  }
+  setDefaults();
+  Object.keys(SLIDERS).forEach(function (id) { bindSlider(id, SLIDERS[id][1]); });
+
+  // presets: the same field again under other values. Characters, not Octaven
+  var PRESETS = {
+    instantie: { v: {}, note: "The values this page opens with." },
+    cold: { v: { "s-warmte": 0.6, "s-ups": 0.7, "s-lm": 0.03 },
+      note: "Little Warmte, little Vervorming and little wear: few Relaties form, and those that do last." },
+    hot: { v: { "s-warmte": 1.8, "s-ups": 1.3, "s-lm": 0.08 },
+      note: "Much Warmte, Vervorming and wear: Relaties form and end four or five times as often, and the field fills." },
+    deep: { v: { "s-rho": 0.9, "s-y0": 0.9 },
+      note: "Each Vonk moves its Trouw far, and every Relatie opens deep: bonds run deeper." },
+    light: { v: { "s-rho": 0.25, "s-y0": 0.35 },
+      note: "Each Vonk moves its Trouw a little, and Relaties open shallow: light bonds, more of them in Naar." },
+    crowd: { v: { "s-init": 24, "s-max": 32, "s-reach": 0.25 },
+      note: "Many Solos, each reaching only those near it." }
+  };
+  Array.prototype.forEach.call(document.querySelectorAll("[data-preset]"), function (btn) {
+    btn.addEventListener("click", function (ev) {
+      if (ev.detail) btn.blur();
+      var p = PRESETS[btn.getAttribute("data-preset")];
+      setDefaults();
+      Object.keys(p.v).forEach(function (id) { $(id).value = p.v[id]; });
+      Object.keys(SLIDERS).forEach(function (id) { $(id + "-v").textContent = (+$(id).value).toFixed(SLIDERS[id][1]); });
+      $("preset-note").textContent = btn.textContent + ". " + p.note;
+      newField(true);
+      addLog("The same field again, as " + btn.textContent + ".");
+    });
+  });
 
   document.addEventListener("keydown", function (ev) {
     if (ev.key !== " " || ev.repeat || ev.altKey || ev.ctrlKey || ev.metaKey || ev.shiftKey) return;
@@ -915,26 +1108,33 @@
   window.addEventListener("resize", resize);
 
   /* ------------------------------- loop ------------------------------- */
-  var last = performance.now(), acc = 0;
+  // each frame runs every event that falls within it, at its own moment;
+  // the length of a frame changes no event of the Veld
+  var last = performance.now(), pace = 1, paceShown = "";
   function frame(now) {
-    var dt = Math.min(0.1, Math.max(0, (now - last) / 1000));
+    var dt = Math.min(0.1, Math.max(0, (now - last) / 1000)), simDt = 0;
     last = now;
-    var simDt = 0;
-    if (state.running) {
-      acc += dt * state.speed;
-      var steps = 0;
-      while (acc >= H && steps < 60) { field.step(); acc -= H; steps++; }
-      if (steps === 60) acc = 0;
-      simDt = steps * H;
+    if (state.running && dt > 0) {
+      // in steps of a tenth of a second, so every Lezing is read as often as at
+      // 1x; when a frame's budget is spent, the Veld runs slower than asked
+      var want = dt * state.speed, t0 = performance.now();
+      while (simDt < want - 1e-9) {
+        var step = Math.min(0.1, want - simDt);
+        field.advance(step);
+        simDt += step;
+        if (performance.now() - t0 > 12) break;
+      }
+      pace = 0.9 * pace + 0.1 * simDt / dt;
+      var shown = state.speed > 1 && pace < 0.85 * state.speed ? "running at " + Math.round(pace) + "×" : "";
+      if (shown !== paceShown) { paceShown = shown; $("pace").textContent = shown; }
     }
     consume();
-    for (var k = 0; k < field.bonds.length; k++) drainSparks(field.bonds[k], false);
-    stepEffects(simDt);
-    draw(simDt);
+    for (var k = 0; k < field.duos.length; k++) drainSparks(field.duos[k], false);
+    for (k = 0; k < field.nodes.length; k++) drainSparks(field.nodes[k], false);
+    stepEffects(Math.min(simDt, dt * 4));      // marks fade at a pace the eye can follow
+    draw();
     updatePanel(false);
-    if (state.selNode === null && state.sel) {
-      drawSpectrum(state.sel); drawWell(state.sel); drawTrace(state.sel);
-    }
+    if (state.selNode === null && state.sel) { drawSpectrum(state.sel); drawLandscape(state.sel); drawTrace(state.sel); }
     requestAnimationFrame(frame);
   }
 
@@ -943,4 +1143,7 @@
   newField(false);
   updatePanel(true);
   requestAnimationFrame(frame);
+
+  // for tests: the running field
+  window.VeldPage = { field: function () { return field; }, state: state, countName: countName };
 })();

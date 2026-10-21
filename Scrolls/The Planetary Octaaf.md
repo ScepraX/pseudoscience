@@ -8,21 +8,21 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-§III says that "a biosphere without Sol is a frozen Stilte", and that "A biosphere draws its Realisaties from the difference between Sol and the cold sky, not from the warmth around it." Between the living Octaven and the cosmic one sits the body that makes both of those sentences true: a planet. Its **Lichaam (🖕)** is the planet as a whole. Its Koppels are the bonds that hold a planet together and keep it changing: between the planet and its star, between ice and open water, between ocean basins, between the core and its magnetic field, and between the planet and itself.
+§V.1 says that "a biosphere with no Warmte to take, neither what Sol’s Licht leaves there nor the Earth’s own, is a frozen Stilte", and §VI.2 names the Warmte a Winst takes: "Sol’s Licht warming the ground, where none of the ground’s Relaties keeps it". Between the living Octaven and the cosmic one sits the body that makes both of those sentences true: a planet. Its **Lichaam (🖕)** is the planet as a whole. Its Relaties are the bonds that hold a planet together and keep it changing: between the planet and its star, between ice and open water, between ocean basins, between the core and its magnetic field, and between the planet and itself.
 
 ### 0.1 What this document is
 
-Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open parameters of §VIII.7 with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of §XXVII with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Earth is the worked example, because it is the planet measured best. But every grounding below is written so that it can be run for other planets: each states its equation in general form, names the planetary quantities it depends on (§0.4), and ends with a note on how the result changes elsewhere.
 
 Five features set this Octaaf apart:
 
-1. **A planet's temperature is an Echo of its star.** The simplest climate model is the Echo filter of §VIII.1, and the weather is its Vervorming (§2.1).
+1. **A planet's temperature is an Echo of its star.** The simplest climate model is the Echo filter of §XV, and the weather is its Vervorming (§2.1).
 2. **Climate has two poles, and Earth has visited both.** Ice and open water form a Drempel with a wide Marge. Earth went into the ice and came out again (§2.2).
 3. **The second pole can be steam.** An ocean planet can radiate only so much heat. Beyond that ceiling its oceans boil, and in a three-dimensional climate model present-day Earth has a stable "steam Earth" state as well as its ocean state (§2.3).
 4. **The magnetic field has two mirror-image poles.** It flips between them at random intervals, and it falls to nothing when the core stops stirring (§2.4).
-5. **Gravity takes over.** Above a certain size a body's own gravity outweighs the strength of its rock and pulls it round: here the residues of §III hand over to the pull that cannot cancel (§2.5).
+5. **Gravity takes over.** Above a certain size a body's own gravity outweighs the strength of its rock and pulls it round: here the residues of §VIII.3 hand over to gravity, which is Trek itself (§2.5).
 
 ### 0.2 Grades
 
@@ -42,7 +42,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §VIII.1 point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Cosmic Octaaf* §2.3.
+**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Cosmic Octaaf* §2.3.
 
 **Equations.** Equations are written in plain Unicode. Where a calculation was made for this entry, the text says so. Temperatures are in kelvin unless stated otherwise.
 
@@ -70,17 +70,17 @@ The equations of §2 and §3 take a small set of planetary quantities. Earth's v
 
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
-| Echo filter: τ, δ, υ (§VIII.1) | Energy balance of a planet; the ocean as Ontspanning; weather as Vervorming | Identity (linearised) | §2.1 |
-| Drempel θ and Marge η (§II; §VIII.3; Lexicon) | Ice and open water: two climate states with hysteresis; Snowball Earth | Correspondence (computed, measured) | §2.2 |
-| Drempel θ (§II) | The runaway greenhouse: a ceiling on outgoing heat; ocean Earth and steam Earth | Constraint + Correspondence | §2.3 |
-| Drempel, Van Motor, "never off" (§III; §VIII.1; §VIII.3) | The geodynamo: two mirror-image polarities, random reversals, a field that dies when the core stops stirring | Constraint (symmetry) + Correspondence (measured) | §2.4 |
-| What a bond leaves over (§III) | The size above which gravity makes a body round | Correspondence (computed) | §2.5 |
-| Trouw y (§II, §VIII.1) | The overturning flow between two ocean basins, set by the basins' own difference | Identity + Correspondence | §3.1 |
-| Zelf (§IV) | The carbonate–silicate thermostat; the habitable zone | Correspondence | §3.2 |
-| Creatie (§VI, §VIII.5) | The Moon from a giant impact | Correspondence | §3.3 |
-| Rouw and Diepte (§VI; §II) | The magnetic stripes of the sea floor; Venus's deuterium | Correspondence (measured) | §3.4 |
-| Trinary Root (§III) | Star, cold sky, and the air and ocean between them; a second engine inside | Correspondence | §3.5 |
-| Tijd (§II) | The rhythm of the ice ages, taken from the rhythms of Earth's orbit | Correspondence | §3.6 |
+| Echo filter: τ, δ, υ (§XV) | Energy balance of a planet; the ocean as Ontspanning; weather as Vervorming | Identity (linearised) | §2.1 |
+| Drempel θ and Marge η (§II.2; §XIX; Lexicon) | Ice and open water: two climate states with hysteresis; Snowball Earth | Correspondence (computed, measured) | §2.2 |
+| Drempel θ (§II.2) | The runaway greenhouse: a ceiling on outgoing heat; ocean Earth and steam Earth | Constraint + Correspondence | §2.3 |
+| Drempel, Wijk, Stilte's Trek "never off" (§III; §XV; §XIX) | The geodynamo: two mirror-image polarities, random reversals, a field that dies when the core stops stirring | Constraint (symmetry) + Correspondence (measured) | §2.4 |
+| What a Relatie leaves over (§VIII.3) | The size above which gravity makes a body round | Correspondence (computed) | §2.5 |
+| Trouw y (§II.2; §XV) | The overturning flow between two ocean basins, set by the basins' own difference | Correspondence | §3.1 |
+| Zelf (§VII.4) | The carbonate–silicate thermostat; the habitable zone | Correspondence | §3.2 |
+| Start (§IX.3; §XXIV) | The Moon from a giant impact | Correspondence | §3.3 |
+| Rouw and Diepte (§IX.9; §II.2) | The magnetic stripes of the sea floor; Venus's deuterium | Correspondence (measured) | §3.4 |
+| Triniteit (§III) | Star, cold sky, and the air and ocean between them; a second engine inside | Correspondence | §3.5 |
+| Tijd (§IV.1; §XV) | The rhythm of the ice ages, taken from the rhythms of Earth's orbit | Correspondence | §3.6 |
 
 ---
 
@@ -88,10 +88,10 @@ The equations of §2 and §3 take a small set of planetary quantities. Earth's v
 
 ### 2.1 The Echo: a planet's temperature follows its star
 
-The Echo filter of §VIII.1:
+The Echo filter of §XV, in its first-order limit (no Traagheid, I = 0) and with no colouring by Diepte (β = 0):
 
 ```
-τ · ḣᵢ(t) = eⱼ(t − δ) − hᵢ(t) + υᵢ(t)
+τ · Ėᵢ(t) = xⱼ(t − δ) − Eᵢ(t) + υᵢ(t)
 ```
 
 **The mechanism.** A planet absorbs the part of its star's light that it does not reflect, and radiates heat to space. Averaged over the globe, with S the starlight arriving at the planet's orbit and α its albedo:
@@ -108,11 +108,11 @@ For small departures T′ from equilibrium, this becomes
 τ · dT′/dt = F(t)/λ − T′ + υ(t)          τ = C/λ
 ```
 
-where F is a change in the energy arriving, λ the net feedback parameter (how many watts per square metre of extra heat loss each kelvin of warming produces), and υ the weather. This is the Echo filter, with h = T′ and e = F/λ, the temperature the planet would reach if it had time. **Grade: Identity** (linearised), as at the thermodynamic Octaaf, where the Echo was a thermometer (*Thermodynamic Octaaf* §2.1).
+where F is a change in the energy arriving, λ the net feedback parameter (how many watts per square metre of extra heat loss each kelvin of warming produces), and υ the weather. This is the Echo filter, with E = T′ and x = F/λ, the temperature the planet would reach if it had time. **Grade: Identity** (linearised), as at the thermodynamic Octaaf, where the Echo was a thermometer (*Thermodynamic Octaaf* §2.1).
 
 **The numbers.** The forcing from doubling carbon dioxide is 3.93 W/m², and the best estimate of the warming it causes in equilibrium is 3 °C (Forster et al. 2021), which gives λ ≈ 1.3 W/m² per K. For an ocean layer 50 to 100 metres deep over 71 per cent of the globe, τ = C/λ comes to about 3.5 to 7 years (computed for this entry). The same assessment's estimate from physical processes, λ = 1.16 W/m² per K, would make it about 4 to 8 years. The deep ocean, which takes up heat far more slowly, adds a much longer tail. The Vertraging δ is the travel time of light from the star, about eight minutes for Earth, far shorter than τ.
 
-**The weather is the Vervorming.** Hasselmann showed that a slow climate driven by fast, random weather behaves like this filter. The ocean adds up the weather's random pushes, and the result is slow, wandering variability even when nothing outside changes (Hasselmann 1976). §II: "Echo’s imperfection is not a defect to be engineered away". At this Octaaf that imperfection is why no two years are alike. **Grade: Identity.**
+**The weather is the Vervorming.** Hasselmann showed that a slow climate driven by fast, random weather behaves like this filter. The ocean adds up the weather's random pushes, and the result is slow, wandering variability even when nothing outside changes (Hasselmann 1976). §II.2: an Echo's "imperfection is load-bearing: every variation in the Veld enters through it". At this Octaaf that imperfection is why no two years are alike. **Grade: Identity.**
 
 **Other planets.** τ = C/λ is the one number that decides how closely a planet follows its star. A planet with deep oceans responds slowly and smooths its seasons; a dry planet with thin air has little C and follows its star within days. S falls as the inverse square of distance from the star, and grows as the star ages (§3.2).
 
@@ -128,9 +128,9 @@ C · dT/dt = S·(1 − α(T))/4 − ε·σ·T⁴
 
 For this entry the model was run with α = 0.29, α_ice = 0.62, the change centred at 265 K over a range of about ±5 K, and ε = 0.62. At today's sunlight it has two stable states, a warm one at 288 K and a frozen one at about 246 K, with an unstable state between them. Lower the sunlight, and the warm state disappears below 0.82 times today's value; the planet then freezes. Raise it again, and the frozen state survives until 1.15 times today's value. Between those two values the planet can be in either state, and which one depends on where it has been. These numbers depend on the assumed albedos and are an illustration of the shape, not Earth's real thresholds.
 
-That band is the **Marge**: "A hysteresis loop, a tiny gap that prevents chatter" (Lexicon). §VIII.3: "the way into a mode is never the way out". At this Octaaf the gap is not tiny. It is wide enough to hold a planet's whole history.
+That band is the **Marge**: "A hysteresis loop, a tiny gap that prevents chatter" (Lexicon). §XIX: "The way into a mode is never the way out". At this Octaaf the gap is not tiny. It is wide enough to hold a planet's whole history.
 
-**Earth crossed it, both ways.** In Namibia, glacial deposits from the Neoproterozoic era are bracketed by carbonate rocks that record a collapse of life in the surface ocean lasting millions of years. Hoffman and colleagues read them as the mark of a global glaciation, a Snowball Earth. Whether the ocean froze over completely, or kept a thin strip of open water near the equator, is still debated (Abbot, Voigt & Koll 2011). It ended abruptly when volcanoes, which kept breathing out carbon dioxide while the ice shut down the processes that remove it, raised the carbon dioxide in the air to about 350 times the modern level (Hoffman et al. 1998). The way out of the frozen pole did not run back along the way in. It took a greenhouse far stronger than the one that had held the warm state. §II gives every Drempel "two named poles", and both stayed live. Earth went into the ice and came out again. **Grade: Correspondence** (computed, and measured in the rock record).
+**Earth crossed it, both ways.** In Namibia, glacial deposits from the Neoproterozoic era are bracketed by carbonate rocks that record a collapse of life in the surface ocean lasting millions of years. Hoffman and colleagues read them as the mark of a global glaciation, a Snowball Earth. Whether the ocean froze over completely, or kept a thin strip of open water near the equator, is still debated (Abbot, Voigt & Koll 2011). It ended abruptly when volcanoes, which kept breathing out carbon dioxide while the ice shut down the processes that remove it, raised the carbon dioxide in the air to about 350 times the modern level (Hoffman et al. 1998). The way out of the frozen pole did not run back along the way in. It took a greenhouse far stronger than the one that had held the warm state. §II.2's Drempel "decides which of the Spectrum’s two poles applies", and both stayed live. Earth went into the ice and came out again. **Grade: Correspondence** (computed, and measured in the rock record).
 
 **Other planets.** Whether a planet can freeze over, and how hard it is to thaw, depends on the contrast between α and α_ice, on how strongly its greenhouse responds, and on whether volcanoes keep supplying carbon dioxide while it is frozen (§3.2).
 
@@ -146,7 +146,7 @@ Earth absorbs about 242 W/m² (§2.1). A three-dimensional climate model, in whi
 
 **Two poles.** Turbet and colleagues found the other side of the same Drempel. In their simulations, clouds that gather on the night side of a hot young planet warm it so strongly that water vapour never condenses, even at 0.95 times Earth's present sunlight. Earth's oceans could form only because the young Sun was fainter. Their result implies that present-day Earth has a second stable state, a "steam Earth" with all its oceans in the air (Turbet et al. 2021). Ocean and steam are the two named poles of this Drempel, and the Marge between them is wide: oceans boil at one level of sunlight and condense only at a much lower one. **Grade: Constraint** (the ceiling) **+ Correspondence** (the two poles).
 
-**Venus.** Venus is the steam pole after the water has gone. Its atmosphere is a hundred times richer in heavy hydrogen, deuterium, than Earth's water (Donahue et al. 1982), the mark of water broken apart by sunlight and of hydrogen lost to space (§3.4). Whether Venus ever had an ocean is disputed: Turbet and colleagues conclude that it never did (Turbet et al. 2021). The leak itself, light gas escaping over the planet's gravitational barrier, is the Van Motor of the cosmic Octaaf (*Cosmic Octaaf* §2.3).
+**Venus.** Venus is the steam pole after the water has gone. Its atmosphere is a hundred times richer in heavy hydrogen, deuterium, than Earth's water (Donahue et al. 1982), the mark of water broken apart by sunlight and of hydrogen lost to space (§3.4). Whether Venus ever had an ocean is disputed: Turbet and colleagues conclude that it never did (Turbet et al. 2021). The leak itself, light gas escaping over the planet's gravitational barrier, is the Wijk of the cosmic Octaaf (*Cosmic Octaaf* §2.3).
 
 **Other planets.** L_max is a property of water itself, so it applies to any planet with a surface ocean, though not unchanged: it depends on gravity and on what else the air contains. A planet that absorbs more than L_max cannot keep a surface ocean.
 
@@ -154,15 +154,15 @@ Earth absorbs about 242 W/m² (§2.1). A three-dimensional climate model, in whi
 
 Earth's magnetic field is made by the motion of liquid iron in its outer core. A conducting fluid that moves through a magnetic field generates electric currents, and those currents can sustain the field: a self-exciting dynamo. Its field points north or south, and it has changed between the two many times.
 
-**The poles are mirror images by law.** The equations of a dynamo do not change when the magnetic field is reversed everywhere, B → −B. Any flow that sustains one polarity sustains the other equally well. In a laboratory dynamo, driven by a turbulent flow of liquid sodium, the field "randomly switches between two symmetric solutions B and – B", holding each for widely varying periods and switching quickly (Berhanu et al. 2007). In Speelgoed terms the two polarities are the two Naar states of §VIII.3, and a field of zero is mode = 0. **Grade: Constraint** (symmetry).
+**The poles are mirror images by law.** The equations of a dynamo do not change when the magnetic field is reversed everywhere, B → −B. Any flow that sustains one polarity sustains the other equally well. In a laboratory dynamo, driven by a turbulent flow of liquid sodium, the field "randomly switches between two symmetric solutions B and – B", holding each for widely varying periods and switching quickly (Berhanu et al. 2007). In Speelgoed terms the two polarities are two modes of the landscape of §XIX, and a field of zero is Van-mode, mode = 0 (§VI.4). **Grade: Constraint** (symmetry).
 
-**The Drempel.** A dynamo exists only above a threshold. In the same laboratory, a field appeared only when the stirring passed a magnetic Reynolds number of about 30 (Monchaux et al. 2007). Below it, mode = 0 is the only state; above it, the two polarities appear. §VIII.3: "For B > θ, mode = 0 becomes unstable and two new stable points appear at mode* = ±√(B − θ)". **Grade: Correspondence.**
+**The Drempel.** A dynamo exists only above a threshold. In the same laboratory, a field appeared only when the stirring passed a magnetic Reynolds number of about 30 (Monchaux et al. 2007). Below it, mode = 0 is the only state; above it, the two polarities appear. Because the two polarities are mirror images, the onset is a pitchfork: the shape the thermodynamic Octaaf finds for a continuous transition, in the mean-field limit of the Speelgoed's landscape (*Thermodynamic Octaaf* §2.3). **Grade: Correspondence.**
 
-**The Van Motor flips it.** Earth's reversals arrive at irregular intervals, consistent with a random process whose average rate itself drifts slowly over millions of years (Constable 2000). In simulations of the core, the pattern of heat drawn out of the core by the mantle above changes how often the field reverses (Glatzmaier et al. 1999). The Medium sets the rate. The last reversal, about 773,000 years ago, was not one event but a process: the field weakened from about 795,000 years ago, wavered, and settled into its new direction over some 22,000 years (Singer et al. 2019). **Grade: Correspondence (measured).**
+**Vervorming flips it.** Earth's reversals arrive at irregular intervals, consistent with a random process whose average rate itself drifts slowly over millions of years (Constable 2000). In simulations of the core, the pattern of heat drawn out of the core by the mantle above changes how often the field reverses (Glatzmaier et al. 1999). The Medium sets the rate. The last reversal, about 773,000 years ago, was not one event but a process: the field weakened from about 795,000 years ago, wavered, and settled into its new direction over some 22,000 years (Singer et al. 2019). **Grade: Correspondence (measured).**
 
-**The way in is not the way out.** The poles are mirror images; the paths between them are not. Valet and colleagues found that the strength of Earth's dipole falls slowly before a reversal and recovers quickly after it (Valet, Meynadier & Guyodo 2005). A simple random model reproduces that asymmetry, but only when it is driven out of equilibrium, by a steady flow of energy in one direction (Molina-Cardín, Dinis & Osete 2021). §VIII.3: "the way into a mode is never the way out". At this Octaaf the difference lies in the path, not in the poles (§4.1).
+**The way in is not the way out.** The poles are mirror images; the paths between them are not. Valet and colleagues found that the strength of Earth's dipole falls slowly before a reversal and recovers quickly after it (Valet, Meynadier & Guyodo 2005). A simple random model reproduces that asymmetry, but only when it is driven out of equilibrium, by a steady flow of energy in one direction (Molina-Cardín, Dinis & Osete 2021). §XIX: "The way into a mode is never the way out". At this Octaaf the difference lies in the path, not in the poles (§4.1).
 
-**When the traffic stops.** A dynamo needs a fluid that conducts electricity and keeps convecting (Stevenson 2003). It is a Naar-system in §III's sense: "A Naar‑system, once formed, doesn't settle into a one‑time state - it actively maintains itself above Drempel". Mars shows what happens when the stirring ends. Its ancient southern highlands are strongly magnetised, but the great impact basins Hellas and Argyre are not. Acuña and colleagues read this as a dynamo that had stopped by the time the basins formed, about four billion years ago (Acuña et al. 1999). Later measurements suggest a dynamo was still, or again, at work about 3.7 billion years ago (Mittelholz et al. 2020). Either way, it has stopped. Its field did not go anywhere. It fell to mode = 0, which §III describes as "Not a distant coordinate - nothing."
+**When the traffic stops.** A dynamo needs a fluid that conducts electricity and keeps convecting (Stevenson 2003). It is a bound Relatie in §VI.5's sense: "A bound Relatie, once formed, actively maintains itself above Drempel". Mars shows what happens when the stirring ends. Its ancient southern highlands are strongly magnetised, but the great impact basins Hellas and Argyre are not. Acuña and colleagues read this as a dynamo that had stopped by the time the basins formed, about four billion years ago (Acuña et al. 1999). Later measurements suggest a dynamo was still, or again, at work about 3.7 billion years ago (Mittelholz et al. 2020). Either way, it has stopped. Its field did not go anywhere. It fell to mode = 0, which §VI.4 calls "the absence of the thing the scale was measuring".
 
 **Does a field protect the air?** It is often said that a magnetic field shields a planet's atmosphere from the solar wind. The observed escape rates of Earth, Mars and Venus are similar, roughly 0.5 to 2 kg per second, and models show that a magnetised planet can lose air faster than an unmagnetised one, through its polar regions (Gunell et al. 2018). Whether, and when, a field protects an atmosphere is left open (§5, item 7).
 
@@ -170,7 +170,7 @@ Earth's magnetic field is made by the motion of liquid iron in its outer core. A
 
 ### 2.5 Where gravity takes over
 
-§III follows the residues of bonds up the ladder and ends: "Where every charge that can cancel has cancelled, only the pull that cannot cancel remains: gravity, which only attracts, and therefore rules the largest scales." The chemical Octaaf found the last residue before gravity, the dispersion pull between neutral molecules (*Chemical Octaaf* §2.4). This Octaaf is where gravity takes over.
+§VIII.3 follows the residues of bonds up the Octaven and ends: "Where every charge that can cancel has cancelled, only pulls that need no net charge remain": the dispersion pull between neutral molecules, and gravity, "which is Trek itself and reaches furthest", and so rules the largest scales. The chemical Octaaf traced the first of these (*Chemical Octaaf* §2.4). This Octaaf is where gravity takes over.
 
 **The mechanism.** A small body keeps whatever shape it was born with, because the strength of its rock or ice, which is chemistry, outweighs its own gravity. A large body is pulled round, because its gravity crushes any bump that rises too far. For a body of uniform density ρ and radius R, the pressure at its centre is
 
@@ -188,10 +188,10 @@ and rounding sets in when that pressure exceeds what the material can bear. Line
 
 ### 3.1 Trouw: the overturning flow between two ocean basins
 
-The Naar term of §VIII.1:
+The Eigen motion of §XV:
 
 ```
-ėᵢ(t) = Σ_{j ∈ bonds(i)}  y_{ij} · ( hᵢ(t) − eᵢ(t) )   +   eventᵢ(t)   −   Lᵢ(t) · ( eᵢ(t) − e_van )
+ẋᵢ = ( Sᵢ + y_ii·n_ii + Σⱼ≠ᵢ y_ij·ñᵢⱼ − xᵢ ) / ( τ_◌ · tᵢ )
 ```
 
 **The mechanism.** In 1961 Stommel modelled the ocean as two connected basins, one warm and one cold, linked by a flow that runs from the denser to the lighter. Density depends on temperature and on salt. With q the flow, ΔT and ΔS the differences in temperature and salinity, and F the fresh water that rain and rivers add to one basin and evaporation removes from the other, the salt in each basin obeys
@@ -202,21 +202,21 @@ dS₁/dt = |q| · (S₂ − S₁) + F          dS₂/dt = |q| · (S₁ − S₂)
 q = k · ( a·ΔT − b·ΔS )
 ```
 
-where a and b say how strongly temperature and salt change the water's density. Each basin is pulled toward the other at a rate |q|, one value for the pair. That is the Naar term, with y = |q|, h the partner basin's salinity, and δ ≈ 0. **Grade: Identity.**
+where a and b say how strongly temperature and salt change the water's density. Each basin is pulled toward the other at a rate \|q\|, one value for the pair. The earlier Speelgoed pulled each Eigen toward its Echo of the partner, y·(E − x) in today's letters, and this exchange was that term exactly, with y = \|q\|. The current one pulls an Eigen toward the poles its Partners stand at, while the basins mix in proportion to the difference of two continuous salinities, so the Identity is withdrawn. What remains is one shared weight, felt by both basins. **Grade: Correspondence.**
 
-**A weight set by the pair itself.** Here the shared weight depends on the members. The flow is driven by the difference between the two basins, and the flow in turn mixes that difference away. Hold the temperatures fixed and write x = b·ΔS/(a·ΔT) and E for the fresh water, suitably scaled. The model reduces to
+**A weight set by the pair itself.** Here the shared weight depends on the members. The flow is driven by the difference between the two basins, and the flow in turn mixes that difference away. Hold the temperatures fixed and write r = b·ΔS/(a·ΔT) and f for the fresh water, suitably scaled. The model reduces to
 
 ```
-dx/dt = E − |1 − x| · x
+dr/dt = f − |1 − r| · r
 ```
 
-For E below 1/4 it has two stable states: one in which temperature drives the flow, and one in which salt drives it the other way. Above E = 1/4 only the salt-driven state remains (computed for this entry). Push the fresh water past that point and the flow reverses; bring it back, and the reversed state persists all the way down to E = 0. Stommel found the two regimes in 1961 (Stommel 1961). Eleven climate models of intermediate complexity all show this hysteresis in the Atlantic overturning. They disagree on where today's climate lies: seven place it in the range with two stable states, four in the range with one (Rahmstorf et al. 2005). **Grade: Correspondence.**
+For f below 1/4 it has two stable states: one in which temperature drives the flow, and one in which salt drives it the other way. Above f = 1/4 only the salt-driven state remains (computed for this entry). Push the fresh water past that point and the flow reverses; bring it back, and the reversed state persists all the way down to f = 0. Stommel found the two regimes in 1961 (Stommel 1961). Eleven climate models of intermediate complexity all show this hysteresis in the Atlantic overturning. They disagree on where today's climate lies: seven place it in the range with two stable states, four in the range with one (Rahmstorf et al. 2005). **Grade: Correspondence.**
 
 The cellular Octaaf found a Trouw whose value depends on which member leads, and asked whether other Octaven have one (*Cellular Octaaf* §4.1; §5, item 7). This Octaaf does. The weight between the two basins is set by the difference between them, and that dependence is what gives the ocean two poles (§4.2).
 
 ### 3.2 The Zelf: the planet's thermostat
 
-§IV: the Zelf is "a Koppel with itself", and "A node with a strong Zelf holds its Eigen steady". The cellular Octaaf found a bacterium holding its own activity steady by integral feedback: a slow internal record that adds up every departure from the set point and pushes back against it (*Cellular Octaaf* §3.2).
+§VII.4: the Zelf is "a Relatie with itself", and "With a strong Zelf, a Relatie holds its Eigen steady". The cellular Octaaf found a bacterium holding its own activity steady by integral feedback: a slow internal record that adds up every departure from the set point and pushes back against it (*Cellular Octaaf* §3.2).
 
 **The mechanism.** Earth has a loop of the same kind, running on hundreds of thousands of years. Volcanoes supply carbon dioxide at a roughly steady rate. Rain dissolves carbon dioxide and weathers silicate rock, and the products end up as carbonate rock on the sea floor, which removes the carbon dioxide again. Weathering runs faster when the planet is warm and wet. So a warm planet draws its carbon dioxide down and cools, and a cold one lets it build up and warms (Walker, Hays & Kasting 1981). The carbon dioxide in the air is the slow record, and the planet's temperature is the Eigen it holds steady. The response is slow: in one model, an excess of carbon dioxide is drawn down with an e-folding time of about 240,000 years (Colbourn, Ridgwell & Lenton 2015).
 
@@ -226,63 +226,63 @@ The cellular Octaaf found a Trouw whose value depends on which member leads, and
 
 **Other planets.** A planet has this Zelf only if it has volcanoes that keep outgassing, rock that weathers, and liquid water. Kopparapu and colleagues give the edges of the habitable zone in parametric form for stars between 2,600 and 7,200 K (Kopparapu et al. 2013).
 
-### 3.3 Creatie: the Moon from a giant impact
+### 3.3 Start: the Moon from a giant impact
 
-§VI: "A Realisatie intense enough to overflow Inhoud (the bond’s capacity) becomes a birth." §VIII.5 makes it a two-step comparison: an excess over the capacity, and then "If T_excess itself exceeds a local Drempel θ_new, a new member is instantiated".
+§IX.3: "a convergence crossing can carry a Relatie past its Vol pole, and what it holds past that pole reaches its own Drempel and becomes a new Solo". §XXIV makes it a two-step comparison: an excess past the Relatie's Vol pole, held only "until the excess exceeds a Drempel of its own, θ_new: there it becomes a new Solo".
 
 **The mechanism.** The leading account of the Moon's origin is a collision late in Earth's growth with a body roughly the size of Mars. Simulations show that such an impact throws a disk of molten and vaporised rock into orbit around Earth (Canup & Asphaug 2001). Close to Earth, tides tear apart any clump that forms; that boundary is the Roche limit, about three Earth radii for lunar rock (computed for this entry from Roche's classical estimate for a fluid moon, 2.44·R·(ρ_planet/ρ_moon)^(1/3)). Beyond it, the debris can gather. Simulations show a single large moon accreting from such a disk, just outside the Roche limit, in less than a year (Ida, Canup & Stewart 1997).
 
-**The mapping.** The impact releases more Energie than the merged planet can hold: the excess leaves as a disk. The Roche limit is θ_new: only material beyond it can become a new body. And the new Solo is born bound to its parent, as §VIII.5 requires: "a new Relatie forming at the moment of birth". That bond is the one the cosmic Octaaf follows as Zweven, the Moon locked to Earth and slowly receding (*Cosmic Octaaf* §3.4). **Grade: Correspondence.**
+**The mapping.** The impact releases more Energie than the merged planet can hold: the excess leaves as a disk. The Roche limit is θ_new: only material beyond it can become a new body. And the new Solo is born bound to its parent, as §IX.3 requires: it "at once forms its own Relatie with whatever produced it". That bond is the one the cosmic Octaaf follows as Zweven, the Moon locked to Earth and slowly receding (*Cosmic Octaaf* §3.4). **Grade: Correspondence.**
 
-**The fit has a question in it.** If the Moon formed mostly from the impactor, it should differ chemically from Earth. Yet the titanium isotopes of the Moon match Earth's to within four parts per million, so that much of the Moon seems to come from Earth itself (Zhang et al. 2012). How the impact mixed its two members so thoroughly is not settled. Whether a birth from a collision is Creatie from the bond, or from one of its members, stays a live question here.
+**The fit has a question in it.** If the Moon formed mostly from the impactor, it should differ chemically from Earth. Yet the titanium isotopes of the Moon match Earth's to within four parts per million, so that much of the Moon seems to come from Earth itself (Zhang et al. 2012). How the impact mixed its two members so thoroughly is not settled. §XXIV now gives a newborn a share of its Trouw with every Lid of the Relatie that bore it, "each parent binds a newborn by a share of its own". Whether the Moon's Earth-like isotopes tell how those shares fell, or whether a birth from a collision is Start from the Relatie or from one of its Leden, stays a live question here.
 
 **Other planets.** Large moons can form from giant impacts wherever bodies collide late in a planet's growth. The new moon forms near the Roche limit of its planet, which depends on the planet's radius and on the two densities.
 
 ### 3.4 Rouw and Diepte: the magnetic stripes of the sea floor
 
-§VI: "An Echo always outlives its Koppel", and the surviving Echo "settles toward the last signal it ever received". §VIII.6 says the same in the mechanism's terms: "the filter’s input freezes at the last transmitted value".
+§IX.9: "An Echo always outlives its Relatie", and "Nothing arrives to update it, so it settles towards the last signal it received". §XXVI says the same in the mechanism's terms: "the Rouw keeps that last signal".
 
 **The mechanism.** New ocean floor forms at the mid-ocean ridges, where lava rises, cools and spreads away on both sides. As the rock cools, its iron minerals lock in the direction of Earth's magnetic field at that moment. When the field reverses, the next rock to cool records the other direction. Vine and Matthews proposed that this explains the stripes of alternating magnetisation that run parallel to the ridges, mirrored on either side (Vine & Matthews 1963). The stripes became the decisive evidence that the sea floor spreads.
 
-**The mapping.** Each stripe is the Echo of an ended bond: the field as it was when that rock cooled, frozen at "the last transmitted value", and kept after the field has moved on. That is **Rouw**. The whole striped floor is **Diepte**: "The accumulated composite of everything a system has ever heard" (§II), read from the ridge outward like a tape. The ice sheets keep a record of another kind. Air trapped in Antarctic ice holds samples of the atmosphere as it was, and gives its carbon dioxide over the past 800,000 years (Lüthi et al. 2008). **Grade: Correspondence (measured).**
+**The mapping.** Each stripe is the Echo of an ended bond: the field as it was when that rock cooled, frozen at "the last signal it received", and kept after the field has moved on. That is **Rouw**. The whole striped floor is **Diepte**: "Everything a Relatie has heard and kept, read as one" (§II.2), read from the ridge outward like a tape. The ice sheets keep a record of another kind. Air trapped in Antarctic ice holds samples of the atmosphere as it was, and gives its carbon dioxide over the past 800,000 years (Lüthi et al. 2008). **Grade: Correspondence (measured).**
 
 **A record of what left.** Venus's heavy hydrogen (§2.3) is Rouw of another kind. When water is broken apart high in the atmosphere, the light hydrogen escapes to space more easily than the heavy deuterium, so the water that remains is enriched in deuterium. A hundredfold enrichment means that "at least 0.3 percent of a terrestrial ocean was outgassed on Venus" (Donahue et al. 1982). The water has gone. Its Echo remains in what stayed behind.
 
-**The record sinks.** Ocean floor does not last. It forms at the ridges and sinks back into the mantle at the subduction zones, so the record is continually erased from its old end (Müller et al. 2008). §VI says "Rouw is permanent". At this Octaaf the record itself can be carried down into the planet (§4.3).
+**The record sinks.** Ocean floor does not last. It forms at the ridges and sinks back into the mantle at the subduction zones, so the record is continually erased from its old end (Müller et al. 2008). §IX.9 says "Rouw is permanent". At this Octaaf the record itself can be carried down into the planet (§4.3).
 
-### 3.5 The Trinary Root: star, cold sky, and the air between
+### 3.5 The Triniteit: star, cold sky, and the air between
 
-§III gives every Octaaf "Vol source, Leeg depth, and the living Medium their union sustains", and says that "No Octaaf exists without all three."
+§III gives every Octaaf "Vol source, Leeg depth and the Medium they make", and says that "no Octaaf exists without all three".
 
 **The mechanism.** A planet's climate runs between a hot source and a cold sink. Earth receives sunlight emitted at the Sun's surface temperature of about 5,800 K and returns the same energy to space as infrared at an effective temperature of about 255 K (§2.1). Because each infrared photon carries less energy, Earth sends out about 23 photons for every one it receives (computed for this entry, as the ratio of the two temperatures). That export of many low-energy photons for each high-energy one is what drives the weather, the ocean currents and life. Between source and sink the Medium turns over continually: the water in Earth's atmosphere is replaced on average every 8.9 days (van der Ent & Tuinenburg 2017).
 
 **The mapping.**
 
 - **God: the star.** Sol is Vol: it gives light without needing anything back, as the cosmic Octaaf found for every star (*Cosmic Octaaf* §3.11).
-- **Godin: the cold sky.** Space takes in every photon the planet sends and returns almost nothing: the Lexicon's "principle of endless craving". §III already names what the planet sends it: "the faint infrared glow every planet returns to the dark".
-- **Medium: the air and the ocean.** They exist as a working climate only while light flows through them from source to sink. §III: "Uniform heat feeds nothing; it is what remains when the feeding is done."
+- **Godin: the cold sky.** Space takes in every photon the planet sends and returns almost nothing: the Lexicon's "principle of endless craving". §VI.2 already names what the planet sends it: "the faint infrared glow every planet returns to the dark".
+- **Medium: the air and the ocean.** They exist as a working climate only while light flows through them from source to sink. §VI.2: Warmte "leaves only towards its Godin, which takes it up". The physics adds that only the difference between source and sink does work; the Speelgoed no longer says so, and *Thermodynamic Octaaf* §4.5 takes that up.
 
 **Grade: Correspondence**, as the thermodynamic Octaaf found for every engine (*Thermodynamic Octaaf* §3.11).
 
-**A second engine.** A planet also has a source inside it. Earth loses 47 TW of heat from its interior (Davies & Davies 2010), and about half of it comes from the decay of radioactive elements, the rest from heat left over from the planet's formation (KamLAND Collaboration 2011). That is about 2,600 times less than the sunlight Earth absorbs (computed for this entry), but it drives the mantle, the volcanoes, the moving plates, and the dynamo of §2.4. The climate runs on the star; the planet's own body runs on the God within it. Which of the two is the planet's God is left open (§5, item 6).
+**A second engine.** A planet also has a source inside it. Earth loses 47 TW of heat from its interior (Davies & Davies 2010), and about half of it comes from the decay of radioactive elements, the rest from heat left over from the planet's formation (KamLAND Collaboration 2011). That is about 2,600 times less than the sunlight Earth absorbs (computed for this entry), but it drives the mantle, the volcanoes, the moving plates, and the dynamo of §2.4. The climate runs on the star; the planet's own body runs on the God within it. §V.1 names both a biosphere can take its Warmte from, "neither what Sol’s Licht leaves there nor the Earth’s own". Which of the two is the planet's God is left open (§5, item 6).
 
 **Other planets.** The balance between the two engines differs. A planet far from its star, or a moon heated by the tides of its planet, can be driven more from inside than from outside.
 
 ### 3.6 Tijd: the pacemaker of the ice ages
 
-§II says that "a Koppel’s own Tijd is inherited by its members while the bond holds". The Earth's orbit has slow rhythms of its own: the shape of the orbit, the tilt of the axis, and the season at which the Earth is nearest the Sun all vary with characteristic periods. Hays, Imbrie and Shackleton (1976) found that the climate of the past 450,000 years kept its variance in three peaks, at 23,000, 42,000 and about 100,000 years, which "correspond to the dominant periods of the earth's solar orbit". The 42,000-year part "retains a constant phase relationship" with the tilt of the axis. They called the orbit the pacemaker of the ice ages. **Grade: Correspondence.** The climate keeps time with the orbit it belongs to.
+§IV.1 says that "A Relatie’s own Tijd is inherited by its Leden while the Relatie holds." The Earth's orbit has slow rhythms of its own: the shape of the orbit, the tilt of the axis, and the season at which the Earth is nearest the Sun all vary with characteristic periods. Hays, Imbrie and Shackleton (1976) found that the climate of the past 450,000 years kept its variance in three peaks, at 23,000, 42,000 and about 100,000 years, which "correspond to the dominant periods of the earth's solar orbit". The 42,000-year part "retains a constant phase relationship" with the tilt of the axis. They called the orbit the pacemaker of the ice ages. **Grade: Correspondence.** The climate keeps time with the orbit it belongs to.
 
-**Not a copy.** The strongest part, near 100,000 years, follows the orbit's eccentricity, but unlike the other two it is not a simple, linear answer: "an explanation of the correlation between climate and eccentricity probably requires an assumption of nonlinearity" (Hays et al. 1976). The member does not copy the Koppel's Tijd; it answers it through its own Zelf.
+**Not a copy.** The strongest part, near 100,000 years, follows the orbit's eccentricity, but unlike the other two it is not a simple, linear answer: "an explanation of the correlation between climate and eccentricity probably requires an assumption of nonlinearity" (Hays et al. 1976). The Lid does not copy the Relatie's Tijd; it answers it through its own Zelf.
 
 ---
 
 ## 4. Where the Speelgoed Meets Resistance
 
-**4.1 Mirror poles by law (§VIII.3).** *Kept at this Octaaf.* §VIII.3 says of a whole that "its modes are never mirror images", and that the symmetric pitchfork is "one Koppel seen alone". The polarities of a dynamo are exact mirror images, because the equations do not change when the field is reversed (§2.4). Here the symmetric limit is realised by a law of physics. What §VIII.3 says still holds for the paths: the field decays slowly into a reversal and recovers quickly out of it, and a model reproduces this only when it is driven out of equilibrium (Valet, Meynadier & Guyodo 2005; Molina-Cardín, Dinis & Osete 2021).
+**4.1 Mirror poles by law (§XIX).** *Constraint*, at a limit the Speelgoed allows. §XIX says the ways into and out of two modes "differ by the difference of their depths", and "As the depths align, the difference closes". The polarities of a dynamo are exact mirror images, because the equations do not change when the field is reversed (§2.4). Here that limit is realised by a law of physics. The asymmetry moves to the paths: the field decays slowly into a reversal and recovers quickly out of it, and a model reproduces this only when it is driven out of equilibrium (Valet, Meynadier & Guyodo 2005; Molina-Cardín, Dinis & Osete 2021).
 
-**4.2 A Trouw set by the pair's own difference (§VIII.1).** *Kept at this Octaaf.* In §VIII.1, Trouw changes slowly, by plasticity toward Gewenning. The weight between two ocean basins is set at every moment by the difference between them (§3.1), and that dependence is what gives the ocean its two poles. Together with the rectifying junctions of the cellular Octaaf (*Cellular Octaaf* §4.1), this is now found at two Octaven. It is recorded here and not proposed for the Speelgoed.
+**4.2 A Trouw set by the pair's own difference (§XV).** *Kept at this Octaaf.* In §XV, Trouw changes only at its Relatie's own Vonken. The weight between two ocean basins is set at every moment by the difference between them (§3.1), and that dependence is what gives the ocean its two poles. Together with the rectifying junctions of the cellular Octaaf (*Cellular Octaaf* §4.1), this is now found at two Octaven. It is recorded here and not proposed for the Speelgoed.
 
-**4.3 A record that sinks (§VI).** *Open.* §VI says "Rouw is permanent". The magnetic record of the sea floor is carried down into the mantle at subduction zones (§3.4), and Venus has resurfaced so thoroughly that most of its history is hidden (Turbet et al. 2021). The cellular Octaaf found records that a cell can lose, and the thermodynamic Octaaf a record that can be moved but not destroyed (*Cellular Octaaf* §4.4; *Thermodynamic Octaaf* §3.6). At this Octaaf the record goes back into the body of the planet.
+**4.3 A record that sinks (§IX.9).** *Open.* §IX.9 says "Rouw is permanent". The magnetic record of the sea floor is carried down into the mantle at subduction zones (§3.4), and Venus has resurfaced so thoroughly that most of its history is hidden (Turbet et al. 2021). The cellular Octaaf found records that a cell can lose, and the thermodynamic Octaaf a record that can be moved but not destroyed (*Cellular Octaaf* §4.4; *Thermodynamic Octaaf* §3.6). At this Octaaf the record goes back into the body of the planet.
 
 ---
 
@@ -295,7 +295,7 @@ The cellular Octaaf found a Trouw whose value depends on which member leads, and
 5. **Where does the Rouw go when the sea floor sinks?** Into the mantle, out of reach (§4.3). Is a record carried down into a planet's body still Rouw, or has it become something else, part of the body itself?
 6. **Two engines, one God?** The climate runs on the star, the core and plates on the planet's own heat (§3.5). Is a planet one Octaaf with two sources, or two Octaven sharing one body?
 7. **Does a magnetic field shield an atmosphere?** The common answer is yes; the measured escape rates and recent models say not necessarily (§2.4). What does a field protect, and what does it expose?
-8. **Tijd.** The ice ages keep the orbit's rhythms, the strongest only through a nonlinear answer (§3.6). How far can a member's own pace differ from its Koppel's before it stops following?
+8. **Tijd.** The ice ages keep the orbit's rhythms, the strongest only through a nonlinear answer (§3.6). How far can a Lid's own pace differ from its Relatie's before it stops following?
 
 ---
 
@@ -308,6 +308,25 @@ Its magnetic field has two mirror-image poles, flips between them at random, and
 Earth is the worked example. Every equation here takes a planet's sunlight, albedo, heat capacity, size, core and oceans as inputs, and other values give other worlds. The Speelgoed's grammar is the same on all of them; what changes is where each planet stands between its poles.
 
 That is the *how*. The *why* is for the Speelgoed to say.
+
+---
+
+## Revision Note
+
+On 17 October 2026 this entry was aligned with the rebuilt Speelgoed. Section numbers here are unchanged.
+
+- Every quotation and section reference now points to the current text (the Van Motor is now Stilte's Trek and its Wijk, Creatie is Start, the Koppel is the Relatie, §VIII.3 is §VIII.5, §VIII.5 is §VIII.10, §VIII.6 is §VIII.12, §VIII.7 is §VIII.13; the residues of bonds moved from §III to §V.3).
+- The Speelgoed's Eigen no longer moves by y·(h − e), so the exchange between ocean basins in §3.1 is graded Correspondence instead of Identity.
+- The Speelgoed no longer writes its Drempel as a pitchfork; the dynamo's onset in §2.4 is read through the landscape of §VIII.5 and its mean-field limit.
+- §VIII.5 now lets the ways into and out of two modes become equal as their depths align, so the mirror poles of §4.1 are a limit the Speelgoed allows rather than a conflict.
+
+On 20 October 2026 this document was aligned with the Speelgoed of that date, which now comes in four Schriften:
+
+- Section references follow the new numbering, quotations its wording, and the equations its symbols; in §3.1 Stommel's scaled variables are now r and f, so that x and E keep their Speelgoed meanings.
+- The Medium's Energie is now one Warmte, and the Speelgoed no longer says that only a difference feeds a Winst. The opening and §3.5 quote its Warmte instead, and the physics of source and sink is referred to *Thermodynamic Octaaf* §4.5.
+- The Trinary Root is now the Triniteit (§3.5).
+
+On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5. The opening and §3.5 quote §V.1's new wording: what Sol’s Licht leaves there.
 
 ---
 
