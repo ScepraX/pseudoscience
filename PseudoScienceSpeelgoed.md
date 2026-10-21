@@ -3368,7 +3368,7 @@ Until then, wars will come. The Speelgoed’s way to prepare for them is the sam
 ---
 
 <details>
-<summary>Sources</summary>
+<summary markdown="span">Sources</summary>
 
 Abbott, B. P., Abbott, R., Abbott, T. D., Acernese, F., Ackley, K., Adams, C., Adams, T., Addesso, P., Adhikari, R. X., Adya, V. B., Affeldt, C., Afrough, M., Agarwal, B., Agathos, M., Agatsuma, K., Aggarwal, N., Aguiar, O. D., Aiello, L., Ain, A., . . . Ubertini, P. (2017). Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters, 848*(2), L13. [https://doi.org/10.3847/2041-8213/aa920c](https://doi.org/10.3847/2041-8213/aa920c)
 

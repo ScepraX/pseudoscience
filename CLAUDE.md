@@ -34,7 +34,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
   - `scripts.js` formats prose at runtime, so the `.md` keeps only its own `**` and `*`;
   - the Oracle copy is the one generated file: remake it with `python _tools/oracle.py` after every edit.
 
-  Keep the `.md` free of Liquid (`{{`, `{%`), kramdown attribute lists (`{:`) and `$$`, which Jekyll would interpret. A bare `|` in prose makes kramdown turn the line into a table; escape it as `\|`. Every chapter appears in the menu under its Schrift; one whose id must stay fixed for links goes in `CHAPTERS` there.
+  Keep the `.md` free of Liquid (`{{`, `{%`), kramdown attribute lists (`{:`) and `$$`, which Jekyll would interpret. A bare `|` in prose makes kramdown turn the line into a table; escape it as `\|`. The Sources' `<summary markdown="span">` keeps that attribute: without it kramdown never closes the summary, and the Sources show open. Every chapter appears in the menu under its Schrift; one whose id must stay fixed for links goes in `CHAPTERS` there.
 
   After editing, run `python _tools/oracle.py`, then `python _tools/check.py`. It reports:
   - kramdown hazards in every published `.md`;
