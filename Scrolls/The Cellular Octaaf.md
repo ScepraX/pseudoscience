@@ -155,7 +155,7 @@ Two consequences follow:
 
 ### 2.4 A cell is fed by a gradient
 
-§XIX: "A Winst is the crossing’s own Energie, T, taken at its Vonk from the Medium where it stands", and "what one holder lets go and another joins at the same Vonk only moves between them and is no Winst, so the Medium books only the difference". The Medium's Energie is its Warmte, and "A Winst happens only where the Warmte there can pay it" (§VI.2).
+§XIX: "A Winst is the crossing’s own Energie, T, taken at its Vonk from the Medium where it stands", and "what one holder hands another at the same Vonk, as an excess becomes its newborns’ Trouw (Start), only moves between them and is no Winst, so the Medium books only the rest". The Medium's Energie is its Warmte, and "A Winst happens only where the Warmte there can pay it" (§VI.2).
 
 **The mechanism.** Almost every cell that breathes or photosynthesises makes most of its ATP the same way. Electrons taken from food, or energised by light in a plant, pass along a chain of proteins in a membrane, and the chain uses their energy to pump protons across that membrane. The membrane becomes a dam, with more protons and more positive charge on one side. The protons can flow back only through ATP synthase, a rotary machine that turns as they pass and makes ATP from ADP and phosphate (Mitchell 1961). In animal mitochondria the rotor has eight proton-binding sites and makes three ATP per full turn, so each ATP costs about 2.7 protons. The rotor turns about a hundred times per second (Watt et al. 2010).
 
@@ -383,6 +383,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so the Parasiet now reads §L; and §XV now has a Lid's Tijd inherited by Greep, its own Zelf among what holds it, so §3.11 quotes that wording.
 
 Later that day the Speelgoed's §V.1 came to say that Voedsel gives up its Energie only at its crossing with its Octaaf's Godin, a Duo that crosses inside the eater, so §2.4 and §4.2 quote that wording.
+
+On 22 October 2026 the Speelgoed's §XIX came to name what one holder hands another at a Vonk, as an excess becomes its newborns' Trouw, so §2.4 quotes that wording.
 
 ---
 

@@ -82,7 +82,7 @@ Cartwright and Harary carried the idea from triads to whole groups. When every m
 
 Built from signs alone, that landscape has mirror-image camps: swapping them changes nothing. In the landscape of §XIX that is a limit, reached only where every member's Leeg is tuned so that the depths align, for "Its Leeg tilts the depths, so the Marge and the Leeg are one asymmetry". Real groups add exactly those leans and standings, and the mirror breaks.
 
-The unit of balance is the triad: three people and their three bonds. §VIII.1 now checks its **Trio** against this very theory: "Whether three friends and enemies sit easily is the product of their three signs, which no single pair carries", and the triangle that online networks avoid most "is a member whose two friends are enemies of each other". The Trio is also "the first in which two can lean together against one". Between the two camps of a balanced group the Trouw is negative. That is the Relatie §LI calls a war when it is fought: "a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest", in which "Each Relatie acts as one Lid at the war’s Octaaf, whatever its size". **Grade: Correspondence (measured, partial).**
+The unit of balance is the triad: three people and their three bonds. §VIII.1 now checks its **Trio** against this very theory: "Whether three friends and enemies sit easily is the product of their three signs, which no single pair carries", and the triangle that online networks avoid most "is a member whose two friends are enemies of each other". The Trio is also "the first in which two can lean together against one". Between the two camps of a balanced group the Trouw is negative. That is the Relatie §LI calls a war when it is fought: "a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest", in which "Each Relatie acts as one Partner at the war’s Octaaf, whatever its size". **Grade: Correspondence (measured, partial).**
 
 ### 2.2 Every member has a Drempel
 
@@ -108,7 +108,7 @@ The unit of balance is the triad: three people and their three bonds. §VIII.1 n
 
 **The evidence.** Saramäki and colleagues combined phone records and surveys from 24 students over 18 months, as they left school for university or work. Each person showed "a distinctive and robust social signature": the shape of how their calls were spread across the people they called. These signatures "tend to persist over time, despite considerable turnover in the identity of alters". When a new person entered the network, someone else was replaced or received fewer calls, which preserved the overall shape (Saramäki et al. 2014). The authors attribute this to finite resources: the time available, and the cognitive and emotional effort that close relationships need. Like §2.4, this rests on a small sample of school leavers.
 
-**The mapping.** The social signature is a shape, not a total. It says that the way a person's positive Trouw is spread across their bonds persists while the members change. The Speelgoed now states such a budget itself: a Lid takes its looks "at the pace of its Zelf and shares them among all it perceives, so the more it perceives, the fewer each gets" (§VIII.5), and its own Check cites a study of phone calls in which time limits how strong the ties of a large network can be. A new bond is then fed at the expense of others. The few people at the top of the signature, who receive a large share of the contact, are the Speelgoed's Maxim made measurable: "Cherish those closest to you; the rest is fleeting." **Grade: Correspondence (measured).**
+**The mapping.** The social signature is a shape, not a total. It says that the way a person's positive Trouw is spread across their bonds persists while the members change. The Speelgoed now states such a budget itself: a Lid takes its looks "one at a time, at the pace of its Zelf, and shares them among all it perceives, so the more it perceives, the fewer each gets" (§VIII.5), and its own Check cites a study of phone calls in which time limits how strong the ties of a large network can be. A new bond is then fed at the expense of others. The few people at the top of the signature, who receive a large share of the contact, are the Speelgoed's Maxim made measurable: "Cherish those closest to you; the rest is fleeting." **Grade: Correspondence (measured).**
 
 ---
 
@@ -213,6 +213,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so War now reads §LI.
+
+On 22 October 2026 the Speelgoed's §LI.1 came to read each side of a war as one Partner, and its §VIII.5 to have a Lid take its looks one at a time, so §2.1 and §2.5 quote that wording.
 
 ---
 

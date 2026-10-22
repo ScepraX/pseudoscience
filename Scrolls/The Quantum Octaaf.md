@@ -195,7 +195,7 @@ The earlier version made the measurement itself the Drempel. A more careful read
 
 ### 3.5 The Vermenigvuldiging as scattering
 
-§XVII calls the Vermenigvuldiging "a momentary Relatie at a Kruispunt", resolving as Doorgang, Weigering, or Doorbraak. At this Octaaf, two particles meeting, interacting, and parting is *scattering*, and its outcomes are amplitudes:
+§XVII calls the Vermenigvuldiging "a Relatie of an instant at a Kruispunt", resolving as Doorgang, Weigering, or Doorbraak. At this Octaaf, two particles meeting, interacting, and parting is *scattering*, and its outcomes are amplitudes:
 
 - **Doorgang (O):** transmission. The Reiziger passes.
 - **Weigering (P):** reflection. The Reiziger is turned back.
@@ -316,6 +316,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 - The Born-rule parallel with the Vonk's Energie is withdrawn, since that Energie is no longer a square (§5, item 1).
 
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+On 22 October 2026 the Speelgoed's §XVII came to call the Vermenigvuldiging a Relatie of an instant, so §3.5 quotes that wording.
 
 ---
 

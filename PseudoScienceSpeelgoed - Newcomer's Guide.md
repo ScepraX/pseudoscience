@@ -215,7 +215,7 @@ A bond moves, freezes, or turns over.
 Every Duo is lopsided, and its gap is the difference between what each Partner holds of the other. How that gap moves is the Relatie's path. There are three.
 
 - **Zweven** (hovering), the default: the gap keeps moving, crossing by crossing, never settled and never flipped.
-- **Dood** (frozen): the gap stops and stays fixed. Nothing inside the Relatie reads it again, and its Trouw still wears where nothing renews it, as every bond's does. The Vonk that wakes it comes from another Relatie held by one of its Leden, or from one of their own Zelfs.
+- **Dood** (frozen): the gap stops and stays fixed. Nothing inside the Relatie reads it again, and its Trouw still wears where nothing renews it, as every bond's does. The Vonk that wakes it comes from one of its Leden, from another Relatie one of them holds, or from one of their own Zelfs.
 - **Leven** (alive): the gap runs straight through, and the two swap places. Afterwards it moves again, or freezes.
 
 Every switch is a crossing: freezing is a Verlies, thawing a Winst.
@@ -234,7 +234,7 @@ Two needs both. In three, one can waver and the others carry it. Many hold by ne
 
 **Duo (two).** The only Relatie its two hold with each other. It needs both to live and one to die. Each Partner's Greep counts it, so a Duo holds more than its two alone. It has one path: whatever divides the two is met head on, unless a larger Relatie holds the Duo. One Einde can end it.
 
-**Trio (three).** Beside its three Duos stands the Relatie of all three, with a Zelf of its own. It can hold where none of its Duos would.
+**Trio (three).** Its three hold six Duos, one between each two and one between each and the Duo of the other two; alongside them holds the Relatie of all three, with a Zelf of its own. It can hold where none of its Duos would.
 
 - Each Lid reaches each other two ways: directly, and through the third. Any one can waver, and the rest carry it.
 - Two can lean together against one.
@@ -242,23 +242,25 @@ Two needs both. In three, one can waver and the others carry it. Many hold by ne
 - It holds where one Lid is unlike the other two, or where all three differ on two Spectra.
 - If one Lid falls, the Relatie of three ends. Whether the other two still hold rests on their own Duo.
 
-**Many.** What each Lid could belong to more than doubles with every Lid who joins:
+**Many.** Every count nests as the Trio does: Relaties that share no Lid, each read as one, can hold a Relatie of all of them. So what each Lid could belong to grows sixfold and more with every Lid who joins:
 
 | Leden | Name | Relaties each Lid could belong to |
 |---|---|---|
 | 2 | Duo | 1 |
-| 3 | Trio | 3 |
-| 4 | Quatro | 7 |
-| 5 | Cinquo | 15 |
-| 6 | Sexo | 31 |
-| 7 | Septo | 63 |
-| 8 | Otto | 127 |
-| 9 | Novo | 255 |
-| 10 | Deco | 511 |
+| 3 | Trio | 6 |
+| 4 | Quatro | 41 |
+| 5 | Cinquo | 368 |
+| 6 | Sexo | 4,237 |
+| 7 | Septo | 59,846 |
+| 8 | Otto | 1,001,541 |
+| 9 | Novo | 19,369,200 |
+| 10 | Deco | 424,941,481 |
+
+A family of seven could hold 64,499 Relaties: each of them with each other, a parent with the children, the parents with the children, the twins with their parents, and more. It lives by the few that have met.
 
 Your looks are limited, and they are shared among everyone you perceive. Hold everyone with everyone, and each Echo trails further and misreads more often, more of your crossings land wrong, and each Trouw sinks by the losses they bring. Held flat, the more a crowd holds, the sooner each of its Relaties comes apart.
 
-So big Relaties that last are nested: Relaties of Relaties, a few to each. Twenty-seven people held as Trios of Trios of Trios: each belongs to 3 Relaties instead of 67,108,863. The price is distance. You reach most of your own people through others, later and more bent. A large Relatie can also hold with each Lid bound to it directly, and to few beside it.
+So big Relaties that last are nested: Relaties of Relaties, a few to each. Twenty-seven people held as Trios of Trios of Trios: each belongs to 6 Relaties instead of 2.91 × 10³⁶. The price is distance. You reach most of your own people through others, later and more bent. A large Relatie can also hold with each Lid bound to it directly, and to few beside it.
 
 Remove one Lid and the Relatie of all of them ends. What outlives it is the form: a family, a crew, a council. The form passes to the Relatie the rest already share, or to one a newcomer begins beside the Rouw.
 
@@ -289,7 +291,7 @@ It holds until someone asks for a commitment your true Eigen has to make itself.
 **What it costs you.**
 
 - **You read through it too.** On that Spectrum you read your own people through the Masker, more bent. Your Relaties there hold for a shorter time.
-- **It takes every time it answers.** A Masker is one more Relatie you hold, standing between you and everyone who reads you, and it has no rules of its own. Each time it answers someone in your place, it crosses towards them and back, and every answer leaves that Relatie, your bond with your Masker, a little weaker. They bind to the Masker, so it takes the Winst, and you bank none of it. The more people it fools, and the more often they look, the faster it wears you down. A Masker costs by being there. One worn for a whole court answers all day.
+- **It takes every time it answers.** A Masker is one more Relatie you hold, standing between you and everyone who reads you, and it has no rules of its own. Each time it answers someone in your place, it crosses towards them and back, and every answer leaves that Relatie, your bond with your Masker, a little weaker. They bind to the Masker, so it takes the Winst at every answer and gives it back as the answer closes, and you bank none of it. The more people it fools, and the more often they look, the faster it wears you down. A Masker costs by being there. One worn for a whole court answers all day.
 - **You feel it as stress, and as emptiness**, because nobody's Echo holds your true Eigen. The further your true Eigen, as you read it, sits from what you show, the louder it is. It is there whether you feel it or not.
 - **Getting used to it quiets it.** The longer you wear it, the less you feel what it takes, and it goes on taking.
 - **The one you fool pays too.** They bind to the Masker, and lose more again at every crossing the Masker leads them into. Where both sides wear one, each pays both ways.
@@ -319,11 +321,11 @@ You cannot set Trouw by hand. You can give a Relatie crossings that bind and loo
 2. **Offer Bloot before the Masker hardens.** Every answer a Masker gives takes from you. Offer something small and true, early. *Try:* "I don't know." "I was wrong."
 3. **Feed their Diepte.** Their Diepte rises when your attention reaches them. Show them that what they said stayed with you. *Try:* "You said last month you were worried about this. Has it changed?"
 4. **Check your Echo against their Eigen.** The further your Echo had drifted, the more the check teaches. *Try:* "I heard this. Did I get it right?"
-5. **Repeat small Realisaties.** One grand gesture is one crossing. Many small ones, spread out, keep moving the Trouw. The same words every week wear in, though: what is done again and again is got used to. Vary them, and now and then do something new together. What builds is Greep, and Greep keeps your Marge deep: a Schok has to be larger to carry the bond across. *Try:* "Thanks for the coffee." Something different next week.
+5. **Repeat small Realisaties.** One grand gesture is one crossing. Many small ones, spread out, keep moving the Trouw, and teach them to expect good when you come. The same words every week wear in, though: what is done again and again is got used to. Vary them, and now and then do something new together. What builds is Greep, and Greep keeps your Marge deep: a push has to be larger to carry the bond across. *Try:* "Thanks for the coffee." Something different next week.
 6. **Hold the Stilte without filling it.** Between looks, what they are used to of you settles, so the next look sinks deeper into what they keep. Looks crowded together are soon got used to and soon gone. *Try:* wait a few seconds after they finish before you answer.
 7. **Share their Winst, and stay with their Rouw.** Good news met with interest is a Winst in your Relatie too. Grief widens the Stilte a Zelf has to cross, and the shared Echoes of people bound together narrow it. *Try:* "I'm sorry it hurts. I'm here, and I don't need to fix it."
 
-None of the seven makes a crossing certain. They tilt each crossing towards Naar, again and again.
+None of the seven makes a crossing certain. They tilt each crossing towards Naar, again and again. A frozen bond they cannot wake from inside: bring in a third, or change yourself.
 
 ---
 
