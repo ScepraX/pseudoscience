@@ -235,7 +235,7 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 - **Vol and Leeg.** Of the two free three-quark bonds, the one richer in down quarks is the one that decays. In a free neutron (one up, two downs), a down quark turns into an up, and the neutron falls apart in about fifteen minutes (Particle Data Group, 2024). The proton (two ups, one down) has never been seen to decay (§2.2). Inside some nuclei the reverse happens, and an up quark turns into a down (β⁺ decay), paid for by the nucleus's binding. Left free, though, the down quark is the less stable, more "craving" member, the one the Speelgoed calls Leeg.
 - **Irreducible.** Quarks are never found alone. Pull two apart, and the energy stored between them grows in proportion to the distance until it is enough to create a new quark–antiquark pair. The bond then breaks into two bonds, never into free quarks (Bali et al., 2005). This is the strongest form of §VIII's irreducibility: "remove one Lid and it ends". Here the stored Energie, once large enough, becomes Start (§3.7).
-- **The bond carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. Counting the short-lived quark–antiquark pairs inside it, quark masses give about nine percent. The rest comes from the motion of the quarks, the energy of the gluon field that binds them, and quantum effects of the binding (Yang et al., 2018). The total has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely the energy of the bond, not of its members: §V.1's "The Volheid of the one is the gift of the many", in the most literal sense physics allows.
+- **The bond carries the God.** The three quarks' own masses account for only about one percent of the proton's mass. Counting the short-lived quark–antiquark pairs inside it, quark masses give about nine percent. The rest comes from the motion of the quarks, the energy of the gluon field that binds them, and quantum effects of the binding (Yang et al., 2018). The total has been computed from first principles (Dürr et al., 2008). The God of the subatomic Octaaf is almost entirely the energy of the bond, not of its members: §V.1's "What is Vol in the one is the gift of the many", in the most literal sense physics allows.
 
 **Grade: Correspondence.**
 
@@ -318,6 +318,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 On 22 October 2026 the Speelgoed's §XVII came to call the Vermenigvuldiging a Relatie of an instant, so §3.5 quotes that wording.
+
+On 23 October 2026 the Speelgoed's §V.1 came to read the gift of the many as what is Vol in the one, so §3.9 quotes that wording.
 
 ---
 

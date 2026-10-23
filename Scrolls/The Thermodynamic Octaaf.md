@@ -233,7 +233,7 @@ This turns three Speelgoed rules into physical statements:
 
 - **Trouw is shared, "one value for both" (§XV).** A pair energy belongs to the pair, and it has no direction. The same symmetry holds for the conductance of the Echo: one contact has one conductance, and when two kinds of flow are coupled, such as heat and electric charge in a thermocouple, the two cross-couplings are still a single shared value. This is Onsager's reciprocity, derived from microscopic reversibility (Onsager, 1931a). Thermodynamics knows one exception. In a magnetic field the relations hold only with the field reversed, L_ij(B) = L_ji(−B) (Onsager, 1931b; Casimir, 1945). Symmetry is restored once the magnet's source is counted as part of the system. That is §IX's boundary rule: if a Relatie looks interrupted by something external, "the boundary was drawn wrong".
 - **Asymmetry enters through the members, not the weight (§IX).** Each member brings a field of its own to the landscape, its Leeg Sᵢ and its Zelf's Trouw y_ii, both read from its Vol/Leeg (§XV). A lattice gas may give every site its own field while each pair energy stays one value. Between two bodies exchanging heat, the same holds for their capacities: a body with a large heat capacity barely moves, and the small one takes on its temperature. A cup of coffee comes to the temperature of the room, not the other way round. **Grade: Correspondence.**
-- **Negative Trouw is a repulsion, and it costs nothing to keep.** "where Trouw is negative, a Partner read across pushes the Eigen away" (§XVIII), and "the Binding becomes a repulsion" (§XIX). Repulsive pair energies need no work to sustain: like charges repel, and in an antiferromagnet neighbouring spins hold opposite directions at equilibrium. This agrees with §LI.4: Greep counts positive Relaties only, and a negative one "adds nothing to it and takes nothing from it". **Grade: Constraint**, and the Speelgoed passes it.
+- **Negative Trouw is a repulsion, and it costs nothing to keep.** "where Trouw is negative, a Partner read across pushes the Eigen away" (§XVIII), and "the Binding becomes a repulsion" (§XIX). Repulsive pair energies need no work to sustain: like charges repel, and in an antiferromagnet neighbouring spins hold opposite directions at equilibrium. This agrees with §LV.4: Greep counts positive Relaties only, and a negative one "adds nothing to it and takes nothing from it". **Grade: Constraint**, and the Speelgoed passes it.
 
 ### 3.2 Trajectories: Dood, Zweven, Leven
 
@@ -431,6 +431,8 @@ Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinder
 Later that day the Speelgoed's §VI.2 came to name the Warmte a living body gives off and the Warmte every engine wastes, so §4.2 quotes that wording.
 
 On 22 October 2026 the Speelgoed's §XIX came to carry Warmte across the edge of every Relatie as well as between places, by what stands there for every Lid, and its §XX to read a Relatie in Dood again from a crossing of one of its Leden too, so §2.4 and §3.2 quote that wording.
+
+On 23 October 2026 the Speelgoed's Schrift IV, now Mensen en Parasieten, gained four chapters before War, so War now reads §LV.
 
 ---
 

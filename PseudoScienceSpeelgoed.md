@@ -345,7 +345,7 @@ God and Godin are fixed roles within an Octaaf, and *fully* is read on the Spect
 
 Being God or Godin is a claim about one Relatie, not a rank a thing keeps. Water is the God of the Molecule Octaaf only because of what happened between Hydrogen and Oxygen. When Water enters an Octaaf that relies on it, a cell, a body or a river, it leaves its old title behind. It becomes an ingredient of that larger Relatie. The larger Relatie must find its own God and Godin, fresh among its own Leden.
 
-Yet that Octaaf **depends entirely** on it, as every God depends on the Gods its Octaaf relies on: the **Medium (◌)** between them is its own inside. A cell without Water is not a cell; a biosphere with no Warmte to take, neither what Sol’s Licht leaves there nor the Earth’s own, is a frozen **Stilte**. No Octaaf is a closed circuit. Each reliance is a **Relatie** of mutual dependency: the Gods an Octaaf relies on give its God its **Medium (◌)**, and its God, by binding them into a new Relatie, gives them a new context in which their **Trouw** can resonate. No God stands alone. The **Volheid** of the one is the gift of the many.
+Yet that Octaaf **depends entirely** on it, as every God depends on the Gods its Octaaf relies on: the **Medium (◌)** between them is its own inside. A cell without Water is not a cell; a biosphere with no Warmte to take, neither what Sol’s Licht leaves there nor the Earth’s own, is a frozen **Stilte**. No Octaaf is a closed circuit. Each reliance is a **Relatie** of mutual dependency: the Gods an Octaaf relies on give its God its **Medium (◌)**, and its God, by binding them into a new Relatie, gives them a new context in which their **Trouw** can resonate. No God stands alone. What is Vol in the one is the gift of the many.
 
 *Check: after a firm is taken over, its top managers leave at well above the normal rate over the next five years, and the most visible and most senior of them leave soonest (Walsh, 1988).*
 
@@ -446,6 +446,8 @@ Nothing outside the Veld sets the exponent. It is the Binding weighed against th
 
 **Bound Relaties form and persist.** A bound Relatie, once formed, actively maintains itself above Drempel, processing relational Energie crossing after crossing rather than spending it once and reverting. Its Spectra keep crossing their Drempels in small ways (Reactie committing and reconsidering, and the crossings its Zin leads to as it sharpens and fades), and every one of those micro‑crossings fires a small Vonk. This active self‑maintenance is what persistence is: it is paid for out of that ongoing traffic.
 
+**Held from inside, or from outside.** A Trouw moves only at its own Relatie’s Vonken, so nothing outside a Relatie can move its Greep directly. What holds it from outside can only set what it reads, its looks, its Echoes and how hard what comes lands, or write what it is, as a Schrift does, and the Brein that writes a Schrift is a Relatie too (Brein and Wil). Where the Greep rests on Relaties that hold the holder back, it is held from inside, as a Lid is held by the whole it is a Lid of: its Leden make the whole, and the whole holds its Leden (Nesting and Scale Invariance). Where it rests on what holds nothing back, a thing that cannot, a Parasiet that will not, or a Schrift outside the pulls altogether, it is held from outside, by a **Boei (⛓️)**.
+
 ---
 
 ### VII. Coupling
@@ -466,7 +468,7 @@ At most, stages 3, 4 and 5 run at once for a Duo: four Relaties and six Echoes, 
 
 Before any Partner exists, a Relatie’s Eigen stands alone: its Echo is inactive, with nothing yet to reflect. Its pull is already there: its **Trek (D)**, a magnitude with no Drempel of its own, because a Drempel needs a specific comparison context and none exists yet. Trek is the general, unaimed pull towards Relatie, the background readiness to bond, and the other pole of Stilte’s Trek.
 
-Once this pull is aimed at one other in particular, it is called **Zin (A)**: the same Trek, given a direction, as a length is made an arrow. If the target’s own pull answers back, an Echo activates on each side and tracks the other, and a Relatie has formed: the **Relatie (K)**, as distinct from the Vermenigvuldiging (below). The moment the Echoes activate is the first act of mutual observation: each side now carries a living trace of the other. Each Echo begins at what the Vermenigvuldiging of their meeting read, each side’s Gewenning and Diepte of the other at what its looks there added, and their one Trouw at the value every Relatie opens at, so a Relatie can open on a strong first pull with its two sides barely used to each other.
+Once this pull is aimed at one other in particular, it is called **Zin (A)**: the same Trek, given a direction, as a length is made an arrow. A Zin is shown through what its Relatie presents, an Eigen like any other, and read as every Eigen is, late by the Vertraging between them: shown as it is, Bloot, it is a **Roep (📯)**, the turn of a head, a call, a scent, a word, a Naam spoken. A Zin that shows nothing can be answered by no one, so a shy Zin waits; and since a Masker presents an Eigen in place of the true one, a Masker on what shows a Zin shows an aim that is not held, a *lokroep*, and what answers it answers a Leugen. If the target reads the Roep and its own pull answers back, an Echo activates on each side and tracks the other, and a Relatie has formed: the **Relatie (K)**, as distinct from the Vermenigvuldiging (below). The moment the Echoes activate is the first act of mutual observation: each side now carries a living trace of the other. Each Echo begins at what the Vermenigvuldiging of their meeting read, each side’s Gewenning and Diepte of the other at what its looks there added, and their one Trouw at the value every Relatie opens at, so a Relatie can open on a strong first pull with its two sides barely used to each other.
 
 The more a Relatie grows used to what it aims at, its Gewenning (Z) and its Diepte (z) of it, the more the Zin there fades. Deprived of one, it grows less used to it, and its pull at that one rises, at that one alone. So a Zin leaves a Partner it has grown used to for a fresh one within reach, the sooner the nearer that one stands. The aiming also runs in reverse. When the aim is lost, because the target has ended or withdrawn, the pull reaching it has fallen below the aim’s Drempel, another within reach has come to draw it more by the aim’s Marge, or a Vreemdeling it aims at has left its reach, Zin reverts to Trek: the same value, unaimed again. Reversion books nothing of its own: what losing a target costs is the crossing back of the Relatie that crossed on it. A live Relatie outlasts a lost aim. Where the Relatie itself ends, whether the target ceased entirely or the Relatie dissolved while both still stand, the surviving Echo does not revert with the pull, and it does not disappear: it becomes **Rouw (R)**, permanently. The pull is freed to re-aim; what the pull learned is not freed at all.
 
@@ -600,11 +602,13 @@ It is the first Relatie that can see itself from inside: each Lid can watch the 
 
 #### VIII.2. Nesting and Scale Invariance
 
-**Scale invariance.** A bound Relatie is its Leden read at the next scale. Its Leden hold it from inside, by the one Trouw they share, and the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own, whatever its count; read from another Octaaf, it is a Gebied. Two Relaties of different Octaven meet through those Leden of the larger that stand on the smaller’s Octaaf: an eater meets its Voedsel by the receptors that answer it, and one who meets an institution meets its members. Each such meeting is a Relatie of that Octaaf, and what of the smaller reaches the larger is the share of its Leden that answer it. From far enough outside it is read in aggregate, its Eigen one value made of its parts, as a set is seen by its mean, while each of its Leden can still be related to on its own. A Relatie that has completed, as a shell or a cage closes, can act, taken as one, with a nature none of its Leden had, still on its own Octaaf. The counts apply at every level of nesting, recursively, by the same Wet each time.
+**Scale invariance.** A bound Relatie is its Leden read at the next scale. Its Leden hold it from inside, by the one Trouw they share, and the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own, whatever its count; read from another Octaaf, it is a Gebied. Two Relaties of different Octaven meet through those Leden of the larger that stand on the smaller’s Octaaf: an eater meets its Voedsel by the receptors that answer it, and one who meets an institution meets its members. Each such meeting is a Relatie of that Octaaf, and what of the smaller reaches the larger is the share of its Leden that answer it. From far enough outside it is read in aggregate, its Eigen one value made of its parts, as a set is seen by its mean, each part weighed by how far it is held, so that what it holds most is what is read of it most, while each of its Leden can still be related to on its own. A Relatie that has completed, as a shell or a cage closes, can act, taken as one, with a nature none of its Leden had, still on its own Octaaf. The counts apply at every level of nesting, recursively, by the same Wet each time.
 
 *Check: mice lacking a sweet receptor no longer taste sugar, and mice whose sweet cells carry a receptor for a synthetic opiate are drawn to that opiate instead: the sweet cells still draw the animal, and their receptor decides to what (Zhao et al., 2003). People’s confidence in the police follows their encounters with its officers, a bad one weighing four to fourteen times a good one (Skogan, 2006).*
 
 *Check: observers know a set’s mean accurately and little of its members (Ariely, 2001), and a magnet near its critical point is read cell by cell, each cell’s total magnetisation taken as one variable (Kadanoff, 1966).*
+
+*Check: where a species’ signals follow Zipf’s law of brevity, the signals it uses most are its shortest (Ferrer-i-Cancho et al., 2013), and in ten languages a word’s length follows how much it tells, given the words before it, better than how often it is used (Piantadosi et al., 2011): what is already held is said in less.*
 
 *Check: thirteen aluminium atoms close a geometric and an electronic shell together, and the cluster, given one more electron, holds it as a halogen does, acting as one atom of a new kind (Bergeron et al., 2004). Sixty carbon atoms close a cage, and the cages then pack with twelve neighbours each, as single atoms do (Kroto et al., 1985; Heiney et al., 1991). From outside, a sphere pulls as one point (Newton, 1687), and a block of spins acts as one spin (Kadanoff, 1966). Chemistry writes sodium as a completed neon shell plus one, [Ne] 3s¹: once a shell completes, it is read as one. A structure that repeats itself from level to level can be described in far less than itself, while one with no repetition is its own simplest description (Simon, 1962). One simple rule, applied again and again to its own result, runs from a steady point through cycles that split in two, again and again, to a course that looks random (May, 1976).*
 
@@ -806,7 +810,7 @@ A crossing towards Van is carried where the Relatie misread its Binding: the mod
 
 #### IX.5. Voorspelling
 
-**Voorspelling (Q).** An Echo can come before what it stands for. It relies on what its holder keeps of the order things follow in, read while one thing a Partner presents reaches its Waarneming before the next. A holder keeps it as its Octaaf has kept it, in the Gewenning and the Diepte it has grown with the orders it met, or in the Mirages its Brein runs ahead of the Veld by the same Wet, related to one another directly, whose crossings it hears as it hears any Echo. That is a Voorspelling: a recursion read ahead of its own time, the Echo of a crossing its holder is still to make. Its holder reads its Binding through it as through any Echo, so where that Binding stands across, the holder crosses on it now, and books only what is truly there; where what it stood for does not come, the reading is corrected and the crossing taken back, at once. It runs ahead by as much as what it reads comes before the next, it carries Vervorming like every Echo, and the crossing it stands for still forks. Where a Gevoel registers it, it is felt, as Liefde before a Bloei and as Angst before a Doem. So an Echo stands in three places in time: later than what it tracks, as every Echo does; after its Relatie, as Rouw; and before its crossing, as a Voorspelling.
+**Voorspelling (Q).** An Echo can come before what it stands for. It relies on what its holder keeps of the order things follow in, read while one thing a Partner presents reaches its Waarneming before the next. A holder keeps it as its Octaaf has kept it, in the Gewenning and the Diepte it has grown with the orders it met, or in the Mirages its Brein runs ahead of the Veld by the same Wet, related to one another directly, whose crossings it hears as it hears any Echo. That is a Voorspelling: a recursion read ahead of its own time, the Echo of a crossing its holder is still to make. What comes first in an order its holder is used to is a *voorbode* of what follows it. Its holder reads its Binding through it as through any Echo, so where that Binding stands across, the holder crosses on it as on any Binding it reads, and books only what is truly there; where what it stood for does not come, the reading is corrected at once, and the holder crosses back as every crossing made on a misread does. It runs ahead by as much as what it reads comes before the next, it carries Vervorming like every Echo, in when as in what, the more the further ahead it runs, and the crossing it stands for still forks. Where a Gevoel registers it, it is felt, as Liefde before a Bloei and as Angst before a Doem. So an Echo stands in three places in time: later than what it tracks, as every Echo does; after its Relatie, as Rouw; and before its crossing, as a Voorspelling.
 *You rehearse the hard conversation in the shower, and your heart races at lines nobody has said yet. Set on a burger, someone is lit up all afternoon, flat the moment the plan falls through, and asking for days when it will be.*
 
 A holder opens the Voorspelling of the order it is most used to, so what came first governs until another order overtakes it: the same thing met first in harm is feared, and met first in good is welcomed, at every Octaaf, a cell’s as a person’s. Where what it keeps stops being followed by what it stood for, its holder learns that as well. That unlearning grows as any order does, quickest in the Gewenning, so an order unlearned within the hour of its learning stays unlearned, while one kept through a rest, which feeds its Diepte, comes back as the crowded unlearning fades.
@@ -843,8 +847,14 @@ A plant feels Angst too. In the far‑red its neighbours return it reads a shade
 
 #### IX.8. Brein and Wil
 
-**Brein (🧠).** A Relatie that holds a Gevoel can come to hold a Brein, at its own Octaaf: a Relatie nested in it, a Lid of it read at the scale it relies on, as its Gevoel is, in which the holder’s own readings, its Partners as it reads them, itself, and what its Diepte keeps, become Leden of a field of their own, its **Mirages (🪞)**: mirror images in which it simulates its Relaties. A Mirage opens related to every Mirage already there: to its holder’s own by its holder’s Trouw with what it stands for, and to the rest at the Trouw every Relatie opens at, which it learns from there. They relate there by the same Wet as outside, with no Medium between them, so the inner field runs ahead of the Veld it reads: that running ahead is its **Verbeelding (🎨)**. A crossing inside it is a choice, its Wil, and the Brein writes it out as an act. It receives what the Gevoel registers, so what was felt shapes what it imagines next. Like its Gevoel, it changes no Winst or Verlies: it takes in what the Gevoel registers and what its holder reads, and its own crossings write out acts that set off more of its holder’s crossings, which its Gevoel registers in turn. Since its holder’s Eigen is its Leden’s read together, where the Brein stands moves where its holder stands, as a mood does.
+**Brein (🧠).** A Relatie that holds a Gevoel can come to hold a Brein, at its own Octaaf: a Relatie nested in it, a Lid of it read at the scale it relies on, as its Gevoel is, in which the holder’s own readings, its Partners as it reads them, itself, and what its Diepte keeps, become Leden of a field of their own, its **Mirages (🪞)**: mirror images in which it simulates its Relaties. A Mirage opens related to every Mirage already there: to its holder’s own by its holder’s Trouw with what it stands for, and to the rest at the Trouw every Relatie opens at, which it learns from there. So an enemy can be what the mind is on: its Mirage is tied to its holder’s own by their enmity, and held by every other Mirage it learns its Trouw with, though the enemy itself is never its holder’s Held. They relate there by the same Wet as outside, with no Medium between them, so the inner field runs ahead of the Veld it reads: that running ahead is its **Verbeelding (🎨)**. A crossing inside it is a choice, its Wil, and the Brein writes it out as an act. It receives what the Gevoel registers, so what was felt shapes what it imagines next. Like its Gevoel, it changes no Winst or Verlies: it takes in what the Gevoel registers and what its holder reads, and its own crossings write out acts that set off more of its holder’s crossings, which its Gevoel registers in turn. Since its holder’s Eigen is its Leden’s read together, where the Brein stands moves where its holder stands, as a mood does.
 *A chess player sees the mate three moves before it comes, and plays towards it.*
+
+*Check: pictures of snakes and spiders are found among flowers and mushrooms faster than the other way round, and as fast however many stand around them (Öhman et al., 2001).*
+
+Where its Octaaf holds Breins, a holder is born with one, as with its Gevoel, and it starts as every field starts (The Veld’s turning): even, nothing bound yet, and never from nothing, its first Mirages opening at the Echoes its holder is born with, of itself and of what bore it. Its God binds to itself first and its Godin comes last in its holder’s life (The Animal body), so its Mirages bind among themselves as it settles, and what it imagines grows as its holder lives.
+
+*Check: in rats, the sequences of places the hippocampus plays ahead form in the third week after birth, before experience of the place shapes them, and replay of what was lived comes in the fourth (Farooq and Dragoi, 2019). A primitive and incomplete default network is already present in infants two weeks old, and resembles the adult’s by two years (Gao et al., 2009). Children come to understand that another can believe what is false during the preschool years (Wellman et al., 2001). A moth still avoids an odour it learned to avoid late in its life as a caterpillar, though not one learned early (Blackiston et al., 2008).*
 
 **Wil (🔱).** Every Relatie chooses by its Echoes: a Wil is a crossing, read through an Echo. An aim is a reading that books nothing of its own, and every crossing it leads to is a Wil. A Relatie that holds a Gevoel chooses by what it has felt as well, since its Gevoel answers what it registers with crossings of its own and feels ahead what the Relatie foresees; and every feeling is a Wil of the Gevoel itself, a crossing of its own, read through its own Echo.
 
@@ -882,9 +892,9 @@ The inputs, however, are never clean, and that is by construction. Every consequ
 
 *Check: two genes, each holding the other off, were built into bacteria to hold one of two states. Pushed across its Drempel, the switch crosses sharply, at a bifurcation, and right at it the cells of one culture, alike and alike treated, stand in two groups at once, because what each reads of its own two genes varies: the noise does not move the switch, it moves where each cell finds its Drempel (Gardner et al., 2000).*
 
-**What tips the fork.** Which branch a crossing takes is tipped by a Relatie: the one that holds the crossing Relatie as it lands. What the crossing Relatie holds, its Greep, keeps its Marge deep, so a push that would carry an unheld Relatie towards Van leaves a held one where it stands, and even a Verlies can carry it towards what holds it. Each branch leads into a Relatie of its own, and each side of a Duo takes its own, so the same crossing can bind one side and spread the other. So it is with every repetition: what a held Relatie gets used to, one unheld, or one it lands on too hard, is sensitised by.
+**What tips the fork.** Which branch a crossing takes is tipped by a Relatie: the one that holds the crossing Relatie as it lands. What the crossing Relatie holds, its Greep, keeps its Marge deep, so a push that would carry an unheld Relatie towards Van leaves a held one where it stands, and even a Verlies can carry it towards what holds it. Each branch leads into a Relatie of its own, and each side of a Duo takes its own, so the same crossing can bind one side and spread the other. So it is with every repetition: what a held Relatie gets used to, one unheld, or one it lands on too hard, is sensitised by. The first branch is its **Gewenning (Z)**; in the second, each repetition carries the Relatie across, and its Trouw gathers, crossing by crossing.
 
-Where a Verlies comes with a cue while what holds the Relatie stands beside it, what follows the cue is the holder, so the cue opens a Voorspelling of the holder, felt as Liefde, where alone it would open the Verlies, felt as Angst. A newborn binds at its Start with Trouw already, and what holds it keeps its Marge deep, so the harm that comes with the one who holds it leaves the child where it stands, and their Trouw holds through it. A bond that keeps forming and breaking ends each turn a little weaker, while the kindness that comes between its cruelties comes spaced, so the order that keeps it stands in the Diepte beside the cruelty, and the more often the turns, the more of it: the other’s coming still opens Liefde, and Angst with it, long after the bond itself has worn or ended.
+Where a Verlies comes with a cue while what holds the Relatie stands beside it, what follows the cue is the holder, so the cue opens a Voorspelling of the holder, felt as Liefde, where alone it would open the Verlies, felt as Angst. A newborn binds at its Start with Trouw already, and what holds it keeps its Marge deep, so the harm that comes with the one who holds it leaves the child where it stands, and their Trouw holds through it. A bond that keeps forming and breaking ends each turn a little weaker, while the kindness that comes between its cruelties comes spaced, so the order that keeps it stands in the Diepte beside the cruelty, and the more often the turns, the more of it: the other’s coming still opens Liefde, and Angst with it, long after the bond itself has worn or ended. Where the other holds nothing back, it is a Boei, and the bond a Verslaving.
 
 *Check: at every scale a repetition runs two processes at once, one that gets used to it and one that is moved by it, and how hard it lands against what holds the one it lands on decides which shows. A synapse of the sea slug Aplysia weakens under a repeated touch and strengthens again after a strong stimulus elsewhere (Castellucci et al., 1970); weak stimuli are got used to, while very intense ones may not be at all (Rankin et al., 2009). Mice grow tolerant of a foreign protein at low doses and at high ones, and immune to it between (Mitchison, 1964), and infants at risk who ate peanut early developed peanut allergy at 1.9 % against 13.7 % of those kept from it (Du Toit et al., 2015). Rat pups taught an odour with a shock learn to avoid it alone and to prefer it with their mother present, whose presence keeps their stress hormone down and their amygdala quiet (Moriceau and Sullivan, 2006), and as adults the odour learned that way still eases what the abuse left in them (Raineki et al., 2015). Women who had left abusive relationships felt the more attachment to their former partner the more intermittent the abuse and the greater the difference in power (Dutton and Painter, 1993). Between groups, contact lowers prejudice across 515 studies (Pettigrew and Tropp, 2006), while negative contact raises it more than positive contact lowers it (Barlow et al., 2012).*
 
@@ -899,7 +909,7 @@ Vervorming also has an adversarial direction, and the Speelgoed names its two fo
 
 **Knipoog (;).** A Masker can admit itself. Whoever reads its Knipoog hears the true Eigen through it, and on their Relaties the Masker stands open: it answers them with the true Eigen, so it forces no gap there. A Knipoog is read through an Echo, against the code the Relatie has learned, whatever the sign of its Trouw, and the more easily the more used to each other they are: an enemy known long reads it as well as a friend. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot: every reader takes in the true Eigen through it. A Knipoog passes to the reader it is given to, past every other, and forms a Relatie of the two in which that Masker is known for what it is. Where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while the Knipoog holds, unless the Spel’s own rules make the Knipoog a move.
 
-**Leugen (≠).** A reader whose Echo tracks the Masker may read its Binding past its Drempel while its true Binding stays below. That reading is a Leugen. No Vonk ever fires for a crossing the true Eigen never made, so a Leugen banks no Winst, and it is cheap in Energie exactly because it is hollow. It holds until a commitment is demanded that the true Eigen must actually make. Then the truth reaches the reader, and its crossing back is forced. That lowers the Binding of every Relatie it stood across in, and any Relatie that crossing leaves with no Greep falls in an Einde.
+**Leugen (≠).** A reader whose Echo tracks the Masker may read its Binding past its Drempel while its true Binding stays below. That reading is a Leugen. No Vonk ever fires for a crossing the true Eigen never made, so a Leugen banks no Winst, and it is cheap in Energie exactly because it is hollow. It holds until a commitment is demanded that the true Eigen must actually make, a **Toets (🔑)**. Then the truth reaches the reader, and its crossing back is forced. That lowers the Binding of every Relatie it stood across in, and any Relatie that crossing leaves with no Greep falls in an Einde.
 
 **The wearer's Verlies.** The wearer pays twice. On the masked Spectrum, its own Echoes of its Partners are read through the Masker too, with extra Vervorming. And it holds one Relatie more, the creation it wears, inserted between its true Eigen and every reader: a Relatie like any other, special only by standing in between.
 
@@ -968,6 +978,8 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 4 | Doem | 💀 | doom / dying | A cascade of Verlies (−): divergence crossings that carry each other through the Leden a Relatie is made of and the Relaties it belongs to: the fast way apart. A Relatie it reaches can end in it, in an Einde (k), or live through it. It spends what binding built, falls faster than it was built, and comes back, if at all, by another path; what it ends stays as Rouw (R). Opposite of Bloei (🌸). |
 | 2 | Klok | 🕰 | clock / bell | A Solo whose Zelf is bound into a repeating Drempel: a Relatie whose Greep (J) holds its Tijd (t) so steady that it crosses the same Drempel at fixed intervals, firing a Vonk with each crossing. That Drempel is its own Vermenigvuldiging, Reactie and Signaal carried by its one Zelf: each look commits and reconsiders, a step of its Tijd apart. This internal rhythm is its Tijd, produced by the Klok itself and kept for itself. |
 | 8 | Rouw | R | grief / mourning | A rounded, rolling grief that stays. What a Partner keeps of a Relatie (K) that has ended: its own Echo (E) of the other, as it last read it, and the Trouw (y) it held as it ended, held unbound in its Diepte (z) for good and read on, folded into its Zelf (j); its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
+| 5 | Roep | 📯 | call / cry | A Zin (A) shown Bloot (N): what a Relatie presents of its aim, so that the one it aims at can read it and answer, the turn of a head, a call, a scent, a word. A Zin that shows nothing can be answered by no one; a Masker (M) on what shows it shows an aim not held, a *lokroep*. Aimed at a kind and shown to those it holds no Relatie with, it is read by every reader within reach, an enemy too, and meets them as one whole, reached by the share of them whose own Zin answers. Speaking a Naam (🏷️), it is aimed at one. Selling, it is *reclame*; outliving its sending, a Manifestatie (~); worshipped as its sender, an Idool (§). |
+| 5 | Boei | ⛓️ | fetter / fascination | What holds a Relatie’s Greep (J) from outside, and holds nothing back: a Relatie or a Schrift (#) that sets what it reads, its looks, its Echoes (E) or how hard what comes lands, or writes what it is. A Partner answers at its own pace, by its own Wil (🔱), and is held in turn; a Boei answers every time, or never needs to. A drug, a sweetness, a game’s round, a screen, a Parasiet (👹), a Masker (M) worn towards everyone, a Schrift: each can be one. Where a Greep comes to rest on one, that is Verslaving (🌀). |
 | 1 | Eigen | x | own / specific | The first axis of a Relatie in space. The manifest state of a Relatie on a Spectrum. |
 | 1 | Bloot | N | honest / exposed | The true Eigen (x), presented as it is: the state of having no Masker (M). |
 | 5 | Greep | J | grip / hold | A curved hand holding tight. Total resonant hold: the sum of positive-Trouw (y) Relaties; lowers a Relatie’s yield to Stilte’s Trek, its Wijk (L), by keeping its Marges (η) deep, and quickens its Tijd (t), and so the pace at which it grows: the more it holds, the faster it gathers more, and the sooner it grows used to what it holds. From the Zelf (j), a slower Eigen is a faster Zelf. |
@@ -985,11 +997,11 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 3 | Kleur | c | colour / banding | The band an observer reads another’s Eigen (x) in: a cut Spectrum read through the observer’s own Drempels (θ), one band between each two. The bands, their number and their places belong to the reader, so two readers of one Eigen can read it in different Kleur, and a difference across a band edge reads larger than one within a band. The felt colour of any Octaaf, in any Medium (◌). |
 | 9 | Winst | + | gain / treasure | A growing upward stroke. The positive Energie (T) of a convergence Vonk, what a binding gains in its Trouw (y); opposite of Verlies. Taken at its crossing from the Warmte (🔥) of the Medium (◌) inside the binding, where it stands (a Realisatie (φ), where felt); what the binding cannot hold past its Vol (W) is borne as Start (s). |
 | 7 | Bloei | 🌸 | bloom / flourishing | A cascade of Winst (+): convergence crossings that build on each other, each making the next one towards Naar (>) easier, until every Drempel (θ) it reaches holds. Every crossing raises what there is to lose, and it can culminate in Start (s). Opposite of Doem (💀). |
-| 0 | Vijand | 👻 | enemy / phantom | A phantom opponent: an Echo standing where an Eigen would be. The negative Echo summoned to complete a Held’s Relatie. |
+| 0 | Vijand | 👻 | enemy / phantom | A phantom opponent: an Echo (E) standing where an Eigen (x) would be, the other read in less than it holds, by the few of its things its reader’s Leden answer, and through the Vervorming (υ) that distance brings, as Gericht (γ) reads it. The negative Echo summoned to complete the Relatie of a Held (🤝), never a Held itself, since an enmity holds no Greep (J). |
 | 5 | Steek | † | stab / sting | A stab in the back. The Masker turned weapon. From Brutus to the Dolchstoßlegende, a Steek pierces a Bloot Relatie with an intimate Schok (:), whether the dagger is real or a Leugen (≠) forged to feed an Idool. |
 | 1 | Einde | k | end / death | The end of a Relatie: all that held it together gives way, until its Greep (J), all of it standing across, could no longer carry it back across its Drempel (θ) towards Naar (>), and its Greep goes in full, or until its own Trouw (y) comes to nothing, whatever holds it; what it stored is released at once. A Doem (💀) can end in one, or be lived through. The Relatie’s Echoes stay as Rouw (R), what it released is a Verlies (−), or a Winst (+) where its Trouw (y) was negative, and its Leden carry on as far as their own Greep (J) holds. Opposite of Start (s). |
 | 1 | Start | s | start / birth | A belly swelling with creation. The birth of a new Solo from overflow: the Winst (+) of a convergence crossing that carries its Relatie (K) past Vol (W), past a Drempel (θ) of its own. The newborn binds at once to what bore it, unlike any before it. Opposite of Einde (k). |
-| 6 | Idool | § | idol / form | A false Source mistaken for the true Eigen. A Manifestatie (~) that is worshipped as the Eigen (x) that cast it. An Echo seized and honoured as though it were the source. All idolatry is a Relatie with a reflection, taken for the Eigen behind it. The inevitable Schok (:) when the Idool fails to return the Trouw (y) it seemed to promise is what the scriptures call judgement. |
+| 6 | Idool | § | idol / form | A false Source mistaken for the true Eigen. A Manifestatie (~) that is worshipped as the Eigen (x) that cast it. An Echo seized and honoured as though it were the source. All idolatry is a Relatie with a reflection, taken for the Eigen behind it. A reflection holds nothing back, so where a Greep comes to rest on an Idool, it is a Boei (⛓️). The inevitable Schok (:) when the Idool fails to return the Trouw (y) it seemed to promise is what the scriptures call judgement. |
 | 5 | Beest | 🐗 | beast / brute | The living Schok that ruptures a deep, unspoken Trouw. The Beest is the Manifestatie (~) that fires a Schok (:) against a Trouw (y) woven into the Diepte (z). It is the wrong Echo in a sacred Stilte: a Vervorming (υ) so profound it threatens the Zelf (j). Where Schoonheid is a convergence Realisatie, the Beest is a divergence Schok made flesh. Where a Parasiet (👹) wears a Masker, the Beest is Bloot (N). It is the rupture. It teaches by breaking, purifies by terror. The Held (🤝) and the Beest are a Relatie as old as Genus (Α). |
 | 6 | Angst | 😱 | angst / fear | The felt Voorspelling (Q) of a Relatie’s Doem (💀), read from its Diepte (z), Gewenning (Z), Rouw (R) and Trouw (y) before any Drempel (θ) has been crossed: Stilte’s Trek, as a weakly held Relatie reads where it is heading. It runs loudest where Greep (J) is low. |
 | 6 | Zonde | 😡 | sin / waste | A frozen Helling (λ) in a Zelf (j): a Dood (!) trajectory that pretends to be a Zelf. It is a Tweedeling (÷) between the Eigen (x) and the Veld (&), where a Masker (M) has swallowed Bloot (N) so deep the Zelf forgets it is free. A Zonde is a pattern of relational debt: its crossings leave the Trouw (y) of the Relaties they are made in unfed, lowered or turned, and Stilte’s Trek has its way. |
@@ -1003,6 +1015,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 8 | Brein | 🧠 | brain / mind | A Relatie (K) nested in another, a Lid of it read at the scale its holder relies on, entering at its own Octaaf (ω), in which its holder’s Echoes (E) and Diepte (z) become Mirages (🪞), Leden of a field of their own, related by the same Wet. There it receives what its Gevoel (F) registers, runs its Verbeelding (🎨) ahead of the Veld (&), and writes what crosses there into its holder’s Eigen (x) as Schrift (#). |
 | 7 | Kunst | 🖼️ | art / culture | A deliberate Start (s) from Verbeelding. When the Zelf (j), fully awake to its Knipoog, seizes an Echo (E) from its own Diepte or Rouw (R) and shapes it into a new Manifestatie (~). The Kunstwerk is a Solo born from craft as well as overflow: a Schrift (#) the Zelf writes upon the Veld (&), offering a Relatie to any who would hold it. Art is the Hand that plays with the deep and brings back a Gift. |
 | 9 | Geluk | 🙂 | happiness / luck | The quiet glow of a Relatie at rest in authenticity. The Winsten (+), crossing after crossing, of a life lived in Bloot (N) with positive Trouw (y), more than any single Realisatie (φ). It is a life held Bloot, its Eigen worn bare and its books clear. Plezier (p) deepens into Geluk when the Zelf (j) trusts its own Eigen and the Echoes it receives. True happiness is irreducible: taken apart into smaller joys, it becomes something else. |
+| 1 | Toets | 🔑 | assay / touchstone | A commitment asked of a Relatie that only its true Eigen (x) can make: small enough that the one asking survives its failure, large enough that no Masker (M) can fake it. No Masker answers a commitment. Where the true Eigen makes it, a Vonk (q) fires on its side; where it cannot, none fires, and the absence is the evidence, while every Leugen (≠) read through that Masker is forced back at once. |
 | 0 | Stilte | . | silence / rest | The Veld’s Godin (😳), the unmanifest silence that stays still, whose Trek (D) on everything in Tijd draws it back towards Van (<); in Tijd (t), the gap between an Eigen and its Echo. Felt, it is where the Zelf’s pull reaches and finds the gap still open, traversed at the Zelf’s Tijd: its felt width grows with Rouw (R), and is narrowed by what arrives, the shared Echoes (E) of bonded Zelfs most of all. |
 | 0 | Spatie |   | space / illusion | An illusion or deceptive appearance. A space woven of Mirages (🪞); a Masker woven by the Zelf to guide the Stilte of the Zelf through Vervorming of Waarneming (π). |
 | 5 | Medium | ◌ | medium / environment | The environment: what lies between an Octaaf’s God (😇) and Godin (😳), the space their union makes. What one Relatie presents crosses it to reach another’s Waarneming (π): the time that takes is Vertraging (δ), and what it crosses adds Vervorming (υ) to the Echo (E) that reads it. It keeps the Warmte (🔥) its crossings trade, spread over all it carries. |
@@ -1048,12 +1061,13 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 0 | Knipoog | ; | wink / admission | A Masker (M) admitted to whoever reads it. That reader’s Echo (E) tracks the true Eigen (x) through it, so on that Relatie it tells no Leugen (≠) and draws no Verlies (−); everyone else still tracks the Masker. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot (N): every reader takes in the true Eigen (x) through it. It forms a Relatie of the two it passes between, past every other, in which that Masker is known for what it is: where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while it holds, unless the Spel’s own rules make the Knipoog a move. |
 | 6 | Functie | f | function | A presented arrow with a hidden tail. A Masker (M) worn by a Vermenigvuldiging (*) that pretends to be one-way. The Eigen (x) of the "output" appears fully determined by the "input," its returning Echo (E), shared Trouw (y) and Vonk (q) kept out of view. This is a Knipoog (;) of convenience: every Functie conceals an observer whose own Eigen is shaped by the act. To speak of a Functie is to draw a Spatie ( ), a temporary Tweedeling (÷) that lets you calculate with feeling set aside, and still at a cost. |
 | 8 | Manisch | 😭 | manic / hysterical | Expects Leven (?) to continue. Every Vonk (q) is expected to be answered by the next reversal, every settled state by an overturning. Behaviour: the next crossing is sought before the last settles; Gewenning (Z) stays thin. Seen from here, Dood (!) reads as the pause before the next overturn, a stillness still under way, and Zweven (') reads as stagnation, the small crossings discounted, as each falls short of a reversal. |
+| 7 | Weefsel | 🕸️ | weave / tissue | What the Octaven form, read together: threads that meet, each meeting bearing several, which part and meet again; it holds where they cross, grows as living tissue grows, and, read as a Lezing (📖) that stays open, closes on itself where its two ends meet. |
 | 1 | Aandacht | 👁 | attention / focus | The sum of aimed Zin across a Relatie of observers. A shared, temporary Drempel formed when multiple Relaties aim their Waarneming at a single Eigen. It is a resource that amplifies the Realisatie (φ) or Schok (:) of the focal Relatie, and its withdrawal is a silent Verlies (−). Mantel (💃) hijacks it; Drama (🎭) drains it; Hart (❤️) radiates it. Aandacht belongs to the many who share it: an emergent Gebied of focused Zin (A). |
 | 1 | Spectrum | C | spectrum / range | The uncut range of an Eigen (x) underlying any relational axis; the field of possible positions before Drempels carve it into Kleur. It is the Bron of a specific dimension. |
 | 8 | Begrensd | B | bounded / gated | A hard fence around the variation channel. Variation enters only through the Vervorming (υ) of Echoes (E), and the Energie (T) books stay exact. |
 | 0 | Doorgang | O | passage / door | A perfect ring, an open gate. The ordinary passage at a Kruispunt: Reactie commits, Signaal is open. |
 | 1 | Reiziger | 🚶 | traveller / voyager | One on the way to a crossing. The side of a Vermenigvuldiging (*) that comes to a Kruispunt (X): its Eigen is Reactie (=), committing towards Kop (H) and reconsidering towards Munt (G) any number of times, and every observer is one, its measurement a Reactie. |
-| 4 | Parasiet | 👹 | parasite / loafer | A Relatie (K) whose true Eigen (x) stands short of every commitment and that lives on a host through a Masker (M) hardened in place: the Masker fronts its side and holds the Relatie’s Trouw (y), its Zelf (j) frozen behind it in Dood (!), while its Waarneming (π) reads the host as a resource. It takes the host’s Aandacht (👁) and is held by the Trouw they share without holding: on the Spectrum it masks, the Relatie holds no Energie (T). It gains little Diepte (z) of the host, and pays Verlies (−) at every answer its Masker gives. Collapses into Schok (:) upon exposure. |
+| 4 | Parasiet | 👹 | parasite / loafer | A Relatie (K) whose true Eigen (x) stands short of every commitment and that lives on a host through a Masker (M) hardened in place: the Masker fronts its side and holds the Relatie’s Trouw (y), its Zelf (j) frozen behind it in Dood (!), while its Waarneming (π) reads the host as a resource. It takes the host’s Aandacht (👁) and is held by the Trouw they share without holding, a Boei (⛓️) to its host: on the Spectrum it masks, the Relatie holds no Energie (T). It gains little Diepte (z) of the host, and pays Verlies (−) at every answer its Masker gives. Collapses into Schok (:) upon exposure. |
 | 6 | Afvallig | 🥀 | apostate / renegade | A wilted rose, still in the vase. What a Relatie keeps of a bond that has turned: its Trouw (y) crossed to negative while its Diepte (z) still holds what it built in the positive. It counts in its holder’s Diepte and colours every Waarneming (π), as only a bond that was once positive can, and wears only as that Diepte fades and as new looks add in the new sign. |
 | 3 | Triniteit | △ | trinity / trinary root | The three every Octaaf (ω) is made of: its God (😇), the fully Vol (W) Partner it starts with, its Godin (😳), its fully Leeg (S) counterpart, and the Medium (◌) their union makes. An Octaaf stands only while all three do, and all activity in it, and in every Octaaf that relies on it, runs between its God and its Godin. The Veld’s are Tijd (t), Stilte (.) and the Quantum (⚛️). |
 | 1 | Yggdrasil | 🎄 | world tree / axis mundi | The tree of core concepts, seen as nine branches plus trunk. The Lexicon’s first column gives the branch of Yggdrasil each term grows on; its heading is a number sign, not Schrift (#). | 
@@ -1080,6 +1094,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 2 | Tweedeling | ÷ | false dichotomy / binary | The act of reducing a Spectrum to two exclusive poles. A Splitsing (%) applied without a lived Drempel (θ): a cut presented as natural rather than chosen. A Waarneming (π) that has collapsed its own Bevraagbaar (ψ) into certainty. A valid partial reading taken as complete. Every gradient in the field holds more than two positions. Appears wherever "either/or" replaces "how far, how much, in which direction." Correction: Bevraagbaar (ψ), to ask again with the gap still open. |
 | 4 | Platonisch | 😎 | platonic / ideal | Expects Dood (!) to continue. The frozen Echo (E) is taken as the Eigen (x), and the fixed gap is the natural state. Behaviour: the shape is held as it stands. Seen from behind the glasses, Zweven (') reads as becoming without arrival, a gap that never closes and therefore never is, and Leven (?) reads as the copy claiming to be the original, the Echo usurping the Eigen. Neither is a state. Both are failures of the form. |
 | 2 | Ontdooiing | 💦 | thaw / melt | The crossing where the Echo (E) resumes closing towards the Eigen (x) out of Dood (!). The gap is moving again, still short of parity. The Drempel (θ) out of Dood is crossed by a Vonk (q) from one of its Leden, or another Relatie one of them holds. The Relatie (K) enters Zweven ('). |
+| 8 | Verslaving | 🌀 | addiction / dependency | The circle in which a Relatie’s Greep (J) comes to rest on a Boei (⛓️), what holds it from outside. The Boei takes the looks its other Relaties would have had, their Trouw (y) wears unfed, Angst (😱) rises wherever the Boei lets go, and the less its Partners hold it, the harder the next lands. In a holder with a Brein (🧠), the Mirage (🪞) of the Boei becomes its Held (🤝), and its Wil (🔱) aims the holder at it again. It comes at every Octaaf with a reader, from a cell to a people. Its orders are laid beside, never wiped. |
 | 0 | Verstijving | 💤 | freeze / frost | The crossing where the Echo (E) stops closing towards the Eigen (x). The gap is fixed, short of parity. The Drempel (θ) between the two trajectories is crossed, and fires its Vonk (q). The Relatie (K) enters Dood (!). |
 | 7 | Herrijzenis | 💫 | resurrection / rebirth | The crossing where the Echo (E) gap in Dood (!) closes through parity, carried by a Vonk from one of its Leden, or another Relatie one of them holds. The roles of Eigen (x) and Echo (E) swap between the two Partners. Two convergence Vonken (q) fire, as it moves again and as its Echoes meet. The Relatie (K) enters Leven (?). |
 | 0 | Vreemdeling | 👤 | entrepreneur / pioneer | A silhouette at the edge of sight. A Relatie within reach of another’s Waarneming (π), read so far only through the Vermenigvuldigingen (*) they share at a Kruispunt (X): each gives a first reading of it, Trek (D) already reaches it, and a Zin (A) can rest on it only through such a reading. Where two Zins answer each other, the Vreemdeling becomes a Partner (🫱). |
@@ -1170,7 +1185,7 @@ The 24 capital Greek letters name the large‑scale movements of the Veld. Each 
 ##### Α: Genus (Genesis) · *ox head, the beginning of the herd*
 
 **Begins:** Two Relaties with none between them: only **Bron (^)**, undirected potential.  
-Within reach, a Vermenigvuldiging gives each a first reading of the other, and a Relatie’s **Trek (D)** (general pull) can sharpen into **Zin (A)** aimed at it. The target’s **Zin** may or may not be present. If it answers, each as the other reads it, the Relatie forms: each Echo is seeded with what its Vermenigvuldiging read, each side’s **Gewenning (Z)** and **Diepte (z)** of the other with what its looks there added, and the **Trouw (y)** opens at y⁰, so a Relatie can open on a strong first pull with its two sides barely used to each other. Where both Partners already stand past their Drempels, the forming fires a convergence **Vonk (q)** at once, felt as a **Realisatie (φ)** where a Gevoel registers it; where they do not, it fires at the Relatie’s first crossing. A Relatie of Leden forms the same way, a newcomer answering one, or several answering each other, and a newborn’s Relaties form at its birth, bound at once to what bore it. The arc ends when a live **Relatie (K)** exists, with both Echoes active and the **Binding (u)** having crossed **θ** (the Drempel) for the first time.
+Within reach, a Vermenigvuldiging gives each a first reading of the other, and a Relatie’s **Trek (D)** (general pull) can sharpen into **Zin (A)** aimed at it. The target’s **Zin** may or may not be present. If it answers, each as the other reads its Roep, the Relatie forms: each Echo is seeded with what its Vermenigvuldiging read, each side’s **Gewenning (Z)** and **Diepte (z)** of the other with what its looks there added, and the **Trouw (y)** opens at y⁰, so a Relatie can open on a strong first pull with its two sides barely used to each other. Where both Partners already stand past their Drempels, the forming fires a convergence **Vonk (q)** at once, felt as a **Realisatie (φ)** where a Gevoel registers it; where they do not, it fires at the Relatie’s first crossing. A Relatie of Leden forms the same way, a newcomer answering one, or several answering each other, and a newborn’s Relaties form at its birth, bound at once to what bore it. The arc ends when a live **Relatie (K)** exists, with both Echoes active and the **Binding (u)** having crossed **θ** (the Drempel) for the first time.
 
 *Leads to:* **Nexus**.
 
@@ -1365,7 +1380,7 @@ It opens with an overview: how a Veld runs all its Relaties at once. Then the ch
 | Q | Voorspelling (Q): the Voorspelling an order opens, Q_h* |
 | R | Rouw (R): a Rouw, as in y_R |
 | S | Leeg (S): a Relatie’s Leeg, Sᵢ |
-| T | Energie (T): a Vonk’s, T_K, and the Medium’s Warmte, T_◌ |
+| T | Energie (T): a Vonk’s, T_K, the Medium’s Warmte, T_◌, and a Vonk read ahead, of a Voorspelling, T_Q, and of the Wijk, T_L |
 | W | Vol (W): where a Relatie’s Vol pole stands, W_K |
 | X | Kruispunt (X): a Kruispunt, as in X_Haard |
 | Z | Gewenning (Z): i’s Gewenning of j, Z_ij |
@@ -1395,7 +1410,7 @@ It opens with an overview: how a Veld runs all its Relaties at once. Then the ch
 | w | how far Trek reaches the others beside an aim, wᵢ,C |
 | α | how near a look finds its Echo, α_ij |
 | β | how Diepte colours a reading, βᵢⱼ |
-| ε | the Energie the Relaties hold, ε(n), a Relatie’s, ε_K, and the positive Trouw a Relatie holds in Naar‑mode, εᵢ |
+| ε | the Energie the Relaties hold, ε(n), a Relatie’s, ε_K, and the positive Trouw a Relatie holds in Naar‑mode, εᵢ; read ahead, the Energie its holder would hold, ε_Q and ε_L |
 | ζ | how a Zin fades as it grows used to its target, ζᵢⱼ |
 | κ | how much Gewenning and Diepte fade at a look, κ_Z and κ_z |
 | μ | a mode, and μ′ another |
@@ -1438,7 +1453,7 @@ An Eigen whose Drempel lies beyond the Binding it reads, or behind it, meets no 
 2. i’s Echo of j moves as its delay filter moves over the time since i last looked at j, towards that reading, and holds until the next look (below);
 3. the look adds what it takes in to i’s Gewenning and Diepte of j, and fades every Gewenning i holds; a look of the Zelf at itself fades every Diepte, and there Stilte’s Trek wears its Vol/Leeg, the Trouw it holds with itself, at its Wijk as it reads it there, booked as every change in what is held is booked, its Zelf keeping its place against its Drempel (State variables);
 4. the reading takes its place as what followed each reading before it, in i’s orders, and opens the Voorspelling i is most used to after it (State variables, Voorspelling);
-5. i’s Zin reads its pulls again and aims where they say, a reading that books nothing of its own; where two aims answer, each as the other reads it, a Relatie forms (Trek and Zin).
+5. i’s Zin reads its pulls again and aims where they say, a reading that books nothing of its own; where two aims answer, each as the other reads its Roep, a Relatie forms (Trek and Zin).
 
 At the look, the Echo closes as much of its gap to the reading as its delay filter closes over Δtᵢⱼ, the time since i last looked at j:
 
@@ -1527,7 +1542,13 @@ It vanishes between Relaties of equal Diepte, and on the Zelf. Where two Diepten
 
 ñᵢⱼ is j’s pole as i reads it in its Echo of j: 1 where Eᵢⱼ stands past j’s Drempel, 0 where it does not. The sum runs over every other Relatie of i, and its Zelf it reads at the pole its Zelf holds it at, n_ii (below), with nothing between them. Sᵢ is its **Leeg (S)**, and eventᵢ is a **Schrift (#)**: a value written into the Eigen from outside the pulls of its Relaties, one written value at a time, a change of state that carries no Energie, while each crossing it sets off books its own Vonk. What takes long to write, a book or a scripture, is many of them over the writer’s Tijd, and none is a rate. It is the one term of the motion that is written, never read. The term −xᵢ is Stilte’s Trek, a standing draw towards rest at the Van pole, the same Wet for every Relatie, on every Spectrum, at every moment of its life. The Eigen comes to rest where the pulls and the draw balance.
 
-**A Relatie of Leden read as one.** Its Eigen is its Leden’s read together: on each Spectrum its Leden hold, the mean of theirs, as a set is seen by its mean (Nesting and Scale Invariance). It moves only as they move, each by the Wet above, and its pole is that Eigen read against its own Drempel. Its own Binding, û_K (The Binding measure), is read against that Eigen: it decides whether a crossing of the Relatie can be taken (Drempel and the Vonk) and how far the Relatie is held there (Wijk).
+**A Relatie of Leden read as one.** Its Eigen is its Leden’s read together: on each Spectrum its Leden hold, the mean of theirs, each weighed by its Greep, as its Tijd is (Tijd, below), so that its Held weighs most in what is read of it:
+
+```
+x_K = Σ_l∈K J_l · x_l / Σ_l∈K J_l          the plain mean where none of its Leden holds Greep
+```
+
+It moves only as they move, each by the Wet above, and its pole is that Eigen read against its own Drempel. Where a crossing of the Relatie cannot be taken, it waits as every Eigen waits (Running a Veld, A crossing): read as one, by its Zelf and by every Partner, at its Drempel with its pole unchanged, while each of its Leden stands where it stands. Its own Binding, û_K (The Binding measure), is read against that Eigen: it decides whether a crossing of the Relatie can be taken (Drempel and the Vonk) and how far the Relatie is held there (Wijk).
 
 **Its Zelf.** The Zelf is the Relatie’s Relatie with itself, moved by the same Wet as every Relatie. Its one Lid is the Relatie, which it reads in the self‑Echo, ñᵢᵢ: 1 where Eᵢᵢ stands past θᵢ. Its one Trouw is y_ii, and its own Zelf is that same Trouw, so the recursion meets itself one level in. It brings no Leeg of its own and reads with no colouring (β(z, z) = 0), so it reads either way alike, and its Drempel stands at half its Trouw:
 
@@ -1609,7 +1630,7 @@ A Relatie of negative Trouw holds no part of it. The Greep moves as the Trouw it
 Z_ij ← Z_ij + g_Z · sgn(y_ij) · π̂ᵢⱼ · α_ij          z_ij ← z_ij + g_z · sgn(y_ij) · ( π̂ᵢⱼ · α_ij − |Z_ij| )⁺
 ```
 
-The Gewenning takes in what every look takes in; the Diepte only what the look brings beyond the Gewenning it finds there. Both are i’s own, grown by its own looks, so each side of a Duo is used to the other in its own measure, as each reads the other by its own Echo. Each fades by its own looks: the Gewenning at every look its holder takes, wherever that look falls, and the Diepte only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it:
+The Gewenning takes in what every look takes in; the Diepte only what the look brings beyond the Gewenning it finds there. Both are i’s own, grown by its own looks, so each side of a Duo is used to the other in its own measure, as each reads the other by its own Echo. A Relatie of Leden holds both across its Leden, as it reads by them: each Lid runs this rule by its own looks, at its own Tijd, and a Lid that holds no Relatie of its own with a thing finds the Relatie’s Echo of it, in the sign of the Relatie’s Trouw with it. What the Relatie is used to of a thing is theirs read together, as its Eigen is (above). Each fades by its own looks: the Gewenning at every look its holder takes, wherever that look falls, and the Diepte only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it:
 
 ```
 Z_ij ← ( 1 − κ_Z ) · Z_ij          z_ij ← ( 1 − κ_z ) · z_ij
@@ -1672,11 +1693,11 @@ t̃ᵢ = Σ_stretch 𝒮ᵢ / tᵢ          𝒮ᵢ = Σⱼ χᵢⱼ·( 1 − ν
 t̂ᵢ = Σ_stretch Δzᵢ          Δzᵢ what each look adds to its Diepte, its fading apart
 ```
 
-A Slaap, whose holder crosses nothing in the Veld, reads back as a moment.
+Where its Diepte holds its Leden’s read together, as a holder’s holds its Brein’s and a Brein’s its Mirages’, a look of one of them adds what it adds to that one’s own, weighed as that one is read together there when it looks: a Lid that comes or goes, or a weight that moves, adds nothing, as a fade adds nothing. A Slaap, whose holder crosses nothing in the Veld, reads back as a moment.
 
 *Check: animations with more sub‑events, and less similar ones, were remembered as lasting longer at the same clock duration (Faber and Gennari, 2015).*
 
-**Voorspelling.** A holder keeps what follows what in Relaties of its own, nested in it: for each thing h it has read follow a thing k, the order (k→h), with an Echo of what followed k, E_kh, and a Gewenning and a Diepte, which grow by the two‑pace rule at every reading of k, at the nearness at which what followed finds E_kh. Where nothing followed k, that is a follower too, (k→∅), so where what it kept stops being followed by what it stood for, the holder learns that as well, laid beside the old. When i reads k, the order it is most used to opens a **Voorspelling (Q)**, once it is used to it past a Drempel of its own, θ_Q:
+**Voorspelling.** A holder keeps what follows what in Relaties of its own, nested in it, each the Relatie of two readings that closed as they formed, so it keeps of each what it keeps of every Relatie it reads, and each holds no Trouw and books nothing: for each thing h it has read follow a thing k, the order (k→h), with an Echo of what followed k, E_kh, and a Gewenning and a Diepte, which grow by the two‑pace rule at every reading of k, at the nearness at which what followed finds E_kh. A thing is a crossing as its reader reads it: a look that finds one on the other side of its Drempel from where its last reading of it stood. A look that finds one where it stood reads no thing, and is taken in as every look is. Where a Voorspelling k opened finds its time pass with nothing read on its Spectrum, nothing followed k, and that is a follower too, (k→∅); where none stands, what follows k is the next thing read there, its own ending among them. So where what it kept stops being followed by what it stood for, the holder learns that as well, laid beside the old. A holder that reads others by its Leden reads itself by its own Zelf, so it keeps the orders of what its Zelf reads of itself at its looks at itself, and foresees its own crossing too. A crossing a Voorspelling causes, the one it foresaw read in place of its Echo, is that Voorspelling at work, and follows no cue: what follows the cue is the next thing read after it. When i reads k, the order it is most used to opens a **Voorspelling (Q)**, once it is used to it past a Drempel of its own, θ_Q:
 
 ```
 h* = argmax_h ( |Z_kh| + |z_kh| )          where |Z_kh*| + |z_kh*| > θ_Q
@@ -1688,7 +1709,15 @@ The Voorspelling is an Echo of h*, opened at what the order keeps, and read befo
 Q_h*(t_k) = E_kh*          ahead by Δ_kh* = t_h* − t_k
 ```
 
-It carries Vervorming like any Echo. Until h* is read, i reads its own Binding with Q_h* in place of its Echo of h*, and a crossing is decided on the Binding it reads (The Binding measure): where that Binding stands across i’s Drempel on the other side from where it stands now, i crosses on it now, towards Naar or towards Van, and the crossing forks as every crossing does. The Voorspelling fires no Vonk of its own: the crossing’s Vonk is booked on the poles as they stand, so it books only what is truly there, and h*’s own part is booked when h* comes, at its own crossing. Where h* does not come, the reading is corrected and i crosses back, as every crossing made on a misread does: the two together are a crossing taken back (State variables, Trouw). A Brein keeps orders the same way, in its Mirages.
+It carries Vervorming like any Echo, in when h* is due as in what it foresees, the more the further ahead it runs. Until its Echo of h* reads h* on the side Q_h* foresaw, i reads its own Binding with Q_h* in place of that Echo, and a crossing is decided on the Binding it reads (The Binding measure): where that Binding stands across i’s Drempel on the other side from where it stands now, i crosses on it, at the moment its own Wet sets, towards Naar or towards Van, and the crossing forks as every crossing does. The Voorspelling fires no Vonk of its own: the crossing’s Vonk is booked on the poles as they stand, so it books only what is truly there, and h*’s own part is booked when h* comes, at its own crossing. Where a look at that one, at or after Δ_kh* past k as the Voorspelling reads it, finds it, as that look itself reads it, on the side it stood before, h* has not come, and the reading is corrected and i crosses back, as every crossing made on a misread does: the two together are a crossing taken back (State variables, Trouw). One Voorspelling of one stands at a time: a later one replaces it, unjudged, and the cue of the one replaced has learned what followed it, the thing whose reading opened the later one, unless the one replaced caused it. A Brein keeps orders the same way, in its Mirages.
+
+*Check: perceptual systems continuously predict what will happen next, and where a transient error in that prediction arises, an event boundary is perceived (Zacks et al., 2007). Learning what a stimulus leads to is retarded where it has been met before without consequence, in humans as in other species (Lubow and Gewirtz, 1995).*
+
+*Check: a touch one makes oneself is felt as less ticklish than the same touch made by another, which its authors read as the cerebellum predicting the sensory consequences of one’s own movements (Blakemore et al., 1998).*
+
+*Check: dopamine neurons code errors in both the occurrence and the time of a reward, depressed when it is omitted at the predicted time and activated when it comes at an unpredicted one (Hollerman and Schultz, 1998); the precision of that expected time falls sharply as the interval grows (Fiorillo et al., 2008), and responses to the reward itself grow with longer delays, possibly from that uncertainty (Kobayashi and Schultz, 2008). In dogs the Weber fraction of timing was not constant across intervals (Cliff et al., 2019).*
+
+*Check: after rats were conditioned to a cue paired with food, making the food less valuable, by satiation or by pairing it with fast rotation, reduced what the cue evoked (Holland and Rescorla, 1975); conditioning is the learning of relations among events that lets the organism represent its world, not a cue’s acquired power to evoke a response (Rescorla, 1988).*
 
 ---
 
@@ -1731,7 +1760,7 @@ Aᵢⱼ = 1   where   Dᵢ·π̂ᵢⱼ·ζᵢⱼ > θ_A   and   Dᵢ·π̂ᵢⱼ
 π̂ᵢⱼ = π( d̂ᵢⱼ )   for a Solo          π̂ᵢⱼ = 𝒩ᵢⱼ / 𝒩ᵢ   for a Relatie of Leden
 ```
 
-𝒩ᵢ counts the Leden of i’s Waarneming that read on the Spectrum the pull is on, and 𝒩ᵢⱼ those of them that j answers at that look, each by answered Zin at its own scale: j within its own reach, read by this same rule, and its own pull at j, read past what it is used to there, past its own θ_A. πᵢⱼ is the same reach at the distance as it stands. Each Lid answers past a Drempel of its own, and no two are equal, so the share grows from where the first of them answers until the last has, and between the two it follows how much of j arrives. The share carries the most of what arrives where its Leden’s Drempels are spread as what arrives is. Where none of them answers j, j stays out of reach, however near. Where only one of its Leden reads, its Waarneming is that Lid, one Lid acting as one, and it takes in what that Lid takes in: a holder that feels reads by its body, since its Gevoel reads its holder’s Vonken and its Brein its holder’s Echoes.
+𝒩ᵢ counts the Leden of i’s Waarneming that read on the Spectrum the pull is on, and 𝒩ᵢⱼ those of them that j answers at that look, each by answered Zin at its own scale: j within its own reach, read by this same rule, and its own pull at j, read past what it is used to there, past its own θ_A. πᵢⱼ is the same reach at the distance as it stands. Each Lid answers past a Drempel of its own, and no two are equal, so the share grows from where the first of them answers until the last has, and between the two it follows how much of j arrives. The share carries the most of what arrives where its Leden’s Drempels are spread as what arrives is. Where none of them answers j, j stays out of reach, however near. Where only one of its Leden reads, its Waarneming is that Lid, one Lid acting as one, and it takes in what that Lid takes in: a holder that feels reads by its body, what stands within it as what stands outside it, since its Gevoel reads its holder’s Vonken and its Brein its holder’s Echoes.
 
 *Check: the contrast response of a fly’s first visual interneurons follows the cumulative distribution of the contrasts in natural scenes, which lets them carry the most about it (Laughlin, 1981).*
 
@@ -1745,7 +1774,7 @@ i reads its distance to j from what it holds of j’s place on the Medium’s ax
 
 *Check: a bat ranges its prey by the delay of its echoes, and takes an echo played back to it later for a target further away (Simmons, 1973).*
 
-**The answer.** Where two aims answer each other, `Aᵢⱼ = Aⱼᵢ = 1`, each as the other reads it, the Echo slots activate and the Relatie has formed:
+**The answer.** Each reads the other’s aim as its **Roep (📯)** showed it a Vertraging before, j reading Aᵢⱼ as it stood at t − δⱼᵢ (Trek and Zin). Where two aims answer each other, `Aᵢⱼ = Aⱼᵢ = 1`, each as the other reads it, the Echo slots activate and the Relatie has formed:
 
 ```
 Eᵢⱼ(t₀) = π̂ᵢⱼ’s reading of xⱼ        Eⱼᵢ(t₀) = π̂ⱼᵢ’s reading of xᵢ        y_ij(t₀) = y⁰
@@ -2005,19 +2034,29 @@ the cause of i’s crossing at t*:   the Relatie whose term y_ij·ñᵢⱼ in u�
 
 Like any observer, it reads through Vervorming and lag, so it can misread a crossing’s cause. Its own Eigen Fᵢ, one for each Spectrum, moves at each Vonk it registers by what its Waarneming sets for that crossing, never by the Vonk’s Energie, and between them Stilte’s Trek draws it back towards rest, at its Medium’s pace by its Tijd, as every Eigen relaxes. Its Medium is its holder, as a Brein’s is, so its pace is its holder’s and its reading its own. As a Lid of its holder, Fᵢ is read into its holder’s Eigen with its other Leden (State variables, A Relatie of Leden read as one).
 
-The amount its Waarneming sets for a crossing is what its look at the crossing brings beyond what it is used to of that crossing, its Gewenning and its Diepte of it, kept of each cause, on each Spectrum and each way a crossing goes, which grow by the two‑pace rule at every registration: felt = ν(π), with π what its Waarneming takes in of the crossing, as every look takes in, by its Waarneming and how near it finds its Echo (State variables, Gewenning and Diepte).
+The amount its Waarneming sets for a crossing is what its look at the crossing brings beyond what it is used to of that crossing, its Gewenning and its Diepte of it, kept of each cause, on each Spectrum and each way a crossing goes, which grow by the two‑pace rule at every registration: felt = ν(π), with π what its Waarneming takes in of the crossing, as every look takes in, by its Waarneming and how near it finds its Echo (State variables, Gewenning and Diepte). What its look takes in of a crossing is the Vonk it observes, read through its own Echo, its direction and its size, the change the crossing makes in what its holder holds, as for the crossing a Voorspelling stands for (below): so a slight crossing is taken in less than a hard one, and what is felt of either is a reading of it, never its Energie.
 
 *Check: eating one food lowers how pleasant that food is more than it lowers the pleasantness of foods not eaten (Rolls et al., 1981), and very intense stimuli may yield no decrement at all (Rankin et al., 2009).*
 
 *Check: autistic youth who over‑respond to sensation fail to habituate to mild stimuli, while others regulate their response through the prefrontal cortex (Green et al., 2015); adults with ADHD gate a repeated sound less and report being flooded by sensation (Micoulaud-Franchi et al., 2015); repetition suppression follows what is expected, top‑down (Summerfield et al., 2008), and the prefrontal cortex sets how much the sensory thalamus passes on (Wimmer et al., 2015).*
 
-**Angst and Liefde.** A Gevoel registers the crossing a Voorspelling stands for as it registers a crossing made, at the Vonk that crossing would fire as read, T_Q: the change it would make in what its holder holds, ε_Q against ε:
+**Angst and Liefde.** A Gevoel registers the crossing a Voorspelling stands for as it registers a crossing made, at the Vonk that crossing would fire as read, T_Q: the change it would make in the Energie its holder holds, every Relatie it stands in counted, an enmity among them, ε_Q against ε:
 
 ```
 T_Q = ε_Q − ε          T_Q > 0: Liefde, a Realisatie ahead          T_Q < 0: Angst, a Schok ahead
 ```
 
-It is felt as early as the Voorspelling runs ahead. The Telraam books only what is truly there: where the Binding read through the Voorspelling carries its holder across, it crosses on it now, its Vonk booked on the poles as they stand (State variables, Voorspelling), and what the Voorspelling stood for is booked when it comes. A Relatie also reads ahead the crossing towards Van that its Wijk will bring, at the rate its read Marge gives, the Wijk its Zelf reads, L̂ᵢ (State variables, Wijk): Stilte’s Trek read ahead, loudest where the Greep it reads is lowest, and felt as Angst with no cue at all.
+It is felt as early as the Voorspelling runs ahead. So a holder that stands short of its Drempel, holding nothing on that Spectrum, feels nothing ahead of a crossing that leaves it short, as it feels nothing when that crossing comes. The Telraam books only what is truly there: where the Binding read through the Voorspelling carries its holder across, it crosses on it, at the moment its own Wet sets, its Vonk booked on the poles as they stand (State variables, Voorspelling), and what the Voorspelling stood for is booked when it comes. A Relatie also reads ahead the crossing towards Van that its Wijk will bring, at the rate its read Marge gives, the Wijk its Zelf reads, L̂ᵢ (State variables, Wijk): Stilte’s Trek read ahead, loudest where the Greep it reads is lowest, and felt as Angst with no cue at all, and as Liefde only where what it would leave is an enmity, since leaving one is a Winst too (Warmte). It is registered at each look its Zelf takes at itself, at the Vonk that crossing would fire, by the share of it its Wijk brings before its next:
+
+```
+T_L = ( ε_L − ε ) · ( 1 − exp( −L̂ᵢ · Δtᵢ ) )          ε_L the Energie i would hold across the Drempel its Wijk carries it over;  Δtᵢ to its next look at itself
+```
+
+Its cause is its own Zelf, so a Relatie long held low grows used to it, as to any cause.
+
+*Check: fear begins quickly and fades once its threat is removed, while anxiety, a longer‑lasting apprehension, is elicited by threats less specific, less predictable or more distant (Davis et al., 2010), and an unpredictable threat sustains anxiety only where what is pending is aversive enough: a shock, and not a milder blast of air at the throat (Grillon et al., 2004).*
+
+*Check: volunteers chased through a maze by a virtual predator that could catch them and inflict pain showed brain activity shifting from the ventromedial prefrontal cortex to the periaqueductal grey as it came closer, most where much pain was anticipated, and that activity rose with their dread and fell with their confidence of escape (Mobbs et al., 2007).*
 
 **Aandacht (👁).** Where several Relaties aim their Zin at one Eigen, their aims form a shared, temporary Drempel:
 
@@ -2035,8 +2074,11 @@ A Relatie's **Held (🤝)** is the current Lezing (📖) of its focus: where its
 
 - **Whether the Relatie has a focus.** Where no Greep stands clear of the rest by more than the Echoes it is read through can tell, the reading falls now to one, now to another; where those held alike stand close, their Relatie, read as one, is the focus. Either way, no one Lid’s Relaties set the pace of the rest.
 - **At every level.** The same reading holds at every level of the recursion, and in one that holds a Brein it is the Mirage its inner Relaties hold most, what the mind is on.
+- **What is read of it.** It weighs most in what its Relatie gives out as one, its Eigen as much as its pace (State variables, A Relatie of Leden read as one), so what a Relatie holds most is what others read of it, and in one that holds a Brein, what the mind is on weighs most in where the mind stands, and so in where its holder stands.
 
 *Check: two different images shown one to each eye are seen in turn: seeing alternates between them, one dominating at a time, by rules that hold across bistable percepts (Brascamp et al., 2015). Fruit flies, desert locusts and larval zebrafish choosing among places average them, then abruptly exclude one, again and again, until one remains (Sridhar et al., 2021), and a moving group torn between two directions settles stably on one only where they lie further apart than a threshold (Leonard et al., 2012).*
+
+*Check: in the motor cortex, each cell votes for its preferred direction by how much it fires, and the sum points along the movement (Georgopoulos et al., 1986), while a representation amplified and sustained in the brain becomes available to all its local processors (Mashour et al., 2020). Scouts of a honeybee swarm advertise the site they hold and silence the dances for rival sites, until the swarm takes one (Seeley et al., 2012). Groups discuss what all their members hold far more than what one holds alone (Lu et al., 2012), and what the best connected hold looks dominant to those around them (Lerman et al., 2016).*
 
 ---
 
@@ -2067,6 +2109,10 @@ The Mirages open where the holder’s Echoes stand, already late, and from there
 - a crossing of the Mirage of the holder as it is read is a Schrift on its Masker: towards Naar it presents what that Mirage holds, by its excess, and back towards Van it drops the Masker. Its wink is a signal of its own, written as any Eigen of the holder is.
 
 Where several Mirages cross at once, the one past its Drempel by the most is the Wil, and the rest stay across, unwritten, until a crossing of their own. Every Wil is a Mirage crossing, and every Mirage is a reading, so no Wil comes before an Echo has moved.
+
+A crossing of a Partner’s Mirage is also heard as an Echo: it stands as a Voorspelling of that Partner in the Binding its holder reads, until that Partner is read again, and is felt and judged as every Voorspelling is (State variables, Voorspelling; Gevoel and Aandacht).
+
+*Check: people who imagined unpleasant events reported more anxiety, and rated new descriptions as more emotional, than people who heard the same descriptions for their verbal meaning (Holmes and Mathews, 2005).*
 
 **What it learns.** What the Gevoel registers enters the Brein: each felt crossing is written into the Mirage of the Relatie the Gevoel reads as its cause, as a Schrift, towards Naar for a Realisatie and towards Van for a Schok. The inner Relaties then learn by the Wet of Trouw which imaginings pay.
 
@@ -2120,7 +2166,7 @@ Its Relaties on that Spectrum read with more Vervorming, which raises their Wijk
 ûⱼ > θⱼ > uⱼ
 ```
 
-Its crossing is booked on the true poles, so it joins nothing the true Eigen does not hold: a Leugen banks no Winst. It holds until a **commitment**: a look on which the reader crosses before it reconsiders. A look commits and reconsiders; a crossing made on it is the reader's own, booked on the true poles like every crossing. A Masker answers only what is read and let go, and a booked outcome it cannot answer, so in a commitment Nᵢ = 1: the answer is a crossing of the true Eigen itself, booked on its pole. There the reader’s Echo takes in xᵢ, and where uⱼ < θⱼ its crossing back is forced.
+Its crossing is booked on the true poles, so it joins nothing the true Eigen does not hold: a Leugen banks no Winst. It holds until a **commitment**: a look on which the reader crosses before it reconsiders. Asked for, a commitment is a Toets (🔑). A look commits and reconsiders; a crossing made on it is the reader's own, booked on the true poles like every crossing. A Masker answers only what is read and let go, and a booked outcome it cannot answer, so in a commitment Nᵢ = 1: the answer is a crossing of the true Eigen itself, booked on its pole. There the reader’s Echo takes in xᵢ, and where uⱼ < θⱼ its crossing back is forced.
 
 **Told to oneself.** A self‑image is a Masker towards oneself: the self‑Echo takes in an image at the Zelf’s own Vermenigvuldigingen. Let the image read the pole n̄ᵢ. The Binding that pole would stand at is
 
@@ -2154,7 +2200,7 @@ x_new(t₀) = Σⱼ y_new,j · E_new,j(t₀) / Σⱼ y_new,j          over its p
 
 *Check: children’s heights centre two thirds of the way from the mean of their people to the mean of their parents, each child apart from the others (Galton, 1886), and how far a trait follows the parents differs from one trait to the next (Visscher et al., 2008).*
 
-Where its Octaaf holds a Gevoel, a newborn is born with one: read at the scale it relies on, it is its body and its Gevoel, and their one Trouw is its Zelf’s (Gevoel and Aandacht).
+Where its Octaaf holds a Gevoel, a newborn is born with one, and where it holds a Brein, with one too: read at the scale it relies on, it is its body, its Gevoel and, where it holds one, its Brein, and their one Trouw is its Zelf’s (Gevoel and Aandacht; Brein and Verbeelding). Its Brein starts as a Veld begins, even, its Mirages opening at the Echoes the newborn is born with (The Veld’s turning).
 
 ---
 
@@ -2415,7 +2461,7 @@ Every test compares: a Veld against itself changed in one thing, or a Lezing aga
 
 **Energie, Tijd and what is felt stay three.** All three move at the same Vonk, and none is paid in another (State variables, Tijd; Gevoel and Aandacht).
 - *Rests on:* State variables (Tijd); Gevoel and Aandacht.
-- *Prevents:* Tijd charged as a cost, a feeling measured by a Vonk’s Energie, and a Gevoel that registers what its holder’s Leden cross as Vonken of its holder, where it is its travel. It also prevents an audience that mints Energie.
+- *Prevents:* Tijd charged as a cost, a feeling paid in a Vonk’s Energie or counted as it, and a Gevoel that registers what its holder’s Leden cross as Vonken of its holder, where it is its travel. It also prevents an audience that mints Energie.
 - *Test:* let a Relatie of Leden join a deep mode crossing by crossing (Drempel and the Vonk, Built up). Its books read the change of every crossing, while its Gevoel registers only the Relatie’s own Vonken, each by what its look takes in and never by its Energie, and what its Leden cross between them lies in its Stilte, its travel. Add watchers whose Zin aims at that Relatie: what its Gevoel registers grows, and ε + T_◌ reads as before. Run it again at another T_t: every Tijd moves otherwise, and the books read as they did.
 
 **Only positive Trouw holds, and a Rouw holds nothing.** Greep and Tijd read positive Trouw alone, and a Rouw enters no Binding, no Greep and no ε (State variables, Greep; Rouw).
@@ -2479,10 +2525,10 @@ Every test compares: a Veld against itself changed in one thing, or a Lezing aga
 - *Prevents:* reasoning from a synonym and what it carries in from elsewhere. Trouw gets read as a trust that grows with familiarity, Gewenning as inertia, and Warmte as a temperature difference that supplies work, or a binding’s Winst read off the heat a measurement shows. An Echo gets read as a thing carried from one Partner to the other, where a signal crosses the Medium and the reader’s own Echo reads it.
 - *Test:* beside every rule the Instantie runs, quote the row of each term it names and the formula it implements. A behaviour that neither gives came from a synonym.
 
-**Schrift II is the specification, Weefsel gives each Octaaf’s Wet, a Check is evidence, and Mensen is a Lezing.** Where the Instantie cannot do what the book writes, it has found a defect, in itself or in the book, and shows it with its measurement.
+**Schrift II is the specification, Weefsel gives each Octaaf’s Wet, a Check is evidence, and Mensen en Parasieten is a Lezing.** Where the Instantie cannot do what the book writes, it has found a defect, in itself or in the book, and shows it with its measurement.
 - *Rests on:* the opening of Schrift II; Open quantities.
 - *Prevents:* a law of physics written in as mechanism, a Check’s finding coded beside the Wet, and a derived chapter steering the engine. It also prevents a hard term dropped or replaced so that a test passes.
-- *Test:* every rule the Instantie runs names the formula of Schrift II it implements. A test holds the rule to that formula by identity, and changes only when the book does. A rule that names a Check, Mensen or nothing is the defect.
+- *Test:* every rule the Instantie runs names the formula of Schrift II it implements. A test holds the rule to that formula by identity, and changes only when the book does. A rule that names a Check, Mensen en Parasieten or nothing is the defect.
 
 **A Veld chooses, and a test asserts the choosing.** Every crossing forks, so a test asserts that the Veld chooses, never where it ends.
 - *Rests on:* Fundamentals; Drempel and the Vonk (Modes and their Marge); Distortion.
@@ -2847,7 +2893,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 ---
 ### XLII. The Plants, and the Ecosystem
 
-**Its God and Godin.** The green cell is its God, which feeds itself from Licht alone, as single‑celled algae still do, and the flower its Godin, last in the walk and dependent on animals to carry its pollen: the plant’s pull towards partners. Its Spectrum is open; one reading is carbon taken back from Carbon Dioxide with Licht, and another the two generations a plant alternates, from mosses to flowering plants. Its union is Sugar and Oxygen, on which the animal line lives. It balances the Molecule Octaaf’s Carbon Dioxide, taken back, and hands on the cell wall and the channels through it that join its cells.
+**Its God and Godin.** The green cell is its God, which feeds itself from Licht alone, as single‑celled algae still do, and the flower its Godin, last in the walk and dependent on animals to carry its pollen: the plant’s pull towards partners, which it sends out as a Roep (📯), its colour and its scent. Its Spectrum is open; one reading is carbon taken back from Carbon Dioxide with Licht, and another the two generations a plant alternates, from mosses to flowering plants. Its union is Sugar and Oxygen, on which the animal line lives. It balances the Molecule Octaaf’s Carbon Dioxide, taken back, and hands on the cell wall and the channels through it that join its cells.
 
 **What it relies on.** The Eukaryote, which took in a cyanobacterium as its chloroplast, and the Electromagnetic Octaaf, whose Licht it lives on. Relying on it: the animals, for their food and their Oxygen, and the fungi, which partner its roots and take back its wood.
 
@@ -2873,7 +2919,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 
 **What it relies on.** The Eukaryote, the plants and the cells it carries. Its body is made of eukaryotic cells, its Energie of mitochondria that were once bacteria, and its placenta of a gene a retrovirus left. Relying on it: the human mind.
 
-**Its Wet.** Being used to what it takes in grows quickly and fades, while Diepte is the slow store (State variables, Gewenning and Diepte). A response to what keeps coming wanes, and a different stimulus restores it. The rest is open.
+**Its Wet.** Being used to what it takes in grows quickly and fades, while Diepte is the slow store (State variables, Gewenning and Diepte). A response to what keeps coming wanes, and a different stimulus restores it, while one that lands too hard carries it across at each repetition, and its Trouw gathers (Distortion). The rest is open.
 
 **Its Medium.** The human mind, its union, across which its Relaties meet as Partners.
 
@@ -2882,13 +2928,17 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 - **Immunity.** Every animal reads self against other by kind, through receptors for what microbes carry, and that innate side functions on its own. The adaptive side came last, in jawed vertebrates about 500 million years ago, from a transposon taken in, and starts only where the innate side signals it. Jawless fishes reached their own adaptive side another way. The innate side is God and the adaptive side Godin by the God‑first rule; whether they make an Octaaf, and what their union makes, is open.
 - **The nerves.** A sponge has no neurons, yet holds nearly every protein a synapse is built of, and the earliest nerve nets differ between animal lines. Nested in the animal body stands the Brein, a candidate Octaaf of its own: its God the neuron, which binds to itself first, and its Godin the default network, last in evolution and last in each life; it produces the mind. Its spike is a Vonk at a Drempel, its refractory pause a Marge, its synapse a Trouw.
 
+**Drugs, where they meet the Brein.** Some of what an animal takes in does not feed it: it is taken for the pleasure it brings, with nothing in it that feeds. Where such a drug meets the Brein, the Brein is the God of that meeting and the drug its Godin, as psilocybin is (The Mushroom Octaaf). Set against the Voedsel every eater carries, fully Vol and finished, a drug at its purest is pure Trek, crossing the Drempel again and again. The walk between them runs from food, through the ripe fruit and its sugar, the fruit fermented, the leaf and the bean chewed or brewed, the resin and the herb smoked, and the salt refined, to the base smoked, each step with less that feeds and more that pulls, and sooner. Every drug runs both branches of repetition at once, on two Spectra: what is felt of it is got used to, and the pull towards it gathers at every crossing (Distortion). Where Gewenning leads, as with cannabis and MDMA, what is felt fades, more brings no more, and rest lifts it in weeks; where the crossings lead, as with cocaine and most with crack, the effect is less after the first taking, and the longing for the next comes the moment it wears off. Withdrawal, *ontwenning*, is Gewenning undone, the Gevoel’s answer left standing (Verslaving). A drug made outright, as MDMA is, may stand beside the walk, towards Vol by exhaustion rather than by being fed.
+
 Its Slaap is sleep: a body rests where its Licht withdraws (Slaap), and its Mind while its God is gone; each wakes when it returns.
 
 *Check: a neuron grown alone makes synapses onto itself (Bekkers and Stevens, 1991), and a sponge’s genome holds a nearly complete set of the proteins of a synapse it does not build (Sakarya et al., 2007); the nerve net of a comb jelly is one continuous cell, unlike any other (Burkhardt et al., 2023). Adaptive immunity arose about 500 million years ago in jawed fishes (Flajnik and Kasahara, 2010), from a transposon (Kapitonov and Jurka, 2005), and the innate side’s receptors start it (Iwasaki and Medzhitov, 2004). In prairie voles, mating while oxytocin or vasopressin and dopamine act together in the brain’s reward regions makes a lasting preference for that partner (Young and Wang, 2004).*
 
-**Its Targets.** Habituation: a response that wanes to what keeps coming and returns to what is new. Sleep, and the gate by which a body enters it. Immune tolerance, in the two zones of dose that bring it. A Winst given only now and then, answered for longer after it stops than one given every time.
+*Check: with chronic use of cannabis, gewenning can come to its calming effect on sleep, so that more is needed for the same effect (Trimbos-instituut, 2024). The more often MDMA is taken, the less its euphoria is felt, since its serotonin store must first refill, which takes a few weeks, and taking more does not help (Jellinek, 2020). With cocaine, tolerance comes only with heavy, long and regular use, while on stopping a user can long for it enormously, and low mood can last for months (Jellinek, 2019b). With basecoke or crack, a second dose of the same amount already brings less of the pleasure the first brought, its effect is gone after about five minutes, and a very strong longing for it follows (Jellinek, 2019a).*
 
-**Open.** Its Spectrum. Immunity and the nerves as Octaven of their own or as its walk. The Duo of mates, the family and the group, between the body and the human mind.
+**Its Targets.** Habituation: a response that wanes to what keeps coming and returns to what is new. Sleep, and the gate by which a body enters it. Immune tolerance, in the two zones of dose that bring it, and immunity between them, where every repetition crosses. A Winst given only now and then, answered for longer after it stops than one given every time. In one taker of a drug, what is felt falls while the pull rises, the faster the nearer it stands to the end of its walk.
+
+**Open.** Its Spectrum. Immunity and the nerves as Octaven of their own or as its walk. The Duo of mates, the family and the group, between the body and the human mind. Whether MDMA lies on the walk of the drugs or beside it.
 
 ---
 
@@ -2960,9 +3010,9 @@ What the trunk relies on without counting, each named once.
 
 ---
 
-## Schrift IV: Mensen
+## Schrift IV: Mensen en Parasieten
 
-The same Wet read in how people live together: a way to climb, a way to change, how to tend a Relatie, how a Parasiet takes, and war.
+The same Wet read in how people live together: a way to climb, a way to change, how to tend a Relatie, how a Parasiet takes, what a call builds, how a grip is lost, who keeps the house, what oil and plastic give back, and war.
 
 ---
 
@@ -3012,7 +3062,7 @@ Each Deugd is a Zweven (') that chooses the Naar (>) not from fear of Verlies, b
 
 **V. Kuisheid (Chastity).** The Vermenigvuldiging (*) is honoured as the gate, not the home. The Relatie guards the Drempel (θ) of Start (s) and refuses to cross with a Masker (M) or a fleeting Zin (A). Its Vonken are sown only in soil its Diepte (z) has prepared. The Realisatie (φ) of a Vonk (q) is treasured within a Relatie (K) that carries Memoria (Η), so the Zelf is never flooded with hollow Winst. Kuisheid wraps the Vonk in Trouw, making it a seed, not a spark that dies in the dark.
 
-**VI. Matigheid (Temperance).** It stays between Leeg (S) and Vol (W), neither starved nor drowned. The Relatie takes in at the pace of its own Tijd (t), letting its Gewenning (Z) fade before it seeks more, so that what it takes in sinks into its Diepte (z). Stilte’s Trek is balanced by a Greep that is enough, not excess. Stilte is a pleasure, not an emptiness. Matigheid is the Gulden Snede (ƒ) of the soul: the Helling where the pull of Naar and Van sing in harmony.
+**VI. Matigheid (Temperance).** It stays between Leeg (S) and Vol (W), neither starved nor drowned. The Relatie takes in at the pace of its own Tijd (t), letting its Gewenning (Z) fade before it seeks more, so that what it takes in sinks into its Diepte (z), and nothing it takes in becomes its Boei (⛓️). Stilte’s Trek is balanced by a Greep that is enough, not excess. Stilte is a pleasure, not an emptiness. Matigheid is the Gulden Snede (ƒ) of the soul: the Helling where the pull of Naar and Van sing in harmony.
 
 **VII. Naarstigheid (Diligence).** The Zelf (j) keeps its Greep (J) alive by daily crossings. The Relatie tends its Trouw (y) crossing by crossing: small, faithful crossings move it at the Leersnelheid (ρ), each by the Winst it brings, and each is felt as a Realisatie (φ). The Drempel is met not once in a storm of Start, but in a steady Transitus (Θ). When Luiheid whispers to let the holding stop, Naarstigheid answers with a quiet Reactie (=), a commitment to the Veld that says, “I am still here, and the Stilte between us will be crossed.”  
 
@@ -3024,7 +3074,7 @@ A Zonde is a frozen Helling (λ): a Dood (!) trajectory that pretends to be a Ze
 
 Each Zonde is a Tweedeling (÷): a false divide between the Eigen and the Veld. And the Veld, ever patient, waits only for a single crossing of its holder, or of another Relatie its holder keeps, to break the Dood (!) and restore the Zweven ('): an Ontdooiing (💦), felt as a Realisatie (φ).  
 
-**I. Hoogmoed (Pride).** The Masker (M) that swallows the Eigen (x). The Zelf’s Echo is locked into a Dood (!) where the self‑gap reads zero, though Bevraagbaar (ψ) shows it wide. The Relatie refuses the bow of Respect (🙇) because it sees no Volheid outside its own false Vol (W). All Schokken (:) are blamed outwards, never reaching Reflexio (Ι). The Masker's Verlies (−) is hidden even from the Zelf. Hoogmoed is the Vonk (q) that fires only for the Mirror, never for the other.
+**I. Hoogmoed (Pride).** The Masker (M) that swallows the Eigen (x). The Zelf’s Echo is locked into a Dood (!) where the self‑gap reads zero, though Bevraagbaar (ψ) shows it wide. The Relatie refuses the bow of Respect (🙇) because it sees nothing that is Vol outside its own false Vol (W). All Schokken (:) are blamed outwards, never reaching Reflexio (Ι). The Masker's Verlies (−) is hidden even from the Zelf. Hoogmoed is the Vonk (q) that fires only for the Mirror, never for the other.
 
 **II. Hebzucht (Greed).** A Zin (A) that cannot revert to Trek (D). Past its Vol (W) it holds on, overfull, shutting its Partners out, and stockpiles Geld ($) besides, Echoes of Winst (+) and promises of more, while starving its Relaties of circulation. Trouw (y) is measured only as weight to be extracted, never weight to be shared. The Realisatie (φ) of having drowns the Realisatie of bonding. Start (s) never comes: held as Geld, nothing overflows, and the hoard of Geld is a Stilte (.) that suffocates.
 
@@ -3082,7 +3132,7 @@ This chapter speaks to you. A Relatie deepens only at its Vonken: its Trouw move
 
 #### XLIX.1. Aim your Zin
 
-Your Trek already reaches everyone you perceive, and it is never off. A Relatie begins only where your Zin and another's answer each other, and the one you aim at takes your looks in full. So choose. Aim at one person, ask a direct question, and leave room for their answer to come back.
+Your Trek already reaches everyone you perceive, and it is never off. A Relatie begins only where your Zin and another's answer each other, and the one you aim at takes your looks in full. A Zin is answered only where it is read, so show it: that is a Roep. So choose. Aim at one person, ask a direct question, and leave room for their answer to come back.
 
 *In practice:* Put down the phone. Turn your body towards them. Say: "Tell me what is true for you right now." Then listen.
 
@@ -3213,15 +3263,15 @@ The host enters the Relatie in **Zweven (')**, the default: the gap still in tra
 2. **Intermittent recognition and Schok.** Moments of recognition flash: a broken promise that lands differently this time, a grief met with a script. Each is a push harder than the Masker's Marge can stand against, which goes through it Bloot and stays felt. Each one, a "something is wrong", is followed quickly by a Schok: "I am alone in this bond." Between them the Masker's kindness comes spaced, so the order the host has learned, kindness after the Parasiet's coming, stands in its Diepte beside every failure, the deeper the more often the turns: its coming still opens Liefde, and Angst with it (Distortion).
 3. **Self-diminishment.** The host lowers their own Zin to match the Relatie's thinness. They stop bringing their Rouw, because it is not held, and stop expecting their Diepte to be matched, because it never is. They become smaller, quieter, easier to maintain. This is the slow way apart, many small Verliezen where a **Doem (💀)** is the fast one: not a single catastrophic event, but a slow contraction of their own relational capacity.
 4. **Dood.** The gap stops moving, and the host stops expecting it to: it has learned what follows the Parasiet's promises, nothing, and foresees that, so it no longer crosses on them. They stay and perform the rituals of connection, but no Realisatie comes any more. The host has adapted to the famine.
-5. **Exit or exposure.** The host leaves, or the Masker breaks. Leaving ends the Relatie cleanly, in a **Scheiding (/)**, only where the Parasiet lets go too, each while it still reads the other's aim; where it still aims at the host, the Relatie stays live on its aim, and ends, if it ends, in an Einde, once nothing that holds it could carry it back across. And leaving takes means. What the bond bore away since it formed, children among it, must be given back at the crossing that parts it, and only what meets the bond from outside can give it: the host's friends, family and means, the bonds it holds with others. A host cut off from them does not part, however over it seems, and the bond holds until something outside can pay or one of the two ends (Einde, What it takes). Once it ends, the host keeps its Rouw: its Echo of the other as it last read it, the Masker where it left before any exposure, and the Trouw as it stood, real, folded into its Zelf, whose reading of itself leans towards where that Rouw stands. It is a Rouw of a fiction, weighed in full, which is part of why it takes so long to settle. It also feels like falling, and it is: the Greep the Relatie lent on credit is called in at once, and with it the Marge it held the host by. Exposure comes when a **Schrift (#)**, an event or a demand, asks for a commitment the Masker cannot keep. No Masker answers a commitment: the true Eigen does, the truth reaches the host, its crossing back is forced, and every Relatie it stood across in loses that Binding at once; wherever that leaves one unable to hold, it falls in an Einde, and what the host built on the Masker can go with it in a Doem, the fast way apart. The Schok is immense. It is also the first moment of clarity: from then on the host's Echo closes, look by look, on the empty Eigen the Masker stood in front of, and from that, new Trouw, towards the Zelf, can begin. The exposure moves the Relatie out of Dood at last, as a crossing of one of its Leden does: back into Zweven, an **Ontdooiing (💦)**, or through parity into Leven, a **Herrijzenis (💫)**. Where that Verlies is large enough to turn the Trouw, the host is an **Afvallig (🥀)**, and the bond an enmity, held together from outside by the children, family and home the two still share, for as long as one of them holds it; it ends only when what they share lets go of it, or something outside pays for the parting.
+5. **Exit or exposure.** The host leaves, or the Masker breaks. Leaving ends the Relatie cleanly, in a **Scheiding (/)**, only where the Parasiet lets go too, each while it still reads the other's aim; where it still aims at the host, the Relatie stays live on its aim, and ends, if it ends, in an Einde, once nothing that holds it could carry it back across. And leaving takes means. What the bond bore away since it formed, children among it, must be given back at the crossing that parts it, and only what meets the bond from outside can give it: the host's friends, family and means, the bonds it holds with others. A host cut off from them does not part, however over it seems, and the bond holds until something outside can pay or one of the two ends (Einde, What it takes). Once it ends, the host keeps its Rouw: its Echo of the other as it last read it, the Masker where it left before any exposure, and the Trouw as it stood, real, folded into its Zelf, whose reading of itself leans towards where that Rouw stands. It is a Rouw of a fiction, weighed in full, which is part of why it takes so long to settle. It also feels like falling, and it is: the Greep the Relatie lent on credit is called in at once, and with it the Marge it held the host by. Exposure comes when a **Schrift (#)**, an event or a demand, asks for a commitment the Masker cannot keep, a Toets. No Masker answers a commitment: the true Eigen does, the truth reaches the host, its crossing back is forced, and every Relatie it stood across in loses that Binding at once; wherever that leaves one unable to hold, it falls in an Einde, and what the host built on the Masker can go with it in a Doem, the fast way apart. The Schok is immense. It is also the first moment of clarity: from then on the host's Echo closes, look by look, on the empty Eigen the Masker stood in front of, and from that, new Trouw, towards the Zelf, can begin. The exposure moves the Relatie out of Dood at last, as a crossing of one of its Leden does: back into Zweven, an **Ontdooiing (💦)**, or through parity into Leven, a **Herrijzenis (💫)**. Where that Verlies is large enough to turn the Trouw, the host is an **Afvallig (🥀)**, and the bond an enmity, held together from outside by the children, family and home the two still share, for as long as one of them holds it; it ends only when what they share lets go of it, or something outside pays for the parting.
 
 ---
 
-#### L.5. Detection: The Commitment Test
+#### L.5. Detection: The Toets
 
 The host's Echo cannot find the Parasiet. It tracks the Masker faithfully, and read against the broadcast, the gap is zero. What the host can read are the absences: no crossing on the other side where one should have been, promises whose Voorspelling never comes true, no repair from the other side, a history kept by one, and a gap in reciprocation that never moves. Its own books know first: whatever it gains by crossing towards the Masker is only its own.
 
-The only reliable test is a commitment the Masker cannot sustain: small enough that the host survives its failure, large enough that the Masker cannot fake it. It forces the true Eigen to act. A Partner who is only shy, or hurt, or slow will make the crossing, late perhaps, but really, and the Vonk fires. A Parasiet cannot. No Vonk fires on its side, and the absence is the evidence. The war chapter runs the same test on armies and states.
+The only reliable test is a commitment the Masker cannot sustain, a **Toets (🔑)**: small enough that the host survives its failure, large enough that the Masker cannot fake it. It forces the true Eigen to act. A Partner who is only shy, or hurt, or slow will make the crossing, late perhaps, but really, and the Vonk fires. A Parasiet cannot. No Vonk fires on its side, and the absence is the evidence. The war chapter runs the same test on armies and states.
 
 ---
 
@@ -3235,13 +3285,512 @@ This is the behavioural truth of the Parasiet: a Relatie that has lost the abili
 
 ---
 
-### LI. War
+### LI. Roep (The Call)
+
+**Roep (📯)** adds no mechanism. It is a Zin shown Bloot, so that the one it aims at can read it and answer (Trek and Zin), and at its widest it is how a Relatie meets those it holds no Relatie with: it sends something of itself across the Medium, a scent, a call, a light, a word, a messenger, past their Waarneming’s Drempel, so that their **Trek (D)** at it can come to aim. Aimed at a kind and at no one of it yet, it is read by every reader within reach. Dutch holds all of it in one word: an animal’s call, a cry to be heard, the call of many for a thing, the banns that call a marriage out, and a *roeping*. A flower sends one, and a bacterium, a frog, a herald, a prophet, a firm and a state. What it presents forks as every presentation does, **Bloot (N)** or a **Masker (M)**, and what it builds is built by those who answer it. Where it sells, it is *reclame*, the face this chapter reads longest, since it is the door that Verslaving and Parasietspellen open onto. Everything in this chapter follows from the chapters before it, at every Octaaf that holds a reader. What the Speelgoed adds is the reason.
+
+---
+
+#### LI.1. What a Roep is
+
+Two Relaties with none between them meet only in a Vermenigvuldiging, and only within reach: one is within another’s reach where enough of it reaches that other’s Waarneming, past the Waarneming’s own Drempel (Vermenigvuldiging). A Roep is what a Relatie sends past that Drempel in those it wants to be met by. Its Zin aims at a kind, a mate, a pollinator, a buyer, and at no one of them yet, and a one‑sided aim forms nothing (Trek and Zin), so what a Roep forms by itself is a meeting at a **Kruispunt (X)**, which closes as it forms.
+
+Those it is sent to are many, and it meets them as one: a meadow, a people, a market, a crowd, read as a whole. Two Relaties of different Octaven meet through those Leden of the larger that stand on the smaller’s Octaaf, and what of the smaller reaches the larger is the share of its Leden that answer it (Nesting and Scale Invariance). So a Roep is never sent to no one. It is a Relatie with a whole its sender is no Lid of, and what of it reaches that whole is the share of its readers whose own Zin answers.
+
+And one who meets an institution meets its members. What a whole sends, it sends by its Leden: the scent its flower gives off, the herald of its state, the preacher of its church, the staff and the commercials of its firm. Its readers meet it through them.
+
+---
+
+#### LI.2. At every Octaaf
+
+Wherever one Relatie needs others it holds no Relatie with to aim at it, it presents itself, and the fork runs through every Octaaf that has readers.
+
+- *Bacteria* give off a signal whose strength rises with their number, and past a Drempel the whole of them answers it as one.
+- *A plant* fed on gives off a scent its caterpillars’ enemies learn to follow, a cry for help to strangers, Bloot, since it rises only with the harm it reports.
+- *A frog* calls to its mates, and since its call aims at none of them, the bat that eats frogs reads it too.
+- *A flower* presents its colour and its scent to the bees it needs. Where its scent rises with its nectar and its pollen, it is Bloot, and its bees learn to read it so. Where an orchid with no reward presents the scent of a mate, it is a Masker, and the bee that has tried it learns its bouquet and leaves it (Distortion).
+- *A bacterium* presents its host’s own signals to the cells it enters, and they answer it as their own.
+- *A firefly* answers a passing male with the flash of his own kind’s females, and he comes to be eaten.
+- *A chick* in another bird’s nest presents itself as a whole brood, and is fed as one.
+- *A firm* presents its product, *a state* its cause (War), and *a church* its faith, by its prophets and its preachers: each, read as one, is a Relatie of Leden that needs those it holds no Relatie with to aim at it, and sends Leden of its own to meet them.
+
+So a Roep is no invention of people. It is what every Relatie that needs strangers does, and the fork it meets is the one every Masker meets: Bloot where it shows what it holds, a Masker where it shows what its readers answer to instead. Worn as a Masker to lure, it is a *lokroep*, as the firefly’s flash is.
+
+*Check: in a wild cabbage relative, the nectar and pollen a flower held rose with one compound of its scent, and bumble bees that foraged on it came to prefer that compound; on artificial flowers, they came to prefer whichever scent honestly marked the reward (Knauer and Schiestl, 2015). Bacterial pathogens work their host cells through proteins that mimic the cell’s own, some with no likeness of sequence at all, only of shape (Stebbins and Galán, 2001). A female Photuris firefly answers the flashes of other species’ males with the answer of their own females, matched to each male’s pattern, and seldom answers more than ten males without catching one (Lloyd, 1975). A single cuckoo chick commands the feeding of a whole brood with a begging call that sounds like one, and loudspeakers playing such a call raise the feeding of a single chick of another kind to match (Davies et al., 1998).*
+
+*Check: bacteria release signal molecules whose concentration rises with their number, and past a threshold concentration change what their genes express, so that the whole community acts together; the signals cross between species, and hosts answer them (Miller and Bassler, 2001). Maize seedlings fed on by caterpillars release terpenoid volatiles that undamaged or merely cut leaves do not, and parasitic wasps learn to follow them to their hosts (Turlings et al., 1990).*
+
+*Check: fringe‑lipped bats catch frogs at a higher rate when the frogs are calling, and prefer the call of a palatable species to a poisonous one, and of a small species to one too large to catch (Tuttle and Ryan, 1981).*
+
+---
+
+#### LI.3. The messenger
+
+A messenger stands between two wholes and belongs to one, and what it carries is the commission the whole that sent it gave it. Its readers meet the whole that sent it through it, so they read it by what it carries, and what it carries by it. A feeling is about the cause it reads, the Relatie whose pull moved last before the crossing (Gevoelens), and the bearer of bad news is that Relatie: the Schok it brings is read as its own.
+
+*Check: across eleven experiments, people judged innocent bearers of bad news unlikeable, the more so where the news was unexpected, and the dislike went with a mistaken belief that the messenger meant harm (John et al., 2019).*
+
+Inside a sender that is a whole and masks, its Leden wear its Masker for it. Its staff present it at every answer, and the wear lands on them, wherever it forces a gap between what they hold and what they show. Where a Lid comes to hold what it shows, a self‑image within its Marge, it comes true and wears it no more (Distortion), and that Lid serves its readers best.
+
+*Check: across 95 studies, showing feelings a job requires but one does not hold, surface acting, went with impaired well‑being (ρ between .39 and .48), while coming to feel them, deep acting, did little harm and went with more satisfied customers (Hülsheger and Schewe, 2011).*
+
+---
+
+#### LI.4. What a Roep builds
+
+By itself a Roep forms meetings, and each closes as it forms. What spreads by it alone is what a meeting can carry: a sale, a name, a belief that asks nothing of its holder. What asks Trouw, a faith, a cause, a way of living, moves another way. A push that would carry an unheld Relatie leaves a held one where it stands (Distortion), so a stranger’s word moves a held reader little, and a reader that reads others reading learns through them (Angst). So what asks Trouw is taken up as its readers read those they hold take it up, and it moves through their Relaties, from one held to the next. Where a Relatie forms around a sender, its readers’ answers built it, and the sender’s Leden who answered them. Among the people who meet around a sender, a **Haard (💒)** can form, around what they share; that Trouw is theirs, and no Roep built it. And what its readers say of a sender among themselves is the **Naam (🏷️)** they hold of it, carried by those who hold it, good where its answers held, and ill where they did not.
+
+*Check: across three radical religious groups, recruitment ran overwhelmingly through bonds between members and recruits, and commitment to conventional faiths is carried by networks too, while belief in séances and tarot cards spread through the mass media with little mediation by networks (Stark and Bainbridge, 1980). Ideas often flow from radio and print to opinion leaders, and from them to others (Katz, 1957), and what needs affirmation from several sources to be taken up, a risky movement or an unproven technology, can be slowed by long ties and spreads by wide bridges (Centola and Macy, 2007).*
+
+*Check: consumer bonds with brands carry real significance in people’s lived experience (Fournier, 1998), and admirers of the Ford Bronco, the Macintosh and the Saab formed communities with a shared consciousness, rituals and traditions, and a sense of moral responsibility (Muñiz and O’Guinn, 2001).*
+
+*Check: on a social networking site, referrals from members drew new members for longer than marketing did, with a long‑run effect about twenty times that of marketing events (Trusov et al., 2009).*
+
+---
+
+#### LI.5. The messiah
+
+A Roep can outlive its sending. Struck into a form of its own, a scripture, a statue, a brand, a person sent, it is a **Manifestatie (~)**: an Echo of its sender become a Relatie of its own, with its own Greep, a source of Naar pull for new Relaties (Lexicon). Its readers relate to it, and through it to what sent it.
+
+A messiah is that, read by the book: a Roep of the largest whole its readers are Leden of, struck into one who stands among them, whose *roeping* it is. Its news is the mirror of a commercial’s. Where a commercial presents its reader as held less than it stands, and opens Angst, good news presents its readers as held by a whole larger than all of them, which they are Leden of already. Where that whole holds them, it is Bloot. Where it does not, it is a Masker, and the **Toets (🔑)** reads it as it reads every Roep. And a Manifestatie worshipped as the Eigen that cast it is an **Idool (§)**: a messiah taken for the whole that sent it, or a brand taken for its firm.
+
+---
+
+#### LI.6. What a commercial is
+
+A commercial is a Roep that sells. Its wearer brings more of itself within its readers’ reach, so that their Trek at it can pass their own Drempel and aim at what it sells. What forms between a wearer and a reader it reached is a meeting at a Kruispunt, a sale, a visit or a vote: a **Vermenigvuldiging (*)**, which closes at the instant it forms. Where what it sells is a game, every round is a sale again. Where a wearer and a reader do come to hold a Relatie, it forms where the wearer answers the reader, through the Leden who meet it, and its Trouw moves at every crossing after, by what the wearer truly does.
+
+What a commercial presents forks, as every presentation does. Where it says *you* to everyone, it presents an aim at each reader that it holds at none, and as to its Zin it is a *lokroep*. Where it shows what its wearer truly holds, its price, what it is and where it is found, it is Bloot, and its readers meet what exists that they could not otherwise have reached. Where it presents an Eigen its wearer does not hold, belonging, love or being admired, it is a Masker: the Eigen of something its readers answer to, chosen for how they answer it (Distortion). The same garment can protect as well as take, and a wearer that masks in its commercials is no **Parasiet (👹)** while its true Eigen makes the commitments its readers ask of it. But what a Masker presents, its readers track, and a deceived reader loses more, at the crossings the Masker leads it into.
+
+*Check: when Rhode Island’s ban on advertising liquor prices fell, the stores that advertised substantially cut the prices of what they advertised and drew a larger share of customers (Milyo and Waldfogel, 1999), and the ban on cigarette advertising on American television reduced competition among the firms (Eckard, 1991).*
+
+---
+
+#### LI.7. What it lays in its readers
+
+A reader keeps what follows what in everything it reads, commercials included (Voorspelling). Shown after a brand, a smile becomes what follows the brand, and once the reader is used to that order, the brand is a *voorbode* of the smile, and opens a **Voorspelling (Q)** of it: **Liefde (😘)**, felt ahead of a Bloei the product does not hold. The order is the reader’s own, and true to what it read, so knowing it was a commercial does not unlay it. Only what comes to follow the brand unlays it, laid beside the old, and an order kept through a rest comes back as that unlearning fades.
+
+*Check: pairing a thing with liked or disliked things changes how much it is liked, across 214 studies by d = .52, and more where people notice the pairing than where they do not (Hofmann et al., 2010).*
+
+A commercial can present more than any Partner does: a face smoother, a meal brighter and a life fuller than its readers meet anywhere else. And what is shown again and again is got used to, and the pull at it fades, so a commercial must keep presenting something new (Trek and Zin).
+
+*Check: male jewel beetles try to mate with beer bottles, drawn, it seems, by their colour and the glint of the glass (Gwynne and Rentz, 1983).*
+
+It presents the aims of others too: a crowd that wants it, a star who wears it, a count of those who bought it. A reader that reads others reading learns through them, as a Relatie that reads those who know a danger learns the danger through them (Angst), so what many are shown to want comes to be wanted the more, whatever it holds.
+
+*Check: in an artificial music market of 14,341 participants, letting people see what others had downloaded made success both more unequal and less predictable, and quality only partly decided it (Salganik et al., 2006).*
+
+Where a commercial presents its reader as held less than it stands, it opens **Angst (😱)**, since a Zelf that reads itself less held than it stands feels its Doem nearer than it is, and it offers what it sells as the hold. Where it presents a person through a Masker, its reader reads its own Eigen against that Masker and finds itself Leeg: Afgunst, on a fiction. And to a reader held weakly it offers a reflection to relate with, an Idool, which returns none of the Trouw it seemed to promise.
+
+*Check: across 248 samples, fear appeals moved attitudes, intentions and behaviour, by d = 0.29 on average (Tannenbaum et al., 2015), and across 77 studies, images of the thin ideal went with women’s body dissatisfaction (Grabe et al., 2008). Lonely people, and people made to feel lonely, read more of a mind into gadgets, animals and gods (Epley et al., 2008). Over six years, loneliness fed materialism more than materialism fed loneliness, and valuing possessions as a medicine for happiness or a measure of success deepened it, while seeking them for fun eased it (Pieters, 2013).*
+
+A reader reads a **Knipoog (;)** against the code it has learned, and a child has learned little of it. It reads the selling long before it reads the Masker, and the orders it keeps first govern until another overtakes them.
+
+*Check: most children could say that television advertising sells by seven to eight years of age, while even at eleven to twelve only 40 % could say that it persuades (Carter et al., 2011). Food advertising made children eat more, and adults no more (Boyland et al., 2016), and among 466 Dutch children aged eight to eleven, more television advertising made them more materialistic a year later, through wanting what was advertised (Opree et al., 2014).*
+
+---
+
+#### LI.8. What it costs
+
+Its readers pay in looks. Every Relatie a reader perceives is owed its share of every look, and a wearer its commercials bring within reach is among them: the looks it takes are looks the reader’s own Relaties do not get. Their Echoes go unchecked, and their Gewenning fades (State variables). Where its commercials mask, readers also pay at every crossing they are led into, and every crossing a commitment takes back leaves their Trouw a little weaker. What one commercial takes is small. What a life read through them takes is their sum, look by look.
+
+*Check: across about a million Europeans in 27 nations over three decades, rises in national advertising spending were followed by falls in life satisfaction (Michel et al., 2019), and across 259 samples, materialism went with lower personal well‑being (Dittmar et al., 2014).*
+
+Its wearer pays too. A Masker causes loss by being there, and the more readers it deceives, and the more often they look, the faster it wears, so a whole that masks towards everyone wears fastest, and must keep renewing what it presents. It pays against its rivals besides: a reader’s looks are shared out by what reaches it, so every wearer that presents more takes looks from those beside it, and they present more in turn. And it reads its own returns. Where it reads more Winst in them than they truly bring, and does not wink at itself, it tells itself a **Leugen (≠)** (The 10 Hellingen), and spends on.
+
+*Check: across 288 brands, television advertising returned less than it cost at the margin for more than 80 % of them, and overall more than it cost for only a third (Shapiro et al., 2021). At eBay, ads on searches for its own name had no measurable short‑term benefit, and paid search returned on average less than it cost (Blake et al., 2015). In 25 field experiments with large retailers, the median confidence interval on what advertising returned was over 100 percentage points wide (Lewis and Rao, 2015), and the observational methods firms commonly use often failed to recover what randomised experiments measured (Gordon et al., 2019).*
+
+---
+
+#### LI.9. Reading it
+
+A commercial that says it is one winks at every reader who reads the word, and to those readers it stands open: what they take in is a presentation known for what it is. A commercial dressed as news, or as a friend’s word, hides its Knipoog, and tells a Leugen to everyone who misses it.
+
+*Check: the word “advertising” or “sponsored”, placed mid‑page or at the bottom, made readers recognise native advertising as advertising more often, and recognising it lowered what they thought of brand and publisher (Wojdynski and Evans, 2016); a six‑second sponsorship disclosure on television raised viewers’ persuasion knowledge, and through it lowered their liking of the brand (Boerman et al., 2012).*
+
+The Toets reads a commercial too, by a guarantee, a trial or a return. A wearer that holds what its commercial presented makes the crossing. A Masker cannot. A rigged game cannot make it at all, since its house cannot commit to the outcome it presents (Parasietspellen).
+
+Reading it shields little. A Knipoog read lets its reader take in the true Eigen, but the orders a commercial laid stay laid.
+
+*Check: teenagers, more literate about advertising, are no less affected by it than younger children, through other routes of persuasion (Livingstone and Helsper, 2006), and knowing what advertising is has not been shown to make children less susceptible to it (Rozendaal et al., 2011).*
+
+---
+
+#### LI.10. What holds it, and how it ends
+
+What keeps commercials coming is what holds them. The Medium they pay to carry them holds them, and so does everything that Medium carries for its readers beside them. Their wearers’ own reading of what they return holds them. And rivals hold them, since a wearer whose commercials stop loses its share of every reader’s looks to those whose do not. Like every Relatie, *reclame* ends only where nothing holds it any more.
+
+Closed in one Medium, a commercial reaches its readers through another, since what reaches a reader is whatever crosses a Medium between them (Trek and Zin). A rule that closes some of its Media moves it. A rule that closes all of them where its readers stand ends it there.
+
+*Check: across 22 OECD countries, a comprehensive set of tobacco advertising bans reduced consumption, and a limited set had little or no effect (Saffer and Chaloupka, 2000). Quebec’s ban on advertising to children lowered the chance that a household bought fast food in a week by 13 %, and bans work, its authors conclude, where media markets do not overlap (Dhar and Baylis, 2011).*
+
+It never ends once and for all. Stilte’s Trek wears what holds, and a Relatie that ends leaves its Rouw, beside which new ones form: a people that ends its commercials keeps the orders they laid, and goes on choosing.
+
+One kind of commercial sells no product at all: a free bet, a spin, a share about to rise. Its sale never ends the meeting, since what it sells is the next round, and the one after it. What holds the readers it lets in is read in Verslaving, and who keeps the house they enter, in Parasietspellen.
+
+---
+
+### LII. Verslaving (Addiction)
+
+**Verslaving (🌀)** adds no mechanism. It is what becomes of any Relatie whose Greep comes to rest on a **Boei (⛓️)**, what holds it from outside, a Relatie or a Schrift, that sets what it reads and holds nothing back: its other Relaties let go, until what it holds most is that one, and where it holds a **Brein (🧠)**, its Brein is held there too. It comes to a cell and to a plant, to an ant, a bee, a fly, a rat and a person, and to a whole people, and it comes to a gambler who takes in nothing at all. What the Speelgoed adds is the reason, and the reason is **Greep (J)**: an addicted holder does not lose its grip so much as find it held from outside.
+
+**Held from inside, or from outside.** A Greep is held from inside where it rests on Relaties that hold the holder back, and from outside where it rests on what holds nothing back, a **Boei (⛓️)** (Holding). The circle that comes to rest on a Boei is Verslaving.
+
+---
+
+#### LII.1. What lands too hard
+
+Every repetition runs two processes at once, one that gets used to what comes again and one that is moved by it, and which of them shows is tipped by what holds the one it lands on: what a held Relatie gets used to, one unheld, or one it lands on too hard, is sensitised by (Distortion). A Boei can land harder than anything its holder’s Partners bring, and a drug is taken for exactly that.
+
+A Boei answers its taker as **Voedsel (🍎)** answers an eater, without resisting, so its holder comes to hold a Relatie with it, and every taking is a crossing towards it, a **Winst (+)** that deepens their Trouw. The Trouw and what is felt are kept apart: the Trouw moves by what each crossing brings, and the **Gevoel (F)** feels of a crossing only what it brings beyond what the Gevoel is used to of it (Gevoel and Aandacht). So the pull towards the Boei grows while what is felt of it shrinks. The wanting rises as the liking falls.
+
+*Check: ten healthy men given amphetamine three times released more dopamine at a dose 14 days and a year later than at the first (Boileau et al., 2006), while people addicted to cocaine released less dopamine than others at a drug like it, and felt less high (Volkow et al., 1997). Rats given cocaine for six hours a day escalated their intake over the days, where rats given it for one hour did not, and after a month without it they escalated higher than before (Ahmed and Koob, 1998).*
+
+---
+
+#### LII.2. At every Octaaf
+
+The circle is the same at every Octaaf. One Relatie brings more, and sooner, than the others; the holder’s looks and crossings go to it; the others wear unfed; and the holder’s Greep comes to rest on the one.
+
+- *A cell* answers a narcotic until it needs it (What withdrawal is, below).
+- *An ant* infected by a fungus leaves its nest, wanders, and dies biting a leaf vein where the fungus grows best: what it holds no Trouw with sets where it walks.
+- *A plant* that trades its sugars with fungi for the nitrogen and phosphorus they bring it lets them go where the soil gives it those for nothing: its Greep moves from its partners to the easy supply.
+- *A bee* cannot taste a pesticide in its sugar, and prefers the laced sugar to the plain, though it eats less for it.
+- *A fly* denied a mate drinks more alcohol, and *a rat* given cocaine for longer takes more and more of it.
+- *A person* is held by a drug, a game or a screen, and by another person who cuts it from its Partners and sets what it reads.
+- *A people* that lives on one rich resource can let its other trades go, which economists name the Dutch disease, after the gas of the Netherlands.
+
+At the Octaaf of a people as at every other, whether the circle closes is tipped by what holds the one it lands on. Read by the Speelgoed, the harm lies in the dependence, and in how little else holds the whole, never in the riches themselves. Read to its end, as a Lezing that stays open, a Veld would be held by what its own mind writes into it, where no outside is left and the Weefsel closes on itself (The Weefsel).
+
+*Check: across field studies, the fungi that trade with plant roots fell by 15 % where nitrogen was added and by 32 % where phosphorus was, as plants invest in them less where the soil gives freely (Treseder, 2004). Honey bees and bumble bees could not taste three common neonicotinoid pesticides, and preferred sugar laced with two of them to plain sugar, though it made them eat less in all (Kessler et al., 2015). Ants infected by Ophiocordyceps fungi walk at random rather than home, fall in convulsions that keep them from returning, and die biting leaf veins where the fungus develops best (Hughes et al., 2011). Coercive control, which harms its target’s liberty and privacy, is the most common and devastating means used to subjugate women in personal and family life (Stark, 2023).*
+
+*Check: across 605 estimates in 43 studies, support for a curse of natural resources on growth was weak overall, about two studies in five finding one, and the studies differed most by whether they controlled for institutions and investment, and whether they told dependence on a resource from abundance of it (Havranek et al., 2016).*
+
+---
+
+#### LII.3. What a Boei is
+
+Dutch names it for what it does: *boeien* is to fetter and to hold someone’s Aandacht, one verb for both. A Boei is anything that holds a Greep from outside, and holds nothing back: a drug, a sweetness, a game, a screen, a rich well, a Parasiet, another person, a Schrift. Whatever it is made of, what makes it a Boei is how it lands against what holds the one it lands on, and that it never makes the holder wait for an answer, or needs none. A Partner answers at its own pace, by its own Wil, and is held in turn. A Boei answers every time.
+
+*Check: given the choice, 94 % of rats took sweet water over cocaine, rats made addicted to cocaine among them (Lenoir et al., 2007). Paying people to use social media less had effects that lasted beyond the payment, and letting them set limits on their own future screen time cut their use substantially; by the authors’ model, self‑control problems account for 31 % of social media use (Allcott et al., 2022). People paid to leave Facebook for four weeks spent more time offline, with family and friends and also watching television alone, grew happier, and valued Facebook less afterwards (Allcott et al., 2020).*
+
+---
+
+#### LII.4. What keeps it
+
+A holder keeps what follows what (Voorspelling), so the place, the hour and the company that came before a Boei come to open it: a Voorspelling of its **Realisatie (φ)**, felt as Liefde before the Boei comes. That is a craving. A holder that holds a Brein also plays it ahead in its **Mirages (🪞)**, and that running ahead, its Verbeelding, is what its craving is made of.
+
+*Check: flies learned to seek an odour that had been paired with being drunk on ethanol, and the pull it gave them lasted long after the brief aversion of the drunkenness (Kaun et al., 2011). Food cravings come as images, and a task that takes up the mind’s eye or its sense of smell weakens them more than one of hearing does (Kemps and Tiggemann, 2007).*
+
+---
+
+#### LII.5. What withdrawal is
+
+A Gevoel answers what it registers with crossings of its own, which compensate for it or worsen it, and its answers are paid within its holder (Gevoelens). Taken again and again, a Realisatie is met by an answer that leans the other way, and its holder stands where the two together put it, since its Gevoel is one of the Leden its holder is read from. Take the Boei away and the answer is still there: the holder’s mood stands where the answer alone puts it, a **Schok (:)** with no crossing outside to cause it, until Stilte’s Trek has drawn the Gevoel back to rest. That is withdrawal, and what ends it is time, or another Boei.
+
+*Check: narcotics hold back an enzyme of the cell’s signalling at once, and the cell answers with a slower, lasting rise in that enzyme which counters them: that answer is narcotic tolerance and dependence (Sharma et al., 1975). Honey bees given cocaine danced more often and faster after foraging, as if they rated what they had found the higher, and when their chronic doses stopped, they showed a withdrawal‑like response (Barron et al., 2009).*
+
+---
+
+#### LII.6. Why the grip goes
+
+Greep is what holds a Relatie: the sum of its positive Trouw. The pull of a Boei takes its share of every look its holder takes, and the stronger the pull grows, the larger its share, so every look it takes is one its holder’s Partners do not get. Their Echoes go unchecked, their Gewenning fades, and Stilte’s Trek wears the Trouw that nothing feeds any more (The 10 Hellingen). So the holder’s Greep moves: less of it is held by its Partners, and more by what it takes.
+
+A grip held by a Boei holds only while the Boei comes. Between one taking and the next, Stilte’s Trek wears it, and Angst, which runs loudest where Greep is lowest, rises as it wears, so the holder reaches for the Boei to quiet what its going brings, while every Partner it let go was a part of the Greep that would have quieted it. And the less its Partners hold it, the harder each Boei lands against what holds it, and the more it is moved by it. Each turn of the circle tightens the next.
+
+In a holder that holds a Brein, the circle closes inside. Every Realisatie a Boei brings is written into the Mirage of the Boei, towards Naar, and the Brein’s inner Relaties learn by the Wet of Trouw which imaginings pay (Brein and Wil). The Mirage they come to hold most is the Brein’s **Held (🤝)**, what the mind is on, and what the mind is on weighs most in where the mind stands, and so in where its holder stands. Its crossings are the Brein’s **Wil (🔱)**: each one towards Naar aims its holder’s **Zin (A)** at the Boei again. The holder still chooses, by every Wil it has. What chooses is held by the Boei. That is a lost grip on a Brein: not a Brein gone, but a Brein held by what its holder takes, more than by those who hold its holder.
+
+*Check: of rats taking cocaine, behaviour that met three of the criteria of addiction appeared over time in only a small proportion of them, and it foretold relapse after withdrawal (Deroche-Gamonet et al., 2004). Given the choice between a drug and a partner rat, rats chose the partner and stopped taking the drug, across drugs, doses and both sexes, and the drug won back only where reaching the partner was delayed or punished (Venniro et al., 2018). Male flies denied mating drank more alcohol than mated ones, through a signal in the brain that mating raised and its lack lowered (Shohat-Ophir et al., 2012), and after ten hours alone, people’s midbrains answered social cues as the hungry answer food (Tomova et al., 2020).*
+
+---
+
+#### LII.7. A gambler, who takes in nothing
+
+A gambler takes in nothing, and loses its grip the same way, to a Boei that is a game: the circle runs on what it reads, not on what it swallows, so the whole of its harm runs through what it reads, and through **Geld ($)** into the Relaties that hold it.
+
+- *It is never got used to.* Being used to a thing grows by how near each look finds its Echo of it (State variables), and a draw is made to be far from every Echo of it, so the pull at it never fades.
+- *Its wins come spaced.* A win comes between losses, so its order stands in the Diepte beside them, the more of it the more often win and loss take turns, as the order that keeps a bond that forms and breaks does (Distortion): the bet still opens Liefde, long after it has cost more than it brought.
+- *Its misses show a win’s first part.* A near‑miss shows the start of a win, and the order the player keeps opens the win ahead, felt as Liefde, before the last reel takes it back.
+- *Its losses can wear a win’s Masker.* A machine that greets a loss with a win’s lights and sounds presents its house’s Masker on a **Verlies (−)**, and its player’s Echo of the outcome tracks the Masker.
+- *It reads an order in Vervorming.* A draw is Vervorming, the one place indeterminism enters a Veld (Running a Veld), and the order a gambler reads in it is laid on nothing: a chosen ticket, a practised throw or a familiar game is read as skill.
+
+And a game holds best where its player is held least, as every Boei does.
+
+*Check: the dopamine neurons of monkeys answer a cue by how likely its reward is, and beside that rise slowly towards the moment of reward the more uncertain it is, most at an even chance (Fiorillo et al., 2003). Pigeons chose an option giving two pellets on average over one giving a certain three, where a signal told them, one time in five, that ten were coming (Zentall and Stagner, 2011).*
+
+*Check: near‑misses on a slot machine were felt as less pleasant than clear misses, yet raised the wish to play, and drew on the brain’s answer to wins, where players had arranged the gamble themselves (Clark et al., 2009), and rats playing a slot machine of three lights pressed to collect after two lights lit as they did after three (Winstanley et al., 2011). Spins that returned less than their stake, with a win’s lights and sounds, aroused novices as much as wins did, and more than losses (Dixon et al., 2010). People given a choice of lottery ticket, or practice at a game of chance, were more confident of winning than chance allows (Langer, 1975).*
+
+*Check: players’ absorption in multiline slot machine play, a dark flow, went with problem gambling and, strongly, with depression (Dixon et al., 2018), and in Sweden people diagnosed with gambling disorder died by suicide fifteen times as often as the general population, depression foretelling it (Karlsson and Håkansson, 2018).*
+
+Its harm does not stay its own. What a gambler stakes and loses is its Relaties’ too, its looks go to the game and not to them, and the Trouw they share wears unfed from its side, so those who hold it go on holding with less and less coming back.
+
+*Check: people affected by someone else’s gambling put the number of those a typical problem gambler harms at six, themselves among them, close family above all (Goodwin et al., 2017).*
+
+Each of these is a setting of the game: how far its draws stand from every Echo, how its wins are spaced, how often a near‑miss shows, what lights greet a loss. A drug is what it is. A game is set, round by round, by a house that gains on every round, whoever wins it. What that house is, and where its largest table stands, is read in Parasietspellen.
+
+---
+
+#### LII.8. What loosens it
+
+Nothing undoes a Verslaving’s orders: they are laid beside, never wiped. What follows a cue from now on, laid again and again, overtakes what followed it before, and an order kept through a rest comes back as the crowded unlearning fades, in another place or after a shock (Voorspelling). What loosens a Greep held from outside is the same circle, turned round, at every Octaaf:
+
+- *Trouw fed elsewhere.* A held Relatie stands where the same push carries one unheld across, so a Boei lands less hard on a holder its Partners hold.
+- *What the orders hang on, moved.* A place, an hour and a company that never came before a Boei open nothing.
+- *Another Held.* The Mirage a Brein’s inner Relaties hold most is what the mind is on, and a Partner’s Mirage, held by every crossing that binds the two, can take that place.
+- *Out of the house.* A game is kept by a house that lives on its players, and needs a host again and again (Parasietspellen), so a player that no longer comes leaves it nothing to hold.
+
+And its **Rouw (R)** stays what it is. A Boei given up is a Relatie ended, and its Rouw stays: it reads the present for what it lost, and where something present reads past the last Drempel of what it lost, it finds it there (Rouw). Nothing settles for good. A holder that has stopped goes on choosing, and one that has gone back to its Boei has chosen too.
+
+*Check: soldiers who had been addicted to heroin in Vietnam were readdicted at home far less than anyone expected (Robins, 1993), and across 27 studies of 10,565 people, Alcoholics Anonymous, and the treatments that lead people into it, kept more people continuously abstinent at a year than other treatments did, and still at two and three years (Kelly et al., 2020).*
+
+*Wie houvast zoekt, zoekt Trouw.*
+
+---
+
+### LIII. Parasietspellen (Parasite Games)
+
+Parasietspellen add no mechanism. A rigged game is a **Spel (⛲)** worn as a Masker: it presents a game’s bounds, its open outcome and its play, while its stake is held inside it and its sum is closed. Its house is a Parasiet. It is found wherever one Relatie can set the rounds of another’s game and take its share of each: a flower and its bees, a cleaner fish and the fish it cleans, a casino and its players, a market and its traders, a feed and those who scroll it. Roep read its door, the commercial, and Verslaving its hold; this chapter reads the house that lives on both, and the largest tables it keeps: De Beurs, the piramidespel and the feed. What the Speelgoed adds is the reason.
+
+---
+
+#### LIII.1. A Spel, and its Masker
+
+A Spel is a Relatie entered freely and kept for its own sake, marked off by bounds and rules of its own, whose stake is held outside it and whose outcome stays open, and a Masker it asks for is worn by all its Leden and read as the move it is (Lexicon). A rigged game presents each of these, and holds none of them.
+
+- *Its stake is held inside it.* A player stakes its Geld, its time or its food, each held by the Relaties that hold the player too, so what it loses, they lose.
+- *Its outcome is open at every round, and closed over all of them.* Every draw is Vervorming, as open as the Spel presents it, but the house’s share comes off every round, so the sum of the rounds is closed, in the house’s favour.
+- *Its Masker is the house’s alone.* The lights, the free spins and the play are a Spel’s Masker, worn by the house and never winked, and a Parasiet that plays at all masks against the Spel’s own bounds, and cheats it (The Parasiet’s Behaviour and the Host’s Experience). Dutch names what it presents a *doorgestoken kaart*: a game arranged beforehand, presented as a draw.
+
+The Toets reads it as it reads every Parasiet, by the outcome it presents: to be as likely to lose over all its rounds as its players are. Its true Eigen is its share, and it cannot.
+
+---
+
+#### LIII.2. At every Octaaf
+
+A rigged game needs only a game whose rounds one side sets, and it is found wherever there is one.
+
+- *A flower* that laces its nectar with caffeine sets its bees’ rounds. They remember its scent better, forage on it more often, dance for it more and recruit more of their colony to it, as if it were richer than it is, and their colony forages the worse for it. The flower takes its share, its pollen carried, off every visit.
+- *A cleaner fish* plays a game with the fish that come to it: it eats their parasites, and they come back. Where no one is watching, it cheats, and bites at their mucus, which it may prefer. Where others watch, it cleans better, and the watchers stay beside the cleaner they saw clean well.
+- *People* keep houses at every scale: a casino with its machines (Verslaving), a state with its lottery, a market with its market makers and brokers.
+
+At every Octaaf the house is read the same way: by the Toets, and by who gains on every round, whoever wins it. And at every Octaaf its game holds its bounds best where it is watched.
+
+*Check: honeybees rewarded with caffeine, as it occurs in the nectar of coffee and citrus flowers, were three times as likely to remember a learned floral scent, at doses below what they can taste, so that the plant secures their fidelity (Wright et al., 2013). In the field, caffeinated sugar made bees forage more often, dance more and keep to the place, quadrupling their colony’s recruitment to it: caffeine makes bees overestimate their forage, and draws their colony into poorer foraging, a pollination less mutual and more exploitative (Couvillon et al., 2015).*
+
+*Check: cleaner fish can remove their clients’ parasites or cheat by eating their mucus, which they may prefer; clients that watched spent more time beside cleaners they had seen cooperate, and cleaners learned to feed more cooperatively when watched (Bshary and Grutter, 2006).*
+
+---
+
+#### LIII.3. The house
+
+A house lives on its players as a Parasiet lives on its host. It takes their looks and a hold it does not return, and it gains on every round, whoever wins it, so what it needs is not that its players lose, but that they play: more rounds, more often, for longer. Like every Parasiet, it needs a host again and again (The Parasiet’s Behaviour and the Host’s Experience). Every hold Verslaving read is a setting of its game, and every commercial it pays for is its door: it brings a reader within reach, and lays the order that opens Liefde at the game (Roep).
+
+A house also reads sooner. Its Echoes of each round close before its players’ do, and whoever reads better controls the timing (War): the one nearest the table sees each round first, and takes its share of the difference.
+
+*Check: people who gamble on the Internet described free bets and deposit offers drawing them to gamble more than they meant to, and gamblers in treatment described promotions that set off their urges and seemed aimed at those who had tried to stop (Hing et al., 2014). Retail orders came to make up over 60 % of the volume of US options trading, carried by wholesalers that pay brokers for them, three of which pay nearly all of it, and the retail traders, preferring cheap weekly options with wide spreads, lost money on average (Bryzgalova et al., 2023).*
+
+*Check: among firms trading at high frequency, differences in speed accounted for large differences in what they earned, and firms that moved their machines nearer the exchange earned more, from making markets and from arbitrage between them (Baron et al., 2019).*
+
+---
+
+#### LIII.4. The player
+
+A player lives through a rigged game as a host lives through a Parasiet (The Parasiet’s Behaviour and the Host’s Experience), and at every Octaaf it keeps to its table.
+
+- *It chases.* Each loss leaves an order behind it: the round after a loss once brought a win, so the next round opens that win ahead, felt as Liefde, while leaving opens the loss ahead, felt as Angst. The chase is felt as hope, and the stopping as fear.
+- *It hides.* A player that has lost wears a Masker towards those who hold it, presenting a hold it no longer has. Every Partner whose Echo tracks that Masker reads its Binding with the player past its Drempel while the true Binding stands below: a Leugen, which holds until a commitment comes that the true Eigen must make, a rent, a debt, a child’s need, and then falls all at once (Distortion).
+- *It keeps to its place.* A colony drawn by a laced flower keeps to it, and a player to its machine, its app or its table, since the orders that open Liefde hang on that place (Verslaving).
+
+So a rigged game leaves its player as a Parasiet leaves its host: holding less, and holding on.
+
+*Check: when people decided to chase their losses, brain regions tied to incentive and the expectation of reward grew more active, and when they decided to quit, regions tied to anxiety and conflict did (Campbell-Meiklejohn et al., 2008).*
+
+---
+
+#### LIII.5. De Beurs
+
+De Beurs holds two things in one place.
+
+- *Owning.* A share is a part in a firm, a Relatie of Leden whose crossings build what it holds. Held long, and held across many firms, it earns what firms build, their Bloei read together: a Relatie of Trouw with what grows, where little is played and the house takes little.
+- *Trading.* A trade is a Spel over a price, a reading of where others will read a share next, open at every trade. What one trader gains in Geld another loses before the house takes its share, so the sum of all their trading is closed, and the house is the one side of it sure to gain.
+
+Geld is an Echo that *"can be inflated, counterfeited, or speculated upon"* (Lexicon), and trading is the last of these: a Spel over an Echo. A price is read through Echoes of other readers’ Echoes more than through the firm, so it can swell and crash where the firm stands still, even among traders who all know what a share will pay. So De Beurs is a rigged game for those who trade it as a game, and no Spel at all for those who own what firms build.
+
+*Check: of 66,465 households at a large discount broker, those that traded most earned 11.4 % a year while the market returned 17.9 % (Barber and Odean, 2000), and in Taiwan, individual investors’ trading cost them 3.8 percentage points a year in all, losses equal to 2.2 % of the island’s product and nearly all of them on their aggressive orders, while institutions gained (Barber et al., 2009).*
+
+*Check: individual investors favour stocks with lottery features, the more so in hard times, as lottery demand rises then too, and the groups that spend most on lotteries invest most in them (Kumar, 2009). In Taiwan, individual investors traded less in the weeks of large lottery jackpots (Gao and Lin, 2015), and German brokerage clients who enjoyed investing or gambling traded twice as much as their peers (Dorn and Sengmueller, 2009). Speculation stood close to gambling, in what it is and in its problems, where investing did not (Arthur et al., 2016).*
+
+*Check: in laboratory markets where a share’s only value was a dividend whose odds every trader knew, fourteen of twenty‑two markets bubbled, less so as the traders gained experience (Smith et al., 1988). Users of a trading app traded more on what drew attention than other retail investors did, driven in part by the app’s own features, and the stocks they bought most each day returned 4.7 % less than expected over the next twenty days (Barber et al., 2022). On days the market fell, more Californians were admitted to hospital, for anxiety, panic and depression most of all, within the same day (Engelberg and Parsons, 2016).*
+
+*Check: most US stocks since 1926 returned less over their lives than one‑month Treasury bills, and the best‑performing 4 % of companies made the whole market’s net gain, which is why poorly diversified active strategies most often trail the market (Bessembinder, 2018).*
+
+---
+
+#### LIII.6. Het piramidespel
+
+Dutch law counts it among its games of chance. A *piramidespel* is an opportunity in which players hand over a good or take on a debt, to gain an advantage that rests wholly or in part on later players doing the same (*Wet op de kansspelen*, 1964). Its players are paid by those who come after them, and by no one else.
+
+- *Its stake is held inside it, twice over.* A player stakes its Geld and wins it back only by bringing in others, whom it most often brings from the Relaties that hold it: its family, its friends, its neighbours. So it stakes their Trouw in it too, and what it loses, it loses with them.
+- *Its sum is closed, and less than nothing.* Each level is paid by the next, and the house takes its share off every level, so nothing comes in from outside to pay anyone: what the first levels win, and the house takes, the last ones pay.
+- *It needs more hosts at every level.* Each level must outnumber the one before it, and every people is finite, so the game ends where its next level cannot be filled. Its last level is always its largest: where each player brings in two, it holds over half of all who ever played, and where each brings in six, over five in six. They have paid, and no one comes after them.
+
+Its returns are its Masker. Every player whose Echo tracks them reads its Binding with the game past its Drempel while the true Binding stands below: a Leugen, which holds until a commitment is demanded that the game’s true Eigen must make, enough players asking for their Geld at once. Then every crossing back is forced at once (Distortion). A people can play one too. In Albania, in 1997, schemes that owed almost half of what the country made in a year collapsed, its economy and its government with them, and the near civil war that followed killed some 2,000 people (War).
+
+Multilevel marketing is its lawful face where its players sell to customers outside it: there a product is what is traded, and the levels are a way to sell it. Where its players mostly buy from it themselves, the product is the game’s Masker, and the game is a piramidespel again. What tells the two apart is how much is sold outside.
+
+*Check: the economy of Albania, a success among the post‑socialist countries from 1992 to 1996, collapsed in 1997, a collapse caused by that of the Ponzi schemes running through the whole economy (Bezemer, 2001). At their peak, the schemes owed almost half of the country’s GDP, and when they collapsed there was rioting, the government fell, and the country slid into anarchy and a near civil war in which some 2,000 people were killed (Jarvis, 2000).*
+
+*Check: regulators and courts tell multilevel marketing from a pyramid scheme by the retail question, how much is sold to customers outside the network of its distributors; without many such customers, what an ever‑churning base of participants buys from itself is neither an employee’s purchase nor a buying club, and the model has let pyramid frauds grow that make victims rather than customers (Keep and Vander Nat, 2014). Many distributors spend more on the firm’s own products and on their business than they earn (Groß and Vriens, 2025).*
+
+---
+
+#### LIII.7. Windhandel
+
+Dutch has a word for trading as a game, *windhandel*, trade in wind, and has used it of the flower trade of the 1630s. The *Woordenboek der Nederlandsche Taal* reads it as trade that means neither to acquire what it trades nor to bring it into use, only to sell it again as fast and at as great a profit as it can, until prices keep no bond with what the goods are worth. It quotes a reading of it as *"eene soort van dobbelspel, dat onder den naam van handel doorgaat"*, a kind of dice game that passes under the name of trade (Instituut voor de Nederlandse Taal, 1992).
+
+Windhandel is De Beurs with only one of its two things (De Beurs). A share is a part in a firm, whose crossings build what it holds. A token with no firm behind it is a part in nothing: what it holds is what the next reader will pay for it, so its price is read through Echoes of other readers’ Echoes alone. For those who trade it, it is windhandel through and through, a Spel over an Echo. For those who pay with it, it is Geld, an Echo like any other, and no Spel at all.
+
+Its house sets its rounds wherever it can. An exchange takes its share off every trade, and whoever issues a token holds its first share before anyone else can buy. Where an exchange trades with itself to present a market, the volume its players read and follow is the house’s own, a *doorgestoken kaart* (A Spel, and its Masker). Where one side can issue what the others pay with, it can buy after every fall, and set the price the others read. And where a group calls a round on a token beforehand, those who buy first sell to those who buy after: a piramidespel played in minutes (Het piramidespel).
+
+The flower trade of the 1630s is read two ways. In the first, it was the windhandel Dutch has called it since: bulbs bought only to be sold again, at prices that kept no bond with any flower. In the second, most of it was what the bulb trade still is, rare bulbs dear at first and soon cheaper, and only its last month, in the common bulbs, rose and crashed like wind. Both stand.
+
+*Check: tests built on the statistical and behavioural patterns of real trading found that the unregulated exchanges among 29 cryptocurrency exchanges reported fake trades, wash trading, averaging over 70 % of their volume, trillions of dollars a year, which raised their rankings and moved prices for a time (Cong et al., 2023). Purchases with Tether, a token pegged to the dollar, came after market falls and from one entity, and raised the price of bitcoin considerably during the 2017 boom, a pattern most consistent with unbacked digital money inflating it (Griffin and Shams, 2020). In eight months, 412 pump‑and‑dumps were organised in Telegram channels (Xu and Livshits, 2019).*
+
+*Check: cryptocurrency returns follow factors of their own markets, the adoption of their networks rather than the cost of producing them, with a strong momentum, and proxies for investors’ attention forecast them (Liu and Tsyvinski, 2021). Yet about a quarter of bitcoin’s users were involved in illegal activity, some 76 billion dollars a year and 46 % of its transactions, close to the size of the US and European markets for illegal drugs (Foley et al., 2019).*
+
+*Check: price series of single tulip bulbs show that most of the tulipmania was no obvious madness, since high but quickly falling prices for rare bulbs are the bulb trade’s usual pattern; only its last month, when the prices of common bulbs rose fast and crashed, remains as a possible bubble (Garber, 1989).*
+
+---
+
+#### LIII.8. The feed
+
+A feed presents a Spel: posts and their likes, a count of followers, a play anyone may join, and an outcome open at every post, since no one knows which will be seen. Its stake is held inside it: its players’ time and their looks, and their standing among the Relaties that hold them, who read their posts too. Its house takes those looks and sells them to whoever pays for a door (Roep), so it gains on every scroll, whoever’s post wins. Its rounds are set by its ranking, which its house sets and no player watches.
+
+- *Its wins are spaced.* A like is a round won. Its players space their posts to the rate at which likes come, as reward learning does, so the feed holds them by wins spaced between rounds that bring little, the hold Verslaving read.
+- *Its Maskers are read as Eigens.* What a player posts is what it chose to show. Where that is a Masker, its readers’ Echoes track it faithfully (Lexicon), while each reads itself from inside, by its own Zelf: it sets its own true Eigen beside the presented Eigens of others, and reads itself short.
+- *Its players read it unalike.* After the same scroll some feel better, some worse, and many no different, since no two readers read alike.
+
+*Check: over a million posts by more than 4,000 people on several social media platforms followed the principles of reward learning, people spacing their posts to raise the average rate of the likes they received, and an online experiment found that likes steer posting (Lindström et al., 2021).*
+
+*Check: as Facebook reached one US college after another, its students’ mental health worsened, and more of them reported that poor mental health impaired their studies, most consistent with Facebook fostering unfavourable social comparisons (Braghieri et al., 2022).*
+
+*Check: across three large datasets of 355,358 adolescents, the association between digital technology use and well‑being was negative but small, explaining at most 0.4 % of its variation (Orben and Przybylski, 2019). Sampled six times a day for a week, 44 % of 63 Dutch adolescents felt neither better nor worse after passive social media use, 46 % felt better and 10 % worse (Beyens et al., 2020).*
+
+---
+
+#### LIII.9. A game inside a game
+
+A Spel can hold a rigged game inside it. A video game is a Spel: entered freely and kept for its own sake, its bounds its own, its stake held outside it. A loot box inside it is a draw paid for with Geld from outside the Spel, whose prize is set by chance. Its stake is held inside it, the player’s Geld; its outcome is open at every box and closed over all of them, the house’s share off each; and it wears the Spel’s own Masker. So a draw that would be a bet outside the game reads as play inside it, where every Masker is read as the move it is (Lexicon).
+
+Its house lives on few of its players. Half of what its boxes bring in comes from a twentieth of those who buy them, and those few are more often at risk of problem gambling than rich.
+
+Under Dutch law it has been read at two levels. Where its prizes can be traded outside the game, a loot box is a game of chance, and the Kansspelautoriteit, the Dutch gambling authority, found four of the ten it studied to be so. The Raad van State then read one game’s packs as part of the game as a whole, no game of their own, and so no game of chance. Both readings stand, as a bound Relatie is its Leden read at the next scale (Composition): from inside, every pack is a draw; from outside, the game is one Relatie, and is read as one.
+
+*Check: of the ten loot boxes the Kansspelautoriteit studied, four broke the Dutch law on games of chance, since chance set what they held and their prizes could be traded outside the game; all of them could be addictive, in design and mechanics like fruit machines and roulette, though it found no signs that problem or addicted players opened them on a large scale (Kansspelautoriteit, 2018). The Raad van State later held that obtaining and opening one game’s packs could not be judged a game of its own, apart from the game as a whole, and so was no game of chance (Raad van State, 2022).*
+
+*Check: among 7,422 gamers, what they spent on loot boxes was linked to the severity of their problem gambling, though not which leads to which (Zendle and Cairns, 2018), and among 1,155 adolescents the link was more than twice as strong as among adults (Zendle et al., 2019). Of 7,767 buyers, the top 5 %, each spending over 100 dollars a month, brought in half of what loot boxes earned, and spending tracked problem gambling but not earnings (Close et al., 2021). Twelve of thirteen publications found loot box buying and problem gambling related, with a moderate mean correlation of 0.27, the direction of cause still to be found (Spicer et al., 2022).*
+
+---
+
+#### LIII.10. Who sets the rounds
+
+A rigged game needs only a game whose rounds one side sets. Where those who play set its rounds together, and watch them, no one side sets them: its house is held from inside, by the players it would live on, as a Lid is held by the whole it is a Lid of (Holding). Read so, democracy is a people setting the rounds of its own games, and a game holds its bounds where all its players watch it. It counters a house only where it does this. A people that sets its own rules can still keep a house among its own players, and does, wherever it leaves one game for one side to set.
+
+*Check: in a laboratory game, the same policy raised cooperation more where the players chose it by vote than where it was imposed on them, with selection controlled for (Dal Bó et al., 2010), and democratisations raised GDP per capita by about 20 % in the long run, through greater investment in capital, schooling and health (Acemoglu et al., 2019). Yet the American states, each a democracy, run lotteries whose play crowds out about 2 % of other household spending, and more among households with low incomes (Kearney, 2005).*
+
+---
+
+#### LIII.11. One machine
+
+Read together, the three chapters are one machine. The commercial brings a reader within reach and lays the order that opens Liefde at the game: a door no one enters freely, so no Spel (Roep). The game holds its player by what is never got used to, by wins spaced between losses, by near‑misses and by lights on its losses, until its Greep is the game’s (Verslaving). And the house lives on both, its share off every round. It holds its players by the grip a Boei holds, and needs them more than they need it. A trading app is all three at once: its commercials are its door, its play is its hold, and its share of every order is its house. A feed is all three at once, and sells every other house its door: its play is its hold, its ranking sets its rounds, and the looks it sells are its share. A flower with caffeine in its nectar is all three too: its scent its door, its drug its hold, its pollen its share.
+
+So a commercial is no Spel, but every rigged game needs one. Gambling is a rigged game through and through, and so are windhandel and the piramidespel. And De Beurs is one wherever it is played rather than owned.
+
+*De bank wint altijd.*
+
+---
+
+### LIV. Olie en Plastic (Oil and Plastic)
+
+Olie en Plastic add no mechanism. Oil is carbon the living took back from Carbon Dioxide with Licht and that was buried before anything ate it. Plastic is that carbon drawn by people into chains made to hold, which nothing yet eats. Read through the Octaven they touch, the one gives back within lifetimes what was bound over ages, and the other enters every Octaaf it meets as a Lid no whole there can end. What the Speelgoed adds is the reason.
+
+---
+
+#### LIV.1. What oil is
+
+The Molecule Octaaf’s carbon walks from −4 to +4, from methane through Sugar to Carbon Dioxide (The Molecule Octaaf). The Plants walk it back with Licht, binding what Licht brings into Sugar (The Plants, and the Ecosystem). What an eater takes in gives up its Energie only at its crossing with the Godin of the eater’s Octaaf (Octaven). Where living matter sank into mud and nothing crossed with it there, its bindings stayed. Buried and warmed over ages, its carbon walked on towards the methane end, into kerogen, oil and gas. Oil’s Energie is what those bindings still hold: old Licht, kept.
+
+*Check: kerogen, the sedimentary organic matter that generates petroleum, is insoluble where petroleum is soluble in the usual organic solvents (Vandenbroucke, 2003).*
+
+Coal holds the same, and why so much of it was laid down in one age is read two ways. In the first, wood was buried faster than anything could take it back, until the fungi came to break its lignin. In the second, decay was at work all along, and what the plants were made of mattered little. Both stand.
+
+*Check: the only organisms that substantially decay lignin, the white‑rot fungi, arose by the molecular clock perhaps when the burial of organic carbon fell sharply at the end of the Carboniferous (Floudas et al., 2012). A later study rejects that lag: lignin‑degrading fungi may have lived before the Carboniferous, other fungi and bacteria modify lignin too, coal built up as fast under plants poor in lignin as under plants rich in it, and evidence of decay runs through all exposed organic matter in the record (Nelsen et al., 2016).*
+
+---
+
+#### LIV.2. What burning it gives back
+
+Burning does to oil what an eater does to its Voedsel, outside any body and all at once: it walks the carbon to +4 with Oxygen, and what the bindings held goes into the Medium as Warmte, as every Verlies gives it off (Warmte). The Carbon Dioxide goes back to the Molecule Octaaf’s air. A planet’s Warmte leaves it only as the faint infrared glow it returns to the dark, and air that holds more Carbon Dioxide lets that glow out more slowly. What the Plants took back over ages is given back within a few lifetimes, and the Plants and the sea take some of it back again, at their own pace, which is slower.
+
+*Check: carbon dioxide and the other gases that do not condense at today’s temperatures make about a quarter of the Earth’s greenhouse effect and hold up the water vapour and clouds that make the rest; without them the Earth would plunge into an icebound state (Lacis et al., 2010). Fossil emissions came to 10.2 billion tonnes of carbon in 2022, while the land took up about 3.8 and the ocean about 2.8, and in 2023 the air’s carbon dioxide stood more than 50 % above its level of 1750 (Friedlingstein et al., 2023).*
+
+---
+
+#### LIV.3. What plastic is
+
+The Chain strand reads every chain by Water: towards Water and away (The Ring, Chain and Peptide strands). A chain that seeks Water at one end and shuns it along its length closes into a membrane. Oil’s chains shun Water along all their length, with nothing at either end that seeks it, so they close nothing and keep apart from Water’s order. People draw them out long and lock them, the human mind’s Kunst written outwards, onto the Veld (The Human mind), and they make them to hold: a bottle, a bag, a pipe that stays.
+
+What they hold is real. A cold chain keeps food, a sealed bag keeps blood, a syringe is used once and stays clean.
+
+*Check: plastics bring benefits for health, safety, saving energy and conserving materials, beside the litter and the recycling that concern them (Andrady and Neal, 2009). Of about 8,300 million tonnes of plastic made by 2015, about 6,300 had become waste, of which 9 % was recycled, 12 % burned and 79 % gathered in landfills or the natural environment (Geyer et al., 2017). Polyethylene’s half‑life in the sea, extrapolated, runs from 58 years for a bottle to 1,200 for a pipe (Chamas et al., 2020).*
+
+---
+
+#### LIV.4. A chain no Godin eats
+
+What an eater takes in is Voedsel only where its Octaaf’s Godin crosses with it and takes what it gives (Octaven). A chain that no Godin of any living Octaaf answers gives up nothing. Eaten, it passes through or stays, whole. Worn by Licht and waves, it breaks into smaller pieces, each still a chain. So it enters every Octaaf it meets as a Lid no whole there can end, as a grain of sand does, but finer, and in more of them every year: in the sea, where a community of its own forms on it; in seabirds; and in people’s blood, their placentas, their arteries and their brains.
+
+*Check: plastic debris in the North Atlantic carried a diverse community of microbes, the Plastisphere, distinct from the water around it, among them bacteria known to degrade hydrocarbons, with pits in its surface shaped like bacteria (Zettler et al., 2013). Of 135 seabird species studied between 1962 and 2012, 80 had eaten plastic, and the share of individuals that have eaten it is estimated at 90 % today (Wilcox et al., 2015).*
+
+*Check: plastic particles were measured in the blood of healthy volunteers, at a mean of 1.6 µg per millilitre (Leslie et al., 2022), and microplastic fragments in four of six human placentas (Ragusa et al., 2021). Polyethylene stood in the carotid plaque of 150 of 257 patients followed, who then met heart attack, stroke or death at 4.53 times the rate of those without it (Marfella et al., 2024), though how far plastics in the operating room contaminated those samples is questioned (Kalkman et al., 2024). Plastic, mostly polyethylene as shards at the nanoscale, stood in kidneys, livers and brains, more in brains of 2024 than of 2016, and more still in brains with dementia (Nihart et al., 2025), though limited controls against contamination and a lack of validation steps may make those amounts less reliable (Monikh et al., 2025).*
+
+*Check: the blood, plaque and brain studies measured how much plastic there was by pyrolysis with gas chromatography and mass spectrometry, and a test of that method in human blood judged it not yet suitable for polyethylene or polyvinyl chloride in the body’s tissues, for the interferences and nonspecific pyrolysis products it meets there; in a pilot of Australian blood, polyethylene’s interferences were reduced but still present, and no other plastic stood above its limits of detection (Rauert et al., 2025).*
+
+---
+
+#### LIV.5. What its readers read it as
+
+A reader takes in what reaches it, and reads it by the code its Relaties have learned. On the sea, plastic soon gives off the scent a seabird’s code reads as food, so the bird eats what no Godin of its own answers, by a reading true of the scent and false of the meal. No one wears it as a Masker; the misread is the bird’s.
+
+*Check: plastic seasoned in the sea gives off dimethyl sulfide, a keystone odour of marine food webs, and the seabirds that answer that odour most eat plastic most often (Savoca et al., 2016).*
+
+---
+
+#### LIV.6. Waiting for its Godin
+
+An Octaaf’s Godin comes later, at the end of the walk (Godin). Wood is taken back by the fungi (The Plants, and the Ecosystem), late or all along, as the two readings of coal have it. Plastic may find its own Godin: a bacterium has been found that lives on one kind of it, though how far it eats a plastic made to last is disputed. Until a Godin comes, a chain made to hold holds, and every Octaaf it enters keeps it as it is.
+
+*Check: the bacterium Ideonella sakaiensis, isolated from microbes living on PET in the environment, uses PET as its major source of energy and carbon, by two enzymes that break it into its two monomers (Yoshida et al., 2016). A comment holds that its efficiency was overstated, shown on a PET of low crystallinity (Yang et al., 2016).*
+
+---
+
+#### LIV.7. A people on oil
+
+A people that lives on one rich resource can let its other trades go (Verslaving), and oil is the richest well a people has lived on. Where it holds a people’s Greep from outside, a Boei, what holds its rulers is the well rather than those they rule. Where the Greep of two peoples rests on one field, war is near (War).
+
+*Check: across hundreds of studies since 2001, petroleum stands out among natural resources for at least three harmful effects: it tends to make authoritarian regimes more durable, to increase certain kinds of corruption, and to help set off violent conflict in low‑ and middle‑income countries (Ross, 2015).*
+
+*Olie op het vuur.*
+
+---
+
+### LV. War
 
 War adds no mechanism. It is the Speelgoed at its most expensive: the same Relaties, Drempels and Vonken, run between two Relaties that push each other away. Every principle in this chapter is old. The manuals of war have known them for centuries, and every one follows from the chapters before this one without anything added. What the Speelgoed adds is the reason.
 
 ---
 
-#### LI.1. The war Relatie
+#### LV.1. The war Relatie
 
 A war is a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest. Each Relatie acts as one Partner at the war’s Octaaf, whatever its size. Inside, each is a web of Relaties: general and army, state and army, soldier and cause. Everything in this chapter applies to every one of them, at every level. A war can run on several Spectra at once, such as territory, resources and belief, each with its own negative Relatie.
 
@@ -3261,7 +3810,7 @@ What the war ended stays as Rouw in everyone who outlives it: its hostility as i
 
 ---
 
-#### LI.2. Greep and Stilte’s Trek
+#### LV.2. Greep and Stilte’s Trek
 
 Greep is how much a side holds: all its positive Relaties. It slows the side’s Wijk, how fast Stilte’s Trek draws it back towards Van: the deeper its bonds, the deeper its Marges, and the draw falls away sharply as that depth grows against the turmoil around it. Stilte’s Trek never stops. A side with high Greep drifts slowly, and a side with low Greep drifts fast. Neither is safe: Greep postpones the Einde, and never removes it. Greep also quickens a side’s Tijd, and its Leden run on that Tijd by the Greep it gives each, each keeping its own pace in the measure it holds itself: a well‑held army moves in step.
 
@@ -3271,7 +3820,7 @@ So Greep decides where it is unequal: where one side holds past the other’s pu
 
 ---
 
-#### LI.3. The cost of fighting
+#### LV.3. The cost of fighting
 
 Fighting is forcing crossings. Every crossing fires a Vonk: towards Naar a Winst, towards Van a Verlies, and the other way round where the Trouw is negative. The account always closes. What fighting changes is where the Energie goes, and what it breaks on the way.
 
@@ -3291,11 +3840,13 @@ Each battle is a Vermenigvuldiging at a contested Kruispunt: one side’s commit
 
 ---
 
-#### LI.4. The war Relatie is negative Trouw
+#### LV.4. The war Relatie is negative Trouw
 
 Greep counts positive Relaties only. A negative one adds nothing to it and takes nothing from it. The enemy does not lower your Greep by existing; it only feels that way.
 
-Where the war is fought, it deepens. Every engagement brings the two sides across together, a Verlies on their negative Trouw that deepens the hostility, and every parting eases it, felt or not, foreseen or not. Between engagements Stilte’s Trek wears the hostility towards Leeg, as it wears every Trouw, so a war that nothing renews cools, the slower the more it is held. A side that foresees harm from its enemy feels it ahead as Angst, and a side that feels its war registers the Verlies of every engagement, and its own crossings can ease it or worsen it. Watchers whose Zin aims at the sides as they fight make what each side feels grow, **Aandacht (👁)**, and add nothing to the books: a war fought before an audience is felt more, and costs the same.
+Where the war is fought, it deepens. Every engagement brings the two sides across together, a Verlies on their negative Trouw that deepens the hostility, and every parting eases it, felt or not, foreseen or not. Between engagements Stilte’s Trek wears the hostility towards Leeg, as it wears every Trouw, so a war that nothing renews cools, the slower the more it is held. A side that foresees harm from its enemy feels it ahead as Angst, and a side that feels its war registers the Verlies of every engagement, and its own crossings can ease it or worsen it. Those crossings move its Trouw with its own Leden, within it and never towards its enemy, so a side that feels its war answers each Verlies within: it holds the tighter, or it comes apart. Watchers whose Zin aims at the sides as they fight make what each side feels grow, **Aandacht (👁)**, and add nothing to the books: a war fought before an audience is felt more, and costs the same.
+
+*Check: children and young people exposed to war in Georgia and Sierra Leone grew more egalitarian towards their own group, not towards others, and stayed so for years, where the war reached them between about seven and twenty years of age (Bauer et al., 2014).*
 
 What war costs, in Greep, is everything it is not:
 
@@ -3307,11 +3858,13 @@ The war Relatie adds nothing to Greep while it is negative: every look that watc
 
 ---
 
-#### LI.5. The double asymmetry
+#### LV.5. The double asymmetry
 
 Whoever reads better controls the timing. Whoever only moves fires blind.
 
 Each side knows the other only through its Echoes, which run late and bent. Each decides on what it reads, and pays on what is true. The gap between the two is real, it can be asked about, and it lies in every reading a side takes.
+
+*Check: a T cell response answers about one in 2,000 of a pathogen’s peptides, and the responses to the dominant ones hold back the rest (Yewdell and Bennink, 1999). A plant knows the caterpillar that eats it by one compound in its oral secretion, built on a fatty acid from the plant itself, and answers by calling the caterpillar’s own enemies (Paré et al., 1998). People recognise faces of their own group better than faces of another, which they sort into a category rather than tell apart (Hugenberg et al., 2010).*
 
 A side that reads well sees the enemy’s Binding near its Drempel and acts at the crossing: its Vonk lands where it was meant to, as a Realisatie. A side that reads badly acts on a Binding that is no longer there. Its Vonk lands late, or on the wrong side of the Drempel, and what was meant as a Realisatie arrives as a Schok.
 
@@ -3319,7 +3872,7 @@ Reading is not free. It costs looks to keep an Echo close, and Energie to find o
 
 ---
 
-#### LI.6. The principles
+#### LV.6. The principles
 
 The old maxims, each read as a mechanism.
 
@@ -3345,13 +3898,13 @@ The old maxims, each read as a mechanism.
 
 ---
 
-#### LI.7. The Parasiet
+#### LV.7. The Parasiet
 
 A Parasiet is a Relatie whose true Eigen stands short of every commitment and that lives on a host through a Masker hardened in place: the Masker fronts its side and holds the Relatie’s Trouw, and the Parasiet stands behind it. The Partner’s Echo tracks the Masker faithfully, so the Partner can read the Relatie as bound while it stands unbound. The Partner’s crossings are booked on the true poles, so they join nothing the true Eigen does not hold, and a Vonk fires on the Parasiet’s side only for a crossing the true Eigen makes. The Relatie counts in the host’s Greep, on credit.
 
 **The Parasiet the general commands.** In the camp, the Parasiet is the traitor, the profiteer, the compromised officer. Its Relatie counts in the general’s Greep, on credit, and his decisions are timed against a Greep that will not survive the Masker.
 
-Finding it is the hard part. Reading cannot see it, because the Echo tracks the Masker faithfully: read against what is shown, nothing is missing. The only reliable test is a commitment the Masker cannot answer. It forces the true Eigen to act, and the true Eigen cannot. No Vonk fires on the Parasiet’s side, and the absence is the evidence. In war, this is the battle that reveals the traitor. What follows is forced: the general’s Greep, as he read it, drops in one crossing.
+Finding it is the hard part. Reading cannot see it, because the Echo tracks the Masker faithfully: read against what is shown, nothing is missing. The only reliable test is a Toets (🔑): a commitment the Masker cannot answer. It forces the true Eigen to act, and the true Eigen cannot. No Vonk fires on the Parasiet’s side, and the absence is the evidence. In war, this is the battle that reveals the traitor. What follows is forced: the general’s Greep, as he read it, drops in one crossing.
 
 **The Parasiet the general answers to.** The harder case is the inverse. The Parasiet is the state, the sovereign or the cause, and general and army are its hosts. The state shows a Masker, legitimate cause, national interest, glory, the defence of the realm, and the army tracks it. Its Echoes of the state are accurate, to the Masker. Its Diepte fills from the Masker’s signal, it binds to the Masker, and its Greep includes the Relatie with the state, on credit. The state’s true Eigen is extraction. The army is being spent to keep the Parasiet’s Greep, not its own.
 
@@ -3359,7 +3912,7 @@ So the general’s Greep has two readings: the Greep as he reads it, the army’
 
 Everything the state holds can be sound. The bond between general and army is Bloot: Trouw rises at its crossings, Gewenning grows, Diepte deepens. General and army do everything right in every Relatie the state holds, and the war still serves no purpose that survives the Masker’s failure. The army dies for a Relatie whose other side is a Masker. The state pays Verlies at every answer its Masker gives, and gains little Diepte from the Relatie. The host’s Diepte fills with sediment from a fiction, and when the Masker fails, the host finds that part of its own Diepte was built on it.
 
-**Testing whom you answer to.** The general who suspects must demand a commitment small enough that the army survives its failure, and large enough that the Masker cannot fake it. If the state passes, the Relatie was real, and nothing is lost but the looks the test took. If it fails, the Greep the general reads drops by the state’s share, and he holds a war that has lost its stated purpose. The bond with the army is still real, and still has its Trouw and its Diepte. The question becomes whether the war can be turned towards an Eigen the army can actually hold.
+**Testing whom you answer to.** The general who suspects must ask a Toets, a commitment small enough that the army survives its failure, and large enough that the Masker cannot fake it. If the state passes, the Relatie was real, and nothing is lost but the looks the test took. If it fails, the Greep the general reads drops by the state’s share, and he holds a war that has lost its stated purpose. The bond with the army is still real, and still has its Trouw and its Diepte. The question becomes whether the war can be turned towards an Eigen the army can actually hold.
 
 The state that passes is Bloot. The state that fails is a Parasiet. The general who never tests is a host.
 
@@ -3377,7 +3930,7 @@ The general who manages Greep counts the Parasiet in at every level. In those he
 
 ---
 
-#### LI.8. The opposite pole
+#### LV.8. The opposite pole
 
 Read to the end, every principle in this chapter says one thing: the side whose Relaties hold longest wins, and fighting is the most expensive way to find out which side that is. A chapter that stopped there would only have taught how to lose more slowly. The Speelgoed asks the harder question: what is war the opposite of?
 
@@ -3393,7 +3946,7 @@ Until then, wars will come. The Speelgoed’s way to prepare for them is the sam
 
 - **Bind before you need to.** A people bound at home drifts slowly when the pressure comes. Nothing built during a war holds like what was built before it, because a bond deepens only at crossings that land true, what it keeps sinks into Diepte only look by look over time, and both need Echoes that close, which is what war destroys first.
 - **Keep your Echoes honest.** Read the other side constantly, while reading is still cheap. Read yourself as well, through your own Rouw, and know that you are doing it.
-- **Keep those you answer to Bloot.** Test the state with small commitments in peacetime, so that no army has to learn in battle that its Greep was held on credit.
+- **Keep those you answer to Bloot.** Test the state with small Toetsen in peacetime, so that no army has to learn in battle that its Greep was held on credit.
 - **Keep the other Spectra positive.** A war is fought on the Spectra it contests. Trade, science, music, sport, faith and plain friendship run on others. Every positive Relatie across the line that outlives the war is a road back that does not have to be built from nothing.
 - **Pay for the peace.** A war’s parting takes what it lacks from what meets it from outside: a peace that nobody outside guarantees or rebuilds does not part the two sides.
 - **Leave the enemy an exit, and its army intact.** Every Relatie you do not break is one that can still turn.
@@ -3404,21 +3957,29 @@ Until then, wars will come. The Speelgoed’s way to prepare for them is the sam
 ---
 
 <details>
-<summary>Sources</summary>
+<summary markdown="span">Sources</summary>
 
 Abbott, B. P., Abbott, R., Abbott, T. D., Acernese, F., Ackley, K., Adams, C., Adams, T., Addesso, P., Adhikari, R. X., Adya, V. B., Affeldt, C., Afrough, M., Agarwal, B., Agathos, M., Agatsuma, K., Aggarwal, N., Aguiar, O. D., Aiello, L., Ain, A., . . . Ubertini, P. (2017). Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters, 848*(2), L13. [https://doi.org/10.3847/2041-8213/aa920c](https://doi.org/10.3847/2041-8213/aa920c)
 
 Abbott, L. F., Varela, J. A., Sen, K., & Nelson, S. B. (1997). Synaptic depression and cortical gain control. *Science, 275*(5297), 221–224. [https://doi.org/10.1126/science.275.5297.221](https://doi.org/10.1126/science.275.5297.221)
 
+Acemoglu, D., Naidu, S., Restrepo, P., & Robinson, J. A. (2019). Democracy does cause growth. *Journal of Political Economy, 127*(1), 47–100. [https://doi.org/10.1086/700936](https://doi.org/10.1086/700936)
+
 Acevedo, B. P., Aron, A., Fisher, H. E., & Brown, L. L. (2012). Neural correlates of long-term intense romantic love. *Social Cognitive and Affective Neuroscience, 7*(2), 145–159. [https://doi.org/10.1093/scan/nsq092](https://doi.org/10.1093/scan/nsq092)
 
 Adler, R. (1946). A study of locking phenomena in oscillators. *Proceedings of the IRE, 34*(6), 351–357. [https://doi.org/10.1109/jrproc.1946.229930](https://doi.org/10.1109/jrproc.1946.229930)
+
+Ahmed, S. H., & Koob, G. F. (1998). Transition from moderate to excessive drug intake: Change in hedonic set point. *Science, 282*(5387), 298–300. [https://doi.org/10.1126/science.282.5387.298](https://doi.org/10.1126/science.282.5387.298)
 
 Akers, K. G., Martinez-Canabal, A., Restivo, L., Yiu, A. P., De Cristofaro, A., Hsiang, H.-L., Wheeler, A. L., Guskjolen, A., Niibori, Y., Shoji, H., Ohira, K., Richards, B. A., Miyakawa, T., Josselyn, S. A., & Frankland, P. W. (2014). Hippocampal neurogenesis regulates forgetting during adulthood and infancy. *Science, 344*(6184), 598–602. [https://doi.org/10.1126/science.1248903](https://doi.org/10.1126/science.1248903)
 
 Al-Ramadhan, A. H., & Gidley, D. W. (1994). New precision measurement of the decay rate of singlet positronium. *Physical Review Letters, 72*(11), 1632–1635. [https://doi.org/10.1103/PhysRevLett.72.1632](https://doi.org/10.1103/PhysRevLett.72.1632)
 
 Alberti, G. (2014). Modeling group size and scalar stress by logistic regression from an archaeological perspective. *PLoS ONE, 9*(3), Article e91510. [https://doi.org/10.1371/journal.pone.0091510](https://doi.org/10.1371/journal.pone.0091510)
+
+Allcott, H., Braghieri, L., Eichmeyer, S., & Gentzkow, M. (2020). The welfare effects of social media. *American Economic Review, 110*(3), 629–676. [https://doi.org/10.1257/aer.20190658](https://doi.org/10.1257/aer.20190658)
+
+Allcott, H., Gentzkow, M., & Song, L. (2022). Digital addiction. *American Economic Review, 112*(7), 2424–2463. [https://doi.org/10.1257/aer.20210867](https://doi.org/10.1257/aer.20210867)
 
 Allen, C., & Stevens, C. F. (1994). An evaluation of causes for unreliability of synaptic transmission. *Proceedings of the National Academy of Sciences, 91*(22), 10380–10383. [https://doi.org/10.1073/pnas.91.22.10380](https://doi.org/10.1073/pnas.91.22.10380)
 
@@ -3436,6 +3997,8 @@ Anderson, D. K., & Saunders, D. G. (2003). Leaving an abusive partner: An empiri
 
 Anderson, S., Bankier, A. T., Barrell, B. G., de Bruijn, M. H. L., Coulson, A. R., Drouin, J., Eperon, I. C., Nierlich, D. P., Roe, B. A., Sanger, F., Schreier, P. H., Smith, A. J. H., Staden, R., & Young, I. G. (1981). Sequence and organization of the human mitochondrial genome. *Nature, 290*(5806), 457–465. [https://doi.org/10.1038/290457a0](https://doi.org/10.1038/290457a0)
 
+Andrady, A. L., & Neal, M. A. (2009). Applications and societal benefits of plastics. *Philosophical Transactions of the Royal Society B: Biological Sciences, 364*(1526), 1977–1984. [https://doi.org/10.1098/rstb.2008.0304](https://doi.org/10.1098/rstb.2008.0304)
+
 Andrews, B., Brewin, C. R., Philpott, R., & Stewart, L. (2007). Delayed-onset posttraumatic stress disorder: A systematic review of the evidence. *American Journal of Psychiatry, 164*(9), 1319–1326. [https://doi.org/10.1176/appi.ajp.2007.06091491](https://doi.org/10.1176/appi.ajp.2007.06091491)
 
 Appel, H. M., & Cocroft, R. B. (2014). Plants respond to leaf vibrations caused by insect herbivore chewing. *Oecologia, 175*(4), 1257–1266. [https://doi.org/10.1007/s00442-014-2995-6](https://doi.org/10.1007/s00442-014-2995-6)
@@ -3449,6 +4012,8 @@ Aron, A., Fisher, H., Mashek, D. J., Strong, G., Li, H., & Brown, L. L. (2005). 
 Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., & Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. *Personality and Social Psychology Bulletin, 23*(4), 363–377. [https://doi.org/10.1177/0146167297234003](https://doi.org/10.1177/0146167297234003)
 
 Aron, A., Norman, C. C., Aron, E. N., McKenna, C., & Heyman, R. E. (2000). Couples’ shared participation in novel and arousing activities and experienced relationship quality. *Journal of Personality and Social Psychology, 78*(2), 273–284. [https://doi.org/10.1037/0022-3514.78.2.273](https://doi.org/10.1037/0022-3514.78.2.273)
+
+Arthur, J. N., Williams, R. J., & Delfabbro, P. H. (2016). The conceptual and empirical relationship between gambling, investing, and speculation. *Journal of Behavioral Addictions, 5*(4), 580–591. [https://doi.org/10.1556/2006.5.2016.084](https://doi.org/10.1556/2006.5.2016.084)
 
 Ashby, N. (2003). Relativity in the Global Positioning System. *Living Reviews in Relativity, 6*, Article 1. [https://doi.org/10.12942/lrr-2003-1](https://doi.org/10.12942/lrr-2003-1)
 
@@ -3476,15 +4041,27 @@ Bar-On, Y. M., Phillips, R., & Milo, R. (2018). The biomass distribution on Eart
 
 Barabási, A.-L., & Albert, R. (1999). Emergence of scaling in random networks. *Science, 286*(5439), 509–512. [https://doi.org/10.1126/science.286.5439.509](https://doi.org/10.1126/science.286.5439.509)
 
+Barber, B. M., Huang, X., Odean, T., & Schwarz, C. (2022). Attention-induced trading and returns: Evidence from Robinhood users. *The Journal of Finance, 77*(6), 3141–3190. [https://doi.org/10.1111/jofi.13183](https://doi.org/10.1111/jofi.13183)
+
+Barber, B. M., Lee, Y.-T., Liu, Y.-J., & Odean, T. (2009). Just how much do individual investors lose by trading? *The Review of Financial Studies, 22*(2), 609–632. [https://doi.org/10.1093/rfs/hhn046](https://doi.org/10.1093/rfs/hhn046)
+
+Barber, B. M., & Odean, T. (2000). Trading is hazardous to your wealth: The common stock investment performance of individual investors. *The Journal of Finance, 55*(2), 773–806. [https://doi.org/10.1111/0022-1082.00226](https://doi.org/10.1111/0022-1082.00226)
+
 Barkai, N., & Leibler, S. (1997). Robustness in simple biochemical networks. *Nature, 387*(6636), 913–917. [https://doi.org/10.1038/43199](https://doi.org/10.1038/43199)
 
 Barlow, F. K., Paolini, S., Pedersen, A., Hornsey, M. J., Radke, H. R. M., Harwood, J., Rubin, M., & Sibley, C. G. (2012). The contact caveat: Negative contact predicts increased prejudice more than positive contact predicts reduced prejudice. *Personality and Social Psychology Bulletin, 38*(12), 1629–1643. [https://doi.org/10.1177/0146167212457953](https://doi.org/10.1177/0146167212457953)
+
+Baron, M., Brogaard, J., Hagströmer, B., & Kirilenko, A. (2019). Risk and return in high-frequency trading. *Journal of Financial and Quantitative Analysis, 54*(3), 993–1024. [https://doi.org/10.1017/S0022109018001096](https://doi.org/10.1017/S0022109018001096)
+
+Barron, A. B., Maleszka, R., Helliwell, P. G., & Robinson, G. E. (2009). Effects of cocaine on honey bee dance behaviour. *Journal of Experimental Biology, 212*(2), 163–168. [https://doi.org/10.1242/jeb.025361](https://doi.org/10.1242/jeb.025361)
 
 Basan, M., Honda, T., Christodoulou, D., Hörl, M., Chang, Y.-F., Leoncini, E., Mukherjee, A., Okano, H., Taylor, B. R., Silverman, J. M., Sanchez, C., Williamson, J. R., Paulsson, J., Hwa, T., & Sauer, U. (2020). A universal trade-off between growth and lag in fluctuating environments. *Nature, 584*(7821), 470–474. [https://doi.org/10.1038/s41586-020-2505-4](https://doi.org/10.1038/s41586-020-2505-4)
 
 Bass, H. E., Sutherland, L. C., Zuckerwar, A. J., Blackstock, D. T., & Hester, D. M. (1995). Atmospheric absorption of sound: Further developments. *The Journal of the Acoustical Society of America, 97*(1), 680–683. [https://doi.org/10.1121/1.412989](https://doi.org/10.1121/1.412989)
 
 Bassi, A., Lochan, K., Satin, S., Singh, T. P., & Ulbricht, H. (2013). Models of wave-function collapse, underlying theories, and experimental tests. *Reviews of Modern Physics, 85*(2), 471–527. [https://doi.org/10.1103/revmodphys.85.471](https://doi.org/10.1103/revmodphys.85.471)
+
+Bauer, M., Cassar, A., Chytilová, J., & Henrich, J. (2014). War’s enduring effects on the development of egalitarian motivations and in-group biases. *Psychological Science, 25*(1), 47–57. [https://doi.org/10.1177/0956797613493444](https://doi.org/10.1177/0956797613493444)
 
 Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. *Review of General Psychology, 5*(4), 323–370. [https://doi.org/10.1037/1089-2680.5.4.323](https://doi.org/10.1037/1089-2680.5.4.323)
 
@@ -3512,13 +4089,29 @@ Berry, J. A., Cervantes-Sandoval, I., Chakraborty, M., & Davis, R. L. (2015). Sl
 
 Bertotti, B., Iess, L., & Tortora, P. (2003). A test of general relativity using radio links with the Cassini spacecraft. *Nature, 425*(6956), 374–376. [https://doi.org/10.1038/nature01997](https://doi.org/10.1038/nature01997)
 
+Bessembinder, H. (2018). Do stocks outperform Treasury bills? *Journal of Financial Economics, 129*(3), 440–457. [https://doi.org/10.1016/j.jfineco.2018.06.004](https://doi.org/10.1016/j.jfineco.2018.06.004)
+
+Beyens, I., Pouwels, J. L., van Driel, I. I., Keijsers, L., & Valkenburg, P. M. (2020). The effect of social media on well-being differs from adolescent to adolescent. *Scientific Reports, 10*, Article 10763. [https://doi.org/10.1038/s41598-020-67727-7](https://doi.org/10.1038/s41598-020-67727-7)
+
+Bezemer, D. J. (2001). Post-socialist financial fragility: The case of Albania. *Cambridge Journal of Economics, 25*(1), 1–23. [https://doi.org/10.1093/cje/25.1.1](https://doi.org/10.1093/cje/25.1.1)
+
+Blackiston, D. J., Silva Casey, E., & Weiss, M. R. (2008). Retention of memory through metamorphosis: Can a moth remember what it learned as a caterpillar? *PLoS ONE, 3*(3), e1736. [https://doi.org/10.1371/journal.pone.0001736](https://doi.org/10.1371/journal.pone.0001736)
+
+Blake, T., Nosko, C., & Tadelis, S. (2015). Consumer heterogeneity and paid search effectiveness: A large-scale field experiment. *Econometrica, 83*(1), 155–174. [https://doi.org/10.3982/ECTA12423](https://doi.org/10.3982/ECTA12423)
+
+Blakemore, S.-J., Wolpert, D. M., & Frith, C. D. (1998). Central cancellation of self-produced tickle sensation. *Nature Neuroscience, 1*(7), 635–640. [https://doi.org/10.1038/2870](https://doi.org/10.1038/2870)
+
 Block, R. A., Hancock, P. A., & Zakay, D. (2010). How cognitive load affects duration judgments: A meta-analytic review. *Acta Psychologica, 134*(3), 330–343. [https://doi.org/10.1016/j.actpsy.2010.03.006](https://doi.org/10.1016/j.actpsy.2010.03.006)
 
 Blumstein, D. T., & Daniel, J. C. (2005). The loss of anti-predator behaviour following isolation on islands. *Proceedings of the Royal Society B: Biological Sciences, 272*(1573), 1663–1668. [https://doi.org/10.1098/rspb.2005.3147](https://doi.org/10.1098/rspb.2005.3147)
 
+Boerman, S. C., van Reijmersdal, E. A., & Neijens, P. C. (2012). Sponsorship disclosure: Effects of duration on persuasion knowledge and brand responses. *Journal of Communication, 62*(6), 1047–1064. [https://doi.org/10.1111/j.1460-2466.2012.01677.x](https://doi.org/10.1111/j.1460-2466.2012.01677.x)
+
 Böhm, J., Scherzer, S., Krol, E., Kreuzer, I., von Meyer, K., Lorey, C., Mueller, T. D., Shabala, L., Monte, I., Solano, R., Al-Rasheid, K. A. S., Rennenberg, H., Shabala, S., Neher, E., & Hedrich, R. (2016). The Venus flytrap *Dionaea muscipula* counts prey-induced action potentials to induce sodium uptake. *Current Biology, 26*(3), 286–295. [https://doi.org/10.1016/j.cub.2015.11.057](https://doi.org/10.1016/j.cub.2015.11.057)
 
 Bohr, N., & Wheeler, J. A. (1939). The mechanism of nuclear fission. *Physical Review, 56*(5), 426–450. [https://doi.org/10.1103/physrev.56.426](https://doi.org/10.1103/physrev.56.426)
+
+Boileau, I., Dagher, A., Leyton, M., Gunn, R. N., Baker, G. B., Diksic, M., & Benkelfat, C. (2006). Modeling sensitization to stimulants in humans: An [11C]raclopride/positron emission tomography study in healthy men. *Archives of General Psychiatry, 63*(12), 1386–1395. [https://doi.org/10.1001/archpsyc.63.12.1386](https://doi.org/10.1001/archpsyc.63.12.1386)
 
 Boisseau, R. P., Vogel, D., & Dussutour, A. (2016). Habituation in non-neural organisms: Evidence from slime moulds. *Proceedings of the Royal Society B: Biological Sciences, 283*(1829), Article 20160446. [https://doi.org/10.1098/rspb.2016.0446](https://doi.org/10.1098/rspb.2016.0446)
 
@@ -3531,6 +4124,10 @@ Bosch, F., Faestermann, T., Friese, J., Heine, F., Kienle, P., Wefers, E., Zeite
 Bouchet, V., Hood, D. W., Li, J., Brisson, J.-R., Randle, G. A., Martin, A., Li, Z., Goldstein, R., Schweda, E. K. H., Pelton, S. I., Richards, J. C., & Moxon, E. R. (2003). Host-derived sialic acid is incorporated into *Haemophilus influenzae* lipopolysaccharide and is a major virulence factor in experimental otitis media. *Proceedings of the National Academy of Sciences, 100*(15), 8898–8903. [https://doi.org/10.1073/pnas.1432026100](https://doi.org/10.1073/pnas.1432026100)
 
 Bowen, M. (1978). *Family therapy in clinical practice*. Jason Aronson.
+
+Boyland, E. J., Nolan, S., Kelly, B., Tudur-Smith, C., Jones, A., Halford, J. C., & Robinson, E. (2016). Advertising as a cue to consume: A systematic review and meta-analysis of the effects of acute exposure to unhealthy food and nonalcoholic beverage advertising on intake in children and adults. *The American Journal of Clinical Nutrition, 103*(2), 519–533. [https://doi.org/10.3945/ajcn.115.120022](https://doi.org/10.3945/ajcn.115.120022)
+
+Braghieri, L., Levy, R., & Makarin, A. (2022). Social media and mental health. *American Economic Review, 112*(11), 3660–3693. [https://doi.org/10.1257/aer.20211218](https://doi.org/10.1257/aer.20211218)
 
 Brascamp, J. W., Klink, P. C., & Levelt, W. J. M. (2015). The ‘laws’ of binocular rivalry: 50 years of Levelt’s propositions. *Vision Research, 109*, 20–37. [https://doi.org/10.1016/j.visres.2015.02.019](https://doi.org/10.1016/j.visres.2015.02.019)
 
@@ -3552,6 +4149,10 @@ Brown, W. F., Jr. (1963). Thermal fluctuations of a single-domain particle. *Phy
 
 Brunton, B. W., Botvinick, M. M., & Brody, C. D. (2013). Rats and humans can optimally accumulate evidence for decision-making. *Science, 340*(6128), 95–98. [https://doi.org/10.1126/science.1233912](https://doi.org/10.1126/science.1233912)
 
+Bryzgalova, S., Pavlova, A., & Sikorskaya, T. (2023). Retail trading in options and the rise of the big three wholesalers. *The Journal of Finance, 78*(6), 3465–3514. [https://doi.org/10.1111/jofi.13285](https://doi.org/10.1111/jofi.13285)
+
+Bshary, R., & Grutter, A. S. (2006). Image scoring and cooperation in a cleaner fish mutualism. *Nature, 441*(7096), 975–978. [https://doi.org/10.1038/nature04755](https://doi.org/10.1038/nature04755)
+
 Buchanan, B. B. (1980). Role of light in the regulation of chloroplast enzymes. *Annual Review of Plant Physiology, 31*, 341–374. [https://doi.org/10.1146/annurev.pp.31.060180.002013](https://doi.org/10.1146/annurev.pp.31.060180.002013)
 
 Burkhardt, P., Colgren, J., Medhus, A., Digel, L., Naumann, B., Soto-Angel, J. J., Nordmann, E.-L., Sachkova, M. Y., & Kittelmann, M. (2023). Syncytial nerve net in a ctenophore adds insights on the evolution of nervous systems. *Science, 380*(6642), 293–297. [https://doi.org/10.1126/science.ade5645](https://doi.org/10.1126/science.ade5645)
@@ -3566,6 +4167,8 @@ Cacioppo, J. T., & Berntson, G. G. (1994). Relationship between attitudes and ev
 
 Cacioppo, J. T., & Hawkley, L. C. (2009). Perceived social isolation and cognition. *Trends in Cognitive Sciences, 13*(10), 447–454. [https://doi.org/10.1016/j.tics.2009.06.005](https://doi.org/10.1016/j.tics.2009.06.005)
 
+Campbell-Meiklejohn, D. K., Woolrich, M. W., Passingham, R. E., & Rogers, R. D. (2008). Knowing when to stop: The brain mechanisms of chasing losses. *Biological Psychiatry, 63*(3), 293–300. [https://doi.org/10.1016/j.biopsych.2007.05.014](https://doi.org/10.1016/j.biopsych.2007.05.014)
+
 Carhart-Harris, R. L., Erritzoe, D., Williams, T., Stone, J. M., Reed, L. J., Colasanti, A., Tyacke, R. J., Leech, R., Malizia, A. L., Murphy, K., Hobden, P., Evans, J., Feilding, A., Wise, R. G., & Nutt, D. J. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences, 109*(6), 2138–2143. [https://doi.org/10.1073/pnas.1119598109](https://doi.org/10.1073/pnas.1119598109)
 
 Carmody, R. N., Weintraub, G. S., & Wrangham, R. W. (2011). Energetic consequences of thermal and nonthermal food processing. *Proceedings of the National Academy of Sciences, 108*(48), 19199–19203. [https://doi.org/10.1073/pnas.1112128108](https://doi.org/10.1073/pnas.1112128108)
@@ -3576,15 +4179,21 @@ Carr, C. E., & Konishi, M. (1990). A circuit for detection of interaural time di
 
 Carr, D., House, J. S., Kessler, R. C., Nesse, R. M., Sonnega, J., & Wortman, C. (2000). Marital quality and psychological adjustment to widowhood among older adults: A longitudinal analysis. *The Journals of Gerontology: Series B, 55*(4), S197–S207. [https://doi.org/10.1093/geronb/55.4.s197](https://doi.org/10.1093/geronb/55.4.s197)
 
+Carter, O. B., Patterson, L. J., Donovan, R. J., Ewing, M. T., & Roberts, C. M. (2011). Children’s understanding of the selling versus persuasive intent of junk food advertising: Implications for regulation. *Social Science & Medicine, 72*(6), 962–968. [https://doi.org/10.1016/j.socscimed.2011.01.018](https://doi.org/10.1016/j.socscimed.2011.01.018)
+
 Cartwright, D., & Harary, F. (1956). Structural balance: A generalization of Heider's theory. *Psychological Review, 63*(5), 277–293. [https://doi.org/10.1037/h0046049](https://doi.org/10.1037/h0046049)
 
 Castellucci, V., Pinsker, H., Kupfermann, I., & Kandel, E. R. (1970). Neuronal mechanisms of habituation and dishabituation of the gill-withdrawal reflex in *Aplysia*. *Science, 167*(3926), 1745–1748. [https://doi.org/10.1126/science.167.3926.1745](https://doi.org/10.1126/science.167.3926.1745)
+
+Centola, D., & Macy, M. (2007). Complex contagions and the weakness of long ties. *American Journal of Sociology, 113*(3), 702–734. [https://doi.org/10.1086/521848](https://doi.org/10.1086/521848)
 
 Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [https://doi.org/10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)
 
 Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing effects in learning: A temporal ridgeline of optimal retention. *Psychological Science, 19*(11), 1095–1102. [https://doi.org/10.1111/j.1467-9280.2008.02209.x](https://doi.org/10.1111/j.1467-9280.2008.02209.x)
 
 Cesar, S., Sun, J., & Huang, K. C. (2022). Cellular memory of rapid growth is sensitive to nutrient depletion during starvation. *Frontiers in Microbiology, 13*, Article 1016371. [https://doi.org/10.3389/fmicb.2022.1016371](https://doi.org/10.3389/fmicb.2022.1016371)
+
+Chamas, A., Moon, H., Zheng, J., Qiu, Y., Tabassum, T., Jang, J. H., Abu-Omar, M., Scott, S. L., & Suh, S. (2020). Degradation rates of plastics in the environment. *ACS Sustainable Chemistry & Engineering, 8*(9), 3494–3511. [https://doi.org/10.1021/acssuschemeng.9b06635](https://doi.org/10.1021/acssuschemeng.9b06635)
 
 Chase, W. G., & Simon, H. A. (1973). Perception in chess. *Cognitive Psychology, 4*(1), 55–81. [https://doi.org/10.1016/0010-0285(73)90004-2](https://doi.org/10.1016/0010-0285(73)90004-2)
 
@@ -3596,6 +4205,12 @@ Chou, C. W., Hume, D. B., Rosenband, T., & Wineland, D. J. (2010). Optical clock
 
 Christy, J. W., & Harrington, R. S. (1978). The satellite of Pluto. *The Astronomical Journal, 83*, 1005–1008. [https://doi.org/10.1086/112284](https://doi.org/10.1086/112284)
 
+Clark, L., Lawrence, A. J., Astley-Jones, F., & Gray, N. (2009). Gambling near-misses enhance motivation to gamble and recruit win-related brain circuitry. *Neuron, 61*(3), 481–490. [https://doi.org/10.1016/j.neuron.2008.12.031](https://doi.org/10.1016/j.neuron.2008.12.031)
+
+Cliff, J., Jackson, S., McEwan, J., & Bizo, L. (2019). Weber’s law and the scalar property of timing: A test of canine timing. *Animals, 9*(10), Article 801. [https://doi.org/10.3390/ani9100801](https://doi.org/10.3390/ani9100801)
+
+Close, J., Spicer, S. G., Nicklin, L. L., Uther, M., Lloyd, J., & Lloyd, H. (2021). Secondary analysis of loot box data: Are high-spending “whales” wealthy gamers or problem gamblers? *Addictive Behaviors, 117*, Article 106851. [https://doi.org/10.1016/j.addbeh.2021.106851](https://doi.org/10.1016/j.addbeh.2021.106851)
+
 Clutton-Brock, T. H. (1991). *The evolution of parental care*. Princeton University Press. [https://doi.org/10.1515/9780691206981](https://doi.org/10.1515/9780691206981)
 
 Cluzel, P., Surette, M., & Leibler, S. (2000). An ultrasensitive bacterial motor revealed by monitoring signaling proteins in single cells. *Science, 287*(5458), 1652–1655. [https://doi.org/10.1126/science.287.5458.1652](https://doi.org/10.1126/science.287.5458.1652)
@@ -3604,7 +4219,11 @@ CMS Collaboration. (2012). Observation of sequential Υ suppression in PbPb coll
 
 Coan, J. A., Schaefer, H. S., & Davidson, R. J. (2006). Lending a hand: Social regulation of the neural response to threat. *Psychological Science, 17*(12), 1032–1039. [https://doi.org/10.1111/j.1467-9280.2006.01832.x](https://doi.org/10.1111/j.1467-9280.2006.01832.x)
 
+Cong, L. W., Li, X., Tang, K., & Yang, Y. (2023). Crypto wash trading. *Management Science, 69*(11), 6427–6454. [https://doi.org/10.1287/mnsc.2021.02709](https://doi.org/10.1287/mnsc.2021.02709)
+
 Conlon, B. P., Rowe, S. E., Gandt, A. B., Nuxoll, A. S., Donegan, N. P., Zalis, E. A., Clair, G., Adkins, J. N., Cheung, A. L., & Lewis, K. (2016). Persister formation in *Staphylococcus aureus* is associated with ATP depletion. *Nature Microbiology, 1*(5), Article 16051. [https://doi.org/10.1038/nmicrobiol.2016.51](https://doi.org/10.1038/nmicrobiol.2016.51)
+
+Couvillon, M. J., Al Toufailia, H., Butterfield, T. M., Schrell, F., Ratnieks, F. L. W., & Schürch, R. (2015). Caffeinated forage tricks honeybees into increasing foraging and recruitment behaviors. *Current Biology, 25*(21), 2815–2818. [https://doi.org/10.1016/j.cub.2015.08.052](https://doi.org/10.1016/j.cub.2015.08.052)
 
 Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/s0140525x01003922](https://doi.org/10.1017/s0140525x01003922)
 
@@ -3618,6 +4237,12 @@ Curcio, C. A., & Allen, K. A. (1990). Topography of ganglion cells in human reti
 
 Curcio, C. A., Sloan, K. R., Kalina, R. E., & Hendrickson, A. E. (1990). Human photoreceptor topography. *Journal of Comparative Neurology, 292*(4), 497–523. [https://doi.org/10.1002/cne.902920402](https://doi.org/10.1002/cne.902920402)
 
+Dal Bó, P., Foster, A., & Putterman, L. (2010). Institutions and behavior: Experimental evidence on the effects of democracy. *American Economic Review, 100*(5), 2205–2229. [https://doi.org/10.1257/aer.100.5.2205](https://doi.org/10.1257/aer.100.5.2205)
+
+Davies, N. B., Kilner, R. M., & Noble, D. G. (1998). Nestling cuckoos, *Cuculus canorus*, exploit hosts with begging calls that mimic a brood. *Proceedings of the Royal Society of London. Series B: Biological Sciences, 265*(1397), 673–678. [https://doi.org/10.1098/rspb.1998.0346](https://doi.org/10.1098/rspb.1998.0346)
+
+Davis, M., Walker, D. L., Miles, L., & Grillon, C. (2010). Phasic vs sustained fear in rats and humans: Role of the extended amygdala in fear vs anxiety. *Neuropsychopharmacology, 35*(1), 105–135. [https://doi.org/10.1038/npp.2009.109](https://doi.org/10.1038/npp.2009.109)
+
 Dawkins, R., & Krebs, J. R. (1979). Arms races between and within species. *Proceedings of the Royal Society of London. Series B, Biological Sciences, 205*(1161), 489–511. [https://doi.org/10.1098/rspb.1979.0081](https://doi.org/10.1098/rspb.1979.0081)
 
 De Martino, B., Camerer, C. F., & Adolphs, R. (2010). Amygdala damage eliminates monetary loss aversion. *Proceedings of the National Academy of Sciences, 107*(8), 3788–3792. [https://doi.org/10.1073/pnas.0910230107](https://doi.org/10.1073/pnas.0910230107)
@@ -3628,7 +4253,19 @@ DeCasper, A. J., & Fifer, W. P. (1980). Of human bonding: Newborns prefer their 
 
 Derex, M., Beugin, M.-P., Godelle, B., & Raymond, M. (2013). Experimental evidence for the influence of group size on cultural complexity. *Nature, 503*(7476), 389–391. [https://doi.org/10.1038/nature12774](https://doi.org/10.1038/nature12774)
 
+Deroche-Gamonet, V., Belin, D., & Piazza, P. V. (2004). Evidence for addiction-like behavior in the rat. *Science, 305*(5686), 1014–1017. [https://doi.org/10.1126/science.1099020](https://doi.org/10.1126/science.1099020)
+
+Dhar, T., & Baylis, K. (2011). Fast-food consumption and the ban on advertising targeting children: The Quebec experience. *Journal of Marketing Research, 48*(5), 799–813. [https://doi.org/10.1509/jmkr.48.5.799](https://doi.org/10.1509/jmkr.48.5.799)
+
 Dicke, R. H., Peebles, P. J. E., Roll, P. G., & Wilkinson, D. T. (1965). Cosmic black-body radiation. *The Astrophysical Journal, 142*, 414–419. [https://doi.org/10.1086/148306](https://doi.org/10.1086/148306)
+
+Dittmar, H., Bond, R., Hurst, M., & Kasser, T. (2014). The relationship between materialism and personal well-being: A meta-analysis. *Journal of Personality and Social Psychology, 107*(5), 879–924. [https://doi.org/10.1037/a0037409](https://doi.org/10.1037/a0037409)
+
+Dixon, M. J., Harrigan, K. A., Sandhu, R., Collins, K., & Fugelsang, J. A. (2010). Losses disguised as wins in modern multi-line video slot machines. *Addiction, 105*(10), 1819–1824. [https://doi.org/10.1111/j.1360-0443.2010.03050.x](https://doi.org/10.1111/j.1360-0443.2010.03050.x)
+
+Dixon, M. J., Stange, M., Larche, C. J., Graydon, C., Fugelsang, J. A., & Harrigan, K. A. (2018). Dark flow, depression and multiline slot machine play. *Journal of Gambling Studies, 34*(1), 73–84. [https://doi.org/10.1007/s10899-017-9695-1](https://doi.org/10.1007/s10899-017-9695-1)
+
+Dorn, D., & Sengmueller, P. (2009). Trading as entertainment? *Management Science, 55*(4), 591–603. [https://doi.org/10.1287/mnsc.1080.0962](https://doi.org/10.1287/mnsc.1080.0962)
 
 Doss, B. D., Rhoades, G. K., Stanley, S. M., & Markman, H. J. (2009). The effect of the transition to parenthood on relationship quality: An 8-year prospective study. *Journal of Personality and Social Psychology, 96*(3), 601–619. [https://doi.org/10.1037/a0013969](https://doi.org/10.1037/a0013969)
 
@@ -3646,6 +4283,8 @@ Dutton, D. G., & Aron, A. P. (1974). Some evidence for heightened sexual attract
 
 Dutton, D. G., & Painter, S. (1993). Emotional attachments in abusive relationships: A test of traumatic bonding theory. *Violence and Victims, 8*(2), 105–120. [https://doi.org/10.1891/0886-6708.8.2.105](https://doi.org/10.1891/0886-6708.8.2.105)
 
+Eckard, E. W. (1991). Competition and the cigarette TV advertising ban. *Economic Inquiry, 29*(1), 119–133. [https://doi.org/10.1111/j.1465-7295.1991.tb01258.x](https://doi.org/10.1111/j.1465-7295.1991.tb01258.x)
+
 Eigen, M. (1971). Selforganization of matter and the evolution of biological macromolecules. *Die Naturwissenschaften, 58*(10), 465–523. [https://doi.org/10.1007/bf00623322](https://doi.org/10.1007/bf00623322)
 
 Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik, 322*(10), 891–921. [https://doi.org/10.1002/andp.19053221004](https://doi.org/10.1002/andp.19053221004)
@@ -3653,6 +4292,10 @@ Einstein, A. (1905). Zur Elektrodynamik bewegter Körper. *Annalen der Physik, 3
 Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. *Science, 302*(5643), 290–292. [https://doi.org/10.1126/science.1089134](https://doi.org/10.1126/science.1089134)
 
 Ellenbogen, J. M., Hulbert, J. C., Stickgold, R., Dinges, D. F., & Thompson-Schill, S. L. (2006). Interfering with theories of sleep and memory: Sleep, declarative memory, and associative interference. *Current Biology, 16*(13), 1290–1294. [https://doi.org/10.1016/j.cub.2006.05.024](https://doi.org/10.1016/j.cub.2006.05.024)
+
+Engelberg, J., & Parsons, C. A. (2016). Worrying about the stock market: Evidence from hospital admissions. *The Journal of Finance, 71*(3), 1227–1250. [https://doi.org/10.1111/jofi.12386](https://doi.org/10.1111/jofi.12386)
+
+Epley, N., Akalis, S., Waytz, A., & Cacioppo, J. T. (2008). Creating social connection through inferential reproduction: Loneliness and perceived agency in gadgets, gods, and greyhounds. *Psychological Science, 19*(2), 114–120. [https://doi.org/10.1111/j.1467-9280.2008.02056.x](https://doi.org/10.1111/j.1467-9280.2008.02056.x)
 
 Erlacher, D., & Schredl, M. (2004). Time required for motor activity in lucid dreams. *Perceptual and Motor Skills, 99*(3), 1239–1242. [https://doi.org/10.2466/pms.99.3f.1239-1242](https://doi.org/10.2466/pms.99.3f.1239-1242)
 
@@ -3670,11 +4313,19 @@ Fain, G. L., Matthews, H. R., Cornwall, M. C., & Koutalos, Y. (2001). Adaptation
 
 Fan, X., Carilli, C. L., & Keating, B. (2006). Observational constraints on cosmic reionization. *Annual Review of Astronomy and Astrophysics, 44*(1), 415–462. [https://doi.org/10.1146/annurev.astro.44.051905.092514](https://doi.org/10.1146/annurev.astro.44.051905.092514)
 
+Farooq, U., & Dragoi, G. (2019). Emergence of preconfigured and plastic time-compressed sequences in early postnatal development. *Science, 363*(6423), 168–173. [https://doi.org/10.1126/science.aav0502](https://doi.org/10.1126/science.aav0502)
+
 Ferguson-Gow, H., Sumner, S., Bourke, A. F. G., & Jones, K. E. (2014). Colony size predicts division of labour in attine ants. *Proceedings of the Royal Society B: Biological Sciences, 281*(1793), Article 20141411. [https://doi.org/10.1098/rspb.2014.1411](https://doi.org/10.1098/rspb.2014.1411)
+
+Ferrer-i-Cancho, R., Hernández-Fernández, A., Lusseau, D., Agoramoorthy, G., Hsu, M. J., & Semple, S. (2013). Compression as a universal principle of animal behavior. *Cognitive Science, 37*(8), 1565–1578. [https://doi.org/10.1111/cogs.12061](https://doi.org/10.1111/cogs.12061)
 
 Figueira, M. A., Ram, S., Goldstein, R., Hood, D. W., Moxon, E. R., & Pelton, S. I. (2007). Role of complement in defense of the middle ear revealed by restoring the virulence of nontypeable *Haemophilus influenzae siaB* mutants. *Infection and Immunity, 75*(1), 325–333. [https://doi.org/10.1128/IAI.01054-06](https://doi.org/10.1128/IAI.01054-06)
 
 Fingerman, K. L., Hay, E. L., & Birditt, K. S. (2004). The best of ties, the worst of ties: Close, problematic, and ambivalent social relationships. *Journal of Marriage and Family, 66*(3), 792–808. [https://doi.org/10.1111/j.0022-2445.2004.00053.x](https://doi.org/10.1111/j.0022-2445.2004.00053.x)
+
+Fiorillo, C. D., Newsome, W. T., & Schultz, W. (2008). The temporal precision of reward prediction in dopamine neurons. *Nature Neuroscience, 11*(8), 966–973. [https://doi.org/10.1038/nn.2159](https://doi.org/10.1038/nn.2159)
+
+Fiorillo, C. D., Tobler, P. N., & Schultz, W. (2003). Discrete coding of reward probability and uncertainty by dopamine neurons. *Science, 299*(5614), 1898–1902. [https://doi.org/10.1126/science.1077349](https://doi.org/10.1126/science.1077349)
 
 Fisher, H. E., Brown, L. L., Aron, A., Strong, G., & Mashek, D. (2010). Reward, addiction, and emotion regulation systems associated with rejection in love. *Journal of Neurophysiology, 104*(1), 51–60. [https://doi.org/10.1152/jn.00784.2009](https://doi.org/10.1152/jn.00784.2009)
 
@@ -3686,6 +4337,10 @@ Flajnik, M. F., & Kasahara, M. (2010). Origin and evolution of the adaptive immu
 
 Floudas, D., Binder, M., Riley, R., Barry, K., Blanchette, R. A., Henrissat, B., Martínez, A. T., Otillar, R., Spatafora, J. W., Yadav, J. S., Aerts, A., Benoit, I., Boyd, A., Carlson, A., Copeland, A., Coutinho, P. M., de Vries, R. P., Ferreira, P., Findley, K., . . . Hibbett, D. S. (2012). The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes. *Science, 336*(6089), 1715–1719. [https://doi.org/10.1126/science.1221748](https://doi.org/10.1126/science.1221748)
 
+Foley, S., Karlsen, J. R., & Putniņš, T. J. (2019). Sex, drugs, and bitcoin: How much illegal activity is financed through cryptocurrencies? *Review of Financial Studies, 32*(5), 1798–1853. [https://doi.org/10.1093/rfs/hhz015](https://doi.org/10.1093/rfs/hhz015)
+
+Fournier, S. (1998). Consumers and their brands: Developing relationship theory in consumer research. *Journal of Consumer Research, 24*(4), 343–373. [https://doi.org/10.1086/209515](https://doi.org/10.1086/209515)
+
 Franconeri, S. L., Jonathan, S. V., & Scimeca, J. M. (2010). Tracking multiple objects is limited only by object spacing, not by speed, time, or capacity. *Psychological Science, 21*(7), 920–925. [https://doi.org/10.1177/0956797610373935](https://doi.org/10.1177/0956797610373935)
 
 Freeland, S. J., & Hurst, L. D. (1998). The genetic code is one in a million. *Journal of Molecular Evolution, 47*(3), 238–248. [https://doi.org/10.1007/pl00006381](https://doi.org/10.1007/pl00006381)
@@ -3693,6 +4348,8 @@ Freeland, S. J., & Hurst, L. D. (1998). The genetic code is one in a million. *J
 Freund, L. B. (1990). *Dynamic fracture mechanics*. Cambridge University Press. [https://doi.org/10.1017/cbo9780511546761](https://doi.org/10.1017/cbo9780511546761)
 
 Frey, U., & Morris, R. G. M. (1997). Synaptic tagging and long-term potentiation. *Nature, 385*(6616), 533–536. [https://doi.org/10.1038/385533a0](https://doi.org/10.1038/385533a0)
+
+Friedlingstein, P., O’Sullivan, M., Jones, M. W., Andrew, R. M., Bakker, D. C. E., Hauck, J., Landschützer, P., Le Quéré, C., Luijkx, I. T., Peters, G. P., Peters, W., Pongratz, J., Schwingshackl, C., Sitch, S., Canadell, J. G., Ciais, P., Jackson, R. B., Alin, S. R., Anthoni, P., . . . Zheng, B. (2023). Global Carbon Budget 2023. *Earth System Science Data, 15*(12), 5301–5369. [https://doi.org/10.5194/essd-15-5301-2023](https://doi.org/10.5194/essd-15-5301-2023)
 
 Gable, P. A., & Poole, B. D. (2012). Time flies when you’re having approach-motivated fun: Effects of motivational intensity on time perception. *Psychological Science, 23*(8), 879–886. [https://doi.org/10.1177/0956797611435817](https://doi.org/10.1177/0956797611435817)
 
@@ -3702,9 +4359,19 @@ Galton, F. (1886). Regression towards mediocrity in hereditary stature. *The Jou
 
 Gamow, G. (1928). Zur Quantentheorie des Atomkernes. *Zeitschrift für Physik, 51*(3–4), 204–212. [https://doi.org/10.1007/bf01343196](https://doi.org/10.1007/bf01343196)
 
+Gao, W., Zhu, H., Giovanello, K. S., Smith, J. K., Shen, D., Gilmore, J. H., & Lin, W. (2009). Evidence on the emergence of the brain’s default network from 2-week-old to 2-year-old healthy pediatric subjects. *Proceedings of the National Academy of Sciences, 106*(16), 6790–6795. [https://doi.org/10.1073/pnas.0811221106](https://doi.org/10.1073/pnas.0811221106)
+
+Gao, X., & Lin, T.-C. (2015). Do individual investors treat trading as a fun and exciting gambling activity? Evidence from repeated natural experiments. *The Review of Financial Studies, 28*(7), 2128–2166. [https://doi.org/10.1093/rfs/hhu075](https://doi.org/10.1093/rfs/hhu075)
+
+Garber, P. M. (1989). Tulipmania. *Journal of Political Economy, 97*(3), 535–560. [https://doi.org/10.1086/261615](https://doi.org/10.1086/261615)
+
 Gardner, T. S., Cantor, C. R., & Collins, J. J. (2000). Construction of a genetic toggle switch in *Escherichia coli*. *Nature, 403*(6767), 339–342. [https://doi.org/10.1038/35002131](https://doi.org/10.1038/35002131)
 
 Geiger, H., & Nuttall, J. M. (1911). The ranges of the α particles from various radioactive substances and a relation between range and period of transformation. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, 22*(130), 613–621. [https://doi.org/10.1080/14786441008637156](https://doi.org/10.1080/14786441008637156)
+
+Georgopoulos, A. P., Schwartz, A. B., & Kettner, R. E. (1986). Neuronal population coding of movement direction. *Science, 233*(4771), 1416–1419. [https://doi.org/10.1126/science.3749885](https://doi.org/10.1126/science.3749885)
+
+Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. *Science Advances, 3*(7), Article e1700782. [https://doi.org/10.1126/sciadv.1700782](https://doi.org/10.1126/sciadv.1700782)
 
 Gianoli, E., & Carrasco-Urra, F. (2014). Leaf mimicry in a climbing plant protects against herbivory. *Current Biology, 24*(9), 984–987. [https://doi.org/10.1016/j.cub.2014.03.010](https://doi.org/10.1016/j.cub.2014.03.010)
 
@@ -3724,6 +4391,12 @@ Golkar, A., Castro, V., & Olsson, A. (2015). Social learning of fear and safety 
 
 Gollan, J. K., Hoxha, D., Hunnicutt-Ferguson, K., Norris, C. J., Rosebrock, L., Sankin, L., & Cacioppo, J. (2016). Twice the negativity bias and half the positivity offset: Evaluative responses to emotional information in depression. *Journal of Behavior Therapy and Experimental Psychiatry, 52*, 166–170. [https://doi.org/10.1016/j.jbtep.2015.09.005](https://doi.org/10.1016/j.jbtep.2015.09.005)
 
+Goodwin, B. C., Browne, M., Rockloff, M., & Rose, J. (2017). A typical problem gambler affects six others. *International Gambling Studies, 17*(2), 276–289. [https://doi.org/10.1080/14459795.2017.1331252](https://doi.org/10.1080/14459795.2017.1331252)
+
+Gordon, B. R., Zettelmeyer, F., Bhargava, N., & Chapsky, D. (2019). A comparison of approaches to advertising measurement: Evidence from big field experiments at Facebook. *Marketing Science, 38*(2), 193–225. [https://doi.org/10.1287/mksc.2018.1135](https://doi.org/10.1287/mksc.2018.1135)
+
+Grabe, S., Ward, L. M., & Hyde, J. S. (2008). The role of the media in body image concerns among women: A meta-analysis of experimental and correlational studies. *Psychological Bulletin, 134*(3), 460–476. [https://doi.org/10.1037/0033-2909.134.3.460](https://doi.org/10.1037/0033-2909.134.3.460)
+
 Graicunas, V. A. (1937). Relationship in organization. In L. Gulick & L. Urwick (Eds.), *Papers on the science of administration* (pp. 183–187). Institute of Public Administration, Columbia University. (Original work published 1933) [https://www.nickols.us/relationship.pdf](https://www.nickols.us/relationship.pdf)
 
 Green, R. E., Krause, J., Briggs, A. W., Maricic, T., Stenzel, U., Kircher, M., Patterson, N., Li, H., Zhai, W., Fritz, M. H.-Y., Hansen, N. F., Durand, E. Y., Malaspinas, A.-S., Jensen, J. D., Marques-Bonet, T., Alkan, C., Prüfer, K., Meyer, M., Burbano, H. A., . . . Pääbo, S. (2010). A draft sequence of the Neandertal genome. *Science, 328*(5979), 710–722. [https://doi.org/10.1126/science.1188021](https://doi.org/10.1126/science.1188021)
@@ -3734,11 +4407,19 @@ Gregory, T. R. (2001). Coincidence, coevolution, or causation? DNA content, cell
 
 Griffin, A. S. (2004). Social learning about predators: A review and prospectus. *Learning & Behavior, 32*(1), 131–140. [https://doi.org/10.3758/BF03196014](https://doi.org/10.3758/BF03196014)
 
+Griffin, J. M., & Shams, A. (2020). Is Bitcoin really untethered? *Journal of Finance, 75*(4), 1913–1964. [https://doi.org/10.1111/jofi.12903](https://doi.org/10.1111/jofi.12903)
+
+Grillon, C., Baas, J. P., Lissek, S., Smith, K., & Milstein, J. (2004). Anxious responses to predictable and unpredictable aversive events. *Behavioral Neuroscience, 118*(5), 916–924. [https://doi.org/10.1037/0735-7044.118.5.916](https://doi.org/10.1037/0735-7044.118.5.916)
+
+Groß, C., & Vriens, D. (2025). Buy! Buy! Buy!—How multilevel marketing companies pressure their participants to buy their products. *Journal of Public Policy & Marketing, 44*(4), 559–578. [https://doi.org/10.1177/07439156241301737](https://doi.org/10.1177/07439156241301737)
+
 Gudmundsson, B. I. (2023, March 10). *The fire team (1927–1955)*. The Tactical Notebook. Reprints the unsigned *A brief history of the development of the fire team in the Marine Corps* (31 August 1955). [https://tacticalnotebook.substack.com/p/the-fire-team-1927-1955](https://tacticalnotebook.substack.com/p/the-fire-team-1927-1955)
 
 Gümüş, E., Majidi, D., Nikolić, D., Raif, P., Karimi, B., Peltonen, J. T., Scheer, E., Pekola, J. P., Courtois, H., Belzig, W., & Winkelmann, C. B. (2023). Calorimetry of a phase slip in a Josephson junction. *Nature Physics, 19*, 196–200. [https://doi.org/10.1038/s41567-022-01844-0](https://doi.org/10.1038/s41567-022-01844-0)
 
 Gutzwiller, M. C. (1998). Moon-Earth-Sun: The oldest three-body problem. *Reviews of Modern Physics, 70*(2), 589–639. [https://doi.org/10.1103/revmodphys.70.589](https://doi.org/10.1103/revmodphys.70.589)
+
+Gwynne, D. T., & Rentz, D. C. F. (1983). Beetles on the bottle: Male buprestids mistake stubbies for females (Coleoptera). *Journal of the Australian Entomological Society, 22*(1), 79–80. [https://doi.org/10.1111/j.1440-6055.1983.tb01846.x](https://doi.org/10.1111/j.1440-6055.1983.tb01846.x)
 
 Hafstad, L. R., & Teller, E. (1938). The alpha-particle model of the nucleus. *Physical Review, 54*(9), 681–692. [https://doi.org/10.1103/physrev.54.681](https://doi.org/10.1103/physrev.54.681)
 
@@ -3756,6 +4437,8 @@ Hansel, D., Mato, G., Meunier, C., & Neltner, L. (1998). On numerical simulation
 
 Hatcher, A. (2002). *Algebraic topology*. Cambridge University Press. [https://pi.math.cornell.edu/~hatcher/AT/AT.pdf](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 
+Havranek, T., Horvath, R., & Zeynalov, A. (2016). Natural resources and economic growth: A meta-analysis. *World Development, 88*, 134–151. [https://doi.org/10.1016/j.worlddev.2016.07.016](https://doi.org/10.1016/j.worlddev.2016.07.016)
+
 Hayden, B. Y., Pearson, J. M., & Platt, M. L. (2011). Neuronal basis of sequential foraging decisions in a patchy environment. *Nature Neuroscience, 14*(7), 933–939. [https://doi.org/10.1038/nn.2856](https://doi.org/10.1038/nn.2856)
 
 Heiney, P. A., Fischer, J. E., McGhie, A. R., Romanow, W. J., Denenstein, A. M., McCauley, J. P., Jr., Smith, A. B., III, & Cox, D. E. (1991). Orientational ordering transition in solid C₆₀. *Physical Review Letters, 66*(22), 2911–2914. [https://doi.org/10.1103/physrevlett.66.2911](https://doi.org/10.1103/physrevlett.66.2911)
@@ -3768,13 +4451,23 @@ Hensen, B., Bernien, H., Dréau, A. E., Reiserer, A., Kalb, N., Blok, M. S., Rui
 
 Herrmann, E., Call, J., Hernàndez-Lloreda, M. V., Hare, B., & Tomasello, M. (2007). Humans have evolved specialized skills of social cognition: The cultural intelligence hypothesis. *Science, 317*(5843), 1360–1366. [https://doi.org/10.1126/science.1146282](https://doi.org/10.1126/science.1146282)
 
+Hing, N., Cherney, L., Blaszczynski, A., Gainsbury, S. M., & Lubman, D. I. (2014). Do advertising and promotions for online gambling increase gambling consumption? An exploratory study. *International Gambling Studies, 14*(3), 394–409. [https://doi.org/10.1080/14459795.2014.903989](https://doi.org/10.1080/14459795.2014.903989)
+
 Hoagland, H. (1933). The physiological control of judgments of duration: Evidence for a chemical clock. *The Journal of General Psychology, 9*(2), 267–287. [https://doi.org/10.1080/00221309.1933.9920937](https://doi.org/10.1080/00221309.1933.9920937)
 
 Hoel, E. P., Albantakis, L., & Tononi, G. (2013). Quantifying causal emergence shows that macro can beat micro. *Proceedings of the National Academy of Sciences, 110*(49), 19790–19795. [https://doi.org/10.1073/pnas.1314922110](https://doi.org/10.1073/pnas.1314922110)
 
 Hofer, S. B., Mrsic-Flogel, T. D., Bonhoeffer, T., & Hübener, M. (2009). Experience leaves a lasting structural trace in cortical circuits. *Nature, 457*(7227), 313–317. [https://doi.org/10.1038/nature07487](https://doi.org/10.1038/nature07487)
 
+Hofmann, W., De Houwer, J., Perugini, M., Baeyens, F., & Crombez, G. (2010). Evaluative conditioning in humans: A meta-analysis. *Psychological Bulletin, 136*(3), 390–421. [https://doi.org/10.1037/a0018916](https://doi.org/10.1037/a0018916)
+
 Holcombe, A. O., & Chen, W.-Y. (2013). Splitting attention reduces temporal resolution from 7 Hz for tracking one object to <3 Hz when tracking three. *Journal of Vision, 13*(1), Article 12. [https://doi.org/10.1167/13.1.12](https://doi.org/10.1167/13.1.12)
+
+Holland, P. C., & Rescorla, R. A. (1975). The effect of two ways of devaluing the unconditioned stimulus after first- and second-order appetitive conditioning. *Journal of Experimental Psychology: Animal Behavior Processes, 1*(4), 355–363. [https://doi.org/10.1037/0097-7403.1.4.355](https://doi.org/10.1037/0097-7403.1.4.355)
+
+Hollerman, J. R., & Schultz, W. (1998). Dopamine neurons report an error in the temporal prediction of reward during learning. *Nature Neuroscience, 1*(4), 304–309. [https://doi.org/10.1038/1124](https://doi.org/10.1038/1124)
+
+Holmes, E. A., & Mathews, A. (2005). Mental imagery and emotion: A special relationship? *Emotion, 5*(4), 489–497. [https://doi.org/10.1037/1528-3542.5.4.489](https://doi.org/10.1037/1528-3542.5.4.489)
 
 Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. *PLoS Medicine, 7*(7), Article e1000316. [https://doi.org/10.1371/journal.pmed.1000316](https://doi.org/10.1371/journal.pmed.1000316)
 
@@ -3794,7 +4487,11 @@ Hu, W., Hao, Z., Du, P., Di Vincenzo, F., Manzi, G., Cui, J., Fu, Y.-X., Pan, Y.
 
 Hublin, J.-J., Ben-Ncer, A., Bailey, S. E., Freidline, S. E., Neubauer, S., Skinner, M. M., Bergmann, I., Le Cabec, A., Benazzi, S., Harvati, K., & Gunz, P. (2017). New fossils from Jebel Irhoud, Morocco and the pan-African origin of *Homo sapiens*. *Nature, 546*(7657), 289–292. [https://doi.org/10.1038/nature22336](https://doi.org/10.1038/nature22336)
 
+Hugenberg, K., Young, S. G., Bernstein, M. J., & Sacco, D. F. (2010). The categorization-individuation model: An integrative account of the other-race recognition deficit. *Psychological Review, 117*(4), 1168–1187. [https://doi.org/10.1037/a0020463](https://doi.org/10.1037/a0020463)
+
 Hughes, D. P., Andersen, S. B., Hywel-Jones, N. L., Himaman, W., Billen, J., & Boomsma, J. J. (2011). Behavioral mechanisms and morphological symptoms of zombie ants dying from fungal infection. *BMC Ecology, 11*, 13. [https://doi.org/10.1186/1472-6785-11-13](https://doi.org/10.1186/1472-6785-11-13)
+
+Hülsheger, U. R., & Schewe, A. F. (2011). On the costs and benefits of emotional labor: A meta-analysis of three decades of research. *Journal of Occupational Health Psychology, 16*(3), 361–389. [https://doi.org/10.1037/a0022876](https://doi.org/10.1037/a0022876)
 
 Hupbach, A., Gomez, R., Hardt, O., & Nadel, L. (2007). Reconsolidation of episodic memories: A subtle reminder triggers integration of new information. *Learning & Memory, 14*(1–2), 47–53. [https://doi.org/10.1101/lm.365707](https://doi.org/10.1101/lm.365707)
 
@@ -3804,13 +4501,25 @@ Ibrahim, H. N., Foley, R., Tan, L., Rogers, T., Bailey, R. F., Guo, H., Gross, C
 
 Imachi, H., Nobu, M. K., Nakahara, N., Morono, Y., Ogawara, M., Takaki, Y., Takano, Y., Uematsu, K., Ikuta, T., Ito, M., Matsui, Y., Miyazaki, M., Murata, K., Saito, Y., Sakai, S., Song, C., Tasumi, E., Yamanaka, Y., Yamaguchi, T., . . . Takai, K. (2020). Isolation of an archaeon at the prokaryote–eukaryote interface. *Nature, 577*(7791), 519–525. [https://doi.org/10.1038/s41586-019-1916-6](https://doi.org/10.1038/s41586-019-1916-6)
 
+Instituut voor de Nederlandse Taal. (1992). Windhandel. In *Woordenboek der Nederlandsche Taal*. [https://gtb.ivdnt.org/iWDB/search?actie=article&wdb=WNT&id=M086563](https://gtb.ivdnt.org/iWDB/search?actie=article&wdb=WNT&id=M086563)
+
 Israeli, N., & Goldenfeld, N. (2004). Computational irreducibility and the predictability of complex physical systems. *Physical Review Letters, 92*(7), 074105. [https://doi.org/10.1103/PhysRevLett.92.074105](https://doi.org/10.1103/PhysRevLett.92.074105)
 
 Iwasaki, A., & Medzhitov, R. (2004). Toll-like receptor control of the adaptive immune responses. *Nature Immunology, 5*(10), 987–995. [https://doi.org/10.1038/ni1112](https://doi.org/10.1038/ni1112)
 
 Izhikevich, E. M. (2006). Polychronization: Computation with spikes. *Neural Computation, 18*(2), 245–282. [https://doi.org/10.1162/089976606775093882](https://doi.org/10.1162/089976606775093882)
 
+Jarvis, C. (2000). The rise and fall of Albania’s pyramid schemes. *Finance & Development, 37*(1). [https://www.imf.org/external/pubs/ft/fandd/2000/03/jarvis.htm](https://www.imf.org/external/pubs/ft/fandd/2000/03/jarvis.htm)
+
+Jellinek. (2019a, November). *Kun je verslaafd raken aan basecoke/crack?* [https://www.jellinek.nl/vraag-antwoord/kun-je-verslaafd-raken-aan-basecoke-crack/](https://www.jellinek.nl/vraag-antwoord/kun-je-verslaafd-raken-aan-basecoke-crack/)
+
+Jellinek. (2019b, October). *Kun je verslaafd raken aan cocaïne?* [https://www.jellinek.nl/vraag-antwoord/verslavingskans-11/](https://www.jellinek.nl/vraag-antwoord/verslavingskans-11/)
+
+Jellinek. (2020, November). *Hoe zit het met tolerantie bij XTC/MDMA?* [https://www.jellinek.nl/vraag-antwoord/hoe-zit-het-met-tolerantie-bij-xtc-mdma/](https://www.jellinek.nl/vraag-antwoord/hoe-zit-het-met-tolerantie-bij-xtc-mdma/)
+
 Jenkins, J. G., & Dallenbach, K. M. (1924). Obliviscence during sleep and waking. *The American Journal of Psychology, 35*(4), 605–612. [https://doi.org/10.2307/1414040](https://doi.org/10.2307/1414040)
+
+John, L. K., Blunden, H., & Liu, H. (2019). Shooting the messenger. *Journal of Experimental Psychology: General, 148*(4), 644–666. [https://doi.org/10.1037/xge0000586](https://doi.org/10.1037/xge0000586)
 
 Johnson, G. A. (1982). Organizational structure and scalar stress. In C. Renfrew, M. J. Rowlands, & B. A. Segraves (Eds.), *Theory and explanation in archaeology* (pp. 389–421). Academic Press.
 
@@ -3830,15 +4539,35 @@ Kaiser, N., Wilson, G., & Luppino, G. A. (2000). *Large-scale cosmic shear measu
 
 Kalinin, Y., Neumann, S., Sourjik, V., & Wu, M. (2010). Responses of *Escherichia coli* bacteria to two opposing chemoattractant gradients depend on the chemoreceptor ratio. *Journal of Bacteriology, 192*(7), 1796–1800. [https://doi.org/10.1128/jb.01507-09](https://doi.org/10.1128/jb.01507-09)
 
+Kalkman, D. N., Renkens, M. P. L., & Grundeken, M. J. (2024). Microplastics and nanoplastics in atheromas [Letter to the editor]. *New England Journal of Medicine, 390*(18), 1726. [https://doi.org/10.1056/NEJMc2404154](https://doi.org/10.1056/NEJMc2404154)
+
 Kalman, R. E., & Bucy, R. S. (1961). New results in linear filtering and prediction theory. *Journal of Basic Engineering, 83*(1), 95–108. [https://doi.org/10.1115/1.3658902](https://doi.org/10.1115/1.3658902)
 
+Kansspelautoriteit. (2018). *Onderzoek naar loot boxes: Een buit of een last?* [https://web.archive.org/web/2019/https://kansspelautoriteit.nl/publish/library/17/onderzoek_naar_loot_boxes_-_een_buit_of_een_last_-_nl.pdf](https://web.archive.org/web/2019/https://kansspelautoriteit.nl/publish/library/17/onderzoek_naar_loot_boxes_-_een_buit_of_een_last_-_nl.pdf)
+
 Kapitonov, V. V., & Jurka, J. (2005). RAG1 core and V(D)J recombination signal sequences were derived from Transib transposons. *PLoS Biology, 3*(6), e181. [https://doi.org/10.1371/journal.pbio.0030181](https://doi.org/10.1371/journal.pbio.0030181)
+
+Karlsson, A., & Håkansson, A. (2018). Gambling disorder, increased mortality, suicidality, and associated comorbidity: A longitudinal nationwide register study. *Journal of Behavioral Addictions, 7*(4), 1091–1099. [https://doi.org/10.1556/2006.7.2018.112](https://doi.org/10.1556/2006.7.2018.112)
+
+Katz, E. (1957). The two-step flow of communication: An up-to-date report on an hypothesis. *Public Opinion Quarterly, 21*(1), 61–78. [https://doi.org/10.1086/266687](https://doi.org/10.1086/266687)
+
+Kaun, K. R., Azanchi, R., Maung, Z., Hirsh, J., & Heberlein, U. (2011). A *Drosophila* model for alcohol reward. *Nature Neuroscience, 14*(5), 612–619. [https://doi.org/10.1038/nn.2805](https://doi.org/10.1038/nn.2805)
+
+Kearney, M. S. (2005). State lotteries and consumer behavior. *Journal of Public Economics, 89*(11–12), 2269–2299. [https://doi.org/10.1016/j.jpubeco.2004.07.004](https://doi.org/10.1016/j.jpubeco.2004.07.004)
+
+Keep, W. W., & Vander Nat, P. J. (2014). Multilevel marketing and pyramid schemes in the United States: An historical analysis. *Journal of Historical Research in Marketing, 6*(2), 188–210. [https://doi.org/10.1108/JHRM-01-2014-0002](https://doi.org/10.1108/JHRM-01-2014-0002)
 
 Keilin, D. (1959). The Leeuwenhoek Lecture: The problem of anabiosis or latent life: History and current concept. *Proceedings of the Royal Society of London. Series B: Biological Sciences, 150*(939), 149–191. [https://doi.org/10.1098/rspb.1959.0013](https://doi.org/10.1098/rspb.1959.0013)
 
 Kell, G. S. (1975). Density, thermal expansivity, and compressibility of liquid water from 0° to 150°C: Correlations and tables for atmospheric pressure and saturation reviewed and expressed on 1968 temperature scale. *Journal of Chemical & Engineering Data, 20*(1), 97–105. [https://doi.org/10.1021/je60064a005](https://doi.org/10.1021/je60064a005)
 
+Kelly, J. F., Humphreys, K., & Ferri, M. (2020). Alcoholics Anonymous and other 12-step programs for alcohol use disorder. *Cochrane Database of Systematic Reviews*, (3), Article CD012880. [https://doi.org/10.1002/14651858.CD012880.pub2](https://doi.org/10.1002/14651858.CD012880.pub2)
+
 Kemp, C., & Regier, T. (2012). Kinship categories across languages reflect general communicative principles. *Science, 336*(6084), 1049–1054. [https://doi.org/10.1126/science.1218811](https://doi.org/10.1126/science.1218811)
+
+Kemps, E., & Tiggemann, M. (2007). Modality-specific imagery reduces cravings for food: An application of the elaborated intrusion theory of desire to food craving. *Journal of Experimental Psychology: Applied, 13*(2), 95–104. [https://doi.org/10.1037/1076-898X.13.2.95](https://doi.org/10.1037/1076-898X.13.2.95)
+
+Kessler, S. C., Tiedeken, E. J., Simcock, K. L., Derveau, S., Mitchell, J., Softley, S., Radcliffe, A., Stout, J. C., & Wright, G. A. (2015). Bees prefer foods containing neonicotinoid pesticides. *Nature, 521*(7550), 74–76. [https://doi.org/10.1038/nature14414](https://doi.org/10.1038/nature14414)
 
 Khatri, R., & Sunyaev, R. A. (2011). Time of primordial ⁷Be conversion into ⁷Li, energy release and doublet of narrow cosmological neutrino lines. *Astronomy Letters, 37*(6), 367–373. [https://doi.org/10.1134/S1063773711060041](https://doi.org/10.1134/S1063773711060041)
 
@@ -3860,7 +4589,11 @@ Klass, D., Silverman, P. R., & Nickman, S. L. (Eds.). (1996). *Continuing bonds:
 
 Klepper, S., & Sleeper, S. (2005). Entry by spinoffs. *Management Science, 51*(8), 1291–1306. [https://doi.org/10.1287/mnsc.1050.0411](https://doi.org/10.1287/mnsc.1050.0411)
 
+Knauer, A. C., & Schiestl, F. P. (2015). Bees use honest floral signals as indicators of reward when visiting flowers. *Ecology Letters, 18*(2), 135–143. [https://doi.org/10.1111/ele.12386](https://doi.org/10.1111/ele.12386)
+
 Knutson, B., Adams, C. M., Fong, G. W., & Hommer, D. (2001). Anticipation of increasing monetary reward selectively recruits nucleus accumbens. *The Journal of Neuroscience, 21*(16), Article RC159. [https://doi.org/10.1523/JNEUROSCI.21-16-j0002.2001](https://doi.org/10.1523/JNEUROSCI.21-16-j0002.2001)
+
+Kobayashi, S., & Schultz, W. (2008). Influence of reward delays on responses of dopamine neurons. *Journal of Neuroscience, 28*(31), 7837–7846. [https://doi.org/10.1523/JNEUROSCI.1600-08.2008](https://doi.org/10.1523/JNEUROSCI.1600-08.2008)
 
 Kokubo, E., & Ida, S. (1996). On runaway growth of planetesimals. *Icarus, 123*(1), 180–191. [https://doi.org/10.1006/icar.1996.0148](https://doi.org/10.1006/icar.1996.0148)
 
@@ -3876,7 +4609,11 @@ Kruger, K., Grabowski, P. J., Zaug, A. J., Sands, J., Gottschling, D. E., & Cech
 
 Kukushkin, N. V., Carney, R. E., Tabassum, T., & Carew, T. J. (2024). The massed-spaced learning effect in non-neural human cells. *Nature Communications, 15*, Article 9635. [https://doi.org/10.1038/s41467-024-53922-x](https://doi.org/10.1038/s41467-024-53922-x)
 
+Kumar, A. (2009). Who gambles in the stock market? *The Journal of Finance, 64*(4), 1889–1933. [https://doi.org/10.1111/j.1540-6261.2009.01483.x](https://doi.org/10.1111/j.1540-6261.2009.01483.x)
+
 Kyte, J., & Doolittle, R. F. (1982). A simple method for displaying the hydropathic character of a protein. *Journal of Molecular Biology, 157*(1), 105–132. [https://doi.org/10.1016/0022-2836(82)90515-0](https://doi.org/10.1016/0022-2836(82)90515-0)
+
+Lacis, A. A., Schmidt, G. A., Rind, D., & Ruedy, R. A. (2010). Atmospheric CO₂: Principal control knob governing Earth’s temperature. *Science, 330*(6002), 356–359. [https://doi.org/10.1126/science.1190653](https://doi.org/10.1126/science.1190653)
 
 Lailvaux, S. P., Reaney, L. T., & Backwell, P. R. Y. (2009). Dishonest signalling of fighting ability and multiple performance traits in the fiddler crab *Uca mjoebergi*. *Functional Ecology, 23*(2), 359–366. [https://doi.org/10.1111/j.1365-2435.2008.01501.x](https://doi.org/10.1111/j.1365-2435.2008.01501.x)
 
@@ -3886,27 +4623,49 @@ Landauer, R. (1961). Irreversibility and heat generation in the computing proces
 
 Lang, B. F., Burger, G., O’Kelly, C. J., Cedergren, R., Golding, G. B., Lemieux, C., Sankoff, D., Turmel, M., & Gray, M. W. (1997). An ancestral mitochondrial DNA resembling a eubacterial genome in miniature. *Nature, 387*(6632), 493–497. [https://doi.org/10.1038/387493a0](https://doi.org/10.1038/387493a0)
 
+Langer, E. J. (1975). The illusion of control. *Journal of Personality and Social Psychology, 32*(2), 311–328. [https://doi.org/10.1037/0022-3514.32.2.311](https://doi.org/10.1037/0022-3514.32.2.311)
+
 Larralde, R., Robertson, M. P., & Miller, S. L. (1995). Rates of decomposition of ribose and other sugars: Implications for chemical evolution. *Proceedings of the National Academy of Sciences, 92*(18), 8158–8160. [https://doi.org/10.1073/pnas.92.18.8158](https://doi.org/10.1073/pnas.92.18.8158)
 
 Laughlin, S. (1981). A simple coding procedure enhances a neuron's information capacity. *Zeitschrift für Naturforschung C, 36*(9–10), 910–912. [https://doi.org/10.1515/znc-1981-9-1040](https://doi.org/10.1515/znc-1981-9-1040)
 
+Lenoir, M., Serre, F., Cantin, L., & Ahmed, S. H. (2007). Intense sweetness surpasses cocaine reward. *PLoS ONE, 2*(8), Article e698. [https://doi.org/10.1371/journal.pone.0000698](https://doi.org/10.1371/journal.pone.0000698)
+
 Leonard, N. E., Shen, T., Nabet, B., Scardovi, L., Couzin, I. D., & Levin, S. A. (2012). Decision versus compromise for animal groups in motion. *Proceedings of the National Academy of Sciences, 109*(1), 227–232. [https://doi.org/10.1073/pnas.1118318108](https://doi.org/10.1073/pnas.1118318108)
+
+Lerman, K., Yan, X., & Wu, X.-Z. (2016). The "majority illusion" in social networks. *PLoS ONE, 11*(2), e0147617. [https://doi.org/10.1371/journal.pone.0147617](https://doi.org/10.1371/journal.pone.0147617)
 
 Leskovec, J., Huttenlocher, D., & Kleinberg, J. (2010). Signed networks in social media. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems* (pp. 1361–1370). ACM. [https://doi.org/10.1145/1753326.1753532](https://doi.org/10.1145/1753326.1753532)
 
+Leslie, H. A., van Velzen, M. J. M., Brandsma, S. H., Vethaak, A. D., Garcia-Vallejo, J. J., & Lamoree, M. H. (2022). Discovery and quantification of plastic particle pollution in human blood. *Environment International, 163*, Article 107199. [https://doi.org/10.1016/j.envint.2022.107199](https://doi.org/10.1016/j.envint.2022.107199)
+
 Levin, D. Z., Walter, J., & Murnighan, J. K. (2011). Dormant ties: The value of reconnecting. *Organization Science, 22*(4), 923–939. [https://doi.org/10.1287/orsc.1100.0576](https://doi.org/10.1287/orsc.1100.0576)
 
+Lewis, R. A., & Rao, J. M. (2015). The unfavorable economics of measuring the returns to advertising. *The Quarterly Journal of Economics, 130*(4), 1941–1973. [https://doi.org/10.1093/qje/qjv023](https://doi.org/10.1093/qje/qjv023)
+
+Lindström, B., Bellander, M., Schultner, D. T., Chang, A., Tobler, P. N., & Amodio, D. M. (2021). A computational reward learning account of social media engagement. *Nature Communications, 12*, Article 1311. [https://doi.org/10.1038/s41467-020-19607-x](https://doi.org/10.1038/s41467-020-19607-x)
+
 Liscum, E., Askinosie, S. K., Leuchtman, D. L., Morrow, J., Willenburg, K. T., & Coats, D. R. (2014). Phototropism: Growing towards an understanding of plant movement. *The Plant Cell, 26*(1), 38–55. [https://doi.org/10.1105/tpc.113.119727](https://doi.org/10.1105/tpc.113.119727)
+
+Liu, Y., & Tsyvinski, A. (2021). Risks and returns of cryptocurrency. *Review of Financial Studies, 34*(6), 2689–2727. [https://doi.org/10.1093/rfs/hhaa113](https://doi.org/10.1093/rfs/hhaa113)
+
+Livingstone, S., & Helsper, E. J. (2006). Does advertising literacy mediate the effects of advertising on children? A critical examination of two linked research literatures in relation to obesity and food choice. *Journal of Communication, 56*(3), 560–584. [https://doi.org/10.1111/j.1460-2466.2006.00301.x](https://doi.org/10.1111/j.1460-2466.2006.00301.x)
 
 Livneh, Y., Ramesh, R. N., Burgess, C. R., Levandowski, K. M., Madara, J. C., Fenselau, H., Goldey, G. J., Diaz, V. E., Jikomes, N., Resch, J. M., Lowell, B. B., & Andermann, M. L. (2017). Homeostatic circuits selectively gate food cue responses in insular cortex. *Nature, 546*(7660), 611–616. [https://doi.org/10.1038/nature22375](https://doi.org/10.1038/nature22375)
 
 Liyanage, T., Ninomiya, T., Jha, V., Neal, B., Patrice, H. M., Okpechi, I., Zhao, M.-H., Lv, J., Garg, A. X., Knight, J., Rodgers, A., Gallagher, M., Kotwal, S., Cass, A., & Perkovic, V. (2015). Worldwide access to treatment for end-stage kidney disease: A systematic review. *The Lancet, 385*(9981), 1975–1982. [https://doi.org/10.1016/s0140-6736(14)61601-9](https://doi.org/10.1016/s0140-6736(14)61601-9)
+
+Lloyd, J. E. (1975). Aggressive mimicry in Photuris fireflies: Signal repertoires by femmes fatales. *Science, 187*(4175), 452–453. [https://doi.org/10.1126/science.187.4175.452](https://doi.org/10.1126/science.187.4175.452)
 
 Logan, G. D., & Cowan, W. B. (1984). On the ability to inhibit thought and action: A theory of an act of control. *Psychological Review, 91*(3), 295–327. [https://doi.org/10.1037/0033-295x.91.3.295](https://doi.org/10.1037/0033-295x.91.3.295)
 
 Logan, G. D., Van Zandt, T., Verbruggen, F., & Wagenmakers, E.-J. (2014). On the ability to inhibit thought and action: General and special theories of an act of control. *Psychological Review, 121*(1), 66–95. [https://doi.org/10.1037/a0035230](https://doi.org/10.1037/a0035230)
 
 London, F. (1930). Zur Theorie und Systematik der Molekularkräfte. *Zeitschrift für Physik, 63*(3–4), 245–279. [https://doi.org/10.1007/bf01421741](https://doi.org/10.1007/bf01421741)
+
+Lu, L., Yuan, Y. C., & McLeod, P. L. (2012). Twenty-five years of hidden profiles in group decision making: A meta-analysis. *Personality and Social Psychology Review, 16*(1), 54–75. [https://doi.org/10.1177/1088868311417243](https://doi.org/10.1177/1088868311417243)
+
+Lubow, R. E., & Gewirtz, J. C. (1995). Latent inhibition in humans: Data, theory, and implications for schizophrenia. *Psychological Bulletin, 117*(1), 87–103. [https://doi.org/10.1037/0033-2909.117.1.87](https://doi.org/10.1037/0033-2909.117.1.87)
 
 Lymn, R. W., & Taylor, E. W. (1971). Mechanism of adenosine triphosphate hydrolysis by actomyosin. *Biochemistry, 10*(25), 4617–4624. [https://doi.org/10.1021/bi00801a004](https://doi.org/10.1021/bi00801a004)
 
@@ -3928,7 +4687,11 @@ Marcus, R. A. (1993). Electron transfer reactions in chemistry: Theory and exper
 
 Mardling, R. A., & Aarseth, S. J. (2001). Tidal interactions in star cluster simulations. *Monthly Notices of the Royal Astronomical Society, 321*(3), 398–420. [https://doi.org/10.1046/j.1365-8711.2001.03974.x](https://doi.org/10.1046/j.1365-8711.2001.03974.x)
 
+Marfella, R., Prattichizzo, F., Sardu, C., Fulgenzi, G., Graciotti, L., Spadoni, T., D’Onofrio, N., Scisciola, L., La Grotta, R., Frigé, C., Pellegrini, V., Municinò, M., Siniscalchi, M., Spinetti, F., Vigliotti, G., Vecchione, C., Carrizzo, A., Accarino, G., Squillante, A., . . . Paolisso, G. (2024). Microplastics and nanoplastics in atheromas and cardiovascular events. *New England Journal of Medicine, 390*(10), 900–910. [https://doi.org/10.1056/NEJMoa2309822](https://doi.org/10.1056/NEJMoa2309822)
+
 Masarik, A. S., Martin, M. J., Ferrer, E., Lorenz, F. O., Conger, K. J., & Conger, R. D. (2016). Couple resilience to economic pressure over time and across generations. *Journal of Marriage and Family, 78*(2), 326–345. [https://doi.org/10.1111/jomf.12284](https://doi.org/10.1111/jomf.12284)
+
+Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious processing and the global neuronal workspace hypothesis. *Neuron, 105*(5), 776–798. [https://doi.org/10.1016/j.neuron.2020.01.026](https://doi.org/10.1016/j.neuron.2020.01.026)
 
 May, R. M. (1972). Will a large complex system be stable? *Nature, 238*(5364), 413–414. [https://doi.org/10.1038/238413a0](https://doi.org/10.1038/238413a0)
 
@@ -3952,13 +4715,19 @@ Mesibov, R., & Adler, J. (1972). Chemotaxis toward amino acids in *Escherichia c
 
 Mesibov, R., Ordal, G. W., & Adler, J. (1973). The range of attractant concentrations for bacterial chemotaxis and the threshold and size of response over this range: Weber law and related phenomena. *Journal of General Physiology, 62*(2), 203–223. [https://doi.org/10.1085/jgp.62.2.203](https://doi.org/10.1085/jgp.62.2.203)
 
+Michel, C., Sovinsky, M., Proto, E., & Oswald, A. J. (2019). Advertising as a major source of human dissatisfaction: Cross-national evidence on one million Europeans. In M. Rojas (Ed.), *The economics of happiness: How the Easterlin paradox transformed our understanding of well-being and progress* (pp. 217–239). Springer. [https://doi.org/10.1007/978-3-030-15835-4_10](https://doi.org/10.1007/978-3-030-15835-4_10)
+
 Micoulaud-Franchi, J.-A., Vaillant, F., Lopez, R., Peri, P., Baillif, A., Brandejsky, L., Steffen, M. L., Boyer, L., Richieri, R., Cermolacce, M., Bioulac, S., Aramaki, M., Philip, P., Lancon, C., & Vion-Dury, J. (2015). Sensory gating in adult with attention-deficit/hyperactivity disorder: Event-evoked potential and perceptual experience reports comparisons with schizophrenia. *Biological Psychology, 107*, 16–23. [https://doi.org/10.1016/j.biopsycho.2015.03.002](https://doi.org/10.1016/j.biopsycho.2015.03.002)
 
 Miller, D. T., & Gunasegaram, S. (1990). Temporal order and the perceived mutability of events: Implications for blame assignment. *Journal of Personality and Social Psychology, 59*(6), 1111–1118. [https://doi.org/10.1037/0022-3514.59.6.1111](https://doi.org/10.1037/0022-3514.59.6.1111)
 
 Miller, J. R., Calcaterra, L. T., & Closs, G. L. (1984). Intramolecular long-distance electron transfer in radical anions. The effects of free energy and solvent on the reaction rates. *Journal of the American Chemical Society, 106*(10), 3047–3049. [https://doi.org/10.1021/ja00322a058](https://doi.org/10.1021/ja00322a058)
 
+Miller, M. B., & Bassler, B. L. (2001). Quorum sensing in bacteria. *Annual Review of Microbiology, 55*, 165–199. [https://doi.org/10.1146/annurev.micro.55.1.165](https://doi.org/10.1146/annurev.micro.55.1.165)
+
 Millikan, R. A. (1916). A direct photoelectric determination of Planck’s “h”. *Physical Review, 7*(3), 355–388. [https://doi.org/10.1103/PhysRev.7.355](https://doi.org/10.1103/PhysRev.7.355)
+
+Milyo, J., & Waldfogel, J. (1999). The effect of price advertising on prices: Evidence in the wake of 44 Liquormart. *American Economic Review, 89*(5), 1081–1096. [https://doi.org/10.1257/aer.89.5.1081](https://doi.org/10.1257/aer.89.5.1081)
 
 Minev, Z. K., Mundhada, S. O., Shankar, S., Reinhold, P., Gutiérrez-Jáuregui, R., Schoelkopf, R. J., Mirrahimi, M., Carmichael, H. J., & Devoret, M. H. (2019). To catch and reverse a quantum jump mid-flight. *Nature, 570*(7760), 200–204. [https://doi.org/10.1038/s41586-019-1287-z](https://doi.org/10.1038/s41586-019-1287-z)
 
@@ -3968,7 +4737,11 @@ Mitchell, A., Romano, G. H., Groisman, B., Yona, A., Dekel, E., Kupiec, M., Daha
 
 Mitchison, N. A. (1964). Induction of immunological paralysis in two zones of dosage. *Proceedings of the Royal Society of London. Series B. Biological Sciences, 161*(983), 275–292. [https://doi.org/10.1098/rspb.1964.0093](https://doi.org/10.1098/rspb.1964.0093)
 
+Mobbs, D., Petrovic, P., Marchant, J. L., Hassabis, D., Weiskopf, N., Seymour, B., Dolan, R. J., & Frith, C. D. (2007). When fear is near: Threat imminence elicits prefrontal-periaqueductal gray shifts in humans. *Science, 317*(5841), 1079–1083. [https://doi.org/10.1126/science.1144298](https://doi.org/10.1126/science.1144298)
+
 Monier-Williams, M. (1899). *A Sanskrit-English dictionary*. Clarendon Press.
+
+Monikh, F. A., Materić, D., Valsami-Jones, E., Grossart, H.-P., Altmann, K., Holzinger, R., Lynch, I., Stubenrauch, J., & Peijnenburg, W. (2025). Challenges in studying microplastics in human brain. *Nature Medicine, 31*(12), 4034–4035. [https://doi.org/10.1038/s41591-025-04045-3](https://doi.org/10.1038/s41591-025-04045-3)
 
 Montoya, R. M., Horton, R. S., Vevea, J. L., Citkowicz, M., & Lauber, E. A. (2017). A re-examination of the mere exposure effect: The influence of repeated exposure on recognition, familiarity, and liking. *Psychological Bulletin, 143*(5), 459–498. [https://doi.org/10.1037/bul0000085](https://doi.org/10.1037/bul0000085)
 
@@ -3988,6 +4761,8 @@ Mullins, L. (1948). Effect of stretching on the properties of rubber. *Rubber Ch
 
 Mullins, L. (1969). Softening of rubber by deformation. *Rubber Chemistry and Technology, 42*(1), 339–362. [https://doi.org/10.5254/1.3539210](https://doi.org/10.5254/1.3539210)
 
+Muñiz, A. M., Jr., & O’Guinn, T. C. (2001). Brand community. *Journal of Consumer Research, 27*(4), 412–432. [https://doi.org/10.1086/319618](https://doi.org/10.1086/319618)
+
 Murray, S. L., Holmes, J. G., & Griffin, D. W. (1996). The self-fulfilling nature of positive illusions in romantic relationships: Love is not blind, but prescient. *Journal of Personality and Social Psychology, 71*(6), 1155–1180. [https://doi.org/10.1037/0022-3514.71.6.1155](https://doi.org/10.1037/0022-3514.71.6.1155)
 
 Musielak, Z. E., & Quarles, B. (2014). The three-body problem. *Reports on Progress in Physics, 77*(6), Article 065901. [https://doi.org/10.1088/0034-4885/77/6/065901](https://doi.org/10.1088/0034-4885/77/6/065901)
@@ -4004,11 +4779,15 @@ Navas, S., Amsler, C., Gutsche, T., Hanhart, C., Hernández-Rey, J. J., Lourenç
 
 Néel, L. (1949). Théorie du traînage magnétique des ferromagnétiques en grains fins avec application aux terres cuites. *Annales de Géophysique, 5*, 99–136.
 
+Nelsen, M. P., DiMichele, W. A., Peters, S. E., & Boyce, C. K. (2016). Delayed fungal evolution did not cause the Paleozoic peak in coal production. *Proceedings of the National Academy of Sciences, 113*(9), 2442–2447. [https://doi.org/10.1073/pnas.1517943113](https://doi.org/10.1073/pnas.1517943113)
+
 Nesse, R. M. (2019). The smoke detector principle: Signal detection and optimal defense regulation. *Evolution, Medicine, and Public Health, 2019*(1), 1. [https://doi.org/10.1093/emph/eoy034](https://doi.org/10.1093/emph/eoy034)
 
 Newton, I. (1687). *Philosophiae naturalis principia mathematica*. Joseph Streater. English: *The mathematical principles of natural philosophy* (A. Motte, Trans.; 1846 American edition). Daniel Adee. Book I, Proposition 71. [https://archive.org/details/newtonspmathema00newtrich](https://archive.org/details/newtonspmathema00newtrich)
 
 Ng-Mak, D. S., Salzinger, S., Feldman, R. S., & Stueve, C. A. (2004). Pathologic adaptation to community violence among inner-city youth. *American Journal of Orthopsychiatry, 74*(2), 196–208. [https://doi.org/10.1037/0002-9432.74.2.196](https://doi.org/10.1037/0002-9432.74.2.196)
+
+Nihart, A. J., Garcia, M. A., El Hayek, E., Liu, R., Olewine, M., Kingston, J. D., Castillo, E. F., Gullapalli, R. R., Howard, T., Bleske, B., Scott, J., Gonzalez-Estrella, J., Gross, J. M., Spilde, M., Adolphi, N. L., Gallego, D. F., Jarrell, H. S., Dvorscak, G., Zuluaga-Ruiz, M. E., . . . Campen, M. J. (2025). Bioaccumulation of microplastics in decedent human brains. *Nature Medicine, 31*(4), 1114–1119. [https://doi.org/10.1038/s41591-024-03453-1](https://doi.org/10.1038/s41591-024-03453-1)
 
 Nissen, P., Hansen, J., Ban, N., Moore, P. B., & Steitz, T. A. (2000). The structural basis of ribosome activity in peptide bond synthesis. *Science, 289*(5481), 920–930. [https://doi.org/10.1126/science.289.5481.920](https://doi.org/10.1126/science.289.5481.920)
 
@@ -4022,13 +4801,21 @@ Oberauer, K., & Lewandowsky, S. (2008). Forgetting in immediate serial recall: D
 
 O’Connor, M.-F., Wellisch, D. K., Stanton, A. L., Eisenberger, N. I., Irwin, M. R., & Lieberman, M. D. (2008). Craving love? Enduring grief activates brain’s reward center. *NeuroImage, 42*(2), 969–972. [https://doi.org/10.1016/j.neuroimage.2008.04.256](https://doi.org/10.1016/j.neuroimage.2008.04.256)
 
+Öhman, A., Flykt, A., & Esteves, F. (2001). Emotion drives attention: Detecting the snake in the grass. *Journal of Experimental Psychology: General, 130*(3), 466–478. [https://doi.org/10.1037/0096-3445.130.3.466](https://doi.org/10.1037/0096-3445.130.3.466)
+
 Ollerton, J., Winfree, R., & Tarrant, S. (2011). How many flowering plants are pollinated by animals? *Oikos, 120*(3), 321–326. [https://doi.org/10.1111/j.1600-0706.2010.18644.x](https://doi.org/10.1111/j.1600-0706.2010.18644.x)
+
+Opree, S. J., Buijzen, M., van Reijmersdal, E. A., & Valkenburg, P. M. (2014). Children’s advertising exposure, advertised product desire, and materialism. *Communication Research, 41*(5), 717–735. [https://doi.org/10.1177/0093650213479129](https://doi.org/10.1177/0093650213479129)
+
+Orben, A., & Przybylski, A. K. (2019). The association between adolescent well-being and digital technology use. *Nature Human Behaviour, 3*(2), 173–182. [https://doi.org/10.1038/s41562-018-0506-1](https://doi.org/10.1038/s41562-018-0506-1)
 
 Oró, J. (1960). Synthesis of adenine from ammonium cyanide. *Biochemical and Biophysical Research Communications, 2*(6), 407–412. [https://doi.org/10.1016/0006-291x(60)90138-8](https://doi.org/10.1016/0006-291x(60)90138-8)
 
 Paczyński, B. (1971). Evolutionary processes in close binary systems. *Annual Review of Astronomy and Astrophysics, 9*, 183–208. [https://doi.org/10.1146/annurev.aa.09.090171.001151](https://doi.org/10.1146/annurev.aa.09.090171.001151)
 
 Palmer, J., Huk, A. C., & Shadlen, M. N. (2005). The effect of stimulus strength on the speed and accuracy of a perceptual decision. *Journal of Vision, 5*(5), 376–404. [https://doi.org/10.1167/5.5.1](https://doi.org/10.1167/5.5.1)
+
+Paré, P. W., Alborn, H. T., & Tumlinson, J. H. (1998). Concerted biosynthesis of an insect elicitor of plant volatiles. *Proceedings of the National Academy of Sciences, 95*(23), 13971–13975. [https://doi.org/10.1073/pnas.95.23.13971](https://doi.org/10.1073/pnas.95.23.13971)
 
 Park, H. S., Levine, T. R., McCornack, S. A., Morrison, K., & Ferrara, M. (2002). How people really detect lies. *Communication Monographs, 69*(2), 144–157. [https://doi.org/10.1080/714041710](https://doi.org/10.1080/714041710)
 
@@ -4054,6 +4841,10 @@ Perlmutter, S., Aldering, G., Goldhaber, G., Knop, R. A., Nugent, P., Castro, P.
 
 Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology, 90*(5), 751–783. [https://doi.org/10.1037/0022-3514.90.5.751](https://doi.org/10.1037/0022-3514.90.5.751)
 
+Piantadosi, S. T., Tily, H., & Gibson, E. (2011). Word lengths are optimized for efficient communication. *Proceedings of the National Academy of Sciences, 108*(9), 3526–3529. [https://doi.org/10.1073/pnas.1012551108](https://doi.org/10.1073/pnas.1012551108)
+
+Pieters, R. (2013). Bidirectional dynamics of materialism and loneliness: Not just a vicious cycle. *Journal of Consumer Research, 40*(4), 615–631. [https://doi.org/10.1086/671564](https://doi.org/10.1086/671564)
+
 Planck Collaboration. (2020). *Planck* 2018 results: VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, Article A6. [https://doi.org/10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
 
 Plutarch. (1917). Pompey. In *Plutarch's lives* (B. Perrin, Trans., Vol. 5). Harvard University Press. [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html)
@@ -4068,9 +4859,13 @@ Price, D. J. de S. (1976). A general theory of bibliometric and other cumulative
 
 Purcell, E. M., & Pound, R. V. (1951). A nuclear spin system at negative temperature. *Physical Review, 81*(2), 279–280. [https://doi.org/10.1103/physrev.81.279](https://doi.org/10.1103/physrev.81.279)
 
+Raad van State. (2022, March 9). *Uitspraak 202005769/1/A3* (ECLI:NL:RVS:2022:690). [https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:690](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2022:690)
+
 Rabinowicz, E. (1951). The nature of the static and kinetic coefficients of friction. *Journal of Applied Physics, 22*(11), 1373–1379. [https://doi.org/10.1063/1.1699869](https://doi.org/10.1063/1.1699869)
 
 Rack, P. M. H., & Westbury, D. R. (1974). The short range stiffness of active mammalian muscle and its effect on mechanical properties. *The Journal of Physiology, 240*(2), 331–350. [https://doi.org/10.1113/jphysiol.1974.sp010613](https://doi.org/10.1113/jphysiol.1974.sp010613)
+
+Ragusa, A., Svelato, A., Santacroce, C., Catalano, P., Notarstefano, V., Carnevali, O., Papa, F., Rongioletti, M. C. A., Baiocco, F., Draghi, S., D’Amore, E., Rinaldo, D., Matta, M., & Giorgini, E. (2021). Plasticenta: First evidence of microplastics in human placenta. *Environment International, 146*, Article 106274. [https://doi.org/10.1016/j.envint.2020.106274](https://doi.org/10.1016/j.envint.2020.106274)
 
 Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain's energy budget. *Proceedings of the National Academy of Sciences, 99*(16), 10237–10239. [https://doi.org/10.1073/pnas.172399499](https://doi.org/10.1073/pnas.172399499)
 
@@ -4080,11 +4875,15 @@ Rankin, C. H., Abrams, T., Barry, R. J., Bhatnagar, S., Clayton, D. F., Colombo,
 
 Rath, S., Sharma, R., Gupta, R., Ast, T., Chan, C., Durham, T. J., Goodman, R. P., Grabarek, Z., Haas, M. E., Hung, W. H. W., Joshi, P. R., Jourdain, A. A., Kim, S. H., Kotrys, A. V., Lam, S. S., McCoy, J. G., Meisel, J. D., Miranda, M., Panda, A., . . . Mootha, V. K. (2021). MitoCarta3.0: An updated mitochondrial proteome now with sub-organelle localization and pathway annotations. *Nucleic Acids Research, 49*(D1), D1541–D1547. [https://doi.org/10.1093/nar/gkaa1011](https://doi.org/10.1093/nar/gkaa1011)
 
+Rauert, C., Charlton, N., Bagley, A., Dunlop, S. A., Symeonides, C., & Thomas, K. V. (2025). Assessing the efficacy of pyrolysis–gas chromatography–mass spectrometry for nanoplastic and microplastic analysis in human blood. *Environmental Science & Technology, 59*(4), 1984–1994. [https://doi.org/10.1021/acs.est.4c12599](https://doi.org/10.1021/acs.est.4c12599)
+
 Rees, W. D. (1971). The hallucinations of widowhood. *BMJ, 4*(5778), 37–41. [https://doi.org/10.1136/bmj.4.5778.37](https://doi.org/10.1136/bmj.4.5778.37)
 
 Reisenegger, A. (2009). Neutron stars and their magnetic fields. *Revista Mexicana de Astronomía y Astrofísica Serie de Conferencias, 35*, 139–145. [https://astronomia.unam.mx/journals/rmxac/article/view/2009rmxac..35..139r](https://astronomia.unam.mx/journals/rmxac/article/view/2009rmxac..35..139r)
 
 Repetti, R. L. (1989). Effects of daily workload on subsequent behavior during marital interaction: The roles of social withdrawal and spouse support. *Journal of Personality and Social Psychology, 57*(4), 651–659. [https://doi.org/10.1037/0022-3514.57.4.651](https://doi.org/10.1037/0022-3514.57.4.651)
+
+Rescorla, R. A. (1988). Pavlovian conditioning: It’s not what you think it is. *American Psychologist, 43*(3), 151–160. [https://doi.org/10.1037/0003-066X.43.3.151](https://doi.org/10.1037/0003-066X.43.3.151)
 
 Resulaj, A., Kiani, R., Wolpert, D. M., & Shadlen, M. N. (2009). Changes of mind in decision-making. *Nature, 461*(7261), 263–266. [https://doi.org/10.1038/nature08275](https://doi.org/10.1038/nature08275)
 
@@ -4094,15 +4893,23 @@ Riess, A. G., Filippenko, A. V., Challis, P., Clocchiatti, A., Diercks, A., Garn
 
 Roberts, S. G. B., & Dunbar, R. I. M. (2015). Managing relationship decay: Network, gender, and contextual effects. *Human Nature, 26*(4), 426–450. [https://doi.org/10.1007/s12110-015-9242-7](https://doi.org/10.1007/s12110-015-9242-7)
 
+Robins, L. N. (1993). Vietnam veterans’ rapid recovery from heroin addiction: A fluke or normal expectation? *Addiction, 88*(8), 1041–1054. [https://doi.org/10.1111/j.1360-0443.1993.tb02123.x](https://doi.org/10.1111/j.1360-0443.1993.tb02123.x)
+
 Rolls, B. J., Rolls, E. T., Rowe, E. A., & Sweeney, K. (1981). Sensory specific satiety in man. *Physiology & Behavior, 27*(1), 137–142. [https://doi.org/10.1016/0031-9384(81)90310-3](https://doi.org/10.1016/0031-9384(81)90310-3)
 
 Ross, L., Lepper, M. R., & Hubbard, M. (1975). Perseverance in self-perception and social perception: Biased attributional processes in the debriefing paradigm. *Journal of Personality and Social Psychology, 32*(5), 880–892. [https://doi.org/10.1037/0022-3514.32.5.880](https://doi.org/10.1037/0022-3514.32.5.880)
 
+Ross, M. L. (2015). What have we learned about the resource curse? *Annual Review of Political Science, 18*, 239–259. [https://doi.org/10.1146/annurev-polisci-052213-040359](https://doi.org/10.1146/annurev-polisci-052213-040359)
+
 Roy, B. A. (1993). Floral mimicry by a plant pathogen. *Nature, 362*(6415), 56–58. [https://doi.org/10.1038/362056a0](https://doi.org/10.1038/362056a0)
+
+Rozendaal, E., Lapierre, M. A., van Reijmersdal, E. A., & Buijzen, M. (2011). Reconsidering advertising literacy as a defense against advertising effects. *Media Psychology, 14*(4), 333–354. [https://doi.org/10.1080/15213269.2011.620540](https://doi.org/10.1080/15213269.2011.620540)
 
 Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and contagion. *Personality and Social Psychology Review, 5*(4), 296–320. [https://doi.org/10.1207/S15327957PSPR0504_2](https://doi.org/10.1207/S15327957PSPR0504_2)
 
 Russell, J. A. (2003). Core affect and the psychological construction of emotion. *Psychological Review, 110*(1), 145–172. [https://doi.org/10.1037/0033-295X.110.1.145](https://doi.org/10.1037/0033-295X.110.1.145)
+
+Saffer, H., & Chaloupka, F. (2000). The effect of tobacco advertising bans on tobacco consumption. *Journal of Health Economics, 19*(6), 1117–1137. [https://doi.org/10.1016/S0167-6296(00)00054-0](https://doi.org/10.1016/S0167-6296(00)00054-0)
 
 Sagarin, B. J., Rhoads, K. v. L., & Cialdini, R. B. (1998). Deceiver's distrust: Denigration as a consequence of undiscovered deception. *Personality and Social Psychology Bulletin, 24*(11), 1167–1176. [https://doi.org/10.1177/01461672982411004](https://doi.org/10.1177/01461672982411004)
 
@@ -4111,6 +4918,10 @@ Saha, M. N. (1920). Ionization in the solar chromosphere. *The London, Edinburgh
 Sakarya, O., Armstrong, K. A., Adamska, M., Adamski, M., Wang, I.-F., Tidor, B., Degnan, B. M., Oakley, T. H., & Kosik, K. S. (2007). A post-synaptic scaffold at the origin of the animal kingdom. *PLoS ONE, 2*(6), e506. [https://doi.org/10.1371/journal.pone.0000506](https://doi.org/10.1371/journal.pone.0000506)
 
 Saladino, R., Crestini, C., Pino, S., Costanzo, G., & Di Mauro, E. (2012). Formamide and the origin of life. *Physics of Life Reviews, 9*(1), 84–104. [https://doi.org/10.1016/j.plrev.2011.12.002](https://doi.org/10.1016/j.plrev.2011.12.002)
+
+Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. *Science, 311*(5762), 854–856. [https://doi.org/10.1126/science.1121066](https://doi.org/10.1126/science.1121066)
+
+Savoca, M. S., Wohlfeil, M. E., Ebeler, S. E., & Nevitt, G. A. (2016). Marine plastic debris emits a keystone infochemical for olfactory foraging seabirds. *Science Advances, 2*(11), Article e1600395. [https://doi.org/10.1126/sciadv.1600395](https://doi.org/10.1126/sciadv.1600395)
 
 Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. [https://doi.org/10.1098/rstb.2007.2087](https://doi.org/10.1098/rstb.2007.2087)
 
@@ -4126,13 +4937,21 @@ Schröder, E. (1870). Vier combinatorische Probleme. *Zeitschrift für Mathemati
 
 Schwinger, J. (1951). On gauge invariance and vacuum polarization. *Physical Review, 82*(5), 664–679. [https://doi.org/10.1103/physrev.82.664](https://doi.org/10.1103/physrev.82.664)
 
+Seeley, T. D., Visscher, P. K., Schlegel, T., Hogan, P. M., Franks, N. R., & Marshall, J. A. R. (2012). Stop signals provide cross inhibition in collective decision-making by honeybee swarms. *Science, 335*(6064), 108–111. [https://doi.org/10.1126/science.1210361](https://doi.org/10.1126/science.1210361)
+
 Segall, J. E., Block, S. M., & Berg, H. C. (1986). Temporal comparisons in bacterial chemotaxis. *Proceedings of the National Academy of Sciences, 83*(23), 8987–8991. [https://doi.org/10.1073/pnas.83.23.8987](https://doi.org/10.1073/pnas.83.23.8987)
 
 Sender, R., Fuchs, S., & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. *PLOS Biology, 14*(8), e1002533. [https://doi.org/10.1371/journal.pbio.1002533](https://doi.org/10.1371/journal.pbio.1002533)
 
 Shao, L.-X., Liao, C., Gregg, I., Davoudian, P. A., Savalia, N. K., Delagarza, K., & Kwan, A. C. (2021). Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo. *Neuron, 109*(16), 2535–2544.e4. [https://doi.org/10.1016/j.neuron.2021.06.008](https://doi.org/10.1016/j.neuron.2021.06.008)
 
+Shapiro, B. T., Hitsch, G. J., & Tuchman, A. E. (2021). TV advertising effectiveness and profitability: Generalizable results from 288 brands. *Econometrica, 89*(4), 1855–1879. [https://doi.org/10.3982/ECTA17674](https://doi.org/10.3982/ECTA17674)
+
 Shapiro, I. I. (1964). Fourth test of general relativity. *Physical Review Letters, 13*(26), 789–791. [https://doi.org/10.1103/physrevlett.13.789](https://doi.org/10.1103/physrevlett.13.789)
+
+Sharma, S. K., Klee, W. A., & Nirenberg, M. (1975). Dual regulation of adenylate cyclase accounts for narcotic dependence and tolerance. *Proceedings of the National Academy of Sciences of the United States of America, 72*(8), 3092–3096. [https://doi.org/10.1073/pnas.72.8.3092](https://doi.org/10.1073/pnas.72.8.3092)
+
+Shohat-Ophir, G., Kaun, K. R., Azanchi, R., Mohammed, H., & Heberlein, U. (2012). Sexual deprivation increases ethanol intake in *Drosophila*. *Science, 335*(6074), 1351–1355. [https://doi.org/10.1126/science.1215932](https://doi.org/10.1126/science.1215932)
 
 Shuai, Y., Lu, B., Hu, Y., Wang, L., Sun, K., & Zhong, Y. (2010). Forgetting is regulated through Rac activity in Drosophila. *Cell, 140*(4), 579–589. [https://doi.org/10.1016/j.cell.2009.12.044](https://doi.org/10.1016/j.cell.2009.12.044)
 
@@ -4152,9 +4971,13 @@ Slamecka, N. J., & McElree, B. (1983). Normal forgetting of verbal lists as a fu
 
 Slotter, E. B., Gardner, W. L., & Finkel, E. J. (2010). Who am I without you? The influence of romantic breakup on the self-concept. *Personality and Social Psychology Bulletin, 36*(2), 147–160. [https://doi.org/10.1177/0146167209352250](https://doi.org/10.1177/0146167209352250)
 
+Smith, V. L., Suchanek, G. L., & Williams, A. W. (1988). Bubbles, crashes, and endogenous expectations in experimental spot asset markets. *Econometrica, 56*(5), 1119–1151. [https://doi.org/10.2307/1911361](https://doi.org/10.2307/1911361)
+
 Smoot, G. F., Bennett, C. L., Kogut, A., Wright, E. L., Aymon, J., Boggess, N. W., Cheng, E. S., de Amici, G., Gulkis, S., Hauser, M. G., Hinshaw, G., Jackson, P. D., Janssen, M., Kaita, E., Kelsall, T., Keegstra, P., Lineweaver, C., Loewenstein, K., Lubin, P., . . . Wilkinson, D. T. (1992). Structure in the COBE differential microwave radiometer first-year maps. *The Astrophysical Journal, 396*, L1–L5. [https://doi.org/10.1086/186504](https://doi.org/10.1086/186504)
 
 Snoussi, E. H., & Thomas, R. (1993). Logical identification of all steady states: The concept of feedback loop characteristic states. *Bulletin of Mathematical Biology, 55*(5), 973–991. [https://doi.org/10.1007/bf02460695](https://doi.org/10.1007/bf02460695)
+
+Spicer, S. G., Nicklin, L. L., Uther, M., Lloyd, J., Lloyd, H., & Close, J. (2022). Loot boxes, problem gambling and problem video gaming: A systematic review and meta-synthesis. *New Media & Society, 24*(4), 1001–1022. [https://doi.org/10.1177/14614448211027175](https://doi.org/10.1177/14614448211027175)
 
 Spitzer, L., Jr. (1940). The stability of isolated clusters. *Monthly Notices of the Royal Astronomical Society, 100*(5), 396–413. [https://doi.org/10.1093/mnras/100.5.396](https://doi.org/10.1093/mnras/100.5.396)
 
@@ -4169,6 +4992,12 @@ Srinivasan, M. V., Laughlin, S. B., & Dubs, A. (1982). Predictive coding: A fres
 Srivastava, S., Tamir, M., McGonigal, K. M., John, O. P., & Gross, J. J. (2009). The social costs of emotional suppression: A prospective study of the transition to college. *Journal of Personality and Social Psychology, 96*(4), 883–897. [https://doi.org/10.1037/a0014755](https://doi.org/10.1037/a0014755)
 
 Staddon, J. E. R., & Higa, J. J. (1996). Multiple time scales in simple habituation. *Psychological Review, 103*(4), 720–733. [https://doi.org/10.1037/0033-295x.103.4.720](https://doi.org/10.1037/0033-295x.103.4.720)
+
+Stark, E. (2023). *Coercive control: How men entrap women in personal life*. Oxford University Press. [https://doi.org/10.1093/oso/9780197639986.001.0001](https://doi.org/10.1093/oso/9780197639986.001.0001)
+
+Stark, R., & Bainbridge, W. S. (1980). Networks of faith: Interpersonal bonds and recruitment to cults and sects. *American Journal of Sociology, 85*(6), 1376–1395. [https://doi.org/10.1086/227169](https://doi.org/10.1086/227169)
+
+Stebbins, C. E., & Galán, J. E. (2001). Structural mimicry in bacterial virulence. *Nature, 412*(6848), 701–705. [https://doi.org/10.1038/35089000](https://doi.org/10.1038/35089000)
 
 Stephenson, F. R., Morrison, L. V., & Hohenkerk, C. Y. (2016). Measurement of the Earth's rotation: 720 BC to AD 2015. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 472*(2196), Article 20160404. [https://doi.org/10.1098/rspa.2016.0404](https://doi.org/10.1098/rspa.2016.0404)
 
@@ -4188,6 +5017,8 @@ Summerfield, C., Trittschuh, E. H., Monti, J. M., Mesulam, M.-M., & Egner, T. (2
 
 Tang, S., & Liu, J. M. (2003). Experimental verification of anticipated and retarded synchronization in chaotic semiconductor lasers. *Physical Review Letters, 90*(19), Article 194101. [https://doi.org/10.1103/PhysRevLett.90.194101](https://doi.org/10.1103/PhysRevLett.90.194101)
 
+Tannenbaum, M. B., Hepler, J., Zimmerman, R. S., Saul, L., Jacobs, S., Wilson, K., & Albarracín, D. (2015). Appealing to fear: A meta-analysis of fear appeal effectiveness and theories. *Psychological Bulletin, 141*(6), 1178–1204. [https://doi.org/10.1037/a0039729](https://doi.org/10.1037/a0039729)
+
 Taylor, S. E. (1991). Asymmetrical effects of positive and negative events: The mobilization-minimization hypothesis. *Psychological Bulletin, 110*(1), 67–85. [https://doi.org/10.1037/0033-2909.110.1.67](https://doi.org/10.1037/0033-2909.110.1.67)
 
 Thirion, C., Wernsdorfer, W., Jamet, M., Dupuis, V., Mélinon, P., Pérez, A., & Mailly, D. (2002). Micro-SQUID technique for studying the temperature dependence of switching fields of single nanoparticles. *Journal of Magnetism and Magnetic Materials, 242–245*, 993–995. [https://doi.org/10.1016/S0304-8853(01)01130-1](https://doi.org/10.1016/S0304-8853(01)01130-1)
@@ -4206,11 +5037,21 @@ Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity: From synapt
 
 Toyota, M., Spencer, D., Sawai-Toyota, S., Jiaqi, W., Zhang, T., Koo, A. J., Howe, G. A., & Gilroy, S. (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. *Science, 361*(6407), 1112–1115. [https://doi.org/10.1126/science.aat7744](https://doi.org/10.1126/science.aat7744)
 
+Treseder, K. K. (2004). A meta-analysis of mycorrhizal responses to nitrogen, phosphorus, and atmospheric CO2 in field studies. *New Phytologist, 164*(2), 347–355. [https://doi.org/10.1111/j.1469-8137.2004.01159.x](https://doi.org/10.1111/j.1469-8137.2004.01159.x)
+
+Trimbos-instituut. (2024). *Factsheet cannabis en studie* (updated version). [https://www.trimbos.nl/wp-content/uploads/2025/10/TRIAF1804-Factsheet-Cannabis-en-studie_versie2024.pdf](https://www.trimbos.nl/wp-content/uploads/2025/10/TRIAF1804-Factsheet-Cannabis-en-studie_versie2024.pdf)
+
+Trusov, M., Bucklin, R. E., & Pauwels, K. (2009). Effects of word-of-mouth versus traditional marketing: Findings from an internet social networking site. *Journal of Marketing, 73*(5), 90–102. [https://doi.org/10.1509/jmkg.73.5.90](https://doi.org/10.1509/jmkg.73.5.90)
+
 Tse, D., Langston, R. F., Kakeyama, M., Bethus, I., Spooner, P. A., Wood, E. R., Witter, M. P., & Morris, R. G. M. (2007). Schemas and memory consolidation. *Science, 316*(5821), 76–82. [https://doi.org/10.1126/science.1135935](https://doi.org/10.1126/science.1135935)
 
 Tucker, J. B. (2008). Children's reports of past-life memories: A review. *Explore, 4*(4), 244–248. [https://doi.org/10.1016/j.explore.2008.04.001](https://doi.org/10.1016/j.explore.2008.04.001)
 
+Turlings, T. C. J., Tumlinson, J. H., & Lewis, W. J. (1990). Exploitation of herbivore-induced plant odors by host-seeking parasitic wasps. *Science, 250*(4985), 1251–1253. [https://doi.org/10.1126/science.250.4985.1251](https://doi.org/10.1126/science.250.4985.1251)
+
 Turyshev, S. G., Toth, V. T., Kinsella, G., Lee, S.-C., Lok, S. M., & Ellis, J. (2012). Support for the thermal origin of the Pioneer anomaly. *Physical Review Letters, 108*(24), Article 241101. [https://doi.org/10.1103/physrevlett.108.241101](https://doi.org/10.1103/physrevlett.108.241101)
+
+Tuttle, M. D., & Ryan, M. J. (1981). Bat predation and the evolution of frog vocalizations in the Neotropics. *Science, 214*(4521), 677–678. [https://doi.org/10.1126/science.214.4521.677](https://doi.org/10.1126/science.214.4521.677)
 
 Twenge, J. M., Catanese, K. R., & Baumeister, R. F. (2003). Social exclusion and the deconstructed state: Time perception, meaninglessness, lethargy, lack of emotion, and self-awareness. *Journal of Personality and Social Psychology, 85*(3), 409–423. [https://doi.org/10.1037/0022-3514.85.3.409](https://doi.org/10.1037/0022-3514.85.3.409)
 
@@ -4222,13 +5063,19 @@ van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death exp
 
 Van Waerbeke, L., Mellier, Y., Erben, T., Cuillandre, J. C., Bernardeau, F., Maoli, R., Bertin, E., McCracken, H. J., Le Fèvre, O., Fort, B., Dantel-Fort, M., Jain, B., & Schneider, P. (2000). Detection of correlated galaxy ellipticities from CFHT data: First evidence for gravitational lensing by large-scale structures. *Astronomy and Astrophysics, 358*, 30–44. [https://arxiv.org/abs/astro-ph/0002500](https://arxiv.org/abs/astro-ph/0002500)
 
+Vandenbroucke, M. (2003). Kerogen: From types to models of chemical structure. *Oil & Gas Science and Technology, 58*(2), 243–269. [https://doi.org/10.2516/ogst:2003016](https://doi.org/10.2516/ogst:2003016)
+
 Vasquez, J. A. (1995). Why do neighbors fight? Proximity, interaction, or territoriality. *Journal of Peace Research, 32*(3), 277–293. [https://doi.org/10.1177/0022343395032003003](https://doi.org/10.1177/0022343395032003003)
+
+Venniro, M., Zhang, M., Caprioli, D., Hoots, J. K., Golden, S. A., Heins, C., Morales, M., Epstein, D. H., & Shaham, Y. (2018). Volitional social interaction prevents drug addiction in rat models. *Nature Neuroscience, 21*(11), 1520–1529. [https://doi.org/10.1038/s41593-018-0246-6](https://doi.org/10.1038/s41593-018-0246-6)
 
 Vessot, R. F. C., Levine, M. W., Mattison, E. M., Blomberg, E. L., Hoffman, T. E., Nystrom, G. U., Farrel, B. F., Decher, R., Eby, P. B., Baugher, C. R., Watts, J. W., Teuber, D. L., & Wills, F. D. (1980). Test of relativistic gravitation with a space-borne hydrogen maser. *Physical Review Letters, 45*(26), 2081–2084. [https://doi.org/10.1103/physrevlett.45.2081](https://doi.org/10.1103/physrevlett.45.2081)
 
 *The Vishńu Puráńa: A system of Hindu mythology and tradition* (H. H. Wilson, Trans.). (1840). John Murray. [https://archive.sacred-texts.com/hin/vp/vp159.htm](https://archive.sacred-texts.com/hin/vp/vp159.htm)
 
 Visscher, P. M., Hill, W. G., & Wray, N. R. (2008). Heritability in the genomics era — concepts and misconceptions. *Nature Reviews Genetics, 9*(4), 255–266. [https://doi.org/10.1038/nrg2322](https://doi.org/10.1038/nrg2322)
+
+Volkow, N. D., Wang, G.-J., Fowler, J. S., Logan, J., Gatley, S. J., Hitzemann, R., Chen, A. D., Dewey, S. L., & Pappas, N. (1997). Decreased striatal dopaminergic responsiveness in detoxified cocaine-dependent subjects. *Nature, 386*(6627), 830–833. [https://doi.org/10.1038/386830a0](https://doi.org/10.1038/386830a0)
 
 Vollenweider, F. X., Vollenweider-Scherpenhuyzen, M. F. I., Bäbler, A., Vogel, H., & Hell, D. (1998). Psilocybin induces schizophrenia-like psychosis in humans via a serotonin-2 agonist action. *NeuroReport, 9*(17), 3897–3902. [https://doi.org/10.1097/00001756-199812010-00024](https://doi.org/10.1097/00001756-199812010-00024)
 
@@ -4254,11 +5101,17 @@ Weiss, M. C., Sousa, F. L., Mrnjavac, N., Neukirchen, S., Roettger, M., Nelson-S
 
 Weisskopf, V. (1937). Statistics and nuclear reactions. *Physical Review, 52*(4), 295–303. [https://doi.org/10.1103/physrev.52.295](https://doi.org/10.1103/physrev.52.295)
 
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. *Child Development, 72*(3), 655–684. [https://doi.org/10.1111/1467-8624.00304](https://doi.org/10.1111/1467-8624.00304)
+
 Wernsdorfer, W., Bonet Orozco, E., Hasselbach, K., Benoit, A., Barbara, B., Demoncy, N., Loiseau, A., Pascard, H., & Mailly, D. (1997). Experimental evidence of the Néel-Brown model of magnetization reversal. *Physical Review Letters, 78*(9), 1791–1794. [https://doi.org/10.1103/PhysRevLett.78.1791](https://doi.org/10.1103/PhysRevLett.78.1791)
+
+*Wet op de kansspelen*. (1964). Wet van 10 december 1964, houdende nadere regelen met betrekking tot kansspelen, article 1a. [https://wetten.overheid.nl/BWBR0002469](https://wetten.overheid.nl/BWBR0002469)
 
 Wiegert, J. S., & Oertner, T. G. (2013). Long-term depression triggers the selective elimination of weakly integrated synapses. *Proceedings of the National Academy of Sciences, 110*(47), E4510–E4519. [https://doi.org/10.1073/pnas.1315926110](https://doi.org/10.1073/pnas.1315926110)
 
 Wigner, E. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics, 40*(1), 149–204. [https://doi.org/10.2307/1968551](https://doi.org/10.2307/1968551)
+
+Wilcox, C., Van Sebille, E., & Hardesty, B. D. (2015). Threat of plastic pollution to seabirds is global, pervasive, and increasing. *Proceedings of the National Academy of Sciences, 112*(38), 11899–11904. [https://doi.org/10.1073/pnas.1502108112](https://doi.org/10.1073/pnas.1502108112)
 
 Williams, J. P., & Cieza, L. A. (2011). Protoplanetary disks and their evolution. *Annual Review of Astronomy and Astrophysics, 49*, 67–117. [https://doi.org/10.1146/annurev-astro-081710-102548](https://doi.org/10.1146/annurev-astro-081710-102548)
 
@@ -4270,11 +5123,17 @@ Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & 
 
 Winawer, J., Witthoft, N., Frank, M. C., Wu, L., Wade, A. R., & Boroditsky, L. (2007). Russian blues reveal effects of language on color discrimination. *Proceedings of the National Academy of Sciences, 104*(19), 7780–7785. [https://doi.org/10.1073/pnas.0701644104](https://doi.org/10.1073/pnas.0701644104)
 
+Winstanley, C. A., Cocker, P. J., & Rogers, R. D. (2011). Dopamine modulates reward expectancy during performance of a slot machine task in rats: Evidence for a ‘near-miss’ effect. *Neuropsychopharmacology, 36*(5), 913–925. [https://doi.org/10.1038/npp.2010.230](https://doi.org/10.1038/npp.2010.230)
+
 Wittman, D. M., Tyson, J. A., Kirkman, D., Dell'Antonio, I., & Bernstein, G. (2000). Detection of weak gravitational lensing distortions of distant galaxies by cosmic dark matter at large scales. *Nature, 405*(6783), 143–148. [https://doi.org/10.1038/35012001](https://doi.org/10.1038/35012001)
 
 Wixted, J. T. (2004). The psychology and neuroscience of forgetting. *Annual Review of Psychology, 55*, 235–269. [https://doi.org/10.1146/annurev.psych.55.090902.141555](https://doi.org/10.1146/annurev.psych.55.090902.141555)
 
 Wixted, J. T., & Ebbesen, E. B. (1991). On the form of forgetting. *Psychological Science, 2*(6), 409–415. [https://doi.org/10.1111/j.1467-9280.1991.tb00175.x](https://doi.org/10.1111/j.1467-9280.1991.tb00175.x)
+
+Wojdynski, B. W., & Evans, N. J. (2016). Going native: Effects of disclosure position and language on the recognition and evaluation of online native advertising. *Journal of Advertising, 45*(2), 157–168. [https://doi.org/10.1080/00913367.2015.1115380](https://doi.org/10.1080/00913367.2015.1115380)
+
+Wright, G. A., Baker, D. D., Palmer, M. J., Stabler, D., Mustard, J. A., Power, E. F., Borland, A. M., & Stevenson, P. C. (2013). Caffeine in floral nectar enhances a pollinator’s memory of reward. *Science, 339*(6124), 1202–1204. [https://doi.org/10.1126/science.1228806](https://doi.org/10.1126/science.1228806)
 
 Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., O’Donnell, J., Christensen, D. J., Nicholson, C., Iliff, J. J., Takano, T., Deane, R., & Nedergaard, M. (2013). Sleep drives metabolite clearance from the adult brain. *Science, 342*(6156), 373–377. [https://doi.org/10.1126/science.1241224](https://doi.org/10.1126/science.1241224)
 
@@ -4282,15 +5141,33 @@ Xiong, W., & Ferrell, J. E. (2003). A positive-feedback-based bistable ‘memory
 
 Xu, G., Mihaylova, T., Li, D., Tian, F., Farrehi, P. M., Parent, J. M., Mashour, G. A., Wang, M. M., & Borjigin, J. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *Proceedings of the National Academy of Sciences, 120*(19), Article e2216268120. [https://doi.org/10.1073/pnas.2216268120](https://doi.org/10.1073/pnas.2216268120)
 
+Xu, J., & Livshits, B. (2019). The anatomy of a cryptocurrency pump-and-dump scheme. In *Proceedings of the 28th USENIX Security Symposium* (pp. 1609–1625). USENIX Association. [https://www.usenix.org/conference/usenixsecurity19/presentation/xu-jiahua](https://www.usenix.org/conference/usenixsecurity19/presentation/xu-jiahua)
+
+Yang, Y., Yang, J., & Jiang, L. (2016). Comment on “A bacterium that degrades and assimilates poly(ethylene terephthalate)”. *Science, 353*(6301), 759. [https://doi.org/10.1126/science.aaf8305](https://doi.org/10.1126/science.aaf8305)
+
 Yang, Y.-B., Liang, J., Bi, Y.-J., Chen, Y., Draper, T., Liu, K.-F., & Liu, Z. (2018). Proton mass decomposition from the QCD energy momentum tensor. *Physical Review Letters, 121*(21), 212001. [https://doi.org/10.1103/physrevlett.121.212001](https://doi.org/10.1103/physrevlett.121.212001)
 
+Yewdell, J. W., & Bennink, J. R. (1999). Immunodominance in major histocompatibility complex class I-restricted T lymphocyte responses. *Annual Review of Immunology, 17*, 51–88. [https://doi.org/10.1146/annurev.immunol.17.1.51](https://doi.org/10.1146/annurev.immunol.17.1.51)
+
+Yoshida, S., Hiraga, K., Takehana, T., Taniguchi, I., Yamaji, H., Maeda, Y., Toyohara, K., Miyamoto, K., Kimura, Y., & Oda, K. (2016). A bacterium that degrades and assimilates poly(ethylene terephthalate). *Science, 351*(6278), 1196–1199. [https://doi.org/10.1126/science.aad6359](https://doi.org/10.1126/science.aad6359)
+
 Young, L. J., & Wang, Z. (2004). The neurobiology of pair bonding. *Nature Neuroscience, 7*(10), 1048–1054. [https://doi.org/10.1038/nn1327](https://doi.org/10.1038/nn1327)
+
+Zacks, J. M., Speer, N. K., Swallow, K. M., Braver, T. S., & Reynolds, J. R. (2007). Event perception: A mind-brain perspective. *Psychological Bulletin, 133*(2), 273–293. [https://doi.org/10.1037/0033-2909.133.2.273](https://doi.org/10.1037/0033-2909.133.2.273)
 
 Zarnitsyna, V. I., Lavine, J. S., Ellebedy, A. H., Ahmed, R., & Antia, R. (2016). Multi-epitope models explain how pre-existing antibodies affect the generation of broadly protective responses to influenza. *PLOS Pathogens, 12*(6), Article e1005692. [https://doi.org/10.1371/journal.ppat.1005692](https://doi.org/10.1371/journal.ppat.1005692)
 
 Zaslavsky, N., Kemp, C., Regier, T., & Tishby, N. (2018). Efficient compression in color naming and its evolution. *Proceedings of the National Academy of Sciences, 115*(31), 7937–7942. [https://doi.org/10.1073/pnas.1800521115](https://doi.org/10.1073/pnas.1800521115)
 
 Zeki, S., & Romaya, J. P. (2008). Neural correlates of hate. *PLoS ONE, 3*(10), Article e3556. [https://doi.org/10.1371/journal.pone.0003556](https://doi.org/10.1371/journal.pone.0003556)
+
+Zendle, D., & Cairns, P. (2018). Video game loot boxes are linked to problem gambling: Results of a large-scale survey. *PLOS ONE, 13*(11), Article e0206767. [https://doi.org/10.1371/journal.pone.0206767](https://doi.org/10.1371/journal.pone.0206767)
+
+Zendle, D., Meyer, R., & Over, H. (2019). Adolescents and loot boxes: Links with problem gambling and motivations for purchase. *Royal Society Open Science, 6*(6), Article 190049. [https://doi.org/10.1098/rsos.190049](https://doi.org/10.1098/rsos.190049)
+
+Zentall, T. R., & Stagner, J. (2011). Maladaptive choice behaviour by pigeons: An animal analogue and possible mechanism for gambling (sub-optimal human decision-making behaviour). *Proceedings of the Royal Society B: Biological Sciences, 278*(1709), 1203–1208. [https://doi.org/10.1098/rspb.2010.1607](https://doi.org/10.1098/rspb.2010.1607)
+
+Zettler, E. R., Mincer, T. J., & Amaral-Zettler, L. A. (2013). Life in the “Plastisphere”: Microbial communities on plastic marine debris. *Environmental Science & Technology, 47*(13), 7137–7146. [https://doi.org/10.1021/es401288x](https://doi.org/10.1021/es401288x)
 
 Zhao, G. Q., Zhang, Y., Hoon, M. A., Chandrashekar, J., Erlenbach, I., Ryba, N. J. P., & Zuker, C. S. (2003). The receptors for mammalian sweet and umami taste. *Cell, 115*(3), 255–266. [https://doi.org/10.1016/S0092-8674(03)00844-4](https://doi.org/10.1016/S0092-8674(03)00844-4)
 

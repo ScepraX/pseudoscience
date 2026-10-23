@@ -33,7 +33,7 @@
     { match: /^Relatiegids$/i, id: "m-relatiegids" },
     { match: /^Formal Structure$/i, id: "m-formal-structure" },
     { match: /^Weefsel$/i, id: "m-weefsel" },
-    { match: /^Mensen$/i, id: "m-mensen" }
+    { match: /^Mensen\b/i, id: "m-mensen" }
   ];
   var CHAPTERS = [
     { match: /^Fundamental/i, id: "m-fundamental", label: "Fundamentals" },
@@ -48,7 +48,7 @@
     { match: /^Archaismos$/i, id: "m-archaismos" },
     { match: /^De Berg/i, id: "m-berg", label: "De Berg" },
     { match: /Techniques/i, id: "m-techniques", label: "The 7 Techniques" },
-    { match: /Parasiet/i, id: "m-parasiet", label: "The Parasiet" },
+    { match: /^The Parasiet\b/i, id: "m-parasiet", label: "The Parasiet" },
     { match: /^War$/i, id: "m-war" }
   ];
   // Parts of the page that are not chapters of the text.

@@ -82,7 +82,7 @@ Cartwright and Harary carried the idea from triads to whole groups. When every m
 
 Built from signs alone, that landscape has mirror-image camps: swapping them changes nothing. In the landscape of §XIX that is a limit, reached only where every member's Leeg is tuned so that the depths align, for "Its Leeg tilts the depths, so the Marge and the Leeg are one asymmetry". Real groups add exactly those leans and standings, and the mirror breaks.
 
-The unit of balance is the triad: three people and their three bonds. §VIII.1 now checks its **Trio** against this very theory: "Whether three friends and enemies sit easily is the product of their three signs, which no single pair carries", and the triangle that online networks avoid most "is a member whose two friends are enemies of each other". The Trio is also "the first in which two can lean together against one". Between the two camps of a balanced group the Trouw is negative. That is the Relatie §LI calls a war when it is fought: "a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest", in which "Each Relatie acts as one Partner at the war’s Octaaf, whatever its size". **Grade: Correspondence (measured, partial).**
+The unit of balance is the triad: three people and their three bonds. §VIII.1 now checks its **Trio** against this very theory: "Whether three friends and enemies sit easily is the product of their three signs, which no single pair carries", and the triangle that online networks avoid most "is a member whose two friends are enemies of each other". The Trio is also "the first in which two can lean together against one". Between the two camps of a balanced group the Trouw is negative. That is the Relatie §LV calls a war when it is fought: "a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest", in which "Each Relatie acts as one Partner at the war’s Octaaf, whatever its size". **Grade: Correspondence (measured, partial).**
 
 ### 2.2 Every member has a Drempel
 
@@ -177,7 +177,7 @@ The Covid-19 lockdowns of 2020 thinned social contact for whole populations. In 
 1. **The God and Godin of a society.** §V.1 asks every higher whole to find its own, "fresh among its own Leden". Which bond in a society is its God, which its Godin, and what Medium does their union sustain?
 2. **Which 150?** The best-known layer of human social life lies near 150, a number that is itself disputed; Hutterite colonies split near the same size (§VIII.2); and the series of layers goes on past it. Does §VIII.5's arithmetic of looks set a count at which a flat gathering must nest or split, and if so, which number should the comparison use?
 3. **Nesting by threes.** If the circles of a life were bound groups, would each be a Trio of the one inside it (§3.5)? And what is the innermost circle of one or two?
-4. **What frees a group held in strain?** A group can rest in a dip of its landscape that is not balanced. In models, it is freed by repairs that are allowed to make things worse for a while (§2.1). In real groups, what does that work: Stilte's Trek, a new member, a departure, or a common enemy (§LI)?
+4. **What frees a group held in strain?** A group can rest in a dip of its landscape that is not balanced. In models, it is freed by repairs that are allowed to make things worse for a while (§2.1). In real groups, what does that work: Stilte's Trek, a new member, a departure, or a common enemy (§LV)?
 5. **When do the masks fall?** Can a population's hidden Eigens be read before the cascade (§3.3), or is surprise built in, as Kuran predicts?
 6. **Whose Rouw is inherited distrust?** The people who carry it never met the partners of the bond that ended (§3.4). Is it each person's Rouw, or the Rouw of the group they belong to? The Speelgoed gives every Relatie of Leden a Zelf of its own (§I), and a newborn "a Zelf begun in the Trek of what bore it, a Diepte that begins at its first hearing of it" (§IX.3).
 7. **Tijd.** Felt time slowed when social contact thinned (§3.7). Does it quicken again as bonds return, and do people who keep time together, clapping or walking in step, share a felt pace as well as a rhythm?
@@ -215,6 +215,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so War now reads §LI.
 
 On 22 October 2026 the Speelgoed's §LI.1 came to read each side of a war as one Partner, and its §VIII.5 to have a Lid take its looks one at a time, so §2.1 and §2.5 quote that wording.
+
+On 23 October 2026 the Speelgoed's Schrift IV, now Mensen en Parasieten, gained four chapters before War, so War now reads §LV.
 
 ---
 
