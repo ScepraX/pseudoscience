@@ -206,7 +206,7 @@ where γ is the energy per area of the crystal's surface, v the volume of one mo
 
 ### 3.5 Masker: the protecting group
 
-The Lexicon's Masker is "A presented Eigen, created and chosen per Spectrum and worn for a phase, standing in place of the true one, between it and whoever reads it". It has "Same garment, two wearers", and of the second it says: "an Engel wears it to protect, the hidden Eigen is real, and the Verlies is the gift."
+The Lexicon's Masker is "A presented Eigen, created and chosen per Spectrum and worn for a phase, standing for the true one, between it and whoever reads it". It has "Same garment, two wearers", and of the second it says: "an Engel wears it to protect, the hidden Eigen is real, and the Verlies is the gift."
 
 **The mechanism.** A chemist building a complex molecule step by step often has a reactive group that must survive a step meant for another part of the molecule. The group is masked: turned into a form that the reagents of that step leave alone, and restored afterwards. An alcohol becomes a silyl ether, an amine a carbamate, a ketone an acetal. Chemists have catalogued a great many such protecting groups, each with its own way on and off (Wuts 2014).
 
@@ -323,6 +323,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 Later on 21 October 2026 the Speelgoed's §VIII.3 came to book every broken Relatie as a Verlies, or a Winst where its Trouw was negative, and its §VI.2 to say that an ending leaves what it held booked with the Warmte, so §3.7 and §4.3 quote that wording.
+
+On 26 October 2026 the Speelgoed's Lexicon came to have a Masker stand for the true Eigen, so §3.5 quotes that wording.
 
 ---
 

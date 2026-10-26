@@ -70,7 +70,7 @@
     beta: 0.05,          // β, how Diepte colours a reading, zero between equals
     W: 0.4,              // W, where the God stands on this Spectrum: every Relatie's Vol pole
     S0: 0.42, Y0: 2.2,   // Vol/Leeg v reads as Leeg S = S0·(1 − v) and Zelf's Trouw y_ii = Y0·v:
-                         // the Leeg alone never reaches a Drempel, so every Drempel can fork (§XXVIII.5)
+                         // the Leeg alone never reaches a Drempel, so every Drempel can fork (§LXVIII)
     share: 0.5,          // how a newborn's Trouw is shared among its parents, by their Vol/Leeg
     // the Medium
     tauM: 0.7,           // τ_◌, its pace

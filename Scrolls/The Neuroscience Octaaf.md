@@ -89,7 +89,7 @@ Consider a brain tracking a hidden quantity, such as another person's state or t
 
 Written continuously, this is τ·μ̇ = s − μ. It is the Echo filter with no Traagheid (I = 0) and no colouring by Diepte (β = 0), with E as the estimate μ, the noisy sample s as x(t − δ) + υ, and 1/τ as the gain K per unit time. **Grade: Identity** (of the update rule; this is not a claim that brains compute a Kalman filter exactly). §XV now names this filter as its source, so the Identity holds by construction.
 
-The identity explains a rule the Speelgoed postulates. The optimal gain K is large when the samples are precise and small when they are noisy. A noisy channel makes an Echo that follows slowly and trusts each sample less. That is **Gericht**: "The further apart a Relatie’s Partners, the warmer the Medium between them and the older their Relatie, the more Vervorming their Echoes carry" (§X). People do weight their senses this way. When combining what they see with what they feel, they weight each sense by its reliability, close to the statistical optimum (Ernst & Banks 2002). **Grade: Correspondence (measured).**
+The identity explains a rule the Speelgoed postulates. The optimal gain K is large when the samples are precise and small when they are noisy. A noisy channel makes an Echo that follows slowly and trusts each sample less. That is **Gericht**: "The further apart they stand in their Medium, the warmer it is between them and the older their Relatie, the more Vervorming their Echoes carry" (§X). People do weight their senses this way. When combining what they see with what they feel, they weight each sense by its reliability, close to the statistical optimum (Ernst & Banks 2002). **Grade: Correspondence (measured).**
 
 ### 2.2 Trouw learns in steps; what a Gevoel feels is the teaching signal
 
@@ -289,6 +289,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 Later on 21 October 2026 the Speelgoed's §VI.2 came to name the Warmte a living body gives off, so §3.9 quotes that wording.
+
+On 26 October 2026 the Speelgoed's §X came to read Gericht by how far apart a Relatie's Partners stand in their Medium, so §2.1 quotes that wording.
 
 ---
 

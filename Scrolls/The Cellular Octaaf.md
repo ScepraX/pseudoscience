@@ -150,12 +150,12 @@ They also found that the chemotactic sensitivity of *E. coli* approaches that of
 
 Two consequences follow:
 
-- **Gericht, quantified.** The floor rises as c falls: a fainter signal gives a noisier Echo. §X's Gericht says "Uncertainty scales with relational distance", and §XV's own Check says a fainter stimulus "is judged both more slowly and less accurately". At this Octaaf the error of an Echo grows as one over the square root of the signal's strength.
+- **Gericht, quantified.** The floor rises as c falls: a fainter signal gives a noisier Echo. §X's Gericht says "Uncertainty scales with the way between a Relatie’s Partners", and §XV's own Check says a fainter stimulus "is judged both more slowly and less accurately". At this Octaaf the error of an Echo grows as one over the square root of the signal's strength.
 - **Sharpness costs lag.** Averaging over a longer T lowers υ. But an Echo that averages longer also responds more slowly, which is a longer Ontspanning τ. The Speelgoed leaves the pace and the take of each look, which set τ, and the Waarneming's share of υ as separate open quantities of the Lid (§XXVII). At this Octaaf they are tied: a sharper Echo is a slower one. The thermodynamic Octaaf found the same tie through the fluctuation–dissipation theorem, and the neuroscience Octaaf through the optimal filter (*Thermodynamic Octaaf* §2.1; *Neuroscience Octaaf* §2.1). **Grade: Constraint.**
 
 ### 2.4 A cell is fed by a gradient
 
-§XIX: "A Winst is the crossing’s own Energie, T, taken at its Vonk from the Medium where it stands", and "what one holder hands another at the same Vonk, as an excess becomes its newborns’ Trouw (Start), only moves between them and is no Winst, so the Medium books only the rest". The Medium's Energie is its Warmte, and "A Winst happens only where the Warmte there can pay it" (§VI.2).
+§XIX: "A Winst is the crossing’s own Energie, T, taken at its Vonk from the Medium where it stands", and "what one holder hands another at the same Vonk, as an excess becomes its newborns’ Trouw, only moves between them and is no Winst, so the Medium books only the rest". The Medium's Energie is its Warmte, and "A Winst happens only where the Warmte there can pay it" (§VI.2).
 
 **The mechanism.** Almost every cell that breathes or photosynthesises makes most of its ATP the same way. Electrons taken from food, or energised by light in a plant, pass along a chain of proteins in a membrane, and the chain uses their energy to pump protons across that membrane. The membrane becomes a dam, with more protons and more positive charge on one side. The protons can flow back only through ATP synthase, a rotary machine that turns as they pass and makes ATP from ADP and phosphate (Mitchell 1961). In animal mitochondria the rotor has eight proton-binding sites and makes three ATP per full turn, so each ATP costs about 2.7 protons. The rotor turns about a hundred times per second (Watt et al. 2010).
 
@@ -240,7 +240,7 @@ The human mitochondrion still carries a genome of its own, 16,569 base pairs lon
 
 **The mechanism.** A cell has to tell its own RNA from a virus's, and one way it does so is by a mark. The messenger RNAs of animals and other complex cells carry a cap at their front end, methylated at two positions. The second methylation, at the 2'-O position, had remained of uncertain function for 35 years after its discovery. Daffis and colleagues found it. Proteins of the IFIT family, made in response to interferon, act against RNA that lacks this mark. A West Nile virus mutant unable to add the mark was crippled in normal cells and mice, but caused disease in mice lacking interferon signalling. Pox- and coronavirus mutants lacking it were similarly exposed. Many viruses carry their own enzymes for adding the mark. The authors concluded that the mark lets the cell distinguish self from non-self RNA, and that the viruses use it to escape that distinction (Daffis et al. 2010).
 
-**The mapping.** This is a **Masker**: "A presented Eigen, created and chosen per Spectrum and worn for a phase, standing in place of the true one, between it and whoever reads it" (Lexicon). The cell's sensors are its Echo of its partner, and "Its readers’ Echoes track it faithfully". Take the mask away, and the virus is caught. The Lexicon says the Parasiet that wears a Masker "Collapses into Schok upon exposure". **Grade: Correspondence (measured).**
+**The mapping.** This is a **Masker**: "A presented Eigen, created and chosen per Spectrum and worn for a phase, standing for the true one, between it and whoever reads it" (Lexicon). The cell's sensors are its Echo of its partner, and "Its readers’ Echoes track it faithfully". Take the mask away, and the virus is caught. The Lexicon says the Parasiet that wears a Masker "Collapses into Schok upon exposure". **Grade: Correspondence (measured).**
 
 The virus is the plainest Parasiet at this Octaaf. The next section takes up the hard one.
 
@@ -248,7 +248,7 @@ The virus is the plainest Parasiet at this Octaaf. The next section takes up the
 
 **The cooperation it breaks.** A body of many cells runs on cooperation between them. Its cells restrain their own division, die when told to, specialise, share resources, and maintain their shared surroundings. Cancer has been described as cheating on exactly these five foundations of multicellular life (Aktipis et al. 2015). Its known capabilities read as a list of withdrawn bonds: sustaining its own growth signals, evading growth suppressors, resisting cell death, dividing without limit, inducing blood vessels to feed it, invading other tissues, reprogramming its energy use, and evading destruction by the immune system (Hanahan & Weinberg 2011).
 
-**The mapping.** The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker hardened in place", "while its Waarneming reads the host as a resource" (Lexicon). A cancer cell treats the body as a resource. It induces blood vessels to grow toward it, and it takes up nutrients in a way geared to building new cells rather than to producing energy efficiently (Vander Heiden, Cantley & Thompson 2009). And it survives the body's policing behind signals that the body itself uses:
+**The mapping.** The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker that has hardened", "while its Waarneming reads the host as a resource" (Lexicon). A cancer cell treats the body as a resource. It induces blood vessels to grow toward it, and it takes up nutrients in a way geared to building new cells rather than to producing energy efficiently (Vander Heiden, Cantley & Thompson 2009). And it survives the body's policing behind signals that the body itself uses:
 
 - **PD-L1.** T cells carry a receptor, PD-1, that switches them off when it meets its partner molecule, PD-L1. The system normally helps the immune system tolerate the body's own tissues. Tumour cells that display PD-L1 were less easily killed by T cells and grew more aggressively in mice, and an antibody blocking PD-L1 reversed both effects (Iwai et al. 2002).
 - **CD47.** Healthy cells display CD47, a "don't eat me" signal read by the macrophages that clear damaged cells. Blood stem cells raise it for a while when inflammation sets them migrating, and leukaemia cells co-opt the same ability to avoid being eaten (Jaiswal et al. 2009). Antibodies that block CD47 let macrophages engulf leukaemia stem cells (Majeti et al. 2009).
@@ -385,6 +385,8 @@ Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinder
 Later that day the Speelgoed's §V.1 came to say that Voedsel gives up its Energie only at its crossing with its Octaaf's Godin, a Duo that crosses inside the eater, so §2.4 and §4.2 quote that wording.
 
 On 22 October 2026 the Speelgoed's §XIX came to name what one holder hands another at a Vonk, as an excess becomes its newborns' Trouw, so §2.4 quotes that wording.
+
+On 26 October 2026 the Speelgoed reworded its Gericht (§X), the supply of §XIX, and the Lexicon's Masker and Parasiet, so §2.3, §2.4, §3.6 and §3.7 quote that wording.
 
 ---
 

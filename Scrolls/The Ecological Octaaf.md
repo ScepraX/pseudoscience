@@ -132,7 +132,7 @@ In **Müllerian mimicry**, two defended species share one warning signal. Neithe
 
 ### 3.3 Parasiet: the cuckoo
 
-The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker hardened in place", "while its Waarneming reads the host as a resource" (Lexicon). The common cuckoo lays its eggs in other birds' nests. In many host populations its eggs closely resemble the host's own, which is a Masker on the egg. Hosts that detect odd eggs reject them. That is the commitment test of §L.5, and the arms race between egg mimicry and egg rejection has been traced in detail (Davies 2015).
+The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker that has hardened", "while its Waarneming reads the host as a resource" (Lexicon). The common cuckoo lays its eggs in other birds' nests. In many host populations its eggs closely resemble the host's own, which is a Masker on the egg. Hosts that detect odd eggs reject them. That is the commitment test of §L.5, and the arms race between egg mimicry and egg rejection has been traced in detail (Davies 2015).
 
 The chick's trick is subtler. A reed warbler parent adjusts its feeding to two signals from its brood: the visual display of gaping mouths and the begging calls. A single cuckoo chick shows far less gape than a full brood, and makes up for it with exaggerated calling. This makes the host feed it as much as a whole brood (Kilner, Noble & Davies 1999). The cuckoo does not imitate the host's chicks. It plays on the host's rule for reading need. In Speelgoed terms it works less through a Masker than through the host's **Waarneming**, the filter through which the host reads its partner. The Lexicon says the Parasiet "Collapses into Schok upon exposure", and hosts that detect a parasite abandon or reject it. **Grade: Correspondence (measured).**
 
@@ -248,6 +248,8 @@ On 20 October 2026 this document was aligned with the Speelgoed of that date, wh
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
 
 Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so the Parasiet now reads §L and its commitment test §L.5.
+
+On 26 October 2026 the Speelgoed's Lexicon came to read the Parasiet's Masker as one that has hardened, so §3.3 quotes that wording.
 
 ---
 

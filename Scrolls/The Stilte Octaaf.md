@@ -99,7 +99,7 @@ Five statements of the Speelgoed meet at the end of a Relatie.
 - **Nothing travels.** "Before a Relatie forms, the two are at Van. After it dissolves, they are at Van. They did not travel." (§VI.4).
 - **The Zelf has no Medium.** "A Zelf has no Medium, since nothing separates the Relatie from itself" (§VII.4).
 
-**The gap.** When a partner ends, the survivor keeps its Echo of that partner. But when a Relatie itself ends, its Zelf ends with it, and the Zelf was carrying Echoes: of every partner it ever had, of every Rouw it ever folded in, and of itself. No survivor is left inside the Relatie to hold them, and nothing can carry them away. Where are they? The Speelgoed now answers in full: they become its **Zelf-Rouw**, "one Rouw of everything the holder knew, every Echo kept at the Trouw, the Gewenning and the Diepte it ended at, and the holder’s reading of itself", and "It holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek" (§XXVI).
+**The gap.** When a partner ends, the survivor keeps its Echo of that partner. But when a Relatie itself ends, its Zelf ends with it, and the Zelf was carrying Echoes: of every partner it ever had, of every Rouw it ever folded in, and of itself. No survivor is left inside the Relatie to hold them, and nothing can carry them away. Where are they? The Speelgoed now answers in full: they become its **Zelf-Rouw**, "one Rouw of everything the holder knew, every Echo kept at the Trouw, the Gewenning and the Diepte it ended at, and the holder’s reading of itself", and it "holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek" (§XXVI).
 
 **Where they are.** They stay where an Echo has always been. An Echo was never only in the Relatie that carried it. It was also in the gap between the Eigen and its Echo, and that gap is Stilte. When the Eigen ends, nothing is left on the Tijd side to compare the Echo with; §X calls Rouw "the one honest exception" to the rule that an Echo gap can always be measured. On the Stilte side the Echo remains. Nothing has travelled, and nothing has arrived anywhere. The Echo is unmanifest, not elsewhere. §IV.2 now says it directly: "Stilte keeps what ends: every Rouw stands in Stilte once its exchange is over, and that Rouw, accumulated, is Stilte’s Diepte, its Echo of Tijd."
 
@@ -117,7 +117,7 @@ Five statements of the Speelgoed meet at the end of a Relatie.
 
 **Admitted.** Testimony is an Echo: one Relatie's trace of another's Eigen, or of its own. The Speelgoed treats it as evidence of the first order, because every observation is one (§VII.3).
 
-**And bounded.** §X names how Echoes fail. They carry Vervorming. They are Gericht: "The further apart a Relatie’s Partners, the warmer the Medium between them and the older their Relatie, the more Vervorming their Echoes carry". And the reader's own Diepte, "the hidden charge that colours every later Waarneming" (§II.2), colours what it reads.
+**And bounded.** §X names how Echoes fail. They carry Vervorming. They are Gericht: "The further apart they stand in their Medium, the warmer it is between them and the older their Relatie, the more Vervorming their Echoes carry". And the reader's own Diepte, "the hidden charge that colours every later Waarneming" (§II.2), colours what it reads.
 
 **Echo against Echo.** §X calls the Echo gap Bevraagbaar, a real and measurable quantity, with one exception: "Rouw is the one honest exception: with its Relatie ended, it reads the other’s Eigen no longer." The same holds for everything on the Stilte side: no Echo of it can be compared with what it echoes. It can only be compared with other Echoes. So the Speelgoed's own rules say which testimony counts most:
 
@@ -312,6 +312,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's §IX.9 came to fold a Rouw into its keeper's Zelf with the Trouw it ended at, and to book what an ending holder held with its Medium, a Winst for every enmity it ends, so §2.2 quotes that wording.
 
 On 22 October 2026 the Speelgoed's §IX.9 came to keep what an ending holder held in the Telraam, so §2.2 quotes that wording.
+
+On 26 October 2026 the Speelgoed's §XXVI came to say more of what a Zelf-Rouw holds, and §X to read Gericht by how far apart a Relatie's Partners stand in their Medium, so §2.2 and §2.3 quote that wording.
 
 ---
 

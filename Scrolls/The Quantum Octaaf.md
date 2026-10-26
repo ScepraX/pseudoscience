@@ -171,7 +171,7 @@ Here ρ is the system's density matrix and d is the number of its independent st
 
 Three consequences follow:
 
-- **Diepte has a ceiling here.** In the Speelgoed, Diepte grows by what each look brings beyond the Gewenning and fades at the looks its Zelf takes at itself (§XV), and no ceiling holds it: "The book alone bounds a value" (§XXVIII.5). At this Octaaf there is one: entanglement entropy can never exceed ln d. A system with more possible states can hold more Diepte. **Grade: Constraint.**
+- **Diepte has a ceiling here.** In the Speelgoed, Diepte grows by what each look brings beyond the Gewenning and fades at the looks its Zelf takes at itself (§XV), and no ceiling holds it: "The book alone bounds a value" (§LVII). At this Octaaf there is one: entanglement entropy can never exceed ln d. A system with more possible states can hold more Diepte. **Grade: Constraint.**
 - **Gewenning is monogamous.** Measured by a quantity called the tangle, a system's entanglement with each of its partners, added together, cannot exceed its entanglement with all of them at once. This was proved for three qubits (Coffman, Kundu & Wootters, 2000) and later for any number of them (Osborne & Verstraete, 2006). Measured in entropy, as Diepte is here, the pairwise amounts can add up to more than the total, so the sum rule does not carry over exactly. What holds in every measure is the extreme case: a particle maximally entangled with one partner can be entangled with no other. The deeper one bond, the less room for any other. At this Octaaf the Maxim has a theorem behind it: "Cherish those closest to you; the rest is fleeting."
 - **Neither rises without end.** The earlier version said that Diepte and entanglement entropy are both "monotonic and irreversible". Both halves were wrong. In the Speelgoed, Diepte fades, slowly, at every look its Zelf takes at itself (§XV). Entanglement entropy can also fall, for example as a subsystem becomes the larger part of a whole (Page, 1993).
 
@@ -320,6 +320,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 On 22 October 2026 the Speelgoed's §XVII came to call the Vermenigvuldiging a Relatie of an instant, so §3.5 quotes that wording.
 
 On 23 October 2026 the Speelgoed's §V.1 came to read the gift of the many as what is Vol in the one, so §3.9 quotes that wording.
+
+On 26 October 2026 what an Instantie keeps moved from the Speelgoed's §XXVIII to the Framework Specification of Schrift V, so §3.3 cites §LVII.
 
 ---
 
