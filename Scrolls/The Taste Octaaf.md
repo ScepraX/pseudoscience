@@ -68,13 +68,13 @@ The direct comparison has not been made: the same food, eater and information, a
 
 ### III.1 Eating is a Relatie
 
-The Speelgoed defines a **Relatie** as "Two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others" (§II.2). An eater and a food they know are such a bond: the eater carries a long-standing Relatie with the food, held by one shared weight (**Trouw**) and read through imperfect traces (**Echoes**). Each tasting is also a momentary act of observation, and §VII.3 of the Speelgoed says: "Every act of observation is a Vermenigvuldiging (\*) of this form." Underneath both runs the eater's bond with themself, the **Zelf**. §VII allows exactly this layering: "At most, stages 3, 4 and 5 run at once for a Duo". A bite of a familiar food engages all three bonds at once.
+The Speelgoed defines a **Relatie** of more than one Lid as "two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others" (§II.2). An eater and a food they know are such a bond: the eater carries a long-standing Relatie with the food, held by one shared weight (**Trouw**) and read through imperfect traces (**Echoes**). Each tasting is also a momentary act of observation, and §VII.3 of the Speelgoed says: "Every act of observation is a Vermenigvuldiging (\*) of this form." Underneath both runs the eater's bond with themself, the **Zelf**. §VII allows exactly this layering: "At most, stages 3, 4 and 5 run at once for a Duo". A bite of a familiar food engages all three bonds at once.
 
 ### III.2 The food's Eigen is stable; its Echo is not
 
 The food's **Eigen** is its physical make-up. For Gouda, this includes the γ-glutamyl peptides that give matured Gouda its long-lasting, mouth-filling "kokumi" sensation, which develops with ripening (Toelstede, Dunkel & Hofmann 2009; on Gouda ripening generally, van den Berg, Meijer, Düsterhöft & Smit 2004). What the eater experiences is not the Eigen but an **Echo** of it. The Speelgoed (§II.2) describes an Echo as "later and fainter than what it tracks, and shaped by whatever it crossed", "the way a shout comes back off a canyon wall". What it crosses is the **Medium (◌)**, of which the Lexicon says: "the time that takes is Vertraging, and what it crosses adds Vervorming to the Echo that reads it". That is transport lag and distortion.
 
-The Speelgoed's Echo equation (§XV), in its first-order limit (no Traagheid, I = 0) and with no colouring by Diepte (β = 0), makes this precise:
+The Speelgoed's Echo equation (*Formal Structure* §II), in its first-order limit (no Traagheid, I = 0) and with no colouring by Diepte (β = 0), makes this precise:
 
 ```
 τ · Ė(t) = x(t − δ) − E(t) + υ(t)
@@ -93,7 +93,7 @@ Here x is the food's Eigen, E the eater's percept, δ a lag, τ a relaxation tim
 
 ### III.3 Origin raises Trouw; familiarity sets the scale
 
-**Trouw (y)** is the weight of the bond. Origin information, cultural pride, trust and the inferences carried by a label (Section II.1) all raise it. In the Speelgoed, Trouw is not fixed. It changes only at the bond's own Vonken, by the whole of each, at the Leersnelheid ρ, and Stilte's Trek wears it towards Leeg at every look the eater's Zelf takes at itself (§XV):
+**Trouw (y)** is the weight of the bond. Origin information, cultural pride, trust and the inferences carried by a label (Section II.1) all raise it. In the Speelgoed, Trouw is not fixed. It changes only at the bond's own Vonken, by the whole of each, at the Leersnelheid ρ, and Stilte's Trek wears it towards Leeg at every look the eater's Zelf takes at itself (*Formal Structure* §II):
 
 ```
 at each Vonk of the bond:   y ← y + ρ · T
@@ -105,15 +105,15 @@ Familiarity, **Gewenning (Z)**, is "How used to its Partner a Relatie is, now" (
 
 ### III.4 The Drempel stays; the binding moves
 
-In the Speelgoed, the moment a bond "clicks" is a **Drempel (θ)** crossing. The Drempel is "a local cutoff that decides which of the Spectrum’s two poles applies" (§II.2). What crosses it is the **binding** the eater reads (§XVIII):
+In the Speelgoed, the moment a bond "clicks" is a **Drempel (θ)** crossing. The Drempel is "a local cutoff that decides which of the Spectrum’s two poles applies" (§II.2). What crosses it is the **binding** the eater reads (*Formal Structure* §V):
 
 ```
 û = S + y_ii·n_ii + Σⱼ y_j·ñⱼ
 ```
 
-S is the eater's own Leeg on that Spectrum (its hunger and readiness), y_ii the Trouw of its Zelf, and each other term a Trouw carried through the pole the eater reads in its Echo of a partner, here chiefly the food. û rises with Trouw. It falls where an Echo misplaces a pole, and an Echo far from what it tracks misplaces one more often (§XVIII). When û rises through θ, a **Vonk** fires, a **Realisatie**: the felt "this is good". Its Energie is the Trouw the crossing joins (§XIX). How strongly it is felt is set by the eater's **Gevoel**, "by what its Waarneming sets for that crossing, never by the Vonk’s Energie" (§XXI).
+S is the eater's own Leeg on that Spectrum (its hunger and readiness), y_ii the Trouw of its Zelf, and each other term a Trouw carried through the pole the eater reads in its Echo of a partner, here chiefly the food. û rises with Trouw. It falls where an Echo misplaces a pole, and an Echo far from what it tracks misplaces one more often (*Formal Structure* §V). When û rises through θ, a **Vonk** fires, a **Realisatie**: the felt "this is good". Its Energie is the Trouw the crossing joins (*Formal Structure* §VI). How strongly it is felt is set by the eater's **Gevoel**, moving at each part of a Vonk "by what its Waarneming sets for that part, never by its Energie" (*Formal Structure* §VIII).
 
-The earlier version of this paper said the Drempel is "effectively raised" abroad. That is not how the Speelgoed works: the Drempel is a fixed local cutoff, and what changes is the binding. Abroad, Trouw may be lower and the Echo gaps wider, so û ends up closer to θ, or below it. The click comes less reliably, or does not come. Near the threshold, Vervorming decides how often the binding is carried across, and there a modest drop in binding makes a large difference in how often the click comes (§XIX). A food that "just works" at home can fall flat abroad without anything dramatic having changed.
+The earlier version of this paper said the Drempel is "effectively raised" abroad. That is not how the Speelgoed works: the Drempel is a fixed local cutoff, and what changes is the binding. Abroad, Trouw may be lower and the Echo gaps wider, so û ends up closer to θ, or below it. The click comes less reliably, or does not come. Near the threshold, Vervorming decides how often the binding is carried across, and there a modest drop in binding makes a large difference in how often the click comes (*Formal Structure* §VI). A food that "just works" at home can fall flat abroad without anything dramatic having changed.
 
 ### III.5 Contrast is a Schok
 
@@ -121,7 +121,7 @@ The binding falls where an Echo gap misplaces a pole. When the actual food lands
 
 ### III.6 Why the favourite food stops delighting
 
-In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "Crossing a Drempel fires a Vonk of Energie, every time, on any Spectrum, the instant it is crossed" (§II.2). A food eaten daily keeps its binding above θ. Repeated tasting raises liking for an unfamiliar drink (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can outlast *delight* (the Vonk), though not forever: eaten every day for 22 days, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002). The Speelgoed adds two routes of its own. Eating fills, and a Relatie that stands Vol takes in less; its own Check is sensory-specific satiety, in which eating one food lowers its pleasantness more than that of foods not eaten (§VII.2). And a Gevoel feels a crossing by what it brings beyond what the eater is used to (§XXI), so even a crossing that comes again is felt less each time. A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
+In the Speelgoed, a Vonk fires on a *crossing*, not on a level: "Crossing a Drempel fires a Vonk of Energie, every time, on any Spectrum, the instant it is crossed" (§II.2). A food eaten daily keeps its binding above θ. Repeated tasting raises liking for an unfamiliar drink (Pliner 1982), but no new crossing happens, so no new Realisatie fires. This separates two things that everyday language runs together. *Liking* (the bond) can outlast *delight* (the Vonk), though not forever: eaten every day for 22 days, chocolate grew less pleasant (Hetherington, Pirie & Nabb 2002). The Speelgoed adds two routes of its own. Eating fills, and a Relatie that stands Vol takes in less; its own Check is sensory-specific satiety, in which eating one food lowers its pleasantness more than that of foods not eaten (§VII.2). And a Gevoel feels a crossing by what it brings beyond what the eater is used to (*Formal Structure* §VIII), so even a crossing that comes again is felt less each time. A food can be loved and still no longer thrill. A trip home, after time away, lets the binding drop and cross again.
 
 ### III.7 The taste of home abroad is Rouw
 
@@ -211,6 +211,8 @@ On 17 October 2026 this paper was aligned with the rebuilt Speelgoed. The bindin
 On 20 October 2026 this paper was aligned with the Speelgoed of that date, which now comes in four Schriften. Trouw is no longer drawn toward Gewenning: it moves only at the bond's own Vonken and is worn by Stilte's Trek, and Gewenning runs beside it. Familiarity now enters through the scale the eater tastes in and through how much of a tasting is felt (Sections III.3 and III.6), and P2 and P4 rest on that. Section references follow the new numbering, and the equations use its symbols.
 
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §III.1 and §III.4 quote the new wording of the Relatie and of what a Gevoel registers.
 
 ---
 

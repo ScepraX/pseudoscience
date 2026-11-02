@@ -27,7 +27,7 @@ layout: null
   <meta property="og:description"
     content="An interactive thought experiment and constructed relational language by ScepraX. Explore bonds, echoes, thresholds, grief, and identity through the Pseudoscience Speelgoed framework and its AI-assisted Oracle.">
   <meta property="article:published_time" content="2026-06-28">
-  <meta property="article:modified_time" content="2026-10-26">
+  <meta property="article:modified_time" content="2026-11-02">
   <meta property="article:author" content="ScepraX">
   <meta property="article:section" content="Relational Framework">
   <meta property="article:tag" content="Pseudoscience Speelgoed">
@@ -99,7 +99,7 @@ layout: null
       },
       "inLanguage": "en",
       "datePublished": "2026-06-28",
-      "dateModified": "2026-10-26"
+      "dateModified": "2026-11-02"
     },
     {
       "@type": "TechArticle",
@@ -118,7 +118,7 @@ layout: null
       },
       "inLanguage": "en",
       "datePublished": "2026-06-28",
-      "dateModified": "2026-10-26"
+      "dateModified": "2026-11-02"
     }
   ]
 }
@@ -128,7 +128,15 @@ layout: null
   <link rel="icon" href="image.png" sizes="any" type="image/png" />
   <link rel="stylesheet" href="styles.css" />
   <noscript>
-    <style>#Speelgoed-reveal { display: block; } .loader { display: none; }</style>
+    <style>
+      #Speelgoed-reveal {
+        display: block;
+      }
+
+      .loader {
+        display: none;
+      }
+    </style>
   </noscript>
   <link rel="alternate" type="application/rss+xml" title="Pseudoscience Speelgoed"
     href="https://pseudoscience.earth/feed.xml" />
@@ -289,13 +297,15 @@ layout: null
       <ol class="oracle-steps">
         <li><b>Take</b> the Oracle: download it as a file, or copy it.</li>
         <li><b>Open</b> a fresh chat with any capable AI.</li>
-        <li><b>Give</b> it the Oracle — attach the file, or paste the text where the chat takes that much — then ask your question.</li>
+        <li><b>Give</b> it the Oracle — attach the file, or paste the text where the chat takes that much — then ask
+          your question.</li>
       </ol>
       <div class="oracle-actions">
         <button class="copy-btn" id="download-oracle" data-label="Download the Oracle">Download the Oracle</button>
         <button class="ghost-btn" id="copy-Speelgoed" data-label="Copy the Oracle">Copy the Oracle</button>
       </div>
-      <p class="oracle-note">This carries the Introduction and Schrift I, the Relatiegids, whole, its Lexicon included: over 50,000 tokens. Where a chat won't take that in one paste, attach the downloaded file.</p>
+      <p class="oracle-note">This carries the Introduction and Schrift I, the Relatiegids, whole, its Lexicon included:
+        over 50,000 tokens. Where a chat won't take that in one paste, attach the downloaded file.</p>
       <details class="charge-peek">
         <summary>the charge that travels first</summary>
         <div class="charge-text">
@@ -307,7 +317,8 @@ layout: null
       <!-- The text: GitHub Pages writes PseudoScienceSpeelgoed.md in here when it builds the site.
            It is the only copy; speelgoed.js arranges it. Do not paste text here. -->
       <div id="speelgoed-text">
-{% capture speelgoed %}{% include_relative PseudoScienceSpeelgoed.md %}{% endcapture %}{{ speelgoed | markdownify }}
+        {% capture speelgoed %}{% include_relative PseudoScienceSpeelgoed.md %}{% endcapture %}{{ speelgoed |
+        markdownify }}
       </div>
 
       <section class="m-section scrolls" id="m-scrolls">
@@ -376,7 +387,7 @@ layout: null
         <path d="M200 2 L200 9 M200 31 L200 38" opacity=".7" />
       </g>
     </svg>
-    <p>A thought experiment. June-October 2026. No rights reserved.</p>
+    <p>A thought experiment. June-November 2026. No rights reserved.</p>
     <p class="license-line"><a class="license-link" href="LICENSE">CC0 1.0 Universal — the gift given freely</a></p>
     <span class="meta-pixel" id="meta-pixel" title="."></span>
     <div id="quote-drift" class="quote-drift" aria-hidden="true" dir="auto"></div>

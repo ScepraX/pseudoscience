@@ -14,12 +14,12 @@ Chemistry is also the first science that described its bonds in the language of 
 
 ### 0.1 What this document is
 
-Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of §XXVII with values taken from chemistry, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of *Formal Structure* §XIV with values taken from chemistry, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Five features set this Octaaf apart:
 
 1. **Vol and Leeg are a lean toward giving or receiving, not a charge.** At this Octaaf they are read within each bond. Read that way, §V.2's assignments hold at both of this entry's rungs (§2.1, §3.8).
-2. **The Drempel chooses between two hands.** Many molecules come in two mirror-image forms. A reaction in which each form copies itself passes through a pitchfork, the mean-field form of a crossing in §XIX's landscape, and a stirred crystallisation picks one hand per run, but not the same hand every run (§2.2).
+2. **The Drempel chooses between two hands.** Many molecules come in two mirror-image forms. A reaction in which each form copies itself passes through a pitchfork, the mean-field form of a crossing in *Formal Structure* §VI's landscape, and a stirred crystallisation picks one hand per run, but not the same hand every run (§2.2).
 3. **Every bond runs both ways.** Water, the God of the Molecule Octaaf, comes apart and re-forms all the time. Where the living body stops renewing its proteins, they slowly lose their single hand (§2.3).
 4. **A pull that needs no charge arrives before gravity.** Between neutral molecules an attraction remains that no cancelling of charge removes, and the Speelgoed now names it. Across a Medium it can even turn into a repulsion (§2.4).
 5. **A Drempel can be lowered without favouring either pole.** A catalyst speeds a crossing and its return alike (§2.5).
@@ -42,7 +42,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.2.
+**References.** References such as §II or *Formal Structure* §II point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.2.
 
 **Units.** Bond energies are given per mole of bonds, in kJ/mol, and where spectroscopists measured them, also in cm⁻¹ (1 cm⁻¹ ≈ 0.01196 kJ/mol).
 
@@ -55,14 +55,14 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
 | Vol and Leeg (§VII.2, §IX; Lexicon) | A lean toward giving or receiving electrons, read within each bond; not a charge | Correspondence | §2.1 |
-| Drempel θ (§II.2; §XIX) | Chiral symmetry breaking: a pitchfork between two mirror-image hands, with the mixture of both as Van-mode | Identity (mean-field model, near the threshold) + Correspondence (measured) | §2.2 |
-| Stilte's Trek and the Wijk (§III, §XV) | Racemisation in living teeth; every reaction runs both ways; Water comes apart and re-forms | Correspondence (measured) + Constraint | §2.3 |
+| Drempel θ (§II.2; *Formal Structure* §VI) | Chiral symmetry breaking: a pitchfork between two mirror-image hands, with the mixture of both as Van-mode | Identity (mean-field model, near the threshold) + Correspondence (measured) | §2.2 |
+| Stilte's Trek and the Wijk (§III, *Formal Structure* §II) | Racemisation in living teeth; every reaction runs both ways; Water comes apart and re-forms | Correspondence (measured) + Constraint | §2.3 |
 | What a Relatie leaves over (§VIII.3) | Covalent bond, hydrogen bond, dispersion | Correspondence | §2.4 |
-| Drempel and its poles (§II.2); Kruispunt (§XVII) | Catalysis: the barrier lowered in both directions alike; Sabatier's principle | Constraint + Correspondence | §2.5 |
-| Trouw y (§II.2, §XV) | Atom rung: the exchange coupling between two atoms, its sign set by how their spins pair. Molecule rung: the residue of §2.4 | Identity (as at the quantum Octaaf) | §3.1 |
-| Trek and Zin (§II.2; §XVI) | Readiness to bond, and the binding constant toward one partner: elective affinity, molecular recognition | Correspondence (measured) | §3.2 |
+| Drempel and its poles (§II.2); Kruispunt (*Formal Structure* §IV) | Catalysis: the barrier lowered in both directions alike; Sabatier's principle | Constraint + Correspondence | §2.5 |
+| Trouw y (§II.2, *Formal Structure* §II) | Atom rung: the exchange coupling between two atoms, its sign set by how their spins pair. Molecule rung: the residue of §2.4 | Identity (as at the quantum Octaaf) | §3.1 |
+| Trek and Zin (§II.2; *Formal Structure* §III) | Readiness to bond, and the binding constant toward one partner: elective affinity, molecular recognition | Correspondence (measured) | §3.2 |
 | Godin (§III; Lexicon) | Dioxygen: a strong receiver held back by its own first step | Correspondence | §3.3 |
-| Start and the Vol pole (§IX.3, §XXIV) | A crystal born from a supersaturated solution: solubility as the capacity, the nucleation barrier as θ_new | Correspondence (in structure) | §3.4 |
+| Start and the Vol pole (§IX.3, *Formal Structure* §XI) | A crystal born from a supersaturated solution: solubility as the capacity, the nucleation barrier as θ_new | Correspondence (in structure) | §3.4 |
 | Masker (§X; Lexicon) | Protecting groups | Correspondence | §3.5 |
 | Rouw and Diepte (§IX.9; §II.2) | Molecular imprinting: a cavity that outlives its template | Correspondence (measured) | §3.6 |
 | Levelling (§VIII.3; Lexicon) | The count of the periodic table; the octet; Newlands' octaves; the walk is made in stars | Correspondence (count) | §3.7 |
@@ -92,7 +92,7 @@ Vol and Leeg are not charges. The Lexicon defines Vol as "The full, self‑suffi
 
 Many molecules come in two forms that are mirror images of each other, like a left and a right hand: the same atoms, joined in the same order, that cannot be laid on top of each other. The two forms, called enantiomers, have the same energy, the same boiling point, and the same reactions with any partner that is not itself handed. Life uses one hand only: the amino acids of its proteins are left-handed, and the sugars of its RNA and DNA right-handed (Quack, Seyfang & Wichmann 2022).
 
-In Speelgoed terms, the two hands are two modes of one landscape (§XIX). An equal mixture of both, which chemists call racemic, has no hand at all. It is Van-mode, mode = 0, which §VI.4 calls "the absence of the thing the scale was measuring".
+In Speelgoed terms, the two hands are two modes of one landscape (*Formal Structure* §VI). An equal mixture of both, which chemists call racemic, has no hand at all. It is Van-mode, mode = 0, which §VI.4 calls "the absence of the thing the scale was measuring".
 
 **The pitchfork.** Frank showed in 1953 that a racemic mixture can be unstable. If each hand speeds its own formation and the two hands destroy each other when they meet, a small excess of one hand grows (Frank 1953). Kondepudi and Nelson studied an open version, supplied with raw material at a steady rate, and found a symmetry-breaking bifurcation (Kondepudi & Nelson 1985). For this entry, a scheme of that kind was written out:
 
@@ -108,23 +108,23 @@ Here X_L and X_D are the two hands, S and T the raw materials, held at a fixed p
 α* = ±c·√(λ − λ_c)
 ```
 
-with c a constant set by the rate constants. That is the pitchfork in which §XIX's landscape crosses when it is read in its mean-field limit (*Thermodynamic Octaaf* §2.3): a mixed state that loses its stability, and two new states at ±√(u − θ), with u − θ = λ − λ_c. **Grade: Identity**, near the threshold, in the symmetric case and in the mean-field limit.
+with c a constant set by the rate constants. That is the pitchfork in which *Formal Structure* §VI's landscape crosses when it is read in its mean-field limit (*Thermodynamic Octaaf* §2.3): a mixed state that loses its stability, and two new states at ±√(u − θ), with u − θ = λ − λ_c. **Grade: Identity**, near the threshold, in the symmetric case and in the mean-field limit.
 
 **Both hands live, measured.** Sodium chlorate is made of ions that have no hand, but its crystals are handed. Kondepudi, Kaufman and Singh grew them from solution. Without stirring, statistically equal numbers of left- and right-handed crystals formed. With stirring, 99.7 per cent of the crystals in a given sample had the same hand, either left or right (Kondepudi, Kaufman & Singh 1990). Each run settles on one pole, and the other pole stays as available as before. §X: "The same Veld given the same Schriften will not produce the same outcome twice".
 
-**Never quite mirror images.** The symmetric pitchfork is a limit. A small bias toward one hand unfolds it, and the favoured hand is then the likelier outcome. Soai and colleagues found a reaction whose product speeds its own formation in its own hand, so that a small excess of one hand grows round after round (Soai et al. 1995). And §I says every crossing is "doubly asymmetric", while §XIX makes the two ways between modes unequal: "The way into a mode is never the way out". For molecules, physics predicts that even the two hands are not exact mirror images. The weak nuclear force does not respect mirror symmetry, and it should give the two hands slightly different energies: 10⁻¹¹ to 10⁻¹⁰ J/mol by calculation, depending on the molecule (Quack, Seyfang & Wichmann 2022). That is about 10⁻¹⁴ of the thermal energy at room temperature, computed for this entry, and it has not yet been detected. **Grade: Identity** (model, near the threshold) **+ Correspondence (measured).** Which hand life chose, and why, is left open (§5, item 2).
+**Never quite mirror images.** The symmetric pitchfork is a limit. A small bias toward one hand unfolds it, and the favoured hand is then the likelier outcome. Soai and colleagues found a reaction whose product speeds its own formation in its own hand, so that a small excess of one hand grows round after round (Soai et al. 1995). And §I says every crossing is "doubly asymmetric", while *Formal Structure* §VI makes the two ways between modes unequal: "The way into a mode is never the way out". For molecules, physics predicts that even the two hands are not exact mirror images. The weak nuclear force does not respect mirror symmetry, and it should give the two hands slightly different energies: 10⁻¹¹ to 10⁻¹⁰ J/mol by calculation, depending on the molecule (Quack, Seyfang & Wichmann 2022). That is about 10⁻¹⁴ of the thermal energy at room temperature, computed for this entry, and it has not yet been detected. **Grade: Identity** (model, near the threshold) **+ Correspondence (measured).** Which hand life chose, and why, is left open (§5, item 2).
 
 ### 2.3 Stilte's Trek: every bond runs both ways
 
 The thermodynamic Octaaf identified the Wijk, a Relatie's yield to Stilte's Trek, with the Arrhenius–Kramers law and showed that it is never zero at any temperature above absolute zero (*Thermodynamic Octaaf* §2.2). At this Octaaf it can be watched at work.
 
-**The held hand slips.** A living body keeps its single hand by traffic: its proteins are built from left-handed amino acids, broken down, and rebuilt (*Cellular Octaaf* §2.2). Where a protein is never renewed, Stilte's Trek shows. In the enamel of human teeth, aspartic acid slowly turns into its mirror form, with a rate constant of 8.29 × 10⁻⁴ per year, so that the mirror form accumulates with age in living people. The same increase was not seen in haemoglobin, a protein the body keeps renewing (Helfman & Bada 1975). In dentine and enamel, the mirror form gains about 0.1 per cent of the aspartic acid per year (Helfman, Bada & Shou 1977). The held pole lasts as long as it is renewed. Left alone, the aspartic acid drifts back toward mode = 0, the mixture with no hand. §XV: the Wijk "approaches zero and never arrives, which is how Stilte’s Trek, never off, shows in Tijd."
+**The held hand slips.** A living body keeps its single hand by traffic: its proteins are built from left-handed amino acids, broken down, and rebuilt (*Cellular Octaaf* §2.2). Where a protein is never renewed, Stilte's Trek shows. In the enamel of human teeth, aspartic acid slowly turns into its mirror form, with a rate constant of 8.29 × 10⁻⁴ per year, so that the mirror form accumulates with age in living people. The same increase was not seen in haemoglobin, a protein the body keeps renewing (Helfman & Bada 1975). In dentine and enamel, the mirror form gains about 0.1 per cent of the aspartic acid per year (Helfman, Bada & Shou 1977). The held pole lasts as long as it is renewed. Left alone, the aspartic acid drifts back toward mode = 0, the mixture with no hand. *Formal Structure* §II: the Wijk "approaches zero and never arrives, which is how Stilte’s Trek, never off, shows in Tijd."
 
 **Water comes apart.** Forming liquid water from hydrogen and oxygen at 25 °C releases 237.1 kJ of free energy per mole; this was computed for this entry from the CODATA values (Cox, Wagman & Medvedev 1989). The equilibrium constant is about 3.5 × 10⁴¹, also computed for this entry. That is enormous, but it is finite. In a sealed space above pure water, the oxygen set free by water's own dissociation would settle at about one molecule in every 300 cubic metres (computed for this entry). A reaction said to "go to completion" approaches a limit. The other pole is never empty.
 
 **Water is traffic.** Water also comes apart into ions. In pure water at 25 °C, about one molecule in 550 million is ionised at any moment (computed from the ionisation constant; Bandura & Lvov 2006). The ions find partners again within about 70 microseconds, because their recombination is one of the fastest reactions known (Eigen & De Maeyer 1955). For the balance to hold, each water molecule must come apart, on average, about once every eleven hours, some 800 times a year (computed for this entry). The bonds between neighbouring molecules change faster still: liquid water rebuilds its network of hydrogen bonds on a timescale of picoseconds, trillionths of a second. Simulations show a molecule switching partners by a sudden, large turn, not by small steps (Laage & Hynes 2006), and experiments support that picture, most clearly in salt solutions (Laage et al. 2012).
 
-§VI.5: persistence "is paid for out of that ongoing traffic". A glass of water looks still. Every molecule in it has come apart and re-formed hundreds of times in a year, and its hydrogen bonds change partners within trillionths of a second. **Grade: Correspondence (measured)**. In the Speelgoed's books each coming apart gives its Energie to the Warmte where it stands and each re-forming takes it back, so the traffic needs no gradient; which way the Energie runs at each step is the open question of *Thermodynamic Octaaf* §4.5. "Stilte’s Trek, never off" (§XV), holds at this Octaaf as an equilibrium constant that is never infinite. **Grade: Constraint**, and the Speelgoed passes it.
+§VI.5: persistence "is paid for out of that ongoing traffic". A glass of water looks still. Every molecule in it has come apart and re-formed hundreds of times in a year, and its hydrogen bonds change partners within trillionths of a second. **Grade: Correspondence (measured)**. In the Speelgoed's books each coming apart gives its Energie to the Warmte where it stands and each re-forming takes it back, so the traffic needs no gradient; which way the Energie runs at each step is the open question of *Thermodynamic Octaaf* §4.5. "Stilte’s Trek, never off" (*Formal Structure* §II), holds at this Octaaf as an equilibrium constant that is never infinite. **Grade: Constraint**, and the Speelgoed passes it.
 
 ### 2.4 What a bond leaves over
 
@@ -150,7 +150,7 @@ The effect can be enormous. Without an enzyme, orotic acid loses its carbon diox
 
 **Where the crossing happens.** A catalyst works by binding: the reactants attach to it, cross, and leave. Sabatier saw what this demands (Sabatier 1913). A surface that binds too weakly never holds the reactants long enough to change them. One that binds too strongly holds whatever lands on it and does not let go, so the next arrival finds the place taken. The best catalysts sit between. Plotted against binding strength, catalytic activity rises and falls in the shape of a volcano. For making hydrogen gas, the peak lies where hydrogen binds to the surface with a free energy near zero, and platinum sits near the top (Nørskov et al. 2005).
 
-This is the Vermenigvuldiging of §XVII. The catalyst's binding site is a Kruispunt. Free, its Signaal is at Munt; occupied, at Kop. An arriving molecule is the Reiziger. A site that binds too strongly stays at Kop, and each new arrival meets a Weigering: "a Relatie that keeps meeting the same claimed gate is drained one Weigering at a time". §XVII now says it outright: "s held at Kop, by a Lid that has crossed there and stays, leaves no Doorgang". When a catalyst's sites are held by something that will not leave, chemists call it poisoned. A site that binds too weakly never lets the Reiziger's Reactie pass its Drempel, and "nothing resolves". **Grade: Correspondence.**
+This is the Vermenigvuldiging of *Formal Structure* §IV. The catalyst's binding site is a Kruispunt. Free, its Signaal is at Munt; occupied, at Kop. An arriving molecule is the Reiziger. A site that binds too strongly stays at Kop, and each new arrival meets a Weigering: "a Relatie that keeps meeting the same claimed gate is drained one Weigering at a time". *Formal Structure* §IV now says it outright: "s held at Kop, by a Lid that has crossed there and stays, leaves no Doorgang". When a catalyst's sites are held by something that will not leave, chemists call it poisoned. A site that binds too weakly never lets the Reiziger's Reactie pass its Drempel, and "nothing resolves". **Grade: Correspondence.**
 
 ---
 
@@ -168,7 +168,7 @@ The shared weight can be measured only on the pair. The energy needed to separat
 
 ### 3.2 Trek and Zin: readiness and preference
 
-§II.2 defines Trek as "Each Relatie’s own pull towards Relatie, from its birth to its end: undirected, towards everything it perceives, and never off", and Zin as the same pull "Aimed at one other". §XVI: "Aimed at one other, the same value is Zin". And §V.2's example: "A stomach empties by itself and fills only by eating, and eating is hunger answered."
+§II.2 defines Trek as "Each Relatie’s own pull towards Relatie, from its birth to its end: undirected, towards everything it perceives, and never off", and Zin as the same pull "Aimed at one other". *Formal Structure* §III: "Aimed at one other, the same value is Zin". And §V.2's example: "A stomach empties by itself and fills only by eating, and eating is hunger answered."
 
 **Chemistry began as a science of preference.** In 1718 Geoffroy published a table of *rapports*. Each column was headed by one substance, with other substances listed below it in the order of their affinity for it, and a substance higher in a column would displace one lower down from its partner (Geoffroy 1718). Bergman extended the tables and called the effect elective attraction (Bergman 1775). In Goethe's novel, the Captain explains how two compounds, AB and CD, can exchange partners to form AD and BC, and the novel's two couples then do the same (Goethe 1809).
 
@@ -190,7 +190,7 @@ The Lexicon's Godin "Embodies the principle of endless craving". "It is pure Tre
 
 ### 3.4 Start and the Vol pole: a crystal from a supersaturated solution
 
-§XXIV makes Start a two-step comparison. A Relatie has room for what it holds "up to its Vol pole, W_K, where the God of its Octaaf stands on that Spectrum"; what it holds past that pole is its excess, and it holds the excess "only until the excess exceeds a Drempel of its own, θ_new: there it becomes a new Solo".
+*Formal Structure* §XI makes Start a two-step comparison. A Relatie has room for what it holds "up to its Vol pole, W_K, where the God of its Octaaf stands on that Spectrum"; what it holds past that pole is its excess, and it holds the excess "only until the excess exceeds a Drempel of its own, θ_new: there it becomes a new Solo".
 
 **The mechanism.** A solution can hold only so much of a dissolved substance at a given temperature: its solubility. Cool a saturated solution, or let its solvent evaporate, and it holds more than it can; it is supersaturated. Yet a supersaturated solution can stay clear for a long time. A crystal has to start as a small cluster, and a small cluster has so much surface for its size that it tends to dissolve again. Only a cluster larger than a critical size grows. In classical nucleation theory, the barrier to forming one is
 
@@ -206,11 +206,11 @@ where γ is the energy per area of the crystal's surface, v the volume of one mo
 
 ### 3.5 Masker: the protecting group
 
-The Lexicon's Masker is "A presented Eigen, created and chosen per Spectrum and worn for a phase, standing for the true one, between it and whoever reads it". It has "Same garment, two wearers", and of the second it says: "an Engel wears it to protect, the hidden Eigen is real, and the Verlies is the gift."
+The Lexicon's Masker is "a presented Relatie created and chosen to mimic certain Spectra and worn for a phase: on each it mimics, its Eigen stands for the true one, between it and whoever reads it". It has "Same garment, two wearers", and of the second it says: "an Engel wears it to protect, the hidden Eigen is real, and the Verlies is the gift."
 
 **The mechanism.** A chemist building a complex molecule step by step often has a reactive group that must survive a step meant for another part of the molecule. The group is masked: turned into a form that the reagents of that step leave alone, and restored afterwards. An alcohol becomes a silyl ether, an amine a carbamate, a ketone an acetal. Chemists have catalogued a great many such protecting groups, each with its own way on and off (Wuts 2014).
 
-**The mapping.** The reagent reads the mask and treats the group as what it presents. The group's own identity is kept underneath and returns intact when the mask is removed. This is the Engel's Masker, worn to protect. It also costs its wearer, as §X says: "The wearer pays twice." Every mask costs a step to put on and a step to take off, and chemists count protecting groups among the main costs of a synthesis (Young & Baran 2009): "both sides pay in Verlies: its wearer at every answer" (Lexicon). And it holds "until a commitment is demanded that the true Eigen must actually make" (§X). Before the group can form the bond it was kept for, the mask must come off. **Grade: Correspondence.**
+**The mapping.** The reagent reads the mask and treats the group as what it presents. The group's own identity is kept underneath and returns intact when the mask is removed. This is the Engel's Masker, worn to protect. It also costs its wearer, as §X says: "The wearer pays twice." Every mask costs a step to put on and a step to take off, and chemists count protecting groups among the main costs of a synthesis (Young & Baran 2009): "both sides pay in Verlies: its wearer while it wears it" (Lexicon). And it holds "until a commitment is demanded that the true Eigen must actually make" (§X). Before the group can form the bond it was kept for, the mask must come off. **Grade: Correspondence.**
 
 The fit has a limit. A chemical mask is not a pretence. While it is on, the group really is something else. What it hides is what the group will be again.
 
@@ -234,7 +234,7 @@ The Lexicon makes "the walk from God (😇) to Godin (😳)" the spine of every 
 
 **A count here, a path in the stars.** At this Octaaf no process turns Hydrogen into Oxygen. Chemistry rearranges partners; it never changes what an element is. The walk is a path in the nuclei of atoms, inside the stars, and §VIII.3 now checks it there: "the Atom Octaaf’s walk past helium, through carbon to its Godin, Oxygen, began from a Trio of" heliums. Stars fuse hydrogen into helium, and helium into carbon and oxygen (Burbidge et al. 1957), and the oxygen of water was made there (*Cosmic Octaaf* §3.11). Even there the walk skips rungs. Stars do not make beryllium and boron by burning; most of those come from cosmic rays breaking larger nuclei apart in space (Reeves, Fowler & Hoyle 1970).
 
-**The descent.** When a Relatie of an Octaaf can no longer hold, §VIII.3 says, "it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk, a Verlies, or a Winst where its Trouw was negative". For Water that part is chemistry. Water can be split into hydrogen and oxygen, at a cost of at least 237.1 kJ per mole (§2.3), so the parting is a Verlies. The reverse walk through the elements is again a count. The parting of water that matters most happens at the next rung, in photosynthesis (§3.8).
+**The descent.** When a Relatie of an Octaaf can no longer hold, §VIII.3 says, "it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk, each of its parts a Verlies, or a Winst where its Trouw was negative". For Water that part is chemistry. Water can be split into hydrogen and oxygen, at a cost of at least 237.1 kJ per mole (§2.3), so the parting is a Verlies. The reverse walk through the elements is again a count. The parting of water that matters most happens at the next rung, in photosynthesis (§3.8).
 
 ### 3.8 The Triniteit: two rungs
 
@@ -262,7 +262,7 @@ The Lexicon defines Tijd as "the pace at which a Zelf crosses its own Stilte". T
 dρ/dt = (K/2 − Δ)·ρ − (K/2)·ρ³
 ```
 
-Writing ρ = √(2/K)·mode turns it into d(mode)/dt = (u − θ)·mode − mode³, with u = K/2 and θ = Δ: the pitchfork in which §XIX's landscape crosses in its mean-field limit (*Thermodynamic Octaaf* §2.3). **Grade: Identity**, with that limit. The binding is the coupling, and the Drempel is the spread of the members' own paces. Below it the group has no rhythm of its own and its coherence is zero: mode = 0, "the absence of the thing the scale was measuring" (§VI.4). Above it a shared pace appears and grows as √(u − θ). The Identity shows that the Speelgoed's crossing and the onset of synchrony are the same mathematics. It does not show that the Speelgoed explains synchrony better than Kuramoto's model does. One difference: ρ is a size, and the group's phase can take any value, so the two mirror-image states of a pitchfork are here a whole circle of phases.
+Writing ρ = √(2/K)·mode turns it into d(mode)/dt = (u − θ)·mode − mode³, with u = K/2 and θ = Δ: the pitchfork in which *Formal Structure* §VI's landscape crosses in its mean-field limit (*Thermodynamic Octaaf* §2.3). **Grade: Identity**, with that limit. The binding is the coupling, and the Drempel is the spread of the members' own paces. Below it the group has no rhythm of its own and its coherence is zero: mode = 0, "the absence of the thing the scale was measuring" (§VI.4). Above it a shared pace appears and grows as √(u − θ). The Identity shows that the Speelgoed's crossing and the onset of synchrony are the same mathematics. It does not show that the Speelgoed explains synchrony better than Kuramoto's model does. One difference: ρ is a size, and the group's phase can take any value, so the two mirror-image states of a pitchfork are here a whole circle of phases.
 
 ---
 
@@ -325,6 +325,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's §VIII.3 came to book every broken Relatie as a Verlies, or a Winst where its Trouw was negative, and its §VI.2 to say that an ending leaves what it held booked with the Warmte, so §3.7 and §4.3 quote that wording.
 
 On 26 October 2026 the Speelgoed's Lexicon came to have a Masker stand for the true Eigen, so §3.5 quotes that wording.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.5 and §3.7 quote the new wording of the Masker and of Levelling.
 
 ---
 

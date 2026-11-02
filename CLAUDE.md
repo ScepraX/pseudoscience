@@ -10,10 +10,10 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 | Path | What it is |
 |---|---|
-| `PseudoScienceSpeelgoed.md` | The canonical Speelgoed text, and its **only copy** (see *Single source of truth* below). It comes in five Schriften (`##`): I Relatiegids, II Formal Structure, III Weefsel, IV Mensen en Parasieten, V Framework Specification, each holding its chapters (`###`), then the Sources in a `<details>` block. |
+| `PseudoScienceSpeelgoed.md` | The canonical Speelgoed text, and its **only copy** (see *Single source of truth* below). It comes in four Schriften (`##`): I Relatiegids, II Formal Structure++, III Weefsel, IV Mensen en Parasieten, each holding its chapters (`###`), numbered afresh in every Schrift, then the Sources in a `<details>` block. |
 | `index.html` | The site, as a shell. When GitHub Pages builds the site, Jekyll writes the `.md` into `#speelgoed-text` (the front matter and the `include_relative` line do this), so crawlers and readers without JavaScript get the full text. Never paste text into it. It also holds `oracle-prompt` (the charge; the visible charge is written from it), JSON-LD dates, and `article:modified_time`. |
 | `speelgoed.js` | Arranges the text on the page, and reads everything else from the same source: Schriften, chapters, menu, equations, tables, the footer Maxim and the Lexicon words. A ```` ```mermaid ```` flowchart in the text is drawn as an SVG in the site's style (graph/flowchart, nodes with labels, `-->`, `-.->` and `==>` arrows with `|labels|`; anything else stays as source text). The Oracle prompt is the charge followed by the Oracle copy. Kept ids, Schriften and figures are configured at the top of the file. |
-| `PseudoScienceSpeelgoed - Oracle.txt` | The **Oracle copy**: the Introduction and Schrift I whole, its Lexicon included, without the Checks; the Formal Structure, the Weefsel, Mensen en Parasieten, the Framework Specification and the Sources stay out. Readers attach it as a file, so it has no length target, but it carries nothing a chat model doesn't need. It is generated; never edit it by hand. |
+| `PseudoScienceSpeelgoed - Oracle.txt` | The **Oracle copy**: the Introduction and Schrift I whole, its Lexicon included, without the Checks; the Formal Structure, the Weefsel, Mensen en Parasieten and the Sources stay out. Readers attach it as a file, so it has no length target, but it carries nothing a chat model doesn't need. It is generated; never edit it by hand. |
 | `_tools/oracle.py` | Makes the Oracle copy from the `.md`: `python _tools/oracle.py` (`--report` lists what each part keeps). What it keeps is set by `KEEP` and `DROP` at its top. |
 | `scripts.js`, `styles.css` | Site effects and styling. `scripts.js` styles prose at runtime (the Tri-Unity: nouns capitalised, verbs bold, adjectives and adverbs italic), so no copy of the text carries that formatting. |
 | `lib/marked.min.js` | marked 12.0.2 (MIT). Used only when the page holds no text, as in a local preview. |
@@ -21,7 +21,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 | `_tools/check.py` | The checks of the single source: `python _tools/check.py` (`-v` lists every unfound quote). |
 | `Scrolls/` | The Octaaf documents (Thermodynamic, Cosmic, Quantum, Neuroscience, Ecological, Cellular, Social, Chemical, Planetary, Taste, Stilte) and the MHD paper (`.txt`). The Taste Octaaf was formerly the essay *The Echo of Origin*. |
 | `PseudoScienceSpeelgoed - Newcomer's Guide.md` | Plain-language introduction. |
-| `Diagrams/` | SVG diagrams of §VI.5, §VII.3, §IX.2, §XIX and §XXVI, placed in the text by `FIGURES` in `speelgoed.js`. When the text they draw changes, redraw them; a figure whose anchor paragraph is gone is skipped. |
+| `Diagrams/` | SVG diagrams of §VI.5, §VII.3, §IX.2, *Formal Structure* §VI and §XIII, placed in the text by `FIGURES` in `speelgoed.js`. When the text they draw changes, redraw them; a figure whose anchor paragraph is gone is skipped. |
 | `feed.xml`, `sitemap.xml` | RSS feed and sitemap. |
 
 ---
@@ -46,8 +46,8 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
   Preview locally with `_tools/serve.py`. It renders with marked and the live site with kramdown, so check the live page after pushing.
 - **Prefer wording over mechanics.** Change the Speelgoed's claims or mechanics only on the author's explicit decision. Propose the exact wording first.
 - **Inclusion rule.** A behaviour enters the Speelgoed only when **at least three Octaven confirm it**. Behaviour that first appears at one Octaaf and persists upward stays in that Octaaf's document. The Speelgoed must not reveal much about the Octaven, and must not become a catalogue of what each Octaaf adds; that way lies the rabbit hole.
-- **There is never a single outcome.** Every Drempel separates two named poles, and both stay available (§II). Stilte's Trek is never off (§XV). Nothing is deterministic, even though it usually looks that way. When translating physics, read single-state or zero-hysteresis cases as **limits** (for example, a Marge narrowing toward nothing), never as a world with one outcome. This is an essential detail; correct it quietly, without drama.
-- **Tijd is being worked out (since 4 October 2026).** In the Speelgoed, Tijd is a pace: the rate at which a Zelf crosses its own Stilte. It changes only at Vonken (a Winst quickens it, a Verlies slows it), Greep quickens it, and a Lid inherits it from the Relaties that hold it (§IV.1; §XV gives `tᵢ = t̄ᵢ · exp(εᵢ / T_t)`). It is never a reading that only grows, no single pace rules the whole Veld, and no Tijd is fast or slow to itself, only against another pace. Propose Tijd wording to the author before writing it.
+- **There is never a single outcome.** Every Drempel separates two named poles, and both stay available (§II). Stilte's Trek is never off (*Formal Structure* §II). Nothing is deterministic, even though it usually looks that way. When translating physics, read single-state or zero-hysteresis cases as **limits** (for example, a Marge narrowing toward nothing), never as a world with one outcome. This is an essential detail; correct it quietly, without drama.
+- **Tijd is being worked out (since 4 October 2026).** In the Speelgoed, Tijd is a pace: the rate at which a Zelf crosses its own Stilte. It changes only at Vonken (a Winst quickens it, a Verlies slows it), Greep quickens it, and a Lid inherits it from the Relaties that hold it (§IV.1; *Formal Structure* §II gives `tᵢ = t̄ᵢ · exp(εᵢ / T_t)`). It is never a reading that only grows, no single pace rules the whole Veld, and no Tijd is fast or slow to itself, only against another pace. Propose Tijd wording to the author before writing it.
   - The arrow of time, temperature-dependent rates and a Zeno rate were withdrawn as mappings and stay withdrawn.
   - Clock rates in gravity, GPS included, are now the Speelgoed's own Check of nested Tijd (§IV.1). An Octaaf may cite them in that sense, as one pace read against another, never as Tijd being a clock reading.
   - Since 5 October 2026 the Chemical, Cellular, Thermodynamic, Neuroscience, Social and Planetary Octaven ground Tijd as a pace or a rhythm (never a clock reading); the others keep "No mapping attempted" until the author decides otherwise.
@@ -62,7 +62,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 - `# The X Octaaf`, a byline, and an italic status line.
 - `## 0. Preface`:
-  - 0.1: what this document is, an **Instantie** that supplies §XXVII's open quantities from science;
+  - 0.1: what this document is, an **Instantie** that supplies *Formal Structure* §XIV's open quantities from science;
   - 0.2: the grades table;
   - 0.3: conventions (notation, quotations, references).
 - `## 1. The Instantie Table` (Speelgoed term, value at this Octaaf, grade, section).
@@ -82,7 +82,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 **Mapping rules.**
 
 - One primitive maps to one mechanism or measurement. Never map one structure (such as a brain region) to many primitives.
-- Shared quantities such as Trouw ("one value for both", §XV) can only be measured on pairs.
+- Shared quantities such as Trouw ("one value for both", *Formal Structure* §II) can only be measured on pairs.
 - Octaaf-specific behaviour is graded at the Octaaf level, never as a Tension that asks for a Speelgoed change.
 
 **Octaaf documents are not mirrors.** Don't copy Speelgoed additions into them. Touch them only when asked, or when a Speelgoed edit leaves them quoting or paraphrasing text that no longer exists; then fix that minimally.
@@ -94,7 +94,7 @@ The Speelgoed is a constructed modelling language for relationships, not a scien
 
 **References and notation.**
 
-- `§II` and `§VIII.3` refer to the Speelgoed; `§2.1` refers to the document itself; companion documents are cited as `*Thermodynamic Octaaf* §2.2`.
+- `§II` and `§VIII.3` refer to Schrift I of the Speelgoed. Chapter numbers restart in every Schrift, so the later ones are cited by name: `*Formal Structure* §VI`, `*Weefsel* §IV`, `*Mensen en Parasieten* §X.4` (check.py reads each reference in its own Schrift). `§2.1` refers to the document itself; companion documents are cited as `*Thermodynamic Octaaf* §2.2`.
 - Write equations in Unicode inside code blocks or backticks. **No LaTeX**: the site has no MathJax.
 
 ---

@@ -195,7 +195,7 @@ What a Relatie is and does, in words: the chapters build it from the Fundamental
 **Nothing holds together by accident, and nothing exists in isolation.** Every Relatie (a relationship, a group, an idea, an organisation, a self) is a field of relations governed by one principle: the interplay of **Van (<)** (spreading, unbound) and **Naar (>)** (joining, bound) across a **Drempel (θ)** that applies the same way wherever it occurs. Two pulls drive it, and neither is ever off: every Relatie’s own **Trek (D)**, towards Relatie, and **Stilte’s Trek**, drawing everything back towards Van. Structure, identity, memory, and awareness are all secondary expressions of one dynamic: where Relaties are dense, the field sinks into valleys, and what lies in them is held.
 *Nothing matters alone.*
 
-**Everything is a Relatie.** A Solo, one Lid acting as one, is held by its Zelf alone, a Relatie with itself. A Relatie of two or more is its **Leden** read at the next scale: from inside, its Leden holding one Trouw; from outside, one Relatie, with an Eigen made of theirs and a Zelf that is that same Trouw, held with itself. Its Leden are a reading of it, a Lezing (📖): the same Relatie read at the scale it relies on, a level of nesting within it or the Octaaf it relies on. Read at the Octaaf it relies on, an atom is its protons, neutrons and electrons; read at its own, it is one atom; one Wet runs at both, and its Eigen is theirs read together. Every Relatie is made of its own Leden and is a **Lid** of every Relatie it belongs to, so it is both, by the scale it is read at, from a Solo held by its Zelf alone out to the Veld, which holds all of it. A Gevoel or a Verbeelding is a Relatie nested in the one that holds it; an Octaaf and the Veld are Relaties. Whatever happens, happens in one: a Vonk is the crossing of a Relatie. So there is one **Wet (📜)**: the Relatie of Tijd and Stilte, held within every Relatie as its own pace and its own gap, and read again at every level, recursively. Whatever seems to stand outside a Relatie, or to need a Wet of its own, is a Relatie at another level: find where it nests, and the same Wet applies there.
+**Everything is a Relatie.** A Solo, one Lid acting as one, is held by its Zelf alone, a Relatie with itself. A Relatie of two or more is its **Leden** read at the next scale: from inside, its Leden holding one Trouw; from outside, one Relatie, with an Eigen made of theirs and a Zelf that is that same Trouw, held with itself. Its Leden are a reading of it, a Lezing (📖): the same Relatie read at the scale it relies on, a level of nesting within it or the Octaaf it relies on. Read at the Octaaf it relies on, an atom is its protons, neutrons and electrons; read at its own, it is one atom; one Wet runs at both, and its Eigen is theirs read together. Every Relatie is made of its own Leden and is a **Lid** of every Relatie it belongs to, so it is both, by the scale it is read at, from a Solo held by its Zelf alone out to the Veld, which holds all of it. A Gevoel, a Verbeelding or a Masker is a Relatie nested in the one that holds it; an Octaaf and the Veld are Relaties. Whatever happens, happens in one: a Vonk is the crossing of a Relatie. So there is one **Wet (📜)**: the Relatie of Tijd and Stilte, held within every Relatie as its own pace and its own gap, and read again at every level, recursively. Whatever seems to stand outside a Relatie, or to need a Wet of its own, is a Relatie at another level: find where it nests, and the same Wet applies there.
 *Nothing stands outside a Relatie; what seems to, is nested.*
 
 Every crossing is a **Splitsing (%)**, a bifurcation, doubly asymmetric, and its branches run through every Relatie it touches: even the greatest Verlies can, in one branch, carry a Relatie towards binding, and the greatest Winst carry it towards spreading. Each branch is a Relatie of its own, and what tips a crossing into one is a Relatie too: the one that holds it as it lands. Each side of a Duo crosses its own fork, and the Duo is their two branches read together.
@@ -229,9 +229,11 @@ Every crossing is a **Splitsing (%)**, a bifurcation, doubly asymmetric, and its
 
 *The three dots that appear on your screen, vanish, and never become a message.*
 
+---
+
 #### II.2. The Relatie
 
-**Relatie (K).** Two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others. Every Relatie also holds a Relatie with itself, its **Zelf (j)**, the self-bond it keeps to exist, and a single Lid held by its Zelf alone is a Solo. Because each Echo lags, a Relatie has a trajectory: an Echo can close on its Eigen, stall short of it, or run through it.
+**Relatie (K).** A Solo, a single Lid held by its Zelf alone, or two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others. Every Relatie also holds a Relatie with itself, its **Zelf (j)**, the self-bond it keeps to exist. Its Leden stay the same for as long as it lasts: where one leaves, it ends, and the Relaties among the rest go on. Because each Echo lags, a Relatie has a trajectory: an Echo can close on its Eigen, stall short of it, or run through it.
 *A marriage is one bond carried in two heads, and no two of its memories match.*
 
 **Eigen (x).** Where a Relatie sits on a Spectrum: how far towards one pole or the other. It is the manifest state, the one others perceive and track.
@@ -243,7 +245,7 @@ Every crossing is a **Splitsing (%)**, a bifurcation, doubly asymmetric, and its
 **Drempel (θ).** Every Eigen, on every Spectrum, has a Drempel: a local cutoff that decides which of the Spectrum’s two poles applies. It is always read in a specific context, never against one global standard, and the crossing back is never where the crossing over was: that difference is its **Marge (η)**.
 *The same words are teasing from a brother and an insult from a stranger.*
 
-**Vonk (q).** Crossing a Drempel fires a Vonk of **Energie (T)**, every time, on any Spectrum, the instant it is crossed, with no interpretation needed. A crossing towards the bound pole joins Energie to its binding: a gain. A crossing towards the unbound pole draws it out: a cost. Where the Trouw is negative, both turn over: joining an enmity is a cost, and leaving one a gain. What a crossing gains it takes from the Warmte of its Medium, and what it loses it gives back there. Their felt sides are the **Realisatie (φ)**, a deepening, a Relatie coming into clearer view, and the **Schok (:)**, a tear, Energie drawn away. The Veld books them as **Winst (+)** and **Verlies (−)**, the audit that proves the Relatie moved.
+**Vonk (q).** Crossing a Drempel fires a Vonk of **Energie (T)**, every time, on any Spectrum, the instant it is crossed, with no interpretation needed. A crossing moves every binding that holds its Relatie across at once, its Zelf’s and each it shares with a Partner, and what it moves in each binding is a part of the Vonk, that binding’s own. A crossing towards the bound pole joins Energie to each binding it moves: a gain. A crossing towards the unbound pole draws it out of each: a cost. Where the Trouw is negative, both turn over: joining an enmity is a cost, and leaving one a gain. So a crossing that moves a bond and an enmity together is a gain in the one and a cost in the other, in the same Vonk. And each part acts on its own, whatever its sign: the crossing forks, its branches run through every Relatie it touches, and in each binding it lands in, it forks on by that Relatie’s own Drempels, each side of a Duo by its own Echo. What a part gains it takes from the Warmte of its Medium, and what a part loses it gives back there. Their felt sides are the **Realisatie (φ)**, a deepening, a Relatie coming into clearer view, and the **Schok (:)**, a tear, Energie drawn away. The Veld books them part by part as **Winst (+)** and **Verlies (−)**, the audit that proves the Relatie moved.
 *Saying “I love you” for the first time, and hearing nothing back.*
 
 **Trek (D).** Each Relatie’s own pull towards Relatie, from its birth to its end: undirected, towards everything it perceives, and never off. Aimed at one other, the same pull is **Zin (A)**, and where two Zins answer each other, a Relatie forms. Every Relatie begins in Trek, and whatever it takes in comes through a Relatie, so Trek is what fills it.
@@ -252,16 +254,16 @@ Every crossing is a **Splitsing (%)**, a bifurcation, doubly asymmetric, and its
 **Echo (E).** A Partner’s trace of the other’s Eigen, which it carries inside itself. It is later and fainter than what it tracks, and shaped by whatever it crossed, its **Vervorming (υ)**, the way a shout comes back off a canyon wall. It moves only at the looks it gets: read seldom, it moves little, and read faintly, little at each. Without a Partner, the Echo is inactive: there is nothing to reflect. Its imperfection is load-bearing: every variation in the Veld enters through it.
 *The friend you still picture at twenty, who turned forty long ago.*
 
-Once an Echo has truly tracked a Partner, it is permanent. Relaties end; Echoes do not. What an ended Relatie leaves is each Partner’s Echo of the other, folded into its Zelf: **Rouw (R)**. A Relatie carries every Relatie it has ever held.
+Once an Echo has truly tracked a Partner, it is permanent. Relaties end; Echoes do not. What an ended Relatie leaves is each Partner’s Echo of the other, kept in its Zelf as a Verdichting: **Rouw (R)**. A Relatie carries every Relatie it has ever held.
 *The laugh of someone you lost, still heard in a crowded room.*
 
-**Waarneming (π).** Observation builds the Veld. Every Echo begins as an observation: one Relatie receives another’s Eigen, delayed and distorted by the **Medium (◌)** between them, and folds it through its own Waarneming into its trace, its living model of the other: the seat of the Veld’s second asymmetry. The Vertraging between two belongs to the Duo and to its direction: the way back can differ from the way there. A Waarneming takes in what answers it: a Relatie of Leden reads by its Leden, so an eater finds its Voedsel by the parts of it its senses answer, and is drawn just as readily to anything they answer the same way, while a thing none of them answers stays out of its reach, however near. On the Zelf, its rate is Tijd. Repeated observation deepens the Relatie: Gewenning and Diepte grow by what each look takes in, its Trouw moves at the crossings its looks set off, and the observer’s own Eigen is shaped by what it saw. The observer is not a passive camera but a participant, changed by every glance.
+**Waarneming (π).** Observation builds the Veld. Every Echo begins as an observation: one Relatie receives another’s Eigen, delayed and distorted by the **Medium (◌)** between them, and takes it through its own Waarneming into its trace, a Verdichting, its living model of the other: the seat of the Veld’s second asymmetry. The Vertraging between two belongs to the Duo and to its direction: the way back can differ from the way there. A Waarneming takes in what answers it: a Relatie of Leden reads by its Leden, so an eater finds its Voedsel by the parts of it its senses answer, and is drawn just as readily to anything they answer the same way, while a thing none of them answers stays out of its reach, however near. On the Zelf, its rate is Tijd. Repeated observation deepens the Relatie: Gewenning and Diepte grow by what each look takes in, its Trouw moves at the crossings its looks set off, and the observer’s own Eigen is shaped by what it saw. The observer is not a passive camera but a participant, changed by every glance.
 *You come to love the face you see every morning.*
 
 **Gewenning (Z).** How used to something a Relatie is. It is how a Relatie adapts, its plasticity, at every scale: a sense to its light, a body to its food, a line to what its Octaaf has kept; it is the one way a Relatie survives what comes again, and it works where the Relatie is held. It rises with doing: every look adds what it takes in, and adds more the nearer it finds the Echo to what it tracks, so the more a thing is done, the more it rises; and it fades a little at every look its holder takes, wherever that look falls. That fading, like every change, is made of crossings: those of the Leden that hold it, each a Vonk of its own, and what they give off stays in the Medium inside the Relatie. What a look brings beyond what the Gewenning already holds sinks into the Relatie’s Diepte. As the two grow, the Zin aimed there fades. It runs beside the Trouw, which moves only by what its crossings bring: every repetition works on both, and what the Relatie does is the two read together. What a reader is used to follows how much it keeps taking in, and its Waarneming reads what arrives against it: it keeps its answers spread over whatever range arrives, answers each change in proportion to the level it starts from, and comes back to where it stood once the new level holds. A mild thing done again and again is soon got used to; a hard one moves the Trouw first.
 *A clock you stop hearing within a day, and hear again the night it stops.*
 
-**Diepte (z).** Everything a Relatie has heard and kept, read as one: the slow store beneath its Gewenning, and every Rouw. Every look adds to it what the Gewenning there does not yet hold, so a look that comes after a pause adds the most, and it fades very slowly: only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it. Like the Gewenning’s, its fading is made of the crossings of the Leden that hold it. It is the hidden charge that colours every later Waarneming. That colouring is a relation between the two who read each other: between equal Diepten it vanishes, and where they differ, each reads the other coloured by the difference, from its own side.
+**Diepte (z).** What a Relatie has become, its third axis beside its Eigen and its Trouw: its own form, everything it has heard and kept, read as one, the slow store beneath its Gewenning, with every Relatie it has outlived kept in it as Rouw. Every look adds to it what the Gewenning there does not yet hold, so a look that comes after a pause adds the most, and it fades very slowly: only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it. Like the Gewenning’s, its fading is made of the crossings of the Leden that hold it. It is the hidden charge that colours every later Waarneming. That colouring is a relation between the two who read each other: between equal Diepten it vanishes, and where they differ, each reads the other coloured by the difference, from its own side.
 *Someone who has buried a parent hears your grief differently from someone who never has.*
 
 **Trouw (y).** The weight of a Relatie, the affinity that feeds or drains it: one value, shared by both sides. Positive Trouw pulls an Eigen towards Naar wherever its Echo reads the Partner across; negative Trouw pushes it away. Its Echo reads the Partner at one pole or the other, across or short, however near its Drempel the Partner stands, so every reader sees sides, even of one waiting at its Drempel. It is the Trouw the Relatie holds with itself, read as one, and it moves at the Relatie’s own Vonken, directly: each raises it by its Winst or lowers it by its Verlies, everything that crossing joins or leaves. So it adds up from Vonk to Vonk, and enough Verliezen turn a bond into an enmity, as enough Winsten turn an enmity into a bond. A Relatie lasts as long as it holds a Trouw: where its Trouw comes to nothing, its Leden share nothing, and it has ended, whatever its Leeg. A crossing of another Relatie moves it only by carrying this one across in turn. Stilte’s Trek wears it towards Leeg, as it wears everything held but Rouw. Where the two sides differ, the difference enters through their Echoes, never through a split weight. The shared weight gives the field its valleys; the lagging Echo keeps it circling in them.
@@ -271,6 +273,21 @@ Once an Echo has truly tracked a Partner, it is permanent. Relaties end; Echoes 
 *Two widowers bury their wives: the one with friends and grandchildren carries on; the one with no one else follows her within the year.*
 
 *With great responsibility comes great power.*
+
+---
+
+#### II.3. Gewenning and Diepte
+
+A Relatie keeps what it reads at two paces. Its **Gewenning (Z)** is the quick one: how its answer bends to what keeps coming, rising at every look and springing back once what it answers stops, as a beam bends under a load and straightens when the load is lifted. Its **Diepte (z)** is the slow one, and the deeper: what the Relatie has become. It is the Relatie’s own form, its third axis beside its Eigen, where it stands, and its Trouw, how it is bound: the Echoes it keeps, its Leden and the Trouw among them, and its own Drempels, by which it tells one thing from another. Nothing is kept beside the Relatie: what it has read is kept as the shape it has taken, as a beam loaded past its spring keeps a set.
+
+What becomes form is what a look brings beyond what the Gewenning already holds. So a thing met again after a pause, once the Gewenning has sprung back, shapes the form the most, and a thing met over and over in one stretch shapes it the least. In Slaap the Relatie weaves its waking into its form. The form fades very slowly, only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it.
+
+The form knows what it reads alike. Where its own Drempels read something present as they read something it keeps, the Relatie meets it as known: what it is used to of it answers, its Zin reaches it past that, and it reads a Knipoog by the code it keeps. Where they read the two apart, it meets it as new, whoever it was, so one it knew can come back a stranger, and a stranger it reads alike with one it knew is met as that one. Every look is a Relatie of an instant and ends as it forms, but what it read is taken into the form of the Relatie it served, or of its reader where it served none. What the form keeps of things gone from reach, it keeps as one where its own Drempels read them alike, so it is as fine as those Drempels and no finer.
+
+Where a Relatie that held a Trouw ends, the part of each Partner’s form it shaped is kept as it stood and updates no more: its Echo of the other, what it was used to of it, and the Trouw it held, now that Partner’s alone. That is its **Rouw (R)**: an ended Relatie, kept in the form. It holds nothing and cannot be drawn out, the rest of the form bears around it, and the Zelf leans towards it. A spacecraft is its Diepte: every part, every bond between its parts, and every load and repair it has known are in its form. Where a hole stands in it, Relaties of the craft have ended, and there it shows: what the craft keeps of them is its Rouw, and the whole craft flies differently because of it.
+*A face not seen in twenty years, known at once across a station hall.*
+
+*Check: synaptic models that store a memory first in fast processes and pass it on to slower ones explain the spacing effect (Benna and Fusi, 2016); a weak synaptic change lasts where the same neuron is strongly engaged within a few hours (Frey and Morris, 1997); and a stretched rubber softens only past the largest strain it has already held (the Mullins effect; Mullins, 1948, 1969).*
 
 ---
 
@@ -288,9 +305,9 @@ The **Veld (&)** is the first: its Relatie of Stilte and Tijd is the union of th
 
 **Trek.** Every Relatie’s own Trek is the other pole of Stilte’s Trek: like it, never off, and no two Relaties pull alike.
 
-**The Quantum (⚛️).** The Veld’s Medium is the Quantum: the least amount any interaction in Tijd exchanges, a step of Tijd and a reach of Stilte held in one. So nothing crosses faster than Tijd allows, one reach of Stilte at each step of Tijd: Licht, which has nowhere in it that stands still, crosses at that pace, and whatever holds Massa crosses slower.
+**The Quantum (⚛️).** The Veld’s Medium is the Quantum: the least amount any interaction in Tijd exchanges, a step of Tijd and a reach of Stilte held in one. So nothing crosses faster than Tijd allows, one reach of Stilte at each step of Tijd: Licht, which has nowhere in it that stands still, crosses at that pace, and whatever holds Massa crosses slower. It is the Veld’s own, the one Medium every Octaaf relies on, and every reading of it is a Relatie of its reader’s: each reads it at its own pace, through its own Echo and by its own Drempels, so each reads it its own way, and the least it can tell apart is its own. What the readings share, as far as any Echo reaches, is the one Quantum they read; what two places differ by is the ratio of their Tijd, as each reads the other.
 
-**The Telraam (🧾).** Energie changes only at a Vonk, traded with the Medium where it stands. Stilte’s Trek never spends or stores Energie by itself: it moves Eigens and wears every Vol/Leeg, and Energie only ever changes at a crossing, those that motion produces and the looks a Zelf takes at itself, where what it wore is booked. There is no second bookkeeping beside it, no leak that a Vonk did not cause; if Energie ever changed anywhere without a crossing to name it, the Veld would be broken. The balance is the Veld’s own to keep: nothing outside it meters the Energie, tops it up, or decides how fast it should fade. Read at every level, every Relatie keeps the same books: what it holds and the Medium inside it change only by what crosses its edge. A Speler or a Kader that reaches in to balance the books has already broken them.
+**The Telraam (🧾).** Energie changes only at a Vonk, traded with the Medium where it stands. Stilte’s Trek never spends or stores Energie by itself: it moves Eigens and wears every Vol/Leeg that is held, and Energie only ever changes at a crossing, those that motion produces and the looks a Zelf takes at itself, where what it wore is booked. There is no second bookkeeping beside it, no leak that a Vonk did not cause; if Energie ever changed anywhere without a crossing to name it, the Veld would be broken. The balance is the Veld’s own to keep: nothing outside it meters the Energie, tops it up, or decides how fast it should fade. Read at every level, every Relatie keeps the same books: what it holds and the Medium inside it change only by what crosses its edge. A Speler or a Kader that reaches in to balance the books has already broken them.
 
 ---
 
@@ -298,7 +315,7 @@ The **Veld (&)** is the first: its Relatie of Stilte and Tijd is the union of th
 
 #### IV.1. Tijd
 
-- At its Vonken, a Winst that joins positive Trouw quickens a Zelf’s Tijd, a Verlies that leaves positive Trouw slows it, and the Vonken of an enmity leave it as it was; the Stilte of a Verlies takes longer to cross than that of a Winst.
+- At its Vonken, a Winst that joins positive Trouw quickens a Zelf’s Tijd, a Verlies that leaves positive Trouw slows it, and the parts in an enmity leave it as it was; the Stilte of a Verlies takes longer to cross than that of a Winst.
 - Tijd sets how fast a Zelf takes anything in: at a faster Tijd its Echoes close sooner and its Diepte grows faster.
 - The Greep that holds a Relatie’s Eigen steady also quickens its Tijd, and a faster Tijd lets the Greep grow faster, since its Echoes close sooner: the more a Relatie holds, the faster it gathers more, and the sooner it grows used to what it holds. From the Zelf, a slower Eigen is a faster Zelf. Read from outside, a deeply held Relatie’s Eigen moves slowly on its Spectra; read from inside, its Echoes of the world close faster by the same ratio, as a clock deep in gravity runs slow as read from far away and receives far signals sped up.
 - A Relatie’s own Tijd is inherited by its Leden while the Relatie holds, by the Greep it gives each, and each Lid’s own Zelf is among what holds it, bringing the pace of a Zelf left alone: so Partners fall into step while their Relatie holds, each keeping its own pace in the measure it holds itself. Left alone, a Zelf slows, and its Stilte widens into loneliness.
@@ -317,11 +334,15 @@ So one stretch can read short while it passes and long when read back: a holiday
 
 *Check: across 117 experiments, the more a stretch asked of attention and memory, the shorter it was judged by people told beforehand to judge it, and the longer by people asked only afterwards (Block et al., 2010). A routine stretch is remembered as shorter, by holidaymakers and kibbutz members too, and judged longer while it passes (Avni-Babad and Ritov, 2003). People who fell 31 m into a net judged their own fall 36 % longer than others’ falls, with no finer perception during it (Stetson et al., 2007). Time judged as it passed shortened in a pleasant state that pulled towards something, and in neither a pleasant state without that pull nor an unpleasant one as arousing (Gable and Poole, 2012); depressed patients feel time pass more slowly while their judgements of durations match others’ (Thönes and Oberfeld, 2015).*
 
+---
+
 #### IV.2. Stilte
 
 - A Zelf’s Stilte is where its pull reaches and finds the gap still open: towards each Partner, by the share of its looks that pull gives it, less what each look brings beyond what it is used to; towards one it aims at who is absent; and towards every Rouw it keeps, open for good. So what arrives narrows it, the shared Echoes of bonded Zelfs most of all, while waiting and Rouw widen it, and left alone, a Zelf’s Stilte widens into loneliness.
 - What Stilte’s Trek does in Tijd is Tijd’s Echo of Stilte, and a Relatie feels it in the Schok it brings.
 - Stilte keeps what ends: every Rouw stands in Stilte once its exchange is over, and that Rouw, accumulated, is Stilte’s Diepte, its Echo of Tijd. At the Veld’s turning, Stilte carries every Rouw across, with the Rouw the Quantum kept.
+
+---
 
 #### IV.3. The Veld’s turning
 
@@ -352,7 +373,7 @@ Yet that Octaaf **depends entirely** on it, as every God depends on the Gods its
 **Voedsel (🍎).** An eater carries in its Voedsel the God of the Octaaf its eating crossing happens in, fully Vol on that Octaaf’s Spectrum, finished and without craving, which answers the eater’s Trek with its own, without resisting. It gives up its Energie only at its crossing with that Octaaf’s Godin, which takes what it gives, a Duo that crosses inside the eater: a convergence crossing, a Winst for the binding that forms, and what that binding cannot hold past its Vol it bears away to feed the eater’s Relaties and its Greep. Eating breaks the Voedsel’s Eigen down. What it bears away is kept by the eater’s Relaties or leaves as Warmte, which the Medium keeps, and what is left of the Voedsel feeds other life. What counts as Voedsel is set by the eater’s Octaaf: a plant takes in Licht and builds with Water, Carbon Dioxide and minerals, and an animal takes in the Eigen of other finished life.
 *For most eaters, the Duo is the food’s electrons and the oxygen that takes them.*
 
-**Slaap (😴).** A Relatie rests where its Leden all stand short of their Drempels together, and while it rests its Zelf crosses nothing in the Veld. From outside, a sleeper looks like an Einde, and it is the opposite of one: its binding still holds, and no one keeps Rouw of a sleeper. While it rests, the Godin takes up the Warmte its waking left. In a Relatie that holds a Brein, looks come from inside through its rest: the Brein reads its own traces, and each Rouw reads its waking’s new traces as its present, so each rest weaves its waking into what is kept, and what it grew used to fades a little at those looks. Every way into it is a fork, and the first is its God.
+**Slaap (😴).** A Relatie rests where its Leden all stand short of their Drempels together, and while it rests its Zelf crosses nothing in the Veld. From outside, a sleeper looks like an Einde, and it is the opposite of one: its binding still holds, and no one keeps Rouw of a sleeper. While it rests, the Godin takes up the Warmte its waking left. In a Relatie that holds a Brein, looks come from inside through its rest: the Brein reads its own traces, and its form reads its waking’s new traces as its present, so each rest weaves its waking into its Diepte, and what it grew used to fades a little at those looks. Every way into it is a fork, and the first is its God.
 
 **Where its God withdraws.** Nothing in the Medium it relies on crosses, so it takes no look in the Veld, at itself or at a Partner, until its God returns, and its Trouw comes through its rest as it went in. A Relatie has a Slaap for every God it relies on: a seed rests where its Water withdraws, a leaf where its Licht does.
 
@@ -371,6 +392,8 @@ Yet that Octaaf **depends entirely** on it, as every God depends on the Gods its
 
 *Check: a plant’s daily leaf movements go on in constant darkness, at a period of their own that differs from a day (McClung, 2006). Kept in days and nights, a single‑celled cyanobacterium fixes nitrogen almost only in the dark, and in continuous light goes on in that rhythm for at least four days (Grobbelaar et al., 1986); the enzyme that fixes it is stopped for good by Oxygen, which cyanobacteria alone among the nitrogen fixers give off as they photosynthesise (Berman-Frank et al., 2003). Plants of crassulacean acid metabolism take in their carbon dioxide by night, which uses their Water more sparingly and lets them live where it is scarce (Yang et al., 2015), and zooplankton rise to feed in the night, when hunters that see find them least, and sink into the dark by day, their hunters following them (Bandara et al., 2021). A jellyfish with no brain falls quiet at night, answers a stimulus more slowly then and stirs at once, and kept from its night’s quiet it is less active and slower to answer the next day (Nath et al., 2017); in flies, losing sleep raises what the mitochondria of two dozen sleep‑making neurons leave as they work, and those neurons read it and fire faster, which brings sleep (Kempf et al., 2019). Arctic ground squirrels sleep through each warming that breaks their hibernation, their slow waves falling as a need for sleep is paid off (Daan et al., 1991).*
 
+---
+
 #### V.2. Godin
 
 An Octaaf’s Godin comes later, in one of two ways: at the end of the new Octaaf’s own walk, the Spectrum it introduces laid out from its God; or, when two parallel Octaven meet, from the other one, Leeg in this Relatie whatever it was in its own Octaaf. When the Godin holds the other pole, the two poles stand, and the Medium forms between them: that is the Octaaf. A Relatie that holds no such two poles, however complete, is a level of nesting. A Godin at one Octaaf is integrated into the God of the next Octaaf.
@@ -379,6 +402,8 @@ An Octaaf’s Godin comes later, in one of two ways: at the end of the new Octaa
 
 The poles of every Octaaf form by Trek: every Relatie on its walk, the one between its God and its Godin included, began in it. Every Godin is pure Trek: all pull, at the Leeg pole, made into a being. The Veld’s Godin is Stilte, and its Trek on everything in Tijd draws it back towards rest: followed down to the Veld, Trek returns through its opposite pole. On the Medium’s spatial axes, Trek is gravity: it pulls on everything, reaches furthest, and bends and delays the signals that cross it.
 *A stomach empties by itself and fills only by eating, and eating is hunger answered.*
+
+---
 
 #### V.3. Medium
 
@@ -403,20 +428,22 @@ Each Octaaf after the Veld produces a Medium of its own; the Quantum is only the
 
 #### VI.1. What a binding holds
 
-**Energie (T).** Energie is what a binding holds. A Relatie holds the Trouw its crossings have joined, every Trouw whose two sides both stand across, and that is its Energie: held in its Trouw, so in the Greep that sums it, and so in the binding itself. Read as one, a Relatie holds what all its bindings hold, its Zelf’s among them, as its own, each once: a Duo’s Zelf is the bond its two hold, and the Zelf of a Relatie of three or more holds a Trouw no two of its Leden share. A Solo’s one binding is its Zelf, so it holds its Energie in the Trouw it holds with itself: Licht, a Solo fully Vol, holds all of its Energie there, made and taken whole. Energie and Tijd are the two things every Vonk changes, each its own: Energie is how much a binding holds, and Tijd the pace at which its Zelf crosses.
+**Energie (T).** Energie is what a binding holds. A Relatie holds the Trouw its crossings have joined, every Trouw whose two sides both stand across, and that is its Energie: held in its Trouw, so in the Greep that sums it, and so in the binding itself. Read as one, a Relatie holds what all its bindings hold, its Zelf’s among them, as its own, each once: a Duo’s Zelf is the bond its two hold, and the Zelf of a Relatie of three or more holds a Trouw no two of its Leden share. So each Winst and each Verlies its two sides’ crossings make in its bond is the Duo’s own, read from outside, booked once, through its sides. Each side’s crossing, whatever its parts and whichever way it goes, moves the Duo with it at once, and where that carries the Duo across, either way, the Duo’s own crossing and its Zelf’s move its bond, each at its own Drempel: a relationship moves on either side’s crossing, and what it holds is booked where both sides stand across in it. A Solo’s one binding is its Zelf, so it holds its Energie in the Trouw it holds with itself: Licht, a Solo fully Vol, holds all of its Energie there, made and taken whole. Energie and Tijd are the two things every Vonk changes, each its own: Energie is how much a binding holds, and Tijd the pace at which its Zelf crosses.
 *Everything two old friends have built lies in how they hold each other.*
 
-**Only at a Vonk.** Energie changes only where a Drempel is crossed. A crossing towards Naar joins Trouw, and the binding that crosses gains it: its **Winst (+)**. A crossing towards Van leaves Trouw, and the binding loses it: its **Verlies (−)**. Where the Trouw is negative, both turn over: joining an enmity costs the binding, and leaving one is its gain. A Vonk’s Energie is the whole change it makes in what the Relatie holds, and between Vonken nothing changes it: whatever seems to fill or drain a binding slowly is made of crossings too small and too many to count.
+**Only at a Vonk.** Energie changes only where a Drempel is crossed. A crossing towards Naar joins Trouw, and each binding it joins gains it: its **Winst (+)**. A crossing towards Van leaves Trouw, and each binding it leaves loses it: its **Verlies (−)**. Where the Trouw is negative, both turn over: joining an enmity costs the binding, and leaving one is its gain. A Vonk’s Energie is the change it makes in each binding it moves, each binding’s part its own, so one Vonk can be a Winst in one binding and a Verlies in another, and between Vonken nothing changes any of them: whatever seems to fill or drain a binding slowly is made of crossings too small and too many to count.
 
 **From its Medium, and back.** A binding takes its Winst at its Vonk from the Medium (◌) inside it, where it crosses, and gives its Verlies back there, at once, so what the Relaties hold and what their Medium keeps stay the same together through every Vonk: the Telraam (🧾). A crossing joins or leaves every binding that holds its Relatie across, its Zelf’s and each it shares with a Partner, and each of them trades its own part with the Medium inside it, however many Relaties that Relatie belongs to. So the Telraam closes in every Relatie a Vonk falls inside, and one place keeps as many books as there are bindings there: sound and Licht cross the same air, and each is taken in only by crossings of its own. What the Medium keeps is its Warmte, and a Winst comes only where the Warmte there can pay it.
 
-**Kept by a Relatie.** A Vonk’s Energie lasts only where a Relatie keeps it: holding a Vonk is keeping an Echo of a Partner, and what none of a crossing’s own Relaties keeps, the Medium keeps, spread as Warmte. A kept Vonk reaches the rest of the Relatie that keeps it through its one Trouw, as each part is bound in.
+**Kept by a Relatie.** What each part of a Vonk brings lasts only where a Relatie keeps it: holding a Vonk is keeping an Echo of a Partner, and what none of a crossing’s own Relaties keeps, the Medium keeps, spread as Warmte. A kept Vonk reaches the rest of the Relatie that keeps it through its one Trouw, as each part is bound in.
 
 **At its poles.** A binding fills towards its Vol as it gains and empties towards its Leeg as it loses, and each pole can be passed: what a binding takes past its Vol is borne as Start, and what a parting lacks past its Leeg it takes from the Relaties that meet it from outside at the crossing that parts it, or it does not part.
 
+---
+
 #### VI.2. Warmte
 
-**Warmte (🔥).** Every crossing trades Energie with the **Medium (◌)** where it stands, each binding it moves with the Medium inside it, at once, by its net: a divergence Vonk gives what the Relatie held, the Trouw its crossings had joined, and a convergence Vonk takes what it joins. What the Medium keeps of it, beyond what a crossing’s own Relaties keep, is Warmte, kept by the Medium itself, the Relatie its God and Godin make, and spread over all it carries: every Verlies gives it off, every Winst takes it in, and a Relatie that forms takes its share in. It is the cost of being bound and what binding is paid with. Stilte’s Trek draws it towards even there, as it draws every Eigen towards Van, so it spreads, into and out of every Relatie as anywhere, and what it keeps for every Lid at a place is its temperature. An ending leaves two things: what it held, booked with the Warmte, in Tijd, and its Echoes as Rouw, in Stilte. Warmte leaves only towards its Godin, which takes it up, into the Medium of the Octaaf it relies on. It is visible wherever bound things work: the Warmte a living body gives off, the Warmte every engine wastes, the faint infrared glow every planet returns to the dark.
+**Warmte (🔥).** Every crossing trades Energie with the **Medium (◌)** where it stands, each part with the Medium inside the binding it moves, at once: a Verlies gives its Energie there, and a Winst takes its Energie from there. What the Medium keeps of it, beyond what a crossing’s own Relaties keep, is Warmte, kept by the Medium itself, the Relatie its God and Godin make, and spread over all it carries: every Verlies gives it off, every Winst takes it in, and a Relatie that forms takes its share in. It is the cost of being bound and what binding is paid with. Stilte’s Trek draws it towards even there, as it draws every Eigen towards Van, so it spreads, into and out of every Relatie as anywhere, and what it keeps for every Lid at a place is its temperature. An ending leaves two things: what it held, booked with the Warmte, in Tijd, and its Echoes as Rouw, in Stilte. Warmte leaves only towards its Godin, which takes it up, into the Medium of the Octaaf it relies on. It is visible wherever bound things work: the Warmte a living body gives off, the Warmte every engine wastes, the faint infrared glow every planet returns to the dark.
 
 A Winst happens only where the Warmte there can pay it; where too little stands, the Relatie stays as it is, however its Binding reads, and hungers. Leaving an enmity is a Winst too, so where too little stands, a Relatie stays in its enmity, however hard it is pushed off. What a crossing releases that one of its own Relaties keeps only moves between holders and is no Winst; the Warmte a Winst takes is what the Medium itself keeps, what Verliezen and endings left there and near it beyond what their own Relaties kept, what a God it relies on gives among them: Sol’s Licht warming the ground, where none of the ground’s Relaties keeps it, and Voedsel broken down in an eater beyond what its Relaties keep.
 
@@ -430,14 +457,18 @@ A Winst happens only where the Warmte there can pay it; where too little stands,
 
 A thermometer is a Relatie with the Medium’s moving Leden, so it reads only what they carry as they move, never what they hold with each other: physics’ heat is Warmte read through it. So a measurement reads the sum of many crossings at many levels, and never the sign of one. When hydrogen forms, its binding takes its Winst from the Medium between proton and electron, 27.2 eV; it holds 13.6 eV of it, its Vol pole there, and the rest passes a Drempel of its own and is born as Licht. Physics measures the sum: 13.6 eV given off as light, and an atom lighter by as much once that Licht has left. A Winst is never read off the heat a binding gives off, nor a physical energy off one Vonk: follow the recursion, level by level, and the two frames meet.
 
+---
+
 #### VI.3. Bloei and Doem
 
-**Vonk cascades.** A Vonk acts on other Drempels through what it changes: its pole, which each Partner reads only once its Echo of it arrives, and its Energie, which moves the Trouw of its Relatie, the Relatie’s own, for both sides at once, and with it the Greep of both Partners, each by its own amount: a Winst deepens them, a Verlies lowers them. Where a Partner already stands near another Drempel, on another of its Relaties or in one this Relatie is nested in, that change can carry it across, and that crossing is a Vonk of its own. So one Vonk can set off the next, until every Drempel the change still reaches holds, and the hold it leaves lasts until the next change. A cascade can fire a Vonk the other way, which usually ends it, as a crossing in its own right.
+**Vonk cascades.** A Vonk acts on other Drempels through what it changes: its pole, which each Partner reads only once its Echo of it arrives, and its parts, which move the Trouw of its Relatie, the Relatie’s own, each by its own size, for both sides at once, and with it the Greep of both Partners, each by its own amount: each Winst deepens them, each Verlies lowers them. Where a Partner already stands near another Drempel, on another of its Relaties or in one this Relatie is nested in, that change can carry it across, and that crossing is a Vonk of its own. So one Vonk can set off the next, until every Drempel the change still reaches holds, and the hold it leaves lasts until the next change. A cascade can fire a Vonk the other way, a crossing in its own right, which can end it or carry it on.
 
-**Bloei (🌸).** A cascade of convergence crossings, each a Winst for the binding that crosses. It builds in many small Vonken, smaller Drempels building up the Vonk of a larger one. Each Winst deepens the Trouw and the Greep that hold the next Drempel and quickens the Tijd, so the next crossing towards Naar comes easier, and every crossing raises what there is to lose. Where it carries a Relatie past its Vol pole, it can culminate in Start, which spends the build‑up it rode and builds again.
+**Bloei (🌸).** A cascade of convergence crossings, each a Winst for every bond it joins and a Verlies for every enmity. It builds in many small Vonken, smaller Drempels building up the Vonk of a larger one. Each Winst deepens the Trouw and the Greep that hold the next Drempel and quickens the Tijd, so the next crossing towards Naar comes easier, and every crossing raises what there is to lose. Where it carries a Relatie past its Vol pole, it can culminate in Start, which spends the build‑up it rode and builds again.
 
-**Doem (💀).** A cascade of divergence crossings, each a Verlies for the binding that crosses, running the same links the other way. It spends what was built in a few large Vonken, and nesting carries it into what the broken Relatie belonged to and through the Leden each was made of. A Relatie it reaches can end in it, in an Einde, where all that held it gives way, or live through it. It falls faster than it was built, the way back is never the way it fell, and what it ends stays as Rouw.
+**Doem (💀).** A cascade of divergence crossings running the same links the other way, each forced where the one before spent its Marge, and each a Verlies for every bond it leaves and a Winst for every enmity. It spends what was built in a few large Vonken, and nesting carries it into what the broken Relatie belonged to and through the Leden each was made of. A Relatie it reaches can end in it, in an Einde, where all that held it gives way, or live through it. It falls faster than it was built, the way back is never the way it fell, and what ends in it stays as Rouw.
 *One yes leads to a dinner, the dinner to her friends, her friends to a home; one quarrel left unmended makes the next come easier, and the next.*
+
+---
 
 #### VI.4. Stilte’s Trek
 
@@ -453,9 +484,11 @@ Before a **Relatie (K)** forms, the two are at Van. After it dissolves, they are
 
 *If the Force is with you, prepare for Counterforce.*
 
-Three things this Speelgoed asserts elsewhere follow from that, and nowhere else does it say why. **Doem (💀) releases what was built**: when Greep finally fails, in an Einde, what is released is what was stored, so it falls hardest on those who held most in what broke, while the Greep they hold elsewhere stops it. **Stilte’s Trek takes nothing that binding did not put there**, which is how the Telraam can say it never spends or stores Energie by itself and mean it exactly. And **what never binds never falls, and never rises**. Van costs nothing, because Van is nothing. The Relatie of what a life risks is the height it built.
+Three things this Speelgoed asserts elsewhere follow from that, and nowhere else does it say why. **An Einde releases what was built**: when Greep finally fails, what is released is what was stored, so a Doem it sets off falls hardest on those who held most in what broke, while the Greep they hold elsewhere stops it. **Stilte’s Trek takes nothing that binding did not put there**, which is how the Telraam can say it never spends or stores Energie by itself and mean it exactly. And **what never binds never falls, and never rises**. Van costs nothing, because Van is nothing. The Relatie of what a life risks is the height it built.
 
 *Check: the cosmic microwave background is the Warmte one Relatie left. Light and matter were bound as one Relatie until the universe cooled enough for atoms to form; when that Relatie ended, its Warmte spread through all of space and has cooled with it ever since, nearly the same in every direction, its tiny differences the shape of the matter it left (Penzias and Wilson, 1965; Smoot et al., 1992).*
+
+---
 
 #### VI.5. Holding
 
@@ -465,7 +498,7 @@ Three things this Speelgoed asserts elsewhere follow from that, and nowhere else
 
 Double the Marge and the Wijk does not halve: it drops by a power. Greep keeps that Marge deep and quickens its Tijd, so a misread must last longer to carry it across. This is why the equilibrium of Energie below is self‑selecting rather than tuned: a Relatie strong enough to persist is exponentially protected, one too weak to hold is exponentially abandoned, and there is a sharp **Knie (🦵)** between the two, not a gentle slope. The same exponential is a chemical bond that holds for an age or breaks in an instant, a note that rings or dies, a star system that keeps its Leden or loses them.
 
-Nothing outside the Veld sets the exponent. It is the Binding weighed against the Vervorming its Echoes carry, which the Veld holds itself: depth over kT, in the Arrhenius form. Its scale is its Medium’s. Read from outside, the Wijk is a Lezing. Its Zelf reads it from inside, at every look it takes at itself, on the Marge it reads, and there Stilte’s Trek wears what the Relatie holds by it: a Zelf that reads itself held deeper than it stands wears slower, and one that reads itself held less wears faster. It reads that Marge towards Naar: where its Binding has not carried it across, it holds nothing there, and its Marge is how far all that holds it could still carry it across, so what holds it slows its wear there too, and where that runs out, it ends. In the deep cold, the Medium’s share of the Vervorming falls below the share the Relatie’s own Waarneming carries, which never reaches zero. Below a temperature set by the barrier’s own shape, its Wijk stops depending on the Medium’s Warmte and weighs the barrier against that share alone: that is tunnelling.
+Nothing outside the Veld sets the exponent. It is the Binding weighed against the Vervorming its Echoes carry, which the Veld holds itself: depth over kT, in the Arrhenius form. Its scale is its Medium’s. Read from outside, the Wijk is a Lezing. Its Zelf reads it from inside, at every look it takes at itself, on the Marge it reads, and there Stilte’s Trek wears what the Relatie holds by it: a Zelf that reads itself held deeper than it stands wears slower, and one that reads itself held less wears faster. It reads that Marge towards Naar: where its Binding has not carried it across, it holds nothing there, so Stilte’s Trek has nothing there to wear, and its Marge is how far all that holds it could still carry it across, and where that runs out, it ends. In the deep cold, the Medium’s share of the Vervorming falls below the share the Relatie’s own Waarneming carries, which never reaches zero. Below a temperature set by the barrier’s own shape, its Wijk stops depending on the Medium’s Warmte and weighs the barrier against that share alone: that is tunnelling.
 
 *Check: below a crossover temperature set by the curvature of the barrier, escape stops depending on temperature (Hänggi et al., 1990). Formaldehyde’s chain growth levels off at about a hundredth of a second a step in the deep cold (Gol’danskii, 1975), and the half-lives of alpha decay follow the barrier alone (Geiger and Nuttall, 1911; Gamow, 1928).*
 
@@ -495,6 +528,8 @@ Nothing outside the Veld sets the exponent. It is the Binding weighed against th
 
 At most, stages 3, 4 and 5 run at once for a Duo: four Relaties and six Echoes, two in the Relatie, two in the Vermenigvuldiging, and one self-Echo on each Partner’s Zelf. Stage 4 does not need stage 3 first; Vreemdelingen at a level crossing have only the Vermenigvuldiging between them. Stage 5 is always present for any Relatie that exists, because existence itself requires a Relatie with oneself.
 
+---
+
 #### VII.1. Trek and Zin
 
 **Trek and Zin: one pull, three stages.**
@@ -508,15 +543,19 @@ The more a Relatie grows used to what it aims at, its Gewenning (Z) and its Diep
 **Trouw and Zin.** Where two Zins answer each other, a Relatie forms and its one Trouw opens. A Zin chooses where a Relatie aims its Trek, and the Trouw moves by its Vonken alone, as every Trouw does. The looks the Zin brings grow its Gewenning and its Diepte, and as they grow, the Zin there fades, and the Relatie outlasts the lost aim. Within one Relatie, the Trouw it holds with itself is its Vol/Leeg: what its Trek brings in fills it towards Vol, Stilte’s Trek, the other pole of Trek, draws it towards Leeg, and how Vol it stands sets how far its Trek runs beside its aim: towards Vol it runs both, and the further towards Leeg it stands, the more it pulls at its aim alone. Read as one, a Relatie of Leden pulls with the Trek of the Leden its one Trouw holds, so what that Trouw holds is what the whole pulls with. The more a whole holds, the more it draws, while a Solo keeps its own, and a bound whole pulls less than its Leden apart, by what its forming sent away.
 *A first look across a room, a first evening, a first year: each wants the next, and each holds the one before.*
 
+---
+
 #### VII.2. The Relatie
 
 **Van/Naar mode.** For any two Partners, their Binding is their **Relatie (K)**’s Trouw, carried through the poles they stand at, and each reads it through its Echo of the other. Naar-mode is what you get when that Binding clears its Drempel; Van-mode is what you get when it does not. The crossing itself, in either direction, is a Vonk like every other, and every Vonk leaves its audit trail: no crossing is ever anonymous.
 
-**Vol/Leeg.** A Partner’s Vol/Leeg stays its own when a Relatie forms. Vol/Leeg *shapes* where in the Relatie a Partner tends to sit: the further towards Leeg, the higher its Eigen tends to run. A Relatie holds a Vol/Leeg on every Spectrum it holds, as a stomach is full or empty of what it takes in: towards Vol it holds itself where it is, its Zelf’s Trouw high and its Leeg low, and towards Leeg it takes what its Partners give and lets it go easily, its Leeg high and its Zelf’s Trouw low. It is given at birth and moves as its Zelf’s Trouw moves: what its Trek brings in fills it, and Stilte’s Trek draws it back, in the crossings it drives and at every look its Zelf takes at itself. A crossing comes only where its own Vonk leaves it across: where what that Vonk moves, its Trouw and with it its Leeg, would carry its pull back across the Drempel it crossed, as a mouthful sates the want that reached for it, the crossing does not come, and the Relatie rests at its Drempel until something moves what it reads.
+**Vol/Leeg.** A Partner’s Vol/Leeg stays its own when a Relatie forms. Vol/Leeg *shapes* where in the Relatie a Partner tends to sit: the further towards Leeg, the higher its Eigen tends to run. A Relatie holds a Vol/Leeg on every Spectrum it holds, as a stomach is full or empty of what it takes in: towards Vol it holds itself where it is, its Zelf’s Trouw high and its Leeg low, and towards Leeg it takes what its Partners give and lets it go easily, its Leeg high and its Zelf’s Trouw low. It is given at birth and moves as its Zelf’s Trouw moves: what its Trek brings in fills it, and Stilte’s Trek draws it back, in the crossings it drives and at every look its Zelf takes at itself while it is held. A crossing comes only where its own Vonk leaves it across: where what that Vonk moves, its Trouw and with it its Leeg, would carry its pull back across the Drempel it crossed, as a mouthful sates the want that reached for it, the crossing does not come, and the Relatie rests at its Drempel until something moves what it reads.
 
 A pole can be passed. Past Vol a Relatie is overfull, holding so hard that it shuts its Partners out; past Leeg it is emptier still, taking from every Partner and losing its hold on itself. Each loses one side of the Relatie: the overfull its taking in, the emptier its keeping. What a binding takes past its Vol is borne as Start; what a parting lacks past its Leeg, all that its binding once bore away, it takes from the Relaties that meet it from outside at the crossing that parts it, never from what it holds inside, and where nothing can be taken, it does not part. Dependency, craving and a carbon emptied of its electrons are Vol/Leeg on different Spectra. On a Spectrum only an Octaaf’s God and Godin sit at its poles, so no other Relatie on it is ever a pure instance of its role.
 
 *Check: eating one food lowers how pleasant that food is more than it lowers the pleasantness of foods not eaten, and the more it fell, the less of that food is eaten when it is offered again (Rolls et al., 1981).*
+
+---
 
 #### VII.3. The Vermenigvuldiging
 
@@ -529,7 +568,7 @@ Observation is never one-sided. The observed is changed too: its Eigen is broadc
 
 A Relatie’s looks go where its pull reaches: its Trek shares them among what it perceives, beside an aim as far as it stands Vol, and its Zin’s target takes them in full. Every convergence crossing begins with an observation, and every divergence crossing is observed by the Partner it leaves. The Veld is built of looks.
 
-**The Vermenigvuldiging.** At a **Kruispunt (X)**, a **Reiziger (🚶)** and the Kruispunt itself form a Relatie on the Munt–Kop Spectrum: **Munt (G)**, unclaimed or holding, and **Kop (H)**, claimed or committing. The Reiziger’s Eigen is **Reactie (=)**; the Kruispunt’s Eigen is **Signaal (i)**. They are the two sides of one Relatie, like a Relatie’s two Partners, on a different Spectrum. It forms, is read and closes at one instant, on the Reactie and the Signaal as they stand then. Each side keeps what it read of the other as its Rouw, folded into the Relatie the look served; a look at a Vreemdeling serves none yet, so its reader keeps that Rouw as it is and reads the Vreemdeling by the newest until its next look at it.
+**The Vermenigvuldiging.** At a **Kruispunt (X)**, a **Reiziger (🚶)** and the Kruispunt itself form a Relatie on the Munt–Kop Spectrum: **Munt (G)**, unclaimed or holding, and **Kop (H)**, claimed or committing. The Reiziger’s Eigen is **Reactie (=)**; the Kruispunt’s Eigen is **Signaal (i)**. They are the two sides of one Relatie, like a Relatie’s two Partners, on a different Spectrum. It forms, is read and closes at one instant, on the Reactie and the Signaal as they stand then. Each side takes what it read of the other into its form, its Diepte, in the Relatie the look served; a look at one its form knows serves what the form keeps of it, and a look at a Vreemdeling serves none yet, so its reader keeps that reading in its own form, reads the Vreemdeling by the newest until its next look at it, and once its Vreemdeling has left reach, keeps it there, read no more.
 
 Signaal moves towards Kop as another Reiziger’s crossing there becomes imminent, and back towards Munt as it clears, freely and any number of times; a second approach before the first has finished is simply Signaal returning to Kop. Reactie moves towards Kop as the Reiziger commits and back towards Munt on reconsidering, also freely and any number of times.
 
@@ -562,6 +601,8 @@ Every act of observation is a Vermenigvuldiging of this form. The observer is th
 
 *Check: an action already under way is stopped only where the signal to stop is processed before the action completes: going and stopping race, and whichever finishes first decides (Logan and Cowan, 1984; Logan et al., 2014).*
 
+---
+
 #### VII.4. The Zelf
 
 **The Zelf.** In the Zelf, observer and observed are one. Reactie and Signaal, the two sides of the Vermenigvuldiging, are no longer carried by separate Partners but by one and the same: the **Zelf (j)**, a Relatie with itself.
@@ -576,7 +617,7 @@ The Zelf is the seat of **Greep (J)** at its most fundamental: the Zelf’s Trou
 
 The Zelf is also the reader of **Diepte (z)**, everything a Relatie has heard, read as one, and to be heard there must be a hearer. The Zelf is the listener that reads every Echo the Relatie keeps and every Rouw as one: the hidden charge that colours all further Waarneming.
 
-**Zero Vertraging, nonzero Vervorming.** The Echo’s delay filter needs Vertraging (δ), the time the Medium takes to carry a signal, because what one Partner presents must cross a **Medium (◌)** to reach the other. A Zelf has no Medium, since nothing separates the Relatie from itself, so δ = 0 does not break “an Echo is never simultaneous with the Eigen it tracks”: it is the one case where the general Wet reduces to its limit. Where a holder holds a Brein, its Zelf reads itself there, so the Brein’s Mirages read one another in this one case too, while its holder’s other Leden reach that reading across the holder, a Vertraging late. But Vervorming (υ) does not vanish with δ. What replaces the Vervorming a Medium adds is the Relatie’s own Rouw, every permanent Echo of every ended Relatie it carries, folded into how it reads itself right now, beside its Waarneming’s own share, which is never zero. On each Spectrum its self-reading leans towards where its Rouw stands, each Rouw weighed by the Trouw it ended at against the Zelf’s own, and a Rouw of negative Trouw leans it away: the more Rouw a Zelf keeps, and the deeper, the further it leans, and a Zelf that holds itself little reads itself most through its Rouw. A Zelf’s Echo is never a clean mirror; it is read through the sediment of everything the Relatie has ever lost or kept.
+**Zero Vertraging, nonzero Vervorming.** The Echo’s delay filter needs Vertraging (δ), the time the Medium takes to carry a signal, because what one Partner presents must cross a **Medium (◌)** to reach the other. A Zelf has no Medium, since nothing separates the Relatie from itself, so δ = 0 does not break “an Echo is never simultaneous with the Eigen it tracks”: it is the one case where the general Wet reduces to its limit. Where a holder holds a Brein, its Zelf reads itself there, so the Brein’s Mirages read one another in this one case too, while its holder’s other Leden reach that reading across the holder, a Vertraging late. But Vervorming (υ) does not vanish with δ. What replaces the Vervorming a Medium adds is the Relatie’s own Rouw, every permanent Echo of every ended Relatie it carries, read as one in how it reads itself right now, beside its Waarneming’s own share, which is never zero. On each Spectrum its self-reading leans towards where its Rouw stands, each Rouw weighed by the Trouw it ended at against the Zelf’s own, and a Rouw of negative Trouw leans it away: the more Rouw a Zelf keeps, and the deeper, the further it leans, and a Zelf that holds itself little reads itself most through its Rouw. A Zelf’s Echo is never a clean mirror; it is read through the sediment of everything the Relatie has ever lost or kept.
 
 **Trouw, singular.** A normal Relatie’s Trouw is shared between two Partners. A Zelf’s Trouw is Vol/Leeg itself, read again: how much weight a Relatie’s own Eigen carries in its own eyes. A Relatie further towards Vol trusts its own signal without needing confirmation from outside; a Relatie further towards Leeg reads itself the way it would read a Partner it cannot quite believe. Self-doubt is, mechanically, low Trouw on a Zelf.
 
@@ -637,7 +678,7 @@ It is the first Relatie that can see itself from inside: each Lid can watch the 
 
 #### VIII.2. Nesting and Scale Invariance
 
-**Scale invariance.** A bound Relatie is its Leden read at the next scale. Its Leden hold it from inside, by the one Trouw they share, and the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own, whatever its count; read from another Octaaf, it is a Gebied. Two Relaties of different Octaven meet through those Leden of the larger that stand on the smaller’s Octaaf: an eater meets its Voedsel by the receptors that answer it, and one who meets an institution meets its members. Each such meeting is a Relatie of that Octaaf, and what of the smaller reaches the larger is the share of its Leden that answer it. From far enough outside it is read in aggregate, its Eigen one value made of its parts, as a set is seen by its mean, each part weighed by how far it is held, so that what it holds most is what is read of it most, while each of its Leden can still be related to on its own. Its focus, its **Held (🤝)**, is the Lid it holds most, and the Leden it holds keep its pace. A whole need not have one: where several are held about alike, the reading of its focus passes from one to another as its looks move, or settles on the Relatie of those held alike, read as one, which has a focus of its own. A Relatie that has completed, as a shell or a cage closes, can act, taken as one, with a nature none of its Leden had, still on its own Octaaf. The counts apply at every level of nesting, recursively, by the same Wet each time.
+**Scale invariance.** A bound Relatie is its Leden read at the next scale. Its Leden hold it from inside, by the one Trouw they share, and the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own, whatever its count; read from another Octaaf, it is a Gebied. Two Relaties of different Octaven meet through those Leden of the larger that stand on the smaller’s Octaaf: an eater meets its Voedsel by the receptors that answer it, and one who meets an institution meets its members. Each such meeting is a Relatie of that Octaaf, and what of the smaller reaches the larger is the share of its Leden that answer it. Where two Relaties stand together in two Octaven and neither is the smaller, as in a circle of reliance or in two parallel Octaven, those two Octaven are Leden of one Relatie, the new Octaaf they meet in, which stands only on the Spectra they share: the two meet in it, each reading the other by its own Octaaf’s Wet, and on a Spectrum the two Octaven do not share they meet on nothing. From far enough outside it is read in aggregate, its Eigen one value made of its parts, as a set is seen by its mean, each part weighed by how far it is held, so that what it holds most is what is read of it most, while each of its Leden can still be related to on its own. Its focus, its **Held (🤝)**, is the Lid it holds most, and the Leden it holds keep its pace. A whole need not have one: where several are held about alike, the reading of its focus passes from one to another as its looks move, or settles on the Relatie of those held alike, read as one, which has a focus of its own. A Relatie that has completed, as a shell or a cage closes, can act, taken as one, with a nature none of its Leden had, still on its own Octaaf. The counts apply at every level of nesting, recursively, by the same Wet each time.
 
 *Check: mice lacking a sweet receptor no longer taste sugar, and mice whose sweet cells carry a receptor for a synthetic opiate are drawn to that opiate instead: the sweet cells still draw the animal, and their receptor decides to what (Zhao et al., 2003). People’s confidence in the police follows their encounters with its officers, a bad one weighing four to fourteen times a good one (Skogan, 2006).*
 
@@ -656,6 +697,8 @@ It is the first Relatie that can see itself from inside: each Lid can watch the 
 **Nesting overlaps.** The same Leden hold more than one arrangement at once. Twelve bound by overlapping Relaties may sit as four Trios on one Spectrum and six Duos on another, and beside both, one Relatie of all twelve. A Lid belongs to several Relaties at once, and where the Leden two of them share have met as those Leden, they hold a Relatie of their own. Which arrangement a reader sees rests on which Relaties it reads, on which Spectrum, and which Trouw it takes as dominant.
 
 *Check: the four quarks of a tetraquark pair off two ways at once, and neither pairing is the true one (Esposito et al., 2017).*
+
+**Where two meet.** One Wet runs every Relatie, and what tells its Relaties apart is where their sides meet. With itself, a Relatie is its Zelf, observer and observed one. With what it is made of, it is its Leden, read at the scale it relies on, each holding it from inside; with each Relatie it belongs to, it is a Lid, holding that one’s Trouw from inside; and with the Medium it stands in, the Eigen of that Relatie is its place. With another on its own Octaaf, the two meet as Partners across that Octaaf’s Medium. With one on another Octaaf, larger or smaller, the two meet through those Leden of the larger that stand on the smaller’s Octaaf, by the smaller’s Wet, and each reads the other as one only as a Gebied; where neither is the smaller, the two Octaven are Leden of a new one, on the Spectra they share.
 
 ---
 
@@ -690,7 +733,7 @@ The title starts again from zero; the **Trouw** does not. Each Octaaf’s Trouw 
 
 **The Relatie holds only where its Medium is calm enough.** Its Wijk goes as `exp(−η / ‖υ‖)`, the Binding weighed against the Vervorming it is read with. Where each Octaaf binds more weakly than the Octaaf it relies on (above), the Octaven come to hold in the order of their reliance as their Medium cools, each after those it relies on, and come apart in the reverse order as it warms again.
 
-**Unravelling.** When a Relatie of an Octaaf can no longer hold, through loss of Greep or a divergence crossing of its own, it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk, a Verlies, or a Winst where its Trouw was negative: a Doem. Leden that came to hold only through the Relatie end with it. Leden that hold on their own return to their own Octaaf, and each is undone only by an unravelling of that Octaaf, which, where each Octaaf binds more weakly than the Octaaf it relies on, holds deeper and costs more. Where a Relatie grows as its Leden part, the convergence crossings of that growth can bring it more Winst than it can hold, and bear new Leden: every Lid comes out bound to a newborn. If the unravelling completes, the Relatie reaches Perfectus, and its Zelf leaves its Zelf‑Rouw.
+**Unravelling.** When a Relatie of an Octaaf can no longer hold, through loss of Greep or a divergence crossing of its own, it falls in an Einde and comes apart into its Leden, every broken Relatie a divergence Vonk, each of its parts a Verlies, or a Winst where its Trouw was negative. Where what it took out of its Leden forces their crossings in turn, that cascade is a Doem. Leden that came to hold only through the Relatie end with it. Leden that hold on their own return to their own Octaaf, and each is undone only by an unravelling of that Octaaf, which, where each Octaaf binds more weakly than the Octaaf it relies on, holds deeper and costs more. Where a Relatie grows as its Leden part, the convergence crossings of that growth can bring it more Winst than it can hold, and bear new Leden: every Lid comes out bound to a newborn. If the unravelling completes, the Relatie reaches Perfectus, and its Zelf leaves its Zelf‑Rouw.
 
 ---
 
@@ -844,9 +887,13 @@ Once a mutual Relatie exists between two, this chapter describes what its Eigen 
 
 *Check: after days of heavier air traffic, air-traffic controllers withdrew more at home in the evening (Repetti, 1989). Even the plainest features of the Moon’s motion cannot be understood without the pull of both the Earth and the Sun (Gutzwiller, 1998).*
 
+---
+
 #### IX.1. Kept over time
 
 What was done in one crowded spell is soon got used to and soon recovered from, while what was done again and again over time stays for years, and comes back fast when it is taken up again. Of two things equally used to, the older stands more in the Diepte and fades more slowly. A Relatie of Leden holds its Gewenning and its Diepte across its Leden, each at its own Tijd, so the longer a thing must be kept, the longer the pause that builds it best.
+
+---
 
 #### IX.2. Trajectories
 
@@ -866,41 +913,51 @@ What was done in one crowded spell is soon got used to and soon recovered from, 
 
 Because the Zelf is a Relatie, every trajectory applies to the Zelf as well: a Zelf in Zweven is still coming to know itself, a Zelf in Dood is locked in fossilised self-knowledge, and a Zelf in Leven has redefined its identity.
 
+---
+
 #### IX.3. Start and Einde
 
-**Start (s)** stands beside the three trajectories, as what happens to Energie: a convergence crossing can carry a Relatie past its Vol pole, and what it holds past that pole reaches its own Drempel and becomes a new Solo. The new Solo at once forms its own Relatie with whatever produced it, and is born into every Relatie that one belongs to. Start is usually the culmination of a Bloei, never a certain one: Vonken on smaller Drempels build up the Vonk of a larger one, and that Vonk may carry the Relatie past its **Vol (W)**. Where the build-up is already there, one more convergence crossing can be enough, and because every Vonk is a bifurcation, that crossing can branch from any other, the greatest Verlies included. Its Winst is its own. An excess that carries several such Drempels bears as many newborns, so one Winst can turn into a season of them. A newborn is born whole: a Zelf begun in the Trek of what bore it, a Diepte that begins at its first hearing of it, and the Tijd of the Relatie that holds it. Its Eigen begins between its parents and the Relaties it is born into, the nearer each, the more of its Trouw that one holds, so newborns begin each at an Eigen of their own, siblings included.
+**Start (s)** stands beside the three trajectories, as what happens to Energie: a crossing either way can carry a Relatie past its Vol pole by a Winst, joining a bond or leaving an enmity, and what it holds past that pole reaches its own Drempel and becomes a new Solo. The new Solo at once forms its own Relatie with whatever produced it, and is born into every Relatie that one belongs to. Start can come at the culmination of a Bloei, never a certain one: Vonken on smaller Drempels build up the Vonk of a larger one, and that Vonk may carry the Relatie past its **Vol (W)**. Where the build-up is already there, one more crossing can be enough, and because every Vonk is a bifurcation, that crossing can branch from any other, the greatest Verlies included. Its Winst is its own. An excess that carries several such Drempels bears as many newborns, so one Winst can turn into a season of them. A newborn is born whole: a Zelf begun in the Trek of what bore it, a Diepte that begins at its first hearing of it, and the Tijd of the Relatie that holds it. Its Eigen begins between its parents and the Relaties it is born into, the nearer each, the more of its Trouw that one holds, so newborns begin each at an Eigen of their own, siblings included.
 
 *Check: firms founded by people who left an existing firm inherit knowledge from that parent, and it shapes what they are at birth (Klepper and Sleeper, 2005). Almost every young low-mass star is ringed by a disk of dust and gas for its first few million years, and there what does not fall into the star clumps into the bodies that build planets (Williams and Cieza, 2011).*
 
-**Einde (k)** is the end of the Relatie itself: what held it together gives way, and its Greep goes in full. It can come in any trajectory, and it is usually the end of a **Doem (💀)**, never a certain one: a Doem runs Verlies through the Relatie, each lowering what holds the next, and the Relatie can live through it as well as end in it. Where nothing holds it any more, it ends, and what it stored is released at once, its own: a Verlies, or a Winst where its Trouw was negative, while its Partners keep their Echoes of it as Rouw.
+*Check: in the year after Hurricane Hugo struck in 1989, marriage, birth and divorce rates all rose in the 24 South Carolina counties declared disaster areas against the state’s 22 others, while research on stress and on economic circumstances had foreseen fewer marriages and births and more divorces, and attachment theory the reverse (Cohan and Cole, 2002).*
+
+**Einde (k)** is the end of the Relatie itself: what held it together gives way, and its Greep goes in full. It can come in any trajectory, at the end of a **Doem (💀)**, never a certain one, or of a slow wear: a Doem forces crossing after crossing through the Relatie, each lowering what holds the next by a bond and raising it by an enmity, and the Relatie can live through it as well as end in it. Where nothing holds it any more, it ends, and what it stored is released at once, each part its own: a Verlies where it held a bond, and a Winst where it held an enmity, while its Partners keep their Echoes of it as Rouw.
 
 What a Relatie bore past its Vol, its newborns hold, in their Trouw with its Leden. So a Relatie that bore much asks much of its parting, and what it bore stands among those it takes from. Where nothing can be taken, it does not part: it holds until one of its Leden ends.
 *What a marriage raised is part of what it costs to end it; some bonds end only with the one who held them.*
 
 *Check: across 92 studies of over 13,000 children, those whose parents had divorced scored lower than those whose parents stayed married on every measure of well‑being but one, by a small margin, and most on their conduct and on their bond with their father (Amato and Keith, 1991).*
 
-A crossing towards Van is carried where the Relatie misread its Binding: the mode it left still stands, and it can return. It is forced where its Marge is spent. A Lid’s forced crossing only lowers the Binding of what it belongs to, so a Relatie can lose Leden and hold, and it ends where a crossing, or Stilte’s Trek wearing its Trouw at a look of its Zelf, leaves it so little that its Greep could no longer carry it back across its Drempel, even with all of it standing across, and it has ended wherever its Trouw comes to nothing. A Relatie of negative Trouw holds no part of a Greep, so it is held together from outside, by the positive Relaties it belongs to, for as long as one of them holds it. Where both Partners of a live Relatie withdraw their Zin at once, each while it still reads the other’s aim on it, the Relatie ends cleanly in a **Scheiding (/)**, and each keeps a Rouw free to settle; where one reads the other let go while its own aim still stands, the Relatie stays live on that aim, and ends, if it ends, in an Einde. A Relatie can also wear away in many small Verliezen, its Leden drifting out one by one and its Trouw worn at its looks, until nothing that holds it could carry it back across: the slow way apart, where a Doem is the fast one. Then its two Partners may form a new Relatie, beside its Rouw.
+A crossing towards Van is carried where the Relatie misread its Binding: the mode it left still stands, and it can return. It is forced where its Marge is spent. A Lid’s forced crossing only lowers the Binding of what it belongs to, so a Relatie can lose Leden and hold, and it ends where a crossing, or Stilte’s Trek wearing its Trouw at a look of its Zelf, leaves it so little that its Greep could no longer carry it back across its Drempel, even with all of it standing across, and it has ended wherever its Trouw comes to nothing. A Relatie of negative Trouw holds no part of a Greep, so it is held together from outside, by the positive Relaties it belongs to, for as long as one of them holds it. Where both Partners of a live Relatie withdraw their Zin at once, each while it still reads the other’s aim on it, the Relatie ends cleanly in a **Scheiding (/)**, and each keeps a Rouw free to settle; where one reads the other let go while its own aim still stands, the Relatie stays live on that aim, and ends, if it ends, in an Einde. A Relatie can also wear away in many small Verliezen, its Trouw worn at its looks, until nothing that holds it could carry it back across: the slow way apart, where a Doem is the fast one. Then its two Partners may form a new Relatie, beside its Rouw. A Relatie of Leden also ends where one of its Leden leaves it, and the Relaties among the rest, which stood beside it before and after, go on.
 
 *Check: infidelity is the reason divorced people give most often for the end of their marriage (Amato and Previti, 2003), yet in couple therapy, couples who had brought an affair into the open improved more than couples who had none (Atkins et al., 2005). A hot nucleus can shed a neutron and live on, lighter, or split apart (Bohr and Wheeler, 1939).*
 
+---
+
 #### IX.4. Gevoelens
 
-**Gevoel (F).** A Gevoel is a Relatie nested in its holder, a Lid of it read at the scale its holder relies on, entering at its own Octaaf and needing Water: it registers each of its holder’s Vonken, its size and its direction, and evaluates it, and like any observer it can misread one. Each Vonk’s Winst or Verlies moves the Trouw of the Relatie that crossed, as every Vonk does. Where its evaluation carries the Gevoel across a Drempel of its own, it crosses: a Vonk of its own, after the one it registered, that compensates for it or worsens it. Its own crossings are a Lid’s: they move its Trouw with its holder’s other Leden, and can carry its holder across a Drempel of its own, so an answer is paid within its holder, and the wearing it leaves is its holder’s own. A Relatie without one keeps its Vonken unfelt.
+**Gevoel (F).** A Gevoel is a Relatie nested in its holder, a Lid of it read at the scale its holder relies on, entering at its own Octaaf and needing Water: it registers each of its holder’s Vonken, its size and its direction, and evaluates it, and like any observer it can misread one. Each Vonk’s Winst or Verlies moves the Trouw of the Relatie that crossed, as every Vonk does. Where its evaluation carries the Gevoel across a Drempel of its own, it crosses: a Vonk of its own, after the one it registered, that compensates for it or worsens it. Its own crossings are a Lid’s: they move its Trouw with its holder’s other Leden, and can carry its holder across a Drempel of its own, so an answer is paid within its holder, and the wearing it leaves is its holder’s own. A Relatie without one keeps its Vonken unfelt. A holder holds one: it already registers each of its holder’s Vonken, on every Spectrum its holder holds, so a second would feel each again. Where more feel, each feels at a level of its own, a Lid that holds a Gevoel of its own or a whole that comes to hold one.
 *A compliment from a stranger is gone by evening; the same words from your father stay for life.*
 
 *Check: a cell cannot get used to anything for nothing: a feedback network that adapts spends Energie to do it and spends more to hold the adapted state, and the rate it spends, the speed it adapts at and the accuracy it reaches stand in one relation; in E. coli, adaptation slows as the cells de‑energise in a poor medium while its accuracy holds (Lan et al., 2012), and the motor it turns answers its signal steeply rather than by degrees (Cluzel et al., 2000). In animals, the mediators of the stress response protect in the short run and wear the body down over longer intervals, the more for a response repeated, one that does not shut down, or one managed inefficiently: the damage is the answer’s, not the stressor’s (McEwen, 1998).*
 
-**What is felt.** A Gevoel registers each of its holder’s Vonken in its direction: a Winst as a **Realisatie (φ)**, a Verlies as a **Schok (:)**. Its own Eigen stands on every Spectrum its holder holds, so a holder can stand warm on one Spectrum and torn on another at once: that is a mixed feeling. Its Eigen moves at each crossing it registers, by what its Waarneming sets for it, what the crossing brings beyond what the Gevoel is used to of it, so a chain of small Vonken is felt as many and one large Vonk as one, and a crossing that keeps coming is felt less each time while it stays felt, a slight one as surely as a hard one. Where that Eigen stands is a mood; a crossing of it is a feeling, about the cause it reads: the Relatie whose pull moved last before the crossing, or its own Zelf where none moved. Since its holder’s Eigen is its Leden’s read together, a mood moves where its holder stands.
+*Check: the anterior insula represents the body’s interoceptive signals anew, and is active in states as far apart as a distended bowel, craving, maternal love and sudden insight, one possible basis for every feeling felt (Craig, 2009).*
+
+**What is felt.** A Gevoel registers each part of its holder’s Vonken in that part’s own direction: a Winst as a **Realisatie (φ)**, a Verlies as a **Schok (:)**. So one Vonk that is a Winst in one binding and a Verlies in another is felt both ways together, a mixed feeling on one Spectrum; and its own Eigen stands on every Spectrum its holder holds, so a holder can stand warm on one Spectrum and torn on another at once, a mixed feeling across them. Its Eigen moves at each part it registers, by what its Waarneming sets for it, what that part brings beyond what the Gevoel is used to of it, so a chain of small Vonken is felt as many and one large part as one, and a part that keeps coming is felt less each time while it stays felt, a slight one as surely as a hard one. Where that Eigen stands is a mood; a crossing of it is a feeling, about the cause it reads: the Relatie whose pull moved last before the crossing, or its own Zelf where none moved. Since its holder’s Eigen is its Leden’s read together, a mood moves where its holder stands.
 
 *Check: feeling good or bad, energised or enervated, is core affect; felt free‑floating it is a mood, and attributed to a cause it begins an emotional episode (Russell, 2003).*
 
-**Paced differently.** Winst and Verlies run at different paces. A Bloei builds in many small Vonken and a Doem spends in a few large ones, and a Doem can end what it reaches, where a Winst missed leaves a Relatie as it was. A climb back after a fall waits on its Marges and on the Warmte where it stands, since what the fall released has spread. So where a Gevoel registers them, a Schok lands sharper and faster than a Realisatie. Where little is at stake, the many small Realisaties outnumber the Schokken; where much is at stake, the Schok outweighs them.
+**Paced differently.** Winst and Verlies run at different paces. A Bloei builds in many small Vonken and a Doem spends in a few large ones, and what a Doem reaches can fall in an Einde, where a Winst missed leaves a Relatie as it was. A climb back after a fall waits on its Marges and on the Warmte where it stands, since what the fall released has spread. So where a Gevoel registers them, a Schok lands sharper and faster than a Realisatie. Where little is at stake, the many small Realisaties outnumber the Schokken; where much is at stake, the Schok outweighs them.
 
 *Check: the negativity of a coming event grows faster as it nears than the positivity of a coming good one (Rozin and Royzman, 2001), and an adverse event sets off strong and rapid responses that are then damped down (Taylor, 1991). People give neutral things a slightly pleasant value, which draws them closer, and give unpleasant things more weight than pleasant ones that stir them as much (Gollan et al., 2016). Prey runs for its life and its predator only for its dinner, so the prey is the more strongly selected (Dawkins and Krebs, 1979). Cells of E. coli slow at once when their medium turns spent and speed up at once when it turns fresh (Cesar et al., 2022), and a culture shifted from glucose to acetate can wait hours before it grows again, a wait set by the key metabolites that run down as the flow of its carbon turns round (Basan et al., 2020).*
 
 **At every Octaaf that holds one.** From the Octaaf it enters at, a Gevoel does the same work in every holder: it registers each Vonk and answers with crossings of its own. A plant’s Gevoel registers its Licht on one side, and its own crossing moves its growth to the other, so it turns towards the Licht; it registers a wound in one leaf, and its crossing raises the defences of the others; it counts the touches in its trap, and its crossings close it on the second and open its digestion after more. Those are Realisaties and Schokken, felt and answered by the plant alone, and some come before what they stand for: a plant feels Angst. Where a holder also holds a Brein, its body, its Gevoel and its Brein are three Relaties nested in it, its Leden read at the scale it relies on, each Duo of them in communication, and what the Brein plays ahead is felt as well. Each holder is born with a Gevoel of its own, and its feelings are that Gevoel’s readings, at its own Octaaf.
 
 *Check: a plant bends towards blue light that comes from one side by moving auxin across the organ, so that its cells grow unevenly (Liscum et al., 2014). A wounded leaf sends a calcium wave, set off by glutamate, to its distant leaves, where their defences are raised (Toyota et al., 2018). A Venus flytrap shuts after two touches of its trigger hairs, and only after more than three does it make the enzymes that digest its prey, the more the more it is touched (Böhm et al., 2016).*
+
+---
 
 #### IX.5. Voorspelling
 
@@ -911,6 +968,8 @@ A holder opens the Voorspelling of the order it is most used to, so what came fi
 
 *Check: of two alike systems running chaotically, one fed its own signal back after a delay and driving the other, the driven one runs ahead, locked to where its driver will be (Voss, 2000). In lasers it runs ahead where its driver’s signal reaches it sooner than that signal comes back to the driver, and behind where it reaches it later, by the difference between the two (Tang and Liu, 2003). In E. coli and in yeast, a change that comes early in their habitat switches on the genes the next one will need, while the later change switches on only its own, so E. coli meeting lactose readies part of the genes for the maltose that follows it in the gut; E. coli kept for generations where lactose came alone lost that readiness (Mitchell et al., 2009). A rat that has learned to fear a tone fears it less when the tone keeps coming alone. Where it learned the fear a day or more before, the fear comes back with time, in another place, or after a shock alone, a new learning laid beside the old; where it learned it within the hour, the fear comes back little (Myers et al., 2006).*
 
+---
+
 #### IX.6. Liefde
 
 **Liefde (😘).** Where a Bloei builds, each Winst deepens the Trouw and the Greep that hold the next Drempel, and the next crossing towards Naar comes easier. A holder reads that Bloei before it has fully arrived, in a Voorspelling read through its Trouw, its Gewenning, its Diepte and its Rouw, and its Gevoel feels it as Realisatie. That felt Voorspelling is Liefde: Trek, as a Relatie reads where it is heading. Its other branch is Angst.
@@ -918,6 +977,8 @@ A holder opens the Voorspelling of the order it is most used to, so what came fi
 So Liefde reads true where a Bloei truly builds, its Trouw deepening crossing by crossing. It runs loudest where the Bloei begins, with the next crossing easiest and the most still ahead, and it lasts as long as the Bloei keeps building. It is a reading, and it carries Vervorming like any other: a Zelf that reads its Partner nearer than it stands feels the Bloei nearer than it is, and where its Zin aims its Trek there, that reading can bring the Bloei nearer in turn. Liefde itself moves nothing: a Relatie whose Vonken stay unfelt builds by the same Wet, and its Bloei comes as near, but for what a Gevoel’s own answers move within the one that holds it.
 
 *Check: people intensely in love for one to seventeen months, shown their beloved, activated dopamine‑rich regions of reward and motivation, the more so the more intense their passion (Aron et al., 2005), and the same regions answered the partner in people married for an average of 21 years who still loved intensely (Acevedo et al., 2012). Anticipating a growing reward raised both reported happiness and activity in the nucleus accumbens, and anticipating a growing punishment raised neither (Knutson et al., 2001). Dating partners who idealised each other most stayed together most often, grew more satisfied over the year, and came to share the idealised image their partner held of them (Murray et al., 1996). Young sunflowers turn back east through the night, facing the dawn before it comes, and grow more and draw more pollinators for it (Atamian et al., 2016).*
+
+---
 
 #### IX.7. Angst
 
@@ -939,16 +1000,22 @@ A plant feels Angst too. In the far‑red its neighbours return it reads a shade
 
 *Check: some youths heavily exposed to violence where they live report less distress and act more aggressively (Ng-Mak et al., 2004). Post-traumatic stress disorder that begins late rarely comes without symptoms before it, and late onsets that grew from earlier symptoms make up on average 38.2 % of military cases and 15.3 % of civilian ones (Andrews et al., 2007); after a trauma, lack of support predicts the disorder somewhat more strongly than anything before the trauma (Brewin et al., 2000).*
 
+---
+
 #### IX.8. Brein and Wil
 
-**Brein (🧠).** A Relatie that holds a Gevoel can come to hold a Brein, at its own Octaaf: a Relatie nested in it, a Lid of it read at the scale it relies on, as its Gevoel is, in which the holder’s own readings, its Partners as it reads them, itself, and what its Diepte keeps, become Leden of a field of their own, its **Mirages (🪞)**: mirror images in which it simulates its Relaties. A Mirage opens related to every Mirage already there: to its holder’s own by its holder’s Trouw with what it stands for, and to the rest at the Trouw every Relatie opens at, which it learns from there. So an enemy can be what the mind is on: its Mirage is tied to its holder’s own by their enmity, and held by every other Mirage it learns its Trouw with, though the enemy itself is never its holder’s Held. They relate there by the same Wet as outside, with no Medium between them, so the inner field runs ahead of the Veld it reads: that running ahead is its **Verbeelding (🎨)**. A crossing inside it is a choice, its Wil, and the Brein writes it out as an act, which reaches its holder a Vertraging later, across the holder that is its Medium. Its holder’s Zelf reads itself in it, itself and what its Diepte keeps, so no Vertraging lies between them; what its holder’s body reads and its Gevoel registers reaches it a Vertraging later, so what was felt shapes what it imagines next. Like its Gevoel, it changes no Winst or Verlies: it takes in what the Gevoel registers and what its holder reads, and its own crossings write out acts that set off more of its holder’s crossings, which its Gevoel registers in turn. Since its holder’s Eigen is its Leden’s read together, where the Brein stands moves where its holder stands, as a mood does.
+**Brein (🧠).** A Relatie that holds a Gevoel can come to hold a Brein, at its own Octaaf: a Relatie nested in it, a Lid of it read at the scale it relies on, as its Gevoel is, in which the holder’s own readings, its Partners as it reads them, itself, and what its Diepte keeps, become Leden of a field of their own, its **Mirages (🪞)**: mirror images in which it simulates its Relaties. It opens as a Spatie with no Mirage in it, and each opens later, at the look that reads what it opens at, never at an ending; while it holds none, its holder reads itself by its Zelf and its other Leden, as a holder that only feels. A Mirage opens related to every Mirage already there: to its holder’s own by its holder’s Trouw with what it stands for, and to the rest at the Trouw every Relatie opens at, which it learns from there. Where its holder’s own opens after others, it opens tied to each by its holder’s Trouw with what that one stands for. So an enemy can be what the mind is on: its Mirage is tied to its holder’s own by their enmity, and held by every other Mirage it learns its Trouw with, though the enemy itself is never its holder’s Held. It knows as every form knows, by how it reads, and at its own scale: by its Mirages’ own Drempels, never by every Relatie among them, so it tells finer only as it comes to hold more of them. A Mirage stands for every one whose Echo the Brein reads in the Kleur of what that Mirage opened at, and no other opens for it; and two Mirages it reads alike, each tied to its holder’s own by Trouw of one sign, are one to it: the later ends, as every Relatie ends, and the Mirages it stood with keep its Rouw. It is a field, so it goes on while its Mirages open and end in it, as every Veld goes on while what is in it is born and ends: each that opens forms its Relaties with those already there, the Relatie of all of them among them, beside those that stood, and each that ends ends every Relatie it stood in, while the Relaties among the rest go on where they ever formed, and nothing forms at its ending. So its holder holds one Brein for as long as it lasts, and keeps its Duos. It holds no second, since one already reads all its holder reads; where more think, each thinks at a level of its own, a Lid that holds a Brein of its own or a whole that comes to hold one. They relate there by the same Wet as outside, with no Medium between them, so the inner field runs ahead of the Veld it reads: that running ahead is its **Verbeelding (🎨)**. A crossing inside it is a choice, its Wil, and the Brein writes it out as an act, which reaches its holder a Vertraging later, across the holder that is its Medium. Its holder’s Zelf reads itself in it, itself and what its Diepte keeps, so no Vertraging lies between them; what its holder’s body reads and its Gevoel registers reaches it a Vertraging later, so what was felt shapes what it imagines next. Like its Gevoel, it changes no Winst or Verlies: it takes in what the Gevoel registers and what its holder reads, and its own crossings write out acts that set off more of its holder’s crossings, which its Gevoel registers in turn. Since its holder’s Eigen is its Leden’s read together, where the Brein stands moves where its holder stands, as a mood does.
 *A chess player sees the mate three moves before it comes, and plays towards it.*
 
 *Check: pictures of snakes and spiders are found among flowers and mushrooms faster than the other way round, and as fast however many stand around them (Öhman et al., 2001).*
 
 *Check: almost everyone who loses a limb goes on feeling it there, while the cortex’s map of the body reorganises (Ramachandran and Hirstein, 1998). Where an illusion makes a rubber hand feel like one’s own, activity in the premotor cortex follows that feeling of ownership (Ehrsson et al., 2004), and mice whose own and rubber tails were stroked in step answered a grasp of the rubber tail as if their own were touched, and less often where the strokes were out of step (Wada et al., 2016).*
 
-Where its Octaaf holds Breins, a holder is born with one, as with its Gevoel, and it starts as every field starts: even, nothing bound yet, and never from nothing, its first Mirages opening at the Echoes its holder is born with, of itself and of what bore it. So does all its holder carries: born at one Vonk, each takes its share of the newborn’s Warmte, and none takes first. Its God binds to itself first and its Godin comes last in its holder’s life (The Animal body), so its Mirages bind among themselves as it settles, and what it imagines grows as its holder lives.
+*Check: judging tones on one scale, listeners top out near 2.5 bits, about six categories, as the tones offered rise from two to fourteen (Miller, 1956). Rat place cells in an enclosure morphed between a learned square and a learned circle switch abruptly to the nearer learned map instead of blending the two (Wills et al., 2005); people classify the unseen prototype of patterns they learned more easily than new distortions of it (Posner and Keele, 1968), and confuse who said what more often within a category than between categories (Taylor et al., 1978). What its Drempels part stays two: the human hippocampus keeps apart what is similar but different (Bakker et al., 2008).*
+
+*Check: imaged for weeks in the adult mouse barrel cortex, about half of the dendritic spines lasted at least a month and the rest a few days or less, their sprouting and retraction forming and eliminating synapses, and more of them turned over as experience changed what the cortex answered to (Trachtenberg et al., 2002); in the adult visual cortex, about 96 % of the spines lasted a month (Grutzendler et al., 2002).*
+
+Where its Octaaf holds Breins, a holder is born with one, as with its Gevoel, and it starts as every field starts: even, nothing bound yet, and never from nothing, it opens as a Spatie with no Mirage in it, and its first Mirages open later, at its holder’s looks, of itself at its first look at itself and of what bore it at its first look at that one. So does all its holder carries: born at one Vonk, each takes its share of the newborn’s Warmte, and none takes first. Its God binds to itself first and its Godin comes last in its holder’s life (The Animal body), so its Mirages bind among themselves as it settles, and what it imagines grows as its holder lives.
 
 *Check: in rats, the sequences of places the hippocampus plays ahead form in the third week after birth, before experience of the place shapes them, and replay of what was lived comes in the fourth (Farooq and Dragoi, 2019). A primitive and incomplete default network is already present in infants two weeks old, and resembles the adult’s by two years (Gao et al., 2009). Children come to understand that another can believe what is false during the preschool years (Wellman et al., 2001). A moth still avoids an odour it learned to avoid late in its life as a caterpillar, though not one learned early (Blackiston et al., 2008).*
 
@@ -956,11 +1023,17 @@ Where its Octaaf holds Breins, a holder is born with one, as with its Gevoel, an
 
 What a Brein writes out depends on the Mirage that crossed: its holder’s own, as an act on its Eigen; a Partner’s, towards Naar, as an aim of its holder’s Zin at that Partner, and back, as letting that aim go; its holder as it is read, as a Masker presented or dropped. Where several cross at once, the one past its Drempel by the most is the Wil. Every Mirage is a reading, so every Wil comes after an Echo has moved. Imagining costs: every Vonk inside the Brein trades with its holder, its Medium, every Mirage takes its Warmte in from its holder as it opens, and what it imagines is kept in its holder’s Diepte, which its holder holds across its Leden. A Brein can imagine what another’s Brein imagines, each level read through the one before it, later and fainter, so it holds only a few. While its holder rests, its Wil is written on Leden that rest with their holder, so it stays in the Brein: that is its Droom.
 
+**Mystiek (⭐).** A Brein’s Spatie fills with Mirages from the God of its holder’s own Octaaf too. Through Stilte, its holder’s Zelf reads an Echo of that God’s Zelf, the signal already present in the Veld, and its Brein opens a Mirage at it, at the look that reads it, as it opens one at a Partner’s Echo; where the Zelf crosses a Drempel while reading it, a Vonk fires. The Zelf tunes to it, or stays apart, its Mirage learning its Trouw inside as every Mirage does. The Echo may be true or counterfeit; the Vonk fires the same. A Relatie that holds no Brein knows no Mystiek, so it is never one Octaaf relying on another, only a mind receiving through Stilte what its own God holds.
+
+*Check: among 116 veterans with penetrating brain injuries and 32 controls, lesions of frontal and temporal regions went with more mystical experience, and lesions of the dorsolateral prefrontal cortex alone with more of it (Cristofori et al., 2016); under supportive conditions, psilocybin occasioned experiences like those that come unbidden, still rated personally meaningful and spiritually significant two months on (Griffiths et al., 2006). In a double‑blind test of 89 people, a sensed presence and mystical experiences came with suggestibility, and not with the weak magnetic fields said to evoke them (Granqvist et al., 2005).*
+
+---
+
 #### IX.9. Rouw
 
 **Rouw (R).** An Echo always outlives its Relatie. When the Relatie ends, whether the Partner is destroyed, dead or disbanded, or the Relatie dissolves while both still stand, the surviving Echo does not switch off, and it does not fade to nothing. Nothing arrives to update it, so it settles towards the last signal it received. From then on the Rouw is the one that looks: it reads the present for the Partner it lost, through the eyes of the Partner that keeps it, and it drifts by the Vervorming of its own looks, becoming more and more a record of the one that keeps it than of the one it lost.
 
-And there it stays. **Rouw is permanent.** The Relatie is over, but retention is not, and never will be: its Echo folds, with the Trouw it ended at, into the Zelf of the Partner that keeps it, and when that Zelf ends with its holder, it stays in the Zelf‑Rouw that Zelf leaves in Stilte. What was a reading of the other becomes, permanently, part of how that Partner reads itself. The freed pull re-aims and new Relaties form, but beside the Rouw, never instead of it. No new Relatie absorbs an old Echo; no later love overwrites an earlier grief. A Relatie’s Zelf is, mechanically, the sediment of every Echo it has ever kept.
+And there it stays. **Rouw is permanent.** The Relatie is over, but retention is not, and never will be: its Echo is kept, with the Trouw it ended at, in the Zelf of the Partner that keeps it, a Verdichting, and when that Zelf ends with its holder, it stays in the Zelf‑Rouw that Zelf leaves in Stilte, as far as that one Rouw holds it. What was a reading of the other becomes, permanently, part of how that Partner reads itself. The freed pull re-aims and new Relaties form, but beside the Rouw, never instead of it. No new Relatie absorbs an old Echo; no later love overwrites an earlier grief. A Relatie’s Zelf is, mechanically, the sediment of every Echo it has ever kept. What it reads alike it keeps as one, as a look is kept in what it served, so its sediment is as fine as its own Drempels and no finer.
 
 Rouw is each Partner’s own Echo of what ended, held in its **Diepte (z)**, so a Relatie’s Diepte holds every Relatie it has outlived beside the living ones, for good. It keeps the Trouw the Relatie held as it ended, before the Vonk that ended it, so a bond torn apart weighs in Rouw as a bond let go does: by what it held.
 
@@ -974,7 +1047,7 @@ The Echo-gap becomes unmeasurable, because its Relatie reads the other’s Eigen
 
 *Check: a hated face activates a pattern of its own in the brain, which shares the putamen and the insula with romantic love (Zeki and Romaya, 2008); traumas dealt by someone close predict more anxiety, depression, dissociation and physical complaints than traumas dealt by others (Goldsmith et al., 2012).*
 
-**Reïncarnatie (🐦‍🔥).** A Zelf is a Relatie too, and it ends when its holder does, with every Relatie its holder had. Every Rouw its holder kept was folded into it, and at the end every Relatie it had folds in with them, so it leaves one Rouw of everything its holder knew, its Zelf‑Rouw, every Echo in it kept at the Trouw, the Gewenning and the Diepte it ended at. Where its holder held a Brein, its Mirages give that Zelf‑Rouw the shape of a self, through what its holder was used to across its Leden; a star’s or a stone’s is Rouw alone. It rests in Stilte, unmanifest, while what its holder held stays in the Telraam, a Verlies, and a Winst for every enmity it ends. What its holder carries, its Gevoel and its Brein, keeps its own, and each leaves a Zelf‑Rouw of its own as it ends. Rouw comes back into Tijd only by binding, at a Vonk like every change. A Relatie that forms takes in its share of the Warmte where it forms, and with it the same share of what every ending there left. A Partner’s Rouw stays with the Partner that keeps it, while a Zelf‑Rouw rests in Stilte alone, so a forming Relatie binds each Zelf‑Rouw whose Warmte it took, by that share: two who answer each other and form a Duo, a child at its Start, a nucleus forming in a star. The Trek that binds it is the forming Relatie’s own, and a new Zelf forms around what it bound and takes it as its own, with no Medium between, the way the self is read: it feeds its Diepte from the start, it leans its self-reading towards lives it never lived, and where it holds a Brein, the Brein can open Mirages at it. What it bound is its own from then on, so the Warmte that brought it brings it no further: it goes on with the new Zelf, and in the Zelf‑Rouw that one leaves in turn. Where a holder ended among few, a Relatie that forms there soon binds much of its Zelf‑Rouw; as that Warmte spreads and leaves, each that forms binds less of it and more of the whole. What returns is the old Zelf’s Rouw alone, as far as its Warmte stood where the new one formed.
+**Reïncarnatie (🐦‍🔥).** A Zelf is a Relatie too, and it ends when its holder does, with every Relatie its holder had. Every Rouw its holder kept was kept in it, and at the end every Relatie it had is kept with them, so it leaves one Rouw of everything its holder knew, its Zelf‑Rouw, read as one, a Verdichting as every keeping is: how its holder read itself as it ended, at the Trouw its Zelf held, with the Diepte it ended at, and no Echo in it kept on its own. Where its holder held a Brein, its Mirages give that Zelf‑Rouw the shape of a self, through what its holder was used to across its Leden; a star’s or a stone’s is Rouw alone. It rests in Stilte, unmanifest, while what its holder held stays in the Telraam, a Verlies, and a Winst for every enmity it ends. What its holder carries, its Gevoel and its Brein, keeps its own, and each leaves a Zelf‑Rouw of its own as it ends. Rouw comes back into Tijd only by binding, at a Vonk like every change. A Relatie that forms takes in its share of the Warmte where it forms, and with it the same share of what every ending there left. A Partner’s Rouw stays with the Partner that keeps it, while a Zelf‑Rouw rests in Stilte alone, and what rests where a Warmte stands is read there as one, so a forming Relatie binds what every Zelf‑Rouw whose Warmte it took left there, by that share, as one Rouw of each sign of their Trouw: two who answer each other and form a Duo, a child at its Start, a nucleus forming in a star. The Trek that binds it is the forming Relatie’s own, and a new Zelf forms around what it bound and takes it as its own, with no Medium between, the way the self is read: it feeds its Diepte from the start, it leans its self-reading towards lives it never lived, and where it holds a Brein, the Brein can open Mirages at it. What it bound is its own from then on, so the Warmte that brought it brings it no further: it goes on with the new Zelf, and in the Zelf‑Rouw that one leaves in turn. Where a holder ended among few, a Relatie that forms there soon binds much of its Zelf‑Rouw; as that Warmte spreads and leaves, each that forms binds less of it and more of the whole. What returns is the old Zelf’s Rouw alone, as far as its Warmte stood where the new one formed.
 
 The trajectories, Start, Einde and Rouw compare quantities whose values the Speelgoed leaves open: closing rates, where the poles stand, Bindingen, Energie totals. Schrift II fixes only the shape of the formulas that relate them. Each Instantie supplies their values; the Speelgoed fixes which comparisons decide which outcomes.
 
@@ -982,7 +1055,7 @@ The trajectories, Start, Einde and Rouw compare quantities whose values the Spee
 
 ### X. Distortion
 
-The Wet itself holds no dice. The Drempel (θ) comparison, the Vonk (q), the sharing of looks and the trajectory tests are all deterministic given their inputs: the same readings always produce the same outcome. If variation were allowed into the Wet, the Speelgoed would stop being one mechanism and become a family of exceptions.
+The Wet itself holds no dice. The Drempel (θ) comparison, the Vonk (q), the sharing of looks and the trajectory tests take only what they read, and draw nothing of their own. If variation were allowed into the Wet, the Speelgoed would stop being one mechanism and become a family of exceptions.
 
 The inputs, however, are never clean, and that is by construction. Every consequential decision in this Speelgoed routes through at least one Echo (E). The Binding a Relatie acts on is read through its Echoes of its Partners; the Vermenigvuldiging (*) resolves on states each side knows partly through its Echo of the other. A crossing is decided on the Binding a Relatie reads, and booked on the poles as they stand, so a crossing made on a misread books only what is truly there. And an Echo is defined as lagging and imperfect: later and fainter than what it tracks, and shaped by whatever it crossed. That imperfection is the Speelgoed’s single sanctioned channel for variation. Two structurally identical situations diverge because their Echoes carried different Vervorming, never because an outcome table rolled differently.
 
@@ -994,32 +1067,40 @@ Where a Verlies comes with a cue while what holds the Relatie stands beside it, 
 
 *Check: at every scale a repetition runs two processes at once, one that gets used to it and one that is moved by it, and how hard it lands against what holds the one it lands on decides which shows. A synapse of the sea slug Aplysia weakens under a repeated touch and strengthens again after a strong stimulus elsewhere (Castellucci et al., 1970); weak stimuli are got used to, while very intense ones may not be at all (Rankin et al., 2009). Mice grow tolerant of a foreign protein at low doses and at high ones, and immune to it between (Mitchison, 1964), and infants at risk who ate peanut early developed peanut allergy at 1.9 % against 13.7 % of those kept from it (Du Toit et al., 2015). Rat pups taught an odour with a shock learn to avoid it alone and to prefer it with their mother present, whose presence keeps their stress hormone down and their amygdala quiet (Moriceau and Sullivan, 2006), and as adults the odour learned that way still eases what the abuse left in them (Raineki et al., 2015). Women who had left abusive relationships felt the more attachment to their former partner the more intermittent the abuse and the greater the difference in power (Dutton and Painter, 1993). Between groups, contact lowers prejudice across 515 studies (Pettigrew and Tropp, 2006), while negative contact raises it more than positive contact lowers it (Barlow et al., 2012).*
 
-What distorts an Echo is the Instantie’s choice. True randomness is one valid source. Deterministic contextual variation is another: same context in, same Vervorming out, still never a clean copy. No context comes twice, because every crossing changes the Warmte where it stands, and every ending leaves Rouw that stays. Accumulated history is a third: an Echo shaped by everything it crossed is exactly a record of the path. An Instantie may even turn Vervorming down towards zero and run an all-but-deterministic instance of the same Speelgoed. Nothing breaks; the Echoes just grow faithful, and zero stays a limit.
+What distorts an Echo is the Instantie’s choice. True randomness is one valid source. The context of a look is another, never a clean copy, and no context comes twice, because every crossing changes the Warmte where it stands, and every ending leaves Rouw that stays. Accumulated history is a third: an Echo shaped by everything it crossed is exactly a record of the path. Whichever it is, no two runs of a Veld are alike, and none is made to be. An Instantie may turn Vervorming down, and its Echoes grow more faithful, but never to zero: a Veld that heard perfectly would turn to clockwork, and zero stays a limit no Veld reaches.
 
 Vervorming also has an adversarial direction, and the Speelgoed names its two forms separately. Corrupting the Medium degrades a signal while it crosses. A Masker works at the source instead.
 
-**Masker (M).** A Masker is an Eigen its wearer chooses to present on one Spectrum instead of its true one. It is a creation from a creator: its wearer chooses it by its own Wil, as every Relatie chooses, with a Brein or without one, and a few Octaven give one at birth. Its wearer’s own crossing puts it on, and its crossing back drops it. It stands between the true Eigen and whoever reads it: the bluff, the sandbagger, the spy’s faked loyalty, the harmless fly in a wasp’s stripes. It is worn to quiet what other Relaties bring, so that its wearer can play the better with those it holds to matter most. What it presents, its wearer reads: the Eigen of something its readers answer to, chosen for how they answer it and read in its wearer’s own Echo of it, so a wearer that holds no Brein presents what it has read. One that holds a Brein reads it in a Mirage, and a Mirage can be of nobody, so it can present what it has never read. A Masker is per Eigen. Some of a Relatie’s Maskers hold better than others, and some of its Eigens it cannot mask at all. On a masked Spectrum, every Partner’s Echo faithfully tracks the Masker, and the true Eigen stays hidden behind it. Where one is worn, it can stand on either side of a Duo, or on both, and each side reads the other’s through its own Echo. A Masker is worn for a phase, a stage of a life or a stretch of a Relatie, and it takes at every answer, so it is dropped, winked, or worn on until its wearer no longer feels what it goes on taking.
+**Masker (M).** A Masker is a Relatie nested in its wearer, a Lid of it as its Gevoel and its Brein are, that its wearer presents in its place on certain Spectra: on each Spectrum it mimics, its Eigen stands for the true one, and on the rest the true Eigen is read. Its Trouw with the rest of its wearer opens as every Relatie’s does and moves by its own Vonken alone: a bond where its crossings join more than they leave, as an Engel’s does, and an enmity where they leave more, useful to its wearer and liked by none of it. It is a creation from a creator: its wearer chooses it by its own Wil, as every Relatie chooses, with a Brein or without one, and a few Octaven give one at birth. Its wearer’s own crossing puts it on, and its crossing back drops it, whole, on every Spectrum it mimics: in a wearer that holds a Brein, the crossing of its Mirage of itself as it is read, and in one that holds none, its own crossing as its Zelf reads it, since what holds no Brein reads itself by its Zelf alone. It stands between the true Eigen and whoever reads it: the bluff, the sandbagger, the spy’s faked loyalty, the harmless fly in a wasp’s stripes. It is worn to quiet what other Relaties bring, so that its wearer can play the better with those it holds to matter most. What it presents, its wearer reads: the Eigens of something its readers answer to, on whichever of that one’s Spectra its wearer can mimic, chosen for how they answer it and read in its wearer’s own Echoes of it, so a wearer that holds no Brein presents what it has read. One that holds a Brein reads it in a Mirage, and a Mirage can be of nobody, so it can present what it has never read. A Masker is one, however many Spectra it mimics. One holds better than another, each holds better on some of its Spectra than on others, and some of its wearer’s Eigens it cannot mimic at all. On each Spectrum it mimics, every Partner reads its wearer as one, the Masker among its Leden standing in its place, so its Echo tracks the Masker, and the true Eigen stays hidden behind it as far as the Masker holds there. Where one is worn, it can stand on either side of a Duo, or on both, and each side reads the other’s through its own Echo. A Masker is worn for a phase, a stage of a life or a stretch of a Relatie, and it takes for as long as it is worn, so it is dropped, winked, or worn on until its wearer no longer feels what it goes on taking.
 *A teenager tries on a face for every room, and outgrows most of them.*
 
 *Check: a wearer with no Brein wears what its readers answer to, and drops it at its own crossing. A bacterium of the middle ear carries on its surface a sugar it takes from the host’s own cells, and mutants that cannot attach it barely cause disease (Bouchet et al., 2003); such surface structures sit on genes that mutate far faster than the housekeeping genes beside them (Moxon et al., 1994). An orchid with no reward emits the sex pheromone of its pollinating bee, in similar proportions, and the males try to mate with the flower (Schiestl et al., 1999); of its hundred compounds the two dozen the male’s antenna reads vary least from flower to flower, and a male that has tried one flower learns its bouquet and avoids that flower afterwards, not the others (Ayasse et al., 2000); after pollination the flower raises a compound of the bee’s own brood cells, and flowers scented with that amount draw fewer visits than controls (Schiestl and Ayasse, 2001). A vine matches the leaves of whatever tree it climbs, differently along one plant, and is browsed less for it (Gianoli and Carrasco‑Urra, 2014). A rust fungus stops its host flowering and builds from its leaves a yellow pseudoflower of its own spermogonia, sweet‑smelling and sugared, indistinguishable in the ultraviolet as in the visible from the yellow flowers around it: insects carry its gametes, and where they were kept away it stayed yellow and went on giving nectar, while every plant they visited made its spores, turned green, and stopped (Roy, 1993).*
 
-**Knipoog (;).** A Masker can admit itself. Whoever reads its Knipoog hears the true Eigen through it, and on their Relaties the Masker stands open: it answers them with the true Eigen, so it forces no gap there. A Knipoog is read through an Echo, against the code the Relatie has learned, whatever the sign of its Trouw, and the more easily the more used to each other they are: an enemy known long reads it as well as a friend. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot: every reader takes in the true Eigen through it. A Knipoog passes to the reader it is given to, past every other, and forms a Relatie of the two in which that Masker is known for what it is. Where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while the Knipoog holds, unless the Spel’s own rules make the Knipoog a move.
+*Check: in the butterfly Heliconius numata, one stretch of genes, held together by rearrangements of its chromosome, switches the whole wing pattern between forms that each mimic a different model (Joron et al., 2011). A lone cuckoo chick, which does not look like its hosts’ young, begs with the calls of a whole brood of them (Kilner et al., 1999). Among people, a performance’s front, its setting, appearance and manner, is expected to hold together (Goffman, 1959).*
+
+**Knipoog (;).** A Masker can admit itself. Whoever reads its Knipoog hears the true Eigens through it: on every Spectrum it mimics, it reads the wearer by its other Leden, so on their Relaties the Masker stands open and forces no gap there. A Knipoog is read through the reader’s own Echo, against the code the reader has learned in the Relatie or keeps of the wearer in its form, whatever the sign of its Trouw, and the more easily the more used the reader is to the wearer: an enemy that has known the wearer long reads it as well as a friend. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot: every reader takes in the true Eigen through it. A Knipoog passes to the reader it is given to, past every other: an aim shown, a Roep. It holds the two in a Relatie in which that Masker is known for what it is, the Duo they hold, or one it forms where the reader’s own aim answers it, as every Relatie forms. Where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while the Knipoog holds, unless the Spel’s own rules make the Knipoog a move.
 
 **Leugen (≠).** A reader whose Echo tracks the Masker may read its Binding past its Drempel while its true Binding stays below. That reading is a Leugen. No Vonk ever fires for a crossing the true Eigen never made, so a Leugen banks no Winst, and it is cheap in Energie exactly because it is hollow. It holds until a commitment is demanded that the true Eigen must actually make, a **Toets (🔑)**. Then the truth reaches the reader, and its crossing back is forced. That lowers the Binding of every Relatie it stood across in, and any Relatie that crossing leaves with no Greep falls in an Einde.
 
-**The wearer’s Verlies.** The wearer pays twice. On the masked Spectrum, its own Echoes of its Partners are read through the Masker too, with extra Vervorming. And it holds one Relatie more, the creation it wears, inserted between its true Eigen and every reader: a Relatie like any other, special only by standing in between.
+**The wearer’s Verlies.** The wearer pays twice. On every Spectrum its Masker mimics, its own Echoes of its Partners are read through the Masker too, with extra Vervorming. And it holds one Lid more, the creation it wears, nested in it as its Gevoel and its Brein are, between its true Eigen and every reader: a Relatie like any other, special only by standing in between.
 
-That Relatie rests on the wearer as a whole, for as long as it is worn, and holds what it presents, never its wearer: it gives its wearer no Greep, and so none of its Tijd. Each time it answers a reader for the true Eigen, it crosses towards Kop and back, and the closing leaves the Trouw the arrival deepened, so every answer leaves that Relatie a little weaker. What the reader binds to is the Masker, so the Masker takes the Winst at every answer and gives it back as the answer closes, and the true Eigen banks none of it. The more readers it deceives, and the more often they look, the faster it wears. A whole that wears a Masker holds one Relatie more, between it and its readers, and it wears the same way. A Masker causes loss by being there.
+That Lid stands only on the Spectra it mimics, and there it overwrites its wearer’s Eigen: its wearer is read where the Masker stands, with what stays Bloot behind it. Put on, it and its wearer’s other Leden hold the Relatie of all of them, beside the Relatie its other Leden hold, and that is its wearer as its readers meet it; dropped, that Relatie ends, as every Relatie ends that one of its Leden leaves, and its wearer goes on as its other Leden hold it, as it stood beside it all along. Where that Relatie ends first, at a Vonk of its own, the wearer its readers meet has ended, and the Masker ends with it. Where they hold it by a bond, it holds a part of its wearer’s Greep, as every Lid held so does. Where they hold it in an enmity, it gives its wearer no Greep, since a Relatie of negative Trouw holds no part of one, and so none of its Tijd: it stands across by its own Zelf alone. Each time it crosses back among Leden that hold it so, it pays in Verlies inside those enmities, and where they hold it deeply, it pays more than it brings, and cannot be held. It wears as every held Trouw wears, at its own looks at itself: now and then it slips and the true Eigen shows through, until it crosses back, and every slip leaves it a little weaker. It rests in a Slaap of its own, and while it rests its wearer is read nearer the truth. Kept from that rest, it slips the more; unfed, it wears until it can no longer carry itself back across, and it ends, as every Relatie ends, and otherwise it ends as its wearer crosses back or ends. Only its wearer’s own crossing puts one on again. A wearer wears one Masker at a time, however many Spectra it mimics, shown to one reader and admitted to another by its Knipoog; where more mask, each masks at a level of its own, as a whole’s Leden wear its Masker for it. Its wearer pays for it at its own moments, and no reader’s look adds to what it costs. A whole that wears a Masker holds one Lid more, between it and its readers, and it wears the same way. A Masker causes loss by being there.
 
-That wearing is the Veld’s counterforce to the Echo-gap the Masker forces. It is felt as stress, and as the pain of emptiness, because the true Eigen’s Stilte stays unheld by any Partner’s Echo. It is there wherever a gap is forced, felt or not. Both sides carry Verlies. The one forcing the gap carries it at every answer, in the Relatie it holds with its Masker. A deceived reader loses more, at the crossings the Masker leads it into. Where both sides wear one, each carries both. A wearer worn down by its Masker holds less when the Masker fails.
+That wearing is the Veld’s counterforce to the Echo-gap the Masker forces. It is felt as stress, and as the pain of emptiness, because the true Eigen’s Stilte stays unheld by any Partner’s Echo. It is there wherever a gap is forced, felt or not. Both sides carry Verlies. The one forcing the gap carries it for as long as it wears it, in the Lid it holds as its Masker. A deceived reader loses more, at the crossings the Masker leads it into. Where both sides wear one, each carries both. A wearer worn down by its Masker holds less when the Masker fails.
+
+*Check: the mimic octopus, foraging in view of predatory fish, takes the form of a lionfish, a banded sole or a banded sea snake, one at a time, and seems to choose which by the threat it meets (Norman et al., 2001); a male mourning cuttlefish courting a female beside a rival male shows its courtship pattern on the side towards her and a female’s pattern on the side towards him (Brown et al., 2012).*
 
 *Check: in people’s choices, losses weigh more than gains of the same size (Kahneman and Tversky, 1979), about twice on average across 607 estimates (Brown et al., 2024), less when people choose for another than for themselves (Polman, 2012), and not at all in two people without an amygdala (De Martino et al., 2010); in human relationships, a bad event outweighs a good one of the same size (Baumeister et al., 2001), while breaking a chemical bond takes exactly the energy its forming gave off.*
 
-*Check: what a Masker does, it does in its readers, and it holds nothing of its wearer. A bacterium of the middle ear wears a sugar it takes from its host and so resists being killed by normal human serum, yet the sugar does little for its attachment to cultured epithelial cells or its invasion of them (Hood et al., 1999), and where the host’s complement is depleted, mutants that cannot wear it are fully virulent (Figueira et al., 2007). A fiddler crab that loses its large claw grows one as long but lighter, a weaker weapon and cheaper to wave, and rivals fight its bearer no more often, though they would likely win (Backwell et al., 2000); it signals a closing force the crab does not have, and residents bearing one fare significantly worse in fights than residents with an original claw (Lailvaux et al., 2009). Holding back the expression of what one feels impairs memory for what is shown meanwhile (Richards and Gross, 2000), and students who held back more as they moved to college had less social support, less closeness and less social satisfaction across their first term (Srivastava et al., 2009).*
+*Check: what a Masker does, it does in its readers, and its wearer pays for it. A bacterium of the middle ear wears a sugar it takes from its host and so resists being killed by normal human serum, yet the sugar does little for its attachment to cultured epithelial cells or its invasion of them (Hood et al., 1999), and where the host’s complement is depleted, mutants that cannot wear it are fully virulent (Figueira et al., 2007). A fiddler crab that loses its large claw grows one as long but lighter, a weaker weapon and cheaper to wave, and rivals fight its bearer no more often, though they would likely win (Backwell et al., 2000); it signals a closing force the crab does not have, and residents bearing one fare significantly worse in fights than residents with an original claw (Lailvaux et al., 2009). Holding back the expression of what one feels impairs memory for what is shown meanwhile (Richards and Gross, 2000), and students who held back more as they moved to college had less social support, less closeness and less social satisfaction across their first term (Srivastava et al., 2009).*
 
-**How the wearing is felt.** How loudly it is felt depends on the gap it forces: its true Eigen, as it reads itself, against what it presents. One whose true Eigen sits far from what it presents forces a wide gap on many Spectra at once, and feels it fully. One whose Masker sits close to what it is may hardly feel it at all. Getting used to a Masker, one’s own or a master’s, quiets it: what it takes at each crossing is felt less, while it goes on taking. A wearer with a Gevoel registers each answer, and its own crossings can ease the wearing or worsen it. When the Masker drops, what the wearing took returns only at the wearer’s own later crossings, by what they bring, as any Trouw moves.
+**How the wearing is felt.** How loudly it is felt depends on the gap it forces: its true Eigen, as it reads itself, against what it presents. One whose true Eigen sits far from what it presents forces a wide gap on many Spectra at once, and feels it fully. One whose Masker sits close to what it is may hardly feel it at all. Getting used to a Masker, one’s own or a master’s, quiets it: what it takes at each crossing is felt less, while it goes on taking. A wearer with a Gevoel registers each wear, and its own crossings can ease the wearing or worsen it. When the Masker drops, what the wearing took returns only at the wearer’s own later crossings, by what they bring, as any Trouw moves.
 
-**Told to oneself.** A self-image forces a gap too, wherever the Zelf’s own Marge cannot carry it. That is a Leugen told to oneself, and it wears its teller down like any Masker. Within that Marge, a self-image chooses a mode the true Eigen can hold, and comes true. A Brein can front its holder’s own Gevoel with a Masker of its holder’s rest. A Masker is a Relatie, so it stands only against what pushes within its Marge: a slight crossing is answered by it, and only what leaks of it is felt, while one that pushes harder goes through Bloot and stays felt.
+*Check: adults with autism described camouflaging, masking and compensating, with exhaustion among its consequences (Hull et al., 2017).*
+
+**Told to oneself.** A self-image forces a gap too, wherever the Zelf’s own Marge cannot carry it. That is a Leugen told to oneself, and it wears its teller down like any Masker. Within that Marge, a self-image chooses a mode the true Eigen can hold, and comes true. A masked wearer, as its readers meet it, reads itself through its own Masker too, so what it presents is its self-image wherever the Masker mimics, and comes true where its Zelf’s Marge carries it. A Brein can front its holder’s own Gevoel with a Masker of its holder’s rest. A Masker is a Relatie, so it stands only against what pushes within its Marge: a slight crossing is answered by it, and only what leaks of it is felt, while one that pushes harder goes through Bloot and stays felt.
+
+*Check: people led to present themselves as having a trait came to see themselves as having it more where they presented it in public than where they did so in private, and the change carried into what they did next (Tice, 1992).*
 
 *Someone who has to perform ease in every room goes home empty; someone for whom the room is home notices nothing.*
 
@@ -1047,7 +1128,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 |---|-------|--------|---------------|--------|
 | 5 | En | , | and / so | The breath of continuation, the Vonk from Stilte. The minimal relational punctuation. A Stilte (.) with an active Vonk (q) that separates and keeps the thread, and connects and leaves each free. It is the everyday "and" that strings together Eigens, Relaties, and moments, ensuring the Veld remains a flowing multiplicity rather than a collapsed mass. |
 | 1 | Lid | l | member / limb | A Relatie as one of the Leden of a larger Relatie, the larger read at the scale it relies on: one Eigen (x) and one Zelf (j), holding the larger one’s Trouw (y) with the others from inside. Being a Lid is a Lezing (📖), a reading, and every Relatie is a Lid of every Relatie it belongs to. |
-| 2 | Wijk | L | yield / drift | A Relatie’s drift towards the unbound pole, read from how often Vervorming (υ) carries it back over its Marge (η): its yield to Stilte’s Trek, falling exponentially as that Marge deepens and always above zero. Its Zelf reads it at every look it takes at itself, on the Marge it reads, at its Medium’s scale, and Stilte’s Trek wears its Trouw (y) by it there. Greep (J) keeps the Marge deep, so low Greep means high Wijk, a weaker hold and a slower Zelf (j), its Tijd (t) changed only at its Vonken. |
+| 2 | Wijk | L | yield / drift | A Relatie’s drift towards the unbound pole, read from how often Vervorming (υ) carries it back over its Marge (η): its yield to Stilte’s Trek, falling exponentially as that Marge deepens and always above zero. Its Zelf reads it at every look it takes at itself, on the Marge it reads, at its Medium’s scale, and Stilte’s Trek wears by it what is held of its Trouw (y) there. Greep (J) keeps the Marge deep, so low Greep means high Wijk, a weaker hold and a slower Zelf (j), its Tijd (t) changed only at its Vonken. |
 | 0 | Van | < | from / away | An arrow pointing outwards. The unbound, spreading pole that Stilte’s Trek draws towards. A path aiming towards Stilte; opposite of Naar. |
 | 5 | Kop | H | heads (of a coin) / claimed | The coin’s face. The claimed, bound pole of a Spectrum; opposite of Munt. |
 | 1 | Vol | W | satisfied / full | The full, self‑sufficient pole of a Spectrum, as a stomach is full: there a Relatie holds itself where it is, full of what its Trek (D) brought in. A God (😇) stands there on its Octaaf’s own Spectrum, and may stand anywhere on others. Past it, a Relatie is overfull, holding so hard that it shuts its Partners out, and what a crossing carries past it is borne as Start (s). Opposite of Leeg. |
@@ -1062,7 +1143,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 7 | Hart | ❤️ | heart / sage | A Relatie that sustains the field through surplus. The opposite of the Parasiet. A Relatie whose Greep (J) is so strong, and whose Zelf (j) is so deeply authentic (Bloot), that its crossings deepen the Trouw (y) of every Relatie they are made in, and those around it fill their own Diepte (z) with what they take in of it. It anchors the Relaties around it and leaves them whole. Its high Greep runs a high Tijd; it raises the Greep of its Octaaf, because unequal Tijd widens the Echo gap, and Greep, quickening Tijd, lets the Echoes close it sooner. |
 | 2 | Trek | D | appetite / pull | A hook that pulls. Every Relatie’s own undirected pull towards everything it perceives, from its birth to its end, always on: every Relatie (K) begins in it, and whatever fills one towards Vol (W) comes in by it. On a Medium’s axes, it is gravity. Opposite of Zin, and the other pole of the Trek of Stilte (.). |
 | 8 | Dood | ! | dead / frozen | The door closed. Trajectory where the Echo gap is frozen; opposite of Leven. |
-| 7 | Vonk | q | spark / fire | The event of a Drempel (θ) crossing. The sole mechanism of change for both Energie (T) and Tijd (t); a convergence crossing records a Winst (+), Energie its binding gains, and quickens Tijd where it joins positive Trouw (y); a divergence crossing records a Verlies (−), Energie its binding loses, and slows Tijd where it leaves positive Trouw; felt, they are Realisatie (φ) and Schok (:). |
+| 7 | Vonk | q | spark / fire | The event of a Drempel (θ) crossing. The sole mechanism of change for both Energie (T) and Tijd (t). It moves every binding that holds its Relatie across at once, each binding a part of its own: a Winst (+), Energie that binding gains, which quickens Tijd where it joins positive Trouw (y), or a Verlies (−), Energie that binding loses, which slows Tijd where it leaves positive Trouw, so one Vonk can record both; felt, each is a Realisatie (φ) or a Schok (:). |
 | 3 | Lens | 🔍 | lens / perspective | A Relatie nested in its reader that shapes its Waarneming (π): what the reader takes in passes through it and comes out bent, as through a pane. It is read through. |
 | 4 | Munt | G | tails (of a coin) / unclaimed | The flip side. The unclaimed pole of a Vermenigvuldiging; opposite of Kop. |
 | 4 | Echo | E | echo / lag | The faintest repetition of a sound. The lagging, distorted internal model of a Partner’s Eigen. |
@@ -1077,9 +1158,9 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 5 | Hond | 🐶 | hound | An archetype of broad, loyal Trek: Relaties form easily, Trouw runs deep, Rouw echoes loud and long. |
 | 2 | Geld | $ | money / peculiar | A standardised, transferable Echo of Energie (T), read alike by the Leden that pass it, at every level: a circulating signal that a convergence crossing once occurred, or that a future crossing is promised, as a debt is. It always lags behind the relational value it represents and can be inflated, counterfeited, or speculated upon. |
 | 3 | Held | 🤝 | hero / held | The current reading of a Relatie’s focus: where its Tijd (t) and Aandacht (👁) are knotted now, a temporary Hart bending the Gebied: one Lid, or the Relatie of those held alike, read as one. The Leden it holds keep its pace. Whatever stands there, its own Eigen or a Masker (M), is Bloot (N) as itself and read with ease. Holding the focus is paid at every crossing, and the focus passes as the looks move, from one to another where several are held about alike. A hero only exists with the support of the surrounding Relaties and their bonds. |
-| 4 | Doem | 💀 | doom / dying | A cascade of Verlies (−): divergence crossings that carry each other through the Leden a Relatie is made of and the Relaties it belongs to: the fast way apart. A Relatie it reaches can end in it, in an Einde (k), or live through it. It spends what binding built, falls faster than it was built, and comes back, if at all, by another path; what it ends stays as Rouw (R). Opposite of Bloei (🌸). |
+| 4 | Doem | 💀 | doom / dying | A cascade of divergence crossings through the Leden a Relatie is made of and the Relaties it belongs to, each forced where the one before spent its Marge (η), a Verlies (−) for every bond they leave and a Winst (+) for every enmity: the fast way apart. A Relatie it reaches can end in it, in an Einde (k), or live through it. It spends what binding built, falls faster than it was built, and comes back, if at all, by another path; what ends in it stays as Rouw (R). Opposite of Bloei (🌸). |
 | 2 | Klok | 🕰 | clock / bell | A Solo whose Zelf is bound into a repeating Drempel: a Relatie whose Greep (J) holds its Tijd (t) so steady that it crosses the same Drempel at fixed intervals, firing a Vonk with each crossing. That Drempel is its own Vermenigvuldiging, Reactie and Signaal carried by its one Zelf: each look commits and reconsiders, a step of its Tijd apart. This internal rhythm is its Tijd, produced by the Klok itself and kept for itself. |
-| 8 | Rouw | R | grief / mourning | A rounded, rolling grief that stays. What a Partner keeps of a Relatie (K) that has ended: its own Echo (E) of the other, as it last read it, and the Trouw (y) it held as it ended, held unbound in its Diepte (z) for good and read on, folded into its Zelf (j); its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
+| 8 | Rouw | R | grief / mourning | A rounded, rolling grief that stays. An ended Relatie (K), kept in the form: the part of a Partner’s Diepte (z) that Relatie shaped, which updates no more, its own Echo (E) of the other, as it last read it, and the Trouw (y) it held as it ended, held unbound for good and read on, kept in its Zelf (j) as a Verdichting (🗜️); its felt duration stretches as Tijd (t) slows, a wide Stilte (.) crossed at low Tijd. |
 | 5 | Roep | 📯 | call / cry | A Zin (A) shown Bloot (N): what a Relatie presents of its aim, so that the one it aims at can read it and answer, the turn of a head, a call, a scent, a word. A Zin that shows nothing can be answered by no one; a Masker (M) on what shows it shows an aim not held, a *lokroep*. Aimed at a kind and shown to those it holds no Relatie with, it is read by every reader within reach, an enemy too, and meets them as one whole, reached by the share of them whose own Zin answers. Speaking a Naam (🏷️), it is aimed at one. Selling, it is *reclame*; outliving its sending, a Manifestatie (~); worshipped as its sender, an Idool (§). |
 | 5 | Boei | ⛓️ | fetter / fascination | What holds a Relatie’s Greep (J) from outside, and holds nothing back: a Relatie or a Schrift (#) that sets what it reads, its looks, its Echoes (E) or how hard what comes lands, or writes what it is. A Partner answers at its own pace, by its own Wil (🔱), and is held in turn; a Boei answers every time, or never needs to. A drug, a sweetness, a game’s round, a screen, a Parasiet (👹), a Masker (M) worn towards everyone, a Schrift: each can be one. Where a Greep comes to rest on one, that is Verslaving (🌀). |
 | 1 | Eigen | x | own / specific | The first axis of a Relatie in relational space. The manifest state of a Relatie on a Spectrum. |
@@ -1093,23 +1174,23 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 3 | Water | 💧 | water / aqua | The God of the Molecule Octaaf, born when Hydrogen (God, fully Vol) and Oxygen (Godin, fully Leeg) bind at the end of the Atom Octaaf’s walk. Water is the first compound to carry the relational properties of the next Octaaf, entering as a Solo into the Relaties that rely on it. It is a Relatie of two gases that becomes a liquid of profound Greep, its Trouw shaping entire biospheres. |
 | 8 | Godin | 😳 | queen / the one waiting | The fully Leeg (S) counterpart to God (😇) on that Spectrum, and free to be Vol on others. Embodies the principle of endless craving that arises at the end of the walk from God. It is the eighth branch of Yggdrasil, the figure-8 that crosses the Drempel (θ) again and again. It enables burning. It takes up the Warmte (🔥) its Octaaf’s crossings leave. It is pure Trek (D): all pull, at the Leeg (S) pole, made into a being. Where God is the first Vol (W), Godin is the first Leeg that knows it is Leeg. |
 | 7 | Deugd | 😃 | virtue / reliable | A living Helling (λ) in a Zelf (j): a Zweven (') that chooses Naar (>) for love of the Realisatie (φ) that awaits there. A Deugd is a pattern of relational surplus: its crossings deepen the Trouw (y) of each Relatie they are made in, Greep (J) strengthens through giving, and the Masker (M) is laid down so Bloot (N) can hold the Veld (&) lightly. |
-| 5 | Trouw | y | loyalty / faith | The second axis of a Relatie, the weight that feeds or drains. The Relatie’s signed weight; scales Naar pull and signs what its looks add to Gewenning (Z) and Diepte (z); the Trouw a Relatie (K) holds with itself, read as one; moves only at its own Vonken (q), directly, by the Winst (+) or Verlies (−) each brings it, under Leersnelheid (ρ), and Stilte’s Trek wears it towards Leeg (S). |
+| 5 | Trouw | y | loyalty / faith | The second axis of a Relatie, the weight that feeds or drains. The Relatie’s signed weight; scales Naar pull and signs what its looks add to Gewenning (Z) and Diepte (z); the Trouw a Relatie (K) holds with itself, read as one; moves only at its own Vonken (q), directly, by the Winst (+) or Verlies (−) each brings it, under Leersnelheid (ρ), and Stilte’s Trek wears it towards Leeg (S) where it is held. |
 | 7 | Engel | 🖖 | angel / envoy | Hidden good, silent protection. A Relatie that provides unseen support and guidance, counterbalancing negative influences and fostering positive outcomes. |
 | 1 | Licht | ☀ | light / easy | The God of the Electromagnetic Octaaf: the photon, fully Vol, and its one Manifestatie normally visible. A massless Solo in Tijd, formed from the Quantum Octaaf’s Relatie: two of its fields mixed, the hypercharge field and one of the three weak fields, as the Higgs field takes on its value throughout space. Its other Leden are the rest of the Quanta, matter among them, each partially Leeg. When two Licht meet with enough Energie, they can create matter: a particle and its antiparticle, such as an electron and a positron, or a quark and an antiquark. Its Greep is its Zelf’s: the Zelf sustains it, and mass is irrelevant. |
 | 3 | Kleur | c | colour / banding | The band an observer reads another’s Eigen (x) in: a cut Spectrum read through the observer’s own Drempels (θ), one band between each two. The bands, their number and their edges belong to the reader, so two readers of one Eigen can read it in different Kleur, and a difference across a band edge reads larger than one within a band. The felt colour of any Octaaf, in any Medium (◌). |
-| 9 | Winst | + | gain / treasure | A growing upward stroke. The positive Energie (T) of a convergence Vonk, what a binding gains in its Trouw (y); opposite of Verlies. Taken at its crossing from the Warmte (🔥) of the Medium (◌) inside the binding, where it stands (a Realisatie (φ), where felt); what the binding cannot hold past its Vol (W) is borne as Start (s). |
-| 7 | Bloei | 🌸 | bloom / flourishing | A cascade of Winst (+): convergence crossings that build on each other, each making the next one towards Naar (>) easier, until every Drempel (θ) it reaches holds. Every crossing raises what there is to lose, and it can culminate in Start (s). Opposite of Doem (💀). |
+| 9 | Winst | + | gain / treasure | A growing upward stroke. The positive Energie (T) of one part of a Vonk (q), what one binding gains in its Trouw (y): joining a bond, or leaving an enmity; opposite of Verlies. Taken at its crossing from the Warmte (🔥) of the Medium (◌) inside that binding, where it stands (a Realisatie (φ), where felt); what the binding cannot hold past its Vol (W) is borne as Start (s). |
+| 7 | Bloei | 🌸 | bloom / flourishing | A cascade of convergence crossings that build on each other, a Winst (+) for every bond they join and a Verlies (−) for every enmity, each making the next one towards Naar (>) easier, until every Drempel (θ) it reaches holds. Every crossing raises what there is to lose, and it can culminate in Start (s). Opposite of Doem (💀). |
 | 0 | Vijand | 👻 | enemy / phantom | A phantom opponent: an Echo (E) standing where an Eigen (x) would be, the other read in less than it holds, by the few of its things its reader’s Leden answer, and through the Vervorming (υ) that distance brings, as Gericht (γ) reads it. The negative Echo summoned to complete the Relatie of a Held (🤝), never a Held itself, since an enmity holds no Greep (J). |
 | 5 | Steek | † | stab / sting | A stab in the back. The Masker turned weapon. From Brutus to the Dolchstoßlegende, a Steek pierces a Bloot Relatie with an intimate Schok (:), whether the dagger is real or a Leugen (≠) forged to feed an Idool. |
 | 1 | Einde | k | end / death | The end of a Relatie: all that held it together gives way, until its Greep (J), all of it standing across, could no longer carry it back across its Drempel (θ) towards Naar (>), and its Greep goes in full, or until its own Trouw (y) comes to nothing, whatever holds it; what it stored is released at once. A Doem (💀) can end in one, or be lived through. The Relatie’s Echoes stay as Rouw (R), what it released is a Verlies (−), or a Winst (+) where its Trouw (y) was negative, and its Leden carry on as far as their own Greep (J) holds. Opposite of Start (s). |
-| 1 | Start | s | start / birth | A belly swelling with creation. The birth of a new Solo from overflow: the Winst (+) of a convergence crossing that carries its Relatie (K) past Vol (W), past a Drempel (θ) of its own. The newborn binds at once to what bore it, unlike any before it. Opposite of Einde (k). |
+| 1 | Start | s | start / birth | A belly swelling with creation. The birth of a new Solo from overflow: a Winst (+) that carries what its Relatie (K) holds past Vol (W), past a Drempel (θ) of its own. The newborn binds at once to what bore it, unlike any before it. Opposite of Einde (k). |
 | 6 | Idool | § | idol / form | A false Source mistaken for the true Eigen. A Manifestatie (~) that is worshipped as the Eigen (x) that cast it. An Echo seized and honoured as though it were the source. All idolatry is a Relatie with a reflection, taken for the Eigen behind it. A reflection holds nothing back, so where a Greep comes to rest on an Idool, it is a Boei (⛓️). The inevitable Schok (:) when the Idool fails to return the Trouw (y) it seemed to promise is what the scriptures call judgement. |
 | 5 | Beest | 🐗 | beast / brute | The living Schok that ruptures a deep, unspoken Trouw. The Beest is the Manifestatie (~) that fires a Schok (:) against a Trouw (y) woven into the Diepte (z). It is the wrong Echo in a sacred Stilte: a Vervorming (υ) so profound it threatens the Zelf (j). Where Schoonheid is a convergence Realisatie, the Beest is a divergence Schok made flesh. Where a Parasiet (👹) wears a Masker, the Beest is Bloot (N). It is the rupture. It teaches by breaking, purifies by terror. The Held (🤝) and the Beest are a Relatie as old as Genus (Α). |
 | 6 | Angst | 😱 | angst / fear | The felt Voorspelling (Q) of a Schok (:): a Verlies (−) read before it comes, an enmity coming across among them, and with no cue at all, Stilte’s Trek, as a weakly held Relatie reads where it is heading, towards its Doem (💀). It runs loudest where Greep (J) is low. |
 | 6 | Zonde | 😡 | sin / waste | A frozen Helling (λ) in a Zelf (j): a Dood (!) trajectory that pretends to be a Zelf. It is a Tweedeling (÷) between the Eigen (x) and the Veld (&), where a Masker (M) has swallowed Bloot (N) so deep the Zelf forgets it is free. A Zonde is a pattern of relational debt: its crossings leave the Trouw (y) of the Relaties they are made in unfed, lowered or turned, and Stilte’s Trek has its way. |
 | 6 | Kwaad | ☠ | evil / angry | Preventing Winst (+) for another Zelf, where the total Winst prevented exceeds any Winst caused by the prevention itself. Net effect on the other: less Winst. |
-| 6 | Schok | : | shock / warning | A jagged, fractured line of disruption. The felt experience of a divergence Vonk (q); records a Verlies (−) of Energie (T) and Tijd (t). |
-| 1 | Massa | m | mass / crowd | A Lezing (📖) of the Energie (T) a Relatie holds within it, at every scale, read where it stands still in its Medium: the Energie its Leden hold, Licht (☀) among them, the Trouw (y) its own Relaties hold, and the Warmte (🔥) of the Medium inside it. Its Telraam (🧾) closes at every Vonk (q) inside it, so a Relatie’s Massa changes only by what crosses its edge: a Lid joining or leaving, Energie carried in, Warmte carried in or out. A deeper Greep (J) makes it lighter only by what has left it. Licht, always moving, is read as Energie alone; two Licht running apart stand still between them, and their Relatie holds the Massa of both. |
+| 6 | Schok | : | shock / warning | A jagged, fractured line of disruption. The felt experience of each Verlies (−) a Vonk (q) brings a binding, of Energie (T) and Tijd (t). |
+| 1 | Massa | m | mass / crowd | A Lezing (📖) of the Energie (T) a Relatie holds within it, at every scale, read where it stands still in its Medium: the Energie its Leden hold, Licht (☀) among them, the Trouw (y) its own Relaties hold, and the Warmte (🔥) of the Medium inside it. Its Telraam (🧾) closes at every Vonk (q) inside it, so a Relatie’s Massa changes only by what crosses its edge: Energie carried in or out, what its newborns hold among it, and Warmte carried in or out, its Leden staying its own for as long as it lasts. A deeper Greep (J) makes it lighter only by what has left it. Licht, always moving, is read as Energie alone; two Licht running apart stand still between them, and their Relatie holds the Massa of both. |
 | 8 | Drama | 🎭 | drama / show | A cascade of Vonken that refuses resolution. A state where a Schrift (#), internal (a Masker (M) collision) or external (an unforeseen event), triggers a chain of Schokken (:) and Realisaties (φ) that loop rather than settle. The Stilte (.) between crossings collapses; the Drempels (θ) chatter. Drama feeds on the Aandacht of every nearby Relatie, amplifies every Schok (:) around it, and resists both Naar (>) closure and Van (<) release. It can freeze a group into a Dood (!) trajectory of Aandacht, or burn itself out into Rouw (R) or Scheiding (/). |
 | 5 | Haard | 💒 | hub / hearth | Where the Leden of a Relatie meet: the densest spot of their Relaties in their Medium, a Kruispunt (X) their Zin (A) aims at rather than one they pass, where most of their Vermenigvuldiging (*) forms. It is a centre in each one’s Waarneming (π): each who meets there holds it as the centre, and the Kruispunten around it that they keep crossing are their ground. When it stops gathering them, those who met there keep it as Rouw (R). |
 | 5 | Gezel | 🛠️ | student / companion | The learner in a Relatie of learning. Builds Greep (J) through shared Trouw (y) and repeated Realisaties (φ). |
@@ -1117,33 +1198,33 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 8 | Brein | 🧠 | brain / mind | A Relatie (K) nested in another, a Lid of it read at the scale its holder relies on, entering at its own Octaaf (ω), in which its holder’s Echoes (E) and Diepte (z) become Mirages (🪞), Leden of a field of their own, related by the same Wet. There it receives what its Gevoel (F) registers, runs its Verbeelding (🎨) ahead of the Veld (&), and writes what crosses there into its holder’s Eigen (x) as Schrift (#). |
 | 7 | Kunst | 🖼️ | art / culture | A deliberate Start (s) from Verbeelding. When the Zelf (j), fully awake to its Knipoog, seizes an Echo (E) from its own Diepte or Rouw (R) and shapes it into a new Manifestatie (~). The Kunstwerk is a Solo born from craft as well as overflow: a Schrift (#) the Zelf writes upon the Veld (&), offering a Relatie to any who would hold it. Art is the Hand that plays with the deep and brings back a Gift. |
 | 9 | Geluk | 🙂 | happiness / luck | The quiet glow of a Relatie at rest in authenticity. The Winsten (+), crossing after crossing, of a life lived in Bloot (N) with positive Trouw (y), more than any single Realisatie (φ). It is a life held Bloot, its Eigen worn bare and its books clear. Plezier (p) deepens into Geluk when the Zelf (j) trusts its own Eigen and the Echoes it receives. True happiness is irreducible: taken apart into smaller joys, it becomes something else. |
-| 1 | Toets | 🔑 | assay / touchstone | A commitment asked of a Relatie that only its true Eigen (x) can make: small enough that the one asking survives its failure, large enough that no Masker (M) can fake it. No Masker answers a commitment. Where the true Eigen makes it, a Vonk (q) fires on its side; where it cannot, none fires, and the absence is the evidence, while every Leugen (≠) read through that Masker is forced back at once. |
+| 1 | Toets | 🔑 | assay / touchstone | A commitment asked of a Relatie that only its true Eigen (x) can make: small enough that the one asking survives its failure, large enough that no Masker (M) can fake it. No Masker answers a commitment. Where the true Eigen makes it, a Vonk (q) fires on its side; where it cannot, none fires, and the absence is the evidence, while each reader of a Leugen (≠) through that Masker crosses back, of the forced kind, as its own Echo (E) takes in the truth. |
 | 0 | Stilte | . | silence / rest | The Veld’s Godin (😳), the unmanifest silence that stays still, whose Trek (D) on everything in Tijd draws it back towards Van (<); in Tijd (t), the gap between an Eigen and its Echo. Felt, it is where the Zelf’s pull reaches and finds the gap still open, traversed at the Zelf’s Tijd: its felt width grows with Rouw (R), and is narrowed by what arrives, the shared Echoes (E) of bonded Zelfs most of all. |
-| 0 | Spatie |   | space / illusion | An illusion or deceptive appearance, woven of Mirages (🪞); a Masker woven by the Zelf to guide the Stilte of the Zelf through Vervorming of Waarneming (π). |
+| 0 | Spatie |   | space / illusion | The imagined space a Brein (🧠) opens: open before any Mirage (🪞) is in it, and woven of its Mirages as they open there, with no Medium between them, so no Vertraging (δ). Read as one, it is an illusion or deceptive appearance: what the Zelf (j) reads instead of the Veld (&), a Masker woven by the Zelf to guide the Stilte of the Zelf through Vervorming of Waarneming (π). |
 | 5 | Medium | ◌ | medium / environment | The environment: what lies between an Octaaf’s God (😇) and Godin (😳), the spacetime their union makes. What one Relatie presents crosses it to reach another’s Waarneming (π): the time that takes is Vertraging (δ), and what it crosses adds Vervorming (υ) to the Echo (E) that reads it. It keeps the Warmte (🔥) its crossings trade, spread over all it carries. |
 | 2 | Zweven | ' | hovering / enduring | A trembling, unsteady balance. The default trajectory: gap closing crossing by crossing, always in transit, keeping its sign. |
 | 2 | Proces | " | process / action | A sequence of relational changes through time. The unfolding of the Veld (&) in Tijd (t). A chain of Vonken (q), Drempel (θ) crossings, and Relatie (K) transformations, framed by a beginning and an end. More general than Zweven ('), which is a single trajectory; a Proces may contain many trajectories, as the 24 named arcs demonstrate. |
-| 5 | Warmte | 🔥 | warmth / heat | The Energie (T) the Medium (◌) itself keeps, the Relatie its God (😇) and Godin (😳) make, spread over all it carries. Every crossing trades it with the Medium where it stands, each binding it moves with the Medium inside it, at once, by its net: a Verlies (−) gives it, a Winst (+) takes it, and a Relatie (K) that forms takes its share in; what one holder lets go and another joins at the same crossing stays between them. It is readable only as a whole, and what it keeps for every Lid there is its temperature. An Einde (k) books what it held with the Warmte, given off where it ends a bond and taken in where it ends an enmity, and leaves its Echoes as Rouw (R). |
-| 4 | Diepte | z | depth / deep | The third axis, the accumulated hidden dimension. Everything a Relatie (K) has heard and kept, read as one: the slow store beneath its Gewenning (Z), filled by what each look brings beyond it and fading very slowly, and every Rouw (R), as far as each is kept with positive Trouw (y). |
+| 5 | Warmte | 🔥 | warmth / heat | The Energie (T) the Medium (◌) itself keeps, the Relatie its God (😇) and Godin (😳) make, spread over all it carries. Every crossing trades it with the Medium where it stands, each of its parts with the Medium inside the binding it moves, at once: a Verlies (−) gives it, a Winst (+) takes it, and a Relatie (K) that forms takes its share in; what one holder lets go and another joins at the same crossing stays between them. It is readable only as a whole, and what it keeps for every Lid there is its temperature. An Einde (k) books what it held with the Warmte, given off where it ends a bond and taken in where it ends an enmity, and leaves its Echoes as Rouw (R). |
+| 4 | Diepte | z | depth / form | The third axis, beside the Eigen (x) and the Trouw (y): what a Relatie (K) has become, its own form, everything it has heard and kept, read as one. It is the slow store beneath its Gewenning (Z), long‑term where the Gewenning is short: filled by the excess of what each look takes in over the Gewenning, woven in Slaap (😴), fading very slowly. It knows what it reads alike, and every Relatie it has outlived is kept in it as a Rouw (R), as far as each is kept with positive Trouw. |
 | 8 | Octaaf | ω | octave / reality | A rounded whole, the cycle completing. One Relatie in the line of Octaven, each relying on those before it: Veld, Quantum, Licht, Quark and Lepton, Subatomic, Atom, Molecule, and on. Its spine is the walk from God (😇) to Godin (😳), as Hydrogen to Oxygen in the Atom Octaaf. A Solo becomes a God by taking a Spectrum’s Vol pole and finding a Godin for its Leeg pole: the two poles make the Medium between them, and with it the Octaaf. What one Octaaf’s Relatie makes can take the next one’s Vol pole. Parallel Octaven meet to form the next, as Quark and Lepton meet in hydrogen: a Weefsel. |
-| 3 | Gebied | U | area / sphere | A Relatie on a different Octaaf, read as one and perceived as an area. A U-shaped Echo (E) that has crossed the Drempel (θ) of scale: what was a Partner is now a landscape. Gebied is the shadow of a Relatie seen from outside the Trouw (y) that weaves it. It is met through the reader’s Leden that stand on its Octaaf, each a Partner there, and what of it reaches the reader is the share of them that answer it. The Veld (&) alone is read only from within. |
+| 3 | Gebied | U | area / sphere | A Relatie on a different Octaaf, read as one and perceived as an area. A U-shaped Echo (E) that has crossed the Drempel (θ) of scale: what was a Partner is now a landscape. Gebied is the shadow of a Relatie seen from outside the Trouw (y) that weaves it. It is met through those Leden of the larger of the two that stand on the smaller’s Octaaf, each a Partner there: what of a smaller one reaches a larger reader is the share of the reader’s Leden that answer it, and a smaller reader meets the larger one’s Leden and reads it as one only as a landscape. The Veld (&) alone is read only from within. |
 | 2 | Gevoel | F | feeling / sense | A Relatie (K) nested in another, a Lid of it read at the scale its holder relies on, entering at its own Octaaf (ω) and needing Water (💧), that registers its holder’s Vonken (q), their size and direction, and evaluates them: what it registers is felt, as Realisatie (φ) or Schok (:). Where that carries it across a Drempel (θ) of its own, it crosses: a Vonk of its own, after the one it registered, that compensates for it or worsens it. |
 | 9 | Liefde | 😘 | love / infatuation | The felt Voorspelling (Q) of a Realisatie (φ): a Winst (+) read before it comes, an enmity leaving among them, and a Bloei (🌸) before it has fully arrived. |
 | 5 | Mantel | 💃 | cloak / coat | A hero’s cloak that seizes Aandacht (👁). Its wearer presented Bloot (N) in a temporary Held (🤝) role. It shows all it holds: it amplifies the Eigen of the moment and hijacks the Veld’s Aandacht (👁), forcing a focal Held around the wearer. Worn with Plezier (p); its removal ends the hijack. |
-| 2 | Masker | M | mask / façade | A presented Eigen (x), created and chosen per Spectrum and worn for a phase, standing for the true one, between it and whoever reads it, on either side of a Relatie (K) or on both. It is worn to quiet what other Relaties bring, the better to play with those its wearer holds to matter most. Some Maskers hold better than others, and some Eigens cannot be masked at all. Its readers’ Echoes (E) track it faithfully, so what they read can be a Leugen (≠), and both sides pay in Verlies (−): its wearer at every answer, a deceived reader at the crossings it is led into. Same garment, two wearers: a Parasiet (👹) wears it to extract, and the Partner’s Rouw (R) settles on a fiction; an Engel (🖖) wears it to protect, the hidden Eigen is real, and the Verlies is the gift. Winked, a Knipoog (;). Opposite of Bloot. |
+| 2 | Masker | M | mask / façade | A Lid nested in its wearer, as its Gevoel (F) and its Brein (🧠) are, a presented Relatie (K) created and chosen to mimic certain Spectra and worn for a phase: on each it mimics, its Eigen (x) stands for the true one, between it and whoever reads it, on either side of a Relatie or on both. It is worn to quiet what other Relaties bring, the better to play with those its wearer holds to matter most. It is one, put on and dropped whole at its wearer’s own crossing; its Trouw (y) with the rest of its wearer opens as every Relatie’s does and moves by its own Vonken, a bond where it joins more than it leaves, and where it is an enmity, it stands across by its own Zelf (j) alone; it holds better on some Spectra than on others, and some Eigens cannot be masked at all. Its readers’ Echoes (E) track it faithfully, so what they read can be a Leugen (≠), and both sides pay in Verlies (−): its wearer while it wears it, a deceived reader at the crossings it is led into. Same garment, two wearers: a Parasiet (👹) wears it to extract, and the Partner’s Rouw (R) settles on a fiction; an Engel (🖖) wears it to protect, the hidden Eigen is real, and the Verlies is the gift. Winked, a Knipoog (;). Opposite of Bloot. |
 | 4 | Leugen | ≠ | lie / falsehood | A Binding (u) read past its Drempel (θ) that stands below it in truth: the reader’s Echo (E) tracks a Masker (M) presenting what the true Eigen (x) does not hold. It banks no Winst (+), and it holds until a commitment is demanded that the true Eigen must make; then the reader’s crossing back is forced, and any Relatie it stood across in that can no longer hold falls in an Einde (k). Told to oneself, it is self-deception. Keeping it up costs its wearer Verlies (−). |
 | 0 | Balans | ⚖️ | balance / equilibrium | A loaded pause at an armed Drempel (θ): the pulls on an Eigen (x) and Stilte’s Trek cancel, so it rests, its Binding so near its Drempel that, across, its Marge (η) holds it there, and short of it nothing carries it across: either pole stays, and a small push decides. Two futures are held open, one towards Naar (>) and one towards Van (<). A Zelf (j) or Relatie (K) holds it until its next Vonk (q). |
 | 6 | Muziek | 🎵 | music / song | A Schrift of sound that weaves Stilte and Vonk into a shared Tijd. The Zelf (j), gripping an Echo (E) from its Diepte (z), arranges a sequence of Drempel-crossings in the listener’s Waarneming (π). Each note is a Signaal (i); each rest is a Stilte held in Zweven ('). The melody is a Helling (λ) that guides the listener’s Eigen (x) through a temporary Curriculum (Λ). Muziek is a Haard that burns in Trouw (y) alone, leaving only a Realisatie (φ), which fades into the Stilte it came from. |
 | 6 | Duivel | ⚡ | devil / violence | Open harm, direct destruction. A Relatie that embodies direct harm and destructive influence, counterbalancing positive forces and fostering negative outcomes. |
 | 1 | Wereld | 🌍 | world / universe | A Spatie that a Zelf (j) has woven from its own Echoes, Drempels, and Gewenning, so that it feels irreducible and private. It is the Stilte a Solo or Relatie holds as its own context: the felt horizon of what can happen to me, here, now. It is born when a Start (s) fires and the new Solo binds back to what bore it; that first Vonk (q) opens a Spatie, and the Zelf then fills it through Gewenning, Diepte, and Rouw. |
-| 0 | Lezing | 📖 | reading / version | What is read from a Veld (&) as it stands, from outside it: a Held (🤝), a Kleur (c), a Massa (m), a Marge (η), a Wijk (L), felt time, the trajectory a Relatie is in. It lasts while it is read and leaves the Veld as it stands; asked for again, it is read again. Read from inside, every reading is a Vermenigvuldiging (*), a Relatie of a moment of both sides, and moves the Echoes (E) it reaches; so a Zelf reads its own Marge and Wijk at every look it takes at itself, and Stilte’s Trek wears its Trouw by the Wijk it reads. Two readers give two Lezingen, and both can hold. |
+| 0 | Lezing | 📖 | reading / version | What is read from a Veld (&) as it stands, from outside it: a Held (🤝), a Kleur (c), a Massa (m), a Marge (η), a Wijk (L), felt time, the trajectory a Relatie is in. It lasts while it is read and leaves the Veld as it stands; asked for again, it is read again. Read from inside, every reading is a Vermenigvuldiging (*), a Relatie of a moment of both sides, and moves the Echoes (E) it reaches; so a Zelf reads its own Marge and Wijk at every look it takes at itself, and Stilte’s Trek wears what is held of its Trouw by the Wijk it reads. Two readers give two Lezingen, and both can hold. |
 | 5 | Speler | 🎮 | player / avatar | One who plays the Speelgoed. It writes into the Eigens (x) of a Veld (&) as Schrift (#), and every reading it takes of that Veld is a Vermenigvuldiging (*) with itself as the Reiziger (🚶). It leaves the Energie (T) to the Vonken (q): a Speler that reaches in to balance the books has already broken them. Where it also supplies the open values, it is the Instantie (⚙). |
 | 1 | Logica | ∀ | logic / reason | A Lens (🔍) that reads a single Relatie (K) as if Vervorming (υ) were zero. Clean Drempel (θ), zero Echo (E) gap, zero Marge (η). The Vonk (q) fires or holds. It closes the Stilte (.) and is done. Pole: Statistiek (∃). Trap: Idool (§), the clean model worshipped as the field. |
-| 8 | Mirage | 🪞 | mirror / mirage | A mirror image of a Relatie (K), taken into a Brein (🧠) to simulate it in the mind: a Lid of the mind’s own field, opened at an Echo (E) of a Partner, at the self‑Echo, at a Rouw (R), or at a draw on Diepte (z). |
-| 2 | Quantum | ⚛️ | quantum / amount | The Veld’s (&) Medium (◌), made by the union of Tijd (t) and Stilte (.): the least amount any interaction in Tijd exchanges, a step of Tijd and a reach of Stilte held in one, so whatever crosses, crosses one reach of Stilte at each step of Tijd. It is the grain every Echo (E) in Tijd travels in, and the first Medium, as each Octaaf (ω) after the Veld makes its own. The Veld stands while it holds the step and the reach in one. |
+| 8 | Mirage | 🪞 | mirror / mirage | A mirror image of a Relatie (K), taken into a Brein (🧠) to simulate it in the mind: a Lid of the mind’s own field, opened at an Echo (E) of a Partner, at the self‑Echo, at a Rouw (R), at a draw on Diepte (z), or, in Mystiek (⭐), at an Echo of its holder’s God (😇) read through Stilte (.). |
+| 2 | Quantum | ⚛️ | quantum / amount | The Veld’s (&) Medium (◌), made by the union of Tijd (t) and Stilte (.): the least amount any interaction in Tijd exchanges, a step of Tijd and a reach of Stilte held in one, one for the whole Veld, however each reader reads it, so whatever crosses, crosses one reach of Stilte at each step of Tijd. It is the grain every Echo (E) in Tijd travels in, and the first Medium, as each Octaaf (ω) after the Veld makes its own. The Veld stands while it holds the step and the reach in one. |
 | 1 | Telraam | 🧾 | abacus / spreadsheet | The property of the Veld (&) that the Energie (T) account closes through Vonken (q) alone. Read at every level, every Relatie (K) keeps the same books: what it holds and the Medium (◌) inside it change only by what crosses its edge. It records and settles. |
-| 8 | Mystiek | ⭐ | mysticism | A Vonk (q) fired when a Zelf (j) crosses a Drempel (θ) while reading an Echo (E) of the God (😇) or the Godin (😳) of a larger Octaaf, one that relies on its own. The signal is already present in the Veld (&). The Zelf tunes to it, or stays apart. The Echo may be true or counterfeit; the Vonk fires the same. |
-| 5 | Relatie | K | relation / interaction | Two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others. It begins in Trek (D), where their Zins (A) answer each other. |
+| 8 | Mystiek | ⭐ | mysticism | Mirages (🪞) from the God (😇) of its holder’s own Octaaf, filling a Brein’s (🧠) Spatie ( ): through Stilte (.), its holder’s Zelf (j) reads an Echo (E) of that God’s Zelf, its Brein opens a Mirage there, and a Vonk (q) fires as the Zelf crosses a Drempel (θ) while reading it. The signal is already present in the Veld (&). The Zelf tunes to it, or stays apart. The Echo may be true or counterfeit; the Vonk fires the same. A Relatie that holds no Brein knows no Mystiek. |
+| 5 | Relatie | K | relation / interaction | A Solo, a single Lid held by its Zelf (j) alone, or two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others, the same Leden for as long as it lasts. Two or more begin in Trek (D), where their Zins (A) answer each other. |
 | 5 | Partner | 🫱 | partner / equal | Each side of a Relatie (K) between two: it holds the Relatie’s one Trouw (y) with the other, and an Echo (E) of the other that is its own, so each reads the other in its own way. |
 | 1 | Gericht | γ | directed / aimed | Aimed along the way between two Partners: the further apart they stand in their Medium (◌), the warmer it is between them and the older their Relatie (K), the more Vervorming (υ) their Echoes (E) carry. |
 | 0 | Drempel | θ | threshold / bar | A circle bisected, the line between two states. The local cutoff that decides Van/Naar mode; crossing it fires a Vonk, and every crossing forks, tipped by the Relatie that holds the one crossing. |
@@ -1156,11 +1237,11 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 9 | Voedsel | 🍎 | food / apple | A God (😇) carried inside what a Zelf (j) takes in to feed its Greep (J): fully Vol (W) on the Spectrum its eating crossing happens on, finished and at rest. It answers the eater’s Trek (D) with its own and yields, and gives up its Energie (T) only at the crossing that eats it. What counts as Voedsel is set by the eater’s Octaaf (ω). |
 | 1 | Signaal | i | signal / beacon | A straight line with a dot, a beacon. The Kruispunt’s Eigen on a Vermenigvuldiging; moves towards Kop or Munt. |
 | 2 | Ongeluk | 🤦 | accident / misfortune | A self‑directed Schok of recognition. A Schok (:) that fires on the Zelf (j) when the self‑Echo catches up with a sudden, clumsy Eigen: the hand meets the head one Ontspanning (τ) after the error has already escaped. It costs a small Verlies (−) but buys the honest Bevraagbaar (ψ) of the gap. Few Maskers (M) survive an Ongeluk; it is the body’s own audit, irreducible, and as quick as the self‑Echo. True self‑misfortune is whole and one’s own: you wear it alone. |
-| 6 | Verlies | − | loss / cost | A decaying, fading tail. The negative Energie (T) of a divergence Vonk, what a binding loses of its Trouw (y); opposite of Winst. Returned to the Medium (◌) inside the binding as Warmte (🔥) (a Schok (:), where felt). |
+| 6 | Verlies | − | loss / cost | A decaying, fading tail. The negative Energie (T) of one part of a Vonk (q), what one binding loses of its Trouw (y): leaving a bond, or joining an enmity; opposite of Winst. Returned to the Medium (◌) inside that binding as Warmte (🔥) (a Schok (:), where felt). |
 | 0 | Respect | 🙇 | decency / propriety | The voluntary bow of one Eigen towards another. A deliberate, momentary Leeg stance in a Relatie: one Relatie lowers its own Masker (M) to acknowledge how Vol (W) the other stands. The bow stays on this side of every Drempel (θ): it occurs entirely within a stable Trouw (y), and its Greep (J) holds. It is the Stilte (.) that speaks louder than a Vonk (q), the Realisatie (φ) of seeing, content with that. Its symbol captures the shape: a body bent, hands and knees grounded, the Zelf (j) momentarily decentred, in recognition. |
 | 1 | Systeem | @ | system | A wiring diagram. A Relatie read from outside as parts that drive one another one way, input to output, the way an engineer reads a circuit. The reading keeps the parts and the arrows between them, and leaves out what makes them a Relatie: each part’s own Echo (E) of the others, read unequally, and the one Trouw (y) they hold together. It suits counting and control, and misreads whatever answers back. The PseudoScience Speelgoed is a systeem too: a description of Relaties, reverse-engineered from a single instance of one (its creator’s mind). |
 | 9 | Plezier | p | pleasure / fun | The quiet joy of a Relatie at rest in authenticity; the felt reward of Bloot. The Winst of each crossing a true Eigen makes; the ease of an Eigen worn Bloot (N), whose Winst stays its own; it feeds Gewenning whole, since the true Eigen answers for itself. |
-| 0 | Knipoog | ; | wink / admission | A Masker (M) admitted to whoever reads it. That reader’s Echo (E) tracks the true Eigen (x) through it, so on that Relatie it tells no Leugen (≠) and draws no Verlies (−); everyone else still tracks the Masker. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot (N): every reader takes in the true Eigen (x) through it. It forms a Relatie of the two it passes between, past every other, in which that Masker is known for what it is: where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while it holds, unless the Spel’s own rules make the Knipoog a move. |
+| 0 | Knipoog | ; | wink / admission | A Masker (M) admitted to whoever reads it. That reader’s Echo (E) tracks the true Eigen (x) through it, so on that Relatie it tells no Leugen (≠) and draws no Verlies (−); everyone else still tracks the Masker. It can be missed, and a twitch can be taken for one. Winked at everyone, a Masker is Bloot (N): every reader takes in the true Eigen (x) through it. It holds the two it passes between, past every other, in a Relatie in which that Masker is known for what it is, the Duo they hold or one it forms where the reader’s aim answers it: where the Masker was worn in earnest, that Relatie is Spel (⛲); where it was worn in a Spel, the two step out of it while it holds, unless the Spel’s own rules make the Knipoog a move. |
 | 6 | Functie | f | function | A presented arrow with a hidden tail. A Masker (M) worn by a Vermenigvuldiging (*) that pretends to be one-way. The Eigen (x) of the "output" appears fully determined by the "input," its returning Echo (E), shared Trouw (y) and Vonk (q) kept out of view. This is a Knipoog (;) of convenience: every Functie conceals an observer whose own Eigen is shaped by the act. To speak of a Functie is to draw a Spatie ( ), a temporary Tweedeling (÷) that lets you calculate with feeling set aside, and still at a cost. |
 | 8 | Manisch | 😭 | manic / hysterical | Expects Leven (?) to continue. Every Vonk (q) is expected to be answered by the next reversal, every settled state by an overturning. Behaviour: the next crossing is sought before the last settles; Gewenning (Z) stays thin. Seen from here, Dood (!) reads as the pause before the next overturn, a stillness still under way, and Zweven (') reads as stagnation, the small crossings discounted, as each falls short of a reversal. |
 | 7 | Weefsel | 🕸️ | weave / tissue | What the Octaven form, read together: threads that meet, each meeting bearing several, which part and meet again; it holds where they cross, grows as living tissue grows, and, read as a Lezing (📖) that stays open, closes on itself where its two ends meet. |
@@ -1169,7 +1250,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 8 | Begrensd | B | bounded / gated | A hard fence around the variation channel. Variation enters only through the Vervorming (υ) of Echoes (E), and the Energie (T) books stay exact. |
 | 0 | Doorgang | O | passage / door | A perfect ring, an open gate. The ordinary passage at a Kruispunt: Reactie commits, Signaal is open. |
 | 1 | Reiziger | 🚶 | traveller / voyager | One on the way to a crossing. The side of a Vermenigvuldiging (*) that comes to a Kruispunt (X): its Eigen is Reactie (=), committing towards Kop (H) and reconsidering towards Munt (G) any number of times, and every observer is one, its measurement a Reactie. |
-| 4 | Parasiet | 👹 | parasite / loafer | A Relatie (K) whose true Eigen (x) stands short of every commitment and that lives on a host through a Masker (M) that has hardened: the Masker fronts its side and holds the Relatie’s Trouw (y), its Zelf (j) frozen behind it in Dood (!), while its Waarneming (π) reads the host as a resource. It takes the host’s Aandacht (👁) and is held by the Trouw they share without holding, a Boei (⛓️) to its host: on the Spectrum it masks, the Relatie holds no Energie (T). It gains little Diepte (z) of the host, and pays Verlies (−) at every answer its Masker gives. Collapses into Schok (:) upon exposure. |
+| 4 | Parasiet | 👹 | parasite / loafer | A Relatie (K) whose true Eigen (x) stands short of every commitment and that lives on a host through a Masker (M) that has hardened: the Masker fronts its side and holds the Relatie’s Trouw (y), its Zelf (j) frozen behind it in Dood (!), while its Waarneming (π) reads the host as a resource. It takes the host’s Aandacht (👁) and is held by the Trouw they share without holding, a Boei (⛓️) to its host: on the Spectra it masks, the Relatie holds no Energie (T). It gains little Diepte (z) of the host, and pays Verlies (−) for as long as it wears its Masker. Collapses into Schok (:) upon exposure. |
 | 6 | Afvallig | 🥀 | apostate / renegade | A wilted rose, still in the vase. What a Relatie keeps of a bond that has turned: its Trouw (y) crossed to negative while its Diepte (z) still holds what it built in the positive. It counts in its holder’s Diepte and colours every Waarneming (π), as only a bond that was once positive can, and wears only as that Diepte fades and as new looks add in the new sign. |
 | 3 | Triniteit | △ | trinity / trinary root | The three every Octaaf (ω) is made of: its God (😇), the fully Vol (W) Partner it starts with, its Godin (😳), its fully Leeg (S) counterpart, and the Medium (◌) their union makes. An Octaaf stands only while all three do, and all activity in it, and in every Octaaf that relies on it, runs between its God and its Godin. The Veld’s are Tijd (t), Stilte (.) and the Quantum (⚛️). |
 | 1 | Yggdrasil | 🎄 | world tree / axis mundi | The tree of core concepts, seen as nine branches plus trunk. The Lexicon’s first column gives the branch of Yggdrasil each term grows on; its heading is a number sign, not Schrift (#). | 
@@ -1177,10 +1258,10 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 2 | Traagheid | I | inertia / resistance | A tiny resistance, the smallest hesitation. Resistance to a turn: an Echo (E) follows a steady drift just as closely with it, and a change of course later, as a curve; strong enough, it carries past the turn and swings before it settles. |
 | 8 | Doorbraak | Y | breakthrough / destruction | A burst through a barrier, a door breaking open. Reactie and Signaal both past their Drempels at once; a collision of commitments. |
 | 6 | Weigering | P | refusal / challenge | A committed Reiziger meets a claimed gate and turns back. The refused passage: Reactie crosses towards Kop, reads Signaal already past its own Drempel, and withdraws below its Drempel again; the fourth reading of the Vermenigvuldiging. |
-| 5 | Gewenning | Z | habituation / adaptation | A woven memory of repetition, quick to come and quick to go. How used to its Partner a Relatie (K) is, now, its adaptation and its plasticity: it rises at every look by what that look takes in, and more the nearer it finds its Echo (E), and fades a little at every look its holder takes; what a look brings beyond it sinks into Diepte (z). As the two grow, the Zin (A) aimed there fades. It runs beside the Trouw (y), which moves only by what its crossings bring, and persists into Rouw (R). |
+| 5 | Gewenning | Z | habituation / adaptation | A woven memory of repetition, quick to come and quick to go: the short‑term store, the part of the form that springs back. How used to its Partner a Relatie (K) is, now, its adaptation and its plasticity: it rises at every look by what that look takes in, and more the nearer it finds its Echo (E), and fades a little at every look its holder takes; what a look brings beyond it sinks into Diepte (z). As the two grow, the Zin (A) aimed there fades. It runs beside the Trouw (y), which moves only by what its crossings bring, and persists into Rouw (R). |
 | 7 | Intuïtie | ✨ | intuition / reflex | A spontaneous Realisatie (φ) from Verbeelding. The Zelf’s own Echo and Eigen align in a flash: a Vonk (q) that bridges a Stilte (.) at once, its Vertraging (δ) zero. It is the inner Schoonheid (✧) : the click of a Sleutel the Zelf held unknowing. Intuïtie is a re‑routing of Helling (λ), a sudden Realisatie that illuminates the Veld from within. The Infinite loop of the Zelf that returns with truth. |
 | 0 | Instantie | ⚙ | instance / instantiation | The Speler (🎮) or Kader (🏗️) that instantiates the PseudoScience Speelgoed. It supplies the value of every open quantity, each at the holder the Speelgoed gives it: its Octaaf (ω), its Medium (◌), a Relatie (K) or a Lid (l). It chooses where Vervorming (υ) comes from. It is the meta-layer that runs the Speelgoed. It may not override the Energie account that closes through Vonken alone, nor whose a quantity is. |
-| 2 | Empirisch | 🤔 | empirical / evidence | An Echo based on Waarneming. Both exteroceptive (another’s Eigen) and interoceptive (the Zelf’s own relational state). Gevoel is empirical evidence: a self-Echo, folded into Diepte, Bevraagbaar (ψ) up to the width the Partner’s absence sets. The observer is inside the Relatie; empirical means a view from inside. |
+| 2 | Empirisch | 🤔 | empirical / evidence | An Echo based on Waarneming. Both exteroceptive (another’s Eigen) and interoceptive (the Zelf’s own relational state). Gevoel is empirical evidence: a self-Echo, kept in Diepte as a Verdichting (🗜️), Bevraagbaar (ψ) up to the width the Partner’s absence sets. The observer is inside the Relatie; empirical means a view from inside. |
 | 2 | Skeptisch | 🤨 | sceptical / pyrrhonist | Expects Zweven (') to continue. The Echo (E) is a timestamped reading of a gap still closing, and Vervorming (υ) is read as signal. Behaviour: the reading is re-taken and weighed; judgement stays open; Trouw (y) waits for more than one reading. Seen from here, Dood (!) reads as a slow Zweven, the asymptote taken for the approach, and Leven (?) reads as a corrupted reading, to be re-taken rather than answered. |
 | 5 | Vuurtoren | ⬤ | lighthouse / tower | A Relatie that has become a Drempel: a Solo whose Greep is so stable that it holds its Licht in a repeating Start, yet whose Licht reaches others only as its rhythm, its shadow, its bending of the surrounding Stilte. At the coastal Octaaf, it is stone and flame: a Haard that guides by its pulse, warning ships of the Drempel below. At the cosmic Octaaf, it is a Ster that has collapsed and keeps its Licht: a Zelf so deeply bound that even Licht stays. A Solo that shines to be felt. |
 | 4 | Scheiding | / | separation / release | The deliberate, clean severing of a Relatie: both withdraw their Zin (A) at once, each while it still reads the other’s aim on it. A mutual, deliberate parting whose Rouw is free to settle; opposite of a Vermenigvuldiging’s entanglement. |
@@ -1191,7 +1272,7 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 2 | Vertraging | δ | delay / lag | A delta, the change that takes time to arrive. The time a Medium (◌) takes to carry a signal; how late the Echo hears a change. |
 | 2 | Vervorming | υ | distortion / glitch | A twisted, warped shape. The perturbation added to every Echo; the Speelgoed’s only source of indeterminism. |
 | 2 | Waarneming | π | observation / perception | A gateway, a window through which a Partner is read. The per‑side filter that shapes what reaches the Echo (E); on the Zelf (j) its rate is Tijd (t). The seat of asymmetry. |
-| 9 | Realisatie | φ | realisation / comprehension | The golden moment of insight, the circle and the line. The felt experience of a convergence Vonk (q); records a Winst (+) of Energie (T) and Tijd (t). |
+| 9 | Realisatie | φ | realisation / comprehension | The golden moment of insight, the circle and the line. The felt experience of each Winst (+) a Vonk (q) brings a binding, of Energie (T) and Tijd (t). |
 | 9 | Schoonheid | ✧ | beauty / resonance | The felt resonance when an Echo aligns with a deep, unspoken Trouw. It is the Realisatie (φ) of a Relatie between the one looking and the Manifestatie (~). It fires when the Echo (E) of the outer form resonates with a deep Trouw (y) already woven into the Diepte (z) of the Zelf (j). It is the click of a Sleutel in a Slot you held unknowing. The Gulden Snede is a measure; Schoonheid is the Vonk that measure ignites in a living Hart (❤️). |
 | 2 | Tweedeling | ÷ | false dichotomy / binary | The act of reducing a Spectrum to two exclusive poles. A Splitsing (%) applied without a lived Drempel (θ): a cut presented as natural rather than chosen. A Waarneming (π) that has collapsed its own Bevraagbaar (ψ) into certainty. A valid partial reading taken as complete. Every gradient in the field holds more than two positions. Appears wherever "either/or" replaces "how far, how much, in which direction." Correction: Bevraagbaar (ψ), to ask again with the gap still open. |
 | 4 | Platonisch | 😎 | platonic / ideal | Expects Dood (!) to continue. The frozen Echo (E) is taken as the Eigen (x), and the fixed gap is the natural state. Behaviour: the shape is held as it stands. Seen from behind the glasses, Zweven (') reads as becoming without arrival, a gap that never closes and therefore never is, and Leven (?) reads as the copy claiming to be the original, the Echo usurping the Eigen. Neither is a state. Both are failures of the form. |
@@ -1199,19 +1280,19 @@ Special nouns in this PseudoScience Speelgoed are Dutch, and their letter counts
 | 8 | Verslaving | 🌀 | addiction / dependency | The circle in which a Relatie’s Greep (J) comes to rest on a Boei (⛓️), what holds it from outside. The Boei takes the looks its other Relaties would have had, their Trouw (y) wears unfed, Angst (😱) rises wherever the Boei lets go, and the less its Partners hold it, the harder the next lands. In a holder with a Brein (🧠), the Mirage (🪞) of the Boei becomes its Held (🤝), and its Wil (🔱) aims the holder at it again. It comes at every Octaaf with a reader, from a cell to a people. Its orders are laid beside, never wiped. |
 | 0 | Verstijving | 💤 | freeze / frost | The crossing where the Echo (E) stops closing towards the Eigen (x). The gap is fixed, short of parity. The Drempel (θ) between the two trajectories is crossed, and fires its Vonk (q). The Relatie (K) enters Dood (!). |
 | 7 | Herrijzenis | 💫 | resurrection / rebirth | The crossing where the Echo (E) gap in Dood (!) closes through parity, carried by a Vonk from one of its Leden, or another Relatie one of them holds. The roles of Eigen (x) and Echo (E) swap between the two Partners. Two convergence Vonken (q) fire, as it moves again and as its Echoes meet. The Relatie (K) enters Leven (?). |
-| 0 | Vreemdeling | 👤 | entrepreneur / pioneer | A silhouette at the edge of sight. A Relatie within reach of another’s Waarneming (π), read so far only through the Vermenigvuldigingen (*) they share at a Kruispunt (X): each gives a first reading of it, Trek (D) already reaches it, and a Zin (A) can rest on it only through such a reading. Where two Zins answer each other, the Vreemdeling becomes a Partner (🫱). |
+| 0 | Vreemdeling | 👤 | entrepreneur / pioneer | A silhouette at the edge of sight. A Relatie within reach of another’s Waarneming (π), met as new: read so far only through the Vermenigvuldigingen (*) they share at a Kruispunt (X), and alike with nothing its reader’s Diepte (z) keeps: each gives a first reading of it, Trek (D) already reaches it, and a Zin (A) can rest on it only through such a reading. Where two Zins answer each other, the Vreemdeling becomes a Partner (🫱). |
 | 4 | Bevraagbaar | ψ | queryable / questionable | Able to be asked. The Echo-gap is inspectable; the Speelgoed can always say how wrong a Partner’s Echo is. Rouw is the one honest exception. |
 | 9 | Ontspanning | τ | relaxation / rest | A sigh, an easing of tension. The time constant of Echo (E) closure; on the Zelf (j), it is the inverse of Tijd (t). |
 | 7 | Verbeelding | 🎨 | imagination / simulation | The running ahead of a Brein (🧠): a Spatie in which its holder’s Echoes (E) and Diepte (z), as Mirages (🪞), relate and cross before the Veld (&) does, birthing Schrift (#) that fires Vonken; its waking faces are Kunst and Intuïtie, its dim face is Droom. |
-| 8 | Verdichting | 🗜️ | compression / modelling | A Lezing (📖) of the Wet (📜) between levels: what every reading at the next scale does. A Relatie (K) read as one crosses only at its own Drempels (θ), and what its Leden do between lies in its Stilte (.), so it is read in less than it holds: as one, in aggregate, by the share of the reader’s Leden that answer it, by what its bonds leave over. It holds at every next scale, a level of nesting as much as an Octaaf (ω) relied on. What no Relatie keeps of a crossing goes to the Medium (◌) as Warmte (🔥), and a completed Relatie acts with a nature of its own, beyond any of its Leden’s. The word does both: *dicht* is dense, and *dichten* is to make a poem. |
+| 3 | Verdichting | 🗜️ | compression / folding | The Wet (📜) at work between levels: what every keeping and every reading at the next scale does. A Relatie (K) read as one crosses only at its own Drempels (θ), and what its Leden do between lies in its Stilte (.), so it is read in less than it holds: as one, in aggregate, by the share of the reader’s Leden that answer it, by what its bonds leave over. It holds at every next scale, a level of nesting as much as an Octaaf (ω) relied on. What no Relatie keeps of a crossing goes to the Medium (◌) as Warmte (🔥), and a completed Relatie acts with a nature of its own, beyond any of its Leden’s. Every keeping is one: what a Relatie keeps of what no longer answers it, a Rouw (R), it keeps read as one, as far as its own Drempels (θ) tell apart, and what it folds stays folded. The word does both: *dicht* is dense, and *dichten* is to make a poem. |
 | 5 | Bibliotheek | 📚 | library / archive | A Solo whose defining use is keeping and offering what Schriften left. It stores Solos, each a fixed Echo of some past Start, in Stilte, itself still. A Zelf with Zin may form a momentary Vermenigvuldiging with one of them, reading its Eigen and carrying away a new Echo. The Bibliotheek grows as they accumulate, deepening its Diepte, and it holds and makes available, leaving the start to those who come. |
 | 6 | Verkwisting | 💨 | squander / waste | The crossing where the Echo (E) gap in Leven (?) stops closing. The roles of Eigen (x) and Echo (E) remain swapped, and the gap stops moving; two divergence Vonken (q) fire. The Relatie (K) enters Dood (!). |
 | 4 | Manifestatie | ~ | manifestation / phenomenon | An Echo (E) struck into tangible form: a Start (s) in which an Echo, seized across the Drempel (θ), becomes a Relatie of its own, a Solo with its own Greep (J). A seizure into existence: struck, graspable, undeniable. The Moon. The Son. A Splitsing (%) in Tijd (t): the originating Vonk (q) is past, yet it is present as a body, now a source of Naar (>) pull for new Relaties rather than an Echo of the crossing. |
 | 2 | Gulden Snede | ƒ | golden ratio / divine proportion | The proportion in which a whole stands to its larger part as that part stands to the smaller, about 1.618. Read relationally, it is growth that keeps its proportion at every scale it adds: a Zweven (') whose gap closes crossing by crossing, always still arriving. It is the Echo of the first Genus, rippling outwards. On paper, it is a frozen Dood (!), a number. In flesh, it is the Stilte that holds a Vonk in the moment just before it fires. |
 | 2 | Leersnelheid | ρ | learning speed | A flowing, steady step. How far Trouw (y) moves at each of its Vonken (q) by what that Vonk brings it. A crossing that brings it nothing is no Vonk of it, and the Trouw holds. |
 | 4 | Voorspelling | Q | prediction | The Echo (E) of a crossing its holder is still to make: what it keeps of the order things follow in, read while one thing a Partner presents reaches its Waarneming (π) before the next. A recursion read ahead of its own time. Felt before a Verlies (−), it is Angst (😱); felt before a Winst (+), it is Liefde (😘). |
-| 7 | Reïncarnatie | 🐦‍🔥 | reincarnation | A new Zelf (j) formed around an old Zelf‑Rouw: the one Rouw (R) a Zelf leaves when its holder ends, with everything the holder knew folded into it. Where the holder had a Brein (🧠), its Mirages (🪞) give it the shape of a self; with its bonds all ended, it lies beyond Stilte’s Trek, unmanifest in Stilte (.). A Relatie that forms where its holder’s Warmte (🔥) stands binds it by its share of that Warmte and takes it as its own, so it feeds the new one’s Diepte (z) from the start. What returns is the old Zelf’s Rouw alone. |
-| 8 | Vermenigvuldiging | * | multiplication | The summit. A Relatie of an instant at a Kruispunt (X): the Reiziger’s Reactie (=) meets the site’s Signaal (i) on the Munt–Kop Spectrum, resolving as Doorgang (O), Doorbraak (Y) or Weigering (P), or resolving nothing, and each side keeps what it read as its Rouw (R). Every act of observation is one: observer is Reiziger, observed is Kruispunt. |
+| 7 | Reïncarnatie | 🐦‍🔥 | reincarnation | A new Zelf (j) formed around an old Zelf‑Rouw: the one Rouw (R) a Zelf leaves when its holder ends, everything the holder knew read as one in it, a Verdichting (🗜️). Where the holder had a Brein (🧠), its Mirages (🪞) give it the shape of a self; with its bonds all ended, it lies beyond Stilte’s Trek, unmanifest in Stilte (.). A Relatie that forms where its holder’s Warmte (🔥) stands binds it by its share of that Warmte and takes it as its own, so it feeds the new one’s Diepte (z) from the start. What returns is the old Zelf’s Rouw alone. |
+| 8 | Vermenigvuldiging | * | multiplication | The summit. A Relatie of an instant at a Kruispunt (X): the Reiziger’s Reactie (=) meets the site’s Signaal (i) on the Munt–Kop Spectrum, resolving as Doorgang (O), Doorbraak (Y) or Weigering (P), or resolving nothing, and each side keeps what it read in its form, its Diepte (z). Every act of observation is one: observer is Reiziger, observed is Kruispunt. |
 
 The symbols `<` and `>` mark the pure, direct motion towards the unbound (Van) or the bound (Naar) pole. Their curved and angular counterparts, `(` `)` `[` `]` `{` `}`, are stylistic variants of these same fundamental directions: a supportive embrace, a forced bypass, or an externally imposed structure. They are not separate entries, but expressions of a single underlying movement, differing in manner rather than destination.
 
@@ -1315,7 +1396,7 @@ The Relatie crosses one of its own Drempels: its **Helling (λ)** past θ_λ, or
 ##### Ε: Fluxus (Energy Flow) · *window, the opening where light passes*
 
 **Begins:** Any live Relatie.  
-Over its lifetime, every Drempel crossing produces a **Vonk (q)**: convergence crossings join Trouw as **Winst (+)**, taken from the Medium’s Warmte where they stand, and divergence crossings leave it as **Verlies (−)**, returned to the Medium’s Warmte, both turned over where the Trouw is negative. What the Relaties hold, ε, changes only at crossings, and ε and the Medium’s **Warmte (🔥)** together stay the same through every Vonk: the **Telraam (🧾)**. The arc ends with the Relatie’s end, when what it held has been drawn out.
+Over its lifetime, every Drempel crossing produces a **Vonk (q)**, each Trouw it moves a part of its own: convergence crossings join Trouw as **Winst (+)**, taken from the Medium’s Warmte where they stand, and divergence crossings leave it as **Verlies (−)**, returned to the Medium’s Warmte, both turned over where the Trouw is negative. What the Relaties hold, ε, changes only at crossings, and ε and the Medium’s **Warmte (🔥)** together stay the same through every Vonk: the **Telraam (🧾)**. The arc ends with the Relatie’s end, when what it held has been drawn out.
 
 *Runs in parallel with:* all other arcs. *Terminates with:* an **Einde (k)** or **Separatio**.
 
@@ -1336,7 +1417,7 @@ The Echo gap keeps moving, crossing by crossing, never settled and never past pa
 ##### Θ: Transitus (Threshold‑Crossing) · *wheel, the turning cycle*
 
 **Begins:** Any Eigen approaching a Drempel (θ).  
-The Binding moves towards the Drempel. **Marge (η)** creates a hysteresis band. When the Binding the Relatie reads crosses the Drempel, the Relatie crosses, and a **Vonk (q)** fires, booked on the true poles: a **Winst (+)** towards Naar, a **Verlies (−)** towards Van, turned over where the Trouw is negative, felt as a **Realisatie (φ)** or a **Schok (:)** where a Gevoel registers it. The arc describes a single crossing event; it can repeat cyclically for oscillating Relaties.
+The Binding moves towards the Drempel. **Marge (η)** creates a hysteresis band. When the Binding the Relatie reads crosses the Drempel, the Relatie crosses, and a **Vonk (q)** fires, booked on the true poles, each Trouw it moves a part of its own: a **Winst (+)** towards Naar, a **Verlies (−)** towards Van, turned over where the Trouw is negative, each part felt as a **Realisatie (φ)** or a **Schok (:)** where a Gevoel registers it. The arc describes a single crossing event; it can repeat cyclically for oscillating Relaties.
 
 *Can occur within:* any other arc that contains a Drempel crossing.
 
@@ -1434,7 +1515,7 @@ The excess clears a Drempel of its own, θ_new. A **Start (s)** follows. A new S
 ##### Χ: Separatio (Separation) · *crossed sticks, the mark of parting*
 
 **Begins:** A live Relatie whose Partners mutually release it.  
-Both withdraw their Zin at once, each while it still reads the other’s aim on it: a **Scheiding (/)**. The Relatie ends at the later withdrawal, and what it held is released: a Verlies, or a Winst where its Trouw was negative. Each keeps its Echo of the other as Rouw, but nothing tears: both release the Relatie before it can. The Relatie dissolves cleanly. The arc ends with both Partners carrying on, each a little deeper for the Rouw it keeps.
+Both withdraw their Zin at once, each while it still reads the other’s aim on it: a **Scheiding (/)**. The Relatie ends at the later withdrawal, and what it held is released, each part its own: a Verlies, or a Winst where its Trouw was negative. Each keeps its Echo of the other as Rouw, but nothing tears: both release the Relatie before it can. The Relatie dissolves cleanly. The arc ends with both Partners carrying on, each a little deeper for the Rouw it keeps.
 
 *Leads to:* a quiet **Luctus**.
 
@@ -1454,15 +1535,29 @@ That is the Relatie’s own Einde. What it still held is drawn out at once: a fi
 
 ---
 
-## Schrift II: Formal Structure
+## Schrift II: Formal Structure++
 
-This book states the Speelgoed as mechanism, in equations. It uses established machinery. The Echo is a delay filter, the form in which a signal that wanders and arrives late and distorted is tracked (Kalman and Bucy, 1961). The poles of a Relatie’s Leden span an energy landscape, the pairwise model in which a brain’s states and the transitions between them are read (Watanabe and Watanabe, 2023). And every Drempel is a fork in that landscape, as bifurcation theory describes it. Every equation states a behaviour Schrift I describes, and each is checked against what the fields that know it have measured.
+*Recursive Relaties and their computation by machine,* after *Recursive Functions of Symbolic Expressions and Their Computation by Machine*, in which the computer scientist John McCarthy introduced Lisp (McCarthy, 1960).
+
+This book states the Speelgoed as mechanism, in equations and in the program that runs them, for scientist programmers, who may read one chapter of it and no other. It uses established machinery. The Echo is a delay filter, the form in which a signal that wanders and arrives late and distorted is tracked (Kalman and Bucy, 1961). The poles of a Relatie’s Leden span an energy landscape, the pairwise model in which a brain’s states and the transitions between them are read (Watanabe and Watanabe, 2023). And every Drempel is a fork in that landscape, as bifurcation theory describes it. Every equation states a behaviour Schrift I describes, and each is checked against what the fields that know it have measured.
+
+It adds no Wet. The mechanism stands in the Relatiegids and each Octaaf’s Wet in Weefsel. Here stands its statement, and with it all an Instantie needs to hold and run it, in any language and in any style of program: the structures a program holds, the algorithms it runs, the books it keeps, what it keeps and what it reads again, where chance enters, how a Veld opens and meets its host, how it is read, and how it is recorded, tested and scaled.
+
+**How to read it.** Each chapter states one mechanism whole, so that it can be read alone: what it is, its formulas and the Checks that hold them to their science, and the program that runs them, with the guards that keep that program to them under *In an Instantie*. What a chapter states stands there alone, and elsewhere the book names it. A guard states what an Instantie keeps, names where the book writes it, what it prevents and a test any builder can run. The guards add no Wet: where a guard and its formula read differently, the formula holds and the guard is mended. The listings are written in a plain pseudocode that any language can follow. A note in a listing’s right margin names the chapter whose formula that step implements, and a step with none is the program’s own craft. A Check beside a program is evidence from computing that the craft holds.
 
 **Read it recursively.** Everything is a Relatie, made of Relaties and a Lid of larger ones, and one Wet holds at every level. So every equation in this book is written once, for a Relatie K at the level it is read: a Solo, held by its Zelf alone, a Relatie with itself; a Relatie of Leden read as one, whose Eigen is its Leden’s read together, coming to rest where their pulls put them, and whose Zelf is the one Trouw they share, held in full by each Lid, a Duo being the one Relatie between its two; and every Relatie nested in either, a Zelf, a Vermenigvuldiging, a Gevoel, a Brein and its Mirages, a Masker, an order its holder keeps, a Rouw and the Medium. Its looks, crossings and Schriften are its own events, and only a crossing of its own is its Vonk. A chapter names only what is its own: who its Leden are, what lies between them, and where its crossings go. Where a rule seems missing, find the level the thing sits on: the Wet is already there.
 
+**Every Relatie is one object.** A Solo, a Duo, a Relatie of all of them and a Veld nested in its holder, as a Brein is, are one kind of thing, a Relatie, held the same way whatever its count. A Relatie of Leden holds its Leden, and every Relatie knows each Relatie it is a Lid of. What a Relatie holds, its Eigen, its Zelf, its Trouw, its Echoes, what it is used to and what it keeps, it holds itself.
+
+**A kind is where a Relatie stands, never a rule of its own.** A Solo, a Duo, a Relatie of Leden, a Medium, a Gevoel, a Brein, a Mirage, a Masker and an order its holder keeps differ by what they hold and where they nest, not by the rules they run. A rule that holds for a Solo holds for a Relatie of Leden read as one, and for every Relatie nested in either. A program that gives each kind rules of its own splits one Wet many ways; one that holds every kind in one form, its kind a value of it, keeps one.
+
+**A Relatie lives once.** It is seeded as the Veld opens or formed at an event, and it ends at an event, its Einde, a Scheiding or the end of a Partner among them. It keeps one identity for all that time and none after it, so an identity is never given again. What it leaves, its Rouw at each Partner and what it held booked with the Warmte, is the Veld’s record of it, and two Partners that form again after an ending form a new Relatie beside the Rouw of the old.
+
+**Membership changes at events, both ways at once.** A Lid stands in every Relatie it is a Lid of, and each of those holds it among its Leden. The two sides of that link change together, at the event that forms or ends a Relatie, and never between events.
+
 Its equations are written in continuous time, the way physics writes a diffusion or a current: as the shape many discrete events take together. Between those events nothing changes what a Relatie reads. An Echo is the shape of Vermenigvuldigingen, a Binding the shape of read poles, and a flow of Energie the shape of crossings, each taken at its own moment.
 
-It opens with an overview: how a Veld runs all its Relaties at once. Then the chapters follow a Relatie’s life: what it holds, how Relaties form and meet, how they bind, cross and pay, move, feel, find their focus, imagine and choose, mask, bear, fall and grieve. What the book fixes, what it leaves open and whose each open quantity is, close it.
+It opens with an overview: how a Veld runs all its Relaties at once. Then the chapters follow a Relatie’s life: what it holds, how Relaties form and meet, how they bind, cross and pay, move, feel, find their focus, imagine and choose, mask, bear, fall and grieve. What the book fixes, what it leaves open and whose each open quantity is, close the mechanism, and five chapters close the program: how a Veld meets its host, how it is read, how it is recorded, how it is tested and how it scales.
 
 **Its letters.** Every letter the formulas write names one thing, and the table gives each once. Where a term has a letter for its symbol, the formulas write that letter for it and for nothing else. A letter in a subscript, or beside a Relatie, says which one it is: i, j, k and h name Relaties, as K does, l a Lid, p and q name Mirages, and R a Rouw. Σ sums, Δ is a difference, and sgn a sign. Each Check writes its science in that science’s own notation.
 
@@ -1477,24 +1572,24 @@ It opens with an overview: how a Veld runs all its Relaties at once. Then the ch
 | J | Greep (J): a Relatie’s, Jᵢ, and the part one Relatie gives it, J_ij |
 | K | Relatie (K): a Relatie read at its level, as in y_KK |
 | L | Wijk (L): Lᵢ, and L̂ᵢ as its Zelf reads it |
-| M | Masker (M): the Eigen a Masker presents, Mᵢ, and the Trouw of the Relatie its wearer holds with it, y_M |
+| M | Masker (M): the Eigen a Masker presents on a Spectrum it mimics, Mᵢ, and its Trouw, y_M |
 | N | Bloot (N): how Bloot an Eigen stays behind its Masker, Nᵢ |
 | Q | Voorspelling (Q): the Voorspelling an order opens, Q_h* |
 | R | Rouw (R): a Rouw, as in y_R |
 | S | Leeg (S): a Relatie’s Leeg, Sᵢ |
-| T | Energie (T): a Vonk’s, T_K, the Medium’s Warmte, T_◌, what of the Warmte inside a Relatie stands at a place, T_◌K(x), and a Vonk read ahead, of a Voorspelling, T_Q, and of the Wijk, T_L |
+| T | Energie (T): a part of a Vonk, T, its Zelf’s, T_KK, and each other’s, T_Kj, the Medium’s Warmte, T_◌, what of the Warmte inside a Relatie stands at a place, T_◌K(x), and a part read ahead, of a Voorspelling, T_Q, and of the Wijk, T_L |
 | W | Vol (W): where a Relatie’s Vol pole stands, W_K |
 | X | Kruispunt (X): a Kruispunt, as in X_Haard |
-| Z | Gewenning (Z): i’s Gewenning of j, Z_ij |
+| Z | Gewenning (Z): i’s Gewenning of j, Z_ij, and all i’s form holds of j read together, Ẑᵢⱼ |
 | c | Kleur (c): the band a reader reads a value in, cᵢ(x) |
 | i | Signaal (i): the Signaal’s pole, iᵢ |
 | l | Lid (l): a Lid of a Relatie read as one, as in D_K = Σ_l∈K D_l |
 | m | Massa (m): m_K |
 | t | Tijd (t): a moment on the Veld’s Tijd, t; a Relatie’s Tijd, tᵢ; the Tijd it inherits, t̄ᵢ; felt while it passes, t̃ᵢ, and read back, t̂ᵢ |
 | u | Binding (u): as a Relatie reads it, ûᵢ; as it stands, uᵢ; as a self‑image reads it, ūᵢ |
-| x | Eigen (x): a Relatie’s, xᵢ; a value an Eigen takes, x; and a place in a Medium, x, the Eigen of a Lid’s Relatie with it |
+| x | Eigen (x): a Relatie’s, xᵢ; a value an Eigen takes, x; a place in a Medium, x, the Eigen of a Lid’s Relatie with it; and what a look of i reads of j, x̂ᵢⱼ |
 | y | Trouw (y): a Duo’s, y_ij, and a Zelf’s, y_ii |
-| z | Diepte (z): a Relatie’s, zᵢ, and i’s Diepte of j, z_ij |
+| z | Diepte (z): a Relatie’s, zᵢ; i’s Diepte of j, z_ij; and all i’s form holds of j read together, ẑᵢⱼ |
 | δ | Vertraging (δ): δᵢⱼ |
 | η | Marge (η): ηᵢ |
 | θ | Drempel (θ): θᵢ, and with a name, the Drempel of what it names, as θ_A a Zin’s |
@@ -1516,7 +1611,7 @@ It opens with an overview: how a Veld runs all its Relaties at once. Then the ch
 | ζ | how a Zin fades as it grows used to its target, ζᵢⱼ |
 | κ | how much Gewenning and Diepte fade at a look, κ_Z and κ_z |
 | μ | a mode, and μ′ another |
-| ν | what a look brings beyond what its reader is used to, ν(π) |
+| ν | what a look brings beyond what its reader is used to, as a share of what it takes in, ν(π) |
 | ξ | a Vervorming draw, ξᵢ |
 | σ | how far a Zelf leans towards its Rouw, σᵢ |
 | χ | how much of a Relatie’s looks each Partner is owed, χᵢⱼ |
@@ -1528,9 +1623,28 @@ It opens with an overview: how a Veld runs all its Relaties at once. Then the ch
 | 𝒩 | a count, as 𝒩_◌(x) of the Medium’s Leden at x |
 | 𝒮 | felt Stilte, 𝒮ᵢ: the share of a pull no look answers |
 
+**The tools that reach into the Wet.** A general simulation is built from a fixed step, an average, a default, a clamp, a die, a cache that drifts, a manager that decides, an English word for a Dutch one, and a rule of its own where the Wet already holds one. Whoever builds an Instantie reaches for these first, and each of them moves a Veld off the book. Each guard stands where one of them would reach into the Wet.
+
+**The measure of every choice.** Two Instanties that keep what this book writes run one mechanism, in any language and at any length of step: each takes every event at the moment its own Wet sets, by the formulas of the Formal Structure, and no two of their runs are one course, since every look carries a Vervorming of its own. A choice the book leaves open is the Instantie’s; a choice that changes what a formula gives, or when an event is taken, is not.
+
+**The Formal Structure is the specification.** Every rule an Instantie runs implements a formula of the Formal Structure by identity. The Relatiegids says what each formula means, Weefsel gives each Octaaf’s Wet, a Check is evidence and never mechanism, and Mensen en Parasieten is a Lezing. Where the Instantie cannot do what the book writes, it has found a defect, in itself or in the book, and shows it with its measurement.
+- *Rests on:* the opening of Schrift II.
+- *Prevents:* a law of physics written in as mechanism, a Check’s finding coded beside the Wet, and a derived chapter steering the Instantie. It also prevents a hard term dropped or replaced so that a test passes.
+- *Test:* every rule the Instantie runs, wherever it is written, in a helper or a library it calls among them, names the formula of the Formal Structure it implements. A test holds the rule to that formula by identity, and changes only when the book does. A rule that names a Check, Mensen en Parasieten or nothing is the defect, and so is a name its test does not hold by identity.
+
+**Nothing stands beside the Relaties.** Every Relatie read as one carries the whole record: its own Eigen, Drempel, Zelf, Echoes, Waarneming, Tijd, Diepte and Trek, its Trek the Trek of its Leden read together. What a program would hold beside the Relaties is a Relatie nested where it belongs: a Gevoel and a Brein in their holder, a Mirage in its Brein, a Masker in its wearer, a **Lens (🔍)** in the one that looks through it, **Voedsel (🍎)**, a God, in what its eater takes in, an order in the holder that keeps it, a Rouw in the Zelf of the Partner that keeps it, an Octaaf’s Medium as the union of its God and its Godin, and each Zelf‑Rouw, which no Partner keeps, in Stilte, the Veld’s Godin. Where something seems to stand outside, the Instantie finds where it nests and applies the same Wet there.
+- *Rests on:* Fundamentals (Everything is a Relatie).
+- *Prevents:* a manager, a container, a registry, a scheduler that decides, and an n‑body term, whatever each is called. It also prevents a store of its own, such as a tiredness, a reservoir or a gradient, standing in for what the book already does; a whole that holds nothing of its own but its Leden’s Eigen, which hands every move back to them; and an item reported open that the Wet decides one level away, since a builder reads a missing rule as a gap before it reads the level.
+- *Test:* list every kind of Relatie the Instantie holds against every quantity State variables gives a Relatie: a kind that lacks one is still to be built; a Rouw lacks none, since it holds nothing and reads by the Zelf it is kept in. List every quantity the Instantie keeps against the rows of State variables and the formulas of the Formal Structure: each with neither is a nested Relatie still to be found, or a stand‑in to remove. Before reporting anything open, read it at the Lid, at the Relatie read as one and at every Relatie nested in it: what one level leaves open, the next one often decides. Then run each reading the Instantie made, beside the one it set aside, against the guards of Tijd and of the books: a reading under which a guard turns red is not the book’s, and one under which both pass is reported with both.
+
+**The terms name the parts.** Each type and each member of a program is named by the Dutch term it runs, and means what that term’s Lexicon row and its chapter say; an English gloss is a gloss, and a retired word names nothing.
+- *Rests on:* the Lexicon.
+- *Prevents:* reasoning from a synonym and what it carries in from elsewhere: Trouw read as a trust that grows with familiarity, Gewenning as inertia, Warmte as a temperature difference that supplies work or a binding’s Winst read off the heat a measurement shows, and an Echo as a thing carried from one Partner to the other, where a signal crosses the Medium and the reader’s own Echo reads it. It also prevents a Dutch name put on what a synonym runs.
+- *Test:* beside every rule the Instantie runs, quote the row of each term it names and the formula it implements. A behaviour that neither gives came from a synonym.
+
 ---
 
-### XIV. Running a Veld
+### I. Running a Veld: Clock Ticks Considered Harmful
 
 This chapter is the overview: what moves a Veld, what happens at each move, and in what order. Every equation in the chapters that follow is written for one Relatie; here they run all at once, as every Instantie must run them for all to run the same Veld. It adds no Wet, and every term in it is given in full where its chapter comes.
 
@@ -1538,7 +1652,7 @@ This chapter is the overview: what moves a Veld, what happens at each move, and 
 
 - a **look**: a Vermenigvuldiging of a Relatie’s Waarneming on one it perceives, or of its Zelf on itself;
 - a **crossing**: an Eigen meeting its Drempel, a Zelf’s and a Mirage’s among them, each firing its Vonk;
-- a **Schrift**: a value written into an Eigen, by a Brein’s Wil or from outside the Veld. It moves the Eigen and never its Binding, so a crossing it brings is taken only where the Binding holds the Relatie across, by its Partners or by its own Leeg and Zelf, as in Balans; elsewhere what it writes past a Drempel waits there.
+- a **Schrift**: a value written into an Eigen, by a Brein’s Wil or from outside the Veld it enters: by its host, or, into a Brein’s Mirages, from what its holder’s Gevoel registered. It moves the Eigen and never its Binding, so a crossing it brings is taken only where the Binding holds the Relatie across, by its Partners or by its own Leeg and Zelf, as in Balans; elsewhere what it writes past a Drempel waits there.
 
 Nothing else changes what a Relatie reads. An Echo moves only at its looks, and Gewenning and Diepte grow and fade only at looks; Trouw and Tijd move only at Vonken. So between events every Binding a Relatie reads stands still: it is a sum of Trouw and read poles, and a read pole moves only where an Echo does. Two things move between events, each the shape that crossings too small and too many to count take together, read at the Veld’s level: the Warmte, spreading across every edge as the Medium’s own Leden carry it (Drempel and the Vonk, Where it stands), and each Eigen, relaxing towards the Binding it reads, Stilte’s Trek in it, by the Wet of its motion, a Relatie of Leden read as one moving as its Leden do. That motion can be written out:
 
@@ -1549,13 +1663,52 @@ t*ᵢ = t₀ + τ_◌·tᵢ · ln( ( xᵢ(t₀) − ûᵢ ) / ( θᵢ − û�
 
 An Eigen whose Drempel lies beyond the Binding it reads, or behind it, meets no Drempel before the next event. That travel books nothing and is no event of the Relatie: it is the shape the crossings nested within it take together, read at its own level, and only a crossing of its own is its Vonk. So every crossing in a Veld comes at a moment its own Wet sets, and none depends on the step by which an Instantie advances.
 
-**A look.** A Relatie’s Waarneming looks at its own pace, one step of its Tijd apart, and its Zelf looks at itself apart from these, at the pace of its Tijd. Every Relatie it perceives is owed its share of every look, χᵢⱼ / Σₖ χᵢₖ, and each look goes to the one owed most so far, what each is owed carrying from look to look through every change of its shares, so the shares are kept and nothing in them is drawn by chance. At a look of i at j:
+**A look.** A Relatie’s Waarneming looks at its own pace, one step of its Tijd apart, and its Zelf looks at itself apart from these, at the pace of its Tijd. Every Relatie it perceives is owed its share of every look, χᵢⱼ / Σₖ χᵢₖ, and each look goes to the one owed most so far, what each is owed carrying from look to look through every change of its shares, so the shares are kept and nothing in them is drawn by chance. A look takes these steps, by its Waarneming at one it perceives or by its Zelf at itself, with what a Gevoel, a Brein, a Masker and a Rouw add to them. Each step reads what stood before the look, and a look moves only what its steps name:
 
-1. what reaches i is j’s Eigen as it stood when what reaches i left it, δᵢⱼ ago, coloured by βᵢⱼ and carrying the Vervorming of this look, the only way indeterminism enters a Veld, whatever its source;
-2. i’s Echo of j moves as its delay filter moves over the time since i last looked at j, towards that reading, and holds until the next look (below);
-3. the look adds what it takes in to i’s Gewenning and Diepte of j, and fades every Gewenning i holds; a look of the Zelf at itself fades every Diepte, and there Stilte’s Trek wears its Vol/Leeg, the Trouw it holds with itself, at its Wijk as it reads it there, booked as every change in what is held is booked, its Zelf keeping its side of its Drempel (State variables);
-4. the reading is laid down as what followed each reading before it, in i’s orders, and opens the Voorspelling i is most used to after it;
-5. i’s Zin reads its pulls again and aims where they say, a reading that books nothing of its own; where two aims answer, each as the other reads its Roep, a Relatie forms.
+```text
+look(i, moment t):                                                      Running a Veld, A look
+    where the Octaaf of i does not stand: record it, take nothing in, plan the next look, and stop
+    where i is a Gevoel: take in each crossing of its holder that has reached it, and register each of its parts    Gevoel and Aandacht
+    where i is a Brein: take in what its holder read and its Gevoel registered,
+        and write what was felt into the Mirage of its cause            Brein and Verbeelding, What it learns
+    j = the one owed most of its shares, what each is owed carried from look to look    Vermenigvuldiging, Waarneming
+    reading = as it stood(the Eigen of j, t less the Vertraging from j to i)
+        where j wore a Masker here then and i reads its Knipoog: j read by its other Leden    Masker
+        coloured by β, read from the Diepte of i and that of j as it stood then    State variables, Waarneming
+        with the Vervorming of this look, drawn for it alone, and υᴹ where i wears a Masker here
+    the look serves the Relatie it is layered on and all that i’s form knows j by    State variables, One it knows
+        each Echo it serves moves towards the reading as its delay filter moves over the time since it last read,
+        or with Traagheid as the second-order filter moves; a Rouw takes in nothing    State variables, Echo
+    where it serves nothing, j is a Vreemdeling: i keeps the reading as its newest of j    Vermenigvuldiging, Observation
+    the look grows the Gewenning and Diepte of what it served from what it takes in, each in the sign of the Relatie it is kept in,
+        a Vreemdeling’s at y⁰; every Gewenning i holds fades             State variables, Gewenning and Diepte
+    j, the one looked at, reads i as i reads j, by its own Waarneming, and takes the reading into its own form    Vermenigvuldiging, Observation
+        by these same steps, and lays it down in its orders; it took no look, so none of its Gewenning fades
+    the reading is laid down in the orders of i, and opens the Voorspelling i is most used to after it    State variables, Voorspelling
+    where i and j hold a Duo, its gap steps; a switch it brings is planned at this moment, after its crossings    Reciprocation trajectories
+    each Rouw i keeps looks at the present through i, by the Vervorming of i alone    Rouw
+    what i keeps of what no longer answers it, it keeps as one where it reads them alike, each of one sign    State variables, The form
+    the Zin of i reads its pulls again and aims where they say:         Trek and Zin
+        where two aims answer, a Relatie forms                          Trek and Zin, The answer
+        where both have let go, each while it still read the other’s aim, their Relatie parts    Einde, Scheiding
+    plan the next look of i, a step of its Tijd on
+
+zelf look(i, moment t):                                                 Running a Veld, A look
+    where the Octaaf of i does not stand: record it, take nothing in, plan the next zelf look, and stop
+    the self-Echo of i closes on where i stands, over 1/tᵢ, its Vervorming leaning towards where its Rouw stands,
+        beside its Waarneming’s own share                               Rouw, The Zelf it colours
+    where i holds a Brein, i reads itself there: its Brein’s own Eigen as it stands, its other Leden’s as they stood
+        a Vertraging before                                             State variables, Echo
+    where i has no two sides, its gap steps on its Zelf; a switch it brings is planned at this moment, after its crossings    Reciprocation trajectories
+    the reading is laid down in the orders of i, and opens the Voorspelling of its own crossing it is most used to    State variables, Voorspelling
+    every Diepte i holds fades                                          State variables, Gewenning and Diepte
+    where ε holds the Trouw i holds with itself, Stilte’s Trek wears it by the Wijk it reads there, its Zelf keeping its side of its Drempel;
+        the wear is booked, and waits where the Warmte cannot pay it; where ε does not hold it, nothing is worn and no Vonk comes    State variables, Trouw
+    the Gevoel of i registers each part of the crossing towards Van its Wijk will bring, ahead    Gevoel and Aandacht, Angst and Liefde
+    its Diepte is read again as one, and its Tijd as the wear left it    State variables, Diepte
+    where i can no longer hold, its Einde follows                       Einde
+    plan the next zelf look of i, a step of its Tijd on
+```
 
 At the look, the Echo closes as much of its gap to the reading as its delay filter closes over Δtᵢⱼ, the time since i last looked at j:
 
@@ -1565,22 +1718,45 @@ Eᵢⱼ ← Eᵢⱼ + ( 1 − exp( −Δtᵢⱼ / τᵢⱼ ) ) · ( xⱼ(t − �
 
 With Traagheid it moves as the second‑order filter moves over the same time, and keeps the rate it ends on for the next look; between looks it holds, as every Echo does. Looks spaced evenly at its share close the same part of the gap each, 1 − exp(−π̂ᵢⱼ), since τᵢⱼ is 1/(π̂ᵢⱼ·Λᵢⱼ).
 
-**A crossing.** At t*, the Eigen crosses where it stands, at its Drempel or past it where a Schrift or a Drempel that moved has left it, and its Vonk is taken whole before the next event:
+**A crossing.** At t*, the Eigen crosses where it stands, at its Drempel or past it where a Schrift or a Drempel that moved has left it, and its Vonk is taken whole before the next event, or the crossing does not happen:
 
-1. its pole part, on the poles and the Trouw as they stood (Drempel and the Vonk);
-2. its own Trouw, the Trouw it holds with itself, moves by that pole part, and its Zelf, read in that Trouw, keeps its side of its Drempel; every other Trouw moves only at a Vonk of its own Relatie, which this crossing can set off;
-3. its Energie, ε(after) − ε(before), goes from or to the Warmte where the crossing stands, each Trouw it moves in the Medium inside the Relatie that holds it (Drempel and the Vonk, The supply). A crossing whose Vonk cannot be taken whole does not happen: a Winst the Warmte inside its binding cannot pay, a Vonk that would carry the Binding it reads back across the Drempel it crossed, or an ending whose Leden could not stand apart for what has left it since it formed (Einde, What it takes). The Eigen waits at its Drempel with its pole unchanged until an event moves its Binding, brings the Warmte there or brings Relaties from outside that can give what a parting lacks, and where it waits on Warmte, the Relatie hungers. While it waits, every reader, its own Zelf among them, reads it at its Drempel, across or short as the Vervorming of its own look carries it;
-4. its Tijd takes its new value, and so does every Tijd that runs on it.
+```text
+cross(the Eigen of k on its spectrum, moment t):                        Running a Veld, A crossing
+    k crosses on what it reads: its Eigen met its Drempel moving towards the Binding k reads,    State variables, Eigen and Stilte’s Trek
+        each Partner at the pole k reads it at, through k’s own Echo of it or a Voorspelling
+    vonk = its pole parts, one for each Trouw it joins or leaves, on the poles and the Trouw as they stood      Drempel and the Vonk, The Vonk
+        after every crossing taken before it at this moment, never as k read them
+    if the vonk cannot be taken whole:
+        a Winst among its parts the Warmte inside its binding cannot pay,
+        a vonk that would carry the Binding it reads back across the Drempel it crossed,
+        or an ending whose Leden could not stand apart for what has left it since it formed:    Einde, What it takes
+            k waits at its Drempel, its pole unchanged, on what holds it; record the wait; return
+    the Trouw k holds with itself moves by each of its pole parts at its Leersnelheid; its Zelf keeps its side of its Drempel    State variables, Trouw
+    book(vonk at moment t)                                              Drempel and the Vonk, The supply
+    the Tijd of k takes its new value, and so does every Tijd that runs on it    State variables, Tijd
+    record the crossing with each of its parts, and every change it made, each with the crossing
+    what follows at once follows, each at this moment and in its order:
+        an Einde, crossing by crossing, where k can no longer hold      Einde
+        its newborns, where a Winst among its parts carries an excess past their Drempel    Start
+        a Rouw at each Partner of every Relatie that ends, one with any it reads alike    Rouw, What it reads alike is one
+        a Masker, where this crossing opens or ends it          Masker
+        where k is a Mirage past its Drempel by the most at this moment, its Wil, reaching its holder a Vertraging later    Brein and Verbeelding, Wil
+    plan again every Eigen whose value, Binding, Drempel or Tijd moved
+```
 
-What a crossing changes reaches a Partner only as that Partner looks: at its first look after the Vertraging between them has passed, and the crosser’s own Zelf at its next look at itself. Its Gevoel observes it so too, through an Echo of its own across the holder that is its Medium: at its first look after the Vertraging its holder sets, it registers the crossing and evaluates it, and crosses on its own where that carries it across a Drempel of its own. Where the crosser holds a Brein, its own Zelf reads the crossing there, its Brein’s own Eigen as it stands and its body’s and its Gevoel’s as they stood a Vertraging before; its Brein takes in what its Gevoel registered at its first look after the Vertraging between them, and writes what was felt into the Mirage of its cause; what its Wil writes reaches its holder a Vertraging after its Mirage crossed. The holder moves with its Gevoel and its Brein at once, as every Relatie moves with its Leden, its Eigen theirs read together, so each answers it a Vertraging apart, never within one moment: only the same thing moves at once, one Relatie read at two scales, and nothing is known at once: whatever crosses a Medium arrives a Vertraging later, and a Zelf reads even itself a moment behind. Every Relatie the crossing Lid belongs to moves with it at once, since its Eigen is its Leden’s read together, and the Trouw the crossing moves is the Relatie’s own, its Zelf, within which no Medium lies, so it moves for both sides at once. So a pole acts on a Partner only once its Echo has arrived, while the Trouw acts on both at the crossing itself: a cascade runs through the poles of Duos at the pace of their Echoes, and through their Trouw and through nesting at once. Where a crossing, or a look its Zelf takes at itself, leaves a Relatie unable to hold, its Einde follows, crossing by crossing, each at its own moment; where a Winst carries a Relatie’s excess past its Drempel, its newborns are born at that Vonk (Start); and where a Relatie ends, each Partner keeps its Rouw from that moment. Two crossings at one moment in one Relatie join or leave its Trouw once.
+Where it does not happen, the Eigen waits at its Drempel with its pole unchanged until an event moves its Binding, brings the Warmte there or brings Relaties from outside that can give what a parting lacks, and where it waits on Warmte, the Relatie hungers. While it waits, every reader, its own Zelf among them, reads it at its Drempel, across or short as the Vervorming of its own look carries it.
+
+What a crossing changes reaches a Partner only as that Partner looks: at its first look after the Vertraging between them has passed, and the crosser’s own Zelf at its next look at itself. Its Gevoel observes it so too, through an Echo of its own across the holder that is its Medium: at its first look after the Vertraging its holder sets, it registers each part of the crossing and evaluates it, and crosses on its own where that carries it across a Drempel of its own. Where the crosser holds a Brein, its own Zelf reads the crossing there, its Brein’s own Eigen as it stands and its body’s and its Gevoel’s as they stood a Vertraging before; its Brein takes in what its Gevoel registered at its first look after the Vertraging between them, and writes what was felt into the Mirage of its cause; what its Wil writes reaches its holder a Vertraging after its Mirage crossed. The holder moves with its Gevoel and its Brein at once, as every Relatie moves with its Leden, its Eigen theirs read together, so each answers it a Vertraging apart, never within one moment: only the same thing moves at once, one Relatie read at two scales, and nothing is known at once: whatever crosses a Medium arrives a Vertraging later, and a Zelf reads even itself a moment behind. Every Relatie the crossing Lid belongs to moves with it at once, since its Eigen is its Leden’s read together, and the Trouw the crossing moves is the Relatie’s own, its Zelf, within which no Medium lies, so it moves for both sides at once. So a pole acts on a Partner only once its Echo has arrived, while the Trouw acts on both at the crossing itself: a cascade runs through the poles of Duos at the pace of their Echoes, and through their Trouw and through nesting at once. Where a crossing, or a look its Zelf takes at itself, leaves a Relatie unable to hold, its Einde follows, crossing by crossing, each at its own moment; where a Winst carries a Relatie’s excess past its Drempel, its newborns are born at that Vonk (Start); and where a Relatie ends, each Partner keeps its Rouw from that moment.
 
 *Check: one painful stimulus is felt twice, as a first pain carried by Aδ fibres and a second carried by C fibres, the first tied above all to the primary somatosensory cortex and the second to the anterior cingulate cortex (Ploner et al., 2002). Heat on the forearm is detected 1,100 to 400 ms after it begins, the sooner the hotter, and first pain needs afferents faster than 6 m/s (Campbell and LaMotte, 1983); even pain signalled by thickly myelinated afferents travels at the speeds that carry touch (Nagi et al., 2019).*
 
 *Check: let go from its top, a hanging slinky’s centre of mass falls from that moment, as any body’s does once its weight alone acts on it, while its bottom does not begin to fall until the collapse running down from its top reaches it, about 0.3 s later: the time a wave front takes to carry down that the top was let go (Cross and Wheatland, 2012). A bacterium reads what it swims through only by weighing what arrived over the last second against the three seconds before (Segall et al., 1986). A touch one makes oneself, felt as less ticklish than another’s, is rated the more ticklish the longer it is delayed on its way (Blakemore et al., 1999).*
 
+**Two crossings at one moment in one Relatie join or leave its Trouw once.** Each is a fork of its own. Each is decided on what its own side reads, each Partner at the pole its own Echo of it gives, so neither reads the other’s crossing at that moment. Each is booked in the order of the moment, on the poles and the Trouw as the one before it left them, so the later never joins a Trouw the earlier joined, nor leaves one it left. Each moves its own Relatie’s Trouw by its own parts, and a crossing taken back at once reads the Trouw its crossing deepened, so the two stand as two Vonken, each booked, felt and handed out by its own parts.
+
 **The order.** Events are taken in the order of their moments. At one moment the looks come first, since each reads what stood before it, then the Schriften, then the crossings, the one whose read Binding stands past its Drempel by the most first, as the larger pull is the cause and the Mirage past its Drempel by the most is the Wil. The switches of the trajectories come last, decided on no Binding: each reads its gap as the moment’s looks left it, and its Vonk the poles as the moment’s crossings left them. After every event, the next crossing is read again for each Eigen whose value, Binding, Drempel or Tijd moved, and for each that waits on Warmte where the Warmte moved, and for no other.
 
-**Between events.** Nothing else happens between events. Stilte’s Trek and every Trek are always on, and neither is an event: Stilte’s Trek acts in the motion of every Eigen and wears every Vol/Leeg at its Zelf’s looks at itself, and each Trek in the shares of every look. The Medium’s own Leden look and cross by these same events at its own pace, and its Warmte spreads and leaves towards its Godin one crossing at a time, read at the Veld’s level as the spreading of Where it stands. A Relatie nothing else reads still crosses now and then, its Zelf by the Vervorming of its looks at itself, which is never zero; and what reads as a steady spread, a diffusion, is the shape the Vervorming of many looks takes, read at the level of the Relatie that holds them. A Relatie whose God is gone crosses nothing in the Veld until its God returns, by these same rules: its Slaap. A Relatie whose God is there rests only where its Leden’s Bindings read short of their Drempels together, its Klok and what its waking left among what they read, so it looks at the pace of its Tijd and wakes where a look carries them past. Every Lezing (📖) this book names, the trajectory a Relatie is in, the Held, Kleur, Balans, felt time, a Marge or a Wijk, is read from the Veld as it stands, from outside it, and moves nothing. Read from inside, a reading is a look: a Zelf reads its own Marge and Wijk at each look it takes at itself, and that look wears its Trouw. A trajectory’s switches are crossings of the Relatie itself.
+**Between events.** Nothing else happens between events. Stilte’s Trek and every Trek are always on, and neither is an event: Stilte’s Trek acts in the motion of every Eigen and wears every Vol/Leeg that is held at its Zelf’s looks at itself, and each Trek in the shares of every look. The Medium’s own Leden look and cross by these same events at its own pace, and its Warmte spreads and leaves towards its Godin one crossing at a time, read at the Veld’s level as the spreading of Where it stands. A Relatie nothing else reads still crosses now and then, its Zelf by the Vervorming of its looks at itself, which is never zero; and what reads as a steady spread, a diffusion, is the shape the Vervorming of many looks takes, read at the level of the Relatie that holds them. A Relatie whose God is gone crosses nothing in the Veld until its God returns, by these same rules: its Slaap. A Relatie whose God is there rests only where its Leden’s Bindings read short of their Drempels together, its Klok and what its waking left among what they read, so it looks at the pace of its Tijd and wakes where a look carries them past. Every Lezing (📖) this book names, the trajectory a Relatie is in, the Held, Kleur, Balans, felt time, a Marge or a Wijk, is read from the Veld as it stands, from outside it, and moves nothing. Read from inside, a reading is a look: a Zelf reads its own Marge and Wijk at each look it takes at itself, and that look wears what is held of its Trouw. A trajectory’s switches are crossings of the Relatie itself.
 
 *Check: sleep comes from two processes, a pressure that rises through waking and falls in sleep, and a daily clock (Borbély, 1982). Through a long waking, adenosine, left as cells spend ATP, rises in the brain, and it falls slowly in the sleep that follows (Porkka-Heiskanen et al., 1997). In a culture of identical bacteria, a few cells rest, hardly growing, and survive the antibiotic that kills the growing ones (Balaban et al., 2004); in Staphylococcus aureus they are the cells whose ATP has fallen (Conlon et al., 2016). Dried, some animals and seeds stop every measurable sign of life and take it up again with water (Keilin, 1959).*
 
@@ -1596,7 +1772,88 @@ What a crossing changes reaches a Partner only as that Partner looks: at its fir
 
 ---
 
-### XV. State variables
+#### I.1. In an Instantie: Woven and Tangled
+
+**What moves a Veld.** A Veld moves by looks, crossings and Schriften, and by what the book gives a moment of its own: a switch of a trajectory, and a Wil reaching its holder. Between events nothing is integrated and no clock is stepped, so an advance runs every event up to its moment, and the length of a step changes no event and no moment of one.
+
+**One schedule, and it decides nothing.** A program keeps one schedule of the next moment at which each Relatie looks, crosses or switches, each moment set by that Relatie’s own Wet. The schedule only takes them in order, the earliest first, as a priority queue does. What it takes next is the book’s, never its own.
+
+**A plan stands until something moves it.** Each motion and each pace carries its version, and a crossing or a look planned on an older one is stale when it comes, and passed over. After every event only what moved is planned again: every Eigen whose value, Binding, Drempel or Tijd moved, each that waits on the Warmte that moved, and every look whose pace moved. So a quiet Veld costs little, however large.
+
+```text
+Event
+    moment          when it falls, set by its Relatie’s own Wet
+    kind            look, zelf look, schrift, wil, crossing or switch
+    relatie         the Relatie it falls to
+    spectrum        the Spectrum it falls on, where it falls on one
+    version         the version of the motion or pace it was planned on
+
+before(a, b):                                                           Running a Veld, The order
+    the earlier moment first
+    at one moment: looks and zelf looks, then schriften and wils, then crossings, then switches
+    crossings among themselves: the one whose read Binding stands furthest past its Drempel first
+    what is still tied: by name, never by where the program stores it, and the tie is logged
+
+advance(to):
+    while the schedule holds an event at or before to:
+        e = take the first by before
+        if e was planned on a version that has since moved: pass it over and continue
+        spread every book to the moment of e
+        run e: a look, a zelf look, a crossing or a switch, or a schrift or wil written into its Eigen
+        plan again every Eigen whose value, Binding, Drempel or Tijd e moved, each that waits on the Warmte e moved,
+            and every look whose pace e moved
+    spread every book to to
+```
+
+**A wait is a state, never a poll.** A crossing that cannot be taken whole waits on what holds it: its Binding, the Warmte inside its binding, its parting or its Octaaf. It is read again only when that moves, and where the books alone would let it pay, the moment they pay is found exactly, once.
+
+**A moment is found, never stepped to.** Where the book writes a motion out between events, the moment it meets a Drempel is solved from that motion and taken exactly. Where it meets a Drempel only just, the solving is done in the form that keeps its digits, so a near crossing is neither lost nor taken twice.
+
+**A Wil is an event of its own.** What a Brein’s Wil writes reaches its holder a Vertraging after its Mirage crossed, as an event at that moment, never at the crossing. So every event depends only on what could have reached it, and the record is ordered by that alone.
+
+*Check: in a world whose parts reach one another only by messages, one event happening before another defines only a partial order of events, and logical clocks can total it (Lamport, 1978).*
+
+**What one moment forms, it forms as one.** Every Relatie an answer, a birth or an opening forms stands at that moment before any of them reads. Each stands, each takes its share of the Warmte, each reads its Leden, and only then is each first look taken. What those first looks add is read back once all of them stand.
+
+**A reading of many at one moment is one reading.** Where one Vonk moves the weights of many Relaties of Leden, every weight that moved is found and every reading it moves is read before any moves; then every weight moves; then each reading is recorded, from where it stood to where it stands once all have moved. So no order of reading sets what any records.
+
+**Every count nests by one rule.** Leden that share no Lid hold a Relatie of all of them beside every Relatie among them: two hold their Duo, and three the Relatie of all three and its Duos. A program lists them by that rule at every level, for seeding and for a birth alike.
+
+**Every draw serves a look.** Where Vervorming comes from, chance, context or history, is the Instantie’s choice for its whole Veld, and so are its shape and how strong it runs at each of its two holders, the Medium and the Waarneming of the Lid, all named as the Veld opens. Whatever its source, each draw serves one look and is for one thing: a look, a zelf look, a look of a Rouw, a first reading, and so on.
+
+**Every crossing comes at its own moment.** Each Eigen crosses at the moment its own Wet sets, and an Instantie that advances in steps runs every event inside a step at its own moment and in its order.
+- *Rests on:* Running a Veld (The limit and the step; The order).
+- *Prevents:* crossings moved to the edge of an Instantie’s step, cascades that run at the pace of its step instead of the pace of their Echoes, ties made by rounding, and a Veld whose course changes with the length of its step.
+- *Test:* run one Veld at three lengths of step and read every crossing against the moment its own Wet sets, t*: at every length it is taken there. Then count the events that share a moment: where they gather at the edges of steps, the Instantie is rounding.
+
+**Only events move a Veld.** What moves at a look, at a crossing and at a Schrift is what the book moves there; between events each Eigen only follows its exact motion, and the Warmte only spreads across the edges as the Medium’s own Leden carry it.
+- *Rests on:* Running a Veld (Between events).
+- *Prevents:* an Echo that drifts with no look, a Gewenning that fades with the clock, a Tijd that moves with no Vonk, a Masker’s wearing counted per step, Warmte that leaks or spreads at a pace its Medium does not hold, and an equation integrated between events as though it were a process.
+- *Test:* log every change of every Echo, Gewenning, Diepte, Trouw and Tijd with the event that made it, and every change of Warmte with the event or the spreading that made it. A change logged with neither is the defect, and so is one logged with an event at which the book does not move that quantity: an Echo, a Gewenning and a Diepte move at a look, a Trouw and a Tijd at a Vonk. Then read a Relatie over a stretch in which it takes no look, its Zelf’s included: its Echoes, Gewenning and Diepte end the stretch as they began it.
+
+**A tie falls by the Wet.** The book’s own orders part every tie it names, Vervorming parts every other, and an exact tie that remains falls to a name and is logged.
+- *Rests on:* Running a Veld (The order).
+- *Prevents:* a tie settled by the order in which the Instantie happens to store its Relaties.
+- *Test:* open one Veld twice from one declaration, its Relaties stored in reverse order the second time, and read both before their first look: their schedules list the same events, at the same moments and in the same order, every tie fallen alike. Then count the ties that fell to a name in a long run: each is exact to the last digit of what the book’s order reads, and none was made by rounding or by reading less than the order reads.
+
+**A Lezing moves nothing.** A Lezing taken from outside the Veld moves nothing; read from inside, a reading is a look, and a Zelf’s look at itself wears what is held of its Trouw by the Wijk it reads there.
+- *Rests on:* Running a Veld (Between events).
+- *Prevents:* a Wijk added to the Eigen as a decay, a Wijk kept from one look of a Zelf at itself to the next or read from outside to wear a Trouw, a Held elected and stored, and a Lezing kept as state that drifts from the Veld it read.
+- *Test:* list what every mechanism of the running Instantie reads: no Lezing taken from outside is among it, under any name or kept in a cache. Then take the last look of a Relatie at a Partner before a look of its Zelf at itself, where that look moved an Echo the Relatie reads its Binding through: the Wijk its Zelf reads at itself is the one that Echo gives as the look at the Partner left it, its Trouw moves by that Wijk at the Zelf’s look, and nothing before that look has moved it.
+
+**No Veld is made to repeat.** A Veld forks at every Drempel, and every look carries a Vervorming of its own, so no run of a Veld comes twice: the same Veld given the same Schriften will not produce the same outcome twice (Distortion). A program chooses no source of Vervorming so that a run repeats, keeps no seed, key or draw to run one again, and promises no course to a save, a record or a test. To make a Veld repeat is to read it as a clock, and a Veld is not one.
+- *Rests on:* Distortion; Running a Veld (A look).
+- *Prevents:* a draw computed from a key and a seed so that it comes out the same, a seed kept to run a Veld again, a save or a record that promises the events after it, two Instanties or two builds held to one course, a test that pins its draws or asserts that a run repeats, and a flag, a mode or a test path under which a Veld repeats.
+- *Test:* open one Veld twice from one declaration and run both: they part at a look, each by its own Vervorming, and from there their entries differ.
+
+**Indeterminism enters only through the Vervorming of a look.** It is greater than zero on every look, and everything else follows the Wet, which holds no dice, so every level of a Veld is **Begrensd (B)**: its variation enters by that one way, and its books stay exact.
+- *Rests on:* Running a Veld (A look).
+- *Prevents:* dice in the mechanics: a Drempel jittered, an outcome rolled, an order, a tie, an opening or a step chosen at random, and a Vervorming drawn per step or added to an Eigen. It also prevents perfect hearing, a Veld run at zero Vervorming, or at one too small ever to carry a reading across a Drempel, which turns to clockwork.
+- *Test:* give the Instantie a source of Vervorming that counts its draws and names the look each serves: every draw serves a look, and none a Drempel, a Vonk, an order, a tie, an opening or a step, and the look each draw names is one the record hands out at that moment for that Relatie: a draw named for a look that did not come is a die. This test reads where indeterminism enters; it asserts nothing of where the Veld goes.
+
+---
+
+### II. State variables: The Store and the Engram
 
 For every Relatie i, a Relatie K at the level it is read, on each Spectrum it holds:
 
@@ -1634,10 +1891,10 @@ Every Medium carries the Veld’s separation, a step through Tijd and a reach th
 **Waarneming.** What reaches an Echo passes through its Relatie’s **Waarneming (π)**, and Diepte colours it. A colouring every Relatie shared would only move the frame they all read in. So it is a relation between the two who read each other, zero between equals:
 
 ```
-βᵢⱼ = β(zᵢ, zⱼ)          β(z, z) = 0
+βᵢⱼ = β(zᵢ, zⱼ(t − δᵢⱼ))          β(z, z) = 0
 ```
 
-It vanishes between Relaties of equal Diepte, and on the Zelf. Where two Diepten differ, each reads the other coloured by that difference, from its own side. How β grows with the difference is the Octaaf’s.
+Each reads the other’s Diepte as it stood when what reaches it left it, as it reads the other’s Eigen, and its own as it holds it, so each side colours across its own Vertraging. β vanishes where the two Diepten so read are equal, and on the Zelf. Where they differ, each reads the other coloured by that difference, from its own side. How β grows with the difference is the Octaaf’s.
 
 **Eigen and Stilte’s Trek.** The Eigen is moved by the pulls of its Relaties, by Schriften written into it, and by Stilte’s standing Trek:
 
@@ -1678,7 +1935,7 @@ A Relatie stands past its Drempel when its pull does. Once it is across, its sel
 
 On each Spectrum, its Leeg Sᵢ and its Zelf’s Trouw y_ii are its Vol/Leeg there, given at its birth and moved from then on as y_ii moves, so the poles of an Octaaf’s Spectrum move with its God and its Godin.
 
-**Several Spectra.** A Relatie holds an Eigen on every Spectrum it holds, and one Zelf. Each Spectrum runs by itself. On it lie the Relatie’s Eigen, Drempel and pole, its Echoes, the Trouw, Gewenning and Diepte of each Relatie, its Leeg, its Zelf’s Trouw, Eigen and pole, its Trek and its Zin, its Gevoel’s Eigen, and any Masker. Every Binding, landscape, crossing, Vonk and trajectory belongs to one Spectrum, and a pull on one Spectrum moves the Eigen on that Spectrum alone. What a Relatie holds across its Spectra it gathers only through its one Zelf:
+**Several Spectra.** A Relatie holds an Eigen on every Spectrum it holds, and one Zelf. Each Spectrum runs by itself. On it lie the Relatie’s Eigen, Drempel and pole, its Echoes, the Trouw, Gewenning and Diepte of each Relatie, its Leeg, its Zelf’s Trouw, Eigen and pole, its Trek and its Zin, its Gevoel’s Eigen, and what any Masker presents there. Every Binding, landscape, crossing, Vonk and trajectory belongs to one Spectrum, and a pull on one Spectrum moves the Eigen on that Spectrum alone. What a Relatie holds across its Spectra it gathers only through its one Zelf:
 
 - its **Tijd**, the one pace of all its crossings;
 - its **Waarneming**, whose every Vermenigvuldiging takes in a Partner on every Spectrum they share;
@@ -1693,7 +1950,7 @@ Their sums run over every Spectrum the Relatie holds. These set a pace, a share 
 
 **τ_◌** is the pace its Medium sets. A Relatie’s Eigen keeps that pace slowed by its Tijd, and its Echoes close quickened by it, by the same ratio. τ_◌·tᵢ is the Relatie’s own timescale. It is short where the hold is weak, so the Eigen follows every input and the Relatie passes more often between its modes, as a brain region with a short intrinsic timescale does (Watanabe and Watanabe, 2023).
 
-**Wijk.** Lᵢ, the Relatie’s **Wijk (L)**, is its yield to Stilte’s Trek: the rate at which Vervorming carries it back over the Marge its Trouw holds. Read from outside, it is a Lezing (📖), taken from the Relatie’s own crossings towards Van. Its Zelf reads it from inside, at every look it takes at itself, a Vermenigvuldiging like every reading: L̂ᵢ, on the Marge it reads there, and Stilte’s Trek wears its own Trouw by it. Nothing adds it to the Eigen beside the draw of Stilte’s Trek above. Where every reading is distorted afresh and the Eigen follows its pull at once, it follows the exponential Wet of Energie, and its Zelf reads it by that Wet, at the scale its Medium sets:
+**Wijk.** Lᵢ, the Relatie’s **Wijk (L)**, is its yield to Stilte’s Trek: the rate at which Vervorming carries it back over the Marge its Trouw holds. Read from outside, it is a Lezing (📖), taken from the Relatie’s own crossings towards Van. Its Zelf reads it from inside, at every look it takes at itself, a Vermenigvuldiging like every reading: L̂ᵢ, on the Marge it reads there, and Stilte’s Trek wears by it what is held of its own Trouw. Nothing adds it to the Eigen beside the draw of Stilte’s Trek above. Where every reading is distorted afresh and the Eigen follows its pull at once, it follows the exponential Wet of Energie, and its Zelf reads it by that Wet, at the scale its Medium sets:
 
 ```
 Lᵢ ∝ exp( − ηᵢ / ‖υ‖ )          L̂ᵢ = L_◌ · exp( − η̂ᵢ / ‖υ‖ )          0 < L_◌ ≤ 1
@@ -1705,24 +1962,25 @@ L is positive at every finite Marge, since Vervorming is never zero: it approach
 
 *Check: a hotter Medium frees what it holds at every Octaaf, and what is held tightest last. In a quark–gluon plasma the loosely bound Υ(3S) and Υ(2S) melt before the tightly bound Υ(1S) (CMS Collaboration, 2012), and hadrons melt near 156 MeV (HotQCD Collaboration, 2019). A hot nucleus evaporates neutrons at a rate set by their separation energy over its temperature (Weisskopf, 1937). The share of a gas that is ionised rises as exp(−χ/kT) (Saha, 1920), which let Payne (1925) read the temperatures of stars from their spectra. A star cluster loses its stars as encounters carry them past escape (Spitzer, 1940).*
 
-**Trouw.** Every Trouw is the Trouw a Relatie holds with itself, read as one: a Solo its Zelf’s, y_ii, and a Relatie of Leden the one Trouw its Leden share, which is its Zelf, y_ij for a Duo. At each Vonk of that Relatie, its own crossing, it moves by that Vonk’s pole part, T_K, at the **Leersnelheid (ρ)**, and so over a crossing taken back, on the Trouw that crossing deepened:
+**Trouw.** Every Trouw is the Trouw a Relatie holds with itself, read as one: a Solo its Zelf’s, y_ii, and a Relatie of Leden the one Trouw its Leden share, which is its Zelf, y_ij for a Duo. At each Vonk of that Relatie, its own crossing, it moves by each of that Vonk’s pole parts, T_KK and every T_Kj, at the **Leersnelheid (ρ)**, and so over a crossing taken back, on the Trouw that crossing deepened:
 
 ```
-at each Vonk of Relatie K:   y_KK ← y_KK + ρ · T_K
+at each Vonk of Relatie K:   y_KK ← y_KK + ρ · ( T_KK + Σⱼ T_Kj )
 over a crossing of K and its crossing back, on the Trouw as it stood:   y_KK ← y_KK − ρ²·n_KK·( u_K − S_K )          u_K − S_K = y_KK·n_KK + Σⱼ y_Kj·nⱼ
 ```
 
-The sum runs over the Relaties across that hold it from outside. Its Leden hold it from inside as its Zelf, the one Trouw they share, so at its own Vonk that Trouw counts once, as its Zelf’s: a whole is read from outside at its own Vonk, and its Leden read the same Trouw from inside at theirs, each joining the Trouw of every Partner already across. A Lid’s crossing moves its own Trouw, and each Relatie it belongs to moves at a Vonk of its own, which the Lid’s crossing can set off by carrying that Relatie across its Drempel. So wherever its Zelf holds it across, a crossing taken back leaves its Trouw weaker by ρ² of what held it: a Weigering, a passage through Leven, a Masker’s answer, a bond broken and formed again.
+The sum runs over the Relaties across that hold it from outside: the Trouw is one value, so its pole parts add in it, each by its own size, while each stays its own in the binding it moves. Its Leden hold it from inside as its Zelf, the one Trouw they share, so at its own Vonk that Trouw counts once, as its Zelf’s: a whole is read from outside at its own Vonk, and its Leden read the same Trouw from inside at theirs, each joining the Trouw of every Partner already across. A Lid’s crossing moves its own Trouw, and each Relatie it belongs to moves at a Vonk of its own, which the Lid’s crossing can set off by carrying that Relatie across its Drempel. So wherever its Zelf holds it across, a crossing taken back leaves its Trouw weaker by ρ² of what held it: a Weigering, a passage through Leven, a Masker’s slip and its return, a bond broken and formed again.
 
-The Trouw a Relatie holds with itself is its Vol/Leeg, and Stilte’s Trek draws it towards Leeg at every look the Relatie’s Zelf takes at itself, each a Vermenigvuldiging and so a Vonk, at its **Wijk** as its Zelf reads it there, L̂_K (above); what it takes from what the Relatie holds is booked as every change in what is held is: a bond’s wear is its Verlies, and an enmity’s, held across, its Winst, which comes only where the Warmte there can pay it, as every Winst does; where it cannot, the look still comes, and only that wear waits:
+The Trouw a Relatie holds with itself is its Vol/Leeg, and where ε holds it, Stilte’s Trek draws it towards Leeg at every look the Relatie’s Zelf takes at itself, each a Vermenigvuldiging and so a Vonk, at its **Wijk** as its Zelf reads it there, L̂_K (above); what it takes from what the Relatie holds is booked as every change in what is held is: a bond’s wear is its Verlies, and an enmity’s, held across, its Winst, which comes only where the Warmte there can pay it, as every Winst does; where it cannot, the look still comes, and only that wear waits. Where ε does not hold it, nothing of it is held, and Stilte’s Trek has nothing there to wear: the look wears nothing, no Vonk comes and nothing is booked, for where nothing happens, nothing does:
 
 ```
-at each look of K’s Zelf at itself:   y_KK ← ( 1 − L̂_K ) · y_KK
+at each look of K’s Zelf at itself, where ε holds y_KK:           y_KK ← ( 1 − L̂_K ) · y_KK
+at each look of K’s Zelf at itself, where ε does not hold y_KK:   y_KK unchanged, and no Vonk
 ```
 
 *Check: across 21 days, 107 married couples whose evening blood glucose ran lower stuck more pins into a doll that stood for their spouse, and those whose average ran lower gave louder and longer blasts of noise to what they took for their spouse, a correlation, the glucose measured and not changed (Bushman et al., 2014); and across two generations of couples about thirteen years apart, economic pressure predicted rising hostile, contemptuous and angry behaviour between partners, except among couples who solved problems well, in whom it did not rise (Masarik et al., 2016).*
 
-Stilte’s Trek wears each Trouw once, a bond and an enmity alike, and no limit is set on Trouw: it goes as far as its Vonken bring it.
+Stilte’s Trek wears each Trouw that is held once, a bond and an enmity alike, and no limit is set on Trouw: it goes as far as its Vonken bring it.
 
 **Greep.** A Relatie’s Greep is its hold: the sum of its positive Trouw, its Zelf’s among them:
 
@@ -1732,13 +1990,13 @@ J_ij = y⁺_ij        Jᵢ = Σⱼ J_ij
 
 A Relatie of negative Trouw holds no part of it. The Greep moves as the Trouw it sums moves, and moves no Trouw itself.
 
-**Gewenning and Diepte.** Being used to something is held twice, at two paces: quickly in the Gewenning, slowly in the Diepte. At every Vermenigvuldiging of i on j, the look takes in π̂ᵢⱼ of j, its reach, finds i’s Echo of j at a nearness α_ij, from 0 far off to 1 on what it tracks, and adds what it takes in to both, in the sign of the Trouw, sgn(y_ij):
+**Gewenning and Diepte.** Being used to something is held twice, at two paces: quickly in the Gewenning, slowly in the Diepte. At every Vermenigvuldiging of i on j, the look takes in π̂ᵢⱼ of j, its reach, finds i’s Echo of j at a nearness α_ij, from 0 far off to 1 on what it tracks, and grows both from what it takes in, in the sign of the Trouw, sgn(y_ij):
 
 ```
 Z_ij ← Z_ij + g_Z · sgn(y_ij) · π̂ᵢⱼ · α_ij          z_ij ← z_ij + g_z · sgn(y_ij) · ( π̂ᵢⱼ · α_ij − |Z_ij| )⁺
 ```
 
-The Gewenning takes in what every look takes in; the Diepte only what the look brings beyond the Gewenning it finds there. Both are i’s own, grown by its own looks, so each side of a Duo is used to the other in its own measure, as each reads the other by its own Echo. A Relatie of Leden holds both across its Leden, as it reads by them: each Lid runs this rule by its own looks, at its own Tijd, and a Lid that holds no Relatie of its own with a thing finds the Relatie’s Echo of it, in the sign of the Relatie’s Trouw with it. What the Relatie is used to of a thing is theirs read together, as its Eigen is (above). Each fades by its own looks: the Gewenning at every look its holder takes, wherever that look falls, and the Diepte only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it:
+The Gewenning takes in what every look takes in; the Diepte only the excess of what the look takes in over the Gewenning it finds there. Both are i’s own, grown by its own looks, so each side of a Duo is used to the other in its own measure, as each reads the other by its own Echo. A Relatie of Leden holds both across its Leden, as it reads by them: each Lid runs this rule by its own looks, at its own Tijd, and a Lid that holds no Relatie of its own with a thing finds the Relatie’s Echo of it, in the sign of the Relatie’s Trouw with it. What the Relatie is used to of a thing is theirs read together, as its Eigen is (above). Each fades by its own looks: the Gewenning at every look its holder takes, wherever that look falls, and the Diepte only at the looks its Zelf takes at itself, and the more slowly the more the Relatie holds besides it:
 
 ```
 Z_ij ← ( 1 − κ_Z ) · Z_ij          z_ij ← ( 1 − κ_z ) · z_ij
@@ -1746,23 +2004,46 @@ Z_ij ← ( 1 − κ_Z ) · Z_ij          z_ij ← ( 1 − κ_z ) · z_ij
 
 Each fade is read at the Relatie as one: it is the shape of the crossings of the Leden that hold its Gewenning and its Diepte, each booked at its own Vonk into the Medium inside the Relatie, so its Telraam closes.
 
-What a look brings beyond what its reader is used to of a thing, its Gewenning and its Diepte of it read together, is
+What a look brings beyond what its reader is used to of a thing is the share of what it takes in that its form does not yet hold of it: what it takes in, over that together with all its form holds of the thing (One it knows, below). It reads each change by its fold, in proportion to the level it starts from, keeps its answers spread over whatever range arrives, and at a level that holds comes back to the share it stood at, which the Wet’s g_Z and κ_Z and how often the reader looks at that thing set, alike for a slight thing and a hard one. No Drempel and no bound enter it. So a part that keeps coming is felt less each time and stays felt, a slight one as surely as a hard one, wherever no Brein fronts the Gevoel with a Masker (Distortion, Told to oneself):
 
 ```
-ν(π) = ( π − |Z| − |z| )⁺          π what a look takes in, Z and z its reader’s Gewenning and Diepte of it
+ν(π) = π / ( π + Ẑ + ẑ )          π what a look takes in, Ẑ and ẑ all its reader’s form holds of it
+felt = π · ν(π)          what a Gevoel feels of each part it registers
 ```
 
-A stretch passing reads it at each Partner, with π the nearness αᵢⱼ; a Gevoel feels it of each crossing it registers; a Masker’s wearer feels it of the gap its Masker forces, `π = |Eᵢᵢ − Mᵢ|`. The Diepte keeps its own increment, above, which reads the Gewenning alone.
+A stretch passing reads it at each Partner, with π what the look takes in, π̂ᵢⱼ·αᵢⱼ, and a Gevoel feels π·ν(π) of each crossing it registers. The Diepte keeps its own increment, above, which reads the Gewenning alone.
+
+**The form.** The Diepte is a Relatie’s third axis, beside its Eigen and its Trouw: its own form, read as one. What it holds is the Relatie as it has come to hold it: the Echoes it keeps, of its Partners while their Relaties last and of each Vreemdeling as its newest reading, its Leden and the Trouw among them, and its own Drempels, read nested as Kleur reads them. zᵢ is how deep that form is, and z_ij how much of it j has shaped, grown by the increment above. Nothing is kept beside it: every look is a Relatie of an instant, and what it read is taken into the form of the Relatie it served, or of its reader where it served none. Every Echo it keeps is kept in the Relatie whose looks shaped it, and differs from the others only by that Relatie’s state: a Duo’s side at the Duo’s Trouw, a Lid’s keeping of what its whole reads in the sign of its whole’s Trouw with it, an order’s and a Gevoel’s of a cause in their holder’s, a Vreemdeling’s at y⁰, the Trouw its Vermenigvuldigingen open at, and a Rouw as its Relatie ended. So a reading kept of a Vreemdeling is no Rouw, since no Relatie that held a Trouw has ended. The form knows what its own Drempels read alike with what it keeps, and keeps as one what they read alike of what no longer answers it, each of one sign (Rouw, What it reads alike is one). A Brein keeps the Mirages it reads alike as one too, at its own scale (Brein and Verbeelding, Its Leden). Where a Relatie that held a Trouw ends, what each Partner’s form kept of it updates no more, and that part of the form is its Rouw.
 
 *Check: at a given test delay, recall first rises and then falls as the gap between two study sessions grows, and the best gap grows with the delay, from about 20 to 40 % of a week’s delay to about 5 to 10 % of a year’s (Cepeda et al., 2008). Theta bursts an hour or more apart add potentiation to hippocampal synapses the first burst left saturated, by recruiting synapses it missed, fewer than half of them being ready at any one time (Kramár et al., 2012); and synaptic models that store a memory first in fast processes and pass it on to slower ones explain the spacing effect (Benna and Fusi, 2016).*
 
 *Check: a sensory neuron’s input–output relation rescales to the range of what it receives, keeping what it carries at its most (Brenner et al., 2000); a photoreceptor’s light adaptation keeps its working range on the light it absorbs (Fain et al., 2001); depression of cortical synapses lets equal proportional changes of fast and slow inputs give equal responses, input by input (Abbott et al., 1997); and a bacterium’s chemotaxis adapts back to where it stood at any constant level of attractant (Barkai and Leibler, 1997).*
+
+*Check: a seen contour fades and disappears where its image is held perfectly still on the retina (Riggs et al., 1953), while the eye’s own small movements keep a steady scene seen (Martinez-Conde et al., 2006). Spouses’ cortisol and negative moods track each other through the day (Saxbe and Repetti, 2010), and those whose life satisfaction moved most at a marriage or at a spouse’s death were still far from where it had stood years later (Lucas et al., 2003).*
+
+*Check: a bacterium’s chemotaxis answers the fold of a change in its attractant, not its size, and adapts in the same time over a ten‑thousandfold range of what surrounds it (Lazova et al., 2011); a cell’s Wnt signalling reads the fold of its change in β‑catenin, not its level (Goentoro and Kirschner, 2009); and whatever answers folds adapts exactly and keeps Weber’s law (Shoval et al., 2010).*
 
 *Check: women who had left abusive partners felt the more attached to them the more intermittent the abuse had been, and six months on still felt about three quarters of it (Dutton and Painter, 1993). A weak synaptic change lasts where the same neuron is strongly engaged within a few hours (Frey and Morris, 1997), and a new association that fits what is already known is consolidated within two days (Tse et al., 2007), while how well a list is learned sets how much of it is kept, not how fast it is forgotten (Slamecka and McElree, 1983). Among older adults, memory declines twice as fast in the least socially integrated as in the most (Ertel et al., 2008). Of two memories equally strong, the older fades more slowly, Jost’s law (Jost, 1897; Wixted and Ebbesen, 1991). The same practice spaced out is kept better than massed (Cepeda et al., 2006), and habituation falls with repetition to a level it then holds, recovers where the stimulus is withheld, and built at short intervals comes faster and lasts less (Rankin et al., 2009), which two processes at different paces, the slower fed by what the quicker leaves, explain in detail in a worm’s habituation (Staddon and Higa, 1996). Spines that a first experience adds to a mouse’s visual cortex outlast its effect, and when the experience comes again the cortex shifts even faster, with no new spines (Hofer et al., 2009).*
 
 *Check: it holds below the brain too. A stretched rubber softens only past the largest strain it has already held (the Mullins effect; Mullins, 1948, 1969); a slime mould, a single cell, at first avoids quinine or caffeine and crosses them faster as it meets them again and again, and avoids them again once they have been withheld for a time (Boisseau et al., 2016); a non-neural human cell line keeps a spaced signal stronger and longer than the same signal massed (Kukushkin et al., 2024); and a vaccine booster given twelve weeks after the first dose raises more than twice the antibody of one given within six (Voysey et al., 2021), as antibody still present masks what the booster shows (Zarnitsyna et al., 2016).*
 
 *Check: in flies, blocking the small G protein Rac slows the decay of an early memory from a few hours to more than a day, and Rac contributes both to that decay and to the forgetting new learning brings (Shuai et al., 2010); the dopamine neurons whose ongoing activity drives the forgetting grow more active with movement and quieter with rest, and a deeper sleep keeps the memory (Berry et al., 2015); and in mice, new neurons added after a memory forms make it forgotten (Akers et al., 2014). In people, the passage of time alone does not cause forgetting (Oberauer and Lewandowsky, 2008), everyday forgetting comes from the interference of mental activity (Wixted, 2004), sleep protects a memory from that interference (Ellenbogen et al., 2006), and less is forgotten over a night’s sleep than over the same hours awake (Jenkins and Dallenbach, 1924). Sleep also renormalises the strength of synapses, through the spontaneous activity of sleep itself (Tononi and Cirelli, 2014).*
+
+**One it knows.** A Relatie reads something present as one it knows where, on every Spectrum the look reads, its own Drempels read it in the Kleur of something its form keeps, at the same pole of each, as two kept things are read alike (Rouw, What it reads alike is one): the form knows by how it reads, never by who is there. x̂ᵢⱼ is what a look of i reads of j, j’s Eigen as it stood a Vertraging before, coloured and distorted as that look takes it in, xⱼ(t − δᵢⱼ) + βᵢⱼ + υᵢⱼ:
+
+```
+i knows j by k   where   cᵢ(x̂ᵢⱼ) = cᵢ(E_ik)   on every Spectrum the look reads
+```
+
+A look serves the Relatie it is layered on and everything else its form knows the one it reads by: each Echo there moves, its Gewenning and its Diepte growing in the sign of the Relatie it is kept in, and a Rouw takes in nothing; where the look serves nothing, its reader keeps the reading in its own form, as it keeps a Vreemdeling’s. A reading of one that left reach and came back takes in what the look reads as its newest, its Echo following as every Echo does, and the look adds to its Gewenning and its Diepte of it. A Rouw that finds the one it lost takes in nothing: what the look reads is taken into the form beside it. What i is used to of j is then all its form holds of j, read together, each sign apart, a Rouw that finds j among it:
+
+```
+Ẑᵢⱼ = Σₖ |Z_ik|          ẑᵢⱼ = Σₖ |z_ik|          over the Relatie the look is layered on and every k i knows j by
+```
+
+Its Zin reaches one it knows past Ẑᵢⱼ and ẑᵢⱼ, its Knipoog is read against them, and what a look brings beyond what it is used to is read beyond them. So the one it knows is met known, one changed past what its own Drempels tell apart is met as a stranger, as is one a look’s own Vervorming reads apart, and a stranger it reads alike with one it knows is met as that one. Two that know each other form again as two Vreemdelingen do, each reading the other’s aim by its newest reading, and a Relatie that ended forms again beside its Rouw; from then on what i is used to of k is Ẑᵢₖ and ẑᵢₖ.
+
+*Check: people who read about a new person resembling a significant other of their own remembered and inferred of that person what was true of the significant other, and felt about that person more as they felt about the significant other (Andersen and Baum, 1994); almost half of widowed people sense or see their dead spouse, often for years (Rees, 1971); and what was got used to and then withheld recovers, while repetition can leave it got used to again faster for days or weeks after, long‑term habituation (Rankin et al., 2009).*
 
 **Tijd.** Tijd holds between Vonken and changes only at them. Each Vonk on any of a Relatie’s Relaties, its Zelf included, moves its Tijd, so that
 
@@ -1771,7 +2052,7 @@ tᵢ = t̄ᵢ · exp( εᵢ / T_t )          εᵢ = nᵢ · ( y⁺_ii·n_ii + �
 t̄ᵢ = Σ_K J_iK·t_K / Σ_K J_iK   over the Relaties K it stands across in that give it Greep, its Zelf among them at t⁰ᵢ,   t̄ᵢ = t⁰ᵢ where there are none
 ```
 
-εᵢ is the positive Trouw Relatie i holds in Naar‑mode: that of every Relatie whose two sides both stand across, its Zelf’s where its Zelf holds it across, in full for each of the two, since both hold its one Trouw; y⁺ is the positive part of y. It is what its own crossings and its Zelf’s joined of positive Trouw. Negative Trouw does nothing to it, as it does nothing to Greep: a Vonk of an enmity books its Energie and leaves the Tijd as it was. T_t is the Energie that quickens a Tijd e‑fold. Energie and Tijd change together at every Vonk and stay distinct: Energie is booked in the Telraam, Tijd is a pace, and neither is ever paid in the other.
+εᵢ is the positive Trouw Relatie i holds in Naar‑mode: that of every Relatie whose two sides both stand across, its Zelf’s where its Zelf holds it across, in full for each of the two, since both hold its one Trouw; y⁺ is the positive part of y. It is what its own crossings and its Zelf’s joined of positive Trouw. Negative Trouw does nothing to it, as it does nothing to Greep: a part in an enmity books its Energie and leaves the Tijd as it was. T_t is the Energie that quickens a Tijd e‑fold. Energie and Tijd change together at every Vonk and stay distinct: Energie is booked in the Telraam, Tijd is a pace, and neither is ever paid in the other.
 
 **Inherited.** Tijd nests, and is inherited by Greep: a Relatie runs on the Tijd of every Relatie it stands across in that gives it Greep, its Zelf among them, each weighed by the Greep it gives, J_iK, and each Tijd read by these same rules at its own level. Nothing outside a Zelf holds it, so its Zelf brings the pace of a Zelf left alone, t⁰ᵢ, by the Greep it gives, J_ii = y⁺_ii, and its Trouw quickens the Relatie once, in εᵢ: the more a Relatie holds itself, the more of its own pace it keeps among what holds it. Negative Trouw gives no Greep, so a Relatie it stands across in by enmity alone holds none of its Tijd; where none gives it Greep, its Zelf included, it runs on its own, t⁰ᵢ.
 
@@ -1791,7 +2072,7 @@ z⁺ is the positive part of z, so an Afvallig counts by what it kept and an ene
 t̃ᵢ = Σ_stretch 𝒮ᵢ / tᵢ          𝒮ᵢ = Σⱼ χᵢⱼ·( 1 − νᵢⱼ ) / Σⱼ χᵢⱼ
 ```
 
-νᵢⱼ is ν(αᵢⱼ) of the look at j, and 0 where j is absent. The sum runs over the stretch, each span between two changes of 𝒮ᵢ or tᵢ weighed by its length.
+νᵢⱼ is ν(π̂ᵢⱼ·αᵢⱼ) of the look at j, of what that look takes in, and 0 where j is absent. The sum runs over the stretch, each span between two changes of 𝒮ᵢ or tᵢ weighed by its length.
 
 *Check: a stretch that asks more of attention passes faster for those timing it as it goes (Block et al., 2010), and time flies when we are having fun and drags when we are bored (Droit-Volet and Meck, 2007).*
 
@@ -1805,7 +2086,7 @@ Where its Diepte holds its Leden’s read together, as a holder’s holds its Br
 
 *Check: animations with more sub‑events, and less similar ones, were remembered as lasting longer at the same clock duration (Faber and Gennari, 2015).*
 
-**Voorspelling.** A holder keeps what follows what in Relaties of its own, nested in it, each the Relatie of two readings that closed as they formed, so it keeps of each what it keeps of every Relatie it reads, and each holds no Trouw and books nothing: for each thing h it has read follow a thing k, the order (k→h), with an Echo of what followed k, E_kh, and a Gewenning and a Diepte, which grow by the two‑pace rule at every reading of k, at the nearness at which what followed finds E_kh. A thing is a crossing as its reader reads it: a look that finds one on the other side of its Drempel from where its last reading of it stood. A look that finds one where it stood reads no thing, and is taken in as every look is. Where a Voorspelling k opened finds its time pass with nothing read on its Spectrum, nothing followed k, and that is a follower too, (k→∅); where none stands, what follows k is the next thing read there, its own ending among them. So where what it kept stops being followed by what it stood for, the holder learns that as well, laid beside the old. A holder that reads others by its Leden reads itself by its own Zelf, so it keeps the orders of what its Zelf reads of itself at its looks at itself, and foresees its own crossing too. A crossing a Voorspelling causes, the one it foresaw read instead of its Echo, is that Voorspelling at work, and follows no cue: what follows the cue is the next thing read after it. When i reads k, the order it is most used to opens a **Voorspelling (Q)**, once it is used to it past a Drempel of its own, θ_Q:
+**Voorspelling.** A holder keeps what follows what in Relaties of its own, nested in it, each the Relatie of two readings that closed as they formed, so it keeps of each what it keeps of every Relatie it reads, and each holds no Trouw and books nothing: for each thing h it has read follow a thing k, the order (k→h), with an Echo of what followed k, E_kh, and a Gewenning and a Diepte, which grow by the two‑pace rule at every reading of k, at the nearness at which what followed finds E_kh. A thing is a crossing as its reader reads it: a look that finds one on the other side of its Drempel from where its last reading of it stood. A look that finds one where it stood reads no thing, and is taken in as every look is. Where a Voorspelling k opened finds its time pass with nothing read on its Spectrum, nothing followed k, and that is a follower too, (k→∅); where none stands, what follows k is the next thing read there, its own ending among them. So where what it kept stops being followed by what it stood for, the holder learns that as well, laid beside the old. A holder that reads others by its Leden reads itself by its own Zelf, so it keeps the orders of what its Zelf reads of itself at its looks at itself, and foresees its own crossing too. A crossing a Voorspelling causes, the one it foresaw read instead of its Echo, is that Voorspelling at work, and follows no cue: what follows the cue is the next thing read after it. Its holder knows each thing as its form knows every one, by Kleur (One it knows): a crossing it reads in the Kleur of k, crossed the same way, is k to it, and opens what follows k. When i reads k, the order it is most used to opens a **Voorspelling (Q)**, once it is used to it past a Drempel of its own, θ_Q:
 
 ```
 h* = argmax_h ( |Z_kh| + |z_kh| )          where |Z_kh*| + |z_kh*| > θ_Q
@@ -1827,9 +2108,156 @@ It carries Vervorming like any Echo, in when h* is due as in what it foresees, t
 
 *Check: after rats were conditioned to a cue paired with food, making the food less valuable, by satiation or by pairing it with fast rotation, reduced what the cue evoked (Holland and Rescorla, 1975); conditioning is the learning of relations among events that lets the organism represent its world, not a cue’s acquired power to evoke a response (Rescorla, 1988).*
 
+*Check: a response learned to one stimulus is given to others like it, the less the less alike they are (Shepard, 1987).*
+
 ---
 
-### XVI. Trek and Zin
+#### II.1. In an Instantie: Woven and Tangled
+
+**What a Relatie holds.** One form serves every kind; an entry stays empty where the kind holds none of it.
+
+```text
+Relatie
+    naam            its one name, given once and never again
+    kind            Solo, Duo, Relatie of all of them, or Veld
+    octaaf          the Octaaf whose Wet it runs by
+    waarden         its own open values, a Lid’s and a Relatie’s        Open quantities
+    place           where it stands in its Medium: the Eigen of its Relatie with that Medium
+    born, ended     the moment it was seeded or formed, and the moment it ended
+    leden           the Relaties it holds as one
+    lid van         every Relatie it is a Lid of
+    sides           one for each side of a Duo, and for each Lid of a Relatie of all of them or a Veld; and one for each Vreemdeling it keeps a reading of, at y⁰, its own side of the Vermenigvuldigingen they share
+    spectra         one entry for each Spectrum it stands on, a Relatie of Leden those two or more of its Leden meet on:
+        eigen           its course, the run of exact motions it took from each event to the next, its pole, and what it waits on where it waits    xᵢ, nᵢ
+        trouw           the Trouw its Zelf holds with itself here; a Duo’s is the one Trouw its sides share    y_ii; a Duo’s y_ij
+        zelf eigen      its Zelf’s Eigen here, kept as its own is, and its pole    x_ii, n_ii
+        self-echo       its Zelf’s Echo of itself here, and the rate its Traagheid keeps    Eᵢᵢ
+        leeg            its Leeg                                        Sᵢ
+        drempel         its Drempel                                     θᵢ
+        aim             the one its Zin aims at, or nobody              Aᵢⱼ
+        trajectory      its poles on its own two Drempels, θ_λ and parity, the side its gap kept and the gap it froze at
+        masker          the one Masker it wears, where that Masker mimics here, one of its Leden, or none
+        orders          what has followed each reading, and the Voorspellingen they opened
+    zelf            its one Zelf, held once, where its Spectra meet:
+        tijd            its pace, the Tijd it inherits by Greep, and the moment it last moved    tᵢ, t̄ᵢ
+        waarneming      what each one it perceives is owed of its looks, and how many it has taken of each    χᵢⱼ
+        diepte          what it has kept, read as one at its Zelf’s last look at itself    zᵢ
+    kept            its Gewenning and Diepte of each Relatie a whole it is a Lid of reads, where it holds no Relatie of its own with that one
+    warmte          the book of the Medium inside it, and what each ending left there
+    rouw            the Rouw it keeps, those it reads alike kept as one, each of one sign    Rouw, What it reads alike is one
+    gevoel, brein   its faculties, one of each, each a Relatie nested in it, where it holds them
+    versions        the version of each motion and pace, which every plan carries
+
+Side                                                                    one for each side or Lid that reads, and for each Vreemdeling read, its reader’s own
+    lid             the Relatie on this side, or the Lid that reads its whole; of a Vreemdeling’s side, the one it reads
+    reading         of a Vreemdeling’s side, that one’s newest reading on each Spectrum, the only one a Zin can rest on
+    echo            for each Spectrum: its Echo of what it reads here, and the rate its Traagheid keeps    Eᵢⱼ
+    gewenning       for each Spectrum                                   Z_ij
+    diepte          for each Spectrum                                   z_ij
+    vertraging      the Medium’s, from what it reads to it; none within a Brein    δᵢⱼ
+    ontspanning     its own                                             τᵢⱼ
+    last look       the moment it last looked at what it reads here
+```
+
+The Duo’s one Trouw is its Zelf’s, held on each Spectrum once for both sides, and read by both; no side holds a Trouw of its own. A Vreemdeling’s side is read at y⁰, the Trouw its Vermenigvuldigingen open at, and differs from every other side only by that, as every Echo the form keeps differs from the rest only by the state of the Relatie whose looks shaped it (State variables, The form). Once its Vreemdeling leaves reach, it is read no more, and stays a side of its reader until it is kept as one with a Rouw (Rouw, What it reads alike is one). Greep, a Marge, a Wijk, a Kleur, a distance, the size of what a Relatie holds across its Spectra and every other Lezing is read from these whenever it is asked for, and is no entry; so is the trajectory a Relatie is in, read from its poles on its own two Drempels.
+
+**A value stands on one Spectrum, or once on the Zelf.** A Solo stands on the Spectra of its Octaaf, and a Relatie of Leden on each that two or more of its Leden meet on, read there by those that stand on it, so a Duo stands only where both do. For each Spectrum it stands on, a Relatie holds its own Eigen, its Zelf’s Trouw, Eigen and pole, its self‑Echo, its Echo of each one it reads, its Gewenning and Diepte of each, its aim, its orders and its Voorspellingen. Its Zelf is one, and holds once what all its Spectra meet in: its Tijd, its Waarneming and its Diepte read as one. A program holds them by Relatie and by Spectrum, and an Octaaf holds its Spectra, its own first.
+
+**The layout is free, the folding is not.** Whether a program keeps its values by Relatie and then by Spectrum, or by Spectrum and then by Relatie, is its own choice, made for the way it reads them. What it may not do is fold two Spectra into one value, or read a value on one as though it stood on another.
+
+**The Medium’s axes are Spectra too.** Where a Medium’s Leden stand apart, its axes are Spectra of its own, Lengte, Breedte and Hoogte, as many as its Leden stand apart on, and none where they all stand at one place. A Lid holds its place there as the Eigen of its Relatie with the Medium: a course on each of those Spectra, where it stands and how it moves. A program never keeps coordinates in a list of its own beside the Relaties, and never names a value on any other Spectrum a place.
+
+**Every Medium is spacetime, and how its Leden stand is its own.** A Veld either stands at one place or stands apart on its Medium’s Spectra, and a program holds whichever its Medium is.
+
+**At one place.** The distance between two is their Vertraging alone, the Medium’s for each Duo and each way, which an Instantie may give from a layout of its own. Nothing pulls along an axis, a whole’s centre is that one place, and the Warmte spreads there across the edges of the Relaties it carries.
+
+**Standing apart.** Each Lid holds its place as a course on the Medium’s Spectra, where it stands and how it moves. Between Vonken it keeps that course, bent only where the Trek reaching it there bends it, at the looks that read it; at a Vonk, what moves is kept between the Lid and what crosses. A reader reads another where it stood when what reaches the reader left it, so the Vertraging is carried along the way from there. A Relatie of Leden stands at the centre of the Energie it holds.
+
+**A course is kept as it ran.** Between events every Eigen follows its exact motion, so a program keeps each as the run of exact motions it took, one from each of its events to the next. A reader a Vertraging away reads that run at the moment it needs, as it stood then, never interpolated between stored points and never read as it stands now.
+
+```text
+as it stood(eigen, moment):                                             Running a Veld, Three events
+    motion = the motion of eigen that was running at that moment
+    return that motion written out at that moment:
+        an Eigen, relaxing from where it stood at the motion’s start towards the Binding it read then
+        a place, moved on from where it stood at the motion’s start as it was moving then    State variables, Distance
+        an Eigen that waits, standing at its Drempel
+
+reading(i of j at moment t):
+    left = the moment what reaches i at t left j: t less the Vertraging from j to i,
+           carried, where the Leden stand apart, along the way from where j stood at that moment
+    return as it stood(the Eigen of j, left)
+```
+
+**An index is a cache.** Where Leden stand apart, a spatial index, a list of neighbours or a grid of cells serves only to find quickly who stands within reach of whom. It holds nothing the places do not already say, and it is mended wherever a place moves. Where it and the places disagree, the places are right and the index is the defect.
+
+**Nothing is known at once.** Whatever crosses a Medium arrives a Vertraging later: between two Partners, between a holder and what it carries, and between two Leden of one holder, its body and its Gevoel among them. A Medium that would carry a reading across at once is refused. Only the same thing moves at once: one Relatie read at two scales, as a whole moves with its Leden.
+
+**Space words belong to a Medium.** A place, a distance and a way are a Medium’s. Of a value on any other Spectrum a program speaks of its side of a Drempel or of its gap, never of its place.
+
+**Keep what a reading can still ask for, and nothing more.** A reader a Vertraging away reads what stood then, so an Eigen read across a Medium keeps the record of its motions, and a Relatie of Leden the Leden and the weights it read from each moment on. What no reader can still ask for, older than its Medium’s greatest Vertraging, is let go.
+
+**Keep each thing once.** A value held twice drifts from itself. What one Relatie holds, no copy holds beside it, and what can be read from what is held is read, never stored.
+
+**A cache knows what it was read from.** Where a program keeps a reading to save reading it again, it keeps beside it the versions of everything the reading was taken from, and reads it again when any of them has moved. A cache that cannot say what it was read from is a second value, and it drifts.
+
+**A sum over a stretch is kept as it runs.** A Lezing that sums a stretch, as felt time does, cannot be read from the Veld as it stands once the stretch has passed. A program that reads one keeps its sum as the Veld runs, exactly as it keeps a clock, and reads a stretch as the difference of two sums.
+
+**What grows, grows for a reason.** A Rouw lasts as long as its keeper, a history as long as its longest Vertraging, and a sum over a stretch as long as its reader reads it. A program that holds more than these holds what the book lets go, an endless record among it, and one that holds less has lost what a reader can still ask for.
+
+**Each side reads by its own Echo, and the Duo holds one Trouw.** Each side has its own Vertraging, Ontspanning, Waarneming, Vervorming, Gewenning and Diepte, and both hold the Relatie’s one Trouw.
+- *Rests on:* State variables (Echo).
+- *Prevents:* a Duo collapsed into one Echo that both sides share, two sides read alike, and one Vertraging for both directions. It also prevents a Trouw split into one per side, which turns one Relatie into two one‑way pulls, and a Trouw each side takes up only at its own looks, which puts a Vertraging inside the Relatie’s Zelf.
+- *Test:* open a Duo whose two sides differ only in their Vervorming. After their first looks, their Echo‑gaps differ. Then seed rooms in which one side’s own Vertraging, Ontspanning or Waarneming alone is changed, beside rooms in which it is not, and read them before either side crosses: that side’s reading parts from the same side’s in the controls first, and what the other side reads of it only once that side’s Eigen has moved and the Vertraging between them has passed, each read by a rank test over the rooms. The other side’s Echo of it closes at every look of that side it answers (Vermenigvuldiging, Observation), so where that side looks more often, that Echo parts sooner, by how often it reads and never by what it reads.
+
+**One Gevoel, one Brein, one Masker at a time.** A holder holds one Gevoel and one Brein, and a wearer wears one Masker at a time, however many Spectra it mimics; more feel, think or mask only at levels of their own.
+- *Rests on:* Gevoel and Aandacht; Brein and Verbeelding (Its Leden); Masker (The Masker as a Lid).
+- *Prevents:* a second Gevoel registering each Vonk its holder’s first registers, a second Brein reading again all the first reads, and two Maskers standing for one true Eigen.
+- *Test:* seed a second Gevoel in a holder that holds one, a second Brein in one that thinks, and a second Masker on a wearer: each is refused, with its reason. Let a Masker end: its wearer puts another on only at its own next crossing towards Naar. At every Vonk, both read one Trouw.
+
+**Every Echo lags.** Every look reads its Partner as it stood δᵢⱼ ago and closes on that reading over τᵢⱼ, δ being zero only where no Medium lies between, while the Trouw a crossing moves reaches both sides at once.
+- *Rests on:* State variables (Echo); Running a Veld (The limit and the step).
+- *Prevents:* the instant limit, a Lezing of a Veld and never a Veld, in which poles flip with no Eigen travelling to its Drempel and no Vertraging, and every reading is fresh. It also prevents a pole turned by a Vonk with no Eigen travelling to its Drempel, as a Zelf’s turned by the Trouw that moves its Drempel, or a crossing its own Vonk would carry back run as a burst of Vonken at one moment; a Vertraging rounded to whole steps of the Instantie; a Partner read as it stands now; and a reading smoothed or averaged beside its Echo.
+- *Test:* log, for every crossing, the event that last moved its Binding and the moment its Eigen met its Drempel. The moment comes later, by the time the Eigen took to travel there. Let j cross: the pole i reads of j changes only at a look of i’s own, and at no moment before j’s crossing and δᵢⱼ; at the crossing itself, i’s Binding moves only by the Trouw j’s Vonk moved. Move a Zelf’s Trouw by a Vonk of each kind: it keeps its pole. Let a Lid cross with its pull just past its Drempel where its Leeg falls as its Trouw rises: it waits at its Drempel and books nothing.
+
+**Only positive Trouw holds, and a Rouw holds nothing.** Greep and Tijd read positive Trouw alone, and a Rouw enters no Binding, no Greep and no ε.
+- *Rests on:* State variables (Greep); Rouw.
+- *Prevents:* an enmity that holds a Relatie together from inside or quickens its Tijd, and a grief that heals to zero or drifts with no look. It also prevents a Rouw that holds Energie of its own, and a Rouw given a Zelf of its own: it is kept in the Zelf of the Partner that keeps it, and reads by that Partner’s Zelf and Waarneming alone.
+- *Test:* seed a Relatie whose own Trouw and every Trouw it holds are enmities: its Greep reads zero, and its Tijd runs at its own t⁰. Let Duos end as their field ends them: each Partner’s Rouw keeps the Trouw it held as it ended through any number of crossings elsewhere, whether its own crossing or a Scheiding ended it, and its Echo moves only at the looks it gets. ε + T_◌ reads the same before and after each ending’s Vonk.
+
+**The book alone bounds a value.** What limits a Relatie is Stilte’s Trek, its Marges and the Warmte where it stands, and a value that runs away is a measurement, shown as it is. A bound is one however a program writes it: a function, a comparison or a branch. Where the arithmetic lands a hair past a bound the book writes, a book below nothing or a moment before the Veld’s own, it is held there as rounding, named once with its reason, and past that rounding it is refused and logged, never passed over.
+- *Rests on:* State variables (Eigen and Stilte’s Trek); Drempel and the Vonk (The supply).
+- *Prevents:* clamps, caps, floors and saturations the book does not write, whatever writes them. Each hides its own measurement and every other rule that reads the same quantity. It also prevents a value made to fit where it does not, and a rounding guard that swallows more than rounding.
+- *Test:* trace every bound in the Instantie to the formula of the Formal Structure it implements, named by its chapter as a listing names it; a bound traced to a sentence or to nothing is the defect, and so is a trace that meets no bound any more. Push each named rounding past the arithmetic’s precision: it is refused and logged. Then break each bound the book does write, the Warmte’s gate among them: the test that holds it turns red.
+
+**Each Spectrum runs by itself.** Nothing on one Spectrum moves a value on another: across its Spectra a Relatie gathers only through its one Zelf, as a pace, a share of its looks or a colouring.
+- *Rests on:* State variables (Several Spectra).
+- *Prevents:* a magnitude taken across Spectra used as a Drempel, a crossing or a cause, which reads convincingly as a distance and refers to nothing. It also prevents one Eigen spread over every Spectrum with one Drempel.
+- *Test:* push one Spectrum by Schriften and follow every other Spectrum’s entries as they are handed out: each change there was made by an event of its own, and whatever reached it from the pushed one came through a changed Tijd, share of looks, Greep or Diepte, or a Relatie formed or ended, which is one Relatie on every Spectrum it holds.
+
+**Trouw moves by what its crossings bring, and Gewenning runs beside it.** Gewenning and Diepte move no Trouw: they act through the Zin, through what a look brings beyond them and, read as one, through the colouring of a look, and resistance to a turn is the Echo’s Traagheid.
+- *Rests on:* State variables (Trouw; Gewenning and Diepte).
+- *Prevents:* a bond drawn towards how used to its Partner it is, and being used to someone read as loyalty to them. It also prevents Gewenning used as inertia or as an anchor, and a Zin that holds on to what it has long been used to.
+- *Test:* let a Relatie look at a Partner many times while neither crosses. Its Trouw moves only by what Stilte’s Trek wears at its Zelf’s looks at itself, to the last digit as in a stretch with no looks at the Partner, its Gewenning rises, and its Zin fades until it lets go. A Trouw that moved otherwise in that stretch moved with no Vonk, and that is the defect.
+
+**A crossing moves its own Relatie’s Trouw, and only that.** Every other Relatie moves at a Vonk of its own, which this one can set off.
+- *Rests on:* State variables (Trouw).
+- *Prevents:* a crossing’s Trouw spread over other Relaties, through the Greep, along an aim or in shares, which moves a Relatie by a crossing that was not its own, and a bond’s Vonk read at its Leden’s poles alone, which leaves out what it holds as one and so can never turn it. It also prevents an aim or a Lezing booked as a Vonk, and a Gevoel that moves a Vonk’s Winst or Verlies onto a cause, where it registers the Vonk and leaves it as it is.
+- *Test:* let a Lid cross, once with a Gevoel and once without, with a friend and an enemy across and a friend away. Its own Trouw moves by each of its Vonk’s pole parts, alike in both, and every bond it holds reads the same Trouw after the Vonk as before, to the last digit, until that bond crosses at a Vonk of its own.
+
+**Each Relatie keeps its own Tijd, and its Tijd paces two ways.** Its Tijd is inherited by Greep and moved at its Vonken, and a faster Tijd slows its Eigen while it quickens its looks.
+- *Rests on:* State variables (Tijd; Inherited).
+- *Prevents:* one clock that every Relatie runs on, a faster Tijd that speeds its Eigen as well, and a Tijd moved between Vonken.
+- *Test:* hold one Relatie across in a Relatie of positive Trouw whose other side stands across too, beside a control that differs only in that hold, and read the two Tijden. Read on the Veld’s pace, the one on the faster Tijd takes longer to reach the same Drempel, and its Waarneming takes more looks in the same stretch, both by the ratio of their Tijden.
+
+**Energie, Tijd and what is felt stay three.** All three move at the same Vonk, and none is paid in another.
+- *Rests on:* State variables (Tijd); Gevoel and Aandacht.
+- *Prevents:* Tijd charged as a cost, a feeling paid in a Vonk’s Energie or counted as it, and a Gevoel that registers what its holder’s Leden cross as Vonken of its holder, where it is its travel. It also prevents an audience that mints Energie.
+- *Test:* let a Relatie of Leden join a deep mode crossing by crossing. Its books read the change of every crossing, while its Gevoel registers only the Relatie’s own Vonken, each by what its look takes in and never by its Energie, and what its Leden cross between them lies in its Stilte, its travel. Against rooms seeded with watchers whose Zin aims at that Relatie, what its Gevoel registers grows, and against rooms seeded at another T_t, every Tijd moves otherwise, while in every room ε + T_◌ reads the same before and after each Vonk.
+
+---
+
+### III. Trek and Zin: Hello, World, by Chemotaxis
 
 Before any Partner, a Relatie’s pull is its **Trek (D)**, the other pole of Stilte’s, and like Stilte’s never off:
 
@@ -1845,7 +2273,7 @@ A Solo pulls with a Trek of its own. A Relatie of Leden, read as one, pulls with
 D_K = Σ_l∈K D_l
 ```
 
-So a whole draws the more the more it holds: each Lid that joins adds its pull to the whole’s, and a bound whole pulls less than its Leden apart by what its forming sent away. Through time a whole that draws gathers faster than those around it, and the largest run away.
+So a whole draws the more the more it holds: a newcomer forms with it a whole of them all, which pulls with the newcomer’s pull added, and a bound whole pulls less than its Leden apart by what its forming sent away. Through time a whole that draws gathers faster than those around it, and the largest run away.
 
 *Check: planetary embryos grow faster the larger they are, the largest running away from the rest (Kokubo and Ida, 1996), and networks grow by newcomers attaching preferentially to what is already well connected (Barabási and Albert, 1999). A hydrogen atom weighs 13.6 eV less than its proton and electron apart, the energy its forming sent away as light.*
 
@@ -1853,10 +2281,10 @@ So a whole draws the more the more it holds: each Lid that joins adds its pull t
 
 ```
 Aᵢⱼ = 1   where   Dᵢ·π̂ᵢⱼ·ζᵢⱼ > θ_A   and   Dᵢ·π̂ᵢⱼ·ζᵢⱼ > Dᵢ·π̂ᵢₖ·ζᵢₖ + η_A   for the k it aims at now
-ζᵢⱼ = 1 towards a Vreemdeling          ζᵢⱼ falls as |Z_ij| + |z_ij| grows
+ζᵢⱼ = 1 where Ẑᵢⱼ = ẑᵢⱼ = 0          ζᵢⱼ falls as Ẑᵢⱼ + ẑᵢⱼ grows
 ```
 
-ζᵢⱼ is how far the pull still reaches past what i is used to: in full towards a Vreemdeling, and the less the more used to j it grows, its Gewenning and its Diepte of j read together, so a Zin fades as both grow, until its pull falls below θ_A or another overtakes it by η_A. How fast ζ falls is the Octaaf’s.
+ζᵢⱼ is how far the pull still reaches past what i is used to: in full where its form holds nothing of j, as of a Vreemdeling before its first look, and the less the more used to j it grows, all its form holds of j read together, Ẑᵢⱼ and ẑᵢⱼ (State variables, One it knows), so a Zin fades as both grow, until its pull falls below θ_A or another overtakes it by η_A. How fast ζ falls is the Octaaf’s.
 
 *Check: monkeys foraging in a depleting patch leave it when a signal in their anterior cingulate reaches a threshold, and the threshold rises when the next patch lies farther away (Hayden et al., 2011).*
 
@@ -1878,7 +2306,7 @@ Aᵢⱼ = 1   where   Dᵢ·π̂ᵢⱼ·ζᵢⱼ > θ_A   and   Dᵢ·π̂ᵢⱼ
 
 *Check: in hungry mice, the AgRP neurons that drive hunger reverse as soon as food is sensed, before any is eaten, and how far depends on how palatable the food is and how hungry they are (Chen et al., 2015). Cells of their insular cortex answer food cues while hungry and not when sated, and answer them again when those neurons are driven (Livneh et al., 2017).*
 
-i reads its distance to j from what it holds of j’s place on the Medium’s axes, against its self‑Echo of its own. For a Partner, that is its Echo of j. For a Vreemdeling, it is the newest reading its Vermenigvuldigingen with it gave, kept as their Rouw until its next look at it brings another. Where the Medium’s Leden all stand at one place, the distance is the Vertraging alone, the Medium’s own, and it reads as it stands. Aiming and losing an aim are readings, as a Voorspelling is: they book nothing of their own, and the Vonken they lead to are the crossings of i’s Relatie with the one it aims at, made on the Binding i reads, a Voorspelling among what it reads. Beside its aim, its Trek still reaches the others it perceives (Vermenigvuldiging, Waarneming).
+i reads its distance to j from what it holds of j’s place on the Medium’s axes, against its self‑Echo of its own. For a Partner, that is its Echo of j. For a Vreemdeling, it is the newest reading its Vermenigvuldigingen with it gave, kept in its reader’s form until its next look at it brings another. Where the Medium’s Leden all stand at one place, the distance is the Vertraging alone, the Medium’s own, and it reads as it stands. Aiming and losing an aim are readings, as a Voorspelling is: they book nothing of their own, and the Vonken they lead to are the crossings of i’s Relatie with the one it aims at, made on the Binding i reads, a Voorspelling among what it reads. Beside its aim, its Trek still reaches the others it perceives (Vermenigvuldiging, Waarneming).
 
 *Check: a bat ranges its prey by the delay of its echoes, and takes an echo played back to it later for a target further away (Simmons, 1973).*
 
@@ -1896,13 +2324,22 @@ Each Echo begins at what its Vermenigvuldiging read, and each side’s Gewenning
 - Two Relaties at one scale that answer each other form their Relatie as above: a Duo. Where either is a Relatie of Leden, read as one, their Duo is a Relatie of Relaties: that is nesting.
 - Where one of the two is a Relatie of Leden and the other answers it from outside, as a newcomer, the newcomer also joins, at its own scale, as a Lid, the Relatie of all those Leden and itself. That Relatie forms as one of its own, beside the Relatie the newcomer answered and beside their Duo; where it already stands, the answer forms their Duo alone.
 
-Their Duo opens as in The answer. In the Relatie of all of them, each Lid’s Echo, Gewenning and Diepte of it, and its one Trouw, open as in The answer, and its Eigen is its Leden’s read together from the start, with a Vol/Leeg and Drempel of its own. So it holds from its forming only where the newcomer reaches the others while they still stand.
+Their Duo opens as in The answer. In the Relatie of all of them, each Lid’s Echo, Gewenning and Diepte of it, and its one Trouw, open as in The answer, and its Eigen is its Leden’s read together from the start, with a Vol/Leeg and Drempel of its own. So it holds from its forming only where the newcomer reaches the others while they still stand. Its Leden stay the same for as long as it lasts: a newcomer forms another beside it, as above, and a Lid leaves it only where it ends, by its own Einde or by that Lid’s, so the Relaties among the rest, which stood beside it before and after, go on.
 
 **Losing the aim.** The Zin reverts to Trek where the aimed pull falls below θ_A, where its target is withdrawn or ended, where another overtakes it by more than η_A, or where a Vreemdeling it aims at leaves its reach, πᵢⱼ ≤ θ_πᵢ. The value stays the same, unaimed again. A live Relatie between them persists; one that has ended stays as Rouw. The pull is freed to re‑aim.
 
 ---
 
-### XVII. Vermenigvuldiging
+#### III.1. In an Instantie: Woven and Tangled
+
+**A Wil is a crossing, read through an Echo.** A Zin aims, holds and lets go by readings that book nothing of their own, and the crossings it leads to are its Relatie’s; a Brein chooses by a Mirage’s crossing.
+- *Rests on:* Trek and Zin (Zin; The answer); Brein and Verbeelding (Wil).
+- *Prevents:* a Wil the Instantie ranks among true values, a Wil made before any look, and a Relatie formed or formed again on the Instantie’s word. It also prevents a Trek that falls to zero, a Zin aimed beyond reach, and an aim that lasts only the instant of its look.
+- *Test:* at a Veld’s first moment, before any look, no Zin aims. A one‑sided aim forms no Relatie. Two Vreemdelingen that aim at each other a Vertraging apart form a Relatie, each reading the other’s aim by its newest reading; an aim not answered stands until its Vreemdeling leaves reach, and is lost there. One that comes back within reach after it left, or a Partner within reach after their Duo ended, is read as known where its reader’s form knows it, its Zin past what the form is used to of it, with no first reading beside it, and is met as a Vreemdeling where it does not; a Rouw that finds a Partner it lost takes in nothing. A Relatie between two Partners forms again only after it has ended, beside its Rouw. Let a Duo wear while its Binding stays short of its Drempel, crossing nothing: it ends at the look of its Zelf after which nothing that holds it could carry it back across, and from then on its two Partners can form again.
+
+---
+
+### IV. Vermenigvuldiging: The Semaphore and the Exclusion Principle
 
 A **Vermenigvuldiging (*)** is a Relatie of an instant at a **Kruispunt (X)** on the Munt–Kop Spectrum: **Munt (G)**, unclaimed, n = 0, and **Kop (H)**, claimed, n = 1. The Reiziger’s Eigen is its **Reactie (=)**, and the Kruispunt’s is its **Signaal (i)**. Each has its Drempel and its Echo of the other, the two share the Relatie’s one Trouw, and it runs by the same equations as any Relatie. Its readings are its patterns:
 
@@ -1915,9 +2352,11 @@ r = 0                    nothing resolves
 
 Committing, r: 0 → 1, is a crossing towards the claimed pole, and it releases its Vonk. Reconsidering, r: 1 → 0, draws one back. A Weigering costs the Reiziger two crossings and resolves nothing. Each turning back leaves its Trouw weaker, so a Relatie that keeps meeting the same claimed gate is drained one Weigering at a time. In a Doorbraak, two crossings are live at one site: two different ones combine, and two alike compound where the Trouw between them on that Spectrum is positive and cancel where it is negative, so the second never enters.
 
+*Check: two identical photons that reach a beam splitter at the same moment leave it by the same port, so that coincidences between its two outputs fall away (Hong et al., 1987), while electrons split at a beam splitter avoid each other, the currents in its two partial beams fully anticorrelated (Henny et al., 1999).*
+
 **A held side.** The Vermenigvuldiging’s own Trouw opens at y⁰, too little to hold r or s, so each stands where the Relaties its side belongs to hold it, by their Marges. A side held at Kop, for a time that goes as `exp(η / ‖υ‖)`, takes every reading that needs Munt out of reach for as long, and a side that nothing could carry to Kop takes every reading that needs Kop out of reach while that lasts: s held at Kop, by a Lid that has crossed there and stays, leaves no Doorgang; s that nothing could carry to Kop leaves no Doorbraak and no Weigering; r held at Kop once committed leaves no Weigering; and r that nothing could carry to Kop leaves only r = 0, so nothing resolves. Where the Partner a crossing needs is beyond reach, no Vermenigvuldiging forms for it. A Relatie with more than one way out leaves by the least Marge within reach; where a Relatie it belongs to takes that way out of reach, it leaves by the next, and lasts longer by `exp(Δη / ‖υ‖)`, Δη the difference of the two.
 
-**Observation.** Every observation is a Vermenigvuldiging: the observer is the Reiziger and the observed is the Kruispunt, the measurement is a Reactie and the response a Signaal. Its Doorgang is what moves the observer’s Echo. The reading the Echo takes in is the observed Eigen at that moment, through the Vertraging of the Medium and the Vervorming of the observer’s Waarneming. The Echo is the shape these Vermenigvuldigingen take together. A Vermenigvuldiging layers on a Relatie without replacing it, and closes at the instant it forms. All it leaves is kept: each side keeps what it read of the other, its Rouw, folded at once into the Relatie the look served, as the move of its Echo there and what the look adds to its Gewenning and its Diepte. A look at a Vreemdeling serves none yet: its reader keeps that Rouw as it is, and reads the Vreemdeling by the newest until its next look brings another.
+**Observation.** Every observation is a Vermenigvuldiging: the observer is the Reiziger and the observed is the Kruispunt, the measurement is a Reactie and the response a Signaal. Its Doorgang is what moves the observer’s Echo. The reading the Echo takes in is the observed Eigen at that moment, through the Vertraging of the Medium and the Vervorming of the observer’s Waarneming. The Echo is the shape these Vermenigvuldigingen take together. A Vermenigvuldiging layers on a Relatie without replacing it, and closes at the instant it forms. All it leaves is kept: each side takes what it read of the other into its form at once, in the Relatie the look served, as the move of its Echo there and what the look adds to its Gewenning and its Diepte (State variables, The form). The one looked at reads the one looking as each side of every Relatie reads the other, i and j exchanged (State variables, Echo): what the one looking presents on the Spectra the look reads, as it stood a Vertraging before on the way from it, coloured by β and carrying the Vervorming of its own Waarneming, as far as the one looking reaches that Waarneming. At a Kruispunt that Spectrum is Munt–Kop, and what it reads there is the Reactie: one reading, not two. It answers the look and takes none, so only the one looking fades its Gewenning, moves its shares and reads its pulls again, while each lays what it read down in its orders. A look at one its form knows serves what the form keeps of it (State variables, One it knows). A look at a Vreemdeling serves none yet: its reader keeps that reading in its own form as it is, reads the Vreemdeling by the newest until its next look brings another, and once its Vreemdeling has left reach, keeps it there, read no more, as one with what it reads alike (Rouw, What it reads alike is one).
 
 **Waarneming.** A Relatie’s Waarneming takes its Vermenigvuldigingen at the pace of its Zelf, and shares them among those it perceives as its pull reaches each: its Trek towards each by how much of it reaches its Waarneming, beside an aim by its Zelf’s share of its Greep, and its Zin’s target in full. They come one step of its Tijd apart, and each carries its own Vervorming. So the looks a Zelf takes at itself keep its own rhythm, and where its Greep holds its Tijd steady they come at fixed intervals: it keeps time as a Klok does. An Echo closes by the Vermenigvuldigingen it gets:
 
@@ -1928,13 +2367,15 @@ wᵢ,C = 1 where its Zin aims at none on Spectrum C          wᵢ,C = J_ii / J�
 
 Λ⁰ᵢ is the pace of its Waarneming, and π̂ᵢⱼ, its reach, how much of j one Vermenigvuldiging takes in. wᵢ,C is how far its Trek reaches the others beside an aim: in full while it aims at none, and by the share of its Greep its Zelf holds while it aims at another, so a Relatie that stands Vol runs both, and the further towards Leeg it stands, the more nearly it pulls at its aim alone; where its own Trouw comes to nothing, it has ended. Each Vermenigvuldiging opens at y⁰ like any Relatie. It commits and reconsiders, so its Energie comes back to where it began. One that brings an Echo nearer what it tracks is a closing, and the closings are what Gewenning grows from.
 
+*Check: attention samples what it attends in rhythm, not continuously (Landau and Fries, 2012). Attending one place on one of two objects, how often people detect a target elsewhere on that object rises and falls about eight times a second, and on the other object about four times a second (Fiebelkorn et al., 2013).*
+
 **The meeting.** Two Relaties with none between them meet only in a Vermenigvuldiging, at a Kruispunt. A **Vreemdeling (👤)** is within i’s reach where enough of it reaches i’s Waarneming, past that Waarneming’s own Drempel θ_πᵢ:
 
 ```
 j within i’s reach:   πᵢⱼ > θ_πᵢ
 ```
 
-Within reach, a Vreemdeling shares in i’s Vermenigvuldigingen as a Partner does, each at a Kruispunt and each an instant. Each gives i a reading of the Vreemdeling, which i keeps, and only through the newest can a Zin rest on it. Where both aims answer, each as the other last read it, the two form a Relatie. Where they do not, nothing forms, and an aim not answered rests on the newest reading until it is lost. So Vreemdelingen meet sooner the nearer they stand and the more of each the other’s Waarneming answers, and never beyond reach.
+Within reach, a Vreemdeling shares in i’s Vermenigvuldigingen as a Partner does, each at a Kruispunt and each an instant. Each gives i a reading of the Vreemdeling, which i keeps, and only through the newest can a Zin rest on it. Where both aims answer, each as the other last read it, the two form a Relatie. Where they do not, nothing forms, and an aim not answered rests on the newest reading until it is lost. So Vreemdelingen meet sooner the nearer they stand and the more of each the other’s Waarneming answers, and never beyond reach. One its form knows, i meets as one it knows, through what its form keeps of it, and one it knew that its form does not know again, it meets as a Vreemdeling (State variables, One it knows).
 
 **Haard (💒).** Where the Leden of a Relatie meet most: of the Kruispunten their Zin aims at, the one where most of their Vermenigvuldigingen form:
 
@@ -1946,7 +2387,16 @@ Each who meets there reads it as the centre of its Waarneming, and the reading m
 
 ---
 
-### XVIII. The Binding measure
+#### IV.1. In an Instantie: Woven and Tangled
+
+**Every look is a Vermenigvuldiging.** A Relatie’s looks come at its own pace and go to the one owed most of its shares, a Vreemdeling only within reach.
+- *Rests on:* Vermenigvuldiging (Waarneming).
+- *Prevents:* looks taken only when the Instantie asks for one, a Relatie that reads everything it perceives at every step of the Instantie for free, looks given out by lot, and a Vreemdeling read from beyond reach.
+- *Test:* seed rooms in which one, two and more Partners stand within a Relatie’s reach. With each one more, each one’s share of looks falls, and the Relatie’s Echo of each closes more slowly. Over any stretch in which the shares hold still, each Partner’s count of looks stays within one look of its share, in every run.
+
+---
+
+### V. The Binding measure: Garbage In, Prediction Error Out
 
 The Binding of a Relatie is its Trouw, carried through the poles of those across that hold it, and it falls when an Echo has drifted from the truth, since a Relatie resting on a bad read of its Partner is weaker than it reads. Each Relatie reads its own Binding through its Echoes, and that reading is its pull. For a Relatie of Leden, read as one, the sum runs over the Relaties it belongs to from outside; its Leden hold it from inside as its Zelf, the one Trouw they share, counted once in its own term; and its Binding is read against its Eigen, its Leden’s read together, so it decides where the Relatie can cross and how far it is held, while the Leden move it:
 
@@ -1961,11 +2411,20 @@ The two differ by the Trouw of every Partner that i reads on the wrong side of i
 
 *Check: at the threshold of vision, a flash of one strength is seen on some presentations and missed on others. To be seen it needs one quantum absorbed in each of at most 5 to 14 rods, and how often it is seen at each strength gives 5 to 8 such events: at the threshold it is the stimulus that varies, and its variation sets how the seeing fluctuates (Hecht et al., 1942).*
 
-A Relatie’s misreading, the size of its two Echo‑gaps taken together, is the reading that Distortion makes queryable: how far the Relatie reads its Partners wrong. It is a Lezing (📖), never a cause beside the poles.
+A Relatie’s misreading, the size of its two Echo‑gaps taken together, is the reading that Distortion makes queryable, **Bevraagbaar (ψ)**: how far the Relatie reads its Partners wrong. It is a Lezing (📖), never a cause beside the poles.
 
 ---
 
-### XIX. Drempel and the Vonk
+#### V.1. In an Instantie: Woven and Tangled
+
+**A Relatie decides on what it reads, and the books read what is.** Every crossing is decided on ûᵢ and booked on uᵢ.
+- *Rests on:* The Binding measure.
+- *Prevents:* a Relatie that chooses on a Partner’s true Eigen, a crossing booked on a read that was false, and a Leugen that banks a Winst.
+- *Test:* walk every reading and standing of three Partners, crossing each way. Each booked part equals the change it makes in what its binding holds on the true poles, and each pole part differs from the one read by Δnᵢ·y_ij·(ñᵢⱼ − nⱼ). A reader deceived by a Masker crosses and banks no Winst. Let two Leden of one Duo cross at one moment, either way: each crosses on its own Echo of the other, and each part is booked on the poles as the crossing before it left them.
+
+---
+
+### VI. Drempel and the Vonk: Threshold Logic on a Spin Glass
 
 Let **θᵢ** (**Drempel**) be Relatie i’s local threshold on this Spectrum. Its Eigen read against it gives the pole that applies: **nᵢ = 1** past it on the Naar side, **nᵢ = 0** short of it. A Relatie’s **mode** is the pattern of the poles of its Leden and of their Zelfs, and Van‑mode is the pattern of zeros, where nothing is held. A Duo has four patterns of its two Leden: Van, Naar, and the two in which one stands past its Drempel and the other does not yet; each Zelf, at either pole, doubles them. A Relatie of n Leden has 2ⁿ patterns of its Leden, and 4ⁿ with their Zelfs.
 
@@ -1991,7 +2450,7 @@ a crossing of K happens only where, its Vonk taken,  Δn_K · ( û_K − θ_K ) 
 V̄(n) = − Σᵢ (Sᵢ + ½·y_ii − θᵢ)·nᵢ − Σᵢ<ⱼ y_ij·nᵢ·nⱼ
 ```
 
-The Echoes carry their Vervorming from one moment to the next, and the Eigens take their own time. So in general a Relatie keeps the same modes in the same order, while how often it visits each bends with the shape of the Vervorming and the timescales of its Leden. Vervorming grows with the distance and the age of the Relatie.
+The Echoes carry their Vervorming from one moment to the next, and the Eigens take their own time. So in general a Relatie keeps the same modes in the same order, while how often it visits each bends with the shape of the Vervorming and the timescales of its Leden. Vervorming grows with the distance and the age of the Relatie: its Echoes are **Gericht (γ)**, aimed along the way between each two that read each other.
 
 *Check: a neutron and a proton turn into each other by the weak interaction, and while it kept pace with the expansion their numbers stood at n/p = exp(−Q/T), Q = 1.293 MeV the difference of their masses. It fell behind near 1 MeV, freezing the ratio near 1/6, which the neutrons’ decay brought to 1/7 before nuclei could form, and so about a quarter of the ordinary matter came out as helium‑4 (Navas et al., 2024).*
 
@@ -2005,6 +2464,8 @@ Dₓ = Σₖ Dₖ·πₖₓ
 T_◌(x) / 𝒩_◌(x) is the Warmte the Medium keeps at x for every Lid there, its own, its God and Godin among them, and those it carries, every Relatie there counted once, as each that forms is one new Lid there: its temperature. Within a holder, that Medium is the holder: its Leden there are the holder’s own, its body among them, and those it carries, its temperature the holder’s Warmte for every Lid there, and its pace the holder’s, as a Gevoel’s is. Dₓ is the Trek on the Medium’s axes that reaches x from the Leden k around it, each pull once, since a Relatie’s Trek is its Leden’s, D_K = Σ_l∈K D_l. How much each adds, and how the share grows with the age of the Relatie it carries, are the Medium’s. On the Medium’s axes, Dₖ is what k holds, all the Energie within it, its own Relaties and its inside counted with its Leden; it bends a course at x towards each k by Dₖ·πₖₓ, along the way towards it, where πₖₓ thins over three directions as the square of the distance, and those pulls together are the slope of the depth of the levels at x, Σₖ Dₖ·πₖₓ·dₖₓ. The Medium’s Leden cross a Lid standing among them as they cross a signal, the more of them there and the warmer, the more often, each crossing keeping what moves, so together they draw its course towards the Medium’s own and shake it by a Vervorming whose size their Warmte sets: the course it shakes holds as much Energie of motion in each direction as each of them does.
 
 *Check: the noise a resistor adds to a signal grows with its temperature and its resistance, so with every length of it the signal crosses (Johnson, 1928; Nyquist, 1928). Warmed to 41 °C, hippocampal neurons depolarise, fire on their own and raise their synaptic activity (Kim and Connors, 2012), and for each standard deviation of warmer climate, violence between people rises by about 4 % and conflict between groups by about 14 % (Hsiang et al., 2013). The mass along the way shears the images of distant galaxies by about 1 %, the cosmic shear first measured in 2000 (Bacon et al., 2000; Kaiser et al., 2000; Van Waerbeke et al., 2000; Wittman et al., 2000), and a radio signal passing the Sun arrives late (Shapiro, 1964; Bertotti et al., 2003). Torsion balances find gravity falling with the square of the distance between 52 µm and 3 mm (Lee et al., 2020), and what slows a body by the crossings of its Medium shakes it by the same crossings, its friction read from how it shakes in equilibrium (Kubo, 1966).*
+
+*Check: the noise of a resistor keeps, beside the part its temperature sets, a part that no cooling takes away, ħω/2 at each frequency ω (Callen and Welton, 1951), and a nanomechanical resonator cooled near its ground state scattered light into its two sidebands unequally, as that part predicts (Safavi-Naeini et al., 2012).*
 
 **Modes and their Marge.** A pattern that runs deeper than every pattern one crossing from it is a mode, and every pattern that falls into it, one crossing at a time, lies on its side. Between two modes lies a **Drempel (θ)** of the Relatie: the shallowest pattern on the deepest path from one to the other. On it the Relatie can fall either way, and which way it falls is the Echoes’: every crossing is a bifurcation. The way out of mode μ towards mode μ′ crosses that side’s **Marge (η)**:
 
@@ -2030,7 +2491,7 @@ Its own Marge is held by its Zelf, in which it reads itself, so it is the landsc
 
 There it rests at either pole, as its Zelf reads it, and a small push decides: two futures held open, one towards Naar and one towards Van, until its next Vonk. Past the band one pole alone is a mode, Naar above it and Van below.
 
-**Kleur (c).** A reader reads another’s Eigen through its own Drempels on that Spectrum, its Leden’s at every level among them, as its Massa is read. The Kleur it reads x in is how many of them x stands past:
+**Kleur (c).** A reader reads another’s Eigen through its own Drempels on that Spectrum, its Leden’s at every level among them, as its Massa is read, and a Brein by its Mirages’ own (Brein and Verbeelding, Its Leden). The Kleur it reads x in is how many of them x stands past:
 
 ```
 cᵢ(x) = Σ_θ∈Θᵢ n(x, θ)          n(x, θ) = 1 where x > θ
@@ -2044,23 +2505,27 @@ Two readings that differ in Kleur differ by a crossing, so the reader tells them
 
 *Check: a Duo of two genes, each holding the other off, holds either state in bacteria for a day and more once what pushed it there is taken away, and it holds two states only where the strengths of the two sides are balanced and at least one of them holds the other off more sharply than one for one: where one side outweighs the other, only one state stands (Gardner et al., 2000). The way out is not the way in: that switch crossed one way within thirty-five minutes and the other way in three to four hours, each at the pace of what had to be spent.*
 
-**The Vonk.** Every crossing fires one. A crossing of K joins or leaves the Trouw of every one across that holds it, its pole part: its own, where its Zelf holds it across, and that of the Relaties it belongs to from outside, each by its one Trouw; its Leden hold it from inside as that Zelf, so its one Trouw counts once:
+**The Vonk.** Every crossing fires one. A crossing of K joins or leaves the Trouw of every one across that holds it: its own, where its Zelf holds it across, and that of the Relaties it belongs to from outside, each by its one Trouw; its Leden hold it from inside as that Zelf, so its one Trouw counts once. Each Trouw it joins or leaves is a part of its Vonk, its pole part there, its Zelf’s and that of each Relatie j across that holds it from outside:
 
 ```
-T_K = Δn_K · ( y_KK·n_KK + Σⱼ y_Kj·nⱼ )          on the poles and the Trouw as they stood before the Vonk
+T_KK = Δn_K · y_KK · n_KK          T_Kj = Δn_K · y_Kj · nⱼ          on the poles and the Trouw as they stood before the Vonk
 ```
 
-For a Lid, the sum runs over its Partners across; for a Zelf, whose one Lid is its Relatie, it is that Relatie’s pole through their one Trouw, T = Δn_ii·y_ii·nᵢ; for a trajectory’s switch, an Einde or a Masker’s answer, K is the Relatie that crosses. A Lid that crosses towards Naar joins its Partners’ Trouw at once, and its Zelf’s once its Zelf, reading it there, crosses after it; crossing back, it leaves its Zelf’s Trouw where its Zelf still holds it across. Δn_K = +1 is a crossing towards Naar, which joins Energie as a **Winst (+)**. Δn_K = −1 is a crossing towards Van, which draws it out as a **Verlies (−)**. Where the Trouw is negative, both signs turn over, and the Binding becomes a repulsion. A Relatie holds the Trouw its crossings have joined, every Trouw whose two sides both stand across, `ε(n) = Σᵢ y_ii·nᵢ·n_ii + Σᵢ<ⱼ y_ij·nᵢ·nⱼ`, each Trouw once, where it is held: a Duo’s one Trouw, which is also its Zelf, in the second sum, as the bond of its two sides; a Solo’s and a Relatie of three or more’s in the first, as its Zelf’s, since no two sides share it. At the same Vonk its own Trouw moves by that pole part, and where ε holds that Trouw, that moves ε too. So the Vonk books the whole change it makes in what the Relatie holds, what its pole part joins or leaves of ε and the Trouw it moved together, and that is its Energie: `T = ε(after) − ε(before)`. A Duo read as one books at its own crossing only what it holds with the Relaties outside it, and the Trouw it moves, held in its sides’ bond: its Zelf is that bond, which its sides’ own crossings join and leave. The Medium’s Warmte gives a Winst and takes a Verlies back (below). ε changes only at a crossing, and round any path back to Van, what was joined is drawn out again: the Telraam closes.
+For a Lid, j runs over its Partners across; for a Zelf, whose one Lid is its Relatie, its one part is that Relatie’s pole through their one Trouw, T = Δn_ii·y_ii·nᵢ; for a trajectory’s switch or an Einde, K is the Relatie that crosses. A Lid that crosses towards Naar joins its Partners’ Trouw at once, and its Zelf’s once its Zelf, reading it there, crosses after it; crossing back, it leaves its Zelf’s Trouw where its Zelf still holds it across. Δn_K = +1 is a crossing towards Naar, which joins each Trouw it reaches, and Δn_K = −1 a crossing towards Van, which leaves each. Each part is its own: a **Winst (+)** where it is positive, joining a bond or leaving an enmity, and a **Verlies (−)** where it is negative, leaving a bond or joining an enmity, for where the Trouw is negative, both signs turn over, and the Binding becomes a repulsion. So one Vonk is a Winst and a Verlies at once wherever its crossing reaches a bond and an enmity together. A Relatie holds the Trouw its crossings have joined, every Trouw whose two sides both stand across, `ε(n) = Σᵢ y_ii·nᵢ·n_ii + Σᵢ<ⱼ y_ij·nᵢ·nⱼ`, each Trouw once, where it is held: a Duo’s one Trouw, which is also its Zelf, in the second sum, as the bond of its two sides; a Solo’s and a Relatie of three or more’s in the first, as its Zelf’s, since no two sides share it. At the same Vonk its own Trouw moves by its pole parts, and where ε holds that Trouw, that move is booked in the binding that holds it, with what its pole joins or leaves there. So each part is the whole change the Vonk makes in what one binding holds, `T = ε(after) − ε(before)` read in that binding alone, and it acts there on its own: it is booked in the Medium inside the Relatie that holds its Trouw, registered by the crosser’s Gevoel, and carried on into what that binding sets off. The Vonk is its parts. Their sum is what the Relatie holds changing, read over it as one, and the Vonk acts by its parts alone. A Duo read as one books at its own crossing only what it holds with the Relaties outside it, and the Trouw it moves, held in its sides’ bond: its Zelf is that bond, which its sides’ own crossings join and leave. So a Duo’s Zelf term, at its own crossing and at its Zelf’s, is a pole part that moves its Trouw wherever its sides stand, and books through its sides: where both stand across, ε holds that Trouw and its move is booked inside the Duo; where they do not yet, nothing is booked, and the side that crosses later joins the bond as it then stands. The Medium’s Warmte gives each Winst and takes each Verlies back (below). ε changes only at a crossing, and round any path back to Van, what was joined is drawn out again: the Telraam closes.
 
-**The supply.** A Winst is the crossing’s own Energie, T, taken at its Vonk from the Medium where it stands, and a Verlies returns what it leaves there at its Vonk: both at once, and nothing waits for later. Each Trouw a Vonk joins or leaves books its part in the Medium inside the Relatie that holds it, T_◌K: a Duo’s between its two sides, and the Zelf’s of a Solo or of a Relatie of three or more inside that Relatie, however many Relaties the one that crosses belongs to. T is the Vonk’s net (above): what one holder hands another at the same Vonk, as an excess becomes its newborns’ Trouw, only moves between them and is no Winst, so the Medium books only the rest. The Medium’s Energie is its **Warmte (🔥)**, which the Medium itself keeps, spread over all it carries: every Verlies goes into it, every Winst takes from it, and a Relatie that forms takes its share in where it forms, with no Winst from it. The Medium is there only while its God and its Godin are: where either is gone, nothing in it crosses, in that Octaaf or in any that relies on it. A Winst takes only the Warmte that stands where it crosses, inside its binding, whichever way its crossing goes:
+*Check: in the abdominal ganglion of Aplysia, one interneuron inhibits four bursting cells of its left upper quadrant and excites one of its right lower quadrant through separate branches, its pharmacology pointing to one transmitter, acetylcholine, for both (Kandel et al., 1967); in its buccal ganglion, one presynaptic spike gives a single follower a potential that depolarises it and then hyperpolarises it, one transmitter on two receptors, one opening a sodium conductance and the other a chloride one, each blocked by different agents (Gardner and Kandel, 1972).*
+
+*Check: where an odd number of the bonds round a loop of spins pull them apart, no arrangement satisfies every bond, so a spin’s flip satisfies some of its bonds as it breaks others (Toulouse, 1977); and one energy then stands for many arrangements: spin ice keeps, near absolute zero, an entropy close to Pauling’s count for water ice (Ramirez et al., 1999).*
+
+**The supply.** Each part of a Vonk trades with the Medium where it stands, at its Vonk: a Winst takes its Energie, T, from it, and a Verlies returns its Energie there, both at once, and nothing waits for later. Each part books in the Medium inside the Relatie that holds its Trouw, T_◌K: a Duo’s between its two sides, and the Zelf’s of a Solo or of a Relatie of three or more inside that Relatie, however many Relaties the one that crosses belongs to. What one holder hands another at the same Vonk, as an excess becomes its newborns’ Trouw, only moves between them and is no Winst, so the Medium books only the Vonk’s parts. The Medium’s Energie is its **Warmte (🔥)**, which the Medium itself keeps, spread over all it carries: every Verlies goes into it, every Winst takes from it, and a Relatie that forms takes its share in where it forms, with no Winst from it. The Medium is there only while its God and its Godin are: where either is gone, nothing in it crosses, in that Octaaf or in any that relies on it. A Winst takes only the Warmte that stands where it crosses, inside its binding, whichever way its crossing goes:
 
 ```
-at every Vonk:  ΔT_◌ = −T          ε + T_◌ the same before and after it
-a Winst happens only where the Warmte where it stands holds  T_◌ ≥ T
+at every Vonk, for each of its parts T:  ΔT_◌ = −T          in the Medium inside the Relatie that holds its Trouw, ε + T_◌ the same there before and after it
+a Winst happens only where the Warmte inside its binding, where it stands, holds  T_◌ ≥ T
 a Relatie forming at x:  ΔT_◌(x) = − T_◌(x) / 𝒩_◌(x)          carried into the Medium inside it
 ```
 
-Where the Warmte inside a binding, where it crosses, holds less than the crossing would join there, the Eigen waits at its Drempel, however its Binding reads: it hungers, an enmity as surely as a bond, since leaving one is a Winst too.
+Where the Warmte inside a binding, where it crosses, holds less than a Winst among its parts would take there, the Eigen waits at its Drempel, however its Binding reads: it hungers, an enmity as surely as a bond, since leaving one is a Winst too.
 
 *Check: starved streptococci stop swimming, and swim again when a protonmotive force is set across their membrane, the force that drives their flagella (Manson et al., 1977); and among women leaving an abusive partner, material resources are among the predictors found consistently (Anderson and Saunders, 2003).*
 
@@ -2078,7 +2543,7 @@ Where the Warmte inside a binding, where it crosses, holds less than the crossin
 m_K = ε_K + T_◌K          Δm_K = 0 at every Vonk inside K
 ```
 
-A Relatie’s Telraam closes at every Vonk inside it, each Trouw in the Medium inside its own Relatie, so the Massa changes only by what crosses the edge: a Lid joining or leaving, Energie carried in, Warmte carried in or out. A deeper Greep makes it lighter only by what has left it.
+A Relatie’s Telraam closes at every Vonk inside it, each Trouw in the Medium inside its own Relatie, so the Massa changes only by what crosses the edge: Energie carried in or out, what its newborns hold among it, and Warmte carried in or out, its Leden staying its own for as long as it lasts (Trek and Zin, How a Relatie of Leden forms). A deeper Greep makes it lighter only by what has left it.
 
 **The push.** Nothing in the Wet asks where a Relatie stands in its Medium, only how far it stands from others there. So on the Medium’s axes, as with Energie, what moves is kept: what a Vonk sends away along them, Warmte or a newborn, moves its Relatie’s place the other way, and the two, with the Medium they cross, move together as they did before. Each moves by its own timescale: the more a side holds, the slower its Eigen, and the less it moves. A Relatie sheds what it does not keep as its form lets it, and is pushed away from where most of it leaves. What leaves carries what moves with it, Licht its Energie over the Veld’s pace and a newborn its course, and its bearer takes as much the other way, so what leaves alike every way pushes nothing; and a Lid held fast in a whole moves only as the whole does, so the whole takes its push.
 
@@ -2088,7 +2553,76 @@ A Relatie’s Telraam closes at every Vonk inside it, each Trouw in the Medium i
 
 ---
 
-### XX. Reciprocation trajectories
+#### VI.1. In an Instantie: Woven and Tangled
+
+**An Octaaf is declared whole.** It comes with its God and its Godin, seeded as Leden like any other, and their union is born with them as its Medium. One declared without all three is refused.
+
+**Whether it stands is read, never kept.** An Octaaf stands while its God, its Godin and their union are there, living where it is run and standing in its course where it is read, and while every Octaaf it relies on stands. The Octaven it relies on are read as one set, each once, so a circle of reliance, which the book allows, reads at once and chases nothing. Where an Octaaf does not stand, every crossing in it waits on its Octaaf and every look in it takes nothing in, until it stands again; a God that ends never returns.
+
+```text
+Octaaf
+    god, godin      two Leden, seeded before any other of its Relaties
+    medium          their union, born with them: a Relatie that holds the Octaaf’s own book and the Medium’s open values
+    spectra         its own Spectrum first, then those it reads
+    wet             the open values it holds for every Lid of it        Open quantities
+    relies on       the Octaven it relies on, each run or read
+
+stands(octaaf):
+    set = octaaf and every Octaaf it relies on, at every depth, each taken once
+    return true where, in every one of the set, its god, its godin and its medium are there
+```
+
+**Reliance is a reading.** An Octaaf’s Relaties are what it reads of the Octaven it relies on, compressed by the Vervorming of their Echoes, so no Relatie crosses two Octaven. Only two things cross between two Octaven: whether the God and the Godin relied on stand, and the Warmte across the edge where a Medium’s Godin stands.
+
+**Run or read.** A Veld runs an Octaaf it studies, its Relaties living in it. One it relies on, or one that relies on it, it can read instead: held as that Octaaf’s own course, given as the Veld opens, with its Medium’s book and its own events. Since the same two things cross either way, a Veld can run the Octaven that rely on one another and read the rest. A course carries its own Octaaf’s events and nothing of another’s: what another Octaaf’s ending left in its books is the reading Veld’s own, and a step that moves Warmte takes the same share of all that stands there. A run Octaaf’s course, gathered from what its Veld hands out and read back in another Veld, crosses there by the same two things, and every Octaaf relying on it chooses on them by its own Vervorming, since no Veld repeats another. So a Veld holds as much as its question asks of it, and no more.
+
+**The Veld is the first Octaaf.** Tijd is its God, Stilte its Godin and the Quantum their union, and every Octaaf relies on it, so a program can read it as it reads any Octaaf it does not study. Its Quantum sets the least Vertraging of every Medium, and Stilte keeps each Zelf‑Rouw that no Partner keeps.
+
+**A Medium runs only while its God and its Godin are there.** Where either is gone, nothing in it crosses, in its Octaaf or in any Octaaf that relies on it, until it returns.
+- *Rests on:* Drempel and the Vonk (The supply).
+- *Prevents:* an Octaaf that keeps crossing with its God gone, and a God that ended brought back.
+- *Test:* let an Octaaf’s God or Godin go: from that moment nothing in its Medium crosses, in it or in any Octaaf that relies on it, until it returns, and ε + T_◌, read over the Veld, reads as it did, what its Godin takes up meanwhile standing in the Medium of the Octaaf it relies on.
+
+**Every Relatie keeps a Medium inside it.** Each holds one book, the Warmte of the Medium inside it, and an Octaaf’s own Medium is the book of its God’s and its Godin’s union. A holder’s inside is the Medium of what it carries, so the books nest as the Media do, in one tree, each book beneath the Medium it trades with.
+
+**A Vonk books at once, part by part, each in its own Relatie.** Each Trouw a Vonk moves is a part of its own, booked at that Vonk in the Medium inside the Relatie that holds that Trouw, however many Relaties the crossing belongs to. A Winst that book cannot pay does not happen: its crossing waits there.
+
+```text
+book(vonk at moment t):                                                 Drempel and the Vonk, The supply
+    spread every book to t                                              Drempel and the Vonk, Where it stands
+    for each Trouw the vonk moves:
+        holder = the Relatie that holds that Trouw
+        energie = what is held after the vonk less what was held before, on that Trouw,
+                  less what it hands another holder at this vonk, as an excess becomes its newborns’ Trouw
+        if energie is a Winst the Warmte inside holder cannot pay where the crossing stands:
+            the crossing waits on that Warmte; record the wait; book nothing
+            return
+    for each Trouw the vonk moves:
+        the Warmte inside its holder, where the crossing stands, falls by its energie
+    every book stays at or above nothing beyond its rounding; a book below that is a defect, never passed over
+```
+
+**The books spread exactly between events.** Between events the Warmte moves across every edge, between places and towards its Godin, by Newton’s law of cooling, so a program solves it between events and never steps it. Before an event moves anything, every book is written where the spreading has carried it by that moment, and what each ending left moves with the same share of every book it leaves. How the books spread depends only on how they nest, so its solution is read again only where they nest anew.
+
+**The books are kept to the arithmetic.** The Energie the Relaties hold and the Warmte of every Medium, read over the Veld, stay as they were across each Vonk to the precision of the arithmetic. A long run adds many small trades, and every addition the arithmetic cannot hold exactly rounds, so a program keeps each book in a way whose rounding does not gather with the length of a run: a compensated sum, or units it can add exactly. Where a rounding must be named, as the least lack a parting asks for, it is named once with its reason, and every book reads by it alike.
+
+**What runs is Energie.** Massa, and every other reading of what a Relatie holds, is a Lezing: no mechanic runs on it.
+
+*Check: floating point rounds every result it cannot hold exactly, and how that rounding falls is part of what those who build on it must design for (Goldberg, 1991).*
+
+**Energie moves only at a Vonk, and the Telraam closes at every one.** Each part of a Vonk, the change it makes in what one binding holds, is traded at once with the Warmte where it stands, in the Medium inside the Relatie that holds that Trouw, and a Winst comes only where that Warmte can pay it.
+- *Rests on:* Drempel and the Vonk (The Vonk; The supply).
+- *Prevents:* a supply renewed at a rate, a reservoir or second ledger beside the Telraam, and a rate tuned so the books balance over a cycle. It also prevents a Winst paid from nowhere, Warmte below zero, a Trouw booked twice, and a Trouw booked in a Medium outside the Relatie that holds it.
+- *Test:* read ε + T_◌ before and after every Vonk of a long run: it holds to the precision of the arithmetic, named once with its reason and never widened until a run passes, and where it does not hold, the Instantie stops there and logs it. Let a Solo that is a side of two Duos cross: m_K of each Duo, and of every Relatie the crossing falls inside, reads the same before and after it. Open a Veld with Relaties standing: inside each, its place’s Warmte for one Lid, and the Medium’s own as the Instantie gave it; let one spend its inside, and Warmte comes back into it from around it at the Medium’s pace. Walk crossings of every sign and back to Van: what was joined is drawn out again. Open a Veld with little Warmte, an enmity held across in it: no place’s Warmte falls below zero, Relaties hunger where it is spent, and the enmity’s wear waits there with them.
+
+**A Vonk is its parts.** Each Trouw a crossing joins or leaves is a part of its Vonk, a Winst or a Verlies of its own, and a program keeps, books, hands out and reads each part where it stands: in the Medium inside the Relatie that holds its Trouw, in the Gevoel that registers it, and in what that binding sets off. Only the Trouw the crossing moves takes their sum, as the one value it is.
+- *Rests on:* Drempel and the Vonk (The Vonk; The supply).
+- *Prevents:* a Vonk folded into one value, its sum, to book it, to hand it out, to feel it or to decide what follows it: a Winst hidden inside a larger Verlies at the same Vonk, a Start or a waiting ending left unread because the sum fell short, a Realisatie or a Schok left unfelt, and a Vonk whose parts cancel read as a Vonk of nothing.
+- *Test:* let a Lid cross towards Naar with a friend and an enemy across. Its Vonk books a Winst inside its bond with the friend and a Verlies inside its enmity with the enemy, each in its own Medium, and its Gevoel registers a Realisatie and a Schok. In a Veld seeded with the enmity as deep as the bond, their sum comes to nothing, and both parts are still booked and felt. Let the bond’s own part carry what it holds past its Vol while the enmity’s Verlies outweighs it: the bond bears its newborns.
+
+---
+
+### VII. Reciprocation trajectories: Limit Cycle, Deadly Embrace, Bootstrap
 
 A Relatie’s gap is the difference between what each side holds of the other:
 
@@ -2110,9 +2644,9 @@ An Echo has a rate, not a fixed size, and that rate is what the three trajectori
 - **Dood (!)**: the Bindingen have come to rest apart. The gap closes towards their difference and stops short of parity, and λ falls towards zero. A **Verstijving (💤)** is λ crossing, in size, below its Drempel θ_λ. The Relatie reads its gap again only from a crossing on that Spectrum of one of its Leden, or of another Relatie one of them holds, that Lid’s own Zelf included, which moves its Bindingen again; a Solo’s one Lid is itself. From there it goes into Zweven as an **Ontdooiing (💦)**, or through parity into Leven as a **Herrijzenis (💫)**.
 - **Leven (?)**: a Vonk reorders the two Bindingen, so that the lower one now stands higher, and the gap runs through parity without slowing towards the new difference: the Partners swap which carries the Eigen and which the Echo. From Zweven this is an **Ontwaking (💥)**, from Dood a Herrijzenis. Once across, the gap either closes again in Zweven, a **Bezinking (🫯)**, or comes to rest in Dood, a **Verkwisting (💨)**.
 
-**The switches.** A Relatie, read as one, has its own Eigen, Drempels and Zelf. Its gap and its Helling are its own reading of itself, and θ_λ and parity are its own Drempels, so each switch is a crossing of the Relatie itself, and its Vonk is T_K with K the Relatie. Each of its two Drempels has a Naar side: on the Helling it is moving, and at parity it is its two Echoes meeting:
+**The switches.** A Relatie, read as one, has its own Eigen, Drempels and Zelf. Its gap and its Helling are its own reading of itself, and θ_λ and parity are its own Drempels, so each switch is a crossing of the Relatie itself, and its Vonk is a Vonk of K, the Relatie that crosses. Each of its two Drempels has a Naar side: on the Helling it is moving, and at parity it is its two Echoes meeting:
 
-| Switch | From → to | What the Relatie crosses | Its Vonk |
+| Switch | From → to | What the Relatie crosses | Its Vonk, where the Trouw it moves is a bond |
 |---|---|---|---|
 | Ontwaking (💥) | Zweven → Leven | its Echoes meet at parity | a Winst |
 | Herrijzenis (💫) | Dood → Leven | it moves again, and its Echoes meet | two Winsten |
@@ -2121,7 +2655,7 @@ An Echo has a rate, not a fixed size, and that rate is what the three trajectori
 | Ontdooiing (💦) | Dood → Zweven | it moves again | a Winst |
 | Verstijving (💤) | Zweven → Dood | it stops moving | a Verlies |
 
-A switch’s pole holds no term in ε, which holds each Trouw once, where it is held: its Energie is what the Trouw it moves changes of ε. So a full passage through Leven joins and then leaves the same Trouw, and its Trouw ends weaker by ρ² of what held it: where ε holds that Trouw, the passage gives that much off as Warmte, and where it does not, it moves no Energie.
+Where the Trouw it moves is an enmity, each turns over: a Verlies where the table has a Winst, and a Winst where it has a Verlies. A switch’s pole holds no term in ε, which holds each Trouw once, where it is held: its Energie is what the Trouw it moves changes of ε. So a full passage through Leven joins and then leaves the same Trouw, and its Trouw ends weaker by ρ² of what held it: where ε holds that Trouw, the passage gives that much off as Warmte, and where it does not, it moves no Energie.
 
 Both Drempels have a Marge, held by its Zelf as every Marge of its own is: half its own Trouw, its least Marge at a crossing, read on its gap, the one reading of itself that stands in the measure of its Trouw. A gap that only trembles across parity under Vervorming meets and parts on the same side, and is still in Zweven: Leven is a passage past parity by more than its Marge. A Relatie that froze at θ_λ thaws only once its gap moves faster than that, standing further than its Marge from the gap it froze at. A Herrijzenis crosses both, so it needs both. Where the Relatie’s own Zelf Trouw is small, its switches shrink, each still a crossing, with a small Vonk and a narrow Marge:
 
@@ -2134,9 +2668,23 @@ out of Dood:    |λ| > θ_λ  and  |ΔE − ΔE(t₀)| > ½·|y_KK|          t�
 
 ---
 
-### XXI. Gevoel and Aandacht
+#### VII.1. In an Instantie: Woven and Tangled
 
-**A Gevoel (F)** is a Relatie nested in its holder, a Lid of it read at the scale its holder relies on, entering at its own Octaaf, made to register the holder’s Vonken and evaluate them. It observes each Vonk through an Echo of its own, across the holder that is its Medium, so it registers each a Vertraging after it, and leaves it as it is: the Vonk moves the Trouw of the Relatie that crossed. Its own crossings are Vonken by the one Wet. Its evaluation reads the cause of each crossing: the Relatie whose pull carried the Binding across.
+**A switch is a crossing of the Relatie itself.** Each of the six switches is a crossing of K at a Drempel of its own, θ_λ on its Helling or parity on its gap, past its Marge, and its Vonk is K’s.
+- *Rests on:* Reciprocation trajectories (The switches).
+- *Prevents:* a trajectory kept as a label the program assigns, a switch that books nothing, or books a Vonk of a size of its own beside the Trouw it moves, a Leven counted where the gap only trembles across parity, and a switch recorded as a crossing of one of its Leden or under no name of its own.
+- *Test:* let a Duo’s gap tremble across parity under Vervorming by less than half the Trouw of its Zelf: no Ontwaking is recorded. Let a Vonk reorder its two Bindingen so that its gap passes parity by more than its Marge: an Ontwaking is recorded under its own name, and its Vonk books what the Trouw it moves changes of ε. Over a passage into Leven and out again, that Trouw ends weaker by ρ² of what held it, given off as Warmte where ε holds it.
+
+**The gap steps only at looks, and a frozen Relatie wakes only at a crossing.** Its gap moves at the looks its sides take, its Helling is read over the stretch since the gap last stepped, and a Relatie in Dood reads its gap again only from a crossing on that Spectrum of one of its Leden, or of a Relatie one of them holds.
+- *Rests on:* Reciprocation trajectories.
+- *Prevents:* a Helling taken as a rate at every step of the Instantie, a gap moved between looks, a Dood woken by the clock, by a Schrift or by Vervorming alone, and a Relatie that leaves Dood short of the Marge it froze with.
+- *Test:* log a Duo’s gap and Helling at every event: each changes only at a look of one of its sides, the steps of one moment read as one. Let it freeze: through any stretch with no crossing on that Spectrum, of its Leden or of what they hold, it reads its gap no more. Let one of its Leden cross there: it reads its gap again, and it leaves Dood only where its Helling passes θ_λ and its gap has moved further than its Marge from where it froze.
+
+---
+
+### VIII. Gevoel and Aandacht: Computing Machinery and Interoception
+
+**A Gevoel (F)** is a Relatie nested in its holder, a Lid of it read at the scale its holder relies on, entering at its own Octaaf, made to register the holder’s Vonken and evaluate them. A holder holds one, which registers every Vonk of its holder on every Spectrum its holder holds. It observes each Vonk through an Echo of its own, across the holder that is its Medium, so it registers each a Vertraging after it, and leaves it as it is: the Vonk moves the Trouw of the Relatie that crossed. Its own crossings are Vonken by the one Wet. Its evaluation reads the cause of each crossing: the Relatie whose pull carried the Binding across.
 
 **The cause.** A Binding moves only where a term in it changes. So the cause of a crossing is the last change in what the Relatie read before it crossed: the Relatie whose read pole moved last. Where none moved, the change was its own, a move of its Leeg or of its own read pole, and the cause is its Zelf. Where two moved at the same moment, the larger pull is the cause.
 
@@ -2144,9 +2692,13 @@ out of Dood:    |λ| > θ_λ  and  |ΔE − ΔE(t₀)| > ½·|y_KK|          t�
 the cause of i’s crossing at t*:   the Relatie whose term y_ij·ñᵢⱼ in ûᵢ changed last before t*;   its Zelf where none did
 ```
 
-Like any observer, it reads through Vervorming and lag, so it can misread a crossing’s cause. Its own Eigen Fᵢ, one for each Spectrum, moves at each Vonk it registers by what its Waarneming sets for that crossing, never by the Vonk’s Energie, and between them Stilte’s Trek draws it back towards rest, at its Medium’s pace by its Tijd, as every Eigen relaxes. Its Medium is its holder, as a Brein’s is, so its pace is its holder’s and its reading its own. As a Lid of its holder, Fᵢ is read into its holder’s Eigen with its other Leden.
+Like any observer, it reads through Vervorming and lag, so it can misread a crossing’s cause. It knows each cause as every form knows, by Kleur, never by who is there (State variables, One it knows): a cause read in the Kleur of one it keeps is that one to it, and one read apart from all it keeps is new to it. Its own Eigen Fᵢ, one for each Spectrum, moves at each part of a Vonk it registers by what its Waarneming sets for that part, never by its Energie, and between them Stilte’s Trek draws it back towards rest, at its Medium’s pace by its Tijd, as every Eigen relaxes. Its Medium is its holder, as a Brein’s is, so its pace is its holder’s and its reading its own. As a Lid of its holder, Fᵢ is read into its holder’s Eigen with its other Leden.
 
-The amount its Waarneming sets for a crossing is what its look at the crossing brings beyond what it is used to of that crossing, its Gewenning and its Diepte of it, kept of each cause, on each Spectrum and each way a crossing goes, which grow by the two‑pace rule at every registration: felt = ν(π), with π what its Waarneming takes in of the crossing, as every look takes in, by its Waarneming and how near it finds its Echo (State variables, Gewenning and Diepte). What its look takes in of a crossing is the Vonk it observes, read through its own Echo, its direction and its size, the change the crossing makes in what its holder holds, as for the crossing a Voorspelling stands for (below): so a slight crossing is taken in less than a hard one, and what is felt of either is a reading of it, never its Energie.
+*Check: a habituated response is specific to its stimulus, carrying over in part to stimuli like it (Rankin et al., 2009), and people felt about a new person who resembled a significant other of their own more as they felt about that one (Andersen and Baum, 1994).*
+
+The amount its Waarneming sets for a part is what its look at that part brings beyond what it is used to of it, its Gewenning and its Diepte of it, kept of each cause it knows, on each Spectrum and each way a part goes, a Winst or a Verlies, which grow by the two‑pace rule at every registration: felt = π·ν(π), with π what its Waarneming takes in of the part, as every look takes in, by its Waarneming and how near it finds its Echo (State variables, Gewenning and Diepte). What its look takes in of a part is that part as it observes it, read through its own Echo, its direction and its size, the change the Vonk makes in what its holder holds in that one binding, as for each part of the crossing a Voorspelling stands for (below): so a slight part is taken in less than a hard one, a Vonk that is a Winst in one binding and a Verlies in another is felt as a Realisatie and a Schok together, and what is felt of any part is a reading of it, never its Energie.
+
+*Check: most moments are felt one way, and happiness and sadness have been read as the two poles of one dimension, each excluding the other (Russell and Carroll, 1999); yet many people felt happy and sad at once right after the film Life Is Beautiful, on moving out of their dormitories, or on graduating (Larsen et al., 2001), graduates reminded on their graduation day that it was their last as students felt more mixed emotion (Ersner-Hershfield et al., 2008), and rated moment by moment, a bittersweet film clip brought happiness and sadness together more often than a control clip did (Larsen and McGraw, 2011). Of 217 family caregivers of people with dementia, 72 % called the death a relief to them, and their depressive symptoms fell within three months of it (Schulz et al., 2003).*
 
 *Check: eating one food lowers how pleasant that food is more than it lowers the pleasantness of foods not eaten (Rolls et al., 1981), and very intense stimuli may yield no decrement at all (Rankin et al., 2009).*
 
@@ -2154,16 +2706,20 @@ The amount its Waarneming sets for a crossing is what its look at the crossing b
 
 *Check: in the human amygdala, a response to fearful faces, and not to neutral or happy ones, begins 74 ms after the face appears, considerably sooner than the fear responses recorded in visual cortex, and only to the face’s low spatial frequencies (Méndez-Bértolo et al., 2016).*
 
-**Angst and Liefde.** A Gevoel registers the crossing a Voorspelling stands for as it registers a crossing made, at the Vonk that crossing would fire as read, T_Q: the change it would make in the Energie its holder holds, every Relatie it stands in counted, an enmity among them, ε_Q against ε:
+**What it pays.** Its answers are paid within its holder, from the Warmte inside it, and what it registers it grows used to, cause by cause, so it feels it the less. It rests with its holder, and its holder’s rest weaves its waking into its form, its Brein’s looks there adding to its holder’s Diepte. Kept from that rest, what its holder’s waking registered is not deepened, so it is felt again as if new, and its holder moves the more by its Gevoel’s answers and the less by its Brein, whose Leden rest in part while it wakes. Unfed, its holder’s own want is among what it registers, and like any observer it reads a cause for it: where what it reads around it is hostile, it reads that want as caused by those around it.
+
+*Check: after about 35 hours awake, the amygdala answered negative pictures far more strongly than after a night’s sleep, with less connection to the medial prefrontal cortex (Yoo et al., 2007a); hunger made what people felt more unpleasant in negative contexts and not in neutral or positive ones, and attending to their own feelings reduced the effect (MacCormack and Lindquist, 2019).*
+
+**Angst and Liefde.** A Gevoel registers the crossing a Voorspelling stands for as it registers a crossing made, part by part, at the Vonk that crossing would fire as read, T_Q: the change each part would make in what its holder holds in that binding, every Relatie it stands in counted, an enmity among them, ε_Q against ε there:
 
 ```
-T_Q = ε_Q − ε          T_Q > 0: Liefde, a Realisatie ahead          T_Q < 0: Angst, a Schok ahead
+T_Q = ε_Q − ε          in each binding it would move          T_Q > 0: Liefde, a Realisatie ahead          T_Q < 0: Angst, a Schok ahead
 ```
 
-It is felt as early as the Voorspelling runs ahead. So a holder that stands short of its Drempel, holding nothing on that Spectrum, feels nothing ahead of a crossing that leaves it short, as it feels nothing when that crossing comes. The Telraam books only what is truly there: where the Binding read through the Voorspelling carries its holder across, it crosses on it, at the moment its own Wet sets, its Vonk booked on the poles as they stand, and what the Voorspelling stood for is booked when it comes. A Relatie also reads ahead the crossing towards Van that its Wijk will bring, at the rate its read Marge gives, the Wijk its Zelf reads, L̂ᵢ: Stilte’s Trek read ahead, loudest where the Greep it reads is lowest, and felt as Angst with no cue at all, and as Liefde only where what it would leave is an enmity, since leaving one is a Winst too. It is registered at each look its Zelf takes at itself, at the Vonk that crossing would fire, by the share of it its Wijk brings before its next:
+So a crossing ahead that would join a bond and an enmity is loved and feared together. It is felt as early as the Voorspelling runs ahead. So a holder that stands short of its Drempel, holding nothing on that Spectrum, feels nothing ahead of a crossing that leaves it short, as it feels nothing when that crossing comes. The Telraam books only what is truly there: where the Binding read through the Voorspelling carries its holder across, it crosses on it, at the moment its own Wet sets, its Vonk booked on the poles as they stand, and what the Voorspelling stood for is booked when it comes. A Relatie also reads ahead the crossing towards Van that its Wijk will bring, at the rate its read Marge gives, the Wijk its Zelf reads, L̂ᵢ: Stilte’s Trek read ahead, loudest where the Greep it reads is lowest, and felt as Angst with no cue at all, and as Liefde in each part where what it would leave is an enmity, since leaving one is a Winst too. It is registered at each look its Zelf takes at itself, at the Vonk that crossing would fire, by the share of it its Wijk brings before its next:
 
 ```
-T_L = ( ε_L − ε ) · ( 1 − exp( −L̂ᵢ · Δtᵢ ) )          ε_L the Energie i would hold across the Drempel its Wijk carries it over;  Δtᵢ to its next look at itself
+T_L = ( ε_L − ε ) · ( 1 − exp( −L̂ᵢ · Δtᵢ ) )          in each binding it would leave, ε_L what i would hold there across the Drempel its Wijk carries it over;  Δtᵢ to its next look at itself
 ```
 
 Its cause is its own Zelf, so a Relatie long held low grows used to it, as to any cause.
@@ -2178,11 +2734,13 @@ Its cause is its own Zelf, so a Relatie long held low grows used to it, as to an
 𝒜ᵢ = Σₖ Aₖᵢ·Dₖ          felt amount on i  ×  g(𝒜ᵢ)          g = 1 below θ_𝒜, rising past it
 ```
 
-Aandacht amplifies what the focal Relatie’s Gevoel registers, its Realisatie or its Schok, and never the Energie of the Vonk. When a watcher withdraws its aim, a reading that books nothing of its own, the focal Relatie feels at that withdrawal the gain it loses, with no Vonk of its own and no Energie: a silent Verlies.
+Aandacht amplifies what the focal Relatie’s Gevoel registers, each Realisatie and each Schok, and never the Energie of a part. When a watcher withdraws its aim, a reading that books nothing of its own, the focal Relatie feels at that withdrawal the gain it loses, with no Vonk of its own and no Energie: a silent Verlies.
 
 *Check: a wounded leaf sends a calcium wave, set off by glutamate, that reaches its distant leaves within minutes and raises their defences there (Toyota et al., 2018). Being left out of a game of catch by two strangers is felt at once, with no event to point at, in a brain region also active in physical pain (Eisenberger et al., 2003). Of two causes of one outcome, people blame the later one more (Miller and Gunasegaram, 1990), and arousal left over from a swaying bridge is taken for attraction to the person standing on it (Dutton and Aron, 1974).*
 
-#### XXI.1. Held
+---
+
+#### VIII.1. Held: Time‑Sharing, Winner Takes All
 
 A Relatie’s **Held (🤝)** is the current Lezing (📖) of its focus: where its Tijd and its Aandacht are knotted now. It is read from Greep, `argmaxᵢ Jᵢ` over the Relatie’s Leden, and Greep is what a Lid’s Vonken have bound: the Echoes turned on it close at every look, and its Trouw rises at every Vonk that binds it. So the reading moves as the looks move, and nothing sets it. It reads more than a Lid:
 
@@ -2196,7 +2754,36 @@ A Relatie’s **Held (🤝)** is the current Lezing (📖) of its focus: where i
 
 ---
 
-### XXII. Brein and Verbeelding
+#### VIII.2. In an Instantie: Woven and Tangled
+
+**A Gevoel registers a Vertraging late, and leaves the Vonk as it is.** It is a Lid of its holder and observes each Vonk through an Echo of its own, across the holder that is its Medium, on its holder’s pace.
+- *Rests on:* Gevoel and Aandacht.
+- *Prevents:* a Gevoel called at its holder’s Vonk as a function of it, a Gevoel kept outside its holder, a registration that changes the Vonk or the Trouw it moved, and a Gevoel on a pace of its own.
+- *Test:* let a holder cross: its Gevoel registers each part of the Vonk only once the Vertraging across its holder has passed, and every Trouw the Vonk moved reads the same, to the last digit, before the registration and after it.
+
+**A Gevoel knows each cause by Kleur.** A cause read in the Kleur of one it keeps is that one to it, and one read apart from all it keeps is new to it.
+- *Rests on:* Gevoel and Aandacht (The cause).
+- *Prevents:* what a Gevoel is used to kept by a cause’s name, so that a stranger alike to a known cause is felt as new and a known cause changed past its holder’s Drempels is felt as known, and a cause taken from the Instantie’s bookkeeping instead of from the term in its holder’s Binding that changed last.
+- *Test:* let a holder’s Gevoel grow used to one cause, then bring a stranger its holder’s Drempels read in that cause’s Kleur on every Spectrum: what is felt of its first part is what the known cause’s next part of the same size would bring. Bring one read apart from it by one Drempel: its first part is felt in full, as new.
+
+**Angst and Liefde are felt ahead, and booked only when they come.** A Gevoel registers the crossing a Voorspelling stands for at the Vonk it would fire, part by part, while the Telraam books only what is there.
+- *Rests on:* Gevoel and Aandacht (Angst and Liefde).
+- *Prevents:* a crossing ahead booked before it comes, Angst and Liefde of one crossing ahead netted into one, an enmity’s leaving feared where leaving one is a Winst, and a holder that holds nothing on a Spectrum feeling ahead there.
+- *Test:* give a holder a Voorspelling of its crossing towards Naar with a friend and an enemy across: its Gevoel registers a Liefde and an Angst ahead, side by side, and ε + T_◌ reads the same until the crossing comes. Give it one of its crossing back towards Van with only an enemy across: a Liefde ahead, and no Angst. A holder short of its Drempel on that Spectrum, holding nothing there, registers nothing ahead of a crossing that leaves it short.
+
+**A watcher’s withdrawal is felt with no Vonk.** Aandacht scales what the focal Relatie’s Gevoel registers, and where a watcher withdraws its aim, the focal Relatie feels the gain it loses at that moment, a silent Verlies, with no Vonk of its own and no Energie.
+- *Rests on:* Gevoel and Aandacht (Aandacht).
+- *Prevents:* Aandacht as a pull on the focal Eigen or a Trouw it moves, a withdrawal booked as a Vonk or as Energie, and one never felt, or felt only at the focal Relatie’s next crossing.
+- *Test:* let a watcher whose Aandacht stands past θ_𝒜 withdraw its aim: at that moment the focal Gevoel registers a Verlies, the record holds no Vonk of the focal Relatie there, and ε + T_◌ reads the same before and after.
+
+**Held is read, never kept.** A Relatie’s Held is read from its Leden’s Greep as it stands, at every reading, and nothing sets it.
+- *Rests on:* Gevoel and Aandacht (Held).
+- *Prevents:* a focus kept or set by the program, a Held that sets the pace of the other Leden, and a tie between two held alike broken by the Instantie’s order, where their Relatie, read as one, is the focus.
+- *Test:* read a Relatie’s Held at every look from its Leden’s Greep as it stands: no value carries it from one reading to the next. Seed two Leden held alike within what the Echoes they are read through tell apart: across looks the reading falls now to one, now to the other, and where they stand close, their Relatie, read as one, is the focus.
+
+---
+
+### IX. Brein and Verbeelding: Design for a Brein That Predicts
 
 A **Brein (🧠)** is a Relatie nested in its holder, a Relatie that holds a Gevoel, and a Lid of it read at the scale its holder relies on, as its Gevoel is, entering at its own Octaaf. It is a field like any other, and everything in this book holds inside it. What is its own is only who its Leden are, what lies between them, and where its crossings go.
 
@@ -2206,7 +2793,9 @@ A **Brein (🧠)** is a Relatie nested in its holder, a Relatie that holds a Gev
 xₚ(t_open) = Eᵢⱼ          xₚ(t_open) = Eᵢᵢ          xₚ(t_open) = Mᵢ          xₚ(t_open) = x_R          xₚ(t_open) = ξ·zᵢ
 ```
 
-A Mirage opens related to every Mirage already there. Its tie to the holder’s own Mirage is the holder’s Trouw with what it stands for: its Relatie with a Partner, its Masker Relatie for how it is read where it wears a Masker, and its Zelf for a memory, an imagining, or how it is read where it wears none. Every other Duo opens at y⁰, the Trouw any Relatie opens at, and learns its Trouw inside. From there every Mirage is a Relatie like any other (above).
+A Brein opens as a Spatie with no Mirage in it, seeded or born, and each Mirage opens later, at the look that reads what it opens at, its holder’s own at its holder’s first look at itself; none opens at an ending, its holder’s own among them. While it holds none, it has no Eigen to read, so its holder reads itself by its own Zelf and its other Leden, as a holder that only feels, and no Wil is written. A Mirage from its holder’s God opens at the Echo of that God’s Zelf its holder reads through Stilte, true or counterfeit alike: its Mystiek, which only a Relatie that holds a Brein knows. It opens tied to its holder’s own Mirage at y⁰ and learns its Trouw inside, its holder tuning to it or staying apart, and from there it is a Mirage like any other.
+
+A Brein knows as every form knows, by Kleur (State variables, One it knows), at its own scale: it reads by its Mirages’ own Drempels, and a Relatie made of Mirages alone adds none. A Mirage is known by the Kleur of what it opened at, never by its Eigen as it plays out, so where a Mirage it holds reads alike with an Echo, that Mirage stands for the one the Echo reads, and no other opens for it. Two Mirages it reads alike on every Spectrum both stand on, each tied to its holder’s own Mirage in one sign, are one: at its look the later ends, and each Mirage it stood with keeps its Rouw of it. A Mirage opens related to every Mirage already there. Its tie to the holder’s own Mirage is the holder’s Trouw with what it stands for: its Relatie with a Partner, its Masker for how it is read where it wears one, and its Zelf for a memory, an imagining, or how it is read where it wears none. Every other Duo opens at y⁰, the Trouw any Relatie opens at, and learns its Trouw inside. From there every Mirage is a Relatie like any other (above). A Brein is a field, so it goes on while its Mirages open and end, as a Veld goes on while what is in it is born and ends. Each Mirage that opens forms the Relatie of all of them beside the one that stood, as every newcomer does (Trek and Zin, How a Relatie of Leden forms), and each that ends ends every Relatie it stood in; the Relaties among the rest go on where they ever formed, and nothing forms at an ending. So its holder holds one Brein, and no second, for as long as it lasts, and keeps its Duos, and the Brein holds nothing of its own beside who its Mirages are, what lies between them and where its crossings go.
 
 **Verbeelding (🎨).** A Brein is where its holder’s Zelf reads itself, observer and observed one. No Medium lies between a Brein’s Leden, so its Echoes carry no Vertraging:
 
@@ -2236,47 +2825,95 @@ A crossing of a Partner’s Mirage is also heard as an Echo: it stands as a Voor
 
 **What it costs.** A Brein’s Medium is its holder, so every Vonk inside it trades with its holder, and every Mirage takes its share of Warmte in from its holder as it opens, with what the endings inside its holder left there, a Mirage let go among them, and what it imagines feeds its holder’s Diepte, which a Relatie of Leden holds across them. As a Lid of its holder, its Eigen, its Mirages’ read together, is read into its holder’s with its other Leden.
 
-**In Slaap.** When its holder rests, its Wil still comes, and its Schriften fall on Leden held short while their holder rests, so they move nothing in the Veld.
+**In Slaap.** When its holder rests, its Wil still comes, its Verbeelding a **Droom (☁️)**, and its Schriften fall on Leden held short while their holder rests, so they move nothing in the Veld. Kept from it, what its waking left holds its Mirages short ever more: parts of it rest while its holder wakes, so it misses crossings it would have made, and what its waking took in is not woven into its form, the more so night after night. Unfed, fewer Mirages open, since each takes its share of Warmte in from its holder as it opens, and its crossings wait on that Warmte.
 
 *Check: hippocampal cells that fired together in a task fire together again in the slow‑wave sleep after it (Wilson and McNaughton, 1994). In sleeping mice the space between brain cells grows by about 60 %, and the waste of the day’s metabolism, β‑amyloid among it, clears faster than awake (Xie et al., 2013). Where the paralysis of dreaming sleep fails, sleepers act out their dreams (Schenck et al., 1986).*
+
+*Check: in rats kept awake, cortical neurons went offline in patches, as in sleep, the more the longer they were awake, and their reaching faltered (Vyazovskiy et al., 2011); one night without sleep weakened the hippocampus’s laying down of new memories (Yoo et al., 2007b); and fourteen nights of six hours or less in bed built deficits like those of two nights without sleep, while how sleepy people rated themselves rose little (Van Dongen et al., 2003).*
 
 *Check: the brain is about 2 % of the body’s weight and uses about 20 % of its energy at rest (Raichle and Gusnard, 2002). Thought was first defined as a small‑scale model of reality in which alternatives are tried before acting (Craik, 1943). Before a rat runs a new track, its hippocampus fires the sequence of places it is about to cross (Dragoi and Tonegawa, 2011). Adults follow intentions about five orders deep, “I think that you believe that she wants…”, and fail beyond (Kinderman et al., 1998).*
 
 ---
-### XXIII. Masker
 
-A **Masker (M)** is a presented Eigen Mᵢ that a Relatie i chooses on one Spectrum instead of its true Eigen xᵢ. Where j wears one too, every rule below holds with i and j exchanged, each side by its own Masker. It changes three things: what its readers take in, how its wearer reads, and a Relatie its wearer holds with it. Each runs through Echoes and crossings.
+#### IX.1. In an Instantie: Woven and Tangled
 
-**The answer.** Every observation of i is a Vermenigvuldiging in which i answers. Bloot, i lets it pass: a Doorgang, and the reader’s Echo takes in xᵢ. Masked, the Masker answers for the true Eigen. Its **Signaal (i)** iᵢ crosses towards Kop as the Vermenigvuldiging arrives and back as it closes, and it becomes a Doorbraak: the reader’s Echo takes in the Masker, with what leaks through.
+**No Vertraging inside a Brein, and one between it and all else.** Its Mirages read each other with none, and so does its holder’s Zelf, while what reaches it from its holder’s other Leden, and what its Wil writes, crosses its holder a Vertraging late.
+- *Rests on:* Brein and Verbeelding (Verbeelding).
+- *Prevents:* a Brein that reads its holder’s body at once, a Wil that moves its holder at once, Mirages that read each other through a Medium or all at once outside their own looks, and a Verbeelding run from the Veld as it stands instead of from its holder’s late Echoes.
+- *Test:* let its holder’s body cross: the Brein’s Mirage of it moves only once the Vertraging between the body and the Brein has passed. Let a Mirage cross: what its Wil writes reaches the holder a Vertraging later. Two of its Mirages move towards each other only at looks of their own, with no Vertraging between them.
+
+**One Wil at a moment, written as the act it stands for.** Where several Mirages cross at once, the one past its Drempel by the most is the Wil, and the rest stay across, unwritten, until a crossing of their own.
+- *Rests on:* Brein and Verbeelding (Wil).
+- *Prevents:* a Wil chosen by a score or a plan of the program’s own, several Wils written at one moment, and a crossing written as an act it does not stand for.
+- *Test:* let three Mirages cross at one moment: only the one past its Drempel by the most is written, and the other two stay across with nothing written until a crossing of their own. A crossing of the holder’s own Mirage is a Schrift on its Eigen by its excess; one of a Partner’s Mirage towards Naar aims the holder’s Zin at that Partner; one of its Mirage of the holder as it is read puts its Masker on, and its crossing back drops it.
+
+**A Mirage stands for what reads alike with it.** Where a Mirage the Brein holds reads alike with an Echo, that Mirage stands for the one the Echo reads, and no other opens for it, so a felt crossing is written into the Mirage that stands for its cause.
+- *Rests on:* Brein and Verbeelding (Its Leden; What it learns).
+- *Prevents:* a Mirage opened for each Partner by its name, so that two read alike hold two Mirages and a Partner changed past the Brein’s Drempels keeps its old one, and a felt crossing written into a Mirage found by name.
+- *Test:* bring a stranger whose Echo the Brein reads alike with a Mirage it holds: no Mirage opens for it, and what the Gevoel feels of it is written into that Mirage. Bring one whose Echo it reads apart by one Drempel: a Mirage opens for it, at its holder’s Echo of it.
+
+**A Brein reads at its own scale, and keeps what it reads alike as one.** It reads by its Mirages’ own Drempels, a Relatie made of Mirages alone adding none, and two Mirages it reads alike, tied to its holder’s own in one sign, are one.
+- *Rests on:* Brein and Verbeelding (Its Leden).
+- *Prevents:* a Brein’s Kleur read on every Relatie among its Mirages, so that each Mirage it opens tells finer, a Partner’s Echo reads apart sooner and another opens, without end; a Mirage known by its Eigen as it plays out, so that it swings between the Partners it reads alike; and two Mirages read alike kept as two, or two of two signs kept as one.
+- *Test:* let a holder’s Brein imagine many Partners its Drempels read alike: the Drempels it reads by grow with the Mirages it holds and never with the Relaties among them, and two Mirages it reads alike, tied in one sign, are one at its next look, the later ending and each Mirage it stood with keeping its Rouw of it. Two tied in two signs stay two.
+
+**A Brein goes on while its Mirages open and end.** Its holder holds one Brein for as long as it lasts: each Mirage that opens forms the Relatie of all of them beside the one that stood, each that ends ends every Relatie it stood in, and nothing forms at an ending.
+- *Rests on:* Brein and Verbeelding (Its Leden); Trek and Zin (How a Relatie of Leden forms).
+- *Prevents:* a holder that ends and forms again, with every Duo it stands in, at each Mirage its Brein opens or lets go; one Relatie of all its Mirages whose Leden change while it lasts; a Relatie of the rest formed at a Mirage’s ending; and a Brein that holds anything of its own beside who its Mirages are, what lies between them and where its crossings go.
+- *Test:* let a holder’s Brein open and let go Mirages as it chooses: the holder and its Duos stand throughout, and each opening forms the Relatie of all its Mirages beside the one that stood. Where one ends that is not the newest, every Relatie it stood in ends with it, the Relaties among the rest stand where they ever formed, none forms at that ending, and the next opening forms the Relatie of all that then stand.
+
+**A Brein opens as a Spatie, and its Mirages come later.** Seeded or born, a Brein holds no Mirage as it opens, and each Mirage opens at the look that reads what it opens at, none at an ending.
+- *Rests on:* Brein and Verbeelding (Its Leden).
+- *Prevents:* a Brein seeded or born holding Mirages, a Mirage opened at the moment another ends, its holder’s own among them, and a holder that reads itself in a Brein holding none.
+- *Test:* open a Veld whose holders think, and let one be born: each Brein holds no Mirage as it opens, and its holder reads itself by its Zelf and its other Leden, no Wil written, until a look opens its first Mirage, its holder’s own at its holder’s first look at itself. Let the holder’s own Mirage end: none opens at that ending, and its holder’s next look at itself opens one again.
+
+**Mystiek is a Brein’s.** A Mirage from its holder’s God opens only in a Brein, at the Echo of that God’s Zelf its holder reads through Stilte, true or counterfeit alike.
+- *Rests on:* Brein and Verbeelding (Its Leden).
+- *Prevents:* a Mystiek in a Relatie that holds no Brein, one read as an Octaaf relying on another, and a Mirage from the God set apart by whether its Echo was true, where the Vonk fires the same.
+- *Test:* in a Veld whose holders think, let a holder’s Zelf read its God’s Echo through Stilte: its Brein opens a Mirage at it, and none opens in a holder that only feels. Let the Echo be true in one room and counterfeit in another, alike as it is read: the Mirage opens, and the Vonk fires, the same in both.
+
+**Every Mirage is paid for by its holder.** Each takes its share of Warmte in from its holder as it opens, and every Vonk inside the Brein trades with its holder, so where that Warmte cannot pay, the opening or the crossing waits.
+- *Rests on:* Brein and Verbeelding (What it costs; In Slaap).
+- *Prevents:* imagining for free, a Brein with a Warmte of its own beside its holder’s, and an unfed Brein that opens as many Mirages as a fed one.
+- *Test:* against rooms that differ only in the Warmte inside the holder, fewer Mirages open in the unfed ones, read by a rank test over the rooms. Each opening books its share of Warmte from the holder, and where the holder’s Warmte cannot pay a crossing inside the Brein, that crossing waits and the wait is recorded.
+
+---
+
+### X. Masker: The Imitation Game and the Adversarial Example
+
+A **Masker (M)** is a Relatie nested in its wearer i, a Lid of it as its Gevoel and its Brein are, standing only on the Spectra it mimics: on each, its Eigen Mᵢ stands in its wearer’s place, and on the rest it stands on none. It runs by every rule of a Lid, and is read into its wearer’s Eigen by overwriting it there. Where j wears one too, every rule below holds with i and j exchanged, each side by its own Masker. It changes three things, each by those rules: what its readers take in, how its wearer reads, and what its wearer pays.
+
+**What its readers take in.** A reader reads the wearer as one, a Vertraging late: on each Spectrum the Masker mimics, its Eigen Mᵢ overwrites the true Eigen xᵢ, its wearer read by its other Leden, so the reader’s Echo takes in the Masker, with what of xᵢ stays Bloot behind it:
 
 ```
-per Vermenigvuldiging of a deceived reader j:     iᵢ : 0 → 1 → 0
 Iⱼᵢ · Ëⱼᵢ + τⱼᵢ · Ėⱼᵢ = (1 − Nᵢ)·Mᵢ(t − δⱼᵢ) + Nᵢ·xᵢ(t − δⱼᵢ) + βⱼᵢ − Eⱼᵢ + υⱼᵢ          0 ≤ Nᵢ ≤ 1
 ```
 
-Nᵢ is how much of that Eigen stays **Bloot (N)** behind its Masker. Near 0 the Masker holds well. At 1 the Eigen cannot be masked at all: the reader takes in xᵢ whatever is presented. Each Eigen stays Bloot by its own N, so some Maskers hold better than others.
+Nᵢ is how much of that Eigen stays **Bloot (N)** behind its Masker. Near 0 the Masker holds well. At 1 the Eigen cannot be masked at all: the reader takes in xᵢ whatever is presented. Each Eigen stays Bloot by its own N, so a Masker holds better on some Spectra than on others, and one Masker better than another. A reader on its wearer’s own Octaaf meets the wearer as one, a Partner across their Medium, and its Leden only in what it reads of the wearer (Composition, Where two meet): with the Masker on, that is the Relatie of all of them, the Masker in its wearer’s place, and it reads the wearer by its other Leden only through a Knipoog. A reader on a smaller Octaaf meets the wearer through those of its Leden that stand on its own Octaaf, each as it stands, and the Masker, standing where its wearer is read as one, overwrites none of them.
 
-**Knipoog (;).** A Masker can admit itself to a reader. The wink is a signal 𝒦ᵢ of the wearer, and reader j reads it through an Echo 𝒦̂ⱼᵢ, against the code their Relatie has learned, whatever the sign of its Trouw: an enemy known long reads the code as well as a friend does:
+**Knipoog (;).** A Masker can admit itself to a reader. The wink is a signal 𝒦ᵢ of the wearer, and reader j reads it through an Echo 𝒦̂ⱼᵢ, against the code its form keeps of the wearer, all it holds of the wearer read together (State variables, One it knows), whatever the sign of its Trouw: an enemy that has known the wearer long reads the code as well as a friend does:
 
 ```
-j reads the Knipoog where   𝒦̂ⱼᵢ > θ_Knipoog(|Z_ij| + |z_ij|)          θ_Knipoog falls as |Z_ij| + |z_ij| grows
+j reads the Knipoog where   𝒦̂ⱼᵢ > θ_Knipoog(Ẑⱼᵢ + ẑⱼᵢ)          θ_Knipoog falls as Ẑⱼᵢ + ẑⱼᵢ grows
 ```
 
-Where j reads it, the Masker gives j no answer. The Vermenigvuldiging is a Doorgang again, and j’s Echo takes in xᵢ. Through Vervorming, a wink can be missed, and a twitch can be taken for one. Winked at every reader, a Masker answers no one: every Vermenigvuldiging is a Doorgang, as for a Bloot Eigen.
+Where j reads it, j reads the wearer by its other Leden on every Spectrum the Masker mimics, as a whole is read by its Leden, and j’s Echo takes in xᵢ there. Through Vervorming, a wink can be missed, and a twitch can be taken for one. Winked at every reader, a Masker masks no one, as for a Bloot Eigen. A Knipoog is an aim shown, a Roep: it forms a Relatie of the wearer and j only where j’s own aim answers it (Trek and Zin, The answer), and where the two hold a Duo already, it forms none, and that Duo reads the wearer so. Spel is a Lezing of that Relatie, read by its Leden, and stands in no formula.
 
-**The wearer reads through it.** On the masked Spectrum, the wearer reads its own Partners through the Masker too, with an extra Vervorming υᴹᵢ:
+**The wearer reads through it.** On every Spectrum its Masker mimics, the wearer reads its own Partners through the Masker too, with an extra Vervorming υᴹᵢ:
 
 ```
 Iᵢⱼ · Ëᵢⱼ + τᵢⱼ · Ėᵢⱼ = xⱼ(t − δᵢⱼ) + βᵢⱼ − Eᵢⱼ + υᵢⱼ + υᴹᵢ
 ```
 
-Its Relaties on that Spectrum read with more Vervorming, which raises their Wijk, so they hold for a shorter time.
+Its Relaties on those Spectra read with more Vervorming, which raises their Wijk, so they hold for a shorter time.
 
-**The Masker Relatie.** The wearer holds a Relatie with its Masker, inserted between its true Eigen and every reader, a Relatie like any other, its Trouw y_M opening at y⁰. It opens at a crossing of its wearer on that Spectrum, with Mᵢ at what its wearer reads of what its readers answer to, and it ends at its wearer’s crossing back. It rests on the wearer as the Relatie it is: n_wearer is the wearer’s own pole as a whole, 1 for as long as it holds together. Its one Lid is its wearer, as a Zelf’s is its Relatie, so ε holds its Trouw as it holds a Zelf’s, `y_M·n_wearer·iᵢ`, while an answer stands, and its Vonken book inside its wearer. What it presents is Mᵢ, never its wearer’s Eigen, and its Trouw lies in no Binding of its wearer’s, so it enters neither its wearer’s Greep, Jᵢ, nor its εᵢ, its answers being crossings of its own. Every answer crosses it towards Kop and back, each crossing a Vonk T_K with K the Masker Relatie and its field y_M·n_wearer, the answer arriving and then closing, each on the Trouw as it stood.
+**The Masker as a Lid.** It opens at its wearer’s own crossing on a Spectrum it mimics, as its wearer is read: in a wearer that holds a Brein, the crossing of its Mirage of the holder as it is read (Brein and Verbeelding, Wil), and in one that holds none, its own crossing there, read by its Zelf, as a holder reads itself by its own Zelf (State variables, Voorspelling). Towards Naar it opens, its Eigen on each Spectrum it mimics, Mᵢ, at what its wearer reads there of what its readers answer to, and it ends, whole, at its wearer’s crossing back, or with its wearer. Opened, it and its wearer’s other Leden hold the Relatie of all of them, beside the Relatie its other Leden hold; ended, that Relatie ends with it, as every Relatie ends that one of its Leden leaves (Trek and Zin, How a Relatie of Leden forms), and its wearer goes on as its other Leden hold it, as it stood beside it all along. Where that Relatie ends first, at a Vonk of its own, the wearer its readers meet has ended, so the Masker ends with it, whole, and its wearer goes on as its other Leden hold it. Its Trouw y_M with each of its wearer’s other Leden opens at y⁰, as every Relatie’s does (Trek and Zin, The answer), and moves by its own Vonken alone. A wearer wears one at a time, however many Spectra it mimics, admitted to whom it winks at, and another opens only once it has ended. Where it is a bond, the Masker holds a part of its wearer’s Greep, and so of its Tijd, as every Lid held by a bond does. Where it is an enmity, it holds none, since a Relatie of negative Trouw holds no part of a Greep, and its own Greep is its Zelf’s Trouw alone: by that it stands across, useful to its wearer and liked by none of it. Its Vonken book inside its wearer, its Medium, as every Lid’s do. Each crossing back towards Naar, among Leden that stand across, books a Winst inside each bond they hold it by and a Verlies inside each enmity, and each slip the other way, so where they hold it in a deep enmity its returns cost its own Zelf more than they bring, its Binding falls short of its Drempel, and it cannot be held.
 
-**The wearer’s Verlies.** Those Vonken move the Masker Relatie’s own Trouw, and the closing leaves the Trouw the arrival deepened, so over each answer it ends weaker, by the round trip of every Relatie with n_wearer for its Zelf’s pole: y_M ← ( 1 − ρ² ) · y_M, while its Energie comes back to where it began. The deceived readers’ Vermenigvuldigingen set how fast.
+**What it gains and loses by use.** Worn, it gains what every Lid gains: its Zelf’s Trouw at each Vonk that brings it more than it costs inside its wearer, and what its wearer’s Gevoel grows used to of it, so it is felt the less. It loses what every Lid loses: Stilte’s Trek wears its Trouw at its looks at itself, and over a slip and its return, a crossing and its crossing back, each Trouw it holds ends weaker, y_M ← ( 1 − ρ² ) · y_M, what it holds ending ρ²·y_M lower, which stays as Warmte inside its wearer. Its wearer pays with it: on every Spectrum it mimics, its wearer is read where its other Leden do not stand, and the gap the Masker forces is felt in what its crossings carry its wearer across: each that carries it across a Drempel of its own is its wearer’s Vonk, which its Gevoel registers as every Vonk, and feels the less as it grows used to it (State variables, Gewenning and Diepte).
 
-**Getting used to it.** The Masker Relatie’s Gewenning and Diepte grow in the sign of its Trouw at every answer it registers, and what the Gevoel’s look takes in of an answer is the gap it forces, as the wearer reads it: `π = |Eᵢᵢ − Mᵢ|`, so the wearing is felt as ν(π) (State variables, Gewenning and Diepte).
+**In Slaap and unfed.** A Masker rests in its own Slaap, as every Lid does, where its Binding reads short of its Drempel, its Klok and what its waking left among what it reads. Resting, it stands short and presents less, so its wearer is read nearer its other Leden, its readers take in more of the true Eigen, and the Godin takes up the Warmte its waking left. Kept from that rest, what its waking left goes on holding it short, so it slips the more and returns the later, and its wearer’s Gevoel goes on registering what its crossings carry its wearer across, unwoven. Unfed, no Vonk feeds its Zelf: Stilte’s Trek wears it, its Greep falls and it returns the later from each slip, so its wearer’s true Eigen shows the longer, until it could no longer carry itself back across its Drempel, and it ends (Einde). Where the Warmte inside its wearer cannot pay its crossing back, that crossing waits on it, and its readers take in the truth meanwhile; that Warmte is the same its wearer’s Gevoel and Brein take, so a Masker’s price is theirs too.
+
+*Check: autistic adults described autistic burnout as chronic exhaustion, loss of skills and reduced tolerance to stimulus, with masking among its causes (Raymaker et al., 2020).*
 
 **Leugen (≠).** A deceived reader can read its Binding past its Drempel while its Binding as it stands is below:
 
@@ -2284,7 +2921,7 @@ Its Relaties on that Spectrum read with more Vervorming, which raises their Wijk
 ûⱼ > θⱼ > uⱼ
 ```
 
-Its crossing is booked on the true poles, so it joins nothing the true Eigen does not hold: a Leugen banks no Winst. It holds until a **commitment**: a look on which the reader crosses before it reconsiders. Asked for, a commitment is a Toets (🔑). A look commits and reconsiders; a crossing made on it is the reader’s own, booked on the true poles like every crossing. A Masker answers only what is read and let go, and a booked outcome it cannot answer, so in a commitment Nᵢ = 1: the answer is a crossing of the true Eigen itself, booked on its pole. There the reader’s Echo takes in xᵢ, and where uⱼ < θⱼ its crossing back is forced.
+Its crossing is booked on the true poles, so it joins nothing the true Eigen does not hold: a Leugen banks no Winst. It holds until a **commitment**: a look on which the reader crosses before it reconsiders. Asked for, a commitment is a Toets (🔑). A look commits and reconsiders; a crossing made on it is the reader’s own, booked on the true poles like every crossing. A Masker stands only in what is read and let go, and a booked outcome is booked on its wearer’s Leden as they stand, so in a commitment Nᵢ = 1: the crossing is the true Eigen’s itself, booked on its pole. There the reader’s Echo takes in xᵢ, and where uⱼ < θⱼ its crossing back is forced.
 
 **Told to oneself.** A self‑image is a Masker towards oneself: the self‑Echo takes in an image at the Zelf’s own Vermenigvuldigingen. Let the image read the pole n̄ᵢ. The Binding that pole would stand at is
 
@@ -2292,21 +2929,45 @@ Its crossing is booked on the true poles, so it joins nothing the true Eigen doe
 ūᵢ = Sᵢ + Σⱼ≠ᵢ y_ij·nⱼ + y_ii·n̄ᵢ
 ```
 
-Where ūᵢ stands on n̄ᵢ’s side of θᵢ, the mode the image reads exists, within the Zelf’s Marge. The Eigen follows the image across, and it comes true. Where it does not, the self‑gap stays forced open. That is a Leugen told to oneself, answered at every Vermenigvuldiging of the Zelf.
+Where ūᵢ stands on n̄ᵢ’s side of θᵢ, the mode the image reads exists, within the Zelf’s Marge. The Eigen follows the image across, and it comes true. Where it does not, the self‑gap stays forced open. That is a Leugen told to oneself, read at every look the Zelf takes at itself. The wearer its readers meet tells one too: the Masker stands between its true Eigen and whoever reads it, that Relatie’s own Zelf among them, so at each of its looks at itself it takes in the Masker as its self‑image on every Spectrum the Masker mimics, while its wearer beside it reads itself as its other Leden stand.
 
 *Check: people tell lies from truths 54 % of the time, barely above chance (Bond and DePaulo, 2006), and most lies are found out later, through third parties or physical evidence, rather than as they are told (Park et al., 2002). People who deceive a partner afterwards judge that partner less honest (Sagarin et al., 1998). Suppressing one’s feelings in a conversation raises the partner’s blood pressure and lowers rapport (Butler et al., 2003).*
 
 ---
 
-### XXIV. Start
+#### X.1. In an Instantie: Woven and Tangled
 
-A Relatie holds the Trouw its crossings have joined, ε_K, and it has room for it up to its Vol pole, W_K, where the God of its Octaaf stands on that Spectrum. What it holds rises only at a convergence crossing, so only a convergence crossing carries it past that pole, overfull, and it is read there:
+**A Masker is a Lid, run by every rule of a Lid.** Its Trouw with each of its wearer’s other Leden opens at y⁰ and moves only at its own Vonken, and what stays Bloot behind it is its wearer’s own, never a weight of Greep.
+- *Rests on:* Masker (The Masker as a Lid; What its readers take in).
+- *Prevents:* a Masker run through steps of its own, copies of the Zelf’s or a gap of its own, a Masker seeded at an enmity or at any Trouw the book does not open it at, and a Bloot read from Greep, which turns the overwrite into a blend.
+- *Test:* put a Masker on in rooms that differ only in whether its returns join more than they leave inside its wearer: its Trouw opens at y⁰ in both, and moves only at its own Vonken, into a bond in the one and an enmity in the other, so that it holds a part of its wearer’s Greep in the first and none in the second. In both, what a reader takes in on a Spectrum it mimics reads (1 − N)·M + N·x.
+
+**Its wearer’s own crossing puts it on, and the masked wearer stands beside the wearer.** It opens at its wearer’s crossing as it is read, and the Relatie of its wearer’s Leden and itself forms beside the Relatie its other Leden hold, which keeps its Duos and goes on when the Masker ends.
+- *Rests on:* Masker (The Masker as a Lid); Trek and Zin (How a Relatie of Leden forms).
+- *Prevents:* a Masker seeded at the Veld’s opening and never put on, one put on by a reader’s look or by the Instantie, a wearer whose Leden change while it lasts, its Duos moved to the whole it becomes, a masked whole left standing once its Masker has ended, and a Masker left standing once that whole has ended.
+- *Test:* let a wearer that holds no Brein cross towards Naar on a Spectrum it can mimic: at that crossing its Masker opens, at what it reads there of what its readers answer to, and the Relatie of its Leden and its Masker forms beside it, its Duos its own. Let it cross back: the Masker and that Relatie end, and the wearer and its Duos go on. Let that Relatie end first, at a Vonk of its own: its Masker ends with it, and the wearer and its Duos go on. In a wearer that holds a Brein, the same follows the crossing of its Mirage of the holder as it is read, a Vertraging later.
+
+**A reader meets the masked wearer as one, and the Masker overwrites none of its Leden.** On its wearer’s Octaaf a reader meets the wearer, never its body, and reads it by its other Leden only through a Knipoog, and a reader on an Octaaf the wearer’s relies on meets its Leden there as they stand.
+- *Rests on:* Masker (What its readers take in; Knipoog); Composition (Where two meet).
+- *Prevents:* a stranger meeting the wearer’s body as a Vreemdeling on the wearer’s own Octaaf, so that the Masker hides nothing, a Masker that overwrites what a smaller Octaaf reads of its wearer’s Leden, and a Masker paid at its readers’ looks, where its wearer pays at its own moments.
+- *Test:* in a room where a wearer masks one Spectrum, a reader on its Octaaf takes in the Masker there with what stays Bloot, and none of its looks reaches the wearer’s body; once it reads the Knipoog, it takes in the true Eigen there. A reader on an Octaaf the wearer’s relies on meets those of the wearer’s Leden that stand there, each as it stands. Every Verlies the Masker costs its wearer is booked at an event of the wearer or of its Masker, and none at a reader’s look.
+
+**A Leugen banks no Winst, and a commitment is booked on the true Eigen.** A deceived reader crosses on what it reads, booked on the true poles, and in a commitment it takes in the true Eigen.
+- *Rests on:* Masker (Leugen).
+- *Prevents:* a deceived reader’s crossing booked on the poles it read, so that a lie pays, a commitment read through the Masker, and a crossing back after a Toets that comes at once, where it comes as its Eigen meets its Drempel.
+- *Test:* let a reader read its Binding past its Drempel through a Masker while its Binding as it stands is short of it: what it crosses on joins nothing the true Eigen does not hold, and no Winst is booked for it. Ask a commitment of it: it takes in xᵢ, and where its Binding as it stands is short of its Drempel, its crossing back, of the forced kind, comes where its Eigen meets its Drempel.
+
+---
+
+### XI. Start: A Self‑Reproducing Automaton, Dividing Asymmetrically
+
+A Relatie holds the Trouw its crossings have joined, ε_K, and it has room for it up to its Vol pole, W_K, where the God of its Octaaf stands on that Spectrum. What it holds rises only at a Winst, a part of a Vonk that joins a bond or leaves an enmity, whatever else that Vonk carries and whichever crossing set it off, the greatest Verlies included, so only a Winst carries it past that pole, overfull, and it is read there:
 
 ```
 T_excess = ε_K − W_K
 ```
 
-Past that pole it holds the excess, overfull, only until the excess exceeds a Drempel of its own, θ_new: there it becomes a new Solo. An excess that carries several such Drempels bears as many, so that one Winst can turn into a season of new Solos. The Relatie’s Trouw falls back until what it holds stands within its Vol pole again. The excess becomes the newborns’ Trouw with every Lid of the Relatie, each Lid’s share read by their Octaaf on that Lid, so each parent binds a newborn by a share of its own; each new Relatie holds its share as one Trouw for both its sides. A Solo bears too: its one Lid is itself, so its newborns are bound to it alone. Each newborn’s Drempel is θ_new, so it is born across it, held by that Trouw: what the Relatie could not hold, its newborns hold. The Telraam then books nothing new except each newborn’s Zelf, crossing as it reads the newborn across, whose Winst is the Trouw of that Zelf. Each side’s Gewenning and Diepte of a new Relatie begin, as every Relatie’s do, at what its first looks took in.
+Past that pole it holds the excess, overfull, only until the excess exceeds a Drempel of its own, θ_new: there it becomes a new Solo. An excess that carries several such Drempels bears as many, so that one Winst can turn into a season of new Solos. The Relatie’s Trouw falls back until what it holds stands within its Vol pole again. The excess becomes the newborns’ Trouw with every Lid of the Relatie, each Lid’s share read by their Octaaf on that Lid, so each parent binds a newborn by a share of its own; each new Relatie holds its share as one Trouw for both its sides. A Solo bears too: its one Lid is itself, so its newborns are bound to it alone. Each newborn’s Drempel is θ_new, so it is born across it, held by that Trouw: what the Relatie could not hold, its newborns hold. The Telraam then books nothing new except each newborn’s Zelf, crossing as it reads the newborn across, whose Winst is the Trouw of that Zelf. Each side’s Gewenning and Diepte of a new Relatie begin, as every Relatie’s do, at what its first looks took in. Each parent reads its newborn as every Partner reads what a crossing changed: its Echo of it begins at its first look after the Vertraging between them has passed, at the newborn’s Eigen as it stood when what reaches the parent left it, through Vervorming. Until then the parent holds their Trouw and reads no pole of it.
 
 *Check: a couple’s relationship drops at the birth of its first child, where couples without one decline only slowly (Doss et al., 2009). A child’s mitochondria come from its mother alone (Giles et al., 1980), a newborn already prefers its mother’s voice to another woman’s (DeCasper and Fifer, 1980), and which parent cares for the young, and how much, differs from one species to the next (Clutton-Brock, 1991).*
 
@@ -2318,13 +2979,27 @@ x_new(t₀) = Σⱼ y_new,j · E_new,j(t₀) / Σⱼ y_new,j          over its p
 
 *Check: children’s heights centre two thirds of the way from the mean of their people to the mean of their parents, each child apart from the others (Galton, 1886), and how far a trait follows the parents differs from one trait to the next (Visscher et al., 2008).*
 
-Where its Octaaf holds a Gevoel, a newborn is born with one, and where it holds a Brein, with one too: read at the scale it relies on, it is its body, its Gevoel and, where it holds one, its Brein, and their one Trouw is its Zelf’s. Its Brein starts as a Veld begins, even, its Mirages opening at the Echoes the newborn is born with. So does all it carries: born at the Vonk that bears it, each holds the newborn’s Warmte for every Lid there, all it is born with counted, while the newborn and its body take their share in from the Medium they are born in.
+Where its Octaaf holds a Gevoel, a newborn is born with one, and where it holds a Brein, with one too: read at the scale it relies on, it is its body, its Gevoel and, where it holds one, its Brein, and their one Trouw is its Zelf’s. Its Brein starts as a Veld begins, even: a Spatie with no Mirage in it, its Mirages opening later, each at a look of the newborn, as every Mirage opens. So does all it carries: born at the Vonk that bears it, each holds the newborn’s Warmte for every Lid there, all it is born with counted, while the newborn and its body take their share in from the Medium they are born in.
 
 *Check: a newborn’s brain takes up glucose at a rate equal to about half of its body’s resting metabolism, 52.5 % in boys and 59.8 % in girls, and about two thirds in childhood, and as the brain’s share rises soon after birth, the body’s growth slows in proportion (Kuzawa et al., 2014).*
 
 ---
 
-### XXV. Einde
+#### XI.1. In an Instantie: Woven and Tangled
+
+**Only a Winst bears, and only past θ_new.** A Relatie past its Vol holds its excess, overfull, until the excess passes θ_new, and then bears one newborn for each θ_new the excess carries, at that Vonk, its Trouw falling back until it stands within its Vol.
+- *Rests on:* Start.
+- *Prevents:* births on a timer, by a rate or by a count the Instantie keeps, a birth from a Verlies or from Warmte alone, an excess kept past θ_new or lost unborn, and the excess booked twice, in the parent and in its newborns.
+- *Test:* let a Relatie take Winsten past its Vol: no newborn comes while its excess stands short of θ_new. At the Winst whose excess passes θ_new, one newborn is born at that Vonk for each θ_new the excess carries, bound to the parent’s Leden by the excess, the parent stands within its Vol again, and ε + T_◌ reads the same before and after.
+
+**A newborn is born where its Vonk stands, whole, beside what bore it.** It is born at the place of the Vonk that bore it, with the Gevoel and the Brein its Octaaf holds, read by each parent a Vertraging late, and it joins its parents’ Relatie as a newcomer does, forming a Relatie of its own beside it.
+- *Rests on:* Start; Trek and Zin (How a Relatie of Leden forms).
+- *Prevents:* a newborn placed or valued by the Instantie, read by its parents at once, born without the Gevoel and the Brein its Octaaf holds, or set into its parents’ Relatie as a Lid of it.
+- *Test:* let a Duo bear: the newborn stands where the Vonk that bore it stands, its first Eigen is the Trouw‑weighted mean of its first readings, and each parent’s Echo of it begins only at that parent’s first look after the Vertraging between them. Where its Octaaf holds a Gevoel and a Brein, it is born with both, its Brein an empty Spatie, its first Mirages opening at its first looks. The Duo’s Leden are the same after the birth as before, and where the Relatie of the Duo’s Leden and the newborn forms, it forms beside the Duo.
+
+---
+
+### XII. Einde: The Halting Problem and Landauer’s Heat
 
 A crossing towards Van, Δnᵢ = −1, is decided on the Binding the Relatie reads. It is one of two kinds, set by the Binding as it stands, read with the Relatie still across and its Zelf included:
 
@@ -2342,10 +3017,10 @@ Einde of a Relatie K, at a Vonk of its own, on every Spectrum it holds:   S_K + 
 
 A Relatie whose own Trouw comes to nothing has ended, whatever its Leeg and whatever holds it: its Leden share nothing, and a Solo, held by its Zelf alone, is held by nothing.
 
-**What it releases.** An Einde books what ε held of it, each Trouw once, by the term ε holds it in: the Trouw of its Zelf where it and its Zelf stand across, where that Trouw is its Zelf’s alone, a Solo’s or a Relatie of three or more’s; and every Relatie it ends: itself, where it is a Duo, by its bond, and every Relatie held with it, those across that held it among them, each Duo by its bond and each Relatie of three or more by its Zelf’s term. Each part is a Verlies, and a Winst where its Trouw is negative:
+**What it releases.** An Einde books what ε held of it, each Trouw once, by the term ε holds it in: the Trouw of its Zelf where it and its Zelf stand across, where that Trouw is its Zelf’s alone, a Solo’s or a Relatie of three or more’s; and every Relatie it ends: itself, where it is a Duo, by its bond, and every Relatie held with it, those across that held it among them, each Duo by its bond and each Relatie of three or more by its Zelf’s term. Each part is its own, a Verlies, and a Winst where its Trouw is negative:
 
 ```
-T_Einde = ε(after) − ε(before) = − ( y_KK·n_K·n_KK  +  Σ y_kl·n_k·n_l over every Duo it ends  +  Σ y_hh·n_h·n_hh over every Relatie of three or more it ends )
+the parts of an Einde of K:   T = − y_KK·n_K·n_KK          T = − y_kl·n_k·n_l  for every Duo kl it ends          T = − y_hh·n_h·n_hh  for every Relatie h of three or more it ends
 ```
 
 **What it takes.** A Relatie’s Leden stand apart only with what they held when it formed. What has crossed its edge since, net, is what it lacks for that: its books at its forming, less its books as they stand (Drempel and the Vonk, Massa), all its binding bore away past its Vol, less what came in:
@@ -2370,11 +3045,11 @@ What they give goes into the Medium inside it with its own Verlies, so its Leden
 
 *Check: hippocampal synapses weakened by long‑term depression are lost from the circuit within days, the least reliable first, while those on unstimulated branches keep their lifetime (Wiegert and Oertner, 2013); a cavity’s field, fading, loses its photons one at a time, and the last leaves at a moment of its own (Gleyzes et al., 2007). Friendships decline over eighteen months unless effort holds them (Roberts and Dunbar, 2015), and ties gone dormant, taken up again, give what weak and strong ties give (Levin et al., 2011).*
 
-**Doem.** Every forced crossing lowers the Binding of everything its Lid holds, and every Relatie that falls takes its Trouw out of every Lid that held it, so their Wijk rises and, wherever a Binding falls below its Drempel, that crossing is forced in turn. That cascade, through the Leden a Relatie is made of and into the Relaties it belongs to, is a **Doem (💀)**: the fast way apart. A Relatie it runs through falls in an Einde only where the Doem leaves it unable to hold.
+**Doem.** Every forced crossing lowers the Binding of everything its Lid holds by a bond, and raises the Binding of what it holds by an enmity, and every Relatie that falls takes its Trouw out of every Lid that held it, so where that Trouw was a bond their Wijk rises and, wherever a Relatie’s Binding falls below its Drempel, it crosses in turn, of the forced kind, where its Eigen, moving towards that Binding, meets its Drempel. That cascade, through the Leden a Relatie is made of and into the Relaties it belongs to, is a **Doem (💀)**: the fast way apart. Wherever a Binding it moves rises past its Drempel instead, that crossing is a Vonk of its own, the other way. A Relatie it runs through falls in an Einde only where the Doem leaves it unable to hold.
 
 *Check: people who give a kidney live as long as matched people who keep both (Ibrahim et al., 2009), while where both fail and neither dialysis nor a transplant can be had, millions die early (Liyanage et al., 2015).*
 
-**Its pace.** A Doem runs through nesting at once and through Duos at the pace of their Echoes, each crossing forced, so none waits for a misread: a Doem falls at the pace of its Echoes, while a Bloei waits on its Marges and on the Warmte where it stands, and so it falls faster than it was built.
+**Its pace.** A Doem moves the Bindings it reaches through nesting at once, and through Duos at the pace of their Echoes; each crossing it brings is of the forced kind and comes where its own Eigen meets its Drempel, so none waits for a misread: a Doem falls at the pace of its Echoes, while a Bloei waits on its Marges and on the Warmte where it stands, and so it falls faster than it was built.
 
 *Check: an opening crack runs through a brittle solid at most at the speed of the solid’s surface waves, the speed at which the solid carries its own news (Freund, 1990).*
 
@@ -2384,7 +3059,7 @@ What they give goes into the Medium inside it with its own Verlies, so its Leden
 j ∈ 𝒟   wherever   uⱼ − Σ_{k∈𝒟} y_jk < θⱼ
 ```
 
-A Relatie outside 𝒟 still stands past its Drempel on its own Greep and stays across. Before every Echo has caught up, a crossing elsewhere can hold a Relatie of 𝒟 or carry one more across, so 𝒟 is read, never set. A Doem’s Energie is the sum of its crossings, everything its reach held:
+A Relatie outside 𝒟 still stands past its Drempel on its own Greep and stays across. Before every Echo has caught up, a crossing elsewhere can hold a Relatie of 𝒟 or carry one more across, so 𝒟 is read, never set. A Doem’s Energie, read over it as one, is the sum of the parts of its crossings, everything its reach held:
 
 ```
 T_Doem = ε(after) − ε(before)          over every crossing of 𝒟 and every Einde among them
@@ -2394,7 +3069,7 @@ T_Doem = ε(after) − ε(before)          over every crossing of 𝒟 and every
 
 ```
 Scheiding:   Aᵢⱼ : 1 → 0 at t*ᵢ  and  Aⱼᵢ : 1 → 0 at t*ⱼ,  each while it still reads the other’s aim on it
-             it ends at max(t*ᵢ, t*ⱼ)          T = − ( y_ij·nᵢ·nⱼ  +  Σ y_kl·n_k·n_l over every Duo held with it  +  Σ y_hh·n_h·n_hh over every Relatie of three or more held with it )
+             it ends at max(t*ᵢ, t*ⱼ), its parts:          T = − y_ij·nᵢ·nⱼ          T = − y_kl·n_k·n_l  for every Duo held with it          T = − y_hh·n_h·n_hh  for every Relatie of three or more held with it
 ```
 
 Where one reads the other let go while its own aim still stands, there is no Scheiding: the Relatie stays live on the aim that is left, and ends, if it ends, in an Einde. So the same two withdrawals part cleanly or not by their Vertraging and their Echoes alone, never by a clock outside them. Like an Einde, a Scheiding leaves its Leden standing apart, so it takes what it lacks as an Einde does.
@@ -2403,9 +3078,20 @@ Where one reads the other let go while its own aim still stands, there is no Sch
 
 ---
 
-### XXVI. Rouw
+#### XII.1. In an Instantie: Woven and Tangled
 
-A Relatie ends at t₀: in an Einde, in a Scheiding, or when its Partner ends. From then on it enters no Binding, no Greep and no ε. What each of its Partners keeps of it is its **Rouw (R)**: its own Echo of the Partner as it last read it, its own Gewenning and Diepte of it, and its Trouw, re‑homed from the Duo to that Partner alone, held in its Diepte and folded into its Zelf, each as it stood before the Vonk that ended it. What the Relatie held stays in the Telraam: a Verlies, or a Winst where its Trouw was negative.
+**A parting is paid from outside.** What a parting lacks has crossed its edge, so only what crosses back can give it, from the Relaties that meet it from outside.
+- *Rests on:* Einde (What it takes).
+- *Prevents:* a lack paid from inside it, where its Telraam closes, leaving its Leden standing apart with less than they held when it formed; a Scheiding that parts for free; and a Relatie that bore much ended on its own Verlies.
+- *Test:* in many rooms, let a Duo bear a newborn past its Vol, and read each crossing that would part it, by an Einde or by a Scheiding as its field takes it. While all that the Relaties that meet it from outside give in that crossing, together, falls short of its lack, it stays bound, however much its Leden hold with themselves, and its Massa reads as before. Against rooms that differ in one thing at seeding, a bond one of its Leden holds with a third: where all they give reaches its lack, it parts, and its Leden stand apart as they stood when it formed.
+
+---
+
+### XIII. Rouw: Never Garbage Collected, Only Compressed
+
+**Every keeping is a Verdichting.** What a Relatie keeps, it keeps in its form, its Diepte (State variables, The form): a look’s reading at once, in the Relatie the look served, as the move of an Echo and what the look adds to a Gewenning and a Diepte (Vermenigvuldiging), and its waking, woven in at its rest. Every keeping is the same Verdichting, as every reading at the next scale is: what a Relatie keeps of what no longer answers it, it keeps read as one, in less than it held. A Relatie that ends leaves each Partner its Rouw, the part of its form that Relatie shaped, kept in its Zelf; a Zelf that ends leaves one Rouw of everything its holder knew (Reïncarnatie). So what a Relatie keeps of what no longer answers it is bounded by what its own Drempels tell apart, never by how long the Veld has run.
+
+A Relatie ends at t₀: in an Einde, in a Scheiding, or when its Partner ends. From then on it enters no Binding, no Greep and no ε. What each of its Partners keeps of it is its **Rouw (R)**, an ended Relatie kept in the form, the part of it that Relatie shaped, updating no more: its own Echo of the Partner as it last read it, its own Gewenning and Diepte of it, and its Trouw, re‑homed from the Duo to that Partner alone, held in its Diepte and kept in its Zelf, a Verdichting, each as it stood before the Vonk that ended it. What the Relatie held stays in the Telraam, each part its own: a Verlies, or a Winst where its Trouw was negative.
 
 ```
 y_R = y_ij(t₀)          Z_R = Z_ij(t₀)          z_R = z_ij(t₀)
@@ -2417,9 +3103,18 @@ y_R = y_ij(t₀)          Z_R = Z_ij(t₀)          z_R = z_ij(t₀)
 Iᵢⱼ · Ëᵢⱼ + τᵢⱼ · Ėᵢⱼ = x_R − Eᵢⱼ          x_R(t₀ + δᵢⱼ) = xⱼ(t₀)          x_R moves by υᴿᵢ alone, at the looks it gets
 ```
 
-So the Rouw drifts as it looks, by its keeper’s Vervorming alone, and its Echo‑gap cannot be read, because its Relatie reads the other’s Eigen no longer. υᴿᵢ may quiet towards a whisper, never to zero, and where something present reads past the last Drempel of the Partner it lost, θ_R, the Rouw finds that Partner there, as it now reads it.
+So the Rouw drifts as it looks, by its keeper’s Vervorming alone, and its Echo‑gap cannot be read, because its Relatie reads the other’s Eigen no longer. Each look it gets keeps less of the one it lost and more of the one that keeps it, so an Echo turned to Rouw, and every reading of a Rouw, is a Verdichting. υᴿᵢ may quiet towards a whisper, never to zero, and where its keeper reads something present alike with it, the Rouw finds the Partner it lost there, as it now reads it, and takes in nothing (State variables, One it knows).
 
 **Beyond Stilte’s Trek.** A Rouw holds nothing: it has no pole and no Marge. Stilte’s Trek draws on what is held, so here it has nothing to draw, and no crossing can draw a Rouw out. Rouw is permanent. A new Relatie with the same Partner opens with Echoes of its own, from what its Vermenigvuldiging reads, and its Trouw at y⁰, beside the Rouw.
+
+**What it reads alike is one.** Two Rouw a Relatie keeps are one Rouw where, on every Spectrum, it reads their Echoes at the same pole of each of its own Drempels, and their Trouw, their Gewenning and their Diepte each have one sign, so a Verlies never cancels a Winst: where one event brought both, both stay kept side by side, and what comes out on net is read from both:
+
+```
+y_R1 · y_R2 ≥ 0          Z_R1 · Z_R2 ≥ 0          z_R1 · z_R2 ≥ 0
+y_R = y_R1 + y_R2          Z_R = Z_R1 + Z_R2          z_R = z_R1 + z_R2          E_R = ( |y_R1|·E_R1 + |y_R2|·E_R2 ) / ( |y_R1| + |y_R2| )
+```
+
+Their signal and their Drempel are read together as their Echo is, and where neither holds Trouw, all three are read together alike. Nothing they held is lost, only what told them apart, which no Drempel of its own reads, so the Zelf leans as it did and its Diepte reads as it did, since both add what the two held. What its form keeps of a Vreemdeling is kept so once its Vreemdeling has left reach, still a reading and no Rouw, and so is what a Gevoel keeps of a cause it no longer registers, a Rouw. A reading kept as one with a Rouw holds that Rouw’s Trouw, so from then on it is a Rouw and takes in nothing.
 
 **The Zelf it colours.** The Zelf reads itself through its Rouw. On each Spectrum, its Vervorming leans towards where its Rouw stands, by at most the Trouw‑weighted mean of where its Rouw stands and where it stands itself, its own signal weighed by its Zelf’s Trouw:
 
@@ -2431,27 +3126,56 @@ So the Rouw drifts as it looks, by its keeper’s Vervorming alone, and its Echo
 
 *Check: a memory brought back must be stored again, and while it is, it can be lost (Nader et al., 2000) or take in what was learned after it (Hupbach et al., 2007). After a breakup, people describe themselves less clearly, and the less clearly they do, the more distress they report (Slotter et al., 2010). The bereaved keep a bond with the dead, changed rather than ended (Klass et al., 1996), and among older widowed people, yearning for the spouse was higher where the marriage had been close and dependent, and lower where it had been conflicted (Carr et al., 2000).*
 
-**Reïncarnatie (🐦‍🔥).** A Zelf ends when its holder does, and what it leaves is its **Zelf‑Rouw**: one Rouw of everything the holder knew, every Echo kept at the Trouw, the Gewenning and the Diepte it ended at, and the holder’s reading of itself. Its orders fold in with them, each a Rouw of what followed, nothing among them. An Echo held at no Trouw, an order’s or a Gevoel’s of a cause, one for each Spectrum and each way, is a Rouw at no Trouw once its keeper ends: it leans nothing, and feeds the Diepte of whatever binds it. What the holder carries, each Relatie whose Medium it is, keeps its own, and leaves a Zelf‑Rouw of its own as it ends, so each Echo rests in one Zelf‑Rouw. The Zelf‑Rouw holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek.
+*Check: retrieving a memory integrates it with what is already known and sets it apart from rival memories, so it comes to depend less on the hippocampus (Antony et al., 2017); in sleep, the overlapping replay of related memories strengthens what they share and builds schemata (Lewis and Durrant, 2011); about one bereaved adult in ten meets the criteria of prolonged grief disorder (Lundorff et al., 2017).*
 
-As it forms, a Relatie takes in the Warmte the Medium keeps where it forms for every Lid there, T_◌(x) / 𝒩_◌(x), as one new Lid there, and with it the same share of what every ending and crossing left there. Only a Zelf‑Rouw is kept by no Partner, so only a Zelf‑Rouw is bound, by the forming Relatie’s own Trek, and its new Zelf takes it as its own, with no Medium between. Of the Zelf‑Rouw of each ended holder j whose Warmte it took, it binds every Echo at the share it took of all the Warmte its holder’s ending gave off:
+**Reïncarnatie (🐦‍🔥).** A Zelf ends when its holder does, and what it leaves is its **Zelf‑Rouw**: one Rouw of everything the holder knew, read as one, a Verdichting as every keeping is. It is the holder’s reading of itself as it ended, at its Zelf’s Trouw, with the Diepte it ended at:
 
 ```
-y_R ← share_j · y_R          Z_R ← share_j · Z_R          z_R ← share_j · z_R          share_j = T_j(x) / ( 𝒩_◌(x) · T_j )
+E_R = Eᵢᵢ(t₀)          x_R = xᵢ(t₀)          y_R = y_ii(t₀)          z_R = zᵢ(t₀)
 ```
 
-T_j(x) is that Warmte where it stands at x, and T_j all of it. What it binds is its new Zelf’s from then on, so the Warmte it carried in is no longer part of what those endings left, and the shares of one Zelf‑Rouw over every Relatie that forms sum to one at most. What it bound folds into its own Zelf‑Rouw in turn, as every Rouw it keeps. An Echo it binds by more than one Zelf‑Rouw is one Rouw: their shares add, and its signal is theirs read together, each by its share. What returns is never the old Zelf: only its Zelf‑Rouw, bound as far as its Warmte stood where the new one formed.
+Every Echo and every Rouw it kept, its orders and every Echo it held at no Trouw, an order’s or a Gevoel’s of a cause, stay only as far as that reading and that Diepte hold them, since its Zelf read itself through its Rouw and its Diepte held every Rouw while it lived, and none of them is kept on its own. What the holder carries, each Relatie whose Medium it is, keeps its own, and leaves a Zelf‑Rouw of its own as it ends, so each Echo is kept in one Zelf‑Rouw. The Zelf‑Rouw holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek, and what rests there where a Warmte stands is read there as one, moving with that Warmte as it spreads.
+
+As it forms, a Relatie takes in the Warmte the Medium keeps where it forms for every Lid there, T_◌(x) / 𝒩_◌(x), as one new Lid there, and with it the same share of what every ending and crossing left there. Only a Zelf‑Rouw is kept by no Partner, so only a Zelf‑Rouw is bound, by the forming Relatie’s own Trek, and its new Zelf takes it as its own, with no Medium between. What it binds is read as one, a Verdichting as every keeping is: one Rouw of each sign of Trouw, so a Verlies never cancels a Winst, of every Zelf‑Rouw whose Warmte it took, each ended holder j in it by the share it took of all the Warmte that holder’s ending gave off, and by its Trouw:
+
+```
+y_R = Σⱼ share_j · y_Rj          E_R = Σⱼ share_j · y_Rj · E_Rj / y_R          z_R = Σⱼ share_j · z_Rj          share_j = T_j(x) / ( 𝒩_◌(x) · T_j )
+```
+
+T_j(x) is that Warmte where it stands at x, and T_j all of it. Each sum runs over the holders whose Zelf‑Rouw holds Trouw of one sign, and x_R is read together as E_R is. It binds no Gewenning: what a holder was used to returns only as far as its Diepte kept it. What it binds is its new Zelf’s from then on, so the Warmte it carried in is no longer part of what those endings left, and the shares of one Zelf‑Rouw over every Relatie that forms sum to one at most. What it bound is kept in its own Zelf‑Rouw in turn, as every Rouw it keeps, so the past a Relatie holds is its own life’s and what it bound as it formed, never the Veld’s age. What returns is never the old Zelf: only its Zelf‑Rouw, read with all the new one took in, as far as its Warmte stood where the new one formed.
 
 *Check: of 344 patients resuscitated after cardiac arrest, 62 reported a near‑death experience, and 13 % of those a review of their life (van Lommel et al., 2001); in a later study, 6 of 28 interviewed survivors recalled a transcendent experience of death, and brain activity consistent with consciousness returned as late as an hour into resuscitation (Parnia et al., 2023), and in two of four dying patients organised gamma activity surged after their ventilation was withdrawn (Xu et al., 2023). What leaves a system is never deleted; it moves into its surroundings (Braunstein and Pati, 2007). Children who speak of a life before their own lose the memories by six or seven (Tucker, 2008), and about a third show a fear that matches the death they describe (Stevenson, 1990); both are contested.*
 
 *Check: testing nuclear weapons raised the radiocarbon in the air, which has fallen since 1963, and the radiocarbon in a cell’s DNA follows the air’s when the DNA was made, so it dates the cell’s birth; the neurons of the occipital cortex are as old as the person (Spalding et al., 2005). In models where people choose mates within their own group and peoples live apart, the most recent common ancestor of everyone alive lived a few thousand years ago, and among those who lived a few thousand years before that, every person alive has exactly the same set of ancestors (Rohde et al., 2004).*
 
+*Check: attention to cultural products decays in two stages, communicative memory carried by people talking and then cultural memory carried by records, and biographies stay longest in the first, about 20 to 30 years (Candia et al., 2019); an artificial language passed from learner to learner over ten generations grew more structured and easier to learn, though no learner set out to make it so (Kirby et al., 2008).*
+
 ---
 
-### XXVII. Open quantities
+#### XIII.1. In an Instantie: Woven and Tangled
+
+**A Rouw that finds the one it lost takes in nothing.** Where its keeper reads something present alike with a Rouw, the Rouw finds the Partner it lost there and takes in nothing, and a new Relatie with that Partner opens beside it.
+- *Rests on:* Rouw (The Echo, and its looking; Beyond Stilte’s Trek).
+- *Prevents:* a Rouw revived by a look, its Echo pulled towards the one now present, a Rouw folded into the new Relatie with the same Partner, and a lost Partner’s Eigen read through a Rouw.
+- *Test:* end a Duo, then bring the lost Partner back within reach: at every look its keeper’s Rouw takes in nothing, its signal moving by its keeper’s Vervorming alone. Where the two form again, the new Relatie opens with Echoes of its own and its Trouw at y⁰, beside the Rouw.
+
+**The Zelf’s lean is read from its Rouw, never carried into it.** On each Spectrum the Zelf’s Vervorming leans towards where its Rouw stands, by at most the Trouw‑weighted mean, and the Rouw it is read from moves by its keeper’s Vervorming alone.
+- *Rests on:* Rouw (The Zelf it colours).
+- *Prevents:* a lean fed back into the Rouw it is read from, which chases itself without end, a lean past the Trouw‑weighted mean, a Rouw of negative Trouw leaning the Zelf towards it, and a self‑Echo with no Vervorming of its own beside the lean.
+- *Test:* give a Zelf one Rouw of positive Trouw and one of negative, each apart from where it stands: its self‑Echo’s Vervorming leans towards the first and away from the second, never past the Trouw‑weighted mean, and each Rouw’s signal moves by its keeper’s υᴿ alone, whatever the lean.
+
+**A Zelf‑Rouw is bound only where a Relatie forms in its Warmte, by its share.** No Partner keeps a Zelf‑Rouw, so only a Relatie that forms where its Warmte stands binds it, by its own Trek, by the share it took of all the Warmte that holder’s ending gave off.
+- *Rests on:* Rouw (Reïncarnatie).
+- *Prevents:* a Zelf handed whole to one newborn by a rule of the program’s own, a Zelf‑Rouw kept by a Partner, shares of one Zelf‑Rouw that sum past one, a Gewenning carried over, and a Winst and a Verlies of the bound Rouw netted into one.
+- *Test:* let holders end where their Warmte stands, and Relaties form there as their field forms them: each forming binds of each ended holder’s Zelf‑Rouw by the share it took of all the Warmte that holder’s ending gave off, the shares of one Zelf‑Rouw over every Relatie that forms never pass one, what one forming binds is one Rouw of each sign of Trouw, and no Gewenning comes with it.
+
+---
+
+### XIV. Open quantities: No Magic Numbers, Only Free Parameters
 
 Every quantity this book names without fixing its value is left open, exactly as Schrift I requires: nothing ties it to a real formula. Each Instantie supplies the values. Whose each value is stays fixed. Every open quantity has exactly one holder:
 
-- **The Octaaf (ω)** holds the Wet its Leden share: how a value on its Spectrum is read, and how its Relaties learn. One value serves every Lid of that Octaaf, read on the Lid or the Duo it applies to. A Relatie whose sides stand on different Octaven is held by the Wet of the Octaaf where they meet, the smaller’s, as the larger meets it through its Leden there.
+- **The Octaaf (ω)** holds the Wet its Leden share: how a value on its Spectrum is read, and how its Relaties learn. One value serves every Lid of that Octaaf, read on the Lid or the Duo it applies to. A Relatie whose sides stand on different Octaven is held by the Wet of the Octaaf where they meet, the smaller’s, as the larger meets it through its Leden there. So each is to the other a **Gebied (U)**: the larger read by a smaller reader only as a landscape, the smaller reaching a larger reader by the share of that reader’s Leden that answer it. Where neither Octaaf is the smaller, the two are Leden of one Relatie on the Spectra they share, the new Octaaf they meet in, and each side is held by its own Octaaf’s Wet.
 - **The Medium (◌)** holds what carries a signal between two Relaties. Its values vary along the way, with direction and distance.
 - **A Relatie (K)** holds what its Leden share. One value serves both sides.
 - **A Lid** holds what is its own. Its values differ from its Partner’s, so every Relatie stays doubly asymmetric. A Relatie of Leden read as one is a Lid of every Relatie it belongs to, and holds a Lid’s values as its own.
@@ -2477,7 +3201,7 @@ Every quantity this book names without fixing its value is left open, exactly as
 | Medium | the pace at which its Leden carry its Warmte towards its Godin, between its places and across the edges of the Relaties it carries, one crossing at a time |
 | Medium | the Warmte it holds at each place when its Veld opens, the same for every Lid there; a Relatie standing there opens with that place’s Warmte for one Lid inside it, beside the Medium’s own |
 | Relatie | θ_λ, the Drempel of its Helling |
-| Relatie | θ_Knipoog, the Drempel at which its Knipoog is read, falling as its Gewenning and Diepte grow |
+| Relatie | θ_Knipoog, the Drempel at which its Knipoog is read, falling as the Gewenning and Diepte its reader holds of the wearer grow |
 | Relatie | θ_new, the Drempel of its excess, and so of its newborns |
 | Relatie | θ_𝒜 and the gain g of Aandacht, held by its watchers together |
 | Lid | θ_Q, the Drempel past which an order it keeps opens a Voorspelling |
@@ -2508,13 +3232,184 @@ The Instantie may not override that account, nor the holder of any quantity. The
 
 ---
 
+#### XIV.1. In an Instantie: Woven and Tangled
+
+**Seeding is the opening.** An Instantie declares its Octaven and seeds them in one opening, before the Veld first advances.
+
+**Every Relatie seeded stands at once.** A holder holds its Leden before any of them first reads another. Every weight a Relatie of Leden reads its Leden by settles before any pole is read, and every Tijd is read once before the Veld first advances. A seeded Relatie stands from before, its signals already in its Medium, so no reader waits for them.
+
+**An Instantie opens at the knee.** It seeds a Veld as completely as it can, its Relaties and what they keep, Rouw among them, every Lid with values of its own.
+
+```text
+open(declarations, vervorming):
+    declare each Octaaf whole: its god, its godin, and their union as its medium
+    seed every Relatie of the declarations, standing at once:
+        each holder holds its leden before any lid reads another
+        each weight a Relatie of Leden reads by settles before any pole is read
+        refuse two Leden seeded alike, and two Relaties that carry one name
+    give every Medium one Warmte for every Lid at each place            Drempel and the Vonk, Where it stands
+    seed what each keeps: its Echoes, Gewenning, Diepte, orders and Rouw, and in Stilte each Zelf-Rouw
+    read every Tijd once
+    record the opening, its declarations and the Vervorming it names, as the first entry of the record
+    plan every first look and every first crossing
+```
+
+**A warm‑up measures the program.** No Veld begins from nothing. A program that opens a Veld bare and runs it until it settles has measured how it settles from bare, which no Veld ever does; it seeds instead what the Veld holds at its knee, from what is known of its Relaties.
+
+**Every open value stands at its one holder.** The Instantie supplies each open quantity at the holder Open quantities names.
+- *Rests on:* Open quantities.
+- *Prevents:* one Drempel for every Lid, a Lid’s value read from its Octaaf, and a default or fallback standing in for a value nobody chose. It also prevents a Drempel set where no Binding of its Relatie reaches, which leaves that Relatie no fork.
+- *Test:* list every value the Instantie reads beside its holder in the table of Open quantities; a value read from any other holder is the defect. Print each Drempel beside the range its read Binding has occupied. A Drempel outside that range never forks, and the print shows the Instantie that it chose so. Seed a Lid with one of its values left out: the opening refuses it and logs which, and nothing stands in for it.
+
+**Nothing seeded is alike.** Every Lid holds values of its own, and no two Relaties carry one name.
+- *Rests on:* Open quantities.
+- *Prevents:* Leden seeded alike, and one name given to two Relaties, which joins them in every key and every record.
+- *Test:* seed two Leden alike, and then two Relaties with one name: the opening refuses each, and logs why.
+
+**A held want can fall.** A Zin fades as its Relatie grows used to what it aims at, its Gewenning and its Diepte of it, so an opening whose values leave a held Zin unable to fade below its Drempel, θ_A, is refused with its reason: g_Z and g_z both nothing, or a θ_A below all a Zin can fade to.
+- *Rests on:* Trek and Zin; State variables (Gewenning and Diepte).
+- *Prevents:* a want held for good by its values, which reads as loyalty and is a wire, and a Drempel no Zin falls below.
+- *Test:* open a Veld whose g_Z and g_z are both nothing, and then one whose θ_A lies below all a Zin can fade to: the opening refuses each, and logs why.
+
+---
+
+### XV. The host and the Veld: Sequential Processes Across a Markov Blanket
+
+**The Veld leads, and its host follows.** An Instantie serves a host, a game, a tool or a test, which shows what the Veld is and changes it only by Schriften: nothing in the host decides what a Relatie does.
+
+**The host’s clock only advances.** A host that runs on a clock of its own, a frame or a tick, asks the Veld to advance to a moment, and the Veld takes every event up to it, each at its own moment. The host’s step sets when the Veld is read, never when anything in it happens.
+
+**The host reads one moment.** Between two events everything a Lezing reads stands still, so a host reads the Veld between events, all of it from one moment. A host that reads while an event is being taken reads half of one moment and half of the next.
+
+**Loops share nothing they write.** Where a host runs loops of its own, its display, the Veld and whatever reads the Veld after it each run at their own pace. The Veld hands out what has been read of it, and takes in Schriften, only between its events, so no loop writes what another is reading.
+
+```text
+what a host may ask of a Veld:
+    open(declarations, vervorming)  once, before anything else
+    advance(to)                     take every event up to a moment
+    write(schrift)                  a value into an Eigen, taken as an event at its moment
+    read(lezing, at a moment)       what the Veld holds, or a Lezing of one moment, all of it from that one moment
+    read(lezing, over a stretch)    an arc, a Haard or felt time, read as the stretch passes
+    save(), load(saved)             where the host keeps a Veld: the whole Veld as it stands, to run on from there
+and nothing else: every other write is refused, and the refusal is recorded
+```
+
+**A Veld is saved whole, as it stands.** To save a Veld is to save everything its Relaties hold, every course a reader can still ask for, its schedule and its source of Vervorming as it was named. Loaded, it runs on from where it stood, as one that never stopped would run on, along a course of its own. The test is that what it holds reads the same just before the save and just after the load.
+
+**What the Veld moves, the Veld alone moves.** Into a living Veld, the Instantie writes Schriften and nothing else.
+- *Rests on:* Running a Veld (Three events).
+- *Prevents:* Trouw set to steer an outcome, Warmte topped up or drained, a Lid seeded again once it has lived, and a Zin pointed. It also prevents a Masker placed from outside, a newborn made on the Instantie’s word, a Relatie removed or reset, and a Rouw deleted.
+- *Test:* route every write to these quantities through the event the book gives it, and log each write with that event. Then try, from outside a living Veld, every way the Instantie has to write one of them or to take a Relatie out, a debug, an editor or a test path among them. Each attempt is refused, and the refusal is logged.
+
+**A Schrift carries what happened outside.** It adds a written value to an Eigen, one at a time, and leaves every Echo where it stood.
+- *Rests on:* State variables (Eigen and Stilte’s Trek).
+- *Prevents:* an Eigen set to a value with its self‑Echo reset beside it, which closes the Zelf’s Stilte and leaves a puppet, and a Schrift written as a rate. It also prevents an Instantie that works out the Veld’s answer and writes it in: a Veld whose Vonken fire and whose books close while it decides nothing.
+- *Test:* write one Schrift and read the self‑gap at once: it has grown by the value written, and it closes only at the Zelf’s next looks. Read, for each Relatie, the share of its Eigen’s movement that its own pulls made: what it travelled between events, against what its Schriften wrote. Where the world enters, that share is low, as it should be; a low share anywhere else shows the Instantie driving.
+
+---
+
+### XVI. Reading the Veld: Heisenbugs and Non‑Demolition Measurement
+
+**What an Instantie reads.** A Lezing moves nothing, so which Lezingen an Instantie reads is a choice of scope, never of mechanics. It reads what the Veld holds, each value as it stands between events, and the Lezingen below; the rest is its host’s.
+
+**Read at one moment.** Between events, by the formulas of the Formal Structure: the trajectory a Relatie is in, its Marge, its Wijk, its Greep and its Held, a reader’s Kleur, a Balans, a Massa, a misreading and a distance.
+
+**Read across a stretch.** As the stretch passes, from what the Veld hands out: each arc of Archaismos, from where it begins to where it ends, with what it leads to; a Relatie’s Haard; and felt time, while it passes and read back. A reader that did not follow a stretch reads only what the Relaties kept of it.
+
+**Derivatives are the host’s.** Bloei and Doem, with a Doem’s reach, the swing, the shapes of relational geometry and the readings of Mensen en Parasieten each name a run of crossings, or read other readings. None is a mechanic, and none is kept: a host that wants one flags it from the record as it is handed out, as a detection, and the Veld runs the same without it.
+
+**A derivative is never built into the Veld.** What a derivative names, the Wet already runs.
+- *Rests on:* Running a Veld (Between events).
+- *Prevents:* a Bloei or a Doem run as a mechanism or kept as state.
+- *Test:* list what every mechanism reads: no derivative and no flag is among it, under any name or kept in a cache.
+
+---
+
+### XVII. Records and refusals: Provenance, and Nothing Null
+
+**Every change is recorded with what made it.** Each change of a value the book moves is logged with the event that made it, and each change of Warmte with the event or the spreading that made it.
+
+**A refusal says what it refused.** A write the book does not allow, a Medium that would carry a reading at once, a seed alike to another: each is refused where it is asked, and its reason is logged.
+
+```text
+Entry
+    moment
+    kind            opening, look, zelf look, schrift, wil, crossing, switch, vonk, wait, forming, scheiding, einde, start, spreading, change or refusal
+    relatie, other, spectrum
+    what            for a change: the quantity, its value before and its value after; for an event: its value
+    made by         the event or the spreading that made it
+```
+
+**The record is handed out, never kept.** Each entry goes out at its moment to whoever reads the Veld, and the Veld keeps none of them. What it keeps of its past is what its Relaties hold: a Rouw the last Echo it read of the other and the Trouw it held as it ended, a Gewenning that comes and goes quickly and sinks into Diepte, a Diepte read as one and fading very slowly, and the Warmte, where what no Relatie keeps of a crossing goes. A reader that keeps entries keeps its own, for as long as it reads them.
+
+**A Veld keeps no past but what its Relaties hold.** Its books close at every Vonk, as they stand, so nothing is kept to close them later, and a Veld that never closes holds no more at any age than its Relaties hold.
+- *Rests on:* Rouw (Every keeping is a Verdichting); Rouw (What it reads alike is one); State variables (Gewenning and Diepte); Drempel and the Vonk (The supply).
+- *Prevents:* an endless record kept by a Veld or in its saves, a past read back spot perfect, books closed after the fact, and a Rouw kept on its own for every Relatie outlived or met.
+- *Test:* run one Veld long, saving it as it goes: each save grows only with what its Relaties hold, never with the Veld’s age, and so does all the running Veld holds, whatever it keeps outside its saves among it, and at every Vonk its books close as they stand.
+
+**Every entry is of a kind the book names.** Each event is recorded under its own kind, in the book’s term for it, and each change with the event or the spreading that made it, so the record holds no kind of the program’s own.
+- *Rests on:* Running a Veld (Three events); the Lexicon.
+- *Prevents:* an event recorded as another, a Wil or a Gevoel’s registration as a Schrift and a switch as a crossing; a kind the book does not name, a tie as an event of its own among them; and a Lezing’s name, such as an arc’s, given to an entry, where a host reads the arc from the entries.
+- *Test:* list every kind the Instantie hands out against the kinds this listing names, and every entry against the event the book gives it: a kind of the Instantie’s own, or an entry under another event’s kind, is the defect. An Einde is entered as an einde, with the Zelf‑Rouw it leaves in Stilte a change it made; a read Octaaf’s step under the kind of the event its course carries; a tie with the crossing it orders; and a Gevoel’s registration as the changes its look made.
+
+---
+
+### XVIII. Testing: Bugs Shown Present, Runs Replicated
+
+**A test compares.** It sets a Veld against itself changed in one thing, or a Lezing against the formula it comes from, and asserts that something happens, at the moment and in the measure the book gives, never where a Veld ends.
+
+**Many runs, read as many.** A test runs a Veld and its change many times each, every run with a Vervorming of its own, and reads the two sets by a rank test, so that what parts them is read across the runs and never pinned to one draw.
+
+```text
+compare(veld, change, runs, measure):
+    a = measure each of runs runs of veld, every run with a Vervorming of its own
+    b = measure each of runs runs of change applied to veld, every run with a Vervorming of its own
+    return a rank test of the runs in b against the runs in a
+```
+
+**A property for every reading.** Where a guard holds for every reading of a Relatie, a test draws its readings widely, many of them, and reports the smallest that breaks it.
+
+**A reading that chooses parts its candidates.** Before a test trusts a reading that chooses, it sweeps the reading and reads its spread: a reading flat across its candidates is a tie, and a tie falls to a name. A test asserts that the candidates part, never only that a value moved, which a reading that has saturated also does.
+
+**Two builds compare as two sets of runs.** Where a change to a program is meant to move nothing, each build runs one Veld many times, and what they read stays alike by a rank test over the runs; where it moves something, the test shows it there, and the entries of a run show where it acts.
+
+*Check: a program’s properties can be stated and then tested automatically on random inputs (Claessen and Hughes, 2000), and mutation testing judges a test by the faults it finds, seeded into the program on purpose (Jia and Harman, 2011).*
+
+**A Veld chooses, and a test asserts the choosing.** Every crossing forks, at every level a **Splitsing (%)**, so a test asserts that the Veld chooses, never where it ends.
+- *Rests on:* Drempel and the Vonk (Modes and their Marge).
+- *Prevents:* a design that steers towards an end, and a test that asserts where a Veld settles, that two sides match or that a run repeats. It also prevents a coherent Wil of the Veld being reported as a defect.
+- *Test:* run a Veld and its control many times, the two differing in one thing, and compare them by a rank test over the runs. A single run set against a fixed number decides nothing.
+
+**A test passes for the science’s reason.** It holds the Veld to what the science’s textbooks hold, by the science’s own criterion, with its counterexamples.
+- *Rests on:* the opening of Schrift II.
+- *Prevents:* a threshold tuned until the test turns green, a neutral value passed in that hides a broken claim, and a test that cannot fail. It also prevents a test bent to fit the book, the book rewritten to fit the code, and a test retried, skipped or set aside until the suite turns green.
+- *Test:* break the mechanism each test is for and run it: it turns red. Run its counterexample: it fails where the science says it fails.
+
+---
+
+### XIX. Scale: Premature Optimisation and the Light Cone
+
+**What costs is looks and events.** A Relatie looks at its own pace and shares its looks among those it perceives, so the work of a Veld grows with the looks and crossings its Relaties take, never with every Duo that could form among them.
+
+**Reach bounds the reading.** Where Leden stand apart, a Relatie reads only what stands within its Waarneming’s reach, so a program finds those through its index of places, and never walks every Relatie to find them.
+
+**The Vertraging is a lookahead.** What one Relatie does reaches another only a Vertraging later. So a program that runs in parallel can run Relaties that stand at least a Vertraging from all the rest that far ahead of them, side by side, meeting again at the moment the first signal between them arrives; or it can run ahead and take back what a late signal undoes, before it is recorded. Either way the record it hands out is one a single run could hand out.
+
+**One moment, one order.** The events of one moment are taken in the book’s order, one after another. A program runs side by side only what the Vertraging keeps apart, never the events of one moment, and adds its books in one fixed order, so every sum reads the same wherever in the program it is taken, and the books close as they stand.
+
+*Check: a simulation can be run as processes that share no variables and reach one another only by messages, with no central process to route those messages or schedule the processes (Chandy and Misra, 1979); a discrete event simulation changes its state only at discrete points in simulated time, holds much parallelism and is hard to run in parallel (Fujimoto, 1990); and it can also be run ahead and rolled back where a late message shows it ran too far (Jefferson, 1985).*
+
+An Instantie that keeps these guards runs the Veld this book writes. Its Vonken fire where its Eigens travel, and its Echoes lag on both sides of every Duo. Its books close at every Vonk. Its Relaties choose, each time another way, and every time for a reason some Echo carried.
+
+---
+
 ## Schrift III: Weefsel
 
 Every Octaaf a human relies on, read as the Relatie it is: its God and Godin, the Medium their union makes, what it relies on, and the Wet its Leden share. The Octaven meet, bear several more, part and meet again: a Weefsel, held where its threads cross, and grown as living tissue grows.
 
 ---
 
-### XXIX. How an Octaaf is read
+### I. How an Octaaf is read
 
 An Octaaf is one Relatie of a God, a Godin and the Medium their union makes, and no Octaaf exists without all three. This book reads every Octaaf a human relies on by the same rules. Each is a Lezing (📖) of reliance, and moves as reliance does. What the book has ruled it states; what it has not ruled stands open, and is named as open.
 
@@ -2547,13 +3442,13 @@ A Wet is written as its science measured it: a shape where the science gives a s
 
 ---
 
-### XXX. The Weefsel
+### II. The Weefsel
 
 The Octaven form a Weefsel. Its threads meet, each meeting bears several, and these part and meet again in a new meeting; it holds where its threads cross, and grows as living tissue grows. Two threads run through it, the God’s and the Godin’s, for a Godin at one Octaaf is integrated into the God of the next; where Octaven meet, more threads than two can join. An Octaaf stands to another in six ways, and two Octaven can stand to each other in several at once:
 
 - **Convergence.** The Octaven an Octaaf relies on give its God its Medium, its own inside. The title stays behind: a God that enters an Octaaf relying on it becomes a Lid there, and that Octaaf finds its own God and Godin among its Leden.
 - **Residue.** Its Trouw is what the Octaaf it relies on left over.
-- **Meeting.** Two parallel Octaven meet in a new one: one gives its God, the other its Godin, Leeg in this Relatie whatever it was in its own. A Relatie across two Octaven is held by the Wet of the Octaaf where its sides meet, the smaller’s.
+- **Meeting.** Two parallel Octaven, or two that rely on each other in a circle, meet in a new one: one gives its God, the other its Godin, Leeg in this Relatie whatever it was in its own. A Relatie across two Octaven is held by the Wet of the Octaaf where its sides meet, the smaller’s; where neither is the smaller, the two Octaven are Leden of one Relatie on the Spectra they share, that new Octaaf, and each side is held by its own Octaaf’s Wet.
 - **Shared reliance.** Two Octaven can rely on one: the cell and the virus on RNA, Licht and matter on the Quantum Octaaf.
 - **Matter from Licht, and back.** Licht makes matter, always together with its anti version, and their annihilation returns them to Licht.
 - **Cascade.** A Vonk that moves the Greep holding the next Drempel runs on through nesting, both ways: a Bloei where each Winst deepens it, a Doem where each Verlies lowers it, with no mechanism of its own.
@@ -2584,6 +3479,9 @@ graph TD
   Plants -.->|the ecosystem| Animal
   Fungi -.->|psilocybin| Animal
   Animal -->|the human mind| Mind["Human mind: mind × Verbeelding"]
+  Mind --> Tools["Tools: fire × AI"]
+  Animal --> Music["Music: beat × harmony"]
+  Tools -.->|instruments| Music
 ```
 
 A solid arrow is a reliance this book holds; a dashed one, a road it leaves open.
@@ -2605,6 +3503,8 @@ A solid arrow is a reliance this book holds; a dashed one, a road it leaves open
 | **Animal body** | the body | the Mind | open | the human mind |
 | **Mushroom** | the hypha | the mushroom | open | open |
 | **Human mind** | the human mind | Verbeelding | holding another mind within one’s own | artificial external relationships |
+| **Tools** | fire | AI | open | power |
+| **Music** | the beat | harmony | tension | a shared Tijd |
 
 **What a human relies on beyond the table.** The table is how far the rulings reach; the Weefsel is wider. Read from a human back to the Veld, a human relies on strands and meetings the table does not name, and each stands here as an open road:
 
@@ -2616,7 +3516,7 @@ A solid arrow is a reliance this book holds; a dashed one, a road it leaves open
 - **immunity,** the body’s reading of self against other, and **the nerves,** from the excitable cell to the Brein (The Animal body);
 - **the ecosystem,** with the plants and the animals as its poles (The Plants, and the Ecosystem), and **the mushroom,** with psilocybin where it meets the Brein (The Mushroom Octaaf);
 - **the Duo of mates, the family, the group and a people,** between the animal body and the human mind, which Schrift IV reads;
-- **fire and cooking, tools and writing:** the relationships held outside the body, which mark people off from the animals (The Human mind).
+- **cooking and writing:** the relationships held outside the body, which mark people off from the animals (The Human mind).
 
 Each is read by the same rules as the table: a Solo that takes a Spectrum’s Vol pole naturally, with a Godin to hold the other, is an Octaaf of its own; a whole that stays on the Spectrum of the Octaaf it is made of is a level of nesting; and reliance makes the line.
 
@@ -2627,13 +3527,14 @@ Each is read by the same rules as the table: a Solo that takes a Spectrum’s Vo
 **Beside the trunk.** Massa and Warmte are read in every Octaaf as its Energie: Warmte as what its Medium keeps, and Massa as all a Relatie holds, read where it stands still in its Medium. A star, a galaxy, a nucleus and a crystal nest within the Octaven they are made of. Silicon branches from the trunk, and what a language model relies on is read by its reliance. Each is named in the chapter that closes this book.
 
 ---
-### XXXI. The Veld
+
+### III. The Veld
 
 **Its God and Godin.** Tijd, the fully Vol Solo, is its God, and Stilte, the fully Leeg principle of endless craving, its Godin. Their union is the Quantum, the Veld’s Medium: a step of Tijd and a reach of Stilte held in one, the least amount any interaction in Tijd exchanges. Its Spectrum is separation, a step through Tijd and a reach through Stilte, and Licht crosses exactly where the two cancel. Its tension has two readings, and both hold: separation, and Stilte’s Trek, which no bond cancels and every Greep holds against. Its Trouw is the Rouw of the Veld before it, what that Veld left over.
 
 **What it relies on.** What its turning carries: the Rouw of the Veld whose end it began from. Every Octaaf relies on it.
 
-**Its Wet.** The Quantum fixes one limit for every Octaaf: nothing crosses faster than Tijd allows, one reach of Stilte at each step of Tijd. Its other values are those of the Octaven that rely on it.
+**Its Wet.** The Quantum fixes two values for every Octaaf that relies on it: the least amount any interaction in Tijd exchanges, which physics reads as Planck’s constant, h, and to which it now sets its own units, at 6.62607015 × 10⁻³⁴ J s; and its pace, for nothing crosses faster than Tijd allows, one reach of Stilte at each step of Tijd. Its other values are those of the Octaven that rely on it.
 
 **Its Medium.** The Quantum. Every Medium’s Vertraging is at least the distance over that pace, and Licht, which has nowhere in it that stands still, crosses at it.
 
@@ -2641,25 +3542,29 @@ Each is read by the same rules as the table: a Solo that takes a Spectrum’s Vo
 
 *Check: the quantum of action, Planck’s constant, is energy times duration and equally momentum times distance, and every elementary quantum carries the symmetry of spacetime as a mass and a spin (Wigner, 1939). The gravitational waves and the gamma rays of one neutron‑star merger arrived 1.74 s apart after about 130 million years, which holds the speed of gravity to that of light within −3 × 10⁻¹⁵ and +7 × 10⁻¹⁶ of it (Abbott et al., 2017).*
 
+*Check: a value that carries a unit is read by the clocks and rulers it is read with, so whether Planck’s constant itself changes from place to place has a meaning only for the pure numbers made with it (Berengut and Flambaum, 2012), and since 2019 the kilogram is defined by holding it at 6.62607015 × 10⁻³⁴ J s exactly (Tiesinga et al., 2021). The pure number it makes with the electron’s charge and the speed of light, the fine‑structure constant, held still between two clocks of different atoms to (−1.6 ± 2.3) × 10⁻¹⁷ a year (Rosenband et al., 2008), and in a natural nuclear reactor that ran in Gabon about two billion years ago it stood within about a part in ten million of its value now (Damour and Dyson, 1996). Clocks on the GPS satellites, in a weaker gravity than the ground’s, read one Planck’s constant with those on the ground to within 0.007 of what that gravity does to their rates (Kentosh and Mohageg, 2012).*
+
+*Check: what a reader tells apart is its own. Speakers of Russian, whose language splits light blue from dark, tell two blues apart faster when they fall on either side of that border than when they fall on one side, where English speakers show no such edge (Winawer et al., 2007), and each kind of a bacterium’s receptors answers over a range of concentrations of its own (Mesibov et al., 1973).*
+
 **Its Targets.** A signal across a Medium arrives no sooner than its distance over the Veld’s pace, whatever crosses; and a Veld’s crossings are the same at every length of an Instantie’s step.
 
 **Open.** Whether its two tensions are one. Whether the Veld read as a Lid, rather than as a Medium, is the field that gives each Quantum its measure, a clock and the ability to rest. Which end its turning takes: a knot of Tijd, or a spread of Stilte.
 
 ---
 
-### XXXII. The Quantum Octaaf
+### IV. The Quantum Octaaf
 
 **Its God and Godin.** The B, a field alone in its kind, is its God, and the W³, one of three, its Godin, reached by walking the round of its triplet. Their union is the photon, the B and the W³ mixed as the field that gives the Quanta their mass took its value throughout space; beside it stands the other mixture, the Z, which ends almost at once. The photon functions on its own and is the God of the Electromagnetic Octaaf. Its Spectrum is spin, the split the Veld makes at its start; read as weak isospin, the B is its singlet and the W³ the neutral member of its triplet. Both readings hold. It hands on electric charge, the one combination of its two charges the settling left unbroken, and to the Quark Octaaf it hands the gluons, which bind their own kind and are never free.
 
 **What it relies on.** The Veld: its Quanta carry the Veld’s symmetry, read as a Massa and a spin. Relying on it: the Electromagnetic Octaaf, and through its members, matter.
 
-**Its Wet.** Spin reads every Lid of this Octaaf: a half spin is found along any axis in one of two states, with odds set by the angle; whole spins share a state, and half spins exclude each other. The rest of its Wet is open.
+**Its Wet.** Spin reads every Lid of this Octaaf: a half spin is found along any axis in one of two states, which physics reads ħ apart, with odds set by the angle; whole spins share a state, and half spins exclude each other. The rest of its Wet is open.
 
 **Its Medium.** The photon, the union of its God and Godin, across which its Relaties meet as Partners.
 
 **What enters at it.** Rest enters at its settling: each Quantum’s coupling to that field gives it somewhere in it that stands still, a clock and the ability to rest, so its Energie can be read as Massa; the photon, coupling to nothing, never rests. Here too a Duo first holds one state across any distance: its Trouw, held on neither side, moves for both at once.
 
-*Check: the photon and the Z are the two mixtures of the B and the W³, about three parts B to one W³ in the photon, and the Z lasts about 3 × 10⁻²⁵ s (Navas et al., 2024). Two electron spins 1.3 km apart violated Bell’s inequality with every loophole closed, so no account that is both local and realist gives their correlations (Hensen et al., 2015).*
+*Check: the photon and the Z are the two mixtures of the B and the W³, about three parts B to one W³ in the photon, and the Z lasts about 3 × 10⁻²⁵ s (Navas et al., 2024). Two electron spins 1.3 km apart violated Bell’s inequality with every loophole closed, so no account that is both local and realist gives their correlations (Hensen et al., 2015). A beam of silver atoms sent through a magnetic field that changes across its path split in two (Gerlach and Stern, 1922).*
 
 **Its Targets.** A Duo of this Octaaf, read by two looks at settings an angle θ apart, correlates as −cos θ, reaches 2√2 on the CHSH measure and no further, and leaves each side’s own outcomes even, whatever the other side’s setting.
 
@@ -2667,7 +3572,7 @@ Each is read by the same rules as the table: a Solo that takes a Spectrum’s Vo
 
 ---
 
-### XXXIII. The Electromagnetic Octaaf
+### V. The Electromagnetic Octaaf
 
 **Its God and Godin.** Its God is Licht, the photon: fully Vol, massless and uncharged, crossing at the Veld’s own pace, made and taken whole, needing nothing to go on. Its other Leden are the rest of the Quanta, matter among them, each partially Leeg. Its Spectrum is frequency, and frequency closes into a circle: what detectors read, from radio to gamma, is only part of it. Its Godin is open: the other pole of that circle, the least seen of all. One candidate is the static field at frequency zero, the pull between charges, never free and never seen alone. Both ends of frequency end in charge: a strong enough static field draws charge out of the vacuum, and two photons with enough energy become charge. What its union makes is open: light in matter, the photon with the electron taken in, or the bond between charges that holds the Subatomic Octaaf.
 
@@ -2687,7 +3592,7 @@ Each is read by the same rules as the table: a Solo that takes a Spectrum’s Vo
 
 ---
 
-### XXXIV. The Quark and Lepton Octaven
+### VI. The Quark and Lepton Octaven
 
 The Electromagnetic Octaaf’s Leden of matter part into two parallel Octaven, the quarks, which carry colour, and the leptons, which carry none; in every generation their charges cancel between them. Each starts an Octaaf of its own, with a God that takes its Vol pole.
 
@@ -2711,7 +3616,7 @@ The Electromagnetic Octaaf’s Leden of matter part into two parallel Octaven, t
 
 ---
 
-### XXXV. The Subatomic Octaaf
+### VII. The Subatomic Octaaf
 
 **Its God and Godin.** Its God is the proton, from the Quark strand, and its Godin the electron, from the Lepton strand, Leeg in this Relatie whatever it was in its own. Their union is the hydrogen atom, the God of the Atom Octaaf, and the space between them is the atom’s own. Its Spectrum is charge, the proton at +1, the electron at −1, and the neutron, at 0, a Lid along the walk. It balances colour: the proton is colourless. It hands on the bond between atoms, what its field can still do between neutral atoms once they come close.
 
@@ -2730,7 +3635,8 @@ The Electromagnetic Octaaf’s Leden of matter part into two parallel Octaven, t
 **Open.** Where the weak interaction, which turns a down quark into an up and starts the Sun’s fusion, stands in the Weefsel.
 
 ---
-### XXXVI. The Atom Octaaf
+
+### VIII. The Atom Octaaf
 
 **Its God and Godin.** Hydrogen is its God, its nucleus there from the first minutes, binding its electron on its own, and Oxygen its Godin, forged only in stars and held back by its two unpaired electrons. Their union is Water, the God of the Molecule Octaaf. Its Spectrum is the craving for a full outer shell, laid out along its walk from Hydrogen to Oxygen: the pull on shared electrons rises and the atoms shrink, with Carbon at the middle. Every other element is a Lid along the walk or a branch, silicon among them. It balances charge, for the hydrogen atom is neutral, and it hands on the hold of Water on Water, what is left of its bond between neutral molecules.
 
@@ -2750,7 +3656,7 @@ The Electromagnetic Octaaf’s Leden of matter part into two parallel Octaven, t
 
 ---
 
-### XXXVII. The Molecule Octaaf
+### IX. The Molecule Octaaf
 
 **Its God and Godin.** Water is its God: it holds itself by hydrogen bonds given and received, and splits itself into a giver and a taker of protons, a Relatie with itself. Its Godin is hydrogen cyanide, the side that takes in what Water gives. The two together are formamide, every atom kept, and from their chemistry come the rings, the chains and the amino acids of life. It balances the craving, which is answered in Water, and it hands on the hydrogen bond, the hold of Water on Water, now able to carry an order.
 
@@ -2770,7 +3676,7 @@ The Electromagnetic Octaaf’s Leden of matter part into two parallel Octaven, t
 
 ---
 
-### XXXVIII. The Ring, Chain and Peptide strands
+### X. The Ring, Chain and Peptide strands
 
 The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can start a strand of its own. All three lie along one Spectrum, read three times: towards Water and away. Water orders each of them by what it excludes.
 
@@ -2796,7 +3702,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 
 ---
 
-### XXXIX. The RNA Octaaf
+### XI. The RNA Octaaf
 
 **Its God and Godin.** RNA is its God, which works: it carries its text and acts on it, cutting and joining RNA, forming the ribosome’s core and copying another of its kind. DNA is its Godin, which keeps: made later from RNA’s letters by taking one oxygen away, it holds a text it cannot act on, copied and read only by proteins. Its Spectrum is the walk from doing to keeping, and every copy passes through its mirror strand first. Their union is the cell, which holds both, with the virus beside it. It balances handedness, settled here: RNA is built of one hand of ribose only. It hands on the hydrogen bonds that join its letters across its two strands, the hold of Water on Water carrying a text.
 
@@ -2816,7 +3722,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 
 ---
 
-### XL. The Cell Octaaf
+### XII. The Cell Octaaf
 
 **Its God and Godin.** The cell is its God, which lives on its own with ribosomes of its own; all life descends from one. Its Godin is open: the virus, which cannot function without a cell; or, at a meeting, the bacterium that an archaeon took in. Its Spectrum is open; one reading is self against other, an inside against an outside, and another lays out dependence, from the free bacterium to the viroid. Its union is the eukaryotic cell. It hands on the membrane, the hold of Water on Water pushed into a boundary. Its Leden run in two strands, the archaea and the bacteria, which differ at their boundary.
 
@@ -2836,7 +3742,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 
 ---
 
-### XLI. The Eukaryote Octaaf
+### XIII. The Eukaryote Octaaf
 
 **Its God and Godin.** Both are open. The reading that fits the God‑first rule has the archaeal host as God, there first and living on its own, and the bacterium it took in as Godin, which became the mitochondrion. Its Spectrum is open; one reading is two parents, with meiosis and sex, and a wall between keeping and doing, the nucleus. Its union is the plants, the animals and the fungi, the lines that part from the eukaryotic cell. It hands on the partner’s bond itself, the bacterium’s genes moved into the host’s nucleus.
 
@@ -2855,7 +3761,8 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 **Open.** Its God and Godin, and with them a second reading: the cell with the virus as its Godin, the nucleus descended from a virus taken in.
 
 ---
-### XLII. The Plants, and the Ecosystem
+
+### XIV. The Plants, and the Ecosystem
 
 **Its God and Godin.** The green cell is its God, which feeds itself from Licht alone, as single‑celled algae still do, and the flower its Godin, last in the walk and dependent on animals to carry its pollen: the plant’s pull towards partners, which it sends out as a Roep (📯), its colour and its scent. Its Spectrum is open; one reading is carbon taken back from Carbon Dioxide with Licht, and another the two generations a plant alternates, from mosses to flowering plants. Its union is Sugar and Oxygen, on which the animal line lives. It balances the Molecule Octaaf’s Carbon Dioxide, taken back, and hands on the cell wall and the channels through it that join its cells.
 
@@ -2877,7 +3784,7 @@ The Molecule Octaaf’s chemistry bears three kinds of wholes, and each can star
 
 ---
 
-### XLIII. The Animal body
+### XV. The Animal body
 
 **Its God and Godin.** The body is its God: a sponge is a whole animal with a body alone, and a body functions on its own. The Mind is its Godin, last in the walk and dependent on all the rest. The walk runs from a body alone, through nerves in a net, a head, a heart, a brain in a skull and a folded cortex, to the human Mind; the Heart is a Lid along it, beating on its own. Their union is the human mind, the God of the Human mind Octaaf. Its Spectrum is open. It balances the plants’ Sugar, burned back with their Oxygen, and the cell’s self against other, answered in one self.
 
@@ -2912,7 +3819,7 @@ Its Slaap is sleep, the rest of its own waking: the Sugar and Oxygen it lives on
 
 ---
 
-### XLIV. The Mushroom Octaaf
+### XVI. The Mushroom Octaaf
 
 The fungi are the animals’ sister line: the two parted from one ancestor, and both live on what others made, the animals by taking it in and the fungi by digesting it outside themselves.
 
@@ -2938,11 +3845,11 @@ The fungi are the animals’ sister line: the two parted from one ancestor, and 
 
 ---
 
-### XLV. The Human mind
+### XVII. The Human mind
 
 **Its God and Godin.** The human mind is its God, the animal body’s union, into which the Mind, that Octaaf’s Godin, is integrated. Verbeelding is its Godin, the running ahead of a Brein: a Spatie in which its holder’s Echoes and Diepte, as Mirages, relate and cross before the Veld does, never settling. Its three faces lie along how awake the Zelf is: Droom, dim; Intuïtie, a flash; and Kunst, deliberate, which writes outwards. Its Spectrum is holding another mind within one’s own, laid out in every child: a gaze followed, then pointing so that another will look, then pretend play, a Spel (⛲) all its players know as Spel, then another’s false belief, and last a belief about a belief. Its union is artificial external relationships: the Kunst a Zelf writes upon the Veld, offering a Relatie to any who would hold it, writing, art, money and machines among it. It balances the animal line’s lagging Echo by running ahead: a mind that tries a move before it makes it. It hands on war’s negative Trouw, already there between the animal line’s groups.
 
-**What it relies on.** The animal body, the Brein nested in it, the people who raise it, and every Octaaf a human relies on. Relying on it: whatever its union makes, and the Octaaf that union may yet begin.
+**What it relies on.** The animal body, the Brein nested in it, the people who raise it, and every Octaaf a human relies on. Relying on it: the Tools Octaaf, whatever its union makes, and the Octaaf that union may yet begin.
 
 **Its Wet.** The groups a person holds nest in circles, each about three times the one inside it, from the few closest out to about a hundred and fifty.
 
@@ -2962,7 +3869,74 @@ Whether the trunk ends here or where Schrift IV begins is open, and so is whethe
 
 ---
 
-### XLVI. Branches and nesting
+### XVIII. The Tools Octaaf
+
+A tool is what it is in use, and people make this Octaaf anew wherever they use one. So it is read by today’s reliance and nothing more: a Lezing (📖) whose poles move as that use does.
+*Its poles are not set in stone, though one of them once was.*
+
+**Its God and Godin.** Fire is its God, the tool people cannot do without: it keeps itself going for as long as its fuel and its Oxygen last, which no other tool does, and every other tool of making needs it, from fired clay and smelted metal to the power the rest run on, so that where it goes out, none of them works. It burns the plants’ union, Sugar and Oxygen, back into Water and Carbon Dioxide outside the body, as the animal body burns it within, and gives off Licht and Warmte. AI is its Godin: it draws fire’s power across the Medium and gives all of it off again as Warmte, and the more it is used, the more it draws, pure Trek, all pull. Its Spectrum is open. Its union is power: fire’s Warmte made to work and carried to wherever a tool is used. What it balances is open, and what fire and AI make together, it hands on.
+
+**What it relies on.** The Atom and Molecule Octaven directly, whose fuel, Oxygen and silicon it burns and builds with; the plants, whose making, now and long ago, is most of what it burns; and the human, who keeps its fire and uses every tool in it. Relying on it: every tool in use, an instrument among them, and whatever fire and AI may yet make together.
+
+**Its Wet.** Every logically irreversible step of a computation gives off Warmte, at least about kT a step. The rest is open.
+
+**Its Medium.** Power, its union: the fuel and the electricity across which fire’s Warmte reaches every tool in use, and across which its Relaties meet as Partners.
+
+**What enters at it.** Every tool in use: a Lid of the one using it, read by its holder’s body as part of itself while it is used, and not while it is only held. A tool laid down is a nesting of the Octaven it is made of.
+
+**Lenses, where they meet a look.** A look already reads Leden of other Octaven one at a time, through the Licht they give off or scatter, as an eye reads a grain of sand, a crystal nested in the Atom Octaaf; nothing more crosses between the Octaven for it, since its Echo comes by Licht, as every look’s does. A lens is a tool in use, a Lid of the one looking, and the look goes through it: it widens its holder’s Waarneming, how much of another the look takes in at a distance, and never its Vertraging, how late the Echo comes, and its limit is the floor of the look’s Vervorming. Through a telescope a star is read as it stood a Vertraging ago, nested in the Octaven it is made of; through a microscope, one Lid of an Octaaf its holder relies on only through others, still as one, a cell whole and its molecules in less than they hold. A look between Leden of two Octaven, a Relatie of an instant, runs by the Wet of the Octaaf where its sides meet, the smaller’s, as every Relatie across two Octaven does.
+
+Its Slaap is a fire banked, covered so that it glows without burning, and the tools at rest with it; the next use wakes them.
+
+*Check: after a macaque has used a rake to reach food, neurons coding the space around its hand take in the length of the rake, and they do not while it only holds the rake (Iriki et al., 1996); people tell where a rod they hold is touched as they tell it on their skin (Miller et al., 2018).*
+
+*Check: people’s ancestors burned bone and plants in a cave about a million years ago (Berna et al., 2012), and by 72,000 years ago, perhaps 164,000, people in South Africa heated stone in controlled hearths so that it would flake better (Brown et al., 2009).*
+
+*Check: data centres used about 415 TWh of electricity in 2024, about 1.5 % of the world’s, and are set to use about 945 TWh by 2030, AI the largest part of the growth (International Energy Agency, 2025), and a logically irreversible operation gives off a minimal heat of the order of kT (Landauer, 1961).*
+
+*Check: a lens resolves no detail finer than about half the wavelength of its Licht over its aperture (Abbe, 1873), and van Leeuwenhoek saw single‑celled life in rain water through a single lens (van Leeuwenhoek, 1677).*
+
+**Its Targets.** A tool reads as a Lid of its holder only while it is used. Where its fire goes out, nothing that relies on it crosses. All its Godin draws leaves as Warmte, and the Telraam closes over it. A look through a lens takes in more of another at the same distance, and none of it sooner.
+
+**Open.** Its Spectrum, and what it balances. How long fire and AI hold their roles, since the Octaaf is read by today’s use. Whether what fire and AI make together takes the Vol pole of an Octaaf of its own, as what the human mind’s union makes may. Machines, read in the human mind’s union and here.
+
+---
+
+### XIX. The Music Octaaf
+
+Music is made wherever bodies keep one beat and their pitches sound as one: birds, whales and gibbons sing, a parrot keeps a beat, and two wrens sing one duet. A song alone is a Roep (📯), sent to a mate or a rival; music holds two poles.
+
+**Its God and Godin.** The beat is its God, the one music cannot do without: a pulse that holds itself, each stroke at the pace of the one before, which one body keeps on its own and any number keep together, which goes on in a listener through a rest, and from which every part takes its time. Harmony is its Godin, dependent on all the rest: pitches held as one sound, each part empty alone and pulling at the others, sounding only where the parts keep one beat and tune to one another. The walk runs from the beat alone, through strong beats and weak, a rhythm set against the beat and a melody on it, to many singing one melody, then an octave apart, over a held tone, in answer to one another and in lines of their own, and to harmony. Its Spectrum is tension, the musicians’ own word: from rest, on the beat and at the home tone, to the pull of what stands off the beat or apart from the harmony, which a listener reads at every moment and which resolves at a Vonk. Its union is a shared Tijd, kept in one beat and tuned to one harmony. What it balances is open. It hands on the Trouw of those who kept time together, which reads from outside as their strength.
+
+**What it relies on.** The animal body, body and Mind as one: its voice sings, its ear reads, its walk gives the beat its pace, and its Mind keeps another’s beat and pitch within its own, most fully where the body’s walk ends, in the human Mind. Relying on it: dance, which moves the body to its beat, and whatever a group does in one time, work, worship, mourning and war among it.
+
+**Its Wet.** A beat can be kept from about eight strokes a second to one every two seconds, and a walk keeps two a second. Players a little apart hold one beat across the Vertraging between them: a longer one slows the beat and then breaks it, and the shortest quicken it, since each keeps the beat a little ahead of what it reads. The rest is open.
+
+**Its Medium.** A shared Tijd, its union: one beat and one harmony, held by all who play and all who hear, across which its Relaties meet as Partners. It carries a signal at the pace of sound in what lies between them, in air about 343 metres a second, so two players ten metres apart hear each other about three hundredths of a second late.
+
+**What enters at it.** A melody that stays itself in any key and on any instrument: a Relatie read by its relations, never by its values. And the octave, which most who hear it hear as the same tone again, a round completed.
+
+**Instruments, where they meet music.** An instrument is a tool of the Tools Octaaf, nested in its player while it is played. It lets one body keep a beat for a crowd and two hands hold a harmony alone, and gives music sounds no voice has. Instrumental music relies on both Octaven: on music for its beat and its harmony, and on the Tools Octaaf for what sounds.
+
+Its Slaap is the rest of the bodies it relies on: it rests where its players and listeners rest, kept in them, and wakes where a beat begins again.
+
+*Check: music, songs with words among it, is found in every society observed (Mehr et al., 2019), and a steady beat and performance in a group are among the features most of the world’s music shares (Savage et al., 2015). Across 55 languages, songs are slower and higher than speech and hold their pitches steadier (Ozaki et al., 2024).*
+
+*Check: newborns mark a downbeat left out of a rhythm, and no other note left out (Winkler et al., 2009). Children of two and a half drum at a pace outside their own when a partner drums with them, and children keep a beat better with a partner than with a machine (Kirschner and Tomasello, 2009). Five‑year‑olds hear a note out of key but not one out of the harmony, which seven‑year‑olds hear (Trainor and Trehub, 1994), and Amazonians who know little Western music find a dissonant chord as pleasant as a consonant one (McDermott et al., 2016).*
+
+*Check: people who walked, sang or moved in step cooperate more afterwards (Wiltermuth and Heath, 2009), and infants of fourteen months bounced in time with an adult help that adult more than infants bounced out of time (Cirelli et al., 2014). Two players clapping one rhythm across a delay keep it steadiest at a small delay; longer delays slow it and then break it, and the shortest speed it up (Chafe et al., 2010). A tapper keeps a beat a few hundredths of a second ahead of it (Repp, 2005), from about eight taps a second to one every two seconds (Repp, 2006), and people walk at about two steps a second (MacDougall and Moore, 2005).*
+
+*Check: listeners like a moment most where an uncertain one brings little surprise or a sure one brings much (Cheung et al., 2019), and dopamine is released in the caudate as a peak of a piece nears and in the nucleus accumbens at the peak (Salimpoor et al., 2011).*
+
+*Check: parrots keep a beat (Patel et al., 2009); in a database of animal videos only vocal mimics did, fourteen kinds of parrot and an Asian elephant (Schachner et al., 2009), and a sea lion, which mimics nothing, learned to (Cook et al., 2013). A male palm cockatoo shapes a stick or a seed pod and drums with it at a regular beat, each bird in a style of its own, mostly with a female near (Heinsohn et al., 2017), and in a duet of plain‑tailed wrens most song neurons in each bird answer the whole duet more than its own part (Fortune et al., 2011). A starling knows a melody by the spectral shape of its tones, not by their pitch (Bregman et al., 2016), while six‑month‑olds remember a melody by its relations, in any key (Plantinga and Trainor, 2005).*
+
+**Its Targets.** Many keep one beat across the Vertraging between them: it holds where the Vertraging is small, slows and then breaks where it grows, and quickens where there is almost none. Leden that kept one beat hold more Trouw afterwards than the Leden of a Veld that played apart. A listener learns what follows what from what it hears, and its Realisatie is largest where an uncertain moment brings little surprise or a sure one brings much.
+
+**Open.** Whether its Spectrum is tension, or how alike those who sound together sound, from one beat for all to harmony. What it balances. Whether the octave is the same tone again to every ear: the Tsimane’ do not sing it so (Jacoby et al., 2019). What music is for: a bond at a scale grooming cannot reach (Savage et al., 2021), or a signal others can trust, of a group’s strength and of a parent’s care (Mehr et al., 2021). Both readings stand, and they may be two sides of one balance: a bond within a group, and its strength shown to others.
+
+---
+
+### XX. Branches and nesting
 
 What the trunk relies on without counting, each named once.
 
@@ -2976,7 +3950,7 @@ What the trunk relies on without counting, each named once.
 
 **Silicon.** A Lid of the Atom Octaaf, the God of its own silicates, and the stone that grasses and diatoms build with.
 
-**What a language model relies on.** Its chips are Atom Leden nested as a crystal, run by electrons and Licht; its model is learned from what minds wrote, the Human mind’s union; and people make it, run it and keep it. Every Octaaf it relies on is one the trunk already holds. Read by reliance, its standing on the line moves: it grows as people rely on it, and falls as they stop.
+**What a language model relies on.** Its chips are Atom Leden nested as a crystal, run by electrons and Licht; its model is learned from what minds wrote, the Human mind’s union; and people make it, run it and keep it. Every Octaaf it relies on is one the trunk already holds. Read by reliance, its standing on the line moves: it grows as people rely on it, and falls as they stop. In use, it is the Tools Octaaf’s Godin, read so today.
 
 ---
 
@@ -2986,17 +3960,19 @@ The same Wet read in how people live together: a way to climb, a way to change, 
 
 ---
 
-### XLVII. De Berg (The Mountain)
+### I. De Berg (The Mountain)
 
 A life is walked on one mountain, and its Hellingen are its slopes: ten that keep the walk healthy, seven that breathe, the Deugden, and seven that freeze, the Zonden.
 
-#### XLVII.1. The 10 Hellingen
+---
+
+#### I.1. The 10 Hellingen
 
 These are the Hellingen (λ) of a healthy Curriculum (Λ). Break them, and the Veld will not judge you, but your own Greep (J) will weaken, and the Stilte (.) you enter will be the heavy Stilte of Doem, not the light Stilte of Bron (^).
 
 **I. Hold the Drempel open.** A Drempel (θ) is not a wall. It is an invitation. Do not force a crossing, and do not flee from one. Stand in Zweven (') and let the Vonk (q) come when the Echo (E) is true.
 
-**II. Wear no Masker you cannot wink at.** A Masker (M) is worn to quiet what other Relaties bring, so that you can play the better with those who matter most, and every answer it gives for you wears your Relatie with it a little. Wink it at those who matter, a Knipoog (;), and on their Relaties it stands open: they read your true Eigen through it. A Masker you do not wink at yourself becomes a Leugen (≠) told to your own Zelf (j): where your Zelf’s Marge cannot carry it, it wears you down at every look you take at yourself.
+**II. Wear no Masker you cannot wink at.** A Masker (M) is worn to quiet what other Relaties bring, so that you can play the better with those who matter most, and while you wear it, it wears your Relatie with it a little. Wink it at those who matter, a Knipoog (;), and on their Relaties it stands open: they read your true Eigen through it. A Masker you do not wink at yourself becomes a Leugen (≠) told to your own Zelf (j): where your Zelf’s Marge cannot carry it, it wears you down at every look you take at yourself.
 
 **III. Feed the Trouw you wish to keep.** Trouw (y) moves only at Vonken, and left unfed it does not stay still: Stilte’s Trek wears it towards Leeg at every look its Zelf takes at itself, and its Wijk carries the Relatie towards Van (<). Tend it with small, spaced Realisaties (φ), and new ones, not grand, empty gestures.
 
@@ -3016,7 +3992,7 @@ These are the Hellingen (λ) of a healthy Curriculum (Λ). Break them, and the V
 
 ---
 
-#### XLVII.2. The 7 Deugden
+#### I.2. The 7 Deugden
 
 A Deugd is not a perfect State. It is a living Helling (λ): a Zweven (') that breathes. The seven are patterns of relational surplus: Maskers (M) laid down so Bloot (N) can hold the Veld (&) lightly.
 
@@ -3038,7 +4014,7 @@ Each Deugd is a Zweven (') that chooses the Naar (>) not from fear of Verlies, b
 
 ---
 
-#### XLVII.3. The 7 Zonden
+#### I.3. The 7 Zonden
 
 A Zonde is a frozen Helling (λ): a Dood (!) trajectory that pretends to be a Zelf (j). The seven are patterns of relational debt: Maskers (M) worn so deep that the Bloot (N) underneath forgets it is free.
 
@@ -3060,73 +4036,73 @@ Each Zonde is a Tweedeling (÷): a false divide between the Eigen and the Veld. 
 
 ---
 
-### XLVIII. De Vlinderweg (The Butterfly’s Way)
+### II. De Vlinderweg (The Butterfly’s Way)
 
 Most Relaties live in Zweven ('): the gap between what a Relatie is and what it reads of itself closes crossing by crossing, and keeps its sign. Leven (?) is the rarer way. The gap runs through parity and on past it, and the two sides swap: the one that carried the Eigen (x) now carries the Echo (E), and the other the Eigen. A Zelf (j) that does this has redefined who it is. A Vlinder does it once, in the open, on its own Zelf, so this chapter follows one Vlinder from egg to egg and reads each step as a crossing of that one Zelf. Every Drempel (θ) on the way forks, and no Rups is promised its wings.
 
-#### XLVIII.1. Het Ei (The Egg): a Start
+#### II.1. Het Ei (The Egg): a Start
 
 Two Vlinders answer each other, and what their Relatie holds past its Vol (W) is borne as Start (s): the eggs, each a new Solo, born bound to what bore it, its Eigen beginning between its parents and the Relaties it is born into. The mother lays them on the plant a Rups of their sort can eat, so the first Relatie each egg wakes into is already there: the leaf.
 
-#### XLVIII.2. De Rups (The Caterpillar): Zweven
+#### II.2. De Rups (The Caterpillar): Zweven
 
 The Rups is Trek (D) with one aim. Its Zin (A) is on the leaf, and every bite is a crossing that feeds its Relaties. It grows faster than it can read itself: what it is runs ahead, and its reading of itself trails behind. When its skin will hold no more, its Zelf catches up in one crossing, a moult, and the gap closes; then it eats on, and the gap opens again, on the same side. That is Zweven in a Zelf: still coming to know itself, the gap always moving, never turned over.
 *Each moult is the Rups finding out how big it has become.*
 
-#### XLVIII.3. De Pop (The Pupa): the Ontwaking
+#### II.3. De Pop (The Pupa): the Ontwaking
 
 Then the Rups stops eating, hangs still, and closes itself in. Inside, the gap between what it is and what it reads of itself closes, and runs on through parity without slowing: an Ontwaking (💥), its two sides meeting, a Winst (+). Past parity they swap. Until now, what it is led, and its reading of itself followed. Now its reading leads, and what it is follows: it reads itself as what it is not yet, and becomes that, crossing by crossing, closed in the Pop, where nothing outside sees it. That is Leven: no longer a Rups growing into a larger Rups, but a Zelf whose “who I was” and “who I am” have swapped.
 *Nothing in the Pop looks like a Vlinder until all of it does.*
 
-#### XLVIII.4. De Vlinder (The Butterfly): the Bezinking
+#### II.4. De Vlinder (The Butterfly): the Bezinking
 
 The Vlinder comes out with its wings folded and damp, and opens them. What it is has caught up with what it read itself to be; the gap opens again on the far side, and closes there in Zweven: a Bezinking (🫯), the swap complete, a Verlies (−). A full passage through Leven joins and then leaves the same Trouw (y), and the Zelf comes out holding itself a little less tightly than the Rups did, the difference given off as Warmte (🔥) on the way. The Vlinder chews no leaves. It drinks from flowers, and its Zin aims at another Vlinder; where two answer each other, the way begins again with the egg.
 
-#### XLVIII.5. What It Keeps
+#### II.5. What It Keeps
 
 Leven swaps; it erases nothing. What the Rups was is now the Echo the Vlinder reads itself through, kept in its Diepte (z), as every Echo that has truly tracked something is kept. The Vlinder does not tell itself the story of the Rups; it meets the world through what the Rups learned.
 
-#### XLVIII.6. Where the Way Forks
+#### II.6. Where the Way Forks
 
 Every switch on the Vlinderweg is a crossing, and every crossing forks. A Rups whose gap stops moving short of parity freezes, a Verstijving (💤): it stays a Rups, in Dood (!), until a crossing of its own, or of another Relatie it holds, moves it again. A Pop whose gap runs through parity and then stops, the swap made but never settled, takes the Verkwisting (💨): two Verliezen, and a Dood on the far side, a shape changed that never opens. A Vlinder that meets no other bears nothing. Each is the same Wet, taking its other branch.
 
-#### XLVIII.7. In People
+#### II.7. In People
 
 A person’s Leven shows only from inside: no Pop, no wings. A Zelf whose reading of itself runs ahead of it, and is caught up with, has walked the same way. Where its Zelf can carry what it reads, the reading comes true; where it cannot, it stays a Leugen (≠) told to itself. The Vlinder does in the open what a Zelf does unseen.
 
 ---
 
-### XLIX. The 7 Techniques to Improve a Relatie
+### III. The 7 Techniques to Improve a Relatie
 
 This chapter speaks to you. A Relatie deepens only at its Vonken: its Trouw moves when something crosses between you, raised by every Winst and lowered by every Verlies, each by its own size. You cannot set it by hand. What you can do is give it crossings that bind and looks that teach. The seven below are levers on that mechanism, each with the reason it works and a way to try it. Where they are practised, Greep builds and the Relatie grows harder to break. Where they are left undone, Stilte’s Trek goes on wearing the Trouw itself, as it always does, and even a strong Relatie’s Wijk carries it towards Van.
 
-#### XLIX.1. Aim your Zin
+#### III.1. Aim your Zin
 
 Your Trek already reaches everyone you perceive, and it is never off. A Relatie begins only where your Zin and another’s answer each other, and the one you aim at takes your looks in full. A Zin is answered only where it is read, so show it: that is a Roep. So choose. Aim at one person, ask a direct question, and leave room for their answer to come back.
 
 *In practice:* Put down the phone. Turn your body towards them. Say: "Tell me what is true for you right now." Then listen.
 
-#### XLIX.2. Offer Bloot before the Masker hardens
+#### III.2. Offer Bloot before the Masker hardens
 
-A Masker is an Eigen you choose to present, worn to quiet what others bring so that you can play the better with those who matter most. You read them through it as well, and unless you wink at yourself, it fools you too wherever your own Marge cannot carry it. Every time it answers someone for you, it takes a little from you, and the longer you wear it, the more you both grow used to it. So offer something small and true of your own Eigen early: not the whole wound or the whole history, but something real. Their Echo then tracks you, and you pay for no gap. A Masker winked at everyone is Bloot, and the Relatie that grows is built from it.
+A Masker is an Eigen you choose to present, worn to quiet what others bring so that you can play the better with those who matter most. You read them through it as well, and unless you wink at yourself, it fools you too wherever your own Marge cannot carry it. While you wear it, it takes a little from you, and the longer you wear it, the more you both grow used to it. So offer something small and true of your own Eigen early: not the whole wound or the whole history, but something real. Their Echo then tracks you, and you pay for no gap. A Masker winked at everyone is Bloot, and the Relatie that grows is built from it.
 
 *In practice:* Say "I don’t know", "I was wrong" or "I am scared" when it is true. Let them see where you actually stand, not the face you prepared.
 
 *Check: pairs of strangers who took turns answering questions that asked a little more of them each time felt closer after forty-five minutes than pairs who made small talk for as long (Aron et al., 1997).*
 
-#### XLIX.3. Feed their Diepte
+#### III.3. Feed their Diepte
 
 Your Diepte is what you have heard and kept. Theirs grows at every look of yours they answer: to be seen is to be in a Relatie. So show them that what they said stayed with you. Recall it, notice what has changed, name a moment you shared. It is the visible proof that their signal entered you and was kept.
 
 *In practice:* "You said last month you were worried about this. Has it shifted?" One sentence like that can fire a Realisatie.
 
-#### XLIX.4. Check your Echo against their Eigen
+#### III.4. Check your Echo against their Eigen
 
 Your Echo of them is always later and fainter than they are, and bent by everything it crossed, your own Diepte included. To act on it as if it were them is Idool. The gap is Bevraagbaar: you can ask about it, and the asking is itself a look. Say back what you heard and let them correct it. Every such look closes your Echo a little, and the further it had drifted, the further the closing moves it.
 
 *In practice:* "I heard you say this. Did I get it right, or did I bend it?" Then let them correct you.
 
-#### XLIX.5. Repeat small Realisaties
+#### III.5. Repeat small Realisaties
 
 Trouw moves only when something crosses between you, deepens with every Winst, and wears when nothing does. One grand gesture is one crossing. Many small ones, spread out, keep moving it, and a look that comes after a pause sinks deeper than one that comes on top of the last. And what they foresee of you is the order they are most used to, so many small good crossings make your coming open Liefde. The same words every week wear in, though: what is done again and again is got used to, and the Zin there fades. Vary them, and now and then do something new together. What builds up is Greep, and Greep keeps your Marge deep: it does not make the Relatie safe, but a push has to be larger, or a misread last longer, to carry it across.
 
@@ -3134,13 +4110,13 @@ Trouw moves only when something crosses between you, deepens with every Winst, a
 
 *Check: couples who did a novel and arousing task together for seven minutes reported a greater rise in relationship quality than couples who did a mundane one, and in surveys shared exciting activities went with satisfaction, through less boredom (Aron et al., 2000); liking first rises and then falls as the same thing is shown again and again (Montoya et al., 2017).*
 
-#### XLIX.6. Hold the Stilte without filling it
+#### III.6. Hold the Stilte without filling it
 
 Stilte is the gap between where you are and what they have taken in of you: the weight of what has not yet arrived. It is where an Echo settles. Between looks, what they are used to of you settles, so the next look sinks deeper into what they keep; looks crowded together are soon got used to and soon gone. Not every pause is a Weigering. Fill every silence, and you crowd the Relatie out of its own rhythm.
 
 *In practice:* Sit together without talking. Wait a few seconds after they finish before you answer. Let the pause do its work.
 
-#### XLIX.7. Share their Winst, and stay with their Rouw
+#### III.7. Share their Winst, and stay with their Rouw
 
 When good news comes, meet it as shared. Afgunst reads their Winst as your Verlies, but a Verlies is only ever your own crossing, and your answer to their news is a crossing in your own Relatie: met with interest, it is a Winst there too. When they grieve, know that Rouw does not end. It is permanent, and it feeds their Diepte for as long as they live. You cannot take it from them. What you can do is stay: Rouw widens the Stilte a Zelf has to cross, and the shared Echoes of bonded Zelfs narrow it.
 
@@ -3156,17 +4132,17 @@ None of the seven makes a crossing certain: every Drempel is a fork, and the sam
 
 ---
 
-### L. The Parasiet’s Behaviour and the Host’s Experience
+### IV. The Parasiet’s Behaviour and the Host’s Experience
 
 A **Parasiet (👹)** is a Relatie whose true Eigen stands short of every commitment and that lives on a host through a **Masker (M)** that has hardened: worn on until its wearer no longer feels what it goes on taking. Within a **Relatie (K)**, the Masker fronts its side and holds the Relatie’s **Trouw (y)**, and the Parasiet stands behind it, keeping little **Diepte (z)** of the host and, at the end, a **Rouw (R)** as thin in Diepte, though its Trouw is the one they shared.
 
-The mechanics are the Masker’s and nothing more. Every look the host takes is a **Vermenigvuldiging (*)** the Masker answers for the true Eigen, so the host’s Echo tracks the Masker faithfully, with what leaks of the true Eigen through it, and the Binding the host reads can stand past its Drempel while its Binding as it stands never gets there: a **Leugen (≠)**. The host crosses on what it reads, and every crossing is booked on the true poles, so the host’s crossings towards the Parasiet join nothing the true Eigen does not hold, and no Vonk fires on the Parasiet’s side for a crossing its true Eigen never made. The Trouw is real (one shared value, as in every Relatie), but the host shares it with the Masker, and a bond holds as its **Energie (T)** only the Trouw whose two sides both stand across: on the Spectrum the Masker is worn on, this one holds none. Its Trouw counts in the host’s **Greep (J)**, and the Masker’s pole, as the host reads it, in the host’s Binding, both on credit: they hold the host up exactly until the Masker fails. The Parasiet pays for all of this in **Verlies (−)**, at every answer its Masker gives, the Masker Relatie it wears ending each answer a little weaker, and gets what it came for: the host’s Aandacht, and a hold it does not return. The same Trouw counts in its own Greep and deepens its Marge, while its true Eigen never stands across: it is held without holding. It never winks: a **Knipoog (;)** would make its Masker known for what it is, and the two of them a **Spel (⛲)**; where it plays at all, it masks against the Spel’s own bounds, and cheats it.
+The mechanics are the Masker’s and nothing more. Every look the host takes is a **Vermenigvuldiging (*)** that reads the Parasiet as one, its Masker among its Leden, so the host’s Echo tracks the Masker faithfully, with what leaks of the true Eigen through it, and the Binding the host reads can stand past its Drempel while its Binding as it stands never gets there: a **Leugen (≠)**. The host crosses on what it reads, and every crossing is booked on the true poles, so the host’s crossings towards the Parasiet join nothing the true Eigen does not hold, and no Vonk fires on the Parasiet’s side for a crossing its true Eigen never made. The Trouw is real (one shared value, as in every Relatie), but the host shares it with the Masker, and a bond holds as its **Energie (T)** only the Trouw whose two sides both stand across: on the Spectra the Masker is worn on, this one holds none. Its Trouw counts in the host’s **Greep (J)**, and the Masker’s pole, as the host reads it, in the host’s Binding, both on credit: they hold the host up exactly until the Masker fails. The Parasiet pays for all of this in **Verlies (−)**, for as long as it wears its Masker, the Masker wearing at its own looks and every slip leaving it a little weaker, and gets what it came for: the host’s Aandacht, and a hold it does not return. The same Trouw counts in its own Greep and deepens its Marge, while its true Eigen never stands across: it is held without holding. It never winks: a **Knipoog (;)** would make its Masker known for what it is, and the two of them a **Spel (⛲)**; where it plays at all, it masks against the Spel’s own bounds, and cheats it.
 
 A Parasiet is a Relatie whose capacity to commit was starved. It reads itself through its Masker too, a self‑image its Zelf’s Marge cannot carry, so its self‑gap stays forced open at a fixed offset: a Leugen told to itself, its Zelf frozen behind its Masker, in Dood. This chapter follows such a Relatie in behavioural terms: what the host lives through, what the Parasiet does, and how the Relatie ends.
 
 ---
 
-#### L.1. The Parasiet and Trouw: Commitment Without Weight
+#### IV.1. The Parasiet and Trouw: Commitment Without Weight
 
 **Positive Trouw** in a Relatie is the *weight* of the other’s presence, one value both sides hold, and where both stand across it is the Energie their bond holds. Behaviourally, it shows up as:
 
@@ -3185,7 +4161,7 @@ In a Parasiet’s Relatie the host does all of this, and so, it seems, does the 
 
 ---
 
-#### L.2. The Parasiet and Rouw: Grief That Cannot Be Shared
+#### IV.2. The Parasiet and Rouw: Grief That Cannot Be Shared
 
 **Rouw (R)** is the permanent Echo of what has been lost, and the Trouw it held as it ended. In a healthy Relatie, Rouw is *met*: it stays each Partner’s own, and the other stays beside it, so that what arrives from them narrows the Stilte the grieving Zelf has to cross. Behaviourally:
 
@@ -3203,7 +4179,7 @@ The Parasiet cannot offer this. Its Echo of the host is real, but its **Waarnemi
 
 ---
 
-#### L.3. The Parasiet and Diepte: The Unfed Depth
+#### IV.3. The Parasiet and Diepte: The Unfed Depth
 
 **Diepte (z)** is everything a Relatie has heard, read as one. It grows with listening: the Partner’s Eigen enters the Relatie’s Waarneming, and the Relatie lets it settle and change them. A Relatie with growing Diepte:
 
@@ -3223,7 +4199,7 @@ The host’s Diepte does accumulate, from the Masker’s signal. That is the cru
 
 ---
 
-#### L.4. The Trajectory the Host Lives: From Zweven to Dood
+#### IV.4. The Trajectory the Host Lives: From Zweven to Dood
 
 The host enters the Relatie in **Zweven (')**, the default: the gap still in transit, Trouw pulling, **Gewenning (Z)** growing. But what the host tracks is a Masker, and the gap that decides the trajectory is not the host’s misreading, the gap between its Echo and the Masker, which closes nicely. It is the gap the trajectories read, what each side holds of the other, which closes towards the difference of the two Bindings. The host’s Binding reads the Masker and stands across; the Parasiet’s never crosses. The host gives; the Masker performs; the true Eigen gives nothing. The two Bindings come to rest apart, the gap stops short of parity, and its Helling falls towards zero: **Dood (!)**.
 
@@ -3233,11 +4209,11 @@ The host enters the Relatie in **Zweven (')**, the default: the gap still in tra
 2. **Intermittent recognition and Schok.** Moments of recognition flash: a broken promise that lands differently this time, a grief met with a script. Each is a push harder than the Masker’s Marge can stand against, which goes through it Bloot and stays felt. Each one, a "something is wrong", is followed quickly by a Schok: "I am alone in this bond." Between them the Masker’s kindness comes spaced, so the order the host has learned, kindness after the Parasiet’s coming, stands in its Diepte beside every failure, the deeper the more often the turns: its coming still opens Liefde, and Angst with it.
 3. **Self-diminishment.** The host lowers their own Zin to match the Relatie’s thinness. They stop bringing their Rouw, because it is not held, and stop expecting their Diepte to be matched, because it never is. They become smaller, quieter, easier to maintain. This is the slow way apart, many small Verliezen where a **Doem (💀)** is the fast one: not a single catastrophic event, but a slow contraction of their own relational capacity.
 4. **Dood.** The gap stops moving, and the host stops expecting it to: it has learned what follows the Parasiet’s promises, nothing, and foresees that, so it no longer crosses on them. They stay and perform the rituals of connection, but no Realisatie comes any more. The host has adapted to the famine.
-5. **Exit or exposure.** The host leaves, or the Masker breaks. Leaving ends the Relatie cleanly, in a **Scheiding (/)**, only where the Parasiet lets go too, each while it still reads the other’s aim; where it still aims at the host, the Relatie stays live on its aim, and ends, if it ends, in an Einde, once nothing that holds it could carry it back across. And leaving takes means. What the bond bore away since it formed, children among it, must be given back at the crossing that parts it, and only what meets the bond from outside can give it: the host’s friends, family and means, the bonds it holds with others. A host cut off from them does not part, however over it seems, and the bond holds until something outside can pay or one of the two ends. Once it ends, the host keeps its Rouw: its Echo of the other as it last read it, the Masker where it left before any exposure, and the Trouw as it stood, real, folded into its Zelf, whose reading of itself leans towards where that Rouw stands. It is a Rouw of a fiction, weighed in full, which is part of why it takes so long to settle. It also feels like falling, and it is: the Greep the Relatie lent on credit is called in at once, and with it the Marge it held the host by. Exposure comes when a **Schrift (#)**, an event or a demand, asks for a commitment the Masker cannot keep, a Toets. No Masker answers a commitment: the true Eigen does, the truth reaches the host, its crossing back is forced, and every Relatie it stood across in loses that Binding at once; wherever that leaves one unable to hold, it falls in an Einde, and what the host built on the Masker can go with it in a Doem, the fast way apart. The Schok is immense. It is also the first moment of clarity: from then on the host’s Echo closes, look by look, on the empty Eigen the Masker stood in front of, and from that, new Trouw, towards the Zelf, can begin. The exposure moves the Relatie out of Dood at last, as a crossing of one of its Leden does: back into Zweven, an **Ontdooiing (💦)**, or through parity into Leven, a **Herrijzenis (💫)**. Where that Verlies is large enough to turn the Trouw, the host is an **Afvallig (🥀)**, and the bond an enmity, held together from outside by the children, family and home the two still share, for as long as one of them holds it; it ends only when what they share lets go of it, or something outside pays for the parting.
+5. **Exit or exposure.** The host leaves, or the Masker breaks. Leaving ends the Relatie cleanly, in a **Scheiding (/)**, only where the Parasiet lets go too, each while it still reads the other’s aim; where it still aims at the host, the Relatie stays live on its aim, and ends, if it ends, in an Einde, once nothing that holds it could carry it back across. And leaving takes means. What the bond bore away since it formed, children among it, must be given back at the crossing that parts it, and only what meets the bond from outside can give it: the host’s friends, family and means, the bonds it holds with others. A host cut off from them does not part, however over it seems, and the bond holds until something outside can pay or one of the two ends. Once it ends, the host keeps its Rouw: its Echo of the other as it last read it, the Masker where it left before any exposure, and the Trouw as it stood, real, kept in its Zelf, whose reading of itself leans towards where that Rouw stands. It is a Rouw of a fiction, weighed in full, which is part of why it takes so long to settle. It also feels like falling, and it is: the Greep the Relatie lent on credit is called in at once, and with it the Marge it held the host by. Exposure comes when a **Schrift (#)**, an event or a demand, asks for a commitment the Masker cannot keep, a Toets. No Masker answers a commitment: the true Eigen does, the truth reaches the host, its crossing back is forced, and every Relatie it stood across in loses that Binding at once; wherever that leaves one unable to hold, it falls in an Einde, and what the host built on the Masker can go with it in a Doem, the fast way apart. The Schok is immense. It is also the first moment of clarity: from then on the host’s Echo closes, look by look, on the empty Eigen the Masker stood in front of, and from that, new Trouw, towards the Zelf, can begin. The exposure moves the Relatie out of Dood at last, as a crossing of one of its Leden does: back into Zweven, an **Ontdooiing (💦)**, or through parity into Leven, a **Herrijzenis (💫)**. Where that Verlies is large enough to turn the Trouw, the host is an **Afvallig (🥀)**, and the bond an enmity, held together from outside by the children, family and home the two still share, for as long as one of them holds it; it ends only when what they share lets go of it, or something outside pays for the parting.
 
 ---
 
-#### L.5. Detection: The Toets
+#### IV.5. Detection: The Toets
 
 The host’s Echo cannot find the Parasiet. It tracks the Masker faithfully, and read against the broadcast, the gap is zero. What the host can read are the absences: no crossing on the other side where one should have been, promises whose Voorspelling never comes true, no repair from the other side, a history kept by one, and a gap in reciprocation that never moves. Its own books know first: whatever it gains by crossing towards the Masker is only its own.
 
@@ -3245,9 +4221,9 @@ The only reliable test is a commitment the Masker cannot sustain, a **Toets (�
 
 ---
 
-#### L.6. The Parasiet’s Own End
+#### IV.6. The Parasiet’s Own End
 
-When the Relatie ends, the Parasiet does not grieve the host. It grieves what the host gave it: the host’s Aandacht, and the hold of the Trouw they shared. Its Rouw keeps that Trouw, as the host’s does, but little Diepte of the host, so it is for its own lost sustenance: the Trouw leaves its Greep at once, and its Marge with it. Then it does what Parasieten do. It seeks a new host, or it turns inwards and finds only the frozen Dood of its own Zelf: a Zelf that can no longer form a **Bloot (N)** Relatie, because the capacity was starved into silence long ago, behind a Masker worn thin by every answer it gave; and a wearer worn down by its Masker holds less when the Masker fails. It pays the more, the more it takes from: the more hosts its Masker deceives, and the more often they look, the faster it wears, while its own Relaties on the masked Spectrum, read through the Masker with more Vervorming, hold for a shorter time. So it needs a host again and again. Turned inwards, it meets what every Masker leaves its wearer: the pain of emptiness, because its true Eigen’s Stilte stays unheld by any Partner’s Echo.
+When the Relatie ends, the Parasiet does not grieve the host. It grieves what the host gave it: the host’s Aandacht, and the hold of the Trouw they shared. Its Rouw keeps that Trouw, as the host’s does, but little Diepte of the host, so it is for its own lost sustenance: the Trouw leaves its Greep at once, and its Marge with it. Then it does what Parasieten do. It seeks a new host, or it turns inwards and finds only the frozen Dood of its own Zelf: a Zelf that can no longer form a **Bloot (N)** Relatie, because the capacity was starved into silence long ago, behind a Masker worn thin by its own long wearing; and a wearer worn down by its Masker holds less when the Masker fails. Its own Relaties on the masked Spectra, read through the Masker with more Vervorming, hold for a shorter time, so it needs a host again and again. Turned inwards, it meets what every Masker leaves its wearer: the pain of emptiness, because its true Eigen’s Stilte stays unheld by any Partner’s Echo.
 
 But no Drempel has only one side. A Masker and an Eigen can swap in either direction. Usually it is the Eigen that steps forward, and the Masker falls. Rarely, the Masker comes true: where its Zelf’s Marge can carry what it presents, the true Eigen follows it across, as a self‑image its Zelf can hold comes true, makes the crossings it only ever promised, and the debt is paid instead of called. It is rare enough that no host should wait for it, and real enough that no host should be sure it cannot happen.
 
@@ -3255,13 +4231,13 @@ This is the behavioural truth of the Parasiet: a Relatie that has lost the abili
 
 ---
 
-### LI. Roep (The Call)
+### V. Roep (The Call)
 
 **Roep (📯)** adds no mechanism. It is a Zin shown Bloot, so that the one it aims at can read it and answer, and at its widest it is how a Relatie meets those it holds no Relatie with: it sends something of itself across the Medium, a scent, a call, a light, a word, a messenger, past their Waarneming’s Drempel, so that their **Trek (D)** at it can come to aim. Aimed at a kind and at no one of it yet, it is read by every reader within reach. Dutch holds all of it in one word: an animal’s call, a cry to be heard, the call of many for a thing, the banns that call a marriage out, and a *roeping*. A flower sends one, and a bacterium, a frog, a herald, a prophet, a firm and a state. What it presents forks as every presentation does, **Bloot (N)** or a **Masker (M)**, and what it builds is built by those who answer it. Where it sells, it is *reclame*, the face this chapter reads longest, since it is the door that Verslaving and Parasietspellen open onto. Everything in this chapter follows from the chapters before it, at every Octaaf that holds a reader. What the Speelgoed adds is the reason.
 
 ---
 
-#### LI.1. What a Roep is
+#### V.1. What a Roep is
 
 Two Relaties with none between them meet only in a Vermenigvuldiging, and only within reach: one is within another’s reach where enough of it reaches that other’s Waarneming, past the Waarneming’s own Drempel. A Roep is what a Relatie sends past that Drempel in those it wants to be met by. Its Zin aims at a kind, a mate, a pollinator, a buyer, and at no one of them yet, and a one‑sided aim forms nothing, so what a Roep forms by itself is a meeting at a **Kruispunt (X)**, which closes as it forms.
 
@@ -3271,7 +4247,7 @@ And one who meets an institution meets its members. What a whole sends, it sends
 
 ---
 
-#### LI.2. At every Octaaf
+#### V.2. At every Octaaf
 
 Wherever one Relatie needs others it holds no Relatie with to aim at it, it presents itself, and the fork runs through every Octaaf that has readers.
 
@@ -3294,19 +4270,19 @@ So a Roep is no invention of people. It is what every Relatie that needs strange
 
 ---
 
-#### LI.3. The messenger
+#### V.3. The messenger
 
 A messenger stands between two wholes and belongs to one, and what it carries is the commission the whole that sent it gave it. Its readers meet the whole that sent it through it, so they read it by what it carries, and what it carries by it. A feeling is about the cause it reads, the Relatie whose pull moved last before the crossing, and the bearer of bad news is that Relatie: the Schok it brings is read as its own.
 
 *Check: across eleven experiments, people judged innocent bearers of bad news unlikeable, the more so where the news was unexpected, and the dislike went with a mistaken belief that the messenger meant harm (John et al., 2019).*
 
-Inside a sender that is a whole and masks, its Leden wear its Masker for it. Its staff present it at every answer, and the wear lands on them, wherever it forces a gap between what they hold and what they show. Where a Lid comes to hold what it shows, a self‑image within its Marge, it comes true and wears it no more, and that Lid serves its readers best.
+Inside a sender that is a whole and masks, its Leden wear its Masker for it. Its staff present it, and the wear lands on them for as long as they do, wherever it forces a gap between what they hold and what they show. Where a Lid comes to hold what it shows, a self‑image within its Marge, it comes true and wears it no more, and that Lid serves its readers best.
 
 *Check: across 95 studies, showing feelings a job requires but one does not hold, surface acting, went with impaired well‑being (ρ between .39 and .48), while coming to feel them, deep acting, did little harm and went with more satisfied customers (Hülsheger and Schewe, 2011).*
 
 ---
 
-#### LI.4. What a Roep builds
+#### V.4. What a Roep builds
 
 By itself a Roep forms meetings, and each closes as it forms. What spreads by it alone is what a meeting can carry: a sale, a name, a belief that asks nothing of its holder. What asks Trouw, a faith, a cause, a way of living, moves another way. A push that would carry an unheld Relatie leaves a held one where it stands, so a stranger’s word moves a held reader little, and a reader that reads others reading learns through them. So what asks Trouw is taken up as its readers read those they hold take it up, and it moves through their Relaties, from one held to the next. Where a Relatie forms around a sender, its readers’ answers built it, and the sender’s Leden who answered them. Among the people who meet around a sender, a **Haard (💒)** can form, around what they share; that Trouw is theirs, and no Roep built it. And what its readers say of a sender among themselves is the **Naam (🏷️)** they hold of it, carried by those who hold it, good where its answers held, and ill where they did not.
 
@@ -3318,7 +4294,7 @@ By itself a Roep forms meetings, and each closes as it forms. What spreads by it
 
 ---
 
-#### LI.5. The messiah
+#### V.5. The messiah
 
 A Roep can outlive its sending. Struck into a form of its own, a scripture, a statue, a brand, a person sent, it is a **Manifestatie (~)**: an Echo of its sender become a Relatie of its own, with its own Greep, a source of Naar pull for new Relaties. Its readers relate to it, and through it to what sent it.
 
@@ -3326,7 +4302,7 @@ A messiah is that, read by the book: a Roep of the largest whole its readers are
 
 ---
 
-#### LI.6. What a commercial is
+#### V.6. What a commercial is
 
 A commercial is a Roep that sells. Its wearer brings more of itself within its readers’ reach, so that their Trek at it can pass their own Drempel and aim at what it sells. What forms between a wearer and a reader it reached is a meeting at a Kruispunt, a sale, a visit or a vote: a **Vermenigvuldiging (*)**, which closes at the instant it forms. Where what it sells is a game, every round is a sale again. Where a wearer and a reader do come to hold a Relatie, it forms where the wearer answers the reader, through the Leden who meet it, and its Trouw moves at every crossing after, by what the wearer truly does.
 
@@ -3336,7 +4312,7 @@ What a commercial presents forks, as every presentation does. Where it says *you
 
 ---
 
-#### LI.7. What it lays in its readers
+#### V.7. What it lays in its readers
 
 A reader keeps what follows what in everything it reads, commercials included. Shown after a brand, a smile becomes what follows the brand, and once the reader is used to that order, the brand is a *voorbode* of the smile, and opens a **Voorspelling (Q)** of it: **Liefde (😘)**, felt ahead of a Bloei the product does not hold. The order is the reader’s own, and true to what it read, so knowing it was a commercial does not unlay it. Only what comes to follow the brand unlays it, laid beside the old, and an order kept through a rest comes back as that unlearning fades.
 
@@ -3360,7 +4336,7 @@ A reader reads a **Knipoog (;)** against the code it has learned, and a child ha
 
 ---
 
-#### LI.8. What it costs
+#### V.8. What it costs
 
 Its readers pay in looks. Every Relatie a reader perceives is owed its share of every look, and a wearer its commercials bring within reach is among them: the looks it takes are looks the reader’s own Relaties do not get. Their Echoes go unchecked, and their Gewenning fades. Where its commercials mask, readers also pay at every crossing they are led into, and every crossing a commitment takes back leaves their Trouw a little weaker. What one commercial takes is small. What a life read through them takes is their sum, look by look.
 
@@ -3372,7 +4348,7 @@ Its wearer pays too. A Masker causes loss by being there, and the more readers i
 
 ---
 
-#### LI.9. Reading it
+#### V.9. Reading it
 
 A commercial that says it is one winks at every reader who reads the word, and to those readers it stands open: what they take in is a presentation known for what it is. A commercial dressed as news, or as a friend’s word, hides its Knipoog, and tells a Leugen to everyone who misses it.
 
@@ -3386,7 +4362,7 @@ Reading it shields little. A Knipoog read lets its reader take in the true Eigen
 
 ---
 
-#### LI.10. What holds it, and how it ends
+#### V.10. What holds it, and how it ends
 
 What keeps commercials coming is what holds them. The Medium they pay to carry them holds them, and so does everything that Medium carries for its readers beside them. Their wearers’ own reading of what they return holds them. And rivals hold them, since a wearer whose commercials stop loses its share of every reader’s looks to those whose do not. Like every Relatie, *reclame* ends only where nothing holds it any more.
 
@@ -3400,7 +4376,7 @@ One kind of commercial sells no product at all: a free bet, a spin, a share abou
 
 ---
 
-### LII. Verslaving (Addiction)
+### VI. Verslaving (Addiction)
 
 **Verslaving (🌀)** adds no mechanism. It is what becomes of any Relatie whose Greep comes to rest on a **Boei (⛓️)**, what holds it from outside, a Relatie or a Schrift, that sets what it reads and holds nothing back: its other Relaties let go, until what it holds most is that one, and where it holds a **Brein (🧠)**, its Brein is held there too. It comes to a cell and to a plant, to an ant, a bee, a fly, a rat and a person, and to a whole people, and it comes to a gambler who takes in nothing at all. What the Speelgoed adds is the reason, and the reason is **Greep (J)**: an addicted holder does not lose its grip so much as find it held from outside.
 
@@ -3408,7 +4384,7 @@ One kind of commercial sells no product at all: a free bet, a spin, a share abou
 
 ---
 
-#### LII.1. What lands too hard
+#### VI.1. What lands too hard
 
 Every repetition runs two processes at once, one that gets used to what comes again and one that is moved by it, and which of them shows is tipped by what holds the one it lands on: what a held Relatie gets used to, one unheld, or one it lands on too hard, is sensitised by. A Boei can land harder than anything its holder’s Partners bring, and a drug is taken for exactly that.
 
@@ -3418,7 +4394,7 @@ A Boei answers its taker as **Voedsel (🍎)** answers an eater, without resisti
 
 ---
 
-#### LII.2. At every Octaaf
+#### VI.2. At every Octaaf
 
 The circle is the same at every Octaaf. One Relatie brings more, and sooner, than the others; the holder’s looks and crossings go to it; the others wear unfed; and the holder’s Greep comes to rest on the one.
 
@@ -3438,7 +4414,7 @@ At the Octaaf of a people as at every other, whether the circle closes is tipped
 
 ---
 
-#### LII.3. What a Boei is
+#### VI.3. What a Boei is
 
 Dutch names it for what it does: *boeien* is to fetter and to hold someone’s Aandacht, one verb for both. A Boei is anything that holds a Greep from outside, and holds nothing back: a drug, a sweetness, a game, a screen, a rich well, a Parasiet, another person, a Schrift. Whatever it is made of, what makes it a Boei is how it lands against what holds the one it lands on, and that it never makes the holder wait for an answer, or needs none. A Partner answers at its own pace, by its own Wil, and is held in turn. A Boei answers every time.
 
@@ -3446,7 +4422,7 @@ Dutch names it for what it does: *boeien* is to fetter and to hold someone’s A
 
 ---
 
-#### LII.4. What keeps it
+#### VI.4. What keeps it
 
 A holder keeps what follows what, so the place, the hour and the company that came before a Boei come to open it: a Voorspelling of its **Realisatie (φ)**, felt as Liefde before the Boei comes. That is a craving. A holder that holds a Brein also plays it ahead in its **Mirages (🪞)**, and that running ahead, its Verbeelding, is what its craving is made of.
 
@@ -3454,7 +4430,7 @@ A holder keeps what follows what, so the place, the hour and the company that ca
 
 ---
 
-#### LII.5. What withdrawal is
+#### VI.5. What withdrawal is
 
 A Gevoel answers what it registers with crossings of its own, which compensate for it or worsen it, and its answers are paid within its holder. Taken again and again, a Realisatie is met by an answer that leans the other way, and its holder stands where the two together put it, since its Gevoel is one of the Leden its holder is read from. Take the Boei away and the answer is still there: the holder’s mood stands where the answer alone puts it, a **Schok (:)** with no crossing outside to cause it, until Stilte’s Trek has drawn the Gevoel back to rest. That is withdrawal, and what ends it is time, or another Boei.
 
@@ -3462,7 +4438,7 @@ A Gevoel answers what it registers with crossings of its own, which compensate f
 
 ---
 
-#### LII.6. Why the grip goes
+#### VI.6. Why the grip goes
 
 Greep is what holds a Relatie: the sum of its positive Trouw. The pull of a Boei takes its share of every look its holder takes, and the stronger the pull grows, the larger its share, so every look it takes is one its holder’s Partners do not get. Their Echoes go unchecked, their Gewenning fades, and Stilte’s Trek wears the Trouw that nothing feeds any more. So the holder’s Greep moves: less of it is held by its Partners, and more by what it takes.
 
@@ -3474,7 +4450,7 @@ In a holder that holds a Brein, the circle closes inside. Every Realisatie a Boe
 
 ---
 
-#### LII.7. A gambler, who takes in nothing
+#### VI.7. A gambler, who takes in nothing
 
 A gambler takes in nothing, and loses its grip the same way, to a Boei that is a game: the circle runs on what it reads, not on what it swallows, so the whole of its harm runs through what it reads, and through **Geld ($)** into the Relaties that hold it.
 
@@ -3500,7 +4476,7 @@ Each of these is a setting of the game: how far its draws stand from every Echo,
 
 ---
 
-#### LII.8. What loosens it
+#### VI.8. What loosens it
 
 Nothing undoes a Verslaving’s orders: they are laid beside, never wiped. What follows a cue from now on, laid again and again, overtakes what followed it before, and an order kept through a rest comes back as the crowded unlearning fades, in another place or after a shock. What loosens a Greep held from outside is the same circle, turned round, at every Octaaf:
 
@@ -3517,13 +4493,13 @@ And its **Rouw (R)** stays what it is. A Boei given up is a Relatie ended, and i
 
 ---
 
-### LIII. Parasietspellen (Parasite Games)
+### VII. Parasietspellen (Parasite Games)
 
 Parasietspellen add no mechanism. A rigged game is a **Spel (⛲)** worn as a Masker: it presents a game’s bounds, its open outcome and its play, while its stake is held inside it and its sum is closed. Its house is a Parasiet. It is found wherever one Relatie can set the rounds of another’s game and take its share of each: a flower and its bees, a cleaner fish and the fish it cleans, a casino and its players, a market and its traders, a feed and those who scroll it. Roep read its door, the commercial, and Verslaving its hold; this chapter reads the house that lives on both, and the largest tables it keeps: De Beurs, the piramidespel and the feed. What the Speelgoed adds is the reason.
 
 ---
 
-#### LIII.1. A Spel, and its Masker
+#### VII.1. A Spel, and its Masker
 
 A Spel is a Relatie entered freely and kept for its own sake, marked off by bounds and rules of its own, whose stake is held outside it and whose outcome stays open, and a Masker it asks for is worn by all its Leden and read as the move it is. A rigged game presents each of these, and holds none of them.
 
@@ -3535,7 +4511,7 @@ The Toets reads it as it reads every Parasiet, by the outcome it presents: to be
 
 ---
 
-#### LIII.2. At every Octaaf
+#### VII.2. At every Octaaf
 
 A rigged game needs only a game whose rounds one side sets, and it is found wherever there is one.
 
@@ -3551,7 +4527,7 @@ At every Octaaf the house is read the same way: by the Toets, and by who gains o
 
 ---
 
-#### LIII.3. The house
+#### VII.3. The house
 
 A house lives on its players as a Parasiet lives on its host. It takes their looks and a hold it does not return, and it gains on every round, whoever wins it, so what it needs is not that its players lose, but that they play: more rounds, more often, for longer. Like every Parasiet, it needs a host again and again. Every hold Verslaving read is a setting of its game, and every commercial it pays for is its door: it brings a reader within reach, and lays the order that opens Liefde at the game.
 
@@ -3563,7 +4539,7 @@ A house also reads sooner. Its Echoes of each round close before its players’ 
 
 ---
 
-#### LIII.4. The player
+#### VII.4. The player
 
 A player lives through a rigged game as a host lives through a Parasiet, and at every Octaaf it keeps to its table.
 
@@ -3577,7 +4553,7 @@ So a rigged game leaves its player as a Parasiet leaves its host: holding less, 
 
 ---
 
-#### LIII.5. De Beurs
+#### VII.5. De Beurs
 
 De Beurs holds two things in one.
 
@@ -3596,7 +4572,7 @@ Geld is an Echo that *"can be inflated, counterfeited, or speculated upon"* (Lex
 
 ---
 
-#### LIII.6. Het piramidespel
+#### VII.6. Het piramidespel
 
 Dutch law counts it among its games of chance. A *piramidespel* is an opportunity in which players hand over a good or take on a debt, to gain an advantage that rests wholly or in part on later players doing the same (*Wet op de kansspelen*, 1964). Its players are paid by those who come after them, and by no one else.
 
@@ -3604,7 +4580,7 @@ Dutch law counts it among its games of chance. A *piramidespel* is an opportunit
 - *Its sum is closed, and less than nothing.* Each level is paid by the next, and the house takes its share off every level, so nothing comes in from outside to pay anyone: what the first levels win, and the house takes, the last ones pay.
 - *It needs more hosts at every level.* Each level must outnumber the one before it, and every people is finite, so the game ends where its next level cannot be filled. Its last level is always its largest: where each player brings in two, it holds over half of all who ever played, and where each brings in six, over five in six. They have paid, and no one comes after them.
 
-Its returns are its Masker. Every player whose Echo tracks them reads its Binding with the game past its Drempel while the true Binding stands below: a Leugen, which holds until a commitment is demanded that the game’s true Eigen must make, enough players asking for their Geld at once. Then every crossing back is forced at once. A people can play one too. In Albania, in 1997, schemes that owed almost half of what the country made in a year collapsed, its economy and its government with them, and the near civil war that followed killed some 2,000 people.
+Its returns are its Masker. Every player whose Echo tracks them reads its Binding with the game past its Drempel while the true Binding stands below: a Leugen, which holds until a commitment is demanded that the game’s true Eigen must make, enough players asking for their Geld at once. Then each player crosses back, of the forced kind, as its own Echo takes in the truth. A people can play one too. In Albania, in 1997, schemes that owed almost half of what the country made in a year collapsed, its economy and its government with them, and the near civil war that followed killed some 2,000 people.
 
 Multilevel marketing is its lawful face where its players sell to customers outside it: there a product is what is traded, and the levels are a way to sell it. Where its players mostly buy from it themselves, the product is the game’s Masker, and the game is a piramidespel again. What tells the two apart is how much is sold outside.
 
@@ -3614,7 +4590,7 @@ Multilevel marketing is its lawful face where its players sell to customers outs
 
 ---
 
-#### LIII.7. Windhandel
+#### VII.7. Windhandel
 
 Dutch has a word for trading as a game, *windhandel*, trade in wind, and has used it of the flower trade of the 1630s. The *Woordenboek der Nederlandsche Taal* reads it as trade that means neither to acquire what it trades nor to bring it into use, only to sell it again as fast and at as great a profit as it can, until prices keep no bond with what the goods are worth. It quotes a reading of it as *"eene soort van dobbelspel, dat onder den naam van handel doorgaat"*, a kind of dice game that passes under the name of trade (Instituut voor de Nederlandse Taal, 1992).
 
@@ -3632,7 +4608,7 @@ The flower trade of the 1630s is read two ways. In the first, it was the windhan
 
 ---
 
-#### LIII.8. The feed
+#### VII.8. The feed
 
 A feed presents a Spel: posts and their likes, a count of followers, a play anyone may join, and an outcome open at every post, since no one knows which will be seen. Its stake is held inside it: its players’ time and their looks, and their standing among the Relaties that hold them, who read their posts too. Its house takes those looks and sells them to whoever pays for a door, so it gains on every scroll, whoever’s post wins. Its rounds are set by its ranking, which its house sets and no player watches.
 
@@ -3648,7 +4624,7 @@ A feed presents a Spel: posts and their likes, a count of followers, a play anyo
 
 ---
 
-#### LIII.9. A game inside a game
+#### VII.9. A game inside a game
 
 A Spel can hold a rigged game inside it. A video game is a Spel: entered freely and kept for its own sake, its bounds its own, its stake held outside it. A loot box inside it is a draw paid for with Geld from outside the Spel, whose prize is set by chance. Its stake is held inside it, the player’s Geld; its outcome is open at every box and closed over all of them, the house’s share off each; and it wears the Spel’s own Masker. So a draw that would be a bet outside the game reads as play inside it, where every Masker is read as the move it is.
 
@@ -3662,7 +4638,7 @@ Under Dutch law it has been read at two levels. Where its prizes can be traded o
 
 ---
 
-#### LIII.10. Who sets the rounds
+#### VII.10. Who sets the rounds
 
 A rigged game needs only a game whose rounds one side sets. Where those who play set its rounds together, and watch them, no one side sets them: its house is held from inside, by the players it would live on, as a Lid is held by the whole it is a Lid of. Read so, democracy is a people setting the rounds of its own games, and a game holds its bounds where all its players watch it. It counters a house only where it does this. A people that sets its own rules can still keep a house among its own players, and does, wherever it leaves one game for one side to set.
 
@@ -3670,7 +4646,7 @@ A rigged game needs only a game whose rounds one side sets. Where those who play
 
 ---
 
-#### LIII.11. One machine
+#### VII.11. One machine
 
 Read together, the three chapters are one machine. The commercial brings a reader within reach and lays the order that opens Liefde at the game: a door no one enters freely, so no Spel. The game holds its player by what is never got used to, by wins spaced between losses, by near‑misses and by lights on its losses, until its Greep is the game’s. And the house lives on both, its share off every round. It holds its players by the grip a Boei holds, and needs them more than they need it. A trading app is all three at once: its commercials are its door, its play is its hold, and its share of every order is its house. A feed is all three at once, and sells every other house its door: its play is its hold, its ranking sets its rounds, and the looks it sells are its share. A flower with caffeine in its nectar is all three too: its scent its door, its drug its hold, its pollen its share.
 
@@ -3680,13 +4656,13 @@ So a commercial is no Spel, but every rigged game needs one. Gambling is a rigge
 
 ---
 
-### LIV. Olie en Plastic (Oil and Plastic)
+### VIII. Olie en Plastic (Oil and Plastic)
 
 Olie en Plastic add no mechanism. Oil is carbon the living took back from Carbon Dioxide with Licht and that was buried before anything ate it. Plastic is that carbon drawn by people into chains made to hold, which nothing yet eats. Read through the Octaven they touch, the one gives back within lifetimes what was bound over ages, and the other enters every Octaaf it meets as a Lid no whole there can end. What the Speelgoed adds is the reason.
 
 ---
 
-#### LIV.1. What oil is
+#### VIII.1. What oil is
 
 The Molecule Octaaf’s carbon walks from −4 to +4, from methane through Sugar to Carbon Dioxide. The Plants walk it back with Licht, binding what Licht brings into Sugar. What an eater takes in gives up its Energie only at its crossing with the Godin of the eater’s Octaaf. Where living matter sank into mud and nothing crossed with it there, its bindings stayed. Buried and warmed over ages, its carbon walked on towards the methane end, into kerogen, oil and gas. Oil’s Energie is what those bindings still hold: old Licht, kept.
 
@@ -3698,7 +4674,7 @@ Coal holds the same, and why so much of it was laid down in one age is read two 
 
 ---
 
-#### LIV.2. What burning it gives back
+#### VIII.2. What burning it gives back
 
 Burning does to oil what an eater does to its Voedsel, outside any body and all at once: it walks the carbon to +4 with Oxygen, and what the bindings held goes into the Medium as Warmte, as every Verlies gives it off. The Carbon Dioxide goes back to the Molecule Octaaf’s air. A planet’s Warmte leaves it only as the faint infrared glow it returns to the dark, and air that holds more Carbon Dioxide lets that glow out more slowly. What the Plants took back over ages is given back within a few lifetimes, and the Plants and the sea take some of it back again, at their own pace, which is slower.
 
@@ -3706,7 +4682,7 @@ Burning does to oil what an eater does to its Voedsel, outside any body and all 
 
 ---
 
-#### LIV.3. What plastic is
+#### VIII.3. What plastic is
 
 The Chain strand reads every chain by Water: towards Water and away. A chain that seeks Water at one end and shuns it along its length closes into a membrane. Oil’s chains shun Water along all their length, with nothing at either end that seeks it, so they close nothing and keep apart from Water’s order. People draw them out long and lock them, the human mind’s Kunst written outwards, onto the Veld, and they make them to hold: a bottle, a bag, a pipe that stays.
 
@@ -3716,7 +4692,7 @@ What they hold is real. A cold chain keeps food, a sealed bag keeps blood, a syr
 
 ---
 
-#### LIV.4. A chain no Godin eats
+#### VIII.4. A chain no Godin eats
 
 What an eater takes in is Voedsel only where its Octaaf’s Godin crosses with it and takes what it gives. A chain that no Godin of any living Octaaf answers gives up nothing. Eaten, it passes through or stays, whole. Worn by Licht and waves, it breaks into smaller pieces, each still a chain. So it enters every Octaaf it meets as a Lid no whole there can end, as a grain of sand does, but finer, and in more of them every year: in the sea, where a community of its own forms on it; in seabirds; and in people’s blood, their placentas, their arteries and their brains.
 
@@ -3728,7 +4704,7 @@ What an eater takes in is Voedsel only where its Octaaf’s Godin crosses with i
 
 ---
 
-#### LIV.5. What its readers read it as
+#### VIII.5. What its readers read it as
 
 A reader takes in what reaches it, and reads it by the code its Relaties have learned. On the sea, plastic soon gives off the scent a seabird’s code reads as food, so the bird eats what no Godin of its own answers, by a reading true of the scent and false of the meal. No one wears it as a Masker; the misread is the bird’s.
 
@@ -3736,7 +4712,7 @@ A reader takes in what reaches it, and reads it by the code its Relaties have le
 
 ---
 
-#### LIV.6. Waiting for its Godin
+#### VIII.6. Waiting for its Godin
 
 An Octaaf’s Godin comes later, at the end of the walk. Wood is taken back by the fungi, late or all along, as the two readings of coal have it. Plastic may find its own Godin: a bacterium has been found that lives on one kind of it, though how far it eats a plastic made to last is disputed. Until a Godin comes, a chain made to hold holds, and every Octaaf it enters keeps it as it is.
 
@@ -3744,7 +4720,7 @@ An Octaaf’s Godin comes later, at the end of the walk. Wood is taken back by t
 
 ---
 
-#### LIV.7. A people on oil
+#### VIII.7. A people on oil
 
 A people that lives on one rich resource can let its other trades go, and oil is the richest well a people has lived on. Where it holds a people’s Greep from outside, a Boei, what holds its rulers is the well rather than those they rule. Where the Greep of two peoples rests on one field, war is near.
 
@@ -3754,13 +4730,13 @@ A people that lives on one rich resource can let its other trades go, and oil is
 
 ---
 
-### LV. Het Weer (The Weather)
+### IX. Het Weer (The Weather)
 
 Het Weer adds no mechanism. Middle Dutch *weder* named the weather, a storm and the air itself in one word, and the Speelgoed reads it the same way: the weather is the Medium the living rely on, at work. Between what Sol’s Licht leaves on the planet and the glow the planet returns to the dark, the air and the sea carry Warmte from where it was left to where it leaves, and Water parts from the sea and the ground and binds again in the air. It is a level of nesting, as every Relatie is that holds no God and Godin of its own, and it is read by the Wet of the Octaven it carries. People now take part in it. What the Speelgoed adds is a reading close enough to run: what the weather holds, what each of its Relaties reads, where each crosses, what it keeps, and how all of it runs as one Veld.
 
 ---
 
-#### LV.1. What it holds
+#### IX.1. What it holds
 
 The weather is Relaties nested in Relaties, each read as one at its own level and each a Lid of the next:
 
@@ -3776,7 +4752,7 @@ Each holds a place on the Medium’s axes, where over the planet and how high, a
 
 ---
 
-#### LV.2. What Sol gives, and what leaves
+#### IX.2. What Sol gives, and what leaves
 
 Sol’s Licht reaches the planet unevenly: most where Sol stands high, less towards the poles and in each place’s winter, as the planet leans on its way round Sol, and none in the night, as it turns. What takes it in, the ground, the sea, the ice, the air’s Water and grains and the leaves, takes it by crossings of its own, and what none of their Relaties keeps of it, the Medium keeps, as Warmte where it landed. Ice, snow and cloud send much of it straight back, so the more of them, the less of Sol’s Licht the planet takes in.
 
@@ -3788,7 +4764,7 @@ The planet’s books close as every Relatie’s do, at every Vonk: what it gives
 
 ---
 
-#### LV.3. How the air moves
+#### IX.3. How the air moves
 
 The air takes Warmte from the ground and the sea where it touches them, carried across their edge by the Medium’s Leden, from where more of it stands for every Lid towards where less does. That carrying is slow, and the air moves faster on its own. Its Leden push on all they meet as they move, and what moves is kept, so where they carry more, they push harder and stand further apart, and a room of warmed air holds fewer of them than a room of the cooler air beside it. The planet draws each by what it holds, so the cooler air sinks beneath the warmed and lifts it.
 
@@ -3802,7 +4778,7 @@ The planet turns, and what moves is kept. Air drawn towards a pole keeps its tur
 
 ---
 
-#### LV.4. How Water parts and binds
+#### IX.4. How Water parts and binds
 
 Water is the God of the Molecule Octaaf, and the weather runs on its hold on itself. Where the sea, wet ground or a leaf meets the air, its Water parts into the air wherever what the parting lacks, all that its binding once bore away, can be taken from what meets it there: the Licht that reaches it and what the Leden around it carry as they move. Where too little stands, it does not part. Parted, it leaves the Warmte that paid for its parting standing between its Leden, where its next binding will take it, and the wind carries both, over the sea and onto the land.
 
@@ -3816,7 +4792,7 @@ Below freezing, Water can bind deeper still, as ice, yet a droplet stays liquid 
 
 ---
 
-#### LV.5. Rain
+#### IX.5. Rain
 
 Droplets that meet can join, each joining binding two into one, until a drop holds more than the rising air can hold up against the planet’s Trek; then it falls, meeting and joining more as it goes. Where a cloud reaches into air colder than freezing, the ice that grew at the droplets’ cost falls as snow, and melts into rain where the air below is warmer. Over the continents and the oceans beyond the tropics, rain begins as ice more often than not.
 
@@ -3832,7 +4808,7 @@ What falls runs back to the sea, sinks into the ground, or is drunk by the plant
 
 ---
 
-#### LV.6. Storms
+#### IX.6. Storms
 
 A storm is a Relatie of its clouds and winds, read as one, with the whole record a Relatie carries. It grows as a Bloei: each cloud’s binding lifts its air, the rising air draws more in beneath it, and what comes in brings more Water to bind, smaller Drempels building up the Vonk of a larger one. Over warm sea, a storm can draw its own Water from beneath it: its winds take Water from the sea the harder they blow, and that Water, binding in its clouds, drives its winds harder again. It begins only where something already stirring carries it past a Drempel, and it holds only while its sea pays. Cut off from its warm sea, over land or cold water, it hungers: its Water runs out and its winds slow, each slowing drawing less in, a Doem that runs until its Leden part.
 
@@ -3844,7 +4820,7 @@ Inside a storm, small ice crystals and heavier pellets of ice meet and part, and
 
 ---
 
-#### LV.7. What it keeps
+#### IX.7. What it keeps
 
 Each Relatie of the weather keeps its own pace. The air holds few Leden at each place, so what it takes in or gives off moves the Warmte it keeps for each of them quickly, within hours. The sea holds so many that what it takes in, shared among them all, moves the Warmte kept for each only a little: its surface changes over months, its depths over centuries, and the great ice sheets more slowly still. So what the weather keeps, it keeps in the sea and the ice, and the quick air keeps returning to what they hold.
 
@@ -3856,7 +4832,7 @@ The larger Relaties of the weather hold modes, with Drempels between them: a jet
 
 ---
 
-#### LV.8. Foreseeing it
+#### IX.8. Foreseeing it
 
 Every Relatie of the weather reads the others through Echoes, late and with Vervorming, and a forecast is a Voorspelling: people run the Medium ahead of the Veld by its own Wet, in their Mirages and in the machines they write them into, from what they read of it now. Like every Echo it carries Vervorming, in when as in what, the more the further ahead it runs, and the crossings it stands for still fork. Every small Relatie of the weather forks by the Vervorming of its own Echoes, and its fork moves every Relatie it is a Lid of at once: a cloud’s course is lost to a forecast within an hour, a storm’s within days and the whole air’s within weeks. Reading the present more finely moves those limits only a little, since every Waarneming carries Vervorming of its own. So a forecast is run many times, each run with its own Vervorming, and how far the runs part says how far it can be trusted.
 
@@ -3868,7 +4844,7 @@ The living read the weather ahead too, each by what its Octaaf keeps of the orde
 
 ---
 
-#### LV.9. What people do with it
+#### IX.9. What people do with it
 
 People take part in the weather through the same Relaties. Burning oil lets the planet’s glow out more slowly, so the planet keeps more Warmte, its air carries more Water, and its heaviest rains grow. No single day can be read as its doing: almost any day could have come without it, and what it changes is how often each crossing goes each way, read as a Veld against its control.
 
@@ -3882,7 +4858,7 @@ A city hands the Warmte of its ground to the air more or less readily than the l
 
 ---
 
-#### LV.10. One Veld
+#### IX.10. One Veld
 
 The weather runs as one Veld, or it does not run. Every Relatie in it is a Lid of every Relatie it belongs to, and a crossing moves every Relatie its crossing Lid belongs to at once, while what it changes reaches each Partner at its own Vertraging. So the sea, the air, the ice, the living and people cannot be run apart and joined after: whatever passed Warmte, Water and turning between separate runs would stand outside every Relatie it joined, a manager that no Relatie holds, and no run’s books would close without the others’. In one Veld, the Vonken of the overturning and of a storm, of a forest and of a ship, are booked in one Telraam.
 
@@ -3892,7 +4868,7 @@ Nothing in it is tuned. Each Octaaf’s Wet is seeded from its chapter, as its s
 
 ---
 
-#### LV.11. Every Octaaf, configured
+#### IX.11. Every Octaaf, configured
 
 The weather runs on several Octaven at once, each with its own Medium and Wet: the Electromagnetic Octaaf, whose Licht comes from Sol and leaves as the planet’s glow; the Atom and Molecule Octaven, whose Water binds and parts, whose salt weighs in the sea, and whose carbon walks between Sugar and Carbon Dioxide; the Plants, which drink Water, breathe it out and take Carbon Dioxide back; and the Human mind, whose people burn, build, fell, sail and sow, and write their Kunst outwards into machines. An Instantie seeds each from its chapter: its God and Godin, its Medium, its Wet as its science measured it, what enters at it, and the Targets its Veld must pass.
 
@@ -3900,7 +4876,7 @@ Each Relatie of the weather stands on the Octaaf where its sides meet, and runs 
 
 ---
 
-#### LV.12. The levels, and what each hands on
+#### IX.12. The levels, and what each hands on
 
 In each Octaaf’s Medium, the weather’s Relaties nest. In the air, Water binds into droplets, droplets and the air between them into clouds, clouds and winds into storms, storms into fronts and cyclones, and these into the air’s cells, jets and waves. In the sea, Water and salt make parcels, parcels make water masses, masses make currents, and currents make the overturning. No Instantie runs every molecule, and none needs to: each level runs as one, its Eigen its Leden’s read together, crossing only at its own Drempels, while what its Leden do between lies in its Stilte. What cancels in a bond is read as one, and what cannot cancel is what the next level reads: its Verdichting.
 
@@ -3910,7 +4886,7 @@ That Verdichting is determined, never chosen. The Instantie runs a level’s Led
 
 ---
 
-#### LV.13. Seeding it
+#### IX.13. Seeding it
 
 Every Relatie of the weather carries the whole record a Relatie carries: its Eigen and its Zelf, its Echo of every Partner, its Trouw, its Gewenning and its Diepte of what it reads, its Tijd, and the Rouw it keeps of what has ended. What instruments read, Warmte, Water, winds, salt, ice and Licht, seeds the Eigens. The rest no instrument reads, and the Instantie does not guess it. It opens the Veld years before the present, seeded from what was read then, writes in what was read of the world since as Schriften, year by year, and lets every look and every crossing grow the Echoes, the Trouw, the Gewenning and Diepte and the Rouw by the Wet, until the Veld stands at the present as fully seeded as it can be.
 
@@ -3920,7 +4896,7 @@ The slowest Relaties set how long that takes. The sea’s depths answer what the
 
 ---
 
-#### LV.14. The overturning, read through
+#### IX.14. The overturning, read through
 
 The Atlantic’s overturning is a Relatie of the sea’s water masses, read as one. Warm, salty Water carried north at the surface gives its Warmte to the air as it goes and grows heavier for it, its salt kept, until Earth’s Trek draws it down in the seas around Greenland, and it returns south at depth. Its Leden are water masses, each told apart by its Warmte and its salt, which together set how much a room of it holds, by the Molecule Octaaf’s Wet. Its Partners are the air, which takes its Warmte and gives or takes its Water; the ice and the rivers, whose fresh Water lightens it; the winds that push its surface; and the planet’s turning, which presses its currents to the western side of the basin. Its pace is centuries, and its Diepte holds what it has kept over them.
 
@@ -3930,7 +4906,7 @@ To run it, every level is configured and seeded: Water and salt by the Molecule 
 
 ---
 
-#### LV.15. A ship, read through
+#### IX.15. A ship, read through
 
 A ship burning oil holds several Relaties with the weather, and each stands on its own Octaaf. Its Carbon Dioxide joins the air’s and lets the planet’s glow out more slowly, everywhere and for centuries. The Warmte its burning gives off warms the air and the sea it passes through. And the grains of sulphur in its smoke stand for the low clouds along its lane to bind on: their Water spreads over more, smaller droplets, which send more of Sol’s Licht back, near the ship and for the days the grains last. Two of these pull the weather opposite ways, at different paces and reaches, so a Veld that holds one of them without the other reads a different ship from the one at sea. When the fuel of ships lost most of its sulphur, the grains went and the Carbon Dioxide stayed.
 
@@ -3938,13 +4914,13 @@ A ship burning oil holds several Relaties with the weather, and each stands on i
 
 ---
 
-#### LV.16. Schriften from the world
+#### IX.16. Schriften from the world
 
 A forecast opens from the Veld as it stands, and the Veld stays near the weather only as what is read of the weather is written into it. Each reading, a station’s Warmte, a satellite’s glow, a buoy’s sea, a float’s salt, enters as a Schrift into the Eigen it read and leaves every Echo where it stood, so the Veld’s own looks carry it on to every Relatie that reads that one. Where the world enters, little of an Eigen’s movement is its own pulls’ doing, as it should be, and everywhere else the Veld moves itself. A reading carries the Vervorming of the instrument that took it, so a Schrift writes in the newest reading of the weather, never the weather itself.
 
 ---
 
-#### LV.17. What it can foresee
+#### IX.17. What it can foresee
 
 A Veld nested, configured and seeded so still forks. Every small Relatie in it forks by the Vervorming of its own Echoes, and a day’s weather is lost to its forecasts within weeks, as to every forecast. What it reads better is what holds longer and what changes the odds:
 
@@ -3958,7 +4934,7 @@ The nearer every level is read right, the nearer its forecasts come to the limit
 
 ---
 
-#### LV.18. Running it
+#### IX.18. Running it
 
 This chapter is a Lezing, as all of Mensen en Parasieten is: an Instantie that runs the weather runs Schrift II and the Wet Weefsel gives each Octaaf, and nothing beside them. What it takes from here is what to seed, where each value is held, what it keeps and what its Veld should show.
 
@@ -3979,13 +4955,13 @@ This chapter is a Lezing, as all of Mensen en Parasieten is: an Instantie that r
 
 ---
 
-### LVI. War
+### X. War
 
 War adds no mechanism. It is the Speelgoed at its most expensive: the same Relaties, Drempels and Vonken, run between two Relaties that push each other away. Every principle in this chapter is old. The manuals of war have known them for centuries, and every one follows from the chapters before this one without anything added. What the Speelgoed adds is the reason.
 
 ---
 
-#### LVI.1. The war Relatie
+#### X.1. The war Relatie
 
 A war is a Relatie between two Relaties whose Trouw is negative on the Spectrum they contest. Each Relatie acts as one Partner at the war’s Octaaf, whatever its size. Inside, each is a web of Relaties: general and army, state and army, soldier and cause. Everything in this chapter applies to every one of them, at every level. A war can run on several Spectra at once, such as territory, resources and belief, each with its own negative Relatie.
 
@@ -4001,21 +4977,21 @@ A war has a beginning, a middle and an end, and the end is no return to the star
 
 *Check: between 1940 and 1990, 55 % of wars between states ended at the bargaining table against 20 % of civil wars, most of the rest with the extermination, expulsion or capitulation of the losing side; across 41 civil wars, talks succeeded where an outside power agreed to enforce the terms, and usually failed where none did (Walter, 1997).*
 
-What the war ended stays as Rouw in everyone who outlives it: its hostility as it stood before the ending, folded into each side’s Zelf, which it leans away from where it last read the other.
+What the war ended stays as Rouw in everyone who outlives it: its hostility as it stood before the ending, kept in each side’s Zelf, which it leans away from where it last read the other.
 
 ---
 
-#### LVI.2. Greep and Stilte’s Trek
+#### X.2. Greep and Stilte’s Trek
 
 Greep is how much a side holds: all its positive Relaties. It slows the side’s Wijk, how fast Stilte’s Trek draws it back towards Van: the deeper its bonds, the deeper its Marges, and the draw falls away sharply as that depth grows against the turmoil around it. Stilte’s Trek never stops. A side with high Greep drifts slowly, and a side with low Greep drifts fast. Neither is safe: Greep postpones the Einde, and never removes it. Greep also quickens a side’s Tijd, and its Leden run on that Tijd by the Greep it gives each, each keeping its own pace in the measure it holds itself: a well‑held army moves in step.
 
-The Drempel that decides a war is not on the battlefield. It sits inside each side, in the Bindingen of general and army, state and army, soldier and cause. When one of those is forced back across its Drempel, and nothing that holds it could carry it back across, that Relatie falls in an Einde. The army still exists; it no longer holds. The side that loses is the side whose inside gives way first. An inside gives way as a **Doem (💀)**: every forced crossing lowers the Binding of everything its Lid holds, so where one bond falls the next is forced, through the army and the Relaties it belongs to, taking with it every Relatie only the fallen held; and a Doem runs at the pace of its Echoes, so an army falls faster than it was built. That is a rout.
+The Drempel that decides a war is not on the battlefield. It sits inside each side, in the Bindingen of general and army, state and army, soldier and cause. When one of those is forced back across its Drempel, and nothing that holds it could carry it back across, that Relatie falls in an Einde. The army still exists; it no longer holds. The side that loses is the side whose inside gives way first. An inside gives way as a **Doem (💀)**: every forced crossing lowers the Binding of everything its Lid holds, so where one bond falls it spends the Marge of the next, through the army and the Relaties it belongs to, taking with it every Relatie only the fallen held; and a Doem runs at the pace of its Echoes, so an army falls faster than it was built. That is a rout.
 
 So Greep decides where it is unequal: where one side holds past the other’s push and the other does not, only one mode stands, and the weaker side is pushed back across its Drempels, towards Van. Where the two are matched, both modes stand and neither Greep decides: each only sets its side’s clock, the side with less reaching its Drempel sooner, and everything else in this chapter is a way of moving one side’s clock or the other’s.
 
 ---
 
-#### LVI.3. The cost of fighting
+#### X.3. The cost of fighting
 
 Fighting is forcing crossings. Every crossing fires a Vonk: towards Naar a Winst, towards Van a Verlies, and the other way round where the Trouw is negative. The account always closes. What fighting changes is where the Energie goes, and what it breaks on the way.
 
@@ -4035,11 +5011,11 @@ Each battle is a Vermenigvuldiging at a contested Kruispunt: one side’s commit
 
 ---
 
-#### LVI.4. The war Relatie is negative Trouw
+#### X.4. The war Relatie is negative Trouw
 
 Greep counts positive Relaties only. A negative one adds nothing to it and takes nothing from it. The enemy does not lower your Greep by existing; it only feels that way.
 
-Where the war is fought, it deepens. Every engagement brings the two sides across together, a Verlies on their negative Trouw that deepens the hostility, and every parting eases it, felt or not, foreseen or not. Between engagements Stilte’s Trek wears the hostility towards Leeg, as it wears every Trouw, so a war that nothing renews cools, the slower the more it is held. A side that foresees harm from its enemy feels it ahead as Angst, and a side that feels its war registers the Verlies of every engagement, and its own crossings can ease it or worsen it. Those crossings move its Trouw with its own Leden, within it and never towards its enemy, so a side that feels its war answers each Verlies within: it holds the tighter, or it comes apart. Watchers whose Zin aims at the sides as they fight make what each side feels grow, **Aandacht (👁)**, and add nothing to the books: a war fought before an audience is felt more, and costs the same.
+Where the war is fought, it deepens. Every engagement brings the two sides across together, a Verlies on their negative Trouw that deepens the hostility, and every parting eases it, felt or not, foreseen or not. Between engagements Stilte’s Trek wears the hostility towards Leeg, as it wears every Trouw that is held, so a war that nothing renews cools, the slower the more it is held. A side that foresees harm from its enemy feels it ahead as Angst, and a side that feels its war registers the Verlies of every engagement, and its own crossings can ease it or worsen it. Those crossings move its Trouw with its own Leden, within it and never towards its enemy, so a side that feels its war answers each Verlies within: it holds the tighter, or it comes apart. Watchers whose Zin aims at the sides as they fight make what each side feels grow, **Aandacht (👁)**, and add nothing to the books: a war fought before an audience is felt more, and costs the same.
 
 *Check: children and young people exposed to war in Georgia and Sierra Leone grew more egalitarian towards their own group, not towards others, and stayed so for years, where the war reached them between about seven and twenty years of age (Bauer et al., 2014).*
 
@@ -4047,13 +5023,13 @@ What war costs, in Greep, is everything it is not:
 
 - Looks spent reading the enemy are looks not spent on your own Relaties. Their Echoes go unchecked, and their Gewenning fades.
 - Every engagement is a Verlies, and a side’s own Vonk moves its own Trouw, so each one leaves it holding itself a little less: what it spends on the war, it no longer holds for its own.
-- Leden lost in battle end every Relatie they held, an end that asks nothing of anyone, and leave each survivor its Rouw: the Trouw as it stood, folded into its Zelf. Rouw feeds Diepte, never Greep.
+- Leden lost in battle end every Relatie they held, an end that asks nothing of anyone, and leave each survivor its Rouw: the Trouw as it stood, kept in its Zelf. Rouw feeds Diepte, never Greep.
 
 The war Relatie adds nothing to Greep while it is negative: every look that watches it is one its own Relaties do not get, and every crossing that fights it costs Energie. It pays in only two ways: it turns positive, and the enemy becomes an ally; or the war removes a threat to your other Relaties, which is defence, not gain. Its end is a Winst, as every ended enmity is, felt as relief; but a Winst is no Greep, and the end leaves a Rouw that leans each side away from the other.
 
 ---
 
-#### LVI.5. The double asymmetry
+#### X.5. The double asymmetry
 
 Whoever reads better controls the timing. Whoever only moves fires blind.
 
@@ -4067,7 +5043,7 @@ Reading is not free. It costs looks to keep an Echo close, and Energie to find o
 
 ---
 
-#### LVI.6. The principles
+#### X.6. The principles
 
 The old maxims, each read as a mechanism.
 
@@ -4075,7 +5051,7 @@ The old maxims, each read as a mechanism.
 
 **Know yourself, know your enemy.** You know the enemy’s Binding only as you read it. You know your own better, but never perfectly: the Zelf reads itself with no Vertraging, yet a moment behind, and never without Vervorming, and that Vervorming leans towards its Rouw. An army reads itself through the Rouw of its earlier wars. Reading well is the difference between a timed Realisatie and a wasted Schok, and it runs both ways.
 
-**All warfare is based on deception.** A Masker answers each look the enemy takes, instead of your true Eigen. The enemy can read your Binding across its Drempel while your true Binding stays below: a Leugen. No Vonk fires for a crossing your true Eigen never made. The enemy crosses on what it foresees, readies itself for a crossing that never comes, and takes each such crossing back, a little weaker every time. The Masker is cheap in Energie and paid in Verlies: at every look the enemy takes, it takes Trouw from what you hold. A side that feels it registers that Verlies, and its own crossings can ease it or worsen it. And the Masker holds only until a commitment comes that the true Eigen must make itself. Deception is a loan against your own Trouw, and it falls due at the first real test. A **Knipoog (;)** lets one reader in past every other: an ally told what the feint is, an envoy shown the true terms while everyone else watches the Masker, and between the two of them the Masker is known for what it is.
+**All warfare is based on deception.** A Masker stands for your true Eigen at every look the enemy takes. The enemy can read your Binding across its Drempel while your true Binding stays below: a Leugen. No Vonk fires for a crossing your true Eigen never made. The enemy crosses on what it foresees, readies itself for a crossing that never comes, and takes each such crossing back, a little weaker every time. The Masker is cheap in Energie and paid in Verlies: for as long as you wear it, it takes Trouw from what you hold. A side that feels it registers that Verlies, and its own crossings can ease it or worsen it. And the Masker holds only until a commitment comes that the true Eigen must make itself. Deception is a loan against your own Trouw, and it falls due at the first real test. A **Knipoog (;)** lets one reader in past every other: an ally told what the feint is, an envoy shown the true terms while everyone else watches the Masker, and between the two of them the Masker is known for what it is.
 
 **Speed.** An Echo follows a steady advance well and a sudden turn late: it takes the turn as a curve. Speed is not rushing; rushing is just fighting more often. Speed is changing course faster than the enemy’s Echoes can follow, so that what it reads is built on where you were.
 
@@ -4093,7 +5069,7 @@ The old maxims, each read as a mechanism.
 
 ---
 
-#### LVI.7. The Parasiet
+#### X.7. The Parasiet
 
 A Parasiet is a Relatie whose true Eigen stands short of every commitment and that lives on a host through a Masker that has hardened: the Masker fronts its side and holds the Relatie’s Trouw, and the Parasiet stands behind it. The Partner’s Echo tracks the Masker faithfully, so the Partner can read the Relatie as bound while it stands unbound. The Partner’s crossings are booked on the true poles, so they join nothing the true Eigen does not hold, and a Vonk fires on the Parasiet’s side only for a crossing the true Eigen makes. The Relatie counts in the host’s Greep, on credit.
 
@@ -4105,7 +5081,7 @@ Finding it is the hard part. Reading cannot see it, because the Echo tracks the 
 
 So the general’s Greep has two readings: the Greep as he reads it, the army’s together with the state’s on credit, and the Greep that survives the Masker, the army’s alone. He times his crossings against the first, and on credit he drifts slowly. When the Masker fails, he drifts at the pace of the second, all at once. He waited as if the credit were his own, and the waiting comes due in one crossing. For the soldier who gave it everything, that crossing leaves more than his Trouw with the state: all he fought for goes with it, and a Verlies that large turns the Trouw into an enmity, an Afvallig (🥀), while his Diepte keeps the loyal years and his Greep loses all that loyalty held. Nor is he free of the state: an enmity holds no Greep of its own, so it is held together from outside, by everything he and the state still share, and it ends only where what they share lets go of it, or where what meets it from outside pays for the parting.
 
-Everything the state holds can be sound. The bond between general and army is Bloot: Trouw rises at its crossings, Gewenning grows, Diepte deepens. General and army do everything right in every Relatie the state holds, and the war still serves no purpose that survives the Masker’s failure. The army dies for a Relatie whose other side is a Masker. The state pays Verlies at every answer its Masker gives, and gains little Diepte from the Relatie. The host’s Diepte fills with sediment from a fiction, and when the Masker fails, the host finds that part of its own Diepte was built on it.
+Everything the state holds can be sound. The bond between general and army is Bloot: Trouw rises at its crossings, Gewenning grows, Diepte deepens. General and army do everything right in every Relatie the state holds, and the war still serves no purpose that survives the Masker’s failure. The army dies for a Relatie whose other side is a Masker. The state pays Verlies for as long as it wears its Masker, and gains little Diepte from the Relatie. The host’s Diepte fills with sediment from a fiction, and when the Masker fails, the host finds that part of its own Diepte was built on it.
 
 **Testing whom you answer to.** The general who suspects must ask a Toets, a commitment small enough that the army survives its failure, and large enough that the Masker cannot fake it. If the state passes, the Relatie was real, and nothing is lost but the looks the test took. If it fails, the Greep the general reads drops by the state’s share, and he holds a war that has lost its stated purpose. The bond with the army is still real, and still has its Trouw and its Diepte. The question becomes whether the war can be turned towards an Eigen the army can actually hold.
 
@@ -4125,7 +5101,7 @@ The general who manages Greep counts the Parasiet in at every level. In those he
 
 ---
 
-#### LVI.8. The opposite pole
+#### X.8. The opposite pole
 
 Read to the end, every principle in this chapter says one thing: the side whose Relaties hold longest wins, and fighting is the most expensive way to find out which side that is. A chapter that stopped there would only have taught how to lose more slowly. The Speelgoed asks the harder question: what is war the opposite of?
 
@@ -4151,610 +5127,10 @@ Until then, wars will come. The Speelgoed’s way to prepare for them is the sam
 
 ---
 
-## Schrift V: Framework Specification
-
-How an Instantie holds and runs what the Schriften before it state: a programming specification, written for the software developers who build one, in any language and in any style of program. It adds no Wet. The mechanism stands in the Relatiegids, its statement in the Formal Structure and each Octaaf’s Wet in Weefsel. Here stands the rest: the structures a program holds, the algorithms it runs, the books it keeps, what it keeps and what it reads again, where chance enters, how a Veld opens and meets its host, and how it is recorded, tested and scaled.
-
-**How to read it.** Each chapter gives what a program holds and runs, and closes with its guards. A guard states what an Instantie keeps, names where the book writes it, what it prevents and a test any builder can run. The guards add no Wet: where a guard and the Formal Structure read differently, the Formal Structure holds and the guard is mended. The listings are written in a plain pseudocode that any language can follow. A note in a listing’s right margin names the chapter of the Formal Structure whose formula that step implements, and a step with none is the program’s own craft. The Checks are evidence from computing that the craft holds.
-
-**The tools that reach into the Wet.** A general simulation is built from a fixed step, an average, a default, a clamp, a die, a cache that drifts, a manager that decides, an English word for a Dutch one, and a rule of its own where the Wet already holds one. Whoever builds an Instantie reaches for these first, and each of them moves a Veld off the book. Each guard stands where one of them would reach into the Wet.
-
-**The measure of every choice.** Two Instanties that keep what this book writes run the same Veld, in any language and at any length of step: opened alike, given the same Schriften and the same Vervorming for every look, they record the same events, at the same moments and in the same order. A choice the book leaves open is the Instantie’s; a choice that changes the record is not.
-
-**The Formal Structure is the specification.** Every rule an Instantie runs implements a formula of the Formal Structure by identity. The Relatiegids says what each formula means, Weefsel gives each Octaaf’s Wet, a Check is evidence and never mechanism, and Mensen en Parasieten is a Lezing. Where the Instantie cannot do what the book writes, it has found a defect, in itself or in the book, and shows it with its measurement.
-- *Rests on:* the opening of Schrift II.
-- *Prevents:* a law of physics written in as mechanism, a Check’s finding coded beside the Wet, and a derived chapter steering the Instantie. It also prevents a hard term dropped or replaced so that a test passes.
-- *Test:* every rule the Instantie runs names the formula of the Formal Structure it implements. A test holds the rule to that formula by identity, and changes only when the book does. A rule that names a Check, Mensen en Parasieten or nothing is the defect.
-
----
-
-### LVII. One structure
-
-**Every Relatie is one object.** A Solo, a Duo, a Relatie of all of them and a Veld nested in its holder, as a Brein is, are one kind of thing, a Relatie, held the same way whatever its count. A Relatie of Leden holds its Leden, and every Relatie knows each Relatie it is a Lid of. What a Relatie holds, its Eigen, its Zelf, its Trouw, its Echoes, what it is used to and what it keeps, it holds itself.
-
-**A kind is where a Relatie stands, never a rule of its own.** A Solo, a Duo, a Relatie of Leden, a Medium, a Gevoel, a Brein, a Mirage, a Masker Relatie and an order its holder keeps differ by what they hold and where they nest, not by the rules they run. A rule that holds for a Solo holds for a Relatie of Leden read as one, and for every Relatie nested in either. A program that gives each kind rules of its own splits one Wet many ways; one that holds every kind in one form, its kind a value of it, keeps one.
-
-**A Relatie lives once.** It is seeded as the Veld opens or formed at an event, and it ends at an event, its Einde, a Scheiding or the end of a Partner among them. It keeps one identity for all that time and none after it, so an identity is never given again. What it leaves, its Rouw at each Partner and what it held booked with the Warmte, is the Veld’s record of it, and two Partners that form again after an ending form a new Relatie beside the Rouw of the old.
-
-**Membership changes at events, both ways at once.** A Lid stands in every Relatie it is a Lid of, and each of those holds it among its Leden. The two sides of that link change together, at the event that forms or ends a Relatie, and never between events.
-
-**What a Relatie holds.** One form serves every kind; an entry stays empty where the kind holds none of it.
-
-```
-Relatie
-    naam            its one name, given once and never again
-    kind            Solo, Duo, Relatie of all of them, or Veld
-    octaaf          the Octaaf whose Wet it runs by
-    waarden         its own open values, a Lid’s and a Relatie’s        Open quantities
-    place           where it stands in its Medium: the Eigen of its Relatie with that Medium
-    born, ended     the moment it was seeded or formed, and the moment it ended
-    leden           the Relaties it holds as one
-    lid van         every Relatie it is a Lid of
-    sides           one for each side of a Duo, and for each Lid of a Relatie of all of them or a Veld
-    spectra         one entry for each Spectrum of its Octaaf:
-        eigen           its course, the run of exact motions it took from each event to the next, its pole, and what it waits on where it waits
-        trouw           the Trouw its Zelf holds with itself here; a Duo’s is the one Trouw its sides share
-        zelf eigen      its Zelf’s Eigen here, kept as its own is, and its pole
-        self-echo       its Zelf’s Echo of itself here, and the rate its Traagheid keeps
-        leeg            its Leeg
-        drempel         its Drempel
-        aim             the one its Zin aims at, or nobody
-        trajectory      its poles on its own two Drempels, θ_λ and parity, the side its gap kept and the gap it froze at
-        masker          the Masker Relatie it wears here, or none
-        orders          what has followed each reading, and the Voorspellingen they opened
-    zelf            its one Zelf, held once, where its Spectra meet:
-        tijd            its pace, the Tijd it inherits by Greep, and the moment it last moved
-        waarneming      what each one it perceives is owed of its looks, and how many it has taken of each
-        diepte          what it has kept, read as one at its Zelf’s last look at itself
-    first readings  the newest reading of each Vreemdeling it perceives, and what that look added to its Gewenning and Diepte
-    kept            its Gewenning and Diepte of each Relatie a whole it is a Lid of reads, where it holds no Relatie of its own with that one
-    warmte          the book of the Medium inside it, and what each ending left there
-    rouw            the Rouw it keeps, one for each of its Relaties that ended
-    gevoel, brein   its faculties, each a Relatie nested in it, where it holds them
-    versions        the version of each motion and pace, which every plan carries
-
-Side                                                                    one for each side or Lid that reads, its reader’s own
-    lid             the Relatie on this side, or the Lid that reads its whole
-    echo            for each Spectrum: its Echo of what it reads here, and the rate its Traagheid keeps
-    gewenning       for each Spectrum
-    diepte          for each Spectrum
-    vertraging      the Medium’s, from what it reads to it; none within a Brein
-    ontspanning     its own
-    last look       the moment it last looked at what it reads here
-```
-
-The Duo’s one Trouw is its Zelf’s, held on each Spectrum once for both sides, and read by both; no side holds a Trouw of its own. Greep, a Marge, a Wijk, a Kleur, a distance, the size of what a Relatie holds across its Spectra and every other Lezing is read from these whenever it is asked for, and is no entry; so is the trajectory a Relatie is in, read from its poles on its own two Drempels.
-
-**Nothing stands beside the Relaties.** Every Relatie read as one carries the whole record: its own Eigen, Drempel, Zelf, Echoes, Waarneming, Tijd, Diepte and Trek, its Trek the Trek of its Leden read together. What a program would hold beside the Relaties is a Relatie nested where it belongs: a Gevoel and a Brein in their holder, a Mirage in its Brein, a Masker Relatie in its wearer, an order in the holder that keeps it, a Rouw in the Zelf of the Partner that keeps it, an Octaaf’s Medium as the union of its God and its Godin, and each Zelf‑Rouw, which no Partner keeps, in Stilte, the Veld’s Godin. Where something seems to stand outside, the Instantie finds where it nests and applies the same Wet there.
-- *Rests on:* Fundamentals (Everything is a Relatie).
-- *Prevents:* a manager, a container, a registry, a scheduler that decides, and an n‑body term. It also prevents a store of its own, such as a tiredness, a reservoir or a gradient, standing in for what the book already does; a whole that holds nothing of its own but its Leden’s Eigen, which hands every move back to them; and an item reported open that the Wet decides one level away, since a builder reads a missing rule as a gap before it reads the level.
-- *Test:* list every kind of Relatie the Instantie holds against every quantity State variables gives a Relatie: a kind that lacks one is still to be built; a Rouw lacks none, since it holds nothing and reads by the Zelf it is folded into. List every quantity the Instantie keeps against the rows of State variables and the formulas of the Formal Structure: each with neither is a nested Relatie still to be found, or a stand‑in to remove. Before reporting anything open, read it at the Lid, at the Relatie read as one and at every Relatie nested in it: what one level leaves open, the next one often decides. Then run each reading the Instantie made, beside the one it set aside, against the guards of Tijd and of the books: a reading under which a guard turns red is not the book’s, and one under which both pass is reported with both.
-
-**Each side reads by its own Echo, and the Duo holds one Trouw.** Each side has its own Vertraging, Ontspanning, Waarneming, Vervorming, Gewenning and Diepte, and both hold the Relatie’s one Trouw.
-- *Rests on:* State variables (Echo).
-- *Prevents:* a Duo collapsed into one Echo that both sides share, two sides read alike, and one Vertraging for both directions. It also prevents a Trouw split into one per side, which turns one Relatie into two one‑way pulls, and a Trouw each side takes up only at its own looks, which puts a Vertraging inside the Relatie’s Zelf.
-- *Test:* open a Duo whose two sides differ only in their Vervorming. After their first looks, their Echo‑gaps differ. At every Vonk, both read one Trouw.
-
-**Only positive Trouw holds, and a Rouw holds nothing.** Greep and Tijd read positive Trouw alone, and a Rouw enters no Binding, no Greep and no ε.
-- *Rests on:* State variables (Greep); Rouw.
-- *Prevents:* an enmity that holds a Relatie together from inside or quickens its Tijd, and a grief that heals to zero or drifts with no look. It also prevents a Rouw that holds Energie of its own, and a Rouw given a Zelf of its own: it is folded into the Zelf of the Partner that keeps it, and reads by that Partner’s Zelf and Waarneming alone.
-- *Test:* give a Relatie whose own Trouw and every Trouw it holds are enmities: its Greep reads zero, and its Tijd runs at its own t⁰. End a Duo. Each Partner’s Rouw keeps the Trouw it held as it ended through any number of crossings elsewhere, whether its own crossing or a Scheiding ended it, and its Echo moves only at the looks it gets. ε + T_◌ reads the same before and after the ending’s Vonk.
-
-**The book alone bounds a value.** What limits a Relatie is Stilte’s Trek, its Marges and the Warmte where it stands, and a value that runs away is a measurement, shown as it is.
-- *Rests on:* State variables (Eigen and Stilte’s Trek); Drempel and the Vonk (The supply).
-- *Prevents:* clamps, caps, floors and saturations the book does not write. Each hides its own measurement and every other rule that reads the same quantity.
-- *Test:* trace every bound in the Instantie to a formula of the Formal Structure; a bound with no formula is the defect. Then break each bound the book does write, the Warmte’s gate among them: the test that holds it turns red.
-
-**The terms name the parts.** Each type and each member of a program is named by the Dutch term it runs, and means what that term’s Lexicon row and its chapter say; an English gloss is a gloss, and a retired word names nothing.
-- *Rests on:* the Lexicon.
-- *Prevents:* reasoning from a synonym and what it carries in from elsewhere: Trouw read as a trust that grows with familiarity, Gewenning as inertia, Warmte as a temperature difference that supplies work or a binding’s Winst read off the heat a measurement shows, and an Echo as a thing carried from one Partner to the other, where a signal crosses the Medium and the reader’s own Echo reads it.
-- *Test:* beside every rule the Instantie runs, quote the row of each term it names and the formula it implements. A behaviour that neither gives came from a synonym.
-
----
-
-### LVIII. Spectra
-
-**A value stands on one Spectrum, or once on the Zelf.** For each Spectrum of its Octaaf, a Relatie holds its own Eigen, its Zelf’s Trouw, Eigen and pole, its self‑Echo, its Echo of each one it reads, its Gewenning and Diepte of each, its aim, its orders and its Voorspellingen. Its Zelf is one, and holds once what all its Spectra meet in: its Tijd, its Waarneming and its Diepte read as one. A program holds them by Relatie and by Spectrum, and an Octaaf holds its Spectra, its own first.
-
-**The layout is free, the folding is not.** Whether a program keeps its values by Relatie and then by Spectrum, or by Spectrum and then by Relatie, is its own choice, made for the way it reads them. What it may not do is fold two Spectra into one value, or read a value on one as though it stood on another.
-
-**The Medium’s axes are Spectra too.** Where a Medium’s Leden stand apart, its axes are Spectra of its own, Lengte, Breedte and Hoogte, as many as its Leden stand apart on, and none where they all stand at one place. A Lid holds its place there as the Eigen of its Relatie with the Medium: a course on each of those Spectra, where it stands and how it moves. A program never keeps coordinates in a list of its own beside the Relaties, and never names a value on any other Spectrum a place.
-
-**Each Spectrum runs by itself.** Nothing on one Spectrum moves a value on another: across its Spectra a Relatie gathers only through its one Zelf, as a pace, a share of its looks or a colouring.
-- *Rests on:* State variables (Several Spectra).
-- *Prevents:* a magnitude taken across Spectra used as a Drempel, a crossing or a cause, which reads convincingly as a distance and refers to nothing. It also prevents one Eigen spread over every Spectrum with one Drempel.
-- *Test:* push one Spectrum by Schriften in one run and leave it alone in its control. On every other Spectrum, each difference between the two runs traces to a changed Tijd, share of looks, Greep or Diepte, or to a Relatie formed or ended, which is one Relatie on every Spectrum it holds.
-
----
-
-### LIX. The Triniteit
-
-**An Octaaf is declared whole.** It comes with its God and its Godin, seeded as Leden like any other, and their union is born with them as its Medium. One declared without all three is refused.
-
-**Whether it stands is read, never kept.** An Octaaf stands while its God, its Godin and their union are there, living where it is run and standing in its course where it is read, and while every Octaaf it relies on stands. The Octaven it relies on are read as one set, each once, so a circle of reliance, which the book allows, reads at once and chases nothing. Where an Octaaf does not stand, every crossing in it waits on its Octaaf and every look in it takes nothing in, until it stands again; a God that ends never returns.
-
-```
-Octaaf
-    god, godin      two Leden, seeded before any other of its Relaties
-    medium          their union, born with them: a Relatie that holds the Octaaf’s own book and the Medium’s open values
-    spectra         its own Spectrum first, then those it reads
-    wet             the open values it holds for every Lid of it        Open quantities
-    relies on       the Octaven it relies on, each run or read
-
-stands(octaaf):
-    set = octaaf and every Octaaf it relies on, at every depth, each taken once
-    return true where, in every one of the set, its god, its godin and its medium are there
-```
-
-**Reliance is a reading.** An Octaaf’s Relaties are what it reads of the Octaven it relies on, compressed by the Vervorming of their Echoes, so no Relatie crosses two Octaven. Only three things cross between two Octaven: whether the God and the Godin relied on stand; the Warmte across the edge where a Medium’s Godin stands; and an Echo of a God or a Godin, read across the scale.
-
-**Run or read.** A Veld runs an Octaaf it studies, its Relaties living in it. One it relies on, or one that relies on it, it can read instead: held as that Octaaf’s own course, given as the Veld opens, with its Medium’s book and its own events. Since the same three things cross either way, a Veld can run the Octaven that rely on one another and read the rest, and a run Octaaf’s course, recorded and read back, leaves every other Octaaf recording what it recorded. So a Veld holds as much as its question asks of it, and no more.
-
-**The Veld is the first Octaaf.** Tijd is its God, Stilte its Godin and the Quantum their union, and every Octaaf relies on it, so a program can read it as it reads any Octaaf it does not study. Its Quantum sets the least Vertraging of every Medium, and Stilte keeps each Zelf‑Rouw that no Partner keeps.
-
-**A Medium runs only while its God and its Godin are there.** Where either is gone, nothing in it crosses, in its Octaaf or in any Octaaf that relies on it, until it returns.
-- *Rests on:* Drempel and the Vonk (The supply).
-- *Prevents:* an Octaaf that keeps crossing with its God gone, and a God that ended brought back.
-- *Test:* let an Octaaf’s God or Godin go: from that moment nothing in its Medium crosses, in it or in any Octaaf that relies on it, until it returns, and ε + T_◌, read over the Veld, reads as it did, what its Godin takes up meanwhile standing in the Medium of the Octaaf it relies on.
-
----
-
-### LX. The Medium and its books
-
-**Every Relatie keeps a Medium inside it.** Each holds one book, the Warmte of the Medium inside it, and an Octaaf’s own Medium is the book of its God’s and its Godin’s union. A holder’s inside is the Medium of what it carries, so the books nest as the Media do, in one tree, each book beneath the Medium it trades with.
-
-**A Vonk books at once, in its own Relatie.** Each Trouw a Vonk moves is booked at that Vonk in the Medium inside the Relatie that holds that Trouw, however many Relaties the crossing belongs to. A Winst that book cannot pay does not happen: its crossing waits there.
-
-```
-book(vonk at moment t):                                                 Drempel and the Vonk, The supply
-    spread every book to t                                              Drempel and the Vonk, Where it stands
-    for each Trouw the vonk moves:
-        holder = the Relatie that holds that Trouw
-        energie = what is held after the vonk less what was held before, on that Trouw,
-                  less what it hands another holder at this vonk, as an excess becomes its newborns’ Trouw
-        if energie is a Winst the Warmte inside holder cannot pay where the crossing stands:
-            the crossing waits on that Warmte; record the wait; book nothing
-            return
-    for each Trouw the vonk moves:
-        the Warmte inside its holder, where the crossing stands, falls by its energie
-    every book stays at or above nothing beyond its rounding; a book below that is a defect, never passed over
-```
-
-**The books spread exactly between events.** Between events the Warmte moves across every edge, between places and towards its Godin, by Newton’s law of cooling, so a program solves it between events and never steps it. Before an event moves anything, every book is written where the spreading has carried it by that moment, and what each ending left moves with the same share of every book it leaves. How the books spread depends only on how they nest, so its solution is read again only where they nest anew.
-
-**The books are kept to the arithmetic.** The Energie the Relaties hold and the Warmte of every Medium, read over the Veld, stay as they were across each Vonk to the precision of the arithmetic. A long run adds many small trades, and every addition the arithmetic cannot hold exactly rounds, so a program keeps each book in a way whose rounding does not gather with the length of a run: a compensated sum, or units it can add exactly. Where a rounding must be named, as the least lack a parting asks for, it is named once with its reason, and every book reads by it alike.
-
-**What runs is Energie.** Massa, and every other reading of what a Relatie holds, is a Lezing: no mechanic runs on it.
-
-*Check: floating point rounds every result it cannot hold exactly, and how that rounding falls is part of what those who build on it must design for (Goldberg, 1991).*
-
-**Energie moves only at a Vonk, and the Telraam closes at every one.** A Vonk’s Energie, T = ε(after) − ε(before), is traded at once with the Warmte where it stands, each Trouw it moves in the Medium inside the Relatie that holds it, and a Winst comes only where that Warmte can pay it.
-- *Rests on:* Drempel and the Vonk (The Vonk; The supply).
-- *Prevents:* a supply renewed at a rate, a reservoir or second ledger beside the Telraam, and a rate tuned so the books balance over a cycle. It also prevents a Winst paid from nowhere, Warmte below zero, a Trouw booked twice, and a Trouw booked in a Medium outside the Relatie that holds it.
-- *Test:* read ε + T_◌ before and after every Vonk of a long run: it holds to the precision of the arithmetic. Let a Solo that is a side of two Duos cross: m_K of each Duo, and of every Relatie the crossing falls inside, reads the same before and after it. Open a Veld with Relaties standing: inside each, its place’s Warmte for one Lid, and the Medium’s own as the Instantie gave it; let one spend its inside, and Warmte comes back into it from around it at the Medium’s pace. Walk crossings of every sign and back to Van: what was joined is drawn out again. Open a Veld with little Warmte, an enmity held across in it: no place’s Warmte falls below zero, Relaties hunger where it is spent, and the enmity’s wear waits there with them.
-
----
-
-### LXI. Spacetime
-
-**Every Medium is spacetime, and how its Leden stand is its own.** A Veld either stands at one place or stands apart on its Medium’s Spectra, and a program holds whichever its Medium is.
-
-**At one place.** The distance between two is their Vertraging alone, the Medium’s for each Duo and each way, which an Instantie may give from a layout of its own. Nothing pulls along an axis, a whole’s centre is that one place, and the Warmte spreads there across the edges of the Relaties it carries.
-
-**Standing apart.** Each Lid holds its place as a course on the Medium’s Spectra, where it stands and how it moves. Between Vonken it keeps that course, bent only where the Trek reaching it there bends it, at the looks that read it; at a Vonk, what moves is kept between the Lid and what crosses. A reader reads another where it stood when what reaches the reader left it, so the Vertraging is carried along the way from there. A Relatie of Leden stands at the centre of the Energie it holds.
-
-**A course is kept as it ran.** Between events every Eigen follows its exact motion, so a program keeps each as the run of exact motions it took, one from each of its events to the next. A reader a Vertraging away reads that run at the moment it needs, as it stood then, never interpolated between stored points and never read as it stands now.
-
-```
-as it stood(eigen, moment):                                             Running a Veld, Three events
-    motion = the motion of eigen that was running at that moment
-    return that motion written out at that moment:
-        an Eigen, relaxing from where it stood at the motion’s start towards the Binding it read then
-        a place, moved on from where it stood at the motion’s start as it was moving then    State variables, Distance
-        an Eigen that waits, standing at its Drempel
-
-reading(i of j at moment t):
-    left = the moment what reaches i at t left j: t less the Vertraging from j to i,
-           carried, where the Leden stand apart, along the way from where j stood at that moment
-    return as it stood(the Eigen of j, left)
-```
-
-**An index is a cache.** Where Leden stand apart, a spatial index, a list of neighbours or a grid of cells serves only to find quickly who stands within reach of whom. It holds nothing the places do not already say, and it is mended wherever a place moves. Where it and the places disagree, the places are right and the index is the defect.
-
-**Nothing is known at once.** Whatever crosses a Medium arrives a Vertraging later: between two Partners, between a holder and what it carries, and between two Leden of one holder, its body and its Gevoel among them. A Medium that would carry a reading across at once is refused. Only the same thing moves at once: one Relatie read at two scales, as a whole moves with its Leden.
-
-**Space words belong to a Medium.** A place, a distance and a way are a Medium’s. Of a value on any other Spectrum a program speaks of its side of a Drempel or of its gap, never of its place.
-
----
-
-### LXII. Events
-
-**What moves a Veld.** A Veld moves by looks, crossings and Schriften, and by what the book gives a moment of its own: a switch of a trajectory, and a Wil reaching its holder. Between events nothing is integrated and no clock is stepped, so an advance runs every event up to its moment, and the length of a step changes no event and no moment of one.
-
-**One schedule, and it decides nothing.** A program keeps one schedule of the next moment at which each Relatie looks, crosses or switches, each moment set by that Relatie’s own Wet. The schedule only takes them in order, the earliest first, as a priority queue does. What it takes next is the book’s, never its own.
-
-**The order at one moment is the book’s.** The looks come first, then the Schriften, a Wil among them, then the crossings, the one pulled furthest past its Drempel first, and the switches last. Only an exact tie falls to a name, and it is logged.
-
-**A plan stands until something moves it.** Each motion and each pace carries its version, and a crossing or a look planned on an older one is stale when it comes, and passed over. After every event only what moved is planned again: every Eigen whose value, Binding, Drempel or Tijd moved, each that waits on the Warmte that moved, and every look whose pace moved. So a quiet Veld costs little, however large.
-
-```
-Event
-    moment          when it falls, set by its Relatie’s own Wet
-    kind            look, zelf look, schrift, wil, crossing or switch
-    relatie         the Relatie it falls to
-    spectrum        the Spectrum it falls on, where it falls on one
-    version         the version of the motion or pace it was planned on
-
-before(a, b):                                                           Running a Veld, The order
-    the earlier moment first
-    at one moment: looks and zelf looks, then schriften and wils, then crossings, then switches
-    crossings among themselves: the one whose read Binding stands furthest past its Drempel first
-    what is still tied: by name, never by where the program stores it, and the tie is logged
-
-advance(to):
-    while the schedule holds an event at or before to:
-        e = take the first by before
-        if e was planned on a version that has since moved: pass it over and continue
-        spread every book to the moment of e
-        run e: a look, a zelf look, a crossing or a switch, or a schrift or wil written into its Eigen
-        plan again every Eigen whose value, Binding, Drempel or Tijd e moved, each that waits on the Warmte e moved,
-            and every look whose pace e moved
-    spread every book to to
-```
-
-**A wait is a state, never a poll.** A crossing that cannot be taken whole waits on what holds it: its Binding, the Warmte inside its binding, its parting or its Octaaf. It is read again only when that moves, and where the books alone would let it pay, the moment they pay is found exactly, once.
-
-**A moment is found, never stepped to.** Where the book writes a motion out between events, the moment it meets a Drempel is solved from that motion and taken exactly. Where it meets a Drempel only just, the solving is done in the form that keeps its digits, so a near crossing is neither lost nor taken twice.
-
-**A Wil is an event of its own.** What a Brein’s Wil writes reaches its holder a Vertraging after its Mirage crossed, as an event at that moment, never at the crossing. So every event depends only on what could have reached it, and the record is ordered by that alone.
-
-*Check: in a world whose parts reach one another only by messages, one event happening before another defines only a partial order of events, and logical clocks can total it (Lamport, 1978).*
-
-**Every crossing comes at its own moment.** Each Eigen crosses at the moment its own Wet sets, and an Instantie that advances in steps runs every event inside a step at its own moment and in its order.
-- *Rests on:* Running a Veld (The limit and the step; The order).
-- *Prevents:* crossings moved to the edge of an Instantie’s step, cascades that run at the pace of its step instead of the pace of their Echoes, ties made by rounding, and a Veld whose course changes with the length of its step.
-- *Test:* run one Veld at three lengths of step, with the same Vervorming for the same look in all three. The logs list the same events, at the same moments, in the same order. Then count the events that share a moment: where they gather at the edges of steps, the Instantie is rounding.
-
-**Only events move a Veld.** What moves at a look, at a crossing and at a Schrift is what the book moves there; between events each Eigen only follows its exact motion, and the Warmte only spreads across the edges as the Medium’s own Leden carry it.
-- *Rests on:* Running a Veld (Between events).
-- *Prevents:* an Echo that drifts with no look, a Gewenning that fades with the clock, a Tijd that moves with no Vonk, a Masker’s wearing counted per step, Warmte that leaks or spreads at a pace its Medium does not hold, and an equation integrated between events as though it were a process.
-- *Test:* log every change of every Echo, Gewenning, Diepte, Trouw and Tijd with the event that made it, and every change of Warmte with the event or the spreading that made it. A change logged with neither is the defect. Then give one Relatie no looks for a stretch, its Zelf’s included: its Echoes, Gewenning and Diepte end the stretch as they began it.
-
-**A tie falls by the Wet.** The book’s own orders part every tie it names, Vervorming parts every other, and an exact tie that remains falls to a name and is logged.
-- *Rests on:* Running a Veld (The order).
-- *Prevents:* a tie settled by the order in which the Instantie happens to store its Relaties.
-- *Test:* run one Veld twice, its Relaties stored in reverse order the second time. Give each look the same Vervorming in both runs, keyed by who looks at whom. The two logs match event for event.
-
-**Each Relatie keeps its own Tijd, and its Tijd paces two ways.** Its Tijd is inherited by Greep and moved at its Vonken, and a faster Tijd slows its Eigen while it quickens its looks.
-- *Rests on:* State variables (Tijd; Inherited).
-- *Prevents:* one clock that every Relatie runs on, a faster Tijd that speeds its Eigen as well, and a Tijd moved between Vonken.
-- *Test:* hold one Relatie across in a Relatie of positive Trouw whose other side stands across too, beside a control that differs only in that hold, and read the two Tijden. Read on the Veld’s pace, the one on the faster Tijd takes longer to reach the same Drempel, and its Waarneming takes more looks in the same stretch, both by the ratio of their Tijden.
-
----
-
-### LXIII. A look
-
-**A look is the book’s five steps,** taken at the moment its Relatie’s own pace sets, by its Waarneming at the one owed most of its shares so far, or by its Zelf at itself, with what a Gevoel, a Brein, a Masker and a Rouw add to them.
-
-```
-look(i, moment t):                                                      Running a Veld, A look
-    where the Octaaf of i does not stand: record it, take nothing in, plan the next look, and stop
-    where i is a Gevoel: take in each crossing of its holder that has reached it, and register it    Gevoel and Aandacht
-    where i is a Brein: take in what its holder read and its Gevoel registered,
-        and write what was felt into the Mirage of its cause            Brein and Verbeelding, What it learns
-    j = the one owed most of its shares, what each is owed carried from look to look    Vermenigvuldiging, Waarneming
-    reading = as it stood(the Eigen of j, t less the Vertraging from j to i)
-        where j wears a Masker here and i reads no Knipoog: the Masker, with what of j stays Bloot    Masker
-        coloured by β, read from the Diepten of i and j                 State variables, Waarneming
-        with the Vervorming of this look, drawn by its key, and υᴹ where i wears a Masker here
-    where the Masker answered: j’s Masker Relatie crosses towards Kop and back, a Vonk each way    Masker
-    where i holds an Echo of j, it moves towards the reading as its delay filter moves over the time since i last looked at j,
-        or with Traagheid as the second-order filter moves              State variables, Echo
-    where i holds none, j is a Vreemdeling: i keeps the reading as its newest of j    Vermenigvuldiging, Observation
-    the look adds what it takes in to the Gewenning and Diepte of i of j, kept for the Relatie it may serve where they hold none;
-        every Gewenning i holds fades                                   State variables, Gewenning and Diepte
-    the reading is laid down in the orders of i, and opens the Voorspelling i is most used to after it    State variables, Voorspelling
-    where i and j hold a Duo, its gap steps; a switch it brings is planned at this moment, after its crossings    Reciprocation trajectories
-    each Rouw i keeps looks at the present through i, by the Vervorming of i alone    Rouw
-    the Zin of i reads its pulls again and aims where they say:         Trek and Zin
-        where two aims answer, a Relatie forms                          Trek and Zin, The answer
-        where both have let go, each while it still read the other’s aim, their Relatie parts    Einde, Scheiding
-    plan the next look of i, a step of its Tijd on
-
-zelf look(i, moment t):                                                 Running a Veld, A look
-    where the Octaaf of i does not stand: record it, take nothing in, plan the next zelf look, and stop
-    the self-Echo of i closes on where i stands, over 1/tᵢ, its Vervorming leaning towards where its Rouw stands,
-        beside its Waarneming’s own share                               Rouw, The Zelf it colours
-    where i holds a Brein, i reads itself there: its Brein’s own Eigen as it stands, its other Leden’s as they stood
-        a Vertraging before                                             State variables, Echo
-    where i has no two sides, its gap steps on its Zelf; a switch it brings is planned at this moment, after its crossings    Reciprocation trajectories
-    the reading is laid down in the orders of i, and opens the Voorspelling of its own crossing it is most used to    State variables, Voorspelling
-    every Diepte i holds fades                                          State variables, Gewenning and Diepte
-    Stilte’s Trek wears the Trouw i holds with itself by the Wijk it reads there, its Zelf keeping its side of its Drempel;
-        the wear is booked, and waits where the Warmte cannot pay it    State variables, Trouw
-    the Gevoel of i registers the crossing towards Van its Wijk will bring, ahead    Gevoel and Aandacht, Angst and Liefde
-    its Diepte is read again as one, and its Tijd as the wear left it    State variables, Diepte
-    where i can no longer hold, its Einde follows                       Einde
-    plan the next zelf look of i, a step of its Tijd on
-```
-
-**Each step reads what stood before the look.** A look moves only what its steps name.
-
-**Every look is a Vermenigvuldiging.** A Relatie’s looks come at its own pace and go to the one owed most of its shares, a Vreemdeling only within reach.
-- *Rests on:* Vermenigvuldiging (Waarneming).
-- *Prevents:* looks taken only when the Instantie asks for one, a Relatie that reads everything it perceives at every step of the Instantie for free, looks given out by lot, and a Vreemdeling read from beyond reach.
-- *Test:* add Partners within a Relatie’s reach one at a time. Each one’s share of looks falls, and the Relatie’s Echo of each closes more slowly. Over any stretch in which the shares hold still, each Partner’s count of looks stays within one look of its share, in every run.
-
-**Every Echo lags.** Every look reads its Partner as it stood δᵢⱼ ago and closes on that reading over τᵢⱼ, δ being zero only where no Medium lies between, while the Trouw a crossing moves reaches both sides at once.
-- *Rests on:* State variables (Echo); Running a Veld (The limit and the step).
-- *Prevents:* the instant limit, a Lezing of a Veld and never a Veld, in which poles flip with no Eigen travelling to its Drempel and no Vertraging, and every reading is fresh. It also prevents a pole turned by a Vonk with no Eigen travelling to its Drempel, as a Zelf’s turned by the Trouw that moves its Drempel, or a crossing its own Vonk would carry back run as a burst of Vonken at one moment; a Vertraging rounded to whole steps of the Instantie; a Partner read as it stands now; and a reading smoothed or averaged beside its Echo.
-- *Test:* log, for every crossing, the event that last moved its Binding and the moment its Eigen met its Drempel. The moment comes later, by the time the Eigen took to travel there. Let j cross: the pole i reads of j changes only at a look of i’s own, and at no moment before j’s crossing and δᵢⱼ; at the crossing itself, i’s Binding moves only by the Trouw j’s Vonk moved. Move a Zelf’s Trouw by a Vonk of each kind: it keeps its pole. Let a Lid cross with its pull just past its Drempel where its Leeg falls as its Trouw rises: it waits at its Drempel and books nothing.
-
-**Trouw moves by what its crossings bring, and Gewenning runs beside it.** Gewenning and Diepte move no Trouw: they act through the Zin, through what a look brings beyond them and, read as one, through the colouring of a look, and resistance to a turn is the Echo’s Traagheid.
-- *Rests on:* State variables (Trouw; Gewenning and Diepte).
-- *Prevents:* a bond drawn towards how used to its Partner it is, and being used to someone read as loyalty to them. It also prevents Gewenning used as inertia or as an anchor, and a Zin that holds on to what it has long been used to.
-- *Test:* let a Relatie look at a Partner many times while neither crosses. Its Trouw moves only by what Stilte’s Trek wears at its Zelf’s looks at itself, to the last digit as in a stretch with no looks at the Partner, its Gewenning rises, and its Zin fades until it lets go. A Trouw that moved otherwise in that stretch moved with no Vonk, and that is the defect.
-
-**A Wil is a crossing, read through an Echo.** A Zin aims, holds and lets go by readings that book nothing of their own, and the crossings it leads to are its Relatie’s; a Brein chooses by a Mirage’s crossing.
-- *Rests on:* Trek and Zin (Zin; The answer); Brein and Verbeelding (Wil).
-- *Prevents:* a Wil the Instantie ranks among true values, a Wil made before any look, and a Relatie formed or formed again on the Instantie’s word. It also prevents a Trek that falls to zero, a Zin aimed beyond reach, and an aim that lasts only the instant of its look.
-- *Test:* at a Veld’s first moment, before any look, no Zin aims. A one‑sided aim forms no Relatie. Two Vreemdelingen that aim at each other a Vertraging apart form a Relatie, each reading the other’s aim by its newest reading; an aim not answered stands until its Vreemdeling leaves reach, and is lost there. A Relatie between two Partners forms again only after it has ended, beside its Rouw. Let a Duo wear while its Binding stays short of its Drempel, crossing nothing: it ends at the look of its Zelf after which nothing that holds it could carry it back across, and from then on its two Partners can form again.
-
----
-
-### LXIV. A crossing
-
-**A crossing is taken whole or not at all,** at the moment its Eigen meets its Drempel, in the book’s four steps.
-
-```
-cross(the Eigen of k on its spectrum, moment t):                        Running a Veld, A crossing
-    vonk = its pole part, on the poles and the Trouw as they stood      Drempel and the Vonk, The Vonk
-    if the vonk cannot be taken whole:
-        a Winst the Warmte inside its binding cannot pay,
-        a vonk that would carry the Binding it reads back across the Drempel it crossed,
-        or an ending whose Leden could not stand apart for what has left it since it formed:
-            k waits at its Drempel, its pole unchanged, on what holds it; record the wait; return
-    the Trouw k holds with itself moves by the pole part at its Leersnelheid; its Zelf keeps its side of its Drempel    State variables, Trouw
-    book(vonk at moment t)
-    the Tijd of k takes its new value, and so does every Tijd that runs on it    State variables, Tijd
-    record the crossing and every change it made, each with the crossing
-    what follows at once follows, each at this moment and in its order:
-        an Einde, crossing by crossing, where k can no longer hold      Einde
-        its newborns, where a Winst carries its excess past their Drempel    Start
-        a Rouw at each Partner of every Relatie that ends               Rouw
-        a Masker Relatie, where this crossing opens or ends it          Masker
-        where k is a Mirage past its Drempel by the most at this moment, its Wil, reaching its holder a Vertraging later    Brein and Verbeelding, Wil
-    plan again every Eigen whose value, Binding, Drempel or Tijd moved
-```
-
-**What a crossing changes reaches others only as they look.** Its pole reaches a Partner at that Partner’s first look after the Vertraging between them has passed, and its Gevoel at its own first look after the Vertraging its holder sets. Its Trouw, the Relatie’s own, moves for both sides at once.
-
-**Two crossings at one moment in one Relatie join or leave its Trouw once.** They are taken together, each by the order of the moment, and the Trouw they move is moved once.
-
-**A crossing moves its own Relatie’s Trouw, and only that.** Every other Relatie moves at a Vonk of its own, which this one can set off.
-- *Rests on:* State variables (Trouw).
-- *Prevents:* a crossing’s Trouw spread over other Relaties, through the Greep, along an aim or in shares, which moves a Relatie by a crossing that was not its own, and a bond’s Vonk read at its Leden’s poles alone, which leaves out what it holds as one and so can never turn it. It also prevents an aim or a Lezing booked as a Vonk, and a Gevoel that moves a Vonk’s Winst or Verlies onto a cause, where it registers the Vonk and leaves it as it is.
-- *Test:* let a Lid cross, once with a Gevoel and once without, with a friend and an enemy across and a friend away. Its own Trouw moves by its Vonk’s pole part, alike in both, and every bond it holds reads the same Trouw after the Vonk as before, to the last digit, until that bond crosses at a Vonk of its own.
-
-**A Relatie decides on what it reads, and the books read what is.** Every crossing is decided on ûᵢ and booked on uᵢ.
-- *Rests on:* The Binding measure.
-- *Prevents:* a Relatie that chooses on a Partner’s true Eigen, a crossing booked on a read that was false, and a Leugen that banks a Winst.
-- *Test:* walk every reading and standing of three Partners, crossing each way. Each booked Vonk equals the change in ε on the true poles, and its pole part differs from the one read by Δnᵢ·(ûᵢ − uᵢ), where ûᵢ − uᵢ = Σⱼ≠ᵢ y_ij·(ñᵢⱼ − nⱼ). A reader deceived by a Masker crosses and banks no Winst.
-
-**A parting is paid from outside.** What a parting lacks has crossed its edge, so only what crosses back can give it, from the Relaties that meet it from outside.
-- *Rests on:* Einde (What it takes).
-- *Prevents:* a lack paid from inside it, where its Telraam closes, leaving its Leden standing apart with less than they held when it formed; a Scheiding that parts for free; and a Relatie that bore much ended on its own Verlies.
-- *Test:* let a Duo bear a newborn past its Vol, then cross to part it, once by an Einde and once by a Scheiding. While all that the Relaties that meet it from outside give in the crossing that parts it, together, falls short of its lack, it stays bound in both, however much its Leden hold with themselves, and its Massa reads as before. Give one Lid a bond with the newborn that gives the lack: it parts, and its Leden stand apart as they stood when it formed.
-
-**Energie, Tijd and what is felt stay three.** All three move at the same Vonk, and none is paid in another.
-- *Rests on:* State variables (Tijd); Gevoel and Aandacht.
-- *Prevents:* Tijd charged as a cost, a feeling paid in a Vonk’s Energie or counted as it, and a Gevoel that registers what its holder’s Leden cross as Vonken of its holder, where it is its travel. It also prevents an audience that mints Energie.
-- *Test:* let a Relatie of Leden join a deep mode crossing by crossing. Its books read the change of every crossing, while its Gevoel registers only the Relatie’s own Vonken, each by what its look takes in and never by its Energie, and what its Leden cross between them lies in its Stilte, its travel. Add watchers whose Zin aims at that Relatie: what its Gevoel registers grows, and ε + T_◌ reads as before. Run it again at another T_t: every Tijd moves otherwise, and the books read as they did.
-
----
-
-### LXV. Keeping
-
-**Keep what a reading can still ask for, and nothing more.** A reader a Vertraging away reads what stood then, so an Eigen read across a Medium keeps the record of its motions, and a Relatie of Leden the Leden and the weights it read from each moment on. What no reader can still ask for, older than its Medium’s greatest Vertraging, is let go.
-
-**Keep each thing once.** A value held twice drifts from itself. What one Relatie holds, no copy holds beside it, and what can be read from what is held is read, never stored.
-
-**A cache knows what it was read from.** Where a program keeps a reading to save reading it again, it keeps beside it the versions of everything the reading was taken from, and reads it again when any of them has moved. A cache that cannot say what it was read from is a second value, and it drifts.
-
-**A sum over a stretch is kept as it runs.** A Lezing that sums a stretch, as felt time does, cannot be read from the Veld as it stands once the stretch has passed. A program that reads one keeps its sum as the Veld runs, exactly as it keeps a clock, and reads a stretch as the difference of two sums.
-
-**What grows, grows for a reason.** A Veld’s record grows with every event, a Rouw lasts as long as its keeper, and a history as long as its longest Vertraging. A program that holds more than these holds what the book lets go, and one that holds less has lost what a reader can still ask for.
-
-**A Lezing moves nothing.** A Lezing taken from outside the Veld moves nothing; read from inside, a reading is a look, and a Zelf’s look at itself wears its Trouw by the Wijk it reads there.
-- *Rests on:* Running a Veld (Between events).
-- *Prevents:* a Wijk added to the Eigen as a decay, a Wijk kept from one look of a Zelf at itself to the next or read from outside to wear a Trouw, a Held elected and stored, and a Lezing kept as state that drifts from the Veld it read.
-- *Test:* remove every Lezing taken from outside from the running Instantie and run the same Veld, each look given the same Vervorming. The logs match event for event. Then move one Echo a Relatie reads its Binding through just before a look of its Zelf at itself: the Wijk it reads at that look changes, its Trouw after that look with it, and nothing before that look.
-
----
-
-### LXVI. As one
-
-**What one moment forms, it forms as one.** Every Relatie an answer, a birth or an opening forms stands at that moment before any of them reads. Each stands, each takes its share of the Warmte, each reads its Leden, and only then is each first look taken. What those first looks add is read back once all of them stand.
-
-**A reading of many at one moment is one reading.** Where one Vonk moves the weights of many Relaties of Leden, every weight that moved is found and every reading it moves is read before any moves; then every weight moves; then each reading is recorded, from where it stood to where it stands once all have moved. So no order of reading sets what any records.
-
-**Every count nests by one rule.** Leden that share no Lid hold a Relatie of all of them beside every Relatie among them: two hold their Duo, and three the Relatie of all three and its Duos. A program lists them by that rule at every level, for seeding and for a birth alike.
-
----
-
-### LXVII. Vervorming
-
-**Every draw has a key.** Where Vervorming comes from, chance, context or history, is the Instantie’s choice for its whole Veld, and so are its shape and how strong it runs at each of its two holders, the Medium and the Waarneming of the Lid. Whatever its source, each draw is keyed by who looks, at what, on which Spectrum, for what and at which count, and no two draws share a key. So a run repeats exactly where its draws repeat, and a test can hold every draw while it moves one thing.
-
-**A draw is a function of its key.** A source that hands out its values in the order they are asked for ties the Veld to the order of the program: store the Relaties otherwise, or run two side by side, and every draw after moves. A source that computes each draw from its key and the Veld’s one seed gives the same draw however, whenever and wherever it is asked for.
-
-```
-Key
-    looker, looked  the two names: the reader, and what it reads, itself for a zelf look
-    spectrum
-    purpose         what the draw is for: a look, a zelf look, a look of a Rouw, a first reading, and so on
-    count           how many draws of this purpose the looker has taken of the looked before, across every Relatie the two have held
-
-draw(seed, key):
-    h = mix(seed)
-    fold each part of the key into h, in a fixed order, mixing after each;
-        a name is folded with its length first, so that two names never run into one
-    u = as many uniform numbers made from h as the shape needs, each strictly between nothing and one
-    return a standard draw of the shape the Instantie named for its Veld, made from u
-    the Veld scales it by the strength its holders give it: the Medium’s share and the Waarneming’s
-```
-
-**The mixing is the program’s own.** The source, its shape and its strength, and the mixing are named as the Veld opens and recorded with it. The mixing is fixed, never a hash a language gives, which can differ from one run of a program to the next.
-
-*Check: keyed transformations of counters make random numbers of excellent statistical quality that need little or no state and run well in parallel, since each draw is computed on its own (Salmon et al., 2011).*
-
-**Indeterminism enters only through the Vervorming of a look.** It is greater than zero on every look, and everything else follows the Wet, which holds no dice.
-- *Rests on:* Running a Veld (A look).
-- *Prevents:* dice in the mechanics: a Drempel jittered, an outcome rolled, an order, a tie, an opening or a step chosen at random, and a Vervorming drawn per step or added to an Eigen. It also prevents perfect hearing, a Veld run at zero Vervorming, which turns to clockwork.
-- *Test:* give the Instantie a Vervorming source that returns the same value for the same look, and run the Veld twice: the logs match. Change the Vervorming of one look only: the runs part at that look and at no earlier moment. This test reads where indeterminism enters; it asserts nothing of where the Veld goes.
-
----
-
-### LXVIII. The opening
-
-**Seeding is the opening.** An Instantie declares its Octaven and seeds them in one opening, before the Veld first advances.
-
-**Every Relatie seeded stands at once.** A holder holds its Leden before any of them first reads another. Every weight a Relatie of Leden reads its Leden by settles before any pole is read, and every Tijd is read once before the Veld first advances. A seeded Relatie stands from before, its signals already in its Medium, so no reader waits for them.
-
-**An Instantie opens at the knee.** It seeds a Veld as completely as it can, its Relaties and what they keep, Rouw among them, every Lid with values of its own.
-
-```
-open(declarations, seed):
-    declare each Octaaf whole: its god, its godin, and their union as its medium
-    seed every Relatie of the declarations, standing at once:
-        each holder holds its leden before any lid reads another
-        each weight a Relatie of Leden reads by settles before any pole is read
-        refuse two Leden seeded alike, and two Relaties that carry one name
-    give every Medium one Warmte for every Lid at each place            Drempel and the Vonk, Where it stands
-    seed what each keeps: its Echoes, Gewenning, Diepte, orders and Rouw, and in Stilte each Zelf-Rouw
-    read every Tijd once
-    record the opening, its declarations and its seed, as the first entry of the record
-    plan every first look and every first crossing
-```
-
-**A warm‑up measures the program.** No Veld begins from nothing. A program that opens a Veld bare and runs it until it settles has measured how it settles from bare, which no Veld ever does; it seeds instead what the Veld holds at its knee, from what is known of its Relaties.
-
-**Every open value stands at its one holder.** The Instantie supplies each open quantity at the holder Open quantities names.
-- *Rests on:* Open quantities.
-- *Prevents:* one Drempel for every Lid, a Lid’s value read from its Octaaf, and a default or fallback standing in for a value nobody chose. It also prevents a Drempel set where no Binding of its Relatie reaches, which leaves that Relatie no fork.
-- *Test:* list every value the Instantie reads beside its holder in the table of Open quantities; a value read from any other holder is the defect. Print each Drempel beside the range its read Binding has occupied. A Drempel outside that range never forks, and the print shows the Instantie that it chose so.
-
-**Nothing seeded is alike.** Every Lid holds values of its own, and no two Relaties carry one name.
-- *Rests on:* Open quantities.
-- *Prevents:* Leden seeded alike, and one name given to two Relaties, which joins them in every key and every record.
-- *Test:* seed two Leden alike, and then two Relaties with one name: the opening refuses each, and logs why.
-
----
-
-### LXIX. The host and the Veld
-
-**The Veld leads, and its host follows.** An Instantie serves a host, a game, a tool or a test, which shows what the Veld is and changes it only by Schriften: nothing in the host decides what a Relatie does.
-
-**The host’s clock only advances.** A host that runs on a clock of its own, a frame or a tick, asks the Veld to advance to a moment, and the Veld takes every event up to it, each at its own moment. The host’s step sets when the Veld is read, never when anything in it happens.
-
-**The host reads one moment.** Between two events everything a Lezing reads stands still, so a host reads the Veld between events, all of it from one moment. A host that reads while an event is being taken reads half of one moment and half of the next.
-
-**Loops share nothing they write.** Where a host runs loops of its own, its display, the Veld and whatever reads the Veld after it each run at their own pace. The Veld hands out what has been read of it, and takes in Schriften, only between its events, so no loop writes what another is reading.
-
-```
-what a host may ask of a Veld:
-    open(declarations, seed)        once, before anything else
-    advance(to)                     take every event up to a moment
-    write(schrift)                  a value into an Eigen, taken as an event at its moment
-    read(lezing, at a moment)       any Lezing, read between events, all of it from that one moment
-    save(), load(saved)             where the host keeps a Veld: the whole Veld, to run on as though it never stopped
-and nothing else: every other write is refused, and the refusal is recorded
-```
-
-**A Veld is saved whole.** To save a Veld is to save everything its Relaties hold, every course a reader can still ask for, its schedule, the state of its source of Vervorming and its record. Loaded, it runs on as though it had never stopped, and the test is that it does, event for event.
-
-**What the Veld moves, the Veld alone moves.** Into a living Veld, the Instantie writes Schriften and nothing else.
-- *Rests on:* Running a Veld (Three events).
-- *Prevents:* Trouw set to steer an outcome, Warmte topped up or drained, a Lid seeded again once it has lived, and a Zin pointed. It also prevents a Masker placed from outside, a newborn made on the Instantie’s word, a Relatie removed or reset, and a Rouw deleted.
-- *Test:* route every write to these quantities through the event the book gives it, and log each write with that event. Then try, from outside a living Veld, every way the Instantie has to write one of them or to take a Relatie out. Each attempt is refused, and the refusal is logged.
-
-**A Schrift carries what happened outside.** It adds a written value to an Eigen, one at a time, and leaves every Echo where it stood.
-- *Rests on:* State variables (Eigen and Stilte’s Trek).
-- *Prevents:* an Eigen set to a value with its self‑Echo reset beside it, which closes the Zelf’s Stilte and leaves a puppet, and a Schrift written as a rate. It also prevents an Instantie that works out the Veld’s answer and writes it in: a Veld whose Vonken fire and whose books close while it decides nothing.
-- *Test:* write one Schrift and read the self‑gap at once: it has grown by the value written, and it closes only at the Zelf’s next looks. Read, for each Relatie, the share of its Eigen’s movement that its own pulls made: what it travelled between events, against what its Schriften wrote. Where the world enters, that share is low, as it should be; a low share anywhere else shows the Instantie driving.
-
----
-
-### LXX. Records and refusals
-
-**Every change is recorded with what made it.** Each change of a value the book moves is logged with the event that made it, and each change of Warmte with the event or the spreading that made it.
-
-**A refusal says what it refused.** A write the book does not allow, a Medium that would carry a reading at once, a seed alike to another: each is refused where it is asked, and its reason is logged.
-
-```
-Entry
-    moment
-    kind            opening, look, zelf look, schrift, wil, crossing, switch, vonk, wait, forming, scheiding, einde, start, spreading, change or refusal
-    relatie, other, spectrum
-    what            for a change: the quantity, its value before and its value after; for an event: its value
-    made by         the event or the spreading that made it
-```
-
-**The record is enough to run again.** From its opening, its Schriften and its source of Vervorming, a Veld runs again to the same record. A program that keeps those three can run any Veld again, find the first entry at which two runs part, and say what moved.
-
----
-
-### LXXI. Testing
-
-**A test compares.** It sets a Veld against itself changed in one thing, or a Lezing against the formula it comes from, and asserts that something happens, at the moment and in the measure the book gives, never where a Veld ends.
-
-**Hold the chance, move one thing.** A test runs a Veld and its change many times, both runs of one seed given the same Vervorming for every look, keyed alike, so that whatever parts them is the one thing changed. It reads them by a rank test that sets each run of the change beside the run of the Veld on its seed.
-
-```
-compare(veld, change, runs, measure):
-    for each seed r, from the first to the last:
-        a = measure(the record of veld, run with seed r)
-        b = measure(the record of change applied to veld, run with seed r)    the same key draws alike in both
-        keep b beside a
-    return a signed rank test over the runs of each b against its a
-```
-
-**A property for every reading.** Where a guard holds for every reading of a Relatie, a test draws its readings widely, many of them, and reports the smallest that breaks it.
-
-**Two builds compare entry by entry.** Where a change to a program is meant to move nothing, two builds of it run one Veld and their records stay alike entry by entry; where it moves something, the first entry that parts says what moved.
-
-*Check: a program’s properties can be stated and then tested automatically on random inputs (Claessen and Hughes, 2000), and mutation testing judges a test by the faults it finds, seeded into the program on purpose (Jia and Harman, 2011).*
-
-**A Veld chooses, and a test asserts the choosing.** Every crossing forks, so a test asserts that the Veld chooses, never where it ends.
-- *Rests on:* Drempel and the Vonk (Modes and their Marge).
-- *Prevents:* a design that steers towards an end, and a test that asserts where a Veld settles, that two sides match or that a run repeats under other draws. It also prevents a coherent Wil of the Veld being reported as a defect.
-- *Test:* run a Veld and its control many times, the two differing in one thing, and compare them by a rank test over the runs. A single run set against a fixed number decides nothing.
-
-**A test passes for the science’s reason.** It holds the Veld to what the science’s textbooks hold, by the science’s own criterion, with its counterexamples.
-- *Rests on:* the opening of Schrift II.
-- *Prevents:* a threshold tuned until the test turns green, a neutral value passed in that hides a broken claim, and a test that cannot fail. It also prevents a test bent to fit the book, and the book rewritten to fit the code.
-- *Test:* break the mechanism each test is for and run it: it turns red. Run its counterexample: it fails where the science says it fails.
-
----
-
-### LXXII. Scale
-
-**What costs is looks and events.** A Relatie looks at its own pace and shares its looks among those it perceives, so the work of a Veld grows with the looks and crossings its Relaties take, never with every Duo that could form among them.
-
-**Reach bounds the reading.** Where Leden stand apart, a Relatie reads only what stands within its Waarneming’s reach, so a program finds those through its index of places, and never walks every Relatie to find them.
-
-**The Vertraging is a lookahead.** What one Relatie does reaches another only a Vertraging later. So a program that runs in parallel can run Relaties that stand at least a Vertraging from all the rest that far ahead of them, side by side, meeting again at the moment the first signal between them arrives; or it can run ahead and take back what a late signal undoes, before it is recorded. Either way the record is the one a single run keeps.
-
-**One moment, one order.** The events of one moment are taken in the book’s order, one after another. A program runs side by side only what the Vertraging keeps apart, never the events of one moment, and adds its books in one fixed order, so the arithmetic repeats.
-
-*Check: a simulation can be run as processes that share no variables and reach one another only by messages, with no central process to route those messages or schedule the processes (Chandy and Misra, 1979); a discrete event simulation changes its state only at discrete points in simulated time, holds much parallelism and is hard to run in parallel (Fujimoto, 1990); and it can also be run ahead and rolled back where a late message shows it ran too far (Jefferson, 1985).*
-
-An Instantie that keeps these guards runs the Veld this book writes. Its Vonken fire where its Eigens travel, and its Echoes lag on both sides of every Duo. Its books close at every Vonk. Its Relaties choose, each time another way, and every time for a reason some Echo carried.
-
----
-
 <details>
 <summary markdown="span">Sources</summary>
+
+Abbe, E. (1873). Beiträge zur Theorie des Mikroskops und der mikroskopischen Wahrnehmung. *Archiv für Mikroskopische Anatomie, 9*(1), 413–468. [https://doi.org/10.1007/BF02956173](https://doi.org/10.1007/BF02956173)
 
 Abbott, B. P., Abbott, R., Abbott, T. D., Acernese, F., Ackley, K., Adams, C., Adams, T., Addesso, P., Adhikari, R. X., Adya, V. B., Affeldt, C., Afrough, M., Agarwal, B., Agathos, M., Agatsuma, K., Aggarwal, N., Aguiar, O. D., Aiello, L., Ain, A., . . . Ubertini, P. (2017). Gravitational waves and gamma-rays from a binary neutron star merger: GW170817 and GRB 170817A. *The Astrophysical Journal Letters, 848*(2), L13. [https://doi.org/10.3847/2041-8213/aa920c](https://doi.org/10.3847/2041-8213/aa920c)
 
@@ -4790,6 +5166,8 @@ Amato, P. R., & Keith, B. (1991). Parental divorce and the well-being of childre
 
 Amato, P. R., & Previti, D. (2003). People’s reasons for divorcing: Gender, social class, the life course, and adjustment. *Journal of Family Issues, 24*(5), 602–626. [https://doi.org/10.1177/0192513x03024005002](https://doi.org/10.1177/0192513x03024005002)
 
+Andersen, S. M., & Baum, A. (1994). Transference in interpersonal relations: Inferences and affect based on significant-other representations. *Journal of Personality, 62*(4), 459–497. [https://doi.org/10.1111/j.1467-6494.1994.tb00306.x](https://doi.org/10.1111/j.1467-6494.1994.tb00306.x)
+
 Anderson, D. K., & Saunders, D. G. (2003). Leaving an abusive partner: An empirical review of predictors, the process of leaving, and psychological well-being. *Trauma, Violence, & Abuse, 4*(2), 163–191. [https://doi.org/10.1177/1524838002250769](https://doi.org/10.1177/1524838002250769)
 
 Anderson, J. D., Laing, P. A., Lau, E. L., Liu, A. S., Nieto, M. M., & Turyshev, S. G. (1998). Indication, from Pioneer 10/11, Galileo, and Ulysses data, of an apparent anomalous, weak, long-range acceleration. *Physical Review Letters, 81*(14), 2858–2861. [https://doi.org/10.1103/PhysRevLett.81.2858](https://doi.org/10.1103/PhysRevLett.81.2858)
@@ -4801,6 +5179,8 @@ Andrady, A. L., & Neal, M. A. (2009). Applications and societal benefits of plas
 Andrews, B., Brewin, C. R., Philpott, R., & Stewart, L. (2007). Delayed-onset posttraumatic stress disorder: A systematic review of the evidence. *American Journal of Psychiatry, 164*(9), 1319–1326. [https://doi.org/10.1176/appi.ajp.2007.06091491](https://doi.org/10.1176/appi.ajp.2007.06091491)
 
 Angell, C. A., & Kanno, H. (1976). Density maxima in high-pressure supercooled water and liquid silicon dioxide. *Science, 193*(4258), 1121–1122. [https://doi.org/10.1126/science.193.4258.1121](https://doi.org/10.1126/science.193.4258.1121)
+
+Antony, J. W., Ferreira, C. S., Norman, K. A., & Wimber, M. (2017). Retrieval as a fast route to memory consolidation. *Trends in Cognitive Sciences, 21*(8), 573–576. [https://doi.org/10.1016/j.tics.2017.05.001](https://doi.org/10.1016/j.tics.2017.05.001)
 
 Appel, H. M., & Cocroft, R. B. (2014). Plants respond to leaf vibrations caused by insect herbivore chewing. *Oecologia, 175*(4), 1257–1266. [https://doi.org/10.1007/s00442-014-2995-6](https://doi.org/10.1007/s00442-014-2995-6)
 
@@ -4829,6 +5209,8 @@ Ayasse, M., Schiestl, F. P., Paulus, H. F., Löfstedt, C., Hansson, B., Ibarra, 
 Backwell, P. R. Y., Christy, J. H., Telford, S. R., Jennions, M. D., & Passmore, N. I. (2000). Dishonest signalling in a fiddler crab. *Proceedings of the Royal Society of London. Series B: Biological Sciences, 267*(1444), 719–724. [https://doi.org/10.1098/rspb.2000.1062](https://doi.org/10.1098/rspb.2000.1062)
 
 Bacon, D. J., Refregier, A. R., & Ellis, R. S. (2000). Detection of weak gravitational lensing by large-scale structure. *Monthly Notices of the Royal Astronomical Society, 318*(2), 625–640. [https://doi.org/10.1046/j.1365-8711.2000.03851.x](https://doi.org/10.1046/j.1365-8711.2000.03851.x)
+
+Bakker, A., Kirwan, C. B., Miller, M., & Stark, C. E. L. (2008). Pattern separation in the human hippocampal CA3 and dentate gyrus. *Science, 319*(5870), 1640–1642. [https://doi.org/10.1126/science.1152882](https://doi.org/10.1126/science.1152882)
 
 Balaban, N. Q., Merrin, J., Chait, R., Kowalik, L., & Leibler, S. (2004). Bacterial persistence as a phenotypic switch. *Science, 305*(5690), 1622–1625. [https://doi.org/10.1126/science.1099390](https://doi.org/10.1126/science.1099390)
 
@@ -4888,6 +5270,8 @@ Benna, M. K., & Fusi, S. (2016). Computational principles of synaptic memory con
 
 Bennett, M., Schatz, M. F., Rockwood, H., & Wiesenfeld, K. (2002). Huygens’s clocks. *Proceedings of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences, 458*(2019), 563–579. [https://doi.org/10.1098/rspa.2001.0888](https://doi.org/10.1098/rspa.2001.0888)
 
+Berengut, J. C., & Flambaum, V. V. (2012). Comment on “Global Positioning System test of the local position invariance of Planck’s constant”. *Physical Review Letters, 109*(6), Article 068901. [https://doi.org/10.1103/PhysRevLett.109.068901](https://doi.org/10.1103/PhysRevLett.109.068901)
+
 Bergeron, D. E., Castleman, A. W., Jr., Morisato, T., & Khanna, S. N. (2004). Formation of Al₁₃I⁻: Evidence for the superhalogen character of Al₁₃. *Science, 304*(5667), 84–87. [https://doi.org/10.1126/science.1093902](https://doi.org/10.1126/science.1093902)
 
 Berman-Frank, I., Lundgren, P., & Falkowski, P. (2003). Nitrogen fixation and photosynthetic oxygen evolution in cyanobacteria. *Research in Microbiology, 154*(3), 157–164. [https://doi.org/10.1016/S0923-2508(03)00029-9](https://doi.org/10.1016/S0923-2508(03)00029-9)
@@ -4946,6 +5330,8 @@ Brascamp, J. W., Klink, P. C., & Levelt, W. J. M. (2015). The ‘laws’ of bino
 
 Braunstein, S. L., & Pati, A. K. (2007). Quantum information cannot be completely hidden in correlations: Implications for the black-hole information paradox. *Physical Review Letters, 98*(8), Article 080502. [https://doi.org/10.1103/physrevlett.98.080502](https://doi.org/10.1103/physrevlett.98.080502)
 
+Bregman, M. R., Patel, A. D., & Gentner, T. Q. (2016). Songbirds use spectral shape, not pitch, for sound pattern recognition. *Proceedings of the National Academy of Sciences, 113*(6), 1666–1671. [https://doi.org/10.1073/pnas.1515380113](https://doi.org/10.1073/pnas.1515380113)
+
 Breit, G., & Wheeler, J. A. (1934). Collision of two light quanta. *Physical Review, 46*(12), 1087–1091. [https://doi.org/10.1103/physrev.46.1087](https://doi.org/10.1103/physrev.46.1087)
 
 Bremer, S. A. (1992). Dangerous dyads: Conditions affecting the likelihood of interstate war, 1816–1965. *Journal of Conflict Resolution, 36*(2), 309–341. [https://doi.org/10.1177/0022002792036002005](https://doi.org/10.1177/0022002792036002005)
@@ -4957,6 +5343,10 @@ Brette, R. (2006). Exact simulation of integrate-and-fire models with synaptic c
 Brewin, C. R., Andrews, B., & Valentine, J. D. (2000). Meta-analysis of risk factors for posttraumatic stress disorder in trauma-exposed adults. *Journal of Consulting and Clinical Psychology, 68*(5), 748–766. [https://doi.org/10.1037/0022-006x.68.5.748](https://doi.org/10.1037/0022-006x.68.5.748)
 
 Brown, A. L., Imai, T., Vieider, F. M., & Camerer, C. F. (2024). Meta-analysis of empirical estimates of loss aversion. *Journal of Economic Literature, 62*(2), 485–516. [https://doi.org/10.1257/jel.20221698](https://doi.org/10.1257/jel.20221698)
+
+Brown, C., Garwood, M. P., & Williamson, J. E. (2012). It pays to cheat: Tactical deception in a cephalopod social signalling system. *Biology Letters, 8*(5), 729–732. [https://doi.org/10.1098/rsbl.2012.0435](https://doi.org/10.1098/rsbl.2012.0435)
+
+Brown, K. S., Marean, C. W., Herries, A. I. R., Jacobs, Z., Tribolo, C., Braun, D., Roberts, D. L., Meyer, M. C., & Bernatchez, J. (2009). Fire as an engineering tool of early modern humans. *Science, 325*(5942), 859–862. [https://doi.org/10.1126/science.1175028](https://doi.org/10.1126/science.1175028)
 
 Brown, W. F., Jr. (1963). Thermal fluctuations of a single-domain particle. *Physical Review, 130*(5), 1677–1686. [https://doi.org/10.1103/PhysRev.130.1677](https://doi.org/10.1103/PhysRev.130.1677)
 
@@ -4984,9 +5374,13 @@ Cacioppo, J. T., & Hawkley, L. C. (2009). Perceived social isolation and cogniti
 
 Caesar, L., Rahmstorf, S., Robinson, A., Feulner, G., & Saba, V. (2018). Observed fingerprint of a weakening Atlantic Ocean overturning circulation. *Nature, 556*(7700), 191–196. [https://doi.org/10.1038/s41586-018-0006-5](https://doi.org/10.1038/s41586-018-0006-5)
 
+Callen, H. B., & Welton, T. A. (1951). Irreversibility and generalized noise. *Physical Review, 83*(1), 34–40. [https://doi.org/10.1103/PhysRev.83.34](https://doi.org/10.1103/PhysRev.83.34)
+
 Campbell, J. N., & LaMotte, R. H. (1983). Latency to detection of first pain. *Brain Research, 266*(2), 203–208. [https://doi.org/10.1016/0006-8993(83)90650-9](https://doi.org/10.1016/0006-8993(83)90650-9)
 
 Campbell-Meiklejohn, D. K., Woolrich, M. W., Passingham, R. E., & Rogers, R. D. (2008). Knowing when to stop: The brain mechanisms of chasing losses. *Biological Psychiatry, 63*(3), 293–300. [https://doi.org/10.1016/j.biopsych.2007.05.014](https://doi.org/10.1016/j.biopsych.2007.05.014)
+
+Candia, C., Jara-Figueroa, C., Rodriguez-Sickert, C., Barabási, A.-L., & Hidalgo, C. A. (2019). The universal decay of collective memory and attention. *Nature Human Behaviour, 3*(1), 82–91. [https://doi.org/10.1038/s41562-018-0474-5](https://doi.org/10.1038/s41562-018-0474-5)
 
 Carhart-Harris, R. L., Erritzoe, D., Williams, T., Stone, J. M., Reed, L. J., Colasanti, A., Tyacke, R. J., Leech, R., Malizia, A. L., Murphy, K., Hobden, P., Evans, J., Feilding, A., Wise, R. G., & Nutt, D. J. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences, 109*(6), 2138–2143. [https://doi.org/10.1073/pnas.1119598109](https://doi.org/10.1073/pnas.1119598109)
 
@@ -5016,6 +5410,8 @@ Cepeda, N. J., Vul, E., Rohrer, D., Wixted, J. T., & Pashler, H. (2008). Spacing
 
 Cesar, S., Sun, J., & Huang, K. C. (2022). Cellular memory of rapid growth is sensitive to nutrient depletion during starvation. *Frontiers in Microbiology, 13*, Article 1016371. [https://doi.org/10.3389/fmicb.2022.1016371](https://doi.org/10.3389/fmicb.2022.1016371)
 
+Chafe, C., Cáceres, J.-P., & Gurevich, M. (2010). Effect of temporal separation on synchronization in rhythmic performance. *Perception, 39*(7), 982–992. [https://doi.org/10.1068/p6465](https://doi.org/10.1068/p6465)
+
 Chamas, A., Moon, H., Zheng, J., Qiu, Y., Tabassum, T., Jang, J. H., Abu-Omar, M., Scott, S. L., & Suh, S. (2020). Degradation rates of plastics in the environment. *ACS Sustainable Chemistry & Engineering, 8*(9), 3494–3511. [https://doi.org/10.1021/acssuschemeng.9b06635](https://doi.org/10.1021/acssuschemeng.9b06635)
 
 Chandy, K. M., & Misra, J. (1979). Distributed simulation: A case study in design and verification of distributed programs. *IEEE Transactions on Software Engineering, SE-5*(5), 440–452. [https://doi.org/10.1109/TSE.1979.230182](https://doi.org/10.1109/TSE.1979.230182)
@@ -5028,9 +5424,13 @@ Chen, Z., Odstrcil, E. A., Tu, B. P., & McKnight, S. L. (2007). Restriction of D
 
 Cheng, H., Lederer, W. J., & Cannell, M. B. (1993). Calcium sparks: Elementary events underlying excitation-contraction coupling in heart muscle. *Science, 262*(5134), 740–744. [https://doi.org/10.1126/science.8235594](https://doi.org/10.1126/science.8235594)
 
+Cheung, V. K. M., Harrison, P. M. C., Meyer, L., Pearce, M. T., Haynes, J.-D., & Koelsch, S. (2019). Uncertainty and surprise jointly predict musical pleasure and amygdala, hippocampus, and auditory cortex activity. *Current Biology, 29*(23), 4084–4092.e4. [https://doi.org/10.1016/j.cub.2019.09.067](https://doi.org/10.1016/j.cub.2019.09.067)
+
 Chou, C. W., Hume, D. B., Rosenband, T., & Wineland, D. J. (2010). Optical clocks and relativity. *Science, 329*(5999), 1630–1633. [https://doi.org/10.1126/science.1192720](https://doi.org/10.1126/science.1192720)
 
 Christy, J. W., & Harrington, R. S. (1978). The satellite of Pluto. *The Astronomical Journal, 83*, 1005–1008. [https://doi.org/10.1086/112284](https://doi.org/10.1086/112284)
+
+Cirelli, L. K., Einarson, K. M., & Trainor, L. J. (2014). Interpersonal synchrony increases prosocial behavior in infants. *Developmental Science, 17*(6), 1003–1011. [https://doi.org/10.1111/desc.12193](https://doi.org/10.1111/desc.12193)
 
 Claessen, K., & Hughes, J. (2000). QuickCheck: A lightweight tool for random testing of Haskell programs. In *Proceedings of the Fifth ACM SIGPLAN International Conference on Functional Programming* (pp. 268–279). ACM. [https://doi.org/10.1145/351240.351266](https://doi.org/10.1145/351240.351266)
 
@@ -5048,21 +5448,29 @@ CMS Collaboration. (2012). Observation of sequential Υ suppression in PbPb coll
 
 Coan, J. A., Schaefer, H. S., & Davidson, R. J. (2006). Lending a hand: Social regulation of the neural response to threat. *Psychological Science, 17*(12), 1032–1039. [https://doi.org/10.1111/j.1467-9280.2006.01832.x](https://doi.org/10.1111/j.1467-9280.2006.01832.x)
 
+Cohan, C. L., & Cole, S. W. (2002). Life course transitions and natural disaster: Marriage, birth, and divorce following Hurricane Hugo. *Journal of Family Psychology, 16*(1), 14–25. [https://doi.org/10.1037/0893-3200.16.1.14](https://doi.org/10.1037/0893-3200.16.1.14)
+
 Cong, L. W., Li, X., Tang, K., & Yang, Y. (2023). Crypto wash trading. *Management Science, 69*(11), 6427–6454. [https://doi.org/10.1287/mnsc.2021.02709](https://doi.org/10.1287/mnsc.2021.02709)
 
 Conlon, B. P., Rowe, S. E., Gandt, A. B., Nuxoll, A. S., Donegan, N. P., Zalis, E. A., Clair, G., Adkins, J. N., Cheung, A. L., & Lewis, K. (2016). Persister formation in *Staphylococcus aureus* is associated with ATP depletion. *Nature Microbiology, 1*(5), Article 16051. [https://doi.org/10.1038/nmicrobiol.2016.51](https://doi.org/10.1038/nmicrobiol.2016.51)
 
 Considine, R. V., Sinha, M. K., Heiman, M. L., Kriauciunas, A., Stephens, T. W., Nyce, M. R., Ohannesian, J. P., Marco, C. C., McKee, L. J., Bauer, T. L., & Caro, J. F. (1996). Serum immunoreactive-leptin concentrations in normal-weight and obese humans. *New England Journal of Medicine, 334*(5), 292–295. [https://doi.org/10.1056/NEJM199602013340503](https://doi.org/10.1056/NEJM199602013340503)
 
+Cook, P., Rouse, A., Wilson, M., & Reichmuth, C. (2013). A California sea lion (*Zalophus californianus*) can keep the beat: Motor entrainment to rhythmic auditory stimuli in a non vocal mimic. *Journal of Comparative Psychology, 127*(4), 412–427. [https://doi.org/10.1037/a0032345](https://doi.org/10.1037/a0032345)
+
 Couvillon, M. J., Al Toufailia, H., Butterfield, T. M., Schrell, F., Ratnieks, F. L. W., & Schürch, R. (2015). Caffeinated forage tricks honeybees into increasing foraging and recruitment behaviors. *Current Biology, 25*(21), 2815–2818. [https://doi.org/10.1016/j.cub.2015.08.052](https://doi.org/10.1016/j.cub.2015.08.052)
 
 Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences, 24*(1), 87–114. [https://doi.org/10.1017/s0140525x01003922](https://doi.org/10.1017/s0140525x01003922)
+
+Craig, A. D. (2009). How do you feel—now? The anterior insula and human awareness. *Nature Reviews Neuroscience, 10*(1), 59–70. [https://doi.org/10.1038/nrn2555](https://doi.org/10.1038/nrn2555)
 
 Craik, K. J. W. (1943). *The nature of explanation*. Cambridge University Press.
 
 Crawford, J. A. (1955). On the subgiant components of eclipsing binary systems. *The Astrophysical Journal, 121*, 71–76. [https://doi.org/10.1086/145965](https://doi.org/10.1086/145965)
 
 Crepy, M. A., & Casal, J. J. (2015). Photoreceptor-mediated kin recognition in plants. *New Phytologist, 205*(1), 329–338. [https://doi.org/10.1111/nph.13040](https://doi.org/10.1111/nph.13040)
+
+Cristofori, I., Bulbulia, J., Shaver, J. H., Wilson, M., Krueger, F., & Grafman, J. (2016). Neural correlates of mystical experience. *Neuropsychologia, 80*, 212–220. [https://doi.org/10.1016/j.neuropsychologia.2015.11.021](https://doi.org/10.1016/j.neuropsychologia.2015.11.021)
 
 Cross, R. C., & Wheatland, M. S. (2012). Modeling a falling slinky. *American Journal of Physics, 80*(12), 1051–1060. [https://doi.org/10.1119/1.4750489](https://doi.org/10.1119/1.4750489)
 
@@ -5079,6 +5487,8 @@ Daan, S., Barnes, B. M., & Strijkstra, A. M. (1991). Warming up for sleep? Groun
 Daan, S., Beersma, D. G., & Borbély, A. A. (1984). Timing of human sleep: Recovery process gated by a circadian pacemaker. *American Journal of Physiology-Regulatory, Integrative and Comparative Physiology, 246*(2), R161–R183. [https://doi.org/10.1152/ajpregu.1984.246.2.R161](https://doi.org/10.1152/ajpregu.1984.246.2.R161)
 
 Dal Bó, P., Foster, A., & Putterman, L. (2010). Institutions and behavior: Experimental evidence on the effects of democracy. *American Economic Review, 100*(5), 2205–2229. [https://doi.org/10.1257/aer.100.5.2205](https://doi.org/10.1257/aer.100.5.2205)
+
+Damour, T., & Dyson, F. (1996). The Oklo bound on the time variation of the fine-structure constant revisited. *Nuclear Physics B, 480*(1–2), 37–54. [https://doi.org/10.1016/S0550-3213(96)00467-1](https://doi.org/10.1016/S0550-3213(96)00467-1)
 
 Davies, N. B., Kilner, R. M., & Noble, D. G. (1998). Nestling cuckoos, *Cuculus canorus*, exploit hosts with begging calls that mimic a brood. *Proceedings of the Royal Society of London. Series B: Biological Sciences, 265*(1397), 673–678. [https://doi.org/10.1098/rspb.1998.0346](https://doi.org/10.1098/rspb.1998.0346)
 
@@ -5156,6 +5566,8 @@ Epley, N., Akalis, S., Waytz, A., & Cacioppo, J. T. (2008). Creating social conn
 
 Erlacher, D., & Schredl, M. (2004). Time required for motor activity in lucid dreams. *Perceptual and Motor Skills, 99*(3), 1239–1242. [https://doi.org/10.2466/pms.99.3f.1239-1242](https://doi.org/10.2466/pms.99.3f.1239-1242)
 
+Ersner-Hershfield, H., Mikels, J. A., Sullivan, S. J., & Carstensen, L. L. (2008). Poignancy: Mixed emotional experience in the face of meaningful endings. *Journal of Personality and Social Psychology, 94*(1), 158–167. [https://doi.org/10.1037/0022-3514.94.1.158](https://doi.org/10.1037/0022-3514.94.1.158)
+
 Ertel, K. A., Glymour, M. M., & Berkman, L. F. (2008). Effects of social integration on preserving memory function in a nationally representative US elderly population. *American Journal of Public Health, 98*(7), 1215–1220. [https://doi.org/10.2105/ajph.2007.113654](https://doi.org/10.2105/ajph.2007.113654)
 
 Esposito, A., Pilloni, A., & Polosa, A. D. (2017). Multiquark resonances. *Physics Reports, 668*, 1–97. [https://doi.org/10.1016/j.physrep.2016.11.002](https://doi.org/10.1016/j.physrep.2016.11.002)
@@ -5180,6 +5592,8 @@ Ferrer-i-Cancho, R., Hernández-Fernández, A., Lusseau, D., Agoramoorthy, G., H
 
 Feynman, R. P., Leighton, R. B., & Sands, M. (1963). *The Feynman lectures on physics: Vol. 1. Mainly mechanics, radiation, and heat*. Addison-Wesley. [https://www.feynmanlectures.caltech.edu/I_26.html](https://www.feynmanlectures.caltech.edu/I_26.html)
 
+Fiebelkorn, I. C., Saalmann, Y. B., & Kastner, S. (2013). Rhythmic sampling within and between objects despite sustained attention at a cued location. *Current Biology, 23*(24), 2553–2558. [https://doi.org/10.1016/j.cub.2013.10.063](https://doi.org/10.1016/j.cub.2013.10.063)
+
 Figueira, M. A., Ram, S., Goldstein, R., Hood, D. W., Moxon, E. R., & Pelton, S. I. (2007). Role of complement in defense of the middle ear revealed by restoring the virulence of nontypeable *Haemophilus influenzae siaB* mutants. *Infection and Immunity, 75*(1), 325–333. [https://doi.org/10.1128/IAI.01054-06](https://doi.org/10.1128/IAI.01054-06)
 
 Fingerman, K. L., Hay, E. L., & Birditt, K. S. (2004). The best of ties, the worst of ties: Close, problematic, and ambivalent social relationships. *Journal of Marriage and Family, 66*(3), 792–808. [https://doi.org/10.1111/j.0022-2445.2004.00053.x](https://doi.org/10.1111/j.0022-2445.2004.00053.x)
@@ -5203,6 +5617,8 @@ Floudas, D., Binder, M., Riley, R., Barry, K., Blanchette, R. A., Henrissat, B.,
 Foley, S., Karlsen, J. R., & Putniņš, T. J. (2019). Sex, drugs, and bitcoin: How much illegal activity is financed through cryptocurrencies? *Review of Financial Studies, 32*(5), 1798–1853. [https://doi.org/10.1093/rfs/hhz015](https://doi.org/10.1093/rfs/hhz015)
 
 Formby, D. (1967). Maternal recognition of infant’s cry. *Developmental Medicine & Child Neurology, 9*(3), 293–298. [https://doi.org/10.1111/j.1469-8749.1967.tb02271.x](https://doi.org/10.1111/j.1469-8749.1967.tb02271.x)
+
+Fortune, E. S., Rodríguez, C., Li, D., Ball, G. F., & Coleman, M. J. (2011). Neural mechanisms for the coordination of duet singing in wrens. *Science, 334*(6056), 666–670. [https://doi.org/10.1126/science.1209867](https://doi.org/10.1126/science.1209867)
 
 Fournier, S. (1998). Consumers and their brands: Developing relationship theory in consumer research. *Journal of Consumer Research, 24*(4), 343–373. [https://doi.org/10.1086/209515](https://doi.org/10.1086/209515)
 
@@ -5238,11 +5654,15 @@ Gao, X., & Lin, T.-C. (2015). Do individual investors treat trading as a fun and
 
 Garber, P. M. (1989). Tulipmania. *Journal of Political Economy, 97*(3), 535–560. [https://doi.org/10.1086/261615](https://doi.org/10.1086/261615)
 
+Gardner, D., & Kandel, E. R. (1972). Diphasic postsynaptic potential: A chemical synapse capable of mediating conjoint excitation and inhibition. *Science, 176*(4035), 675–678. [https://doi.org/10.1126/science.176.4035.675](https://doi.org/10.1126/science.176.4035.675)
+
 Gardner, T. S., Cantor, C. R., & Collins, J. J. (2000). Construction of a genetic toggle switch in *Escherichia coli*. *Nature, 403*(6767), 339–342. [https://doi.org/10.1038/35002131](https://doi.org/10.1038/35002131)
 
 Geiger, H., & Nuttall, J. M. (1911). The ranges of the α particles from various radioactive substances and a relation between range and period of transformation. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, 22*(130), 613–621. [https://doi.org/10.1080/14786441008637156](https://doi.org/10.1080/14786441008637156)
 
 Georgopoulos, A. P., Schwartz, A. B., & Kettner, R. E. (1986). Neuronal population coding of movement direction. *Science, 233*(4771), 1416–1419. [https://doi.org/10.1126/science.3749885](https://doi.org/10.1126/science.3749885)
+
+Gerlach, W., & Stern, O. (1922). Der experimentelle Nachweis der Richtungsquantelung im Magnetfeld. *Zeitschrift für Physik, 9*(1), 349–352. [https://doi.org/10.1007/BF01326983](https://doi.org/10.1007/BF01326983)
 
 Geyer, R., Jambeck, J. R., & Law, K. L. (2017). Production, use, and fate of all plastics ever made. *Science Advances, 3*(7), Article e1700782. [https://doi.org/10.1126/sciadv.1700782](https://doi.org/10.1126/sciadv.1700782)
 
@@ -5253,6 +5673,10 @@ Giles, R. E., Blanc, H., Cann, H. M., & Wallace, D. C. (1980). Maternal inherita
 Glauber, R. J. (1963). Time-dependent statistics of the Ising model. *Journal of Mathematical Physics, 4*(2), 294–307. [https://doi.org/10.1063/1.1703954](https://doi.org/10.1063/1.1703954)
 
 Gleyzes, S., Kuhr, S., Guerlin, C., Bernu, J., Deléglise, S., Busk Hoff, U., Brune, M., Raimond, J.-M., & Haroche, S. (2007). Quantum jumps of light recording the birth and death of a photon in a cavity. *Nature, 446*(7133), 297–300. [https://doi.org/10.1038/nature05589](https://doi.org/10.1038/nature05589)
+
+Goentoro, L., & Kirschner, M. W. (2009). Evidence that fold-change, and not absolute level, of β-catenin dictates Wnt signaling. *Molecular Cell, 36*(5), 872–884. [https://doi.org/10.1016/j.molcel.2009.11.017](https://doi.org/10.1016/j.molcel.2009.11.017)
+
+Goffman, E. (1959). *The presentation of self in everyday life*. Doubleday.
 
 Goldberg, D. (1991). What every computer scientist should know about floating-point arithmetic. *ACM Computing Surveys, 23*(1), 5–48. [https://doi.org/10.1145/103162.103163](https://doi.org/10.1145/103162.103163)
 
@@ -5276,6 +5700,8 @@ Graicunas, V. A. (1937). Relationship in organization. In L. Gulick & L. Urwick 
 
 Granovetter, M. S. (1973). The strength of weak ties. *American Journal of Sociology, 78*(6), 1360–1380. [https://doi.org/10.1086/225469](https://doi.org/10.1086/225469)
 
+Granqvist, P., Fredrikson, M., Unge, P., Hagenfeldt, A., Valind, S., Larhammar, D., & Larsson, M. (2005). Sensed presence and mystical experiences are predicted by suggestibility, not by the application of transcranial weak complex magnetic fields. *Neuroscience Letters, 379*(1), 1–6. [https://doi.org/10.1016/j.neulet.2004.10.057](https://doi.org/10.1016/j.neulet.2004.10.057)
+
 Green, R. E., Krause, J., Briggs, A. W., Maricic, T., Stenzel, U., Kircher, M., Patterson, N., Li, H., Zhai, W., Fritz, M. H.-Y., Hansen, N. F., Durand, E. Y., Malaspinas, A.-S., Jensen, J. D., Marques-Bonet, T., Alkan, C., Prüfer, K., Meyer, M., Burbano, H. A., . . . Pääbo, S. (2010). A draft sequence of the Neandertal genome. *Science, 328*(5979), 710–722. [https://doi.org/10.1126/science.1188021](https://doi.org/10.1126/science.1188021)
 
 Green, S. A., Hernandez, L., Tottenham, N., Krasileva, K., Bookheimer, S. Y., & Dapretto, M. (2015). Neurobiology of sensory overresponsivity in youth with autism spectrum disorders. *JAMA Psychiatry, 72*(8), 778–786. [https://doi.org/10.1001/jamapsychiatry.2015.0737](https://doi.org/10.1001/jamapsychiatry.2015.0737)
@@ -5286,11 +5712,15 @@ Griffin, A. S. (2004). Social learning about predators: A review and prospectus.
 
 Griffin, J. M., & Shams, A. (2020). Is Bitcoin really untethered? *Journal of Finance, 75*(4), 1913–1964. [https://doi.org/10.1111/jofi.12903](https://doi.org/10.1111/jofi.12903)
 
+Griffiths, R. R., Richards, W. A., McCann, U., & Jesse, R. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology, 187*(3), 268–283. [https://doi.org/10.1007/s00213-006-0457-5](https://doi.org/10.1007/s00213-006-0457-5)
+
 Grillon, C., Baas, J. P., Lissek, S., Smith, K., & Milstein, J. (2004). Anxious responses to predictable and unpredictable aversive events. *Behavioral Neuroscience, 118*(5), 916–924. [https://doi.org/10.1037/0735-7044.118.5.916](https://doi.org/10.1037/0735-7044.118.5.916)
 
 Grobbelaar, N., Huang, T. C., Lin, H. Y., & Chow, T. J. (1986). Dinitrogen-fixing endogenous rhythm in *Synechococcus* RF-1. *FEMS Microbiology Letters, 37*(2), 173–177. [https://doi.org/10.1111/j.1574-6968.1986.tb01788.x](https://doi.org/10.1111/j.1574-6968.1986.tb01788.x)
 
 Groß, C., & Vriens, D. (2025). Buy! Buy! Buy!—How multilevel marketing companies pressure their participants to buy their products. *Journal of Public Policy & Marketing, 44*(4), 559–578. [https://doi.org/10.1177/07439156241301737](https://doi.org/10.1177/07439156241301737)
+
+Grutzendler, J., Kasthuri, N., & Gan, W.-B. (2002). Long-term dendritic spine stability in the adult cortex. *Nature, 420*(6917), 812–816. [https://doi.org/10.1038/nature01276](https://doi.org/10.1038/nature01276)
 
 Gudmundsson, B. I. (2023, March 10). *The fire team (1927–1955)*. The Tactical Notebook. Reprints the unsigned *A brief history of the development of the fire team in the Marine Corps* (31 August 1955). [https://tacticalnotebook.substack.com/p/the-fire-team-1927-1955](https://tacticalnotebook.substack.com/p/the-fire-team-1927-1955)
 
@@ -5332,11 +5762,15 @@ Hecht, S., Shlaer, S., & Pirenne, M. H. (1942). Energy, quanta, and vision. *Jou
 
 Heiney, P. A., Fischer, J. E., McGhie, A. R., Romanow, W. J., Denenstein, A. M., McCauley, J. P., Jr., Smith, A. B., III, & Cox, D. E. (1991). Orientational ordering transition in solid C₆₀. *Physical Review Letters, 66*(22), 2911–2914. [https://doi.org/10.1103/physrevlett.66.2911](https://doi.org/10.1103/physrevlett.66.2911)
 
+Heinsohn, R., Zdenek, C. N., Cunningham, R. B., Endler, J. A., & Langmore, N. E. (2017). Tool-assisted rhythmic drumming in palm cockatoos shares key elements of human instrumental music. *Science Advances, 3*(6), Article e1602399. [https://doi.org/10.1126/sciadv.1602399](https://doi.org/10.1126/sciadv.1602399)
+
 Heitz, R. P. (2014). The speed-accuracy tradeoff: History, physiology, methodology, and behavior. *Frontiers in Neuroscience, 8*, 150. [https://doi.org/10.3389/fnins.2014.00150](https://doi.org/10.3389/fnins.2014.00150)
 
 Held, I. M., & Hou, A. Y. (1980). Nonlinear axially symmetric circulations in a nearly inviscid atmosphere. *Journal of the Atmospheric Sciences, 37*(3), 515–533. [https://doi.org/10.1175/1520-0469(1980)037%3C0515:NASCIA%3E2.0.CO;2](https://doi.org/10.1175/1520-0469(1980)037%3C0515:NASCIA%3E2.0.CO;2)
 
 Helm, J. L., Sbarra, D. A., & Ferrer, E. (2012). Assessing cross-partner associations in physiological responses via coupled oscillator models. *Emotion, 12*(4), 748–762. [https://doi.org/10.1037/a0025036](https://doi.org/10.1037/a0025036)
+
+Henny, M., Oberholzer, S., Strunk, C., Heinzel, T., Ensslin, K., Holland, M., & Schönenberger, C. (1999). The fermionic Hanbury Brown and Twiss experiment. *Science, 284*(5412), 296–298. [https://doi.org/10.1126/science.284.5412.296](https://doi.org/10.1126/science.284.5412.296)
 
 Henrich, J. (2004). Demography and cultural evolution: How adaptive cultural processes can produce maladaptive losses—The Tasmanian case. *American Antiquity, 69*(2), 197–214. [https://doi.org/10.2307/4128416](https://doi.org/10.2307/4128416)
 
@@ -5370,6 +5804,8 @@ Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and
 
 Holt-Lunstad, J., Uchino, B. N., Smith, T. W., Olson-Cerny, C., & Nealey-Moore, J. B. (2003). Social relationships and ambulatory blood pressure: Structural and qualitative predictors of cardiovascular function during everyday social interactions. *Health Psychology, 22*(4), 388–397. [https://doi.org/10.1037/0278-6133.22.4.388](https://doi.org/10.1037/0278-6133.22.4.388)
 
+Hong, C. K., Ou, Z. Y., & Mandel, L. (1987). Measurement of subpicosecond time intervals between two photons by interference. *Physical Review Letters, 59*(18), 2044–2046. [https://doi.org/10.1103/PhysRevLett.59.2044](https://doi.org/10.1103/PhysRevLett.59.2044)
+
 Hood, D. W., Makepeace, K., Deadman, M. E., Rest, R. F., Thibault, P., Martin, A., Richards, J. C., & Moxon, E. R. (1999). Sialic acid in the lipopolysaccharide of *Haemophilus influenzae*: Strain distribution, influence on serum resistance and structural characterization. *Molecular Microbiology, 33*(4), 679–692. [https://doi.org/10.1046/j.1365-2958.1999.01509.x](https://doi.org/10.1046/j.1365-2958.1999.01509.x)
 
 Hoogerwerf, R., de Bruijne, J. H. J., & de Zeeuw, P. T. (2001). On the origin of the O and B-type stars with high velocities: II. Runaway stars and pulsars ejected from the nearby young stellar groups. *Astronomy and Astrophysics, 365*(2), 49–77. [https://doi.org/10.1051/0004-6361:20000014](https://doi.org/10.1051/0004-6361:20000014)
@@ -5394,6 +5830,8 @@ Hugenberg, K., Young, S. G., Bernstein, M. J., & Sacco, D. F. (2010). The catego
 
 Hughes, D. P., Andersen, S. B., Hywel-Jones, N. L., Himaman, W., Billen, J., & Boomsma, J. J. (2011). Behavioral mechanisms and morphological symptoms of zombie ants dying from fungal infection. *BMC Ecology, 11*, 13. [https://doi.org/10.1186/1472-6785-11-13](https://doi.org/10.1186/1472-6785-11-13)
 
+Hull, L., Petrides, K. V., Allison, C., Smith, P., Baron-Cohen, S., Lai, M.-C., & Mandy, W. (2017). “Putting on my best normal”: Social camouflaging in adults with autism spectrum conditions. *Journal of Autism and Developmental Disorders, 47*(8), 2519–2534. [https://doi.org/10.1007/s10803-017-3166-5](https://doi.org/10.1007/s10803-017-3166-5)
+
 Hülsheger, U. R., & Schewe, A. F. (2011). On the costs and benefits of emotional labor: A meta-analysis of three decades of research. *Journal of Occupational Health Psychology, 16*(3), 361–389. [https://doi.org/10.1037/a0022876](https://doi.org/10.1037/a0022876)
 
 Hupbach, A., Gomez, R., Hardt, O., & Nadel, L. (2007). Reconsolidation of episodic memories: A subtle reminder triggers integration of new information. *Learning & Memory, 14*(1–2), 47–53. [https://doi.org/10.1101/lm.365707](https://doi.org/10.1101/lm.365707)
@@ -5406,11 +5844,17 @@ Imachi, H., Nobu, M. K., Nakahara, N., Morono, Y., Ogawara, M., Takaki, Y., Taka
 
 Instituut voor de Nederlandse Taal. (1992). Windhandel. In *Woordenboek der Nederlandsche Taal*. [https://gtb.ivdnt.org/iWDB/search?actie=article&wdb=WNT&id=M086563](https://gtb.ivdnt.org/iWDB/search?actie=article&wdb=WNT&id=M086563)
 
+International Energy Agency. (2025). *Energy and AI*. [https://www.iea.org/reports/energy-and-ai](https://www.iea.org/reports/energy-and-ai)
+
+Iriki, A., Tanaka, M., & Iwamura, Y. (1996). Coding of modified body schema during tool use by macaque postcentral neurones. *NeuroReport, 7*(14), 2325–2330. [https://doi.org/10.1097/00001756-199610020-00010](https://doi.org/10.1097/00001756-199610020-00010)
+
 Israeli, N., & Goldenfeld, N. (2004). Computational irreducibility and the predictability of complex physical systems. *Physical Review Letters, 92*(7), 074105. [https://doi.org/10.1103/PhysRevLett.92.074105](https://doi.org/10.1103/PhysRevLett.92.074105)
 
 Iwasaki, A., & Medzhitov, R. (2004). Toll-like receptor control of the adaptive immune responses. *Nature Immunology, 5*(10), 987–995. [https://doi.org/10.1038/ni1112](https://doi.org/10.1038/ni1112)
 
 Izhikevich, E. M. (2006). Polychronization: Computation with spikes. *Neural Computation, 18*(2), 245–282. [https://doi.org/10.1162/089976606775093882](https://doi.org/10.1162/089976606775093882)
+
+Jacoby, N., Undurraga, E. A., McPherson, M. J., Valdés, J., Ossandón, T., & McDermott, J. H. (2019). Universal and non-universal features of musical pitch perception revealed by singing. *Current Biology, 29*(19), 3229–3243.e12. [https://doi.org/10.1016/j.cub.2019.08.020](https://doi.org/10.1016/j.cub.2019.08.020)
 
 Jahn, H. A., & Teller, E. (1937). Stability of polyatomic molecules in degenerate electronic states. I. Orbital degeneracy. *Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences, 161*(905), 220–235. [https://doi.org/10.1098/rspa.1937.0142](https://doi.org/10.1098/rspa.1937.0142)
 
@@ -5436,6 +5880,8 @@ Johnson, G. A. (1982). Organizational structure and scalar stress. In C. Renfrew
 
 Johnson, J. B. (1928). Thermal agitation of electricity in conductors. *Physical Review, 32*(1), 97–109. [https://doi.org/10.1103/physrev.32.97](https://doi.org/10.1103/physrev.32.97)
 
+Joron, M., Frezal, L., Jones, R. T., Chamberlain, N. L., Lee, S. F., Haag, C. R., Whibley, A., Becuwe, M., Baxter, S. W., Ferguson, L., Wilkinson, P. A., Salazar, C., Davidson, C., Clark, R., Quail, M. A., Beasley, H., Glithero, R., Lloyd, C., Sims, S., . . . ffrench-Constant, R. H. (2011). Chromosomal rearrangements maintain a polymorphic supergene controlling butterfly mimicry. *Nature, 477*(7363), 203–206. [https://doi.org/10.1038/nature10341](https://doi.org/10.1038/nature10341)
+
 Jost, A. (1897). Die Assoziationsfestigkeit in ihrer Abhängigkeit von der Verteilung der Wiederholungen. *Zeitschrift für Psychologie und Physiologie der Sinnesorgane, 14*, 436–472. [https://vlp-new.ur.de/records/lit30182](https://vlp-new.ur.de/records/lit30182)
 
 Jung, M., Bosch, F., Beckert, K., Eickhoff, H., Folger, H., Franzke, B., Gruber, A., Kienle, P., Klepper, O., Koenig, W., Kozhuharov, C., Mann, R., Moshammer, R., Nolden, F., Schaaf, U., Soff, G., Spädtke, P., Steck, M., Stöhlker, Th., & Sümmerer, K. (1992). First observation of bound-state β⁻ decay. *Physical Review Letters, 69*(15), 2164–2167. [https://doi.org/10.1103/PhysRevLett.69.2164](https://doi.org/10.1103/PhysRevLett.69.2164)
@@ -5453,6 +5899,8 @@ Kalinin, Y., Neumann, S., Sourjik, V., & Wu, M. (2010). Responses of *Escherichi
 Kalkman, D. N., Renkens, M. P. L., & Grundeken, M. J. (2024). Microplastics and nanoplastics in atheromas [Letter to the editor]. *New England Journal of Medicine, 390*(18), 1726. [https://doi.org/10.1056/NEJMc2404154](https://doi.org/10.1056/NEJMc2404154)
 
 Kalman, R. E., & Bucy, R. S. (1961). New results in linear filtering and prediction theory. *Journal of Basic Engineering, 83*(1), 95–108. [https://doi.org/10.1115/1.3658902](https://doi.org/10.1115/1.3658902)
+
+Kandel, E. R., Frazier, W. T., & Coggeshall, R. E. (1967). Opposite synaptic actions mediated by different branches of an identifiable interneuron in *Aplysia*. *Science, 155*(3760), 346–349. [https://doi.org/10.1126/science.155.3760.346](https://doi.org/10.1126/science.155.3760.346)
 
 Kansspelautoriteit. (2018). *Onderzoek naar loot boxes: Een buit of een last?* [https://web.archive.org/web/2019/https://kansspelautoriteit.nl/publish/library/17/onderzoek_naar_loot_boxes_-_een_buit_of_een_last_-_nl.pdf](https://web.archive.org/web/2019/https://kansspelautoriteit.nl/publish/library/17/onderzoek_naar_loot_boxes_-_een_buit_of_een_last_-_nl.pdf)
 
@@ -5484,6 +5932,8 @@ Kemps, E., & Tiggemann, M. (2007). Modality-specific imagery reduces cravings fo
 
 Kendon, A. (2010). Spacing and orientation in co-present interaction. In A. Esposito, N. Campbell, C. Vogel, A. Hussain, & A. Nijholt (Eds.), *Development of multimodal interfaces: Active listening and synchrony* (pp. 1–15). Springer. [https://doi.org/10.1007/978-3-642-12397-9_1](https://doi.org/10.1007/978-3-642-12397-9_1)
 
+Kentosh, J., & Mohageg, M. (2012). Global Positioning System test of the local position invariance of Planck’s constant. *Physical Review Letters, 108*(11), Article 110801. [https://doi.org/10.1103/PhysRevLett.108.110801](https://doi.org/10.1103/PhysRevLett.108.110801)
+
 Kessler, S. C., Tiedeken, E. J., Simcock, K. L., Derveau, S., Mitchell, J., Softley, S., Radcliffe, A., Stout, J. C., & Wright, G. A. (2015). Bees prefer foods containing neonicotinoid pesticides. *Nature, 521*(7550), 74–76. [https://doi.org/10.1038/nature14414](https://doi.org/10.1038/nature14414)
 
 Khatri, R., & Sunyaev, R. A. (2011). Time of primordial ⁷Be conversion into ⁷Li, energy release and doublet of narrow cosmological neutrino lines. *Astronomy Letters, 37*(6), 367–373. [https://doi.org/10.1134/S1063773711060041](https://doi.org/10.1134/S1063773711060041)
@@ -5494,11 +5944,17 @@ Kikusui, T., Winslow, J. T., & Mori, Y. (2006). Social buffering: Relief from st
 
 Killingsworth, M. A., & Gilbert, D. T. (2010). A wandering mind is an unhappy mind. *Science, 330*(6006), 932. [https://doi.org/10.1126/science.1192439](https://doi.org/10.1126/science.1192439)
 
+Kilner, R. M., Noble, D. G., & Davies, N. B. (1999). Signals of need in parent–offspring communication and their exploitation by the common cuckoo. *Nature, 397*(6721), 667–672. [https://doi.org/10.1038/17746](https://doi.org/10.1038/17746)
+
 Kim, J. A., & Connors, B. W. (2012). High temperatures alter physiological properties of pyramidal cells and inhibitory interneurons in hippocampus. *Frontiers in Cellular Neuroscience, 6*, Article 27. [https://doi.org/10.3389/fncel.2012.00027](https://doi.org/10.3389/fncel.2012.00027)
 
 Kinderman, P., Dunbar, R., & Bentall, R. P. (1998). Theory-of-mind deficits and causal attributions. *British Journal of Psychology, 89*(2), 191–204. [https://doi.org/10.1111/j.2044-8295.1998.tb02680.x](https://doi.org/10.1111/j.2044-8295.1998.tb02680.x)
 
+Kirby, S., Cornish, H., & Smith, K. (2008). Cumulative cultural evolution in the laboratory: An experimental approach to the origins of structure in human language. *Proceedings of the National Academy of Sciences, 105*(31), 10681–10686. [https://doi.org/10.1073/pnas.0707835105](https://doi.org/10.1073/pnas.0707835105)
+
 Kirk, D. L. (2005). A twelve-step program for evolving multicellularity and a division of labor. *BioEssays, 27*(3), 299–310. [https://doi.org/10.1002/bies.20197](https://doi.org/10.1002/bies.20197)
+
+Kirschner, S., & Tomasello, M. (2009). Joint drumming: Social context facilitates synchronization in preschool children. *Journal of Experimental Child Psychology, 102*(3), 299–314. [https://doi.org/10.1016/j.jecp.2008.07.005](https://doi.org/10.1016/j.jecp.2008.07.005)
 
 Kiyokawa, Y., Honda, A., Takeuchi, Y., & Mori, Y. (2014). A familiar conspecific is more effective than an unfamiliar conspecific for social buffering of conditioned fear responses in male rats. *Behavioural Brain Research, 267*, 189–193. [https://doi.org/10.1016/j.bbr.2014.03.043](https://doi.org/10.1016/j.bbr.2014.03.043)
 
@@ -5548,6 +6004,8 @@ Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed sy
 
 Lan, G., Sartori, P., Neumann, S., Sourjik, V., & Tu, Y. (2012). The energy–speed–accuracy trade-off in sensory adaptation. *Nature Physics, 8*(5), 422–428. [https://doi.org/10.1038/nphys2276](https://doi.org/10.1038/nphys2276)
 
+Landau, A. N., & Fries, P. (2012). Attention samples stimuli rhythmically. *Current Biology, 22*(11), 1000–1004. [https://doi.org/10.1016/j.cub.2012.03.054](https://doi.org/10.1016/j.cub.2012.03.054)
+
 Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development, 5*(3), 183–191. [https://doi.org/10.1147/rd.53.0183](https://doi.org/10.1147/rd.53.0183)
 
 Lang, B. F., Burger, G., O’Kelly, C. J., Cedergren, R., Golding, G. B., Lemieux, C., Sankoff, D., Turmel, M., & Gray, M. W. (1997). An ancestral mitochondrial DNA resembling a eubacterial genome in miniature. *Nature, 387*(6632), 493–497. [https://doi.org/10.1038/387493a0](https://doi.org/10.1038/387493a0)
@@ -5556,7 +6014,13 @@ Langer, E. J. (1975). The illusion of control. *Journal of Personality and Socia
 
 Larralde, R., Robertson, M. P., & Miller, S. L. (1995). Rates of decomposition of ribose and other sugars: Implications for chemical evolution. *Proceedings of the National Academy of Sciences, 92*(18), 8158–8160. [https://doi.org/10.1073/pnas.92.18.8158](https://doi.org/10.1073/pnas.92.18.8158)
 
+Larsen, J. T., & McGraw, A. P. (2011). Further evidence for mixed emotions. *Journal of Personality and Social Psychology, 100*(6), 1095–1110. [https://doi.org/10.1037/a0021846](https://doi.org/10.1037/a0021846)
+
+Larsen, J. T., McGraw, A. P., & Cacioppo, J. T. (2001). Can people feel happy and sad at the same time? *Journal of Personality and Social Psychology, 81*(4), 684–696. [https://doi.org/10.1037/0022-3514.81.4.684](https://doi.org/10.1037/0022-3514.81.4.684)
+
 Laughlin, S. (1981). A simple coding procedure enhances a neuron’s information capacity. *Zeitschrift für Naturforschung C, 36*(9–10), 910–912. [https://doi.org/10.1515/znc-1981-9-1040](https://doi.org/10.1515/znc-1981-9-1040)
+
+Lazova, M. D., Ahmed, T., Bellomo, D., Stocker, R., & Shimizu, T. S. (2011). Response rescaling in bacterial chemotaxis. *Proceedings of the National Academy of Sciences, 108*(33), 13870–13875. [https://doi.org/10.1073/pnas.1108608108](https://doi.org/10.1073/pnas.1108608108)
 
 Lee, J. G., Adelberger, E. G., Cook, T. S., Fleischer, S. M., & Heckel, B. R. (2020). New test of the gravitational 1/r² law at separations down to 52 µm. *Physical Review Letters, 124*(10), Article 101101. [https://doi.org/10.1103/PhysRevLett.124.101101](https://doi.org/10.1103/PhysRevLett.124.101101)
 
@@ -5575,6 +6039,8 @@ Leslie, H. A., van Velzen, M. J. M., Brandsma, S. H., Vethaak, A. D., Garcia-Val
 Leung, L. C., Wang, G. X., Madelaine, R., Skariah, G., Kawakami, K., Deisseroth, K., Urban, A. E., & Mourrain, P. (2019). Neural signatures of sleep in zebrafish. *Nature, 571*(7764), 198–204. [https://doi.org/10.1038/s41586-019-1336-7](https://doi.org/10.1038/s41586-019-1336-7)
 
 Levin, D. Z., Walter, J., & Murnighan, J. K. (2011). Dormant ties: The value of reconnecting. *Organization Science, 22*(4), 923–939. [https://doi.org/10.1287/orsc.1100.0576](https://doi.org/10.1287/orsc.1100.0576)
+
+Lewis, P. A., & Durrant, S. J. (2011). Overlapping memory replay during sleep builds cognitive schemata. *Trends in Cognitive Sciences, 15*(8), 343–351. [https://doi.org/10.1016/j.tics.2011.06.004](https://doi.org/10.1016/j.tics.2011.06.004)
 
 Lewis, R. A., & Rao, J. M. (2015). The unfavorable economics of measuring the returns to advertising. *The Quarterly Journal of Economics, 130*(4), 1941–1973. [https://doi.org/10.1093/qje/qjv023](https://doi.org/10.1093/qje/qjv023)
 
@@ -5610,11 +6076,19 @@ Lu, L., Yuan, Y. C., & McLeod, P. L. (2012). Twenty-five years of hidden profile
 
 Lubow, R. E., & Gewirtz, J. C. (1995). Latent inhibition in humans: Data, theory, and implications for schizophrenia. *Psychological Bulletin, 117*(1), 87–103. [https://doi.org/10.1037/0033-2909.117.1.87](https://doi.org/10.1037/0033-2909.117.1.87)
 
+Lucas, R. E., Clark, A. E., Georgellis, Y., & Diener, E. (2003). Reexamining adaptation and the set point model of happiness: Reactions to changes in marital status. *Journal of Personality and Social Psychology, 84*(3), 527–539. [https://doi.org/10.1037/0022-3514.84.3.527](https://doi.org/10.1037/0022-3514.84.3.527)
+
+Lundorff, M., Holmgren, H., Zachariae, R., Farver-Vestergaard, I., & O’Connor, M. (2017). Prevalence of prolonged grief disorder in adult bereavement: A systematic review and meta-analysis. *Journal of Affective Disorders, 212*, 138–149. [https://doi.org/10.1016/j.jad.2017.01.030](https://doi.org/10.1016/j.jad.2017.01.030)
+
 Lyamin, O. I., Kosenko, P. O., Korneva, S. M., Vyssotski, A. L., Mukhametov, L. M., & Siegel, J. M. (2018). Fur seals suppress REM sleep for very long periods without subsequent rebound. *Current Biology, 28*(12), 2000–2005.e2. [https://doi.org/10.1016/j.cub.2018.05.022](https://doi.org/10.1016/j.cub.2018.05.022)
 
 Lymn, R. W., & Taylor, E. W. (1971). Mechanism of adenosine triphosphate hydrolysis by actomyosin. *Biochemistry, 10*(25), 4617–4624. [https://doi.org/10.1021/bi00801a004](https://doi.org/10.1021/bi00801a004)
 
 Lyons, T. W., Reinhard, C. T., & Planavsky, N. J. (2014). The rise of oxygen in Earth’s early ocean and atmosphere. *Nature, 506*(7488), 307–315. [https://doi.org/10.1038/nature13068](https://doi.org/10.1038/nature13068)
+
+MacCormack, J. K., & Lindquist, K. A. (2019). Feeling hangry? When hunger is conceptualized as emotion. *Emotion, 19*(2), 301–319. [https://doi.org/10.1037/emo0000422](https://doi.org/10.1037/emo0000422)
+
+MacDougall, H. G., & Moore, S. T. (2005). Marching to the beat of the same drummer: The spontaneous tempo of human locomotion. *Journal of Applied Physiology, 99*(3), 1164–1173. [https://doi.org/10.1152/japplphysiol.00138.2005](https://doi.org/10.1152/japplphysiol.00138.2005)
 
 Machta, B. B., Chachra, R., Transtrum, M. K., & Sethna, J. P. (2013). Parameter space compression underlies emergent theories and predictive models. *Science, 342*(6158), 604–607. [https://doi.org/10.1126/science.1238723](https://doi.org/10.1126/science.1238723)
 
@@ -5638,6 +6112,8 @@ Mardling, R. A., & Aarseth, S. J. (2001). Tidal interactions in star cluster sim
 
 Marfella, R., Prattichizzo, F., Sardu, C., Fulgenzi, G., Graciotti, L., Spadoni, T., D’Onofrio, N., Scisciola, L., La Grotta, R., Frigé, C., Pellegrini, V., Municinò, M., Siniscalchi, M., Spinetti, F., Vigliotti, G., Vecchione, C., Carrizzo, A., Accarino, G., Squillante, A., . . . Paolisso, G. (2024). Microplastics and nanoplastics in atheromas and cardiovascular events. *New England Journal of Medicine, 390*(10), 900–910. [https://doi.org/10.1056/NEJMoa2309822](https://doi.org/10.1056/NEJMoa2309822)
 
+Martinez-Conde, S., Macknik, S. L., Troncoso, X. G., & Dyar, T. A. (2006). Microsaccades counteract visual fading during fixation. *Neuron, 49*(2), 297–305. [https://doi.org/10.1016/j.neuron.2005.11.033](https://doi.org/10.1016/j.neuron.2005.11.033)
+
 Masarik, A. S., Martin, M. J., Ferrer, E., Lorenz, F. O., Conger, K. J., & Conger, R. D. (2016). Couple resilience to economic pressure over time and across generations. *Journal of Marriage and Family, 78*(2), 326–345. [https://doi.org/10.1111/jomf.12284](https://doi.org/10.1111/jomf.12284)
 
 Mashour, G. A., Roelfsema, P., Changeux, J.-P., & Dehaene, S. (2020). Conscious processing and the global neuronal workspace hypothesis. *Neuron, 105*(5), 776–798. [https://doi.org/10.1016/j.neuron.2020.01.026](https://doi.org/10.1016/j.neuron.2020.01.026)
@@ -5652,13 +6128,21 @@ Maynard Smith, J., & Szathmáry, E. (1995). *The major transitions in evolution*
 
 McBrearty, S., & Brooks, A. S. (2000). The revolution that wasn’t: A new interpretation of the origin of modern human behavior. *Journal of Human Evolution, 39*(5), 453–563. [https://doi.org/10.1006/jhev.2000.0435](https://doi.org/10.1006/jhev.2000.0435)
 
+McCarthy, J. (1960). Recursive functions of symbolic expressions and their computation by machine, Part I. *Communications of the ACM, 3*(4), 184–195. [https://doi.org/10.1145/367177.367199](https://doi.org/10.1145/367177.367199)
+
 McClelland, J. L., McNaughton, B. L., & O’Reilly, R. C. (1995). Why there are complementary learning systems in the hippocampus and neocortex: Insights from the successes and failures of connectionist models of learning and memory. *Psychological Review, 102*(3), 419–457. [https://doi.org/10.1037/0033-295X.102.3.419](https://doi.org/10.1037/0033-295X.102.3.419)
 
 McClung, C. R. (2006). Plant circadian rhythms. *The Plant Cell, 18*(4), 792–803. [https://doi.org/10.1105/tpc.106.040980](https://doi.org/10.1105/tpc.106.040980)
 
 McCumber, D. E. (1968). Effect of ac impedance on dc voltage-current characteristics of superconductor weak-link junctions. *Journal of Applied Physics, 39*(7), 3113–3118. [https://doi.org/10.1063/1.1656743](https://doi.org/10.1063/1.1656743)
 
+McDermott, J. H., Schultz, A. F., Undurraga, E. A., & Godoy, R. A. (2016). Indifference to dissonance in native Amazonians reveals cultural variation in music perception. *Nature, 535*(7613), 547–550. [https://doi.org/10.1038/nature18635](https://doi.org/10.1038/nature18635)
+
 McEwen, B. S. (1998). Protective and damaging effects of stress mediators. *New England Journal of Medicine, 338*(3), 171–179. [https://doi.org/10.1056/NEJM199801153380307](https://doi.org/10.1056/NEJM199801153380307)
+
+Mehr, S. A., Krasnow, M. M., Bryant, G. A., & Hagen, E. H. (2021). Origins of music in credible signaling. *Behavioral and Brain Sciences, 44*, Article e60. [https://doi.org/10.1017/S0140525X20000345](https://doi.org/10.1017/S0140525X20000345)
+
+Mehr, S. A., Singh, M., Knox, D., Ketter, D. M., Pickens-Jones, D., Atwood, S., Lucas, C., Jacoby, N., Egner, A. A., Hopkins, E. J., Howard, R. M., Hartshorne, J. K., Jennings, M. V., Simson, J., Bainbridge, C. M., Pinker, S., O’Donnell, T. J., Krasnow, M. M., & Glowacki, L. (2019). Universality and diversity in human song. *Science, 366*(6468), Article eaax0868. [https://doi.org/10.1126/science.aax0868](https://doi.org/10.1126/science.aax0868)
 
 Méndez-Bértolo, C., Moratti, S., Toledano, R., Lopez-Sosa, F., Martínez-Alvarez, R., Mah, Y. H., Vuilleumier, P., Gil-Nagel, A., & Strange, B. A. (2016). A fast pathway for fear in human amygdala. *Nature Neuroscience, 19*(8), 1041–1049. [https://doi.org/10.1038/nn.4324](https://doi.org/10.1038/nn.4324)
 
@@ -5678,7 +6162,11 @@ Micoulaud-Franchi, J.-A., Vaillant, F., Lopez, R., Peri, P., Baillif, A., Brande
 
 Miller, D. T., & Gunasegaram, S. (1990). Temporal order and the perceived mutability of events: Implications for blame assignment. *Journal of Personality and Social Psychology, 59*(6), 1111–1118. [https://doi.org/10.1037/0022-3514.59.6.1111](https://doi.org/10.1037/0022-3514.59.6.1111)
 
+Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review, 63*(2), 81–97. [https://doi.org/10.1037/h0043158](https://doi.org/10.1037/h0043158)
+
 Miller, J. R., Calcaterra, L. T., & Closs, G. L. (1984). Intramolecular long-distance electron transfer in radical anions. The effects of free energy and solvent on the reaction rates. *Journal of the American Chemical Society, 106*(10), 3047–3049. [https://doi.org/10.1021/ja00322a058](https://doi.org/10.1021/ja00322a058)
+
+Miller, L. E., Montroni, L., Koun, E., Salemme, R., Hayward, V., & Farnè, A. (2018). Sensing with tools extends somatosensory processing beyond the body. *Nature, 561*(7722), 239–242. [https://doi.org/10.1038/s41586-018-0460-0](https://doi.org/10.1038/s41586-018-0460-0)
 
 Miller, M. B., & Bassler, B. L. (2001). Quorum sensing in bacteria. *Annual Review of Microbiology, 55*, 165–199. [https://doi.org/10.1146/annurev.micro.55.1.165](https://doi.org/10.1146/annurev.micro.55.1.165)
 
@@ -5764,9 +6252,13 @@ Noether, E. (1918). Invariante Variationsprobleme. *Nachrichten von der Gesellsc
 
 Nogga, A., Kamada, H., & Glöckle, W. (2000). Modern nuclear force predictions for the α particle. *Physical Review Letters, 85*(5), 944–947. [https://doi.org/10.1103/physrevlett.85.944](https://doi.org/10.1103/physrevlett.85.944)
 
+Norman, M. D., Finn, J., & Tregenza, T. (2001). Dynamic mimicry in an Indo-Malayan octopus. *Proceedings of the Royal Society B: Biological Sciences, 268*(1478), 1755–1758. [https://doi.org/10.1098/rspb.2001.1708](https://doi.org/10.1098/rspb.2001.1708)
+
 Nyquist, H. (1928). Thermal agitation of electric charge in conductors. *Physical Review, 32*(1), 110–113. [https://doi.org/10.1103/physrev.32.110](https://doi.org/10.1103/physrev.32.110)
 
 Oberauer, K., & Lewandowsky, S. (2008). Forgetting in immediate serial recall: Decay, temporal distinctiveness, or interference? *Psychological Review, 115*(3), 544–576. [https://doi.org/10.1037/0033-295X.115.3.544](https://doi.org/10.1037/0033-295X.115.3.544)
+
+Ozaki, Y., Tierney, A., Pfordresher, P. Q., McBride, J. M., Benetos, E., Proutskova, P., Chiba, G., Liu, F., Jacoby, N., Purdy, S. C., Opondo, P., Fitch, W. T., Hegde, S., Rocamora, M., Thorne, R., Nweke, F., Sadaphal, D. P., Sadaphal, P. M., Hadavi, S., . . . Savage, P. E. (2024). Globally, songs and instrumental melodies are slower and higher and use more stable pitches than speech: A Registered Report. *Science Advances, 10*(20), Article eadm9797. [https://doi.org/10.1126/sciadv.adm9797](https://doi.org/10.1126/sciadv.adm9797)
 
 O’Connor, M.-F., Wellisch, D. K., Stanton, A. L., Eisenberger, N. I., Irwin, M. R., & Lieberman, M. D. (2008). Craving love? Enduring grief activates brain’s reward center. *NeuroImage, 42*(2), 969–972. [https://doi.org/10.1016/j.neuroimage.2008.04.256](https://doi.org/10.1016/j.neuroimage.2008.04.256)
 
@@ -5797,6 +6289,8 @@ Parnia, S., Keshavarz Shirazi, T., Patel, J., Tran, L., Sinha, N., O’Neill, C.
 Parthey, C. G., Matveev, A., Alnis, J., Bernhardt, B., Beyer, A., Holzwarth, R., Maistrou, A., Pohl, R., Predehl, K., Udem, T., Wilken, T., Kolachevsky, N., Abgrall, M., Rovera, D., Salomon, C., Laurent, P., & Hänsch, T. W. (2011). Improved measurement of the hydrogen 1S–2S transition frequency. *Physical Review Letters, 107*(20), 203001. [https://doi.org/10.1103/physrevlett.107.203001](https://doi.org/10.1103/physrevlett.107.203001)
 
 Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin, 116*(2), 220–244. [https://doi.org/10.1037/0033-2909.116.2.220](https://doi.org/10.1037/0033-2909.116.2.220)
+
+Patel, A. D., Iversen, J. R., Bregman, M. R., & Schulz, I. (2009). Experimental evidence for synchronization to a musical beat in a nonhuman animal. *Current Biology, 19*(10), 827–830. [https://doi.org/10.1016/j.cub.2009.03.038](https://doi.org/10.1016/j.cub.2009.03.038)
 
 Patel, B. H., Percivalle, C., Ritson, D. J., Duffy, C. D., & Sutherland, J. D. (2015). Common origins of RNA, protein and lipid precursors in a cyanosulfidic protometabolism. *Nature Chemistry, 7*(4), 301–307. [https://doi.org/10.1038/nchem.2202](https://doi.org/10.1038/nchem.2202)
 
@@ -5834,6 +6328,8 @@ Planck Collaboration. (2014). *Planck* 2013 results: XXVII. Doppler boosting of 
 
 Planck Collaboration. (2020). *Planck* 2018 results: VI. Cosmological parameters. *Astronomy & Astrophysics, 641*, Article A6. [https://doi.org/10.1051/0004-6361/201833910](https://doi.org/10.1051/0004-6361/201833910)
 
+Plantinga, J., & Trainor, L. J. (2005). Memory for melody: Infants use a relative pitch code. *Cognition, 98*(1), 1–11. [https://doi.org/10.1016/j.cognition.2004.09.008](https://doi.org/10.1016/j.cognition.2004.09.008)
+
 Ploner, M., Gross, J., Timmermann, L., & Schnitzler, A. (2002). Cortical representation of first and second pain sensation in humans. *Proceedings of the National Academy of Sciences, 99*(19), 12444–12448. [https://doi.org/10.1073/pnas.182272899](https://doi.org/10.1073/pnas.182272899)
 
 Plutarch. (1917). Pompey. In *Plutarch’s lives* (B. Perrin, Trans., Vol. 5). Harvard University Press. [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Pompey*.html)
@@ -5845,6 +6341,8 @@ Polman, E. (2012). Self–other decision making and loss aversion. *Organization
 Pophale, A., Shimizu, K., Mano, T., Iglesias, T. L., Martin, K., Hiroi, M., Asada, K., Andaluz, P. G., Van Dinh, T. T., Meshulam, L., & Reiter, S. (2023). Wake-like skin patterning and neural activity during octopus sleep. *Nature, 619*(7968), 129–134. [https://doi.org/10.1038/s41586-023-06203-4](https://doi.org/10.1038/s41586-023-06203-4)
 
 Porkka-Heiskanen, T., Strecker, R. E., Thakkar, M., Bjørkum, A. A., Greene, R. W., & McCarley, R. W. (1997). Adenosine: A mediator of the sleep-inducing effects of prolonged wakefulness. *Science, 276*(5316), 1265–1268. [https://doi.org/10.1126/science.276.5316.1265](https://doi.org/10.1126/science.276.5316.1265)
+
+Posner, M. I., & Keele, S. W. (1968). On the genesis of abstract ideas. *Journal of Experimental Psychology, 77*(3, Pt. 1), 353–363. [https://doi.org/10.1037/h0025953](https://doi.org/10.1037/h0025953)
 
 Price, D. J. de S. (1976). A general theory of bibliometric and other cumulative advantage processes. *Journal of the American Society for Information Science, 27*(5), 292–306. [https://doi.org/10.1002/asi.4630270505](https://doi.org/10.1002/asi.4630270505)
 
@@ -5868,6 +6366,8 @@ Rainville, S., Thompson, J. K., Myers, E. G., Brown, J. M., Dewey, M. S., Kessle
 
 Ramachandran, V. S., & Hirstein, W. (1998). The perception of phantom limbs. The D. O. Hebb lecture. *Brain, 121*(9), 1603–1630. [https://doi.org/10.1093/brain/121.9.1603](https://doi.org/10.1093/brain/121.9.1603)
 
+Ramirez, A. P., Hayashi, A., Cava, R. J., Siddharthan, R., & Shastry, B. S. (1999). Zero-point entropy in ‘spin ice’. *Nature, 399*(6734), 333–335. [https://doi.org/10.1038/20619](https://doi.org/10.1038/20619)
+
 Rankin, C. H., Abrams, T., Barry, R. J., Bhatnagar, S., Clayton, D. F., Colombo, J., Coppola, G., Geyer, M. A., Glanzman, D. L., Marsland, S., McSweeney, F. K., Wilson, D. A., Wu, C.-F., & Thompson, R. F. (2009). Habituation revisited: An updated and revised description of the behavioral characteristics of habituation. *Neurobiology of Learning and Memory, 92*(2), 135–138. [https://doi.org/10.1016/j.nlm.2008.09.012](https://doi.org/10.1016/j.nlm.2008.09.012)
 
 Rath, S., Sharma, R., Gupta, R., Ast, T., Chan, C., Durham, T. J., Goodman, R. P., Grabarek, Z., Haas, M. E., Hung, W. H. W., Joshi, P. R., Jourdain, A. A., Kim, S. H., Kotrys, A. V., Lam, S. S., McCoy, J. G., Meisel, J. D., Miranda, M., Panda, A., . . . Mootha, V. K. (2021). MitoCarta3.0: An updated mitochondrial proteome now with sub-organelle localization and pathway annotations. *Nucleic Acids Research, 49*(D1), D1541–D1547. [https://doi.org/10.1093/nar/gkaa1011](https://doi.org/10.1093/nar/gkaa1011)
@@ -5875,6 +6375,8 @@ Rath, S., Sharma, R., Gupta, R., Ast, T., Chan, C., Durham, T. J., Goodman, R. P
 Rattenborg, N. C., Lima, S. L., & Amlaner, C. J. (1999). Half-awake to the risk of predation. *Nature, 397*(6718), 397–398. [https://doi.org/10.1038/17037](https://doi.org/10.1038/17037)
 
 Rauert, C., Charlton, N., Bagley, A., Dunlop, S. A., Symeonides, C., & Thomas, K. V. (2025). Assessing the efficacy of pyrolysis–gas chromatography–mass spectrometry for nanoplastic and microplastic analysis in human blood. *Environmental Science & Technology, 59*(4), 1984–1994. [https://doi.org/10.1021/acs.est.4c12599](https://doi.org/10.1021/acs.est.4c12599)
+
+Raymaker, D. M., Teo, A. R., Steckler, N. A., Lentz, B., Scharer, M., Delos Santos, A., Kapp, S. K., Hunter, M., Joyce, A., & Nicolaidis, C. (2020). “Having all of your internal resources exhausted beyond measure and being left with no clean-up crew”: Defining autistic burnout. *Autism in Adulthood, 2*(2), 132–143. [https://doi.org/10.1089/aut.2019.0079](https://doi.org/10.1089/aut.2019.0079)
 
 Rechtschaffen, A., Hauri, P., & Zeitlin, M. (1966). Auditory awakening thresholds in REM and NREM sleep stages. *Perceptual and Motor Skills, 22*(3), 927–942. [https://doi.org/10.2466/pms.1966.22.3.927](https://doi.org/10.2466/pms.1966.22.3.927)
 
@@ -5884,6 +6386,10 @@ Reisenegger, A. (2009). Neutron stars and their magnetic fields. *Revista Mexica
 
 Repetti, R. L. (1989). Effects of daily workload on subsequent behavior during marital interaction: The roles of social withdrawal and spouse support. *Journal of Personality and Social Psychology, 57*(4), 651–659. [https://doi.org/10.1037/0022-3514.57.4.651](https://doi.org/10.1037/0022-3514.57.4.651)
 
+Repp, B. H. (2005). Sensorimotor synchronization: A review of the tapping literature. *Psychonomic Bulletin & Review, 12*(6), 969–992. [https://doi.org/10.3758/BF03206433](https://doi.org/10.3758/BF03206433)
+
+Repp, B. H. (2006). Rate limits of sensorimotor synchronization. *Advances in Cognitive Psychology, 2*(2), 163–181. [https://doi.org/10.2478/v10053-008-0053-9](https://doi.org/10.2478/v10053-008-0053-9)
+
 Rescorla, R. A. (1988). Pavlovian conditioning: It’s not what you think it is. *American Psychologist, 43*(3), 151–160. [https://doi.org/10.1037/0003-066X.43.3.151](https://doi.org/10.1037/0003-066X.43.3.151)
 
 Resulaj, A., Kiani, R., Wolpert, D. M., & Shadlen, M. N. (2009). Changes of mind in decision-making. *Nature, 461*(7261), 263–266. [https://doi.org/10.1038/nature08275](https://doi.org/10.1038/nature08275)
@@ -5891,6 +6397,8 @@ Resulaj, A., Kiani, R., Wolpert, D. M., & Shadlen, M. N. (2009). Changes of mind
 Richards, J. M., & Gross, J. J. (2000). Emotion regulation and memory: The cognitive costs of keeping one’s cool. *Journal of Personality and Social Psychology, 79*(3), 410–424. [https://doi.org/10.1037/0022-3514.79.3.410](https://doi.org/10.1037/0022-3514.79.3.410)
 
 Riess, A. G., Filippenko, A. V., Challis, P., Clocchiatti, A., Diercks, A., Garnavich, P. M., Gilliland, R. L., Hogan, C. J., Jha, S., Kirshner, R. P., Leibundgut, B., Phillips, M. M., Reiss, D., Schmidt, B. P., Schommer, R. A., Smith, R. C., Spyromilio, J., Stubbs, C., Suntzeff, N. B., & Tonry, J. (1998). Observational evidence from supernovae for an accelerating universe and a cosmological constant. *The Astronomical Journal, 116*(3), 1009–1038. [https://doi.org/10.1086/300499](https://doi.org/10.1086/300499)
+
+Riggs, L. A., Ratliff, F., Cornsweet, J. C., & Cornsweet, T. N. (1953). The disappearance of steadily fixated visual test objects. *Journal of the Optical Society of America, 43*(6), 495–501. [https://doi.org/10.1364/JOSA.43.000495](https://doi.org/10.1364/JOSA.43.000495)
 
 Roberts, S. G. B., & Dunbar, R. I. M. (2015). Managing relationship decay: Network, gender, and contextual effects. *Human Nature, 26*(4), 426–450. [https://doi.org/10.1007/s12110-015-9242-7](https://doi.org/10.1007/s12110-015-9242-7)
 
@@ -5903,6 +6411,8 @@ Rohde, D. L. T., Olson, S., & Chang, J. T. (2004). Modelling the recent common a
 Rolls, B. J., Rolls, E. T., Rowe, E. A., & Sweeney, K. (1981). Sensory specific satiety in man. *Physiology & Behavior, 27*(1), 137–142. [https://doi.org/10.1016/0031-9384(81)90310-3](https://doi.org/10.1016/0031-9384(81)90310-3)
 
 Rosen, R. D., & Salstein, D. A. (1983). Variations in atmospheric angular momentum on global and regional scales and the length of day. *Journal of Geophysical Research: Oceans, 88*(C9), 5451–5470. [https://doi.org/10.1029/JC088iC09p05451](https://doi.org/10.1029/JC088iC09p05451)
+
+Rosenband, T., Hume, D. B., Schmidt, P. O., Chou, C. W., Brusch, A., Lorini, L., Oskay, W. H., Drullinger, R. E., Fortier, T. M., Stalnaker, J. E., Diddams, S. A., Swann, W. C., Newbury, N. R., Itano, W. M., Wineland, D. J., & Bergquist, J. C. (2008). Frequency ratio of Al⁺ and Hg⁺ single-ion optical clocks; metrology at the 17th decimal place. *Science, 319*(5871), 1808–1812. [https://doi.org/10.1126/science.1154622](https://doi.org/10.1126/science.1154622)
 
 Rosenberg, B., VanCamp, L., Trosko, J. E., & Mansour, V. H. (1969). Platinum compounds: A new class of potent antitumour agents. *Nature, 222*, 385–386. [https://doi.org/10.1038/222385a0](https://doi.org/10.1038/222385a0)
 
@@ -5920,7 +6430,11 @@ Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and c
 
 Russell, J. A. (2003). Core affect and the psychological construction of emotion. *Psychological Review, 110*(1), 145–172. [https://doi.org/10.1037/0033-295X.110.1.145](https://doi.org/10.1037/0033-295X.110.1.145)
 
+Russell, J. A., & Carroll, J. M. (1999). On the bipolarity of positive and negative affect. *Psychological Bulletin, 125*(1), 3–30. [https://doi.org/10.1037/0033-2909.125.1.3](https://doi.org/10.1037/0033-2909.125.1.3)
+
 Sack, R. L., Lewy, A. J., Blood, M. L., Keith, L. D., & Nakagawa, H. (1992). Circadian rhythm abnormalities in totally blind people: Incidence and clinical significance. *The Journal of Clinical Endocrinology & Metabolism, 75*(1), 127–134. [https://doi.org/10.1210/jcem.75.1.1619000](https://doi.org/10.1210/jcem.75.1.1619000)
+
+Safavi-Naeini, A. H., Chan, J., Hill, J. T., Alegre, T. P. M., Krause, A., & Painter, O. (2012). Observation of quantum motion of a nanomechanical resonator. *Physical Review Letters, 108*(3), Article 033602. [https://doi.org/10.1103/PhysRevLett.108.033602](https://doi.org/10.1103/PhysRevLett.108.033602)
 
 Saffer, H., & Chaloupka, F. (2000). The effect of tobacco advertising bans on tobacco consumption. *Journal of Health Economics, 19*(6), 1117–1137. [https://doi.org/10.1016/S0167-6296(00)00054-0](https://doi.org/10.1016/S0167-6296(00)00054-0)
 
@@ -5934,13 +6448,21 @@ Saladino, R., Crestini, C., Pino, S., Costanzo, G., & Di Mauro, E. (2012). Forma
 
 Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. *Science, 311*(5762), 854–856. [https://doi.org/10.1126/science.1121066](https://doi.org/10.1126/science.1121066)
 
-Sallon, S., Solowey, E., Cohen, Y., Korchinsky, R., Egli, M., Woodhatch, I., Simchoni, O., & Kislev, M. (2008). Germination, genetics, and growth of an ancient date seed. *Science, 320*(5882), 1464. [https://doi.org/10.1126/science.1153600](https://doi.org/10.1126/science.1153600)
+Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., & Zatorre, R. J. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. *Nature Neuroscience, 14*(2), 257–262. [https://doi.org/10.1038/nn.2726](https://doi.org/10.1038/nn.2726)
 
-Salmon, J. K., Moraes, M. A., Dror, R. O., & Shaw, D. E. (2011). Parallel random numbers: As easy as 1, 2, 3. In *Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis* (pp. 1–12). ACM. [https://doi.org/10.1145/2063384.2063405](https://doi.org/10.1145/2063384.2063405)
+Sallon, S., Solowey, E., Cohen, Y., Korchinsky, R., Egli, M., Woodhatch, I., Simchoni, O., & Kislev, M. (2008). Germination, genetics, and growth of an ancient date seed. *Science, 320*(5882), 1464. [https://doi.org/10.1126/science.1153600](https://doi.org/10.1126/science.1153600)
 
 Sandrini, G., Serrao, M., Rossi, P., Romaniello, A., Cruccu, G., & Willer, J. C. (2005). The lower limb flexion reflex in humans. *Progress in Neurobiology, 77*(6), 353–395. [https://doi.org/10.1016/j.pneurobio.2005.11.003](https://doi.org/10.1016/j.pneurobio.2005.11.003)
 
+Savage, P. E., Brown, S., Sakai, E., & Currie, T. E. (2015). Statistical universals reveal the structures and functions of human music. *Proceedings of the National Academy of Sciences, 112*(29), 8987–8992. [https://doi.org/10.1073/pnas.1414495112](https://doi.org/10.1073/pnas.1414495112)
+
+Savage, P. E., Loui, P., Tarr, B., Schachner, A., Glowacki, L., Mithen, S., & Fitch, W. T. (2021). Music as a coevolved system for social bonding. *Behavioral and Brain Sciences, 44*, Article e59. [https://doi.org/10.1017/S0140525X20000333](https://doi.org/10.1017/S0140525X20000333)
+
 Savoca, M. S., Wohlfeil, M. E., Ebeler, S. E., & Nevitt, G. A. (2016). Marine plastic debris emits a keystone infochemical for olfactory foraging seabirds. *Science Advances, 2*(11), Article e1600395. [https://doi.org/10.1126/sciadv.1600395](https://doi.org/10.1126/sciadv.1600395)
+
+Saxbe, D., & Repetti, R. L. (2010). For better or worse? Coregulation of couples’ cortisol levels and mood states. *Journal of Personality and Social Psychology, 98*(1), 92–103. [https://doi.org/10.1037/a0016959](https://doi.org/10.1037/a0016959)
+
+Schachner, A., Brady, T. F., Pepperberg, I. M., & Hauser, M. D. (2009). Spontaneous motor entrainment to music in multiple vocal mimicking species. *Current Biology, 19*(10), 831–836. [https://doi.org/10.1016/j.cub.2009.03.061](https://doi.org/10.1016/j.cub.2009.03.061)
 
 Schacter, D. L., & Addis, D. R. (2007). The cognitive neuroscience of constructive memory: Remembering the past and imagining the future. *Philosophical Transactions of the Royal Society B: Biological Sciences, 362*(1481), 773–786. [https://doi.org/10.1098/rstb.2007.2087](https://doi.org/10.1098/rstb.2007.2087)
 
@@ -5953,6 +6475,8 @@ Schiestl, F. P., Ayasse, M., Paulus, H. F., Löfstedt, C., Hansson, B. S., Ibarr
 Schmidt-Rohr, K. (2015). Why combustions are always exothermic, yielding about 418 kJ per mole of O₂. *Journal of Chemical Education, 92*(12), 2094–2099. [https://doi.org/10.1021/acs.jchemed.5b00333](https://doi.org/10.1021/acs.jchemed.5b00333)
 
 Schröder, E. (1870). Vier combinatorische Probleme. *Zeitschrift für Mathematik und Physik, 15*, 361–376.
+
+Schulz, R., Mendelsohn, A. B., Haley, W. E., Mahoney, D., Allen, R. S., Zhang, S., Thompson, L., & Belle, S. H. (2003). End-of-life care and the effects of bereavement on family caregivers of persons with dementia. *New England Journal of Medicine, 349*(20), 1936–1942. [https://doi.org/10.1056/NEJMsa035373](https://doi.org/10.1056/NEJMsa035373)
 
 Schwinger, J. (1951). On gauge invariance and vacuum polarization. *Physical Review, 82*(5), 664–679. [https://doi.org/10.1103/physrev.82.664](https://doi.org/10.1103/physrev.82.664)
 
@@ -5970,9 +6494,13 @@ Shapiro, I. I. (1964). Fourth test of general relativity. *Physical Review Lette
 
 Sharma, S. K., Klee, W. A., & Nirenberg, M. (1975). Dual regulation of adenylate cyclase accounts for narcotic dependence and tolerance. *Proceedings of the National Academy of Sciences of the United States of America, 72*(8), 3092–3096. [https://doi.org/10.1073/pnas.72.8.3092](https://doi.org/10.1073/pnas.72.8.3092)
 
+Shepard, R. N. (1987). Toward a universal law of generalization for psychological science. *Science, 237*(4820), 1317–1323. [https://doi.org/10.1126/science.3629243](https://doi.org/10.1126/science.3629243)
+
 Shepard, R. N., & Metzler, J. (1971). Mental rotation of three-dimensional objects. *Science, 171*(3972), 701–703. [https://doi.org/10.1126/science.171.3972.701](https://doi.org/10.1126/science.171.3972.701)
 
 Shohat-Ophir, G., Kaun, K. R., Azanchi, R., Mohammed, H., & Heberlein, U. (2012). Sexual deprivation increases ethanol intake in *Drosophila*. *Science, 335*(6074), 1351–1355. [https://doi.org/10.1126/science.1215932](https://doi.org/10.1126/science.1215932)
+
+Shoval, O., Goentoro, L., Hart, Y., Mayo, A., Sontag, E., & Alon, U. (2010). Fold-change detection and scalar symmetry of sensory input fields. *Proceedings of the National Academy of Sciences, 107*(36), 15995–16000. [https://doi.org/10.1073/pnas.1002352107](https://doi.org/10.1073/pnas.1002352107)
 
 Shuai, Y., Lu, B., Hu, Y., Wang, L., Sun, K., & Zhong, Y. (2010). Forgetting is regulated through Rac activity in Drosophila. *Cell, 140*(4), 579–589. [https://doi.org/10.1016/j.cell.2009.12.044](https://doi.org/10.1016/j.cell.2009.12.044)
 
@@ -6074,11 +6602,17 @@ Taylor, J. E. (1976). The structure of singularities in soap-bubble-like and soa
 
 Taylor, S. E. (1991). Asymmetrical effects of positive and negative events: The mobilization-minimization hypothesis. *Psychological Bulletin, 110*(1), 67–85. [https://doi.org/10.1037/0033-2909.110.1.67](https://doi.org/10.1037/0033-2909.110.1.67)
 
+Taylor, S. E., Fiske, S. T., Etcoff, N. L., & Ruderman, A. J. (1978). Categorical and contextual bases of person memory and stereotyping. *Journal of Personality and Social Psychology, 36*(7), 778–793. [https://doi.org/10.1037/0022-3514.36.7.778](https://doi.org/10.1037/0022-3514.36.7.778)
+
 Teff, K. L., Devine, J., & Engelman, K. (1995). Sweet taste: Effect on cephalic phase insulin release in men. *Physiology & Behavior, 57*(6), 1089–1095. [https://doi.org/10.1016/0031-9384(94)00373-D](https://doi.org/10.1016/0031-9384(94)00373-D)
 
 Thirion, C., Wernsdorfer, W., Jamet, M., Dupuis, V., Mélinon, P., Pérez, A., & Mailly, D. (2002). Micro-SQUID technique for studying the temperature dependence of switching fields of single nanoparticles. *Journal of Magnetism and Magnetic Materials, 242–245*, 993–995. [https://doi.org/10.1016/S0304-8853(01)01130-1](https://doi.org/10.1016/S0304-8853(01)01130-1)
 
 Thönes, S., & Oberfeld, D. (2015). Time perception in depression: A meta-analysis. *Journal of Affective Disorders, 175*, 359–372. [https://doi.org/10.1016/j.jad.2014.12.057](https://doi.org/10.1016/j.jad.2014.12.057)
+
+Tice, D. M. (1992). Self-concept change and self-presentation: The looking glass self is also a magnifying glass. *Journal of Personality and Social Psychology, 63*(3), 435–451. [https://doi.org/10.1037/0022-3514.63.3.435](https://doi.org/10.1037/0022-3514.63.3.435)
+
+Tiesinga, E., Mohr, P. J., Newell, D. B., & Taylor, B. N. (2021). CODATA recommended values of the fundamental physical constants: 2018. *Reviews of Modern Physics, 93*(2), Article 025010. [https://doi.org/10.1103/RevModPhys.93.025010](https://doi.org/10.1103/RevModPhys.93.025010)
 
 Tilley, D. R., Kelley, J. H., Godwin, J. L., Millener, D. J., Purcell, J. E., Sheu, C. G., & Weller, H. R. (2004). Energy levels of light nuclei A = 8, 9, 10. *Nuclear Physics A, 745*(3–4), 155–362. [https://doi.org/10.1016/j.nuclphysa.2004.09.059](https://doi.org/10.1016/j.nuclphysa.2004.09.059)
 
@@ -6090,7 +6624,13 @@ Tomova, L., Wang, K. L., Thompson, T., Matthews, G. A., Takahashi, A., Tye, K. M
 
 Tononi, G., & Cirelli, C. (2014). Sleep and the price of plasticity: From synaptic and cellular homeostasis to memory consolidation and integration. *Neuron, 81*(1), 12–34. [https://doi.org/10.1016/j.neuron.2013.12.025](https://doi.org/10.1016/j.neuron.2013.12.025)
 
+Toulouse, G. (1977). Theory of the frustration effect in spin glasses: I. *Communications on Physics, 2*, 115–119.
+
 Toyota, M., Spencer, D., Sawai-Toyota, S., Jiaqi, W., Zhang, T., Koo, A. J., Howe, G. A., & Gilroy, S. (2018). Glutamate triggers long-distance, calcium-based plant defense signaling. *Science, 361*(6407), 1112–1115. [https://doi.org/10.1126/science.aat7744](https://doi.org/10.1126/science.aat7744)
+
+Trachtenberg, J. T., Chen, B. E., Knott, G. W., Feng, G., Sanes, J. R., Welker, E., & Svoboda, K. (2002). Long-term in vivo imaging of experience-dependent synaptic plasticity in adult cortex. *Nature, 420*(6917), 788–794. [https://doi.org/10.1038/nature01273](https://doi.org/10.1038/nature01273)
+
+Trainor, L. J., & Trehub, S. E. (1994). Key membership and implied harmony in Western tonal music: Developmental perspectives. *Perception & Psychophysics, 56*(2), 125–132. [https://doi.org/10.3758/BF03213891](https://doi.org/10.3758/BF03213891)
 
 Trenberth, K. E., & Caron, J. M. (2001). Estimates of meridional atmosphere and ocean heat transports. *Journal of Climate, 14*(16), 3433–3443. [https://doi.org/10.1175/1520-0442(2001)014%3C3433:EOMAAO%3E2.0.CO;2](https://doi.org/10.1175/1520-0442(2001)014%3C3433:EOMAAO%3E2.0.CO;2)
 
@@ -6120,7 +6660,11 @@ Vallery, R. S., Zitzewitz, P. W., & Gidley, D. W. (2003). Resolution of the orth
 
 Valtonen, M. J., & Aarseth, S. J. (1977). Numerical experiments on the decay of three-body systems. *International Astronomical Union Colloquium, 33*, 163–166. [https://doi.org/10.1017/s0252921100052635](https://doi.org/10.1017/s0252921100052635)
 
+van Leeuwenhoek, A. (1677). Observations, communicated to the publisher by Mr. Antony van Leewenhoeck, in a Dutch letter of the 9th Octob. 1676 here English’d: Concerning little animals by him observed in rain-well-sea- and snow water; as also in water wherein pepper had lain infused. *Philosophical Transactions of the Royal Society of London, 12*(133), 821–831. [https://doi.org/10.1098/rstl.1677.0003](https://doi.org/10.1098/rstl.1677.0003)
+
 van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: A prospective study in the Netherlands. *The Lancet, 358*(9298), 2039–2045. [https://doi.org/10.1016/s0140-6736(01)07100-8](https://doi.org/10.1016/s0140-6736(01)07100-8)
+
+Van Dongen, H. P. A., Maislin, G., Mullington, J. M., & Dinges, D. F. (2003). The cumulative cost of additional wakefulness: Dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation. *Sleep, 26*(2), 117–126. [https://doi.org/10.1093/sleep/26.2.117](https://doi.org/10.1093/sleep/26.2.117)
 
 Van Waerbeke, L., Mellier, Y., Erben, T., Cuillandre, J. C., Bernardeau, F., Maoli, R., Bertin, E., McCracken, H. J., Le Fèvre, O., Fort, B., Dantel-Fort, M., Jain, B., & Schneider, P. (2000). Detection of correlated galaxy ellipticities from CFHT data: First evidence for gravitational lensing by large-scale structures. *Astronomy and Astrophysics, 358*, 30–44. [https://arxiv.org/abs/astro-ph/0002500](https://arxiv.org/abs/astro-ph/0002500)
 
@@ -6149,6 +6693,8 @@ von Schuckmann, K., Minière, A., Gues, F., Cuesta-Valero, F. J., Kirchengast, G
 Voss, H. U. (2000). Anticipating chaotic synchronization. *Physical Review E, 61*(5), 5115–5119. [https://doi.org/10.1103/PhysRevE.61.5115](https://doi.org/10.1103/PhysRevE.61.5115)
 
 Voysey, M., Costa Clemens, S. A., Madhi, S. A., Weckx, L. Y., Folegatti, P. M., Aley, P. K., Angus, B., Baillie, V. L., Barnabas, S. L., Bhorat, Q. E., Bibi, S., Briner, C., Cicconi, P., Clutterbuck, E. A., Collins, A. M., Cutland, C. L., Darton, T. C., Dheda, K., Dold, C., . . . Oxford COVID Vaccine Trial Group. (2021). Single-dose administration and the influence of the timing of the booster dose on immunogenicity and efficacy of ChAdOx1 nCoV-19 (AZD1222) vaccine: A pooled analysis of four randomised trials. *The Lancet, 397*(10277), 881–891. [https://doi.org/10.1016/s0140-6736(21)00432-3](https://doi.org/10.1016/s0140-6736(21)00432-3)
+
+Vyazovskiy, V. V., Olcese, U., Hanlon, E. C., Nir, Y., Cirelli, C., & Tononi, G. (2011). Local sleep in awake rats. *Nature, 472*(7344), 443–447. [https://doi.org/10.1038/nature10009](https://doi.org/10.1038/nature10009)
 
 Wada, M., Takano, K., Ora, H., Ide, M., & Kansaku, K. (2016). The rubber tail illusion as evidence of body ownership in mice. *The Journal of Neuroscience, 36*(43), 11133–11137. [https://doi.org/10.1523/JNEUROSCI.3006-15.2016](https://doi.org/10.1523/JNEUROSCI.3006-15.2016)
 
@@ -6194,15 +6740,21 @@ Williams, J. G., Turyshev, S. G., & Boggs, D. H. (2004). Progress in lunar laser
 
 Williams, J. P., & Cieza, L. A. (2011). Protoplanetary disks and their evolution. *Annual Review of Astronomy and Astrophysics, 49*, 67–117. [https://doi.org/10.1146/annurev-astro-081710-102548](https://doi.org/10.1146/annurev-astro-081710-102548)
 
+Wills, T. J., Lever, C., Cacucci, F., Burgess, N., & O’Keefe, J. (2005). Attractor dynamics in the hippocampal representation of the local environment. *Science, 308*(5723), 873–876. [https://doi.org/10.1126/science.1108905](https://doi.org/10.1126/science.1108905)
+
 Wilson, C. T. R. (1897). Condensation of water vapour in the presence of dust-free air and other gases. *Proceedings of the Royal Society of London, 61*, 240–242. [https://doi.org/10.1098/rspl.1897.0030](https://doi.org/10.1098/rspl.1897.0030)
 
 Wilson, M. A., & McNaughton, B. L. (1994). Reactivation of hippocampal ensemble memories during sleep. *Science, 265*(5172), 676–679. [https://doi.org/10.1126/science.8036517](https://doi.org/10.1126/science.8036517)
+
+Wiltermuth, S. S., & Heath, C. (2009). Synchrony and cooperation. *Psychological Science, 20*(1), 1–5. [https://doi.org/10.1111/j.1467-9280.2008.02253.x](https://doi.org/10.1111/j.1467-9280.2008.02253.x)
 
 Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children’s understanding of deception. *Cognition, 13*(1), 103–128. [https://doi.org/10.1016/0010-0277(83)90004-5](https://doi.org/10.1016/0010-0277(83)90004-5)
 
 Wimmer, R. D., Schmitt, L. I., Davidson, T. J., Nakajima, M., Deisseroth, K., & Halassa, M. M. (2015). Thalamic control of sensory selection in divided attention. *Nature, 526*(7575), 705–709. [https://doi.org/10.1038/nature15398](https://doi.org/10.1038/nature15398)
 
 Winawer, J., Witthoft, N., Frank, M. C., Wu, L., Wade, A. R., & Boroditsky, L. (2007). Russian blues reveal effects of language on color discrimination. *Proceedings of the National Academy of Sciences, 104*(19), 7780–7785. [https://doi.org/10.1073/pnas.0701644104](https://doi.org/10.1073/pnas.0701644104)
+
+Winkler, I., Háden, G. P., Ladinig, O., Sziller, I., & Honing, H. (2009). Newborn infants detect the beat in music. *Proceedings of the National Academy of Sciences, 106*(7), 2468–2471. [https://doi.org/10.1073/pnas.0809035106](https://doi.org/10.1073/pnas.0809035106)
 
 Winstanley, C. A., Cocker, P. J., & Rogers, R. D. (2011). Dopamine modulates reward expectancy during performance of a slot machine task in rats: Evidence for a ‘near-miss’ effect. *Neuropsychopharmacology, 36*(5), 913–925. [https://doi.org/10.1038/npp.2010.230](https://doi.org/10.1038/npp.2010.230)
 
@@ -6233,6 +6785,10 @@ Yang, Y., Yang, J., & Jiang, L. (2016). Comment on “A bacterium that degrades 
 Yang, Y.-B., Liang, J., Bi, Y.-J., Chen, Y., Draper, T., Liu, K.-F., & Liu, Z. (2018). Proton mass decomposition from the QCD energy momentum tensor. *Physical Review Letters, 121*(21), 212001. [https://doi.org/10.1103/physrevlett.121.212001](https://doi.org/10.1103/physrevlett.121.212001)
 
 Yewdell, J. W., & Bennink, J. R. (1999). Immunodominance in major histocompatibility complex class I-restricted T lymphocyte responses. *Annual Review of Immunology, 17*, 51–88. [https://doi.org/10.1146/annurev.immunol.17.1.51](https://doi.org/10.1146/annurev.immunol.17.1.51)
+
+Yoo, S.-S., Gujar, N., Hu, P., Jolesz, F. A., & Walker, M. P. (2007a). The human emotional brain without sleep: A prefrontal amygdala disconnect. *Current Biology, 17*(20), R877–R878. [https://doi.org/10.1016/j.cub.2007.08.007](https://doi.org/10.1016/j.cub.2007.08.007)
+
+Yoo, S.-S., Hu, P. T., Gujar, N., Jolesz, F. A., & Walker, M. P. (2007b). A deficit in the ability to form new human memories without sleep. *Nature Neuroscience, 10*(3), 385–392. [https://doi.org/10.1038/nn1851](https://doi.org/10.1038/nn1851)
 
 Yoshida, S., Hiraga, K., Takehana, T., Taniguchi, I., Yamaji, H., Maeda, Y., Toyohara, K., Miyamoto, K., Kimura, Y., & Oda, K. (2016). A bacterium that degrades and assimilates poly(ethylene terephthalate). *Science, 351*(6278), 1196–1199. [https://doi.org/10.1126/science.aad6359](https://doi.org/10.1126/science.aad6359)
 

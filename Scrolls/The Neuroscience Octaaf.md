@@ -12,7 +12,7 @@ The Speelgoed was built to describe relationships, and relationships are lived b
 
 ### 0.1 What this document is
 
-Like the thermodynamic, cosmic and quantum Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of §XXVII with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the thermodynamic, cosmic and quantum Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of *Formal Structure* §XIV with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Three rules govern the mappings:
 
@@ -42,7 +42,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.3.
+**References.** References such as §II or *Formal Structure* §II point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.3.
 
 ---
 
@@ -50,22 +50,22 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Value at this Octaaf | Grade | Here |
 |---|---|---|---|
-| Echo filter: τ, δ, υ (§XV) | Prediction update; the steady-state Kalman filter, with 1/τ set by precision | Identity | §2.1 |
+| Echo filter: τ, δ, υ (*Formal Structure* §II) | Prediction update; the steady-state Kalman filter, with 1/τ set by precision | Identity | §2.1 |
 | Gericht (§X) | Precision-weighted combination of cues | Correspondence (measured) | §2.1 |
-| Trouw learning: y, ρ (§XV) | The delta rule of learning (Rescorla–Wagner), without its error term | Correspondence | §2.2 |
-| Gevoel and what it feels (§XXI; §XXII) | Reward-prediction-error teaching signal | Correspondence | §2.2 |
+| Trouw learning: y, ρ (*Formal Structure* §II) | The delta rule of learning (Rescorla–Wagner), without its error term | Correspondence | §2.2 |
+| Gevoel and what it feels (*Formal Structure* §VIII; *Formal Structure* §IX) | Reward-prediction-error teaching signal | Correspondence | §2.2 |
 | Drempel θ; Reactie (§II.2, §VII.3) | Decision criterion; evidence accumulated to a bound | Identity | §2.3 |
-| Mode switch of a Duo; Marge η (§XIX) | Phase transitions in coordination, between hands and between people; hysteresis | Correspondence (measured) | §2.4 |
-| Wijk, L ∝ exp(−η/‖υ‖) (§VI.5; §XV); the landscape (§XIX) | Noise-driven switching between perceptual states; whole-brain states as a landscape of poles; power-law forgetting from spread-out Marges | Identity (landscape) + Correspondence (measured) + prediction | §2.5 |
+| Mode switch of a Duo; Marge η (*Formal Structure* §VI) | Phase transitions in coordination, between hands and between people; hysteresis | Correspondence (measured) | §2.4 |
+| Wijk, L ∝ exp(−η/‖υ‖) (§VI.5; *Formal Structure* §II); the landscape (*Formal Structure* §VI) | Noise-driven switching between perceptual states; whole-brain states as a landscape of poles; power-law forgetting from spread-out Marges | Identity (landscape) + Correspondence (measured) + prediction | §2.5 |
 | Echo between two members, with δ | Speaker–listener neural coupling, lagged and anticipatory | Correspondence (measured) | §3.1 |
 | Shared Trouw (§II.2) | Pair-level measures; not a single molecule | Constraint | §3.2 |
 | Zelf, self-gap, Bevraagbaar (§VII.4, §X) | Self-model; interoceptive accuracy; metacognitive sensitivity | Correspondence | §3.3 |
 | Realisatie (§II.2) | Insight as a discrete neural event | Correspondence | §3.4 |
-| Diepte (§II.2, §XV) | Slow integration of experience into priors | Correspondence | §3.5 |
-| Masker and the wearer's Verlies (§X; §XXIII) | Expressive suppression: costs to wearer and partner | Correspondence (measured) | §3.6 |
+| Diepte (§II.2, *Formal Structure* §II) | Slow integration of experience into priors | Correspondence | §3.5 |
+| Masker and the wearer's Verlies (§X; *Formal Structure* §X) | Expressive suppression: costs to wearer and partner | Correspondence (measured) | §3.6 |
 | Rouw (§IX.9) | Grief: continuing bonds, oscillation, and prolonged grief | Correspondence (measured) | §3.7 |
 | Greep (§II.2, §VI.4) | Social integration and survival | Correspondence (observational) | §3.8 |
-| The Medium's Warmte (§VI.2; §XIX) | The brain's energy use, dissipated as heat | Correspondence | §3.9 |
+| The Medium's Warmte (§VI.2; *Formal Structure* §VI) | The brain's energy use, dissipated as heat | Correspondence | §3.9 |
 | Stilte (§II.1) | Neural delay and the constructed present | Correspondence (mechanism contested) | §3.10 |
 | Tijd (§II.1; §IV.1) | The felt passage of time, measured apart from judgments of duration | Constraint | §3.11 |
 
@@ -75,7 +75,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 2.1 The Echo is a prediction update
 
-The Echo filter of §XV:
+The Echo filter of *Formal Structure* §II:
 
 ```
 I · Ë(t) + τ · Ė(t) = x(t − δ) + β − E(t) + υ(t)
@@ -87,13 +87,13 @@ Consider a brain tracking a hidden quantity, such as another person's state or t
 μ ← μ + K · (s − μ)
 ```
 
-Written continuously, this is τ·μ̇ = s − μ. It is the Echo filter with no Traagheid (I = 0) and no colouring by Diepte (β = 0), with E as the estimate μ, the noisy sample s as x(t − δ) + υ, and 1/τ as the gain K per unit time. **Grade: Identity** (of the update rule; this is not a claim that brains compute a Kalman filter exactly). §XV now names this filter as its source, so the Identity holds by construction.
+Written continuously, this is τ·μ̇ = s − μ. It is the Echo filter with no Traagheid (I = 0) and no colouring by Diepte (β = 0), with E as the estimate μ, the noisy sample s as x(t − δ) + υ, and 1/τ as the gain K per unit time. **Grade: Identity** (of the update rule; this is not a claim that brains compute a Kalman filter exactly). *Formal Structure* §II now names this filter as its source, so the Identity holds by construction.
 
 The identity explains a rule the Speelgoed postulates. The optimal gain K is large when the samples are precise and small when they are noisy. A noisy channel makes an Echo that follows slowly and trusts each sample less. That is **Gericht**: "The further apart they stand in their Medium, the warmer it is between them and the older their Relatie, the more Vervorming their Echoes carry" (§X). People do weight their senses this way. When combining what they see with what they feel, they weight each sense by its reliability, close to the statistical optimum (Ernst & Banks 2002). **Grade: Correspondence (measured).**
 
 ### 2.2 Trouw learns in steps; what a Gevoel feels is the teaching signal
 
-§XV moves Trouw at each Vonk of its Relatie by the whole of that Vonk, and Stilte's Trek wears it at every look the Relatie's Zelf takes at itself:
+*Formal Structure* §II moves Trouw at each Vonk of its Relatie by the whole of that Vonk, and Stilte's Trek wears it at every look the Relatie's Zelf takes at itself:
 
 ```
 at each Vonk:   y ← y + ρ · T          at each look of the Zelf at itself:   y ← (1 − L̂) · y
@@ -105,9 +105,9 @@ The most widely used model of associative learning, Rescorla and Wagner's, updat
 ΔV = α·β · (λ − V)
 ```
 
-The two are no longer the same rule. Both change a learned weight in steps, with each Vonk a trial and Leersnelheid ρ in the place of the learning rate α·β, and in both a weight left unreinforced wears away (Rescorla & Wagner 1972). But the delta rule is driven by an error, what happened minus what was expected, and the Speelgoed's Trouw rule has none: each Vonk adds what it brings, whole, and nothing draws the Trouw toward a target. **Grade: Correspondence.** The error lives elsewhere in the Speelgoed. A Gevoel feels a crossing by what its look brings beyond what it is used to of it, ν(π) = (π − \|Z\| − \|z\|)⁺ (§XV; §XXI), so an outcome that comes as expected is felt less, as a well-predicted reward moves the teaching signal less. The Speelgoed keeps only the positive part, and reads the sign from the crossing: a Realisatie or a Schok.
+The two are no longer the same rule. Both change a learned weight in steps, with each Vonk a trial and Leersnelheid ρ in the place of the learning rate α·β, and in both a weight left unreinforced wears away (Rescorla & Wagner 1972). But the delta rule is driven by an error, what happened minus what was expected, and the Speelgoed's Trouw rule has none: each Vonk adds what it brings, whole, and nothing draws the Trouw toward a target. **Grade: Correspondence.** The error lives elsewhere in the Speelgoed. A Gevoel feels a crossing by what its look brings beyond what it is used to of it, ν(π) = (π − \|Z\| − \|z\|)⁺ (*Formal Structure* §II; *Formal Structure* §VIII), so an outcome that comes as expected is felt less, as a well-predicted reward moves the teaching signal less. The Speelgoed keeps only the positive part, and reads the sign from the crossing: a Realisatie or a Schok.
 
-**Gevoel** is, in the Speelgoed, a Relatie nested in its holder, "made to register the holder’s Vonken and evaluate them". It "leaves it as it is: the Vonk moves the Trouw of the Relatie that crossed", and reads as its cause "the Relatie whose pull carried the Binding across" (§XXI). Where its holder holds a Brein, each felt crossing is written into the Mirage of that cause, and "The inner Relaties then learn by the Wet of Trouw which imaginings pay" (§XXII). That is a teaching signal. Dopamine neurons broadcast the error between what happened and what was expected: their bursts signal outcomes better than predicted, and their dips signal outcomes worse than predicted (Schultz, Dayan & Montague 1997). Read this way, a positive error registers a Realisatie and a negative error a Schok, each felt by how far it was not expected. The Speelgoed also says a Vonk fires "with no interpretation needed" (§II.2), and dopamine errors are computed without deliberation. **Grade: Correspondence.**
+**Gevoel** is, in the Speelgoed, a Relatie nested in its holder, "made to register the holder’s Vonken and evaluate them". It "leaves it as it is: the Vonk moves the Trouw of the Relatie that crossed", and reads as its cause "the Relatie whose pull carried the Binding across" (*Formal Structure* §VIII). Where its holder holds a Brein, each felt crossing is written into the Mirage of that cause, and "The inner Relaties then learn by the Wet of Trouw which imaginings pay" (*Formal Structure* §IX). That is a teaching signal. Dopamine neurons broadcast the error between what happened and what was expected: their bursts signal outcomes better than predicted, and their dips signal outcomes worse than predicted (Schultz, Dayan & Montague 1997). Read this way, a positive error registers a Realisatie and a negative error a Schok, each felt by how far it was not expected. The Speelgoed also says a Vonk fires "with no interpretation needed" (§II.2), and dopamine errors are computed without deliberation. **Grade: Correspondence.**
 
 *The earlier version mapped the Vonk itself to dopamine. That is corrected. The Vonk is the crossing; Gevoel is what registers it.*
 
@@ -129,11 +129,11 @@ V(φ) = −a·cos φ − b·cos 2φ
 
 Anti-phase is stable while b/a > 1/4 and loses stability below it. Two signatures appear before the switch. Fluctuations in the relative phase grow (critical fluctuations; Kelso, Scholz & Schöner 1986), and the coordination recovers more slowly from a push (critical slowing down; Scholz, Kelso & Schöner 1987). The same transition, with the same growing fluctuations, appears between **two people** coordinating their movements by sight (Schmidt, Carello & Turvey 1990).
 
-In Speelgoed terms this is a Duo, two Leden held by one shared Trouw, with two modes. It has a Drempel between the modes, flicker as the Drempel approaches, and a Marge that makes the switch one-way. **Grade: Correspondence** (measured). The potential is a cosine form over a continuous phase, not the landscape of poles of §XIX, but the type of transition is the one the Speelgoed's Marge describes: loss of stability with hysteresis.
+In Speelgoed terms this is a Duo, two Leden held by one shared Trouw, with two modes. It has a Drempel between the modes, flicker as the Drempel approaches, and a Marge that makes the switch one-way. **Grade: Correspondence** (measured). The potential is a cosine form over a continuous phase, not the landscape of poles of *Formal Structure* §VI, but the type of transition is the one the Speelgoed's Marge describes: loss of stability with hysteresis.
 
 ### 2.5 The Wijk as noise-driven escape, and power-law forgetting
 
-**Switching between percepts.** An ambiguous figure such as the Necker cube, or two different images shown one to each eye, is seen first one way and then the other, switching at irregular intervals. Models that account for these switches combine slow adaptation with noise that kicks the system out of one stable percept into the other (Moreno-Bote, Rinzel & Rubin 2007). This is escape over a barrier, the process behind the Wijk's law, L ∝ exp(−η / ‖υ‖) (§VI.5; §XV). **Grade: Correspondence.**
+**Switching between percepts.** An ambiguous figure such as the Necker cube, or two different images shown one to each eye, is seen first one way and then the other, switching at irregular intervals. Models that account for these switches combine slow adaptation with noise that kicks the system out of one stable percept into the other (Moreno-Bote, Rinzel & Rubin 2007). This is escape over a barrier, the process behind the Wijk's law, L ∝ exp(−η / ‖υ‖) (§VI.5; *Formal Structure* §II). **Grade: Correspondence.**
 
 **Switching between whole-brain states.** Watanabe and Watanabe recorded the resting brains of autistic children, children with ADHD, children with both, and typically developing children, 29 to 38 in each group (Watanabe & Watanabe 2023). They divided the cortex into seven large networks and read each network, moment by moment, as one of two poles: active or inactive. To each group's pooled recordings they fitted a model with only two kinds of terms: each network's own lean toward activity, and one shared coupling for each pair of networks. The model gives every pattern of activity an energy, and the patterns gather into basins: six stable states, the same six in every group, with depths that differ between groups. Moves between states were simulated with a rule that always goes downhill, and goes uphill with a probability that falls exponentially with the height of the climb but never reaches zero. In the authors' words, this prevented the brain activity pattern "from being trapped in a local minimum forever". The simulated transition frequencies were checked against each child's own recording.
 
@@ -142,13 +142,13 @@ In Speelgoed terms this is a Duo, two Leden held by one shared Trouw, with two m
 - **Both: two mechanisms, not an overlap.** In children with both conditions, the social-communication symptoms tracked the same rare transitions as in autism. Their inferred instability tracked a different route from the one linked to symptoms in ADHD alone.
 - **Local timescales drive the whole.** A region's *intrinsic timescale* measures how long its activity stays correlated with itself. In ADHD a left parietal region, and in the combined condition a left frontal region, had a shorter timescale than in controls. Through each region's parent network, the shorter timescale was linked to the frequent transitions. The authors' reading is that a region with a shorter timescale follows its inputs more readily and fluctuates more.
 
-In Speelgoed terms, this landscape is made of nothing but relationships: each member's own lean, and one shared weight per pair, as Trouw is "one value for both" (§XV). §XIX now gives every Relatie this landscape and takes its form from this study. Read over its Leden alone, it is
+In Speelgoed terms, this landscape is made of nothing but relationships: each member's own lean, and one shared weight per pair, as Trouw is "one value for both" (*Formal Structure* §II). *Formal Structure* §VI now gives every Relatie this landscape and takes its form from this study. Read over its Leden alone, it is
 
 ```
 V̄(n) = − Σᵢ (Sᵢ + ½·y_ii − θᵢ)·nᵢ − Σᵢ<ⱼ y_ij·nᵢ·nⱼ
 ```
 
-so each network's lean is Sᵢ + ½·y_ii − θᵢ and each pair's coupling is its Trouw, whichever two values code the poles. **Grade: Identity**, by construction: it shows that the two use the same mathematics, not that the Speelgoed explains the data. Built that way, its states are not mirror images. Entering a deep state is easy and leaving it is hard: "The way into a mode is never the way out" (§XIX). That is the asymmetry behind the Marge of §2.4, arising here from the relationships alone, with no term added for it. A shorter intrinsic timescale is a shorter timescale of the Eigen, τ_◌·tᵢ, as §XV now reads it from this same study, and the whole moves between its states more often. And one child can sit toward both poles of the rigidity–flexibility spectrum at once, by different routes. The exponential form of the transitions is built into the method, so it is not evidence for the Wijk's law. What is measured is the shape of each group's landscape and how often the brain actually moves between its states. **Grade: Correspondence (measured).**
+so each network's lean is Sᵢ + ½·y_ii − θᵢ and each pair's coupling is its Trouw, whichever two values code the poles. **Grade: Identity**, by construction: it shows that the two use the same mathematics, not that the Speelgoed explains the data. Built that way, its states are not mirror images. Entering a deep state is easy and leaving it is hard: "The way into a mode is never the way out" (*Formal Structure* §VI). That is the asymmetry behind the Marge of §2.4, arising here from the relationships alone, with no term added for it. A shorter intrinsic timescale is a shorter timescale of the Eigen, τ_◌·tᵢ, as *Formal Structure* §II now reads it from this same study, and the whole moves between its states more often. And one child can sit toward both poles of the rigidity–flexibility spectrum at once, by different routes. The exponential form of the transitions is built into the method, so it is not evidence for the Wijk's law. What is measured is the shape of each group's landscape and how often the brain actually moves between its states. **Grade: Correspondence (measured).**
 
 *Limits.* The landscapes are fitted to each group's pooled data, not to individuals, from six-minute scans in which each network is reduced to on or off. In the combined group the ADHD-like trait was not measured directly but inferred from low scores for repetitive, restricted behaviour. The authors flag this inference themselves and support it only indirectly, in thirty typical adults. The links from local timescales to transitions to symptoms rest on correlational mediation analyses. Two smaller datasets reproduced the main results qualitatively, but there the local timescale effects appeared only in a targeted analysis, not in a whole-brain search.
 
@@ -158,7 +158,7 @@ so each network's lean is Sᵢ + ½·y_ii − θᵢ and each pair's coupling is 
 retention(t) ∝ t^(−‖υ‖/η₀)
 ```
 
-This is a power law, and its exponent measures the spread of the Marges; a numerical check reproduces the exponent exactly. The averaging idea itself is not new. Power curves also appear in the data of individual people, not only in averages across people (Wixted & Ebbesen 1997), so the spread would have to lie across the traces within one person's memory, not across people. **Grade: Correspondence.** What the Speelgoed adds is a specific reading of the exponent, with an untested prediction: a set of memories held with more uniform strength should be forgotten more nearly exponentially. The Speelgoed now offers a second route as well: being used to something is held at two paces, quickly in the Gewenning and slowly in the Diepte (§XV), so "Of two things equally used to, the older stands more in the Diepte and fades more slowly" (§IX.1). That is Jost's law, which its own Check cites, and a trace that fades more slowly as it ages bends its curve away from the exponential in the same direction. Either way, §VI.4's rule holds: "Greep does not remove the Einde. It postpones it."
+This is a power law, and its exponent measures the spread of the Marges; a numerical check reproduces the exponent exactly. The averaging idea itself is not new. Power curves also appear in the data of individual people, not only in averages across people (Wixted & Ebbesen 1997), so the spread would have to lie across the traces within one person's memory, not across people. **Grade: Correspondence.** What the Speelgoed adds is a specific reading of the exponent, with an untested prediction: a set of memories held with more uniform strength should be forgotten more nearly exponentially. The Speelgoed now offers a second route as well: being used to something is held at two paces, quickly in the Gewenning and slowly in the Diepte (*Formal Structure* §II), so "Of two things equally used to, the older stands more in the Diepte and fades more slowly" (§IX.1). That is Jost's law, which its own Check cites, and a trace that fades more slowly as it ages bends its curve away from the exponential in the same direction. Either way, §VI.4's rule holds: "Greep does not remove the Einde. It postpones it."
 
 ---
 
@@ -194,7 +194,7 @@ The Speelgoed treats a Realisatie as a discrete crossing, not a gradual slope: t
 
 ### 3.5 Diepte
 
-Diepte is "Everything a Relatie has heard and kept, read as one", "the hidden charge that colours every later Waarneming" (§II.2). The brain appears to learn on two timescales. The hippocampus records new experiences quickly, and the neocortex integrates them slowly into lasting knowledge (McClelland, McNaughton & O'Reilly 1995). The slow store corresponds to Diepte. That it "colours every later Waarneming" corresponds to the role of priors in the prediction update of §2.1. **Grade: Correspondence.** The Speelgoed's further rule, that Diepte fades only at the looks a Zelf takes at itself, is taken up in §4.3.
+Diepte is a Relatie's "own form, everything it has heard and kept, read as one", "the hidden charge that colours every later Waarneming" (§II.2). The brain appears to learn on two timescales. The hippocampus records new experiences quickly, and the neocortex integrates them slowly into lasting knowledge (McClelland, McNaughton & O'Reilly 1995). The slow store corresponds to Diepte. That it "colours every later Waarneming" corresponds to the role of priors in the prediction update of §2.1. **Grade: Correspondence.** The Speelgoed's further rule, that Diepte fades only at the looks a Zelf takes at itself, is taken up in §4.3.
 
 ### 3.6 Masker and the wearer's Verlies
 
@@ -214,7 +214,7 @@ Greep is the sum of a Relatie's positive-Trouw Relaties, and "Greep does not rem
 
 ### 3.9 The Medium's Warmte: the brain's heat
 
-The brain is about 2% of the body's mass but uses about 20% of its energy at rest, and most of that goes to ongoing activity, not to responding to tasks (Raichle & Gusnard 2002). All of it leaves the body as heat. The Speelgoed says a living system's persistence "is paid for out of that ongoing traffic" (§VI.5), and that the Energie of every divergence Vonk goes into the Medium as Warmte, visible as "the Warmte a living body gives off" (§VI.2). The thermodynamic Octaaf showed that this Warmte is heat (*Thermodynamic Octaaf* §2.4), and §XXII cites the same figures for what a Brein costs its holder. A brain keeping its bonds and its self together runs at roughly the power of a dim light bulb. **Grade: Correspondence.**
+The brain is about 2% of the body's mass but uses about 20% of its energy at rest, and most of that goes to ongoing activity, not to responding to tasks (Raichle & Gusnard 2002). All of it leaves the body as heat. The Speelgoed says a living system's persistence "is paid for out of that ongoing traffic" (§VI.5), and that the Energie of every divergence Vonk goes into the Medium as Warmte, visible as "the Warmte a living body gives off" (§VI.2). The thermodynamic Octaaf showed that this Warmte is heat (*Thermodynamic Octaaf* §2.4), and *Formal Structure* §IX cites the same figures for what a Brein costs its holder. A brain keeping its bonds and its self together runs at roughly the power of a dim light bulb. **Grade: Correspondence.**
 
 ### 3.10 Stilte: delay and the constructed present
 
@@ -232,16 +232,16 @@ Stilte is "the gap between an Eigen and its Echo: the felt weight of what has no
 
 **4.2 Exponential escape versus power-law forgetting.** *Tension, resolved by a known mechanism.* The Wijk's law gives exponential loss for a single bond held at a fixed Marge. Forgetting curves follow power laws. A spread of Marges across memory traces turns one into the other, as averaged exponentials are known to do, and a trace that fades more slowly as it ages bends the curve the same way (§2.5). The Speelgoed's specific reading of the exponent is untested.
 
-**4.3 How Diepte fades (§XV).** *Resolved* in the current Speelgoed. Its earlier rule, that Diepte falls with speaking, had no neural or behavioural counterpart, and it is gone. Diepte now fades only at the looks a Zelf takes at itself, "the more slowly the more the Relatie holds besides it" (§XV): a slow store that time alone does not wear. The Speelgoed checks that against forgetting by interference and against memory declining faster in the least socially integrated (§XV); this entry adds no test of its own.
+**4.3 How Diepte fades (*Formal Structure* §II).** *Resolved* in the current Speelgoed. Its earlier rule, that Diepte falls with speaking, had no neural or behavioural counterpart, and it is gone. Diepte now fades only at the looks a Zelf takes at itself, "the more slowly the more the Relatie holds besides it" (*Formal Structure* §II): a slow store that time alone does not wear. The Speelgoed checks that against forgetting by interference and against memory declining faster in the least socially integrated (*Formal Structure* §II); this entry adds no test of its own.
 
-**4.4 Gewenning as an accumulator.** *Answered by the Speelgoed.* The delta rule has one accumulator, and the Speelgoed now has two, at two paces, neither of them Trouw (§2.2). Gewenning grows at every look by what it takes in and fades at every look its holder takes; Diepte takes only what a look brings beyond the Gewenning, so "a look that comes after a pause adds the most" (§II.2). That is the spacing effect, which the Speelgoed checks itself (§XV).
+**4.4 Gewenning as an accumulator.** *Answered by the Speelgoed.* The delta rule has one accumulator, and the Speelgoed now has two, at two paces, neither of them Trouw (§2.2). Gewenning grows at every look by what it takes in and fades at every look its holder takes; Diepte takes only what a look brings beyond the Gewenning, so "a look that comes after a pause adds the most" (§II.2). That is the spacing effect, which the Speelgoed checks itself (*Formal Structure* §II).
 
 ---
 
 ## 5. Open Problems
 
 1. **Tijd.** Emotion and attention set the felt passage of time (§3.11). Which crossings quicken it and which slow it, and does the Stilte after a Schok take longer to cross than the Stilte after a Realisatie, as §IV.1 says?
-2. **The strength of a Vonk.** A crossing's Energie is the Trouw it joins or leaves (§XIX), but a Gevoel moves at each Vonk "by what its Waarneming sets for that crossing, never by the Vonk’s Energie" (§XXI), so "a chain of small Vonken is felt as many and one large Vonk as one" (§IX.4). Is a run of small gains felt as more than one large gain of the same total? This could be tested with ratings of pleasure against the size and spacing of rewards.
+2. **The strength of a Vonk.** A crossing's Energie is the Trouw it joins or leaves (*Formal Structure* §VI), but a Gevoel moves at each part of a Vonk "by what its Waarneming sets for that part, never by its Energie" (*Formal Structure* §VIII), so "a chain of small Vonken is felt as many and one large part as one" (§IX.4). Is a run of small gains felt as more than one large gain of the same total? This could be tested with ratings of pleasure against the size and spacing of rewards.
 3. **The forgetting exponent.** If §2.5 is right, the exponent of a forgetting curve measures how widely Greep is spread across the memories tested. Sets of memories held with more uniform strength should be forgotten more nearly exponentially.
 4. **Synchrony and Trouw.** Does brain-to-brain synchrony build a bond, reflect one, or come from shared attention? Only experiments that manipulate synchrony can tell.
 5. **Leven of the Zelf.** Is there any lasting neural marker of a fundamental change in identity?
@@ -291,6 +291,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's §VI.2 came to name the Warmte a living body gives off, so §3.9 quotes that wording.
 
 On 26 October 2026 the Speelgoed's §X came to read Gericht by how far apart a Relatie's Partners stand in their Medium, so §2.1 quotes that wording.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.5 and §5 quote the new wording of Diepte and of what a Gevoel registers.
 
 ---
 

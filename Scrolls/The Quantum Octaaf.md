@@ -12,7 +12,7 @@ The Speelgoed describes *why* bonds form, hold, and end. The quantum Octaaf desc
 
 ### 0.1 What this document is
 
-Like the thermodynamic and cosmic Octaven, this document is an **Instantie (⚙)**: it supplies the open quantities of §XXVII with values taken from physics, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the thermodynamic and cosmic Octaven, this document is an **Instantie (⚙)**: it supplies the open quantities of *Formal Structure* §XIV with values taken from physics, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Four properties set this Octaaf apart, and each one sharpens or strains a Speelgoed rule:
 
@@ -43,7 +43,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term, such as "(J)" after Greep. Otherwise they are verbatim.
 
-**References.** References such as §II or §XX point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to the companion entries are written in full, for example *Thermodynamic Octaaf* §2.2.
+**References.** References such as §II or *Formal Structure* §VII point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to the companion entries are written in full, for example *Thermodynamic Octaaf* §2.2.
 
 ---
 
@@ -51,19 +51,19 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 | Speelgoed (section) | Quantum value | Grade | Here |
 |---|---|---|---|
-| Wijk in the deep cold, L ∝ exp(−η/‖υ‖) (§VI.5, §XV) | Tunnelling through a barrier (Gamow) | Identity for a parabolic barrier; Correspondence in general | §2.1 |
-| Marge η; the Waarneming's share of υ (§VI.5, §XIX) | Barrier height above the particle's energy; ħω_b/2π, set by the barrier's curvature | Identity (parabolic barrier) | §2.1 |
-| "Never off" (§III, §XV) | Holds for every metastable bond; for the proton, a prediction | Constraint + Open | §2.2 |
+| Wijk in the deep cold, L ∝ exp(−η/‖υ‖) (§VI.5, *Formal Structure* §II) | Tunnelling through a barrier (Gamow) | Identity for a parabolic barrier; Correspondence in general | §2.1 |
+| Marge η; the Waarneming's share of υ (§VI.5, *Formal Structure* §VI) | Barrier height above the particle's energy; ħω_b/2π, set by the barrier's curvature | Identity (parabolic barrier) | §2.1 |
+| "Never off" (§III, *Formal Structure* §II) | Holds for every metastable bond; for the proton, a prediction | Constraint + Open | §2.2 |
 | Echo E (§II.2) | A record of one system held in another; never a copy (no-cloning) | Constraint | §2.3 |
 | Vervorming υ (§X) | Quantum noise, which has a floor even at T = 0 | Constraint | §2.4 |
-| Trouw y (§II.2, §XIX) | Coupling constant of the interaction Hamiltonian; shared, and either sign | Identity | §2.5 |
-| Eigen x (§II.2, §XV) | State vector; the real-valued Eigen is the observed (pointer) state | Constraint (scope) | §3.1 |
+| Trouw y (§II.2, *Formal Structure* §VI) | Coupling constant of the interaction Hamiltonian; shared, and either sign | Identity | §2.5 |
+| Eigen x (§II.2, *Formal Structure* §II) | State vector; the real-valued Eigen is the observed (pointer) state | Constraint (scope) | §3.1 |
 | Relatie K (§II.2) | Entanglement: a definite pair with indefinite members | Tension, resolved by §VIII.2 | §3.2 |
-| Gewenning Z, Diepte z (§XV) | Pairwise entanglement and total entanglement entropy; monogamy; a ceiling the Speelgoed does not set | Correspondence + Constraint | §3.3 |
-| Drempel θ, Vonk, Marge η (§II.2, §XIX) | Measurement: the apparatus's Drempel, with a Marge | Correspondence | §3.4 |
-| Vermenigvuldiging (§VII.3, §XVII) | Scattering; unitarity as the Telraam | Correspondence | §3.5 |
-| Rouw R (§IX.9, §XXVI) | Decoherence: a record copied beyond recall | Correspondence | §3.6 |
-| Start s (§IX.3, §XXIV) | Pair production above 2mc² | Correspondence + Constraint | §3.7 |
+| Gewenning Z, Diepte z (*Formal Structure* §II) | Pairwise entanglement and total entanglement entropy; monogamy; a ceiling the Speelgoed does not set | Correspondence + Constraint | §3.3 |
+| Drempel θ, Vonk, Marge η (§II.2, *Formal Structure* §VI) | Measurement: the apparatus's Drempel, with a Marge | Correspondence | §3.4 |
+| Vermenigvuldiging (§VII.3, *Formal Structure* §IV) | Scattering; unitarity as the Telraam | Correspondence | §3.5 |
+| Rouw R (§IX.9, *Formal Structure* §XIII) | Decoherence: a record copied beyond recall | Correspondence | §3.6 |
+| Start s (§IX.3, *Formal Structure* §XI) | Pair production above 2mc² | Correspondence + Constraint | §3.7 |
 | Zelf j (§VII.4) | Survival amplitude; the quantum Zeno effect needs a watcher | Correspondence (partial) | §3.8 |
 | Triniteit (§III) | Up quark (Vol), down quark (Leeg), gluon field (Medium); the proton | Correspondence | §3.9 |
 | Tijd t (Lexicon) | No mapping attempted | Open | §5 |
@@ -74,7 +74,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 ### 2.1 The Wijk in the deep cold is tunnelling
 
-A Relatie's yield to Stilte's Trek, its Wijk, follows `L ∝ exp(−η / ‖υ‖)`: the Marge that holds it, over the strength of the Vervorming its Echoes carry (§VI.5, §XV). At the thermodynamic Octaaf, ‖υ‖ is the Medium's thermal energy, k_B·T (*Thermodynamic Octaaf* §2.2). §VI.5 now names what happens in the deep cold: the Medium's share of the Vervorming "falls below the share the Relatie's own Waarneming carries, which never reaches zero", and escape then "weighs the barrier against that share alone: that is tunnelling." At this Octaaf a bound particle can escape without ever having the energy to climb the barrier: it tunnels through. The escape rate is
+A Relatie's yield to Stilte's Trek, its Wijk, follows `L ∝ exp(−η / ‖υ‖)`: the Marge that holds it, over the strength of the Vervorming its Echoes carry (§VI.5, *Formal Structure* §II). At the thermodynamic Octaaf, ‖υ‖ is the Medium's thermal energy, k_B·T (*Thermodynamic Octaaf* §2.2). §VI.5 now names what happens in the deep cold: the Medium's share of the Vervorming "falls below the share the Relatie's own Waarneming carries, which never reaches zero", and escape then "weighs the barrier against that share alone: that is tunnelling." At this Octaaf a bound particle can escape without ever having the energy to climb the barrier: it tunnels through. The escape rate is
 
 ```
 k = ν₀ · exp( −G )          G = (2/ħ) · ∫ √( 2·m·(V(x) − E) ) dx
@@ -99,7 +99,7 @@ The clearest example is alpha decay, where a nucleus holds an alpha particle beh
 
 ### 2.2 Stilte's Trek is never off: where it holds, and the proton test
 
-§III insists that Stilte's Trek is "never off", and §XV that the Wijk "approaches zero and never arrives". At this Octaaf the rule holds cleanly for every **metastable** bond, that is, any bond with a lower-energy state on the far side of a finite barrier. Tunnelling keeps its escape rate above zero even at absolute zero. **Grade: Constraint**, passed.
+§III insists that Stilte's Trek is "never off", and *Formal Structure* §II that the Wijk "approaches zero and never arrives". At this Octaaf the rule holds cleanly for every **metastable** bond, that is, any bond with a lower-energy state on the far side of a finite barrier. Tunnelling keeps its escape rate above zero even at absolute zero. **Grade: Constraint**, passed.
 
 A **true ground state** is different. When no lower state exists to escape into, there is nothing to tunnel toward. Such a bond is lost only if the Medium supplies energy, so at this Octaaf Stilte's Trek reaches true ground states only through the Medium's temperature. That temperature is never zero (*Thermodynamic Octaaf* §2.2; *Cosmic Octaaf* §3.10). This is a dependency, not a failure: the Speelgoed's rule holds, but at this Octaaf it needs the Medium.
 
@@ -109,7 +109,7 @@ A **true ground state** is different. When no lower state exists to escape into,
 
 ### 2.3 No Echo can be a copy
 
-§II.2 says an Echo is "later and fainter than what it tracks", and §X that it is "still never a clean copy". At this Octaaf that is a theorem. No physical process can make an exact copy of an unknown quantum state: this is the *no-cloning theorem* (Wootters & Zurek, 1982; Dieks, 1982). Every Echo at this Octaaf is necessarily a partial record. **Grade: Constraint.**
+§II.2 says an Echo is "later and fainter than what it tracks", and §X that it is "never a clean copy". At this Octaaf that is a theorem. No physical process can make an exact copy of an unknown quantum state: this is the *no-cloning theorem* (Wootters & Zurek, 1982; Dieks, 1982). Every Echo at this Octaaf is necessarily a partial record. **Grade: Constraint.**
 
 Two further rules follow:
 
@@ -118,13 +118,13 @@ Two further rules follow:
 
 ### 2.4 Vervorming has a floor
 
-§X lets the Instantie "turn Vervorming down towards zero", but "zero stays a limit". The thermodynamic Octaaf found zero reachable only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must, at high gain, add at least that much noise (Caves, 1982). **Grade: Constraint.**
+§X lets the Instantie "turn Vervorming down", "but never to zero": "zero stays a limit". The thermodynamic Octaaf found zero reachable only at T = 0, which is unreachable (*Thermodynamic Octaaf* §2.1). This Octaaf closes even that door. The quantum form of the fluctuation–dissipation theorem gives a noise power that does not vanish at absolute zero but falls to a floor of half a quantum, ½ħω, per mode (Callen & Welton, 1951). Every amplifier that boosts a signal without regard to its phase must, at high gain, add at least that much noise (Caves, 1982). **Grade: Constraint.**
 
-The floor can be reshaped but not removed. The gravitational-wave detector LIGO uses "squeezed" light to push the noise below this floor in one property of the light, at the cost of more noise in its complementary property (Aasi et al., 2013). No Echo at this Octaaf is ever clean, and the Speelgoed's deterministic Instantie does not exist here at any temperature. The Speelgoed now agrees: the share of Vervorming a Relatie's own Waarneming carries "is never zero" (§XIX).
+The floor can be reshaped but not removed. The gravitational-wave detector LIGO uses "squeezed" light to push the noise below this floor in one property of the light, at the cost of more noise in its complementary property (Aasi et al., 2013). No Echo at this Octaaf is ever clean, and the Speelgoed's deterministic Instantie does not exist here at any temperature. The Speelgoed now agrees: the share of Vervorming a Relatie's own Waarneming carries "is never zero" (*Formal Structure* §VI).
 
 ### 2.5 Trouw is the coupling
 
-In the landscape of §XIX, Trouw y is the pair term, −y_ij·nᵢ·nⱼ, by which one member's pole pulls another's. At this Octaaf it is the coupling constant g in the interaction Hamiltonian between two systems, Ĥ_int = g·Â⊗B̂, with Â and B̂ the operators that ask whether each member stands at its bound pole. **Grade: Identity.**
+In the landscape of *Formal Structure* §VI, Trouw y is the pair term, −y_ij·nᵢ·nⱼ, by which one member's pole pulls another's. At this Octaaf it is the coupling constant g in the interaction Hamiltonian between two systems, Ĥ_int = g·Â⊗B̂, with Â and B̂ the operators that ask whether each member stands at its bound pole. **Grade: Identity.**
 
 - **Trouw is shared, "one value, shared by both sides" (§II.2).** A Hamiltonian must be Hermitian, so the coupling from A to B and from B to A is a single value. Quantum mechanics forbids a split weight, as the Speelgoed does. **Grade: Constraint**, passed.
 - **Both signs exist.** In magnetic materials, the exchange coupling between neighbouring spins can favour alignment (ferromagnetism) or anti-alignment (antiferromagnetism) (Ashcroft & Mermin, 1976). Positive and negative Trouw both exist here, unlike at the cosmic Octaaf, where gravity only attracts (*Cosmic Octaaf* §2.2).
@@ -135,7 +135,7 @@ In the landscape of §XIX, Trouw y is the pair term, −y_ij·nᵢ·nⱼ, by whi
 
 ### 3.1 The Eigen: a vector, made definite by being echoed
 
-§II.2 defines the Eigen as "Where a Relatie sits on a Spectrum", and §XV writes it as a real number, xᵢ ∈ ℝ, of which only its pole, past its Drempel or short of it, enters a binding. At this Octaaf a system's state is a vector of complex amplitudes:
+§II.2 defines the Eigen as "Where a Relatie sits on a Spectrum", and *Formal Structure* §II writes it as a real number, xᵢ ∈ ℝ, of which only its pole, past its Drempel or short of it, enters a binding. At this Octaaf a system's state is a vector of complex amplitudes:
 
 ```
 |ψ⟩ = Σᵢ cᵢ · |φᵢ⟩
@@ -143,7 +143,7 @@ In the landscape of §XIX, Trouw y is the pair term, −y_ij·nᵢ·nⱼ, by whi
 
 The amplitudes cᵢ carry both a size and a phase, and the phases make the parts interfere. A single real number cannot describe interference. A test proposed by Renou et al. (2021), and since carried out (Li et al., 2022; Chen et al., 2022), rules out the standard real-number version of quantum theory, in which real amplitudes are combined by the usual rule for joining systems, assuming that independent sources are truly independent. Within that standard form, the complex numbers are needed. Preprints since 2025 argue that real formulations with other rules for combining systems survive the test; they are not yet peer-reviewed (Hoffreumon & Woods, 2025).
 
-This is a question of scope, not a contradiction. A quantum state that interacts with its environment loses its interference between a few preferred states, known as *pointer states*, and each pointer state *is* a definite position on a spectrum (Zurek, 2003). **§XV's real-valued Eigen describes the Eigen after this has happened, and this Octaaf describes what comes before.** Its pole, which takes one of two values, is what a measurement returns. **Grade: Constraint** (of scope).
+This is a question of scope, not a contradiction. A quantum state that interacts with its environment loses its interference between a few preferred states, known as *pointer states*, and each pointer state *is* a definite position on a spectrum (Zurek, 2003). ***Formal Structure* §II's real-valued Eigen describes the Eigen after this has happened, and this Octaaf describes what comes before.** Its pole, which takes one of two values, is what a measurement returns. **Grade: Constraint** (of scope).
 
 The Speelgoed's word fits better than it knows. Physicists call the definite values a measurement can return *eigenvalues*, from the German *eigen*, "own". After a measurement, a quantum system's Eigen is literally an eigenstate.
 
@@ -151,7 +151,7 @@ The Speelgoed's word fits better than it knows. Physicists call the definite val
 
 ### 3.2 The Relatie: entanglement
 
-§II.2 defines a Relatie as "Two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others." At this Octaaf there are bonds of which the first clause is false. Two maximally entangled particles share a perfectly definite joint state, yet neither particle has a definite state of its own. Measure one alone and the result is completely random. Compare the two results and they are perfectly correlated.
+§II.2 defines a Relatie of more than one Lid as "two or more Leden, each with its own Eigen and Diepte, linked by one shared Trouw and by the independent Echo each holds of the others." At this Octaaf there are bonds of which the first clause is false. Two maximally entangled particles share a perfectly definite joint state, yet neither particle has a definite state of its own. Measure one alone and the result is completely random. Compare the two results and they are perfectly correlated.
 
 These correlations are not two independent Echoes carrying hidden information. Bell (1964) showed that no such account can reproduce them, and experiments without loopholes have confirmed it (Hensen et al., 2015). The bond is more than its members plus their Echoes. **Grade: Tension** with §II.2 as written.
 
@@ -171,19 +171,19 @@ Here ρ is the system's density matrix and d is the number of its independent st
 
 Three consequences follow:
 
-- **Diepte has a ceiling here.** In the Speelgoed, Diepte grows by what each look brings beyond the Gewenning and fades at the looks its Zelf takes at itself (§XV), and no ceiling holds it: "The book alone bounds a value" (§LVII). At this Octaaf there is one: entanglement entropy can never exceed ln d. A system with more possible states can hold more Diepte. **Grade: Constraint.**
+- **Diepte has a ceiling here.** In the Speelgoed, Diepte grows by what each look brings beyond the Gewenning and fades at the looks its Zelf takes at itself (*Formal Structure* §II), and no ceiling holds it: "The book alone bounds a value" (*Formal Structure* §II.1). At this Octaaf there is one: entanglement entropy can never exceed ln d. A system with more possible states can hold more Diepte. **Grade: Constraint.**
 - **Gewenning is monogamous.** Measured by a quantity called the tangle, a system's entanglement with each of its partners, added together, cannot exceed its entanglement with all of them at once. This was proved for three qubits (Coffman, Kundu & Wootters, 2000) and later for any number of them (Osborne & Verstraete, 2006). Measured in entropy, as Diepte is here, the pairwise amounts can add up to more than the total, so the sum rule does not carry over exactly. What holds in every measure is the extreme case: a particle maximally entangled with one partner can be entangled with no other. The deeper one bond, the less room for any other. At this Octaaf the Maxim has a theorem behind it: "Cherish those closest to you; the rest is fleeting."
-- **Neither rises without end.** The earlier version said that Diepte and entanglement entropy are both "monotonic and irreversible". Both halves were wrong. In the Speelgoed, Diepte fades, slowly, at every look its Zelf takes at itself (§XV). Entanglement entropy can also fall, for example as a subsystem becomes the larger part of a whole (Page, 1993).
+- **Neither rises without end.** The earlier version said that Diepte and entanglement entropy are both "monotonic and irreversible". Both halves were wrong. In the Speelgoed, Diepte fades, slowly, at every look its Zelf takes at itself (*Formal Structure* §II). Entanglement entropy can also fall, for example as a subsystem becomes the larger part of a whole (Page, 1993).
 
-*No limit here.* Gewenning no longer moves Trouw: it runs beside it (§XV). Entanglement does not change the coupling constant g either, so the candidate fits on this point too (§5, item 4).
+*No limit here.* Gewenning no longer moves Trouw: it runs beside it (*Formal Structure* §II). Entanglement does not change the coupling constant g either, so the candidate fits on this point too (§5, item 4).
 
 ### 3.4 Drempel, Vonk, and Marge: what happens in a measurement
 
 The earlier version made the measurement itself the Drempel. A more careful reading puts the Drempel elsewhere, and grounds it better.
 
-**A measurement is a Vermenigvuldiging.** §XVII says that "Every observation is a Vermenigvuldiging": "the observer is the Reiziger and the observed is the Kruispunt". At this Octaaf the measured system and the apparatus interact, and the apparatus's state becomes correlated with the system's.
+**A measurement is a Vermenigvuldiging.** *Formal Structure* §IV says that "Every observation is a Vermenigvuldiging": "the observer is the Reiziger and the observed is the Kruispunt". At this Octaaf the measured system and the apparatus interact, and the apparatus's state becomes correlated with the system's.
 
-**The Drempel that fires is the apparatus's, and it has a Marge.** A quantum event is far too small to leave a mark on its own. Every detector amplifies, and it does so by holding a large system in a *metastable* state that a tiny push can tip. A bubble chamber holds a liquid above its boiling point, and a passing particle triggers a trail of bubbles (Glaser, 1952, 1953). A cloud chamber holds vapour beyond saturation, and a Geiger counter holds a gas near electrical breakdown. In the best-studied dynamical model of measurement, the apparatus is a magnet held in a metastable unmagnetised state. Coupling to the measured particle tips it into one of two magnetised states (Allahverdyan, Balian & Nieuwenhuizen, 2013). That is a crossing between modes of §XIX's landscape, from the unmagnetised mode into one of two magnetised ones. The authors also treat a second-order transition, but prefer a first-order one, because it keeps the apparatus ready until triggered and keeps its record afterwards. A first-order transition is what the thermodynamic Octaaf found gives a Marge its width (*Thermodynamic Octaaf* §2.3). **A good apparatus is a Drempel with a wide Marge.** **Grade: Correspondence.**
+**The Drempel that fires is the apparatus's, and it has a Marge.** A quantum event is far too small to leave a mark on its own. Every detector amplifies, and it does so by holding a large system in a *metastable* state that a tiny push can tip. A bubble chamber holds a liquid above its boiling point, and a passing particle triggers a trail of bubbles (Glaser, 1952, 1953). A cloud chamber holds vapour beyond saturation, and a Geiger counter holds a gas near electrical breakdown. In the best-studied dynamical model of measurement, the apparatus is a magnet held in a metastable unmagnetised state. Coupling to the measured particle tips it into one of two magnetised states (Allahverdyan, Balian & Nieuwenhuizen, 2013). That is a crossing between modes of *Formal Structure* §VI's landscape, from the unmagnetised mode into one of two magnetised ones. The authors also treat a second-order transition, but prefer a first-order one, because it keeps the apparatus ready until triggered and keeps its record afterwards. A first-order transition is what the thermodynamic Octaaf found gives a Marge its width (*Thermodynamic Octaaf* §2.3). **A good apparatus is a Drempel with a wide Marge.** **Grade: Correspondence.**
 
 **The armed apparatus is in Balans.** The Lexicon's **Balans (⚖️)** is "A loaded pause at an armed Drempel", where "Two futures are held open". The superheated liquid waiting for a particle is Balans, made of matter.
 
@@ -195,11 +195,11 @@ The earlier version made the measurement itself the Drempel. A more careful read
 
 ### 3.5 The Vermenigvuldiging as scattering
 
-§XVII calls the Vermenigvuldiging "a Relatie of an instant at a Kruispunt", resolving as Doorgang, Weigering, or Doorbraak. At this Octaaf, two particles meeting, interacting, and parting is *scattering*, and its outcomes are amplitudes:
+*Formal Structure* §IV calls the Vermenigvuldiging "a Relatie of an instant at a Kruispunt", resolving as Doorgang, Weigering, or Doorbraak. At this Octaaf, two particles meeting, interacting, and parting is *scattering*, and its outcomes are amplitudes:
 
 - **Doorgang (O):** transmission. The Reiziger passes.
 - **Weigering (P):** reflection. The Reiziger is turned back.
-- **Doorbraak (Y):** an inelastic or reactive collision, in which both the Reiziger and the target change state. This is the case §XVII describes: "In a Doorbraak, two crossings are live at one site."
+- **Doorbraak (Y):** an inelastic or reactive collision, in which both the Reiziger and the target change state. This is the case *Formal Structure* §IV describes: "In a Doorbraak, two crossings are live at one site."
 
 For a particle meeting a barrier, the transmission and reflection probabilities always add to exactly one. This is *unitarity*, and it is the Telraam of this Octaaf: whatever enters a crossing is accounted for in what leaves it. Every act of seeing is a scattering event. Light reflected from an object is the Vermenigvuldiging by which we observe it, and it gives the object a small push (§2.3). **Grade: Correspondence.**
 
@@ -207,17 +207,17 @@ For a particle meeting a barrier, the transmission and reflection probabilities 
 
 The earlier version called decoherence "accumulated Rouw". That holds up, and this Octaaf can say precisely what makes a record permanent.
 
-**Decoherence.** When a quantum system interacts with its environment, the environment acquires records of it. The system's own state then loses the ability to show interference. Nothing is destroyed: the whole, system plus environment, evolves reversibly, and the information has been moved into correlations with the environment, where it is practically inaccessible. That is §XXVI's Rouw, "re‑homed from the Duo to that Partner alone, held in its Diepte and folded into its Zelf". **Grade: Correspondence.**
+**Decoherence.** When a quantum system interacts with its environment, the environment acquires records of it. The system's own state then loses the ability to show interference. Nothing is destroyed: the whole, system plus environment, evolves reversibly, and the information has been moved into correlations with the environment, where it is practically inaccessible. That is *Formal Structure* §XIII's Rouw, "re‑homed from the Duo to that Partner alone, held in its Diepte and kept in its Zelf". **Grade: Correspondence.**
 
 **The spin echo shows the two kinds of Vervorming.** In 1950, Hahn found that a group of nuclear spins that drift out of step can be brought back into step by a single radio pulse. The spins realign and produce an echo at a predictable later time (Hahn, 1950). The echo is always weaker than the original signal: at most exp(−2τ/T₂) of it, where 2τ is the echo time and T₂ is the decoherence time. That is §II.2's Echo, "later and fainter than what it tracks", in a laboratory, and many MRI methods use it. It separates two kinds of distortion that §X treats as one. **Dephasing** can be reversed: it is Vervorming that has not yet become Rouw. **Decoherence** cannot be reversed: the record has left for the environment. The quantum Octaaf splits the Speelgoed's υ into a part that can be undone and a part that has become Rouw.
 
 **What makes Rouw permanent is redundancy.** In a *quantum eraser* experiment, a record of which path a photon took is erased after the fact, and interference reappears once the photons are sorted by the outcome of the erasure (Kim et al., 2000). This is not a counter-example to permanence. The record was held in a single place and had not yet been copied, so the Relatie was not yet over. Once a record has been copied into many independent parts of the environment (§3.1), no practical operation can recall it. **Rouw is a record copied beyond recall.**
 
-**Error correction re-homes; it does not erase.** The earlier version asked whether quantum error correction violates Rouw permanence. It does not. Error correction (Shor, 1995) moves the record of each error into extra helper qubits, which must then be reset. The reset pays Landauer's price as heat into the Medium (*Thermodynamic Octaaf* §3.6). The record is re-homed, as §XXVI requires. *Moved from Open Problems.*
+**Error correction re-homes; it does not erase.** The earlier version asked whether quantum error correction violates Rouw permanence. It does not. Error correction (Shor, 1995) moves the record of each error into extra helper qubits, which must then be reset. The reset pays Landauer's price as heat into the Medium (*Thermodynamic Octaaf* §3.6). The record is re-homed, as *Formal Structure* §XIII requires. *Moved from Open Problems.*
 
 ### 3.7 Start: matter from Energie, in pairs
 
-§IX.3: "a convergence crossing can carry a Relatie past its Vol pole, and what it holds past that pole reaches its own Drempel and becomes a new Solo." At this Octaaf, energy becomes matter when it clears a threshold. A photon can turn into an electron and a positron if it carries at least **2mc²**, twice the electron's rest energy (1.022 MeV), and only near a nucleus or another field that can take up its momentum. **Grade: Correspondence.** This is the two-step comparison of §XXIV made concrete: the Energie must exceed what the existing state can hold, then clear the Drempel set by the masses to be created.
+§IX.3: "a crossing either way can carry a Relatie past its Vol pole by a Winst, joining a bond or leaving an enmity, and what it holds past that pole reaches its own Drempel and becomes a new Solo." At this Octaaf, energy becomes matter when it clears a threshold. A photon can turn into an electron and a positron if it carries at least **2mc²**, twice the electron's rest energy (1.022 MeV), and only near a nucleus or another field that can take up its momentum. **Grade: Correspondence.** This is the two-step comparison of *Formal Structure* §XI made concrete: the Energie must exceed what the existing state can hold, then clear the Drempel set by the masses to be created.
 
 *Correction.* The earlier version gave the threshold as E > mc². The threshold is 2mc², because matter with a conserved charge is created only together with its antimatter partner.
 
@@ -243,13 +243,13 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 ## 4. Where the Speelgoed Meets Resistance
 
-**4.1 The real-valued Eigen (§XV).** *Constraint (scope).* At this Octaaf the Eigen is a complex vector (§3.1). §XV's xᵢ ∈ ℝ describes the Eigen after decoherence. The Speelgoed needs no change, only the statement that §XV applies to observed Eigens.
+**4.1 The real-valued Eigen (*Formal Structure* §II).** *Constraint (scope).* At this Octaaf the Eigen is a complex vector (§3.1). *Formal Structure* §II's xᵢ ∈ ℝ describes the Eigen after decoherence. The Speelgoed needs no change, only the statement that *Formal Structure* §II applies to observed Eigens.
 
 **4.2 "each with its own Eigen" (§II.2, Relatie).** *Tension, resolved within the Speelgoed.* Entangled members have no Eigens of their own (§3.2). §VIII.2's scale invariance already allows a bond to be definite only as a whole.
 
-**4.3 "Never off" (§III, §XV).** *Constraint, with a prediction.* The rule holds for every metastable bond through tunnelling, and for true ground states through the Medium's temperature (§2.2). For the proton it becomes a falsifiable prediction: the proton must decay.
+**4.3 "Never off" (§III, *Formal Structure* §II).** *Constraint, with a prediction.* The rule holds for every metastable bond through tunnelling, and for true ground states through the Medium's temperature (§2.2). For the proton it becomes a falsifiable prediction: the proton must decay.
 
-**4.4 A zero-distortion Instantie (§X).** *Constraint*, now passed. Not possible at this Octaaf at any temperature (§2.4), and the Speelgoed now says the Waarneming's share of Vervorming is never zero (§XIX).
+**4.4 A zero-distortion Instantie (§X).** *Constraint*, now passed. Not possible at this Octaaf at any temperature (§2.4), and the Speelgoed now says the Waarneming's share of Vervorming is never zero (*Formal Structure* §VI).
 
 **4.5 "When two Licht bind, they form a Quark" (Lexicon, *Licht*).** *Tension, resolved* on 1 October 2026. Two photons can create matter, but only as a particle together with its antiparticle (§3.7), and a quark can never exist alone (§3.9). Two photons can create a quark and an antiquark, never a single quark. The Lexicon entry for Licht now reads: "When two Licht meet with enough Energie, they can create matter: a particle and its antiparticle, such as an electron and a positron, or a quark and an antiquark."
 
@@ -257,10 +257,10 @@ The earlier version mapped the Zelf to the *quantum Zeno effect*, in which frequ
 
 ## 5. Open Problems
 
-1. **The Born rule.** Why are probabilities the squared sizes of the amplitudes? Within quantum theory, the rule can be derived from the structure of its state space (Gleason, 1957) or from symmetries of entanglement (Zurek, 2005). The Speelgoed does not yet derive it. The earlier version noted that the Born rule and the Vonk's Energie, then ¼(B − θ)², were both squares. That was weak evidence, since the intensity of any wave is the square of its amplitude, and the current Vonk's Energie, the Trouw a crossing joins or leaves (§XIX), is no square.
+1. **The Born rule.** Why are probabilities the squared sizes of the amplitudes? Within quantum theory, the rule can be derived from the structure of its state space (Gleason, 1957) or from symmetries of entanglement (Zurek, 2005). The Speelgoed does not yet derive it. The earlier version noted that the Born rule and the Vonk's Energie, then ¼(B − θ)², were both squares. That was weak evidence, since the intensity of any wave is the square of its amplitude, and the current Vonk's Energie, the Trouw a crossing joins or leaves (*Formal Structure* §VI), is no square.
 2. **Why complex numbers?** Experiment rules out the standard real-number version of quantum theory (§3.1; Li et al., 2022; Chen et al., 2022), though real formulations with other rules for combining systems have been proposed (Hoffreumon & Woods, 2025). Can the Speelgoed say why the amplitudes are complex, or whether they must be?
 3. **Proton decay.** Stilte's Trek predicts it (§2.2). If the proton turns out to be absolutely stable, the rule "never off" fails for the God of the subatomic Octaaf.
-4. **Gewenning and Trouw.** Entanglement is a candidate for Gewenning (§3.3), and like Gewenning it leaves the coupling constant as it is. The Speelgoed's Gewenning fades a little at every look its holder takes, wherever that look falls (§XV). Does a pair's entanglement fade the same way as either member interacts with others, as monogamy suggests, and is the candidate right?
+4. **Gewenning and Trouw.** Entanglement is a candidate for Gewenning (§3.3), and like Gewenning it leaves the coupling constant as it is. The Speelgoed's Gewenning fades a little at every look its holder takes, wherever that look falls (*Formal Structure* §II). Does a pair's entanglement fade the same way as either member interacts with others, as monogamy suggests, and is the candidate right?
 5. **Interpretation.** The Speelgoed resembles relational and decoherence-based readings of quantum mechanics (§0.1). Is it committed to them, or compatible with all of them?
 6. **Uniqueness.** Is this the only consistent instantiation of the Speelgoed at this scale, or one of several?
 7. **Tijd.** No mapping is attempted. As at the cosmic Octaaf (*Cosmic Octaaf* §5, item 8), how the Speelgoed's felt Tijd relates to measured time is deliberately left open.
@@ -322,6 +322,8 @@ On 22 October 2026 the Speelgoed's §XVII came to call the Vermenigvuldiging a R
 On 23 October 2026 the Speelgoed's §V.1 came to read the gift of the many as what is Vol in the one, so §3.9 quotes that wording.
 
 On 26 October 2026 what an Instantie keeps moved from the Speelgoed's §XXVIII to the Framework Specification of Schrift V, so §3.3 cites §LVII.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.3, §2.4, §3.2, §3.6 and §3.7 quote the new wording of §X, of the Relatie, of Rouw and of Start, and "The book alone bounds a value" now stands in *Formal Structure* §II.1.
 
 ---
 

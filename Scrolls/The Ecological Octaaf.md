@@ -12,7 +12,7 @@ Ecology is the science of bonds between living things: who eats whom, who helps 
 
 ### 0.1 What this document is
 
-Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of §XXVII with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
+Like the other Octaven, this document is an **Instantie (⚙)**. It supplies the open quantities of *Formal Structure* §XIV with values taken from science, then checks whether the shape the Speelgoed fixes survives. Where the two disagree, the disagreement is reported in §4 rather than smoothed over.
 
 Four features set this Octaaf apart:
 
@@ -39,7 +39,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.3.
+**References.** References such as §II or *Formal Structure* §II point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. References to companion entries are written in full, for example *Thermodynamic Octaaf* §2.3.
 
 ---
 
@@ -49,19 +49,19 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 |---|---|---|---|
 | Drempel θ and Marge η (§II.2; Lexicon) | Alternative stable states with hysteresis | Correspondence (measured) | §2.1 |
 | Flicker before a crossing (*Thermodynamic Octaaf* §2.3) | Early-warning signals: slowing down, rising variance, flickering | Correspondence (measured) | §2.2 |
-| Wijk, L ∝ exp(−η/‖υ‖) (§VI.5; §XV) | Extinction time exponential in population size under member-level noise; power law under shared shocks | Identity (form) + Constraint | §2.3 |
+| Wijk, L ∝ exp(−η/‖υ‖) (§VI.5; *Formal Structure* §II) | Extinction time exponential in population size under member-level noise; power law under shared shocks | Identity (form) + Constraint | §2.3 |
 | Greep from bonds with one's own kind | The Allee effect: a density below which a population declines | Correspondence (measured, partial) | §2.4 |
 | "A deep Relatie is not a safe one" (§VI.4); counts (§VIII.1) | May's limit: more and stronger links destabilise | Constraint | §2.5 |
 | Trouw y (§II.2) | Signed interaction strengths; signs need not match | Correspondence (this Octaaf) | §3.1 |
 | Masker (§X; Lexicon) | Batesian mimicry; honest warning signals as Bloot | Correspondence | §3.2 |
-| Parasiet (Lexicon; §L) | Brood parasitism (the cuckoo) | Correspondence (measured) | §3.3 |
-| Start (§IX.3; §XXIV) | Reproduction from surplus beyond maintenance | Correspondence | §3.4 |
+| Parasiet (Lexicon; *Mensen en Parasieten* §IV) | Brood parasitism (the cuckoo) | Correspondence (measured) | §3.3 |
+| Start (§IX.3; *Formal Structure* §XI) | Reproduction from surplus beyond maintenance | Correspondence | §3.4 |
 | Scale invariance; unlike Leden (§VIII.2; §VIII.3) | Endosymbiosis; the lichen as a Trio | Correspondence | §3.5 |
-| Doem (§VI.3; §XXV; Lexicon) | Trophic cascades and coextinction | Correspondence (measured) | §3.6 |
+| Doem (§VI.3; *Formal Structure* §XII; Lexicon) | Trophic cascades and coextinction | Correspondence (measured) | §3.6 |
 | Rouw (§IX.9) | Evolutionary anachronisms; the "ghost of competition past" | Correspondence | §3.7 |
-| Diepte (§II.2, §XV) | Ecological memory: weighted effects of past conditions | Correspondence | §3.8 |
+| Diepte (§II.2, *Formal Structure* §II) | Ecological memory: weighted effects of past conditions | Correspondence | §3.8 |
 | Zweven (§IX.2) and a Wijk that does not fall with age | The Red Queen: constant extinction risk regardless of age | Correspondence | §3.9 |
-| A slow fall (§XIX) | Extinction debt | Correspondence | §3.10 |
+| A slow fall (*Formal Structure* §VI) | Extinction debt | Correspondence | §3.10 |
 | Triniteit (§III) | Producers (Vol), decomposers (Leeg), nutrient cycles (Medium) | Correspondence | §3.11 |
 | Tijd (Lexicon) | No mapping attempted | Open | §5 |
 
@@ -91,18 +91,18 @@ Not every shift is announced. In some ecological models a regime shift comes wit
 
 ### 2.3 The Wijk: how extinction scales with size
 
-Stilte's Trek is never off, and a Relatie's yield to it, its **Wijk (L)**, falls exponentially with the Marge that holds it: L ∝ exp(−η / ‖υ‖), the Marge η over the strength ‖υ‖ of the Vervorming its Echoes carry (§VI.5; §XV). For a population, the fall is extinction. Lande's analysis of extinction risk distinguishes sources of chance (Lande 1993):
+Stilte's Trek is never off, and a Relatie's yield to it, its **Wijk (L)**, falls exponentially with the Marge that holds it: L ∝ exp(−η / ‖υ‖), the Marge η over the strength ‖υ‖ of the Vervorming its Echoes carry (§VI.5; *Formal Structure* §II). For a population, the fall is extinction. Lande's analysis of extinction risk distinguishes sources of chance (Lande 1993):
 
 - **Member-level chance.** Individuals die or fail to breed at random, independently of each other (demographic stochasticity). The mean time to extinction then grows *exponentially* with the population's carrying capacity. Read the Marge η as the barrier the population must cross to reach zero, and the strength of the Vervorming ‖υ‖ as one over the number of members it can hold, the size of one member's chance against the whole. η/‖υ‖ then grows in proportion to that number, and the Wijk's law follows: each added member multiplies the expected lifetime. **Grade: Identity** (of form).
 - **Shared shocks.** Good and bad years affect every member at once (environmental stochasticity). The mean time to extinction then grows only as a *power* of carrying capacity. **Grade: Constraint.**
 
-The second result is a limit that the Speelgoed does not state. §XIX gives ‖υ‖ two holders, each Lid's Waarneming and the Medium; here the members' own share shrinks as their number grows, and the Medium's shared share does not. **Exponential protection holds only against shocks that strike members independently. Against shocks that strike everyone at once, numbers protect much less.** A large, well-bound population is exponentially safe from bad luck and only polynomially safe from a bad year. The neuroscience Octaaf found a related route from exponential to power-law behaviour, through a spread of Marges across memories (*Neuroscience Octaaf* §2.5). Here the route is the Medium's shared noise.
+The second result is a limit that the Speelgoed does not state. *Formal Structure* §VI gives ‖υ‖ two holders, each Lid's Waarneming and the Medium; here the members' own share shrinks as their number grows, and the Medium's shared share does not. **Exponential protection holds only against shocks that strike members independently. Against shocks that strike everyone at once, numbers protect much less.** A large, well-bound population is exponentially safe from bad luck and only polynomially safe from a bad year. The neuroscience Octaaf found a related route from exponential to power-law behaviour, through a spread of Marges across memories (*Neuroscience Octaaf* §2.5). Here the route is the Medium's shared noise.
 
 ### 2.4 The Allee effect: Greep from one's own kind
 
 In many species, individuals do worse when there are too few of their own kind. They struggle to find mates, defend against predators, or feed cooperatively. Below a critical density, a population's growth rate turns negative and it declines toward extinction. Above it, the population grows. This is the strong Allee effect (Courchamp, Clutton-Brock & Grenfell 1999). Allee effects are conclusively documented in natural populations of many animal species, but direct evidence of a critical density is lacking for most of them (Kramer et al. 2009).
 
-In Speelgoed terms, the critical density is a Drempel, and the reason it exists is Greep: the bonds a member has with others of its kind. Too few bonds, and Stilte's Trek wins. Below the threshold the decline feeds itself: fewer members means fewer bonds, and fewer bonds means faster decline. That is the cascade of a Doem: "every Relatie that falls takes its Trouw out of every Lid that held it, so their Wijk rises" (§XXV). **Grade: Correspondence (measured).**
+In Speelgoed terms, the critical density is a Drempel, and the reason it exists is Greep: the bonds a member has with others of its kind. Too few bonds, and Stilte's Trek wins. Below the threshold the decline feeds itself: fewer members means fewer bonds, and fewer bonds means faster decline. That is the cascade of a Doem: "every Relatie that falls takes its Trouw out of every Lid that held it, so where that Trouw was a bond their Wijk rises" (*Formal Structure* §XII). **Grade: Correspondence (measured).**
 
 ### 2.5 May's limit: a deep Relatie is not a safe one
 
@@ -132,13 +132,13 @@ In **Müllerian mimicry**, two defended species share one warning signal. Neithe
 
 ### 3.3 Parasiet: the cuckoo
 
-The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker that has hardened", "while its Waarneming reads the host as a resource" (Lexicon). The common cuckoo lays its eggs in other birds' nests. In many host populations its eggs closely resemble the host's own, which is a Masker on the egg. Hosts that detect odd eggs reject them. That is the commitment test of §L.5, and the arms race between egg mimicry and egg rejection has been traced in detail (Davies 2015).
+The Speelgoed's **Parasiet** is a Relatie that "lives on a host through a Masker that has hardened", "while its Waarneming reads the host as a resource" (Lexicon). The common cuckoo lays its eggs in other birds' nests. In many host populations its eggs closely resemble the host's own, which is a Masker on the egg. Hosts that detect odd eggs reject them. That is the commitment test of *Mensen en Parasieten* §IV.5, and the arms race between egg mimicry and egg rejection has been traced in detail (Davies 2015).
 
 The chick's trick is subtler. A reed warbler parent adjusts its feeding to two signals from its brood: the visual display of gaping mouths and the begging calls. A single cuckoo chick shows far less gape than a full brood, and makes up for it with exaggerated calling. This makes the host feed it as much as a whole brood (Kilner, Noble & Davies 1999). The cuckoo does not imitate the host's chicks. It plays on the host's rule for reading need. In Speelgoed terms it works less through a Masker than through the host's **Waarneming**, the filter through which the host reads its partner. The Lexicon says the Parasiet "Collapses into Schok upon exposure", and hosts that detect a parasite abandon or reject it. **Grade: Correspondence (measured).**
 
 ### 3.4 Start: reproduction from surplus
 
-§IX.3: "a convergence crossing can carry a Relatie past its Vol pole, and what it holds past that pole reaches its own Drempel and becomes a new Solo", and the new Solo "at once forms its own Relatie with whatever produced it". Life-history theory describes how organisms divide their resources between maintenance, growth and reproduction. Reproduction is funded from what remains beyond maintenance, under trade-offs that shape every species' life cycle (Stearns 1992). The offspring is a new Solo born from surplus. In many species it is bound from birth to its parents by care. §XXIV leaves each parent's share of that binding to the Octaaf, and its own Check notes that which parent cares for the young, and how much, differs from one species to the next. **Grade: Correspondence.**
+§IX.3: "a crossing either way can carry a Relatie past its Vol pole by a Winst, joining a bond or leaving an enmity, and what it holds past that pole reaches its own Drempel and becomes a new Solo", and the new Solo "at once forms its own Relatie with whatever produced it". Life-history theory describes how organisms divide their resources between maintenance, growth and reproduction. Reproduction is funded from what remains beyond maintenance, under trade-offs that shape every species' life cycle (Stearns 1992). The offspring is a new Solo born from surplus. In many species it is bound from birth to its parents by care. *Formal Structure* §XI leaves each parent's share of that binding to the Octaaf, and its own Check notes that which parent cares for the young, and how much, differs from one species to the next. **Grade: Correspondence.**
 
 ### 3.5 Scale invariance: a bond that became a body
 
@@ -154,7 +154,7 @@ The chick's trick is subtler. A reed warbler parent adjusts its feeding to two s
 
 **A cascade across ecosystems.** Sea otters eat sea urchins, and urchins eat kelp. Where otters are present, kelp forests stand. Where they are absent, urchins strip the seabed bare (Estes & Palmisano 1974). In the 1990s, otter numbers in western Alaska collapsed. The likely cause, Estes and colleagues argued, was killer whales, oceanic predators that had begun to eat them. Urchins boomed, and kelp forests were lost (Estes et al. 1998). The evidence for the whales is indirect and has been questioned (Kuker & Barrett-Lennard 2010), though a later analysis found the collapse consistent with predation (Tinker et al. 2021). That is Doem as the Speelgoed describes it, a cascade rather than a fading. It also illustrates §IX's boundary rule. The killer whales had been treated as outside the nearshore system. If they were the cause, they were part of the bond all along, and "the boundary was drawn wrong".
 
-**Coextinction.** When a species is lost, the parasites and mutualists that depend on it are lost with it. One estimate puts thousands of such dependent species at risk alongside the endangered hosts they rely on (Koh et al. 2004). Doem spreads along the bonds: it "takes with it every Relatie that only the fallen ones held" (§XXV).
+**Coextinction.** When a species is lost, the parasites and mutualists that depend on it are lost with it. One estimate puts thousands of such dependent species at risk alongside the endangered hosts they rely on (Koh et al. 2004). Doem spreads along the bonds: it "takes with it every Relatie that only the fallen ones held" (*Formal Structure* §XII).
 
 **Grade: Correspondence (measured).**
 
@@ -166,7 +166,7 @@ The idea has a famous warning attached. Connell named the "ghost of competition 
 
 ### 3.8 Diepte: ecological memory
 
-Diepte is "Everything a Relatie has heard and kept, read as one" (§II.2). Ecosystems carry such a composite. A forest's growth this year depends not only on this year's rain but on a weighted history of rain, drought and disturbance over previous years. Ecologists quantify this "ecological memory" with models that weight antecedent conditions over time (Ogle et al. 2015). That weighted integral of the past is Diepte, at the scale of a forest. **Grade: Correspondence.**
+Diepte is a Relatie's "own form, everything it has heard and kept, read as one" (§II.2). Ecosystems carry such a composite. A forest's growth this year depends not only on this year's rain but on a weighted history of rain, drought and disturbance over previous years. Ecologists quantify this "ecological memory" with models that weight antecedent conditions over time (Ogle et al. 2015). That weighted integral of the past is Diepte, at the scale of a forest. **Grade: Correspondence.**
 
 ### 3.9 The Red Queen: Zweven without end, and a Wijk that does not fall with age
 
@@ -181,7 +181,7 @@ The law holds approximately and is still debated in its details (Solé 2022). **
 
 ### 3.10 Extinction debt: a fall already owed
 
-After habitat is destroyed, species do not all disappear at once. Some persist for generations in the remaining fragments and are lost later, an "extinction debt" that is already owed (Tilman et al. 1994). This is the Speelgoed's slow fall: Stilte's Trek is never off, and a Relatie it wins against only slowly holds for a time that goes as `exp(η / ‖υ‖)` (§XIX), long enough to outlast the span in which it is watched. The fall is owed, and unless the habitat returns, only its timing remains. **Grade: Correspondence.**
+After habitat is destroyed, species do not all disappear at once. Some persist for generations in the remaining fragments and are lost later, an "extinction debt" that is already owed (Tilman et al. 1994). This is the Speelgoed's slow fall: Stilte's Trek is never off, and a Relatie it wins against only slowly holds for a time that goes as `exp(η / ‖υ‖)` (*Formal Structure* §VI), long enough to outlast the span in which it is watched. The fall is owed, and unless the habitat returns, only its timing remains. **Grade: Correspondence.**
 
 ### 3.11 The Triniteit: producers, decomposers, and the cycle between them
 
@@ -202,7 +202,7 @@ The producers themselves depend on Sol, the God of an Octaaf they rely on (*Ther
 
 **4.2 Greep and stability (§VI.4).** *Constraint.* More binding slows the yield to Stilte's Trek but can destabilise against shocks (§2.5). Exponential protection holds only against independent shocks to members, not against shocks shared by all (§2.3). The Speelgoed's own lines ("A deep Relatie is not a safe one", and of Bloei, "Every crossing raises what there is to lose") already point this way, and §VIII.1 now checks itself against May's limit. This Octaaf makes them quantitative.
 
-**4.3 Protection with age (§XV; §3.9).** *Resolved* in the current Speelgoed. An earlier version moved Trouw toward Gewenning, which accumulates over a bond's life, so the Marge kept what a Relatie had long held and its Wijk fell with age; Van Valen's law finds no protection accumulating with a lineage's age. Trouw now moves only at a Relatie's own Vonken, and Stilte's Trek wears it at every look its Zelf takes at itself, while Gewenning runs beside it and holds nothing (§XV). Age alone buys no Marge: a lineage is held only as far as its crossings keep its Greep. If every partner and enemy is also evolving, that Greep need not grow however long the lineage lasts, which is the Red Queen read in Speelgoed terms; it is untested.
+**4.3 Protection with age (*Formal Structure* §II; §3.9).** *Resolved* in the current Speelgoed. An earlier version moved Trouw toward Gewenning, which accumulates over a bond's life, so the Marge kept what a Relatie had long held and its Wijk fell with age; Van Valen's law finds no protection accumulating with a lineage's age. Trouw now moves only at a Relatie's own Vonken, and Stilte's Trek wears it at every look its Zelf takes at itself, while Gewenning runs beside it and holds nothing (*Formal Structure* §II). Age alone buys no Marge: a lineage is held only as far as its crossings keep its Greep. If every partner and enemy is also evolving, that Greep need not grow however long the lineage lasts, which is the Red Queen read in Speelgoed terms; it is untested.
 
 **4.4 The Marge and the Medium's noise (Lexicon).** *Resolved* in the rebuilt Speelgoed. A Marge prevents flicker only when it is wide compared with the Medium's disturbances (§2.2), and the Lexicon now says so: it "holds only against disturbances smaller than its width".
 
@@ -210,8 +210,8 @@ The producers themselves depend on Sol, the God of an Octaaf they rely on (*Ther
 
 ## 5. Open Problems
 
-1. **How wide must a Marge be?** The Speelgoed now gives a mode's holding time as `exp(η / ‖υ‖)`, its Marge over the strength of its Vervorming (§XIX). Can the Marge of a lake or a reef and the noise of its Medium be measured apart, so that how long it flickers before it settles can be foreseen?
-2. **Shared versus independent shocks.** Should the Wijk's law distinguish noise that strikes members independently (exponential protection) from noise that strikes all at once (power-law protection)? Is the shared shock the Medium's share of ‖υ‖ (§XIX)?
+1. **How wide must a Marge be?** The Speelgoed now gives a mode's holding time as `exp(η / ‖υ‖)`, its Marge over the strength of its Vervorming (*Formal Structure* §VI). Can the Marge of a lake or a reef and the noise of its Medium be measured apart, so that how long it flickers before it settles can be foreseen?
+2. **Shared versus independent shocks.** Should the Wijk's law distinguish noise that strikes members independently (exponential protection) from noise that strikes all at once (power-law protection)? Is the shared shock the Medium's share of ‖υ‖ (*Formal Structure* §VI)?
 3. **Counts.** §VIII.1 says a Trio holds by asymmetry, "where one Lid is unlike the other two, or where all three differ across two Spectra at once", and that past a few Leden a gathering lasts only through unlike Leden and nesting. The lichen's three partners are all unlike. Do the associations that last in ecology follow those counts, or does ecology offer too few clean counts to tell?
 4. **Trouw and the Red Queen.** Can a model of coevolving partners reproduce Van Valen's constant extinction risk with the Speelgoed's Trouw, which moves only at Vonken and which Stilte's Trek wears (§4.3)?
 5. **Tijd.** No mapping is attempted at this Octaaf.
@@ -250,6 +250,8 @@ On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding h
 Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinderweg, so the Parasiet now reads §L and its commitment test §L.5.
 
 On 26 October 2026 the Speelgoed's Lexicon came to read the Parasiet's Masker as one that has hardened, so §3.3 quotes that wording.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.4, §3.4 and §3.8 quote the new wording of the Doem, Start and Diepte.
 
 ---
 

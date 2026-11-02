@@ -31,13 +31,14 @@
   // its title. The ids below are kept because links point at them.
   var PARTS = [
     { match: /^Relatiegids$/i, id: "m-relatiegids" },
-    { match: /^Formal Structure$/i, id: "m-formal-structure" },
+    { match: /^Formal Structure/i, id: "m-formal-structure" },
     { match: /^Weefsel$/i, id: "m-weefsel" },
     { match: /^Mensen\b/i, id: "m-mensen" }
   ];
   var CHAPTERS = [
     { match: /^Fundamental/i, id: "m-fundamental", label: "Fundamentals" },
     { match: /^Core$/i, id: "m-core" },
+    { match: /^Running a Veld/i, id: "m-running-a-veld" },
     { match: /^Axioms$/i, id: "m-axioms" },
     { match: /^Coupling$/i, id: "m-coupling" },
     { match: /^Composition$/i, id: "m-composition" },

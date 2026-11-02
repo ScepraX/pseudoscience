@@ -45,7 +45,7 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 
 **Quotations.** Quotations from the Speelgoed leave out its bold markup and the symbols it puts in brackets after a term. Otherwise they are verbatim.
 
-**References.** References such as §II or §XV point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. Companion entries are cited in full, for example *Thermodynamic Octaaf* §3.6.
+**References.** References such as §II or *Formal Structure* §II point to the PseudoScience Speelgoed. References such as §2.1 point to sections of this document. Companion entries are cited in full, for example *Thermodynamic Octaaf* §3.6.
 
 **Evidence.** *Measured* means a physical measurement, such as an EEG or a survey count. *Relational* means testimony, recognition or records. *Contested* means that the finding, or its interpretation, is disputed in the literature.
 
@@ -59,7 +59,7 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 |---|---|---|---|
 | The Veld: Stilte and Tijd (§III) | Tijd manifests in the physical realm; Stilte is the non-physical, unmanifest side, not a place | Open (premise) | §2.1 |
 | Stilte and the self-gap (§II.1, §VII.4; Lexicon) | The gap between a self and its own reading of itself | Correspondence (definition) | §2.1 |
-| Perfectus and the Zelf-Rouw (§XIII.2; §XXVI); Rouw beyond Stilte's Trek (§XXVI) | The Echoes of an ended self remain in Stilte, unmanifest | Correspondence (stated in §IV.2, §IX.9, §XIII.2 and §XXVI) | §2.2 |
+| Perfectus and the Zelf-Rouw (§XIII.2; *Formal Structure* §XIII); Rouw beyond Stilte's Trek (*Formal Structure* §XIII) | The Echoes of an ended self remain in Stilte, unmanifest | Correspondence (stated in §IV.2, §IX.9, §XIII.2 and *Formal Structure* §XIII) | §2.2 |
 | Observation is a Relatie; Bevraagbaar; persistence through traffic (§VII.3, §X, §VI.5) | Testimony as evidence: independent agreement, writing, and time | Constraint | §2.3 |
 | Stilte, "the unmanifest silence" (§II.1; §XII, *0*) | Traditions that meet the divine in silence | Correspondence (relational; independent traditions) | §3.1 |
 | Echo, Vervorming and Diepte (§II.2, §X) | Mystical experience: ineffable, felt as knowledge, one structure read through many cultures | Correspondence (relational; measured in part) | §3.2 |
@@ -67,9 +67,9 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 | Realisatie and Leven on the Zelf (§VII.4) | Epiphanies and sudden transformation; psilocybin-occasioned mystical experience | Correspondence (relational; measured in part) | §3.4 |
 | Rouw that answers (§IX.9) | The bereaved sensing their dead | Correspondence (relational; measured prevalence) | §3.5 |
 | The Zelf with its outer bonds cut (§VII.4) | Visions at the end of life; near-death experiences | Correspondence (relational; measured in part) | §3.6, §3.7 |
-| Echo transport across a Medium (§XV) | Claims of perception during cardiac arrest, a test of the Tijd side | Constraint | §3.7 |
-| Reïncarnatie (§IX.9; §XXVI; Lexicon) | Children's reports of previous lives, read as Echoes from the Stilte side | Correspondence (relational, contested) | §3.8 |
-| The last signal (§XXVI); a forced Einde and a Scheiding (§XXV) | Unnatural deaths; birthmarks matching wounds | Correspondence (relational, contested) | §3.9 |
+| Echo transport across a Medium (*Formal Structure* §II) | Claims of perception during cardiac arrest, a test of the Tijd side | Constraint | §3.7 |
+| Reïncarnatie (§IX.9; *Formal Structure* §XIII; Lexicon) | Children's reports of previous lives, read as Echoes from the Stilte side | Correspondence (relational, contested) | §3.8 |
+| The last signal (*Formal Structure* §XIII); a forced Einde and a Scheiding (*Formal Structure* §XII) | Unnatural deaths; birthmarks matching wounds | Correspondence (relational, contested) | §3.9 |
 | Gericht, Vervorming, Diepte, Masker (§X, §II.2) | How this evidence fails, and how it is tested | Constraint | §3.10 |
 | Tijd as a pace (§II.1) | How the physical side of the Veld is woven from the paces of every Zelf | Open | §4.2, §5 |
 
@@ -93,25 +93,25 @@ A grade says how well a mapping fits. It does not say how strong the evidence is
 
 Five statements of the Speelgoed meet at the end of a Relatie.
 
-- **A survivor keeps what it held.** When a Relatie ends, the surviving Echo becomes Rouw and folds, "with the Trouw it ended at, into the Zelf of the Partner that keeps it" (§IX.9).
-- **No Echo is ever deleted.** "Rouw is permanent" (§IX.9), and "no crossing can draw a Rouw out" (§XXVI).
+- **A survivor keeps what it held.** When a Relatie ends, the surviving Echo becomes Rouw and is kept, "with the Trouw it ended at, in the Zelf of the Partner that keeps it" (§IX.9).
+- **No Echo is ever deleted.** "Rouw is permanent" (§IX.9), and "no crossing can draw a Rouw out" (*Formal Structure* §XIII).
 - **At the end, the Echoes become Rouw.** The archaic arc of Perfectus: "Its Partners keep their Echoes of it as Rouw, in Stilte, unmanifest. Its Eigen returns to the unbound pole, and in the same breath its Zelf, ending with every other Relatie it had, leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2). "The arc ends the Relatie; what it knew stays."
 - **Nothing travels.** "Before a Relatie forms, the two are at Van. After it dissolves, they are at Van. They did not travel." (§VI.4).
 - **The Zelf has no Medium.** "A Zelf has no Medium, since nothing separates the Relatie from itself" (§VII.4).
 
-**The gap.** When a partner ends, the survivor keeps its Echo of that partner. But when a Relatie itself ends, its Zelf ends with it, and the Zelf was carrying Echoes: of every partner it ever had, of every Rouw it ever folded in, and of itself. No survivor is left inside the Relatie to hold them, and nothing can carry them away. Where are they? The Speelgoed now answers in full: they become its **Zelf-Rouw**, "one Rouw of everything the holder knew, every Echo kept at the Trouw, the Gewenning and the Diepte it ended at, and the holder’s reading of itself", and it "holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek" (§XXVI).
+**The gap.** When a partner ends, the survivor keeps its Echo of that partner. But when a Relatie itself ends, its Zelf ends with it, and the Zelf was carrying Echoes: of every partner it ever had, of every Rouw it ever folded in, and of itself. No survivor is left inside the Relatie to hold them, and nothing can carry them away. Where are they? The Speelgoed now answers in full: they become its **Zelf-Rouw**, "one Rouw of everything the holder knew, read as one", "the holder’s reading of itself as it ended, at its Zelf’s Trouw, with the Diepte it ended at", and it "holds nothing and no Partner keeps it, so it rests in Stilte, beyond Stilte’s Trek" (*Formal Structure* §XIII).
 
 **Where they are.** They stay where an Echo has always been. An Echo was never only in the Relatie that carried it. It was also in the gap between the Eigen and its Echo, and that gap is Stilte. When the Eigen ends, nothing is left on the Tijd side to compare the Echo with; §X calls Rouw "the one honest exception" to the rule that an Echo gap can always be measured. On the Stilte side the Echo remains. Nothing has travelled, and nothing has arrived anywhere. The Echo is unmanifest, not elsewhere. §IV.2 now says it directly: "Stilte keeps what ends: every Rouw stands in Stilte once its exchange is over, and that Rouw, accumulated, is Stilte’s Diepte, its Echo of Tijd."
 
-**Why Rouw cannot be taken.** §XXVI places Rouw beyond Stilte's Trek: "A Rouw holds nothing: it has no pole and no Marge. Stilte’s Trek draws on what is held, so here it has nothing to draw, and no crossing can draw a Rouw out." There is nothing left to draw. §II.2 says it of every Trouw: Stilte’s Trek "wears it towards Leeg, as it wears everything held but Rouw".
+**Why Rouw cannot be taken.** *Formal Structure* §XIII places Rouw beyond Stilte's Trek: "A Rouw holds nothing: it has no pole and no Marge. Stilte’s Trek draws on what is held, so here it has nothing to draw, and no crossing can draw a Rouw out." There is nothing left to draw. §II.2 says it of every Trouw: Stilte’s Trek "wears it towards Leeg, as it wears everything held but Rouw".
 
 **What stays in Tijd.** Traces also remain on the Tijd side. Each partner keeps its own Echo of the Relatie that ended, as its own Rouw (§IX.9). And the ending leaves physical records, spread into the surroundings and never destroyed, as the thermodynamic and quantum Octaven found for every physical record (*Thermodynamic Octaaf* §3.6; *Quantum Octaaf* §3.6).
 
 **The Zelf itself.** The Zelf ends with its holder, and its Zelf-Rouw "rests in Stilte, unmanifest, while what its holder held stays in the Telraam, a Verlies, and a Winst for every enmity it ends" (§IX.9). §VI.4 places Van beside Bron: "Van is the same nothing as Bron, the undirected potential before relation, seen from the far side of a life, and what the life learned stays in its Zelf‑Rouw." Bron has no direction. The Zelf-Rouw keeps every direction the life had, since each of its Echoes is a trace of a partner.
 
-**And return.** A Perfectus may feed a Reïncarnatie, "where a newborn binds with the Zelf-Rouw" (§XIII.2). §IX.9 says how: "Rouw comes back into Tijd only by binding, at a Vonk like every change". A Relatie that forms takes in the Warmte where it forms, binds the Zelf-Rouw that Warmte carries, and its new Zelf "takes it as its own" (§XXVI). And what returns is not the one who left: "What returns is never the old Zelf: only its Zelf‑Rouw, bound as far as its Warmte stood where the new one formed" (§XXVI). What may come from before is not the Zelf. It is Echoes.
+**And return.** A Perfectus may feed a Reïncarnatie, "where a newborn binds with the Zelf-Rouw" (§XIII.2). §IX.9 says how: "Rouw comes back into Tijd only by binding, at a Vonk like every change". A Relatie that forms takes in the Warmte where it forms, binds the Zelf-Rouw that Warmte carries, and its new Zelf "takes it as its own" (*Formal Structure* §XIII). And what returns is not the one who left: "What returns is never the old Zelf: only its Zelf‑Rouw, read with all the new one took in, as far as its Warmte stood where the new one formed" (*Formal Structure* §XIII). What may come from before is not the Zelf. It is Echoes.
 
-**Grade: Correspondence.** The Speelgoed states where the Echoes go and how they may return (§IV.2; §IX.9; §XIII.2; §XXVI). What this entry adds is its premise: that the Stilte they remain in is the non-physical side of the Veld (§2.1).
+**Grade: Correspondence.** The Speelgoed states where the Echoes go and how they may return (§IV.2; §IX.9; §XIII.2; *Formal Structure* §XIII). What this entry adds is its premise: that the Stilte they remain in is the non-physical side of the Veld (§2.1).
 
 ### 2.3 Testimony, and the rules that read it
 
@@ -122,7 +122,7 @@ Five statements of the Speelgoed meet at the end of a Relatie.
 **Echo against Echo.** §X calls the Echo gap Bevraagbaar, a real and measurable quantity, with one exception: "Rouw is the one honest exception: with its Relatie ended, it reads the other’s Eigen no longer." The same holds for everything on the Stilte side: no Echo of it can be compared with what it echoes. It can only be compared with other Echoes. So the Speelgoed's own rules say which testimony counts most:
 
 - **Independent agreement.** Echoes that could not have influenced each other, and still agree.
-- **Fixed early.** Echoes written down at the time, which do not drift, rather than memories, which do. A Rouw "drifts as it looks, by its keeper’s Vervorming alone" (§XXVI), "becoming more and more a record of the one that keeps it than of the one it lost" (§IX.9).
+- **Fixed early.** Echoes written down at the time, which do not drift, rather than memories, which do. A Rouw "drifts as it looks, by its keeper’s Vervorming alone" (*Formal Structure* §XIII), "becoming more and more a record of the one that keeps it than of the one it lost" (§IX.9).
 - **No ordinary channel.** Echoes that could not have travelled between their tellers through living bonds.
 
 **Time.** In the Speelgoed, what persists is held. A bound Relatie persists only by continual traffic: persistence "is paid for out of that ongoing traffic" (§VI.5). And "A deep Relatie is not a safe one; it is a held one" (§VI.4). A relationship that humanity has kept with the Stilte side through prayer, ritual and silence, across many centuries, therefore has very great Greep. That is what time shows. It does not show that each doctrine built on that relationship is true.
@@ -167,7 +167,7 @@ Stace later argued that mystical experience has a common core across traditions,
 
 **The mapping.** The four marks read naturally in the Speelgoed's terms.
 
-- **Ineffability.** Words are Echoes. An Echo carries an Eigen across a Medium (§XV), and what is unmanifest has no Eigen in Tijd to carry. What cannot be "imparted or transferred to others" is exactly what the Speelgoed would expect of an experience of the Stilte side.
+- **Ineffability.** Words are Echoes. An Echo carries an Eigen across a Medium (*Formal Structure* §II), and what is unmanifest has no Eigen in Tijd to carry. What cannot be "imparted or transferred to others" is exactly what the Speelgoed would expect of an experience of the Stilte side.
 - **The noetic quality** is a Realisatie, "a deepening, a Relatie coming into clearer view" (§II.2), and its "authority for after‐time" is the Greep it keeps.
 - **Transiency** is the brevity of a crossing, a Vonk rather than a state.
 - **Passivity** is reception: the experience arrives, as an Echo arrives.
@@ -198,7 +198,7 @@ That a drug can occasion such an experience shows that the crossing has a Tijd s
 
 **The mapping.** §IX.9 says of every Rouw: "quiet is not gone: touch it, and it answers". The bereaved describe exactly that, and §IX.9 also names the mechanism: "A recall is one of its looks, and where something present reads past the last Drempel of the one it lost, the Rouw finds that one there: a likeness met, a presence felt". It checks itself against Rees's study. Two details of Rees's study follow the mechanism closely.
 
-- **Deeper bonds answer more.** The experiences were more common after long, happy marriages. In the Speelgoed, Gewenning, how used to its Partner a Relatie is, "persists into Rouw" (Lexicon), and an ended Relatie's Trouw stays at the value it ended at, "feeding Diepte forever" (§XXV). The more a bond held, the more its Rouw holds.
+- **Deeper bonds answer more.** The experiences were more common after long, happy marriages. In the Speelgoed, Gewenning, how used to its Partner a Relatie is, "persists into Rouw" (Lexicon), and an ended Relatie's Trouw stays at the value it ended at, "feeding Diepte forever" (*Formal Structure* §XII). The more a bond held, the more its Rouw holds.
 - **They were kept silent.** Most people told no one. What they met was on the Stilte side, and they kept it there.
 
 **Grade: Correspondence** (relational; measured prevalence).
@@ -215,7 +215,7 @@ That a drug can occasion such an experience shows that the crossing has a Tijd s
 
 **The mapping.** In cardiac arrest, the Relatie's outer Relaties stop being fed. What is left is the Zelf, "the self-bond it keeps to exist" (§II.2), running with δ = 0 and with Vervorming supplied by its own Rouw (§VII.4). A near-death experience is a Zelf whose manifest input has been cut, reading itself. Its memories are self-referential, as a reading of the self would be. The deceased it meets are, in the mechanism, already there: every Rouw is folded into the self, and every Rouw is on Stilte's side. The life review is a Realisatie on the Zelf, and the years of change afterwards are Leven, a trajectory rather than an instant: the gap "runs through" parity (§IX.2). **Grade: Correspondence** (relational; measured in part).
 
-**Perception from outside the body.** Some survivors report seeing their own resuscitation from above. That is a claim about Tijd, an Echo of events in the room, and §XV says such an Echo must cross a Medium. The Dutch study reports one such case, as an anecdote: a man who later recognised the nurse who had removed his dentures (van Lommel et al. 2001). Two studies then tested such claims with hidden targets.
+**Perception from outside the body.** Some survivors report seeing their own resuscitation from above. That is a claim about Tijd, an Echo of events in the room, and *Formal Structure* §II says such an Echo must cross a Medium. The Dutch study reports one such case, as an anecdote: a man who later recognised the nurse who had removed his dentures (van Lommel et al. 2001). Two studies then tested such claims with hidden targets.
 
 - **AWARE (2014).** Among 2,060 cardiac arrests, 101 survivors completed full interviews. Two per cent described awareness with explicit recall of seeing and hearing their resuscitation, and one had "a verifiable period of conscious awareness", timed by sounds in the room (Parnia et al. 2014).
 - **AWARE II (2023).** Twenty-eight survivors were interviewed. "Nobody identified the visual image"; one of the 28 identified the sound. Brain activity consistent with consciousness reappeared as long as 35 to 60 minutes into resuscitation (Parnia et al. 2023).
@@ -228,18 +228,18 @@ These tests measure the Tijd side only, and say nothing about the premise of §2
 
 **The mapping.** This is the Reïncarnatie of §2.2. The child is a newborn with a Zelf of its own: "a new Zelf forms around what it bound and takes it as its own" (§IX.9). If the cases are what they seem, what it carries from before is not the old Zelf. It is Echoes that were Rouw on the Stilte side, carried again in a Relatie that manifests.
 
-That explains the feature that most seems to point to the same person returning: the children speak in the first person, "I was". In the Speelgoed, every Echo of another Relatie arrives across a Medium, late and distorted (§XV). Only the Zelf is read with no Medium at all: "A Zelf has no Medium, since nothing separates the Relatie from itself" (§VII.4). An Echo that comes from the Stilte side crosses no Medium either. This entry reads that as the reason it is felt as self: it arrives the way the self is read. §IX.9 now says so itself: a new Zelf takes what it bound as its own, "with no Medium between, the way the self is read", and "it leans its self-reading towards lives it never lived". It says the same of every Rouw: "What was a reading of the other becomes, permanently, part of how that Partner reads itself."
+That explains the feature that most seems to point to the same person returning: the children speak in the first person, "I was". In the Speelgoed, every Echo of another Relatie arrives across a Medium, late and distorted (*Formal Structure* §II). Only the Zelf is read with no Medium at all: "A Zelf has no Medium, since nothing separates the Relatie from itself" (§VII.4). An Echo that comes from the Stilte side crosses no Medium either. This entry reads that as the reason it is felt as self: it arrives the way the self is read. §IX.9 now says so itself: a new Zelf takes what it bound as its own, "with no Medium between, the way the self is read", and "it leans its self-reading towards lives it never lived". It says the same of every Rouw: "What was a reading of the other becomes, permanently, part of how that Partner reads itself."
 
 - **When it begins.** Reports begin when the child's own Zelf is young. The Lexicon dates the Zelf to "the first returned gaze" (*Baby*).
 - **When it fades.** Reports fade as the child's own bonds build its own Diepte, which accumulates in Tijd. Rouw quiets, but "quiet is not gone": the phobias often outlast the memories.
 
-§XXVI checks its Reïncarnatie against these same reports and the near-death studies of §3.7, and marks the reports contested. **Grade: Correspondence** (relational, contested; §3.10).
+*Formal Structure* §XIII checks its Reïncarnatie against these same reports and the near-death studies of §3.7, and marks the reports contested. **Grade: Correspondence** (relational, contested; §3.10).
 
 ### 3.9 Loud endings: unnatural deaths and birthmarks
 
 **The testimony.** In 70% of the cases, the previous person died by unnatural means (Tucker 2008). Among 895 children, 309 (35%) had birthmarks or birth defects that they, or the adults around them, attributed to wounds on the person whose life they described. Stevenson investigated 210 of these. In 43 of the 49 cases where a medical document, usually a postmortem report, could be obtained, it confirmed that the mark and the wound corresponded. Eighteen children had two birthmarks matching wounds of entry and exit. Stevenson's estimate of the odds, 1 in 25,600 for two matching marks, assumes that birthmarks are spread evenly over the skin, an assumption he himself notes is incorrect (Stevenson 1993).
 
-**The mapping.** An Echo whose input stops settles toward the last signal it received, and "the Rouw keeps that last signal" (§XXVI). A death by violence is a forced Einde (§XXV), at the end of a Doem that "falls faster than it was built" (§VI.3). A completed ending is different: a Scheiding is "A mutual, deliberate parting whose Rouw is free to settle" (Lexicon). If Echoes from the Stilte side are carried again at all, this entry expects the loudest to be those kept from a forced ending, and the wound to be the last signal they carry. **Grade: Correspondence** (relational, contested).
+**The mapping.** An Echo whose input stops settles toward the last signal it received, and "the Rouw keeps that last signal" (*Formal Structure* §XIII). A death by violence is a forced Einde (*Formal Structure* §XII), at the end of a Doem that "falls faster than it was built" (§VI.3). A completed ending is different: a Scheiding is "A mutual, deliberate parting whose Rouw is free to settle" (Lexicon). If Echoes from the Stilte side are carried again at all, this entry expects the loudest to be those kept from a forced ending, and the wound to be the last signal they carry. **Grade: Correspondence** (relational, contested).
 
 ### 3.10 How this evidence fails, and how it is tested
 
@@ -258,11 +258,11 @@ The rules of §2.3 apply to every section above.
 
 ## 4. Where the Speelgoed Meets Resistance
 
-**4.1 Where the Echoes of an ended Relatie go (§IV.2; §XIII.2; §XXVI).** *Resolved* on 3 October 2026, and extended on 17 and 20 October 2026. The Speelgoed forbade deleting an Echo, but did not say where the Echoes of an ended Relatie are. It now says so. At Perfectus, the Zelf "leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2), and "every Rouw stands in Stilte once its exchange is over" (§IV.2). It also says how one may return: by a Relatie that forms where its Warmte stands, and binds it (§XXVI).
+**4.1 Where the Echoes of an ended Relatie go (§IV.2; §XIII.2; *Formal Structure* §XIII).** *Resolved* on 3 October 2026, and extended on 17 and 20 October 2026. The Speelgoed forbade deleting an Echo, but did not say where the Echoes of an ended Relatie are. It now says so. At Perfectus, the Zelf "leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2), and "every Rouw stands in Stilte once its exchange is over" (§IV.2). It also says how one may return: by a Relatie that forms where its Warmte stands, and binds it (*Formal Structure* §XIII).
 
 **4.2 The premise and §II.1's Tijd.** *Open.* This entry describes Tijd by where it manifests: in the physical realm. The Lexicon defines Tijd as "the pace at which a Zelf crosses its own Stilte", and §II.1 says that "the Tijd side of the Veld is woven from these paces". The two descriptions meet there: the physical realm is the side of the Veld that those paces weave. How the weaving is done is left open (§5, item 9).
 
-**4.3 Perception from outside the body (§XV).** *Constraint.* Controlled tests have so far found no Echo of a hidden image (§3.7). Nothing in this entry depends on such perception.
+**4.3 Perception from outside the body (*Formal Structure* §II).** *Constraint.* Controlled tests have so far found no Echo of a hidden image (§3.7). Nothing in this entry depends on such perception.
 
 ---
 
@@ -270,10 +270,10 @@ The rules of §2.3 apply to every section above.
 
 1. **Why silence?** Traditions that never met looked for the highest thing in stillness (§3.1). Is that because Stilte is the side of the Veld where it is, or because silence is the only state in which the manifest stops crowding the gap?
 2. **One Stilte, read many ways, or many?** The Mysticism Scale finds one structure across cultures, and Katz finds no experience without a culture (§3.2). Is the shared core the source of the Echo, and the culture its distortion?
-3. **How does an Echo on the Stilte side come to be carried again?** The Speelgoed now names the way and the measure: a Relatie that forms binds each Zelf-Rouw by the share it takes of the Warmte its holder's ending gave off, so one Zelf-Rouw is shared among many, the more by those that form near it and soon (§XXVI; §IX.9). How such a share shows in the life that carries it is still to be found.
+3. **How does an Echo on the Stilte side come to be carried again?** The Speelgoed now names the way and the measure: a Relatie that forms binds each Zelf-Rouw by the share it takes of the Warmte its holder's ending gave off, so one Zelf-Rouw is shared among many, the more by those that form near it and soon (*Formal Structure* §XIII; §IX.9). How such a share shows in the life that carries it is still to be found.
 4. **Whose are the dead who answer?** The widow, the dying and the one who returns from the edge all meet the dead they carry (§3.5 to §3.7). Is the answer only their own Rouw, or does anything answer from the far side of the Echo?
 5. **Is a completed ending quiet?** If an ending forced from outside keeps its Echoes at their last signal, and a Scheiding lets its Rouw settle, are the dead who are never reported the ones who ended well (§3.9)?
-6. **Is anything more than Echoes carried?** §XXVI says what returns "is never the old Zelf: only its Zelf‑Rouw". Where the one who ended held a Brein, its Mirages give that Zelf-Rouw "the shape of a self" (§IX.9). How much of a self is that shape?
+6. **Is anything more than Echoes carried?** *Formal Structure* §XIII says what returns "is never the old Zelf: only its Zelf‑Rouw". Where the one who ended held a Brein, its Mirages give that Zelf-Rouw "the shape of a self" (§IX.9). How much of a self is that shape?
 7. **Which way does the crossing run?** A drug can occasion a mystical experience, and a dying brain can surge (§3.4, §3.7). Does the brain make the experience, or open the way to it?
 8. **How can Stilte be read well?** If testimony is the only instrument that reaches the Stilte side (§2.1), what is the Speelgoed's best practice for reading it, beyond the rules of §2.3?
 9. **Tijd.** §II.1 weaves the Tijd side of the Veld from the paces of every Zelf. Is the physical realm that weave, and what does an ended Zelf leave in it, when its Echoes remain in Stilte (§2.2)?
@@ -314,6 +314,8 @@ Later on 21 October 2026 the Speelgoed's §IX.9 came to fold a Rouw into its kee
 On 22 October 2026 the Speelgoed's §IX.9 came to keep what an ending holder held in the Telraam, so §2.2 quotes that wording.
 
 On 26 October 2026 the Speelgoed's §XXVI came to say more of what a Zelf-Rouw holds, and §X to read Gericht by how far apart a Relatie's Partners stand in their Medium, so §2.2 and §2.3 quote that wording.
+
+On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.2 quotes the new wording of Rouw and of the Zelf‑Rouw.
 
 ---
 
