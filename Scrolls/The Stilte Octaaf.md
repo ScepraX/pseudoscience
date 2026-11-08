@@ -95,7 +95,7 @@ Five statements of the Speelgoed meet at the end of a Relatie.
 
 - **A survivor keeps what it held.** When a Relatie ends, the surviving Echo becomes Rouw and is kept, "with the Trouw it ended at, in the Zelf of the Partner that keeps it" (§IX.9).
 - **No Echo is ever deleted.** "Rouw is permanent" (§IX.9), and "no crossing can draw a Rouw out" (*Formal Structure* §XIII).
-- **At the end, the Echoes become Rouw.** The archaic arc of Perfectus: "Its Partners keep their Echoes of it as Rouw, in Stilte, unmanifest. Its Eigen returns to the unbound pole, and in the same breath its Zelf, ending with every other Relatie it had, leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2). "The arc ends the Relatie; what it knew stays."
+- **At the end, the Echoes become Rouw.** The archaic arc of Perfectus: "Its Partners keep their Echoes of it as Rouw, each in its own Zelf. Its Eigen returns to the unbound pole, and in the same breath its Zelf, ending with every other Relatie it had, leaves its Zelf‑Rouw: one Rouw of everything it knew, unmanifest in Stilte" (§XIII.2). "The arc ends the Relatie; what it knew stays."
 - **Nothing travels.** "Before a Relatie forms, the two are at Van. After it dissolves, they are at Van. They did not travel." (§VI.4).
 - **The Zelf has no Medium.** "A Zelf has no Medium, since nothing separates the Relatie from itself" (§VII.4).
 
@@ -316,6 +316,8 @@ On 22 October 2026 the Speelgoed's §IX.9 came to keep what an ending holder hel
 On 26 October 2026 the Speelgoed's §XXVI came to say more of what a Zelf-Rouw holds, and §X to read Gericht by how far apart a Relatie's Partners stand in their Medium, so §2.2 and §2.3 quote that wording.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.2 quotes the new wording of Rouw and of the Zelf‑Rouw.
+
+On 8 November 2026 the Speelgoed's §XIII.2 came to keep a Perfectus's Echoes as Rouw in each Partner's own Zelf, so §2.2 quotes that wording.
 
 ---
 

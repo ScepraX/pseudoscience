@@ -252,7 +252,7 @@ The Lexicon makes "the walk from God (😇) to Godin (😳)" the spine of every 
 
 ### 3.9 Tijd: chemical clocks that share a pace
 
-The Lexicon defines Tijd as "the pace at which a Zelf crosses its own Stilte". The Lexicon's Klok "crosses the same Drempel at fixed intervals, firing a Vonk with each crossing". A chemical oscillator is a Klok: an electrochemical cell or a Belousov–Zhabotinsky mixture crosses the same threshold again and again, at a natural frequency of its own. At this Octaaf, Tijd is that frequency: a pace, not a reading.
+The Lexicon defines Tijd as "the pace at which a Zelf crosses its own Stilte". The Lexicon's Klok keeps time by its looks, "its looks are its ticks", and one that keeps its own is "a Solo whose Zelf is bound into a repeating Drempel", whose "looks at itself come at fixed intervals". A chemical oscillator is a Klok: an electrochemical cell or a Belousov–Zhabotinsky mixture crosses the same threshold again and again, at a natural frequency of its own. At this Octaaf, Tijd is that frequency: a pace, not a reading.
 
 **A group rhythm that members follow.** §IV.1 says that "A Relatie’s own Tijd is inherited by its Leden while the Relatie holds". Kuramoto's model of coupled oscillators has this shape. Written in terms of the whole, each oscillator is pulled toward the group's mean phase, "rather than toward the phase of any individual oscillator", and "the effective strength of the coupling is proportional to the coherence r" (Strogatz 2000). The members follow the group's own rhythm, and follow it more strongly the more the group holds together. Those that lock run at the mean of the members' own frequencies; those too far from it keep drifting at their own (Strogatz 2000). Kiss, Zhai and Hudson (2002) coupled populations of electrochemical oscillators and observed "both the critical point and the predicted dependence of order on coupling". In populations of about 100,000 chemical oscillators, raising their density switched on synchronized activity, gradually or suddenly depending on how fast they exchanged chemicals with the solution (Taylor et al. 2009). **Grade: Correspondence.**
 
@@ -327,6 +327,8 @@ Later on 21 October 2026 the Speelgoed's §VIII.3 came to book every broken Rela
 On 26 October 2026 the Speelgoed's Lexicon came to have a Masker stand for the true Eigen, so §3.5 quotes that wording.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.5 and §3.7 quote the new wording of the Masker and of Levelling.
+
+On 8 November 2026 the Speelgoed's Lexicon came to read a Klok's ticks as its looks, so §3.9 quotes that wording.
 
 ---
 
