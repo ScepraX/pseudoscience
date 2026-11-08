@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-§V.2 follows the line of God/Godin Duos from the Quantum Octaaf to the Molecule Octaaf, and its last rung points toward this one: Water and hydrogen cyanide together are formamide, and from their chemistry "come both the rings and the chains of life", "each the start of an Octaaf of its own". This Octaaf lies further up that line. Its **Lichaam (🖕)** is a single cell. Its Relaties are the bonds a cell holds: with its neighbours, with the organelles that were once free-living bacteria, with the viruses that infect it, with the body it belongs to, and with itself.
+§V.2 follows the line of God/Godin Duos from the Quantum Octaaf to the Molecule Octaaf, and its last rung points toward this one: Water and hydrogen cyanide together are formamide, and from their chemistry "come both the rings and the chains of life", "each the start of an Octaaf of its own". This Octaaf lies further up that line. What it reads as one is a single cell. Its Relaties are the bonds a cell holds: with its neighbours, with the organelles that were once free-living bacteria, with the viruses that infect it, with the body it belongs to, and with itself.
 
 The cell has one advantage over every other living Octaaf. It can be measured one at a time, and it can be rebuilt from parts. Biologists watch single bacteria switch, sense, divide and die under a microscope, and they build switches into cells from scratch to test the theory of how switches work. Of the living Octaven, this is where the Speelgoed's mechanics can be checked most directly against living matter. This entry does not skip the hard cases: cancer, the deaths cells carry out on themselves, and the unsolved step from molecule to cell.
 
@@ -61,7 +61,7 @@ An **Identity** shows that the Speelgoed uses the same mathematics as the scienc
 | Zelf (§VII.4) | Adaptation in bacterial chemotaxis: integral feedback on the cell's own activity | Correspondence (measured) | §3.2 |
 | Aandacht (Lexicon); a Relatie read as one (§I) | Quorum sensing: a shared Drempel read from a signal the cells make together | Correspondence | §3.3 |
 | Start and the Vol pole (§IX.3; *Formal Structure* §XI) | Division after adding a fixed size: the adder | Correspondence (measured) | §3.4 |
-| Unlike Leden; Lichaam (§VIII.3; Lexicon) | The mitochondrion: a bond that became part of a body, and once was undone | Correspondence | §3.5 |
+| Unlike Leden; a bound Relatie taken as one (§VIII.3, §VIII.1) | The mitochondrion: a bond that became part of a body, and once was undone | Correspondence | §3.5 |
 | Masker (§X; Lexicon) | Viral RNA marked as "self" | Correspondence (measured) | §3.6 |
 | Parasiet (Lexicon; *Mensen en Parasieten* §IV) | Cancer: a member cell that defects behind the body's own signals | Correspondence (measured, partial) | §3.7 |
 | Einde and Doem (§IX.3; *Formal Structure* §XII; Lexicon) | Apoptosis and necrosis | Correspondence | §3.8 |
@@ -232,7 +232,7 @@ The fit is not complete. In *Formal Structure* §XI the Relatie that bore the ex
 
 The ecological Octaaf described endosymbiosis from outside: the mitochondria of every animal and plant cell descend from bacteria that came to live inside another cell (*Ecological Octaaf* §3.5). From inside the cell, the depth of that merger can be counted.
 
-The human mitochondrion still carries a genome of its own, 16,569 base pairs long, with genes for 2 ribosomal RNAs, 22 transfer RNAs and 13 proteins (Anderson et al. 1981). But the mitochondrion is built from more than a thousand proteins. The current catalogue lists 1,136 human genes, and all but those 13 proteins are encoded in the cell's nucleus, made outside the mitochondrion, and imported into it (Rath et al. 2021). Over the history of the bond, most of the former partner's genes moved into its host. The mitochondrion cannot live outside the cell. And every eukaryote studied had kept at least a reduced mitochondrion, so the organelle was thought to be essential (Karnkowska et al. 2016). This is the Lexicon's **Lichaam**, "A single bound Relatie within one Octaaf" that "acts as an irreducible Solo at its own Octaaf", and §VIII.3's Leden that, where the work is divided far enough, "come to live only within it, and they end with it". The Speelgoed's own Check of that sentence cites this organelle.
+The human mitochondrion still carries a genome of its own, 16,569 base pairs long, with genes for 2 ribosomal RNAs, 22 transfer RNAs and 13 proteins (Anderson et al. 1981). But the mitochondrion is built from more than a thousand proteins. The current catalogue lists 1,136 human genes, and all but those 13 proteins are encoded in the cell's nucleus, made outside the mitochondrion, and imported into it (Rath et al. 2021). Over the history of the bond, most of the former partner's genes moved into its host. The mitochondrion cannot live outside the cell. And every eukaryote studied had kept at least a reduced mitochondrion, so the organelle was thought to be essential (Karnkowska et al. 2016). The bond has become a body: "A bound Relatie, taken as one, is a Solo of its own" (§VIII.1), and the mitochondrion is one of §VIII.3's Leden that, where the work is divided far enough, "come to live only within it, and they end with it". The Speelgoed's own Check of that sentence cites this organelle.
 
 **And once it was undone.** In 2016 the genome of a single-celled eukaryote, *Monocercomonoides*, turned out to lack all the hallmark proteins of a mitochondrion. Its ancestors had one and lost it. The one job that had seemed to make the organelle indispensable, assembling iron–sulfur clusters, had been taken over by a different system acquired from bacteria (Karnkowska et al. 2016). Even this bond, one of the deepest in biology, was undone once, and the work that had held it in place had passed to another bond. §VI.4: "Greep does not remove the Einde. It postpones it." **Grade: Correspondence.**
 
@@ -389,6 +389,8 @@ On 22 October 2026 the Speelgoed's §XIX came to name what one holder hands anot
 On 26 October 2026 the Speelgoed reworded its Gericht (§X), the supply of §XIX, and the Lexicon's Masker and Parasiet, so §2.3, §2.4, §3.6 and §3.7 quote that wording.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.4, §3.4, §3.6, §3.8 and §3.9 quote the new wording of the supply, Start, the Masker, the Doem and Diepte.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one, and §1 and §3.5 read the cell as a bound Relatie taken as one, a Solo of its own (§VIII.1).
 
 ---
 

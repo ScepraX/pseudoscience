@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-The Speelgoed describes *why* bonds form, hold, and end. The quantum Octaaf describes *how* they do so at the smallest scales, where the **Lichaam (🖕)** is an atom, a nucleus, a proton, or a single particle.
+The Speelgoed describes *why* bonds form, hold, and end. The quantum Octaaf describes *how* they do so at the smallest scales, where what is read as one is an atom, a nucleus, a proton, or a single particle.
 
 ### 0.1 What this document is
 
@@ -155,7 +155,7 @@ The Speelgoed's word fits better than it knows. Physicists call the definite val
 
 These correlations are not two independent Echoes carrying hidden information. Bell (1964) showed that no such account can reproduce them, and experiments without loopholes have confirmed it (Hensen et al., 2015). The bond is more than its members plus their Echoes. **Grade: Tension** with §II.2 as written.
 
-**The Speelgoed already has the repair.** Every Relatie is "both, by the scale it is read at" (§I), and under §VIII.2's *Scale invariance* "the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own". An entangled pair is the case where only the far view gives a definite Eigen. Read at the scale of the pair, the bond is a Solo with a definite Eigen. Read at the scale of its members, each still has a state, as §II.2 requires of every Relatie, but it is maximally mixed: definite as an object, with no definite outcome. The Relatie is the Lichaam. **Grade: Tension, resolved** within the Speelgoed by §VIII.2.
+**The Speelgoed already has the repair.** Every Relatie is "both, by the scale it is read at" (§I), and under §VIII.2's *Scale invariance* "the others on its Octaaf relate to it from outside as one Relatie, a Solo of its own". An entangled pair is the case where only the far view gives a definite Eigen. Read at the scale of the pair, the bond is a Solo with a definite Eigen. Read at the scale of its members, each still has a state, as §II.2 requires of every Relatie, but it is maximally mixed: definite as an object, with no definite outcome. The Relatie, taken as one, is the Solo. **Grade: Tension, resolved** within the Speelgoed by §VIII.2.
 
 **The Echoes still lag.** Entanglement correlates without communicating. No measurement on one particle can send a message to the other: this is the *no-signalling theorem*. Any information still travels as an Echo, no faster than light. The Relatie is shared, but its Echoes still obey Vertraging (*Cosmic Octaaf* §2.1).
 
@@ -324,6 +324,8 @@ On 23 October 2026 the Speelgoed's §V.1 came to read the gift of the many as wh
 On 26 October 2026 what an Instantie keeps moved from the Speelgoed's §XXVIII to the Framework Specification of Schrift V, so §3.3 cites §LVII.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.3, §2.4, §3.2, §3.6 and §3.7 quote the new wording of §X, of the Relatie, of Rouw and of Start, and "The book alone bounds a value" now stands in *Formal Structure* §II.1.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one, and §3.2 reads the entangled pair, taken as one, as the Solo.
 
 ---
 

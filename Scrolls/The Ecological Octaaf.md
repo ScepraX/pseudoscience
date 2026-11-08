@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-Ecology is the science of bonds between living things: who eats whom, who helps whom, who lives inside whom. Its **Lichaam (🖕)** is a population, a community, or a whole ecosystem, and its Relaties are interactions between species. Of all the Octaven, this one deals most directly with the Speelgoed's own subject, bonds that form, hold, cascade, and end, without the intimacy of the neuroscience Octaaf.
+Ecology is the science of bonds between living things: who eats whom, who helps whom, who lives inside whom. What it reads as one is a population, a community, or a whole ecosystem, and its Relaties are interactions between species. Of all the Octaven, this one deals most directly with the Speelgoed's own subject, bonds that form, hold, cascade, and end, without the intimacy of the neuroscience Octaaf.
 
 ### 0.1 What this document is
 
@@ -252,6 +252,8 @@ Later on 21 October 2026 the Speelgoed's Schrift IV gained a chapter, De Vlinder
 On 26 October 2026 the Speelgoed's Lexicon came to read the Parasiet's Masker as one that has hardened, so §3.3 quotes that wording.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §2.4, §3.4 and §3.8 quote the new wording of the Doem, Start and Diepte.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one.
 
 ---
 

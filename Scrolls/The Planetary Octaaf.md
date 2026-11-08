@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-§V.1 says that "a biosphere with no Warmte to take, neither what Sol’s Licht leaves there nor the Earth’s own, is a frozen Stilte", and §VI.2 names the Warmte a Winst takes: "Sol’s Licht warming the ground, where none of the ground’s Relaties keeps it". Between the living Octaven and the cosmic one sits the body that makes both of those sentences true: a planet. Its **Lichaam (🖕)** is the planet as a whole. Its Relaties are the bonds that hold a planet together and keep it changing: between the planet and its star, between ice and open water, between ocean basins, between the core and its magnetic field, and between the planet and itself.
+§V.1 says that "a biosphere with no Warmte to take, neither what Sol’s Licht leaves there nor the Earth’s own, is a frozen Stilte", and §VI.2 names the Warmte a Winst takes: "Sol’s Licht warming the ground, where none of the ground’s Relaties keeps it". Between the living Octaven and the cosmic one sits the body that makes both of those sentences true: a planet. What this Octaaf reads as one is the planet as a whole. Its Relaties are the bonds that hold a planet together and keep it changing: between the planet and its star, between ice and open water, between ocean basins, between the core and its magnetic field, and between the planet and itself.
 
 ### 0.1 What this document is
 
@@ -329,6 +329,8 @@ On 20 October 2026 this document was aligned with the Speelgoed of that date, wh
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5. The opening and §3.5 quote §V.1's new wording: what Sol’s Licht leaves there.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.3 and §3.4 quote the new wording of Start and Diepte.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one.
 
 ---
 

@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-The Speelgoed describes *why* the universe has structure. The cosmic Octaaf describes *how* that structure forms, holds, and ends at the largest scales. Here the **Lichaam (🖕)** is a *gravitationally bound structure*: a planet's atmosphere, a star, a star cluster, a galaxy, a cluster of galaxies.
+The Speelgoed describes *why* the universe has structure. The cosmic Octaaf describes *how* that structure forms, holds, and ends at the largest scales. What it reads as one is a *gravitationally bound structure*: a planet's atmosphere, a star, a star cluster, a galaxy, a cluster of galaxies.
 
 ### 0.1 What this document is
 
@@ -353,6 +353,8 @@ On 20 October 2026 this entry was aligned with the Speelgoed of that date, which
 On 21 October 2026 the Speelgoed's §VI gained a first section, What a binding holds, so references to its Warmte, Bloei and Doem, Stilte’s Trek and Holding now read §VI.2 to §VI.5. §3.5 quotes §II.2's new wording: a convergence crossing joins Energie to its binding, and a measurement reads the sum of many crossings. §3.6 quotes the Lexicon’s Doem as it now reads.
 
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.2, §3.6 and §3.8 quote the new wording of a gain, the Doem and Diepte.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one.
 
 ---
 

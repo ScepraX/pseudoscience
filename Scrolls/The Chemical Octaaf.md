@@ -8,7 +8,7 @@ By Mark Joseph Antonius Knippenberg / ScepraX.
 
 ## 0. Preface
 
-The Speelgoed's own examples live at this Octaaf. Its Lexicon walks the Atom Octaaf "as Hydrogen to Oxygen", and §V.2 binds the two into Water, then binds Water and hydrogen cyanide into formamide. The Lexicon calls Water "a Relatie of two gases that becomes a liquid of profound Greep". And of its reading of the ladder, §VIII.3 says: "It fits the physics from quarks to Water". This entry tests that stretch. It covers two rungs of §V.2's ladder, the Atom Octaaf and the Molecule Octaaf, because one science covers both. Its **Lichaam (🖕)** is an atom or a molecule. Its Relaties are the bonds between them.
+The Speelgoed's own examples live at this Octaaf. Its Lexicon walks the Atom Octaaf "as Hydrogen to Oxygen", and §V.2 binds the two into Water, then binds Water and hydrogen cyanide into formamide. The Lexicon calls Water "a Relatie of two gases that becomes a liquid of profound Greep". And of its reading of the ladder, §VIII.3 says: "It fits the physics from quarks to Water". This entry tests that stretch. It covers two rungs of §V.2's ladder, the Atom Octaaf and the Molecule Octaaf, because one science covers both. What it reads as one is an atom or a molecule. Its Relaties are the bonds between them.
 
 Chemistry is also the first science that described its bonds in the language of preference. Eighteenth-century chemists ranked substances in tables by their "affinity" for one another (Geoffroy 1718; Bergman 1775), and in 1809 Goethe borrowed that chemistry for a novel about two couples who exchange partners, *Die Wahlverwandtschaften*, "elective affinities" (Goethe 1809). The idea that bonds between people and bonds between substances share a grammar is therefore old. The Speelgoed's claim is narrower and can be tested: one mechanism, with values that each science supplies. Even the word Octaaf has a predecessor in chemistry (§3.7).
 
@@ -329,6 +329,8 @@ On 26 October 2026 the Speelgoed's Lexicon came to have a Masker stand for the t
 On 2 November 2026 the Speelgoed's chapter numbers came to restart in every Schrift, so references to its later Schriften now name them: the former §XIV to §XXVII are *Formal Structure* §I to §XIV, the Octaaf chapters of the Weefsel read *Weefsel*, and De Berg to War read *Mensen en Parasieten*. Its §3.5 and §3.7 quote the new wording of the Masker and of Levelling.
 
 On 8 November 2026 the Speelgoed's Lexicon came to read a Klok's ticks as its looks, so §3.9 quotes that wording.
+
+On 8 November 2026 the Lichaam, gone from the Speelgoed, is gone from this entry too: the Preface names what this Octaaf reads as one.
 
 ---
 
